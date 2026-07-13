@@ -1,0 +1,15 @@
+to lift up his heart in his prayer; to pray spiritually; to withdraw from bodily images; and to think nothing bodily. But since it is not granted to everyone to be able to raise the mind to the invisible God above the understanding, provision must also be made for the weak concerning an easier mode of elevation. Hence he also says: For the weak person meditating or praying, the image of the Lord’s nativity, humanity, and passion or resurrection is more safely set before him, so that in it the mind may be stirred to tears of compunction, in order that the weak soul, which knows nothing except bodily things, may have things by which, according to the measure of its capacity, it may be moved toward divine things. But when through faith, in the form of the mediator, he does not divide God from man, he sometimes reaches God in man. For our Savior, the mediator of God and men, Jesus Christ, is God and man. Therefore let the devout cenobite learn often to ponder the first root of divine knowledge, so that he may be able to raise himself higher through love. For the more perfectly God is known, the more ardently he is loved; and the more he is loved, the better he is praised.
+
+But so that you may always be able freely to raise your heart in prayer [unclear] to the Lord God, learn to love nothing in this world in a singular way. For the heart that is attached to no thing wanders more rarely. For nothing so unburdens the heart and makes it free; nothing so liberally makes it converse before the Lord without constraint; and nothing so quickly and lightly gathers a man back to inward things after various external disturbances, as not to be moved toward anything in all matters and circumstances by any private affection, but to live humbly in all things, resigned to God and to his superiors. Moreover, whatever has been enjoined upon one so disposed for the glory of God and the observance of regular discipline, all this the cenobite sincerely takes up with humble obedience, whether it is agreeable or troublesome. And this firmness of soul, despising both prosperous and adverse things, wonderfully lifts the mind and transforms it into a certain enjoyment of most chaste love.
+
+*At the second signal.*
+
+But when the second signal sounds, the cenobite, now sufficiently gathered back to inward things, should leave his cell with maturity; he should always bless the Lord in his heart; with the wise virgins he should hasten to meet the bridegroom; he should think that he is hearing the signal of the great king.
+
+*On leaving the cell, let him say:*
+
+Protect, Lord, your people by the sign of the holy cross from all the snares of all enemies, so that we may render you pleasing service, and our sacrifice may become acceptable to you. Direct us, Lord, into the way of peace, to the everlasting glory of your name.
+
+*On entering the church, let him say:*
+
+Blessed are those who dwell in your house, Lord; they will praise you forever and ever. Cleanse me, Lord, from every defilement of mind and body, that I

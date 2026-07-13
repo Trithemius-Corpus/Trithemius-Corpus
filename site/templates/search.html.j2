@@ -1,0 +1,72 @@
+{% extends "base.html.j2" %}
+{% block title %}Search &mdash; Trithemius Corpus{% endblock %}
+{% block body %}
+<section>
+  <h2>Search the corpus</h2>
+  <p class="muted">Search across all 47 works &mdash; ~3 million words of English translation,
+  Latin source, and editorial notes. Powered by <a href="https://pagefind.app">Pagefind</a>.</p>
+  <div id="search-ui">
+    <div class="search-input-wrap">
+      <input type="text" id="pagefind-input" placeholder="Search&hellip;" autofocus
+             value="{{ query|default('') }}" aria-label="Search query" class="search-input">
+    </div>
+    <div id="pagefind-results"></div>
+  </div>
+</section>
+<style>
+.search-input-wrap{margin:1rem 0}
+.search-input{width:100%;max-width:36rem;padding:.6rem .8rem;font-size:1rem;
+  border:1px solid var(--gilt-deep,#c9b896);border-radius:4px;
+  background:var(--paper,#f4ecd8);color:var(--ink,#2a2420)}
+#pagefind-results{margin-top:1.5rem}
+.pagefind-ui__result{padding:.8rem 0;border-bottom:1px solid var(--gilt-deep,#e0d5bc)}
+.pagefind-ui__result-title a{color:var(--vermilion,#7a1f1f);font-weight:500;text-decoration:none}
+.pagefind-ui__result-title a:hover{text-decoration:underline}
+.pagefind-ui__result-excerpt{color:var(--ink-muted,#6a5f54);font-size:.88rem;margin-top:.2rem}
+mark{background:rgba(122,31,31,.15);color:inherit;padding:0 .1em;border-radius:2px}
+</style>
+<link href="{{ url('pagefind/pagefind-ui.css') }}" rel="stylesheet">
+{# Pagefind's UI bundle is an IIFE that assigns window.PagefindUI — load it as
+   a CLASSIC script (no type="module") so it also works where ES modules are
+   restricted. The index lives at /pagefind/ (not /static/pagefind/). #}
+<script src="{{ url('pagefind/pagefind-ui.js') }}"></script>
+<script>
+  (function(){
+    var results = document.getElementById('pagefind-results');
+    var input = document.getElementById('pagefind-input');
+
+    // Full-text search uses Pagefind's Web Worker, which browsers block under
+    // the file:// protocol (CORS). Detect that case and explain rather than
+    // fail silently. Search works normally on http(s) / GitHub Pages.
+    if (location.protocol === 'file:') {
+      input.disabled = true;
+      input.placeholder = 'Search unavailable in local file view';
+      results.innerHTML =
+        '<p class="muted">Search is available on the published site.</p>';
+      return;
+    }
+
+    // Wait for PagefindUI to be available (classic script may load after this
+    // inline block in some orderings), then boot the UI.
+    function boot() {
+      if (typeof window.PagefindUI === 'undefined') {
+        return setTimeout(boot, 50);
+      }
+      var params = new URLSearchParams(window.location.search);
+      var query = params.get('q') || '';
+      var ui = new window.PagefindUI({
+        element: '#search-ui',
+        showEmptyFilters: false,
+        translations: { placeholder: 'Search the corpus…' }
+      });
+      if (query) {
+        input.value = query;
+        ui.triggerSearch(query);
+      }
+      input.addEventListener('input', function(e){ ui.triggerSearch(e.target.value); });
+    }
+    boot();
+  })();
+</script>
+</section>
+{% endblock %}

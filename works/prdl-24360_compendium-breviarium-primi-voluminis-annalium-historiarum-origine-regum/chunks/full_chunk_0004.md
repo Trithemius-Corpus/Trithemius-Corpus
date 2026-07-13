@@ -1,0 +1,17 @@
+Maximilian, by the favor of divine clemency elected Emperor of the Romans, ever august, and King of Germany, Hungary, Dalmatia, Croatia, etc., Archduke of Austria, Duke of Burgundy, Brabant, etc., to the honorable and devout John Trithemius, Abbot of St. James the Greater at Würzburg, beloved to us: imperial grace and every good thing.
+
+Since you have humbly explained to us that you have composed various editions of both ancient and modern authors, collected not without great labor, wakefulness, and diligence, which you desired with all your mind to have brought into the light; and since Master Johannes Haselberg of Constance, beloved to us and to the Holy Roman Empire, has offered himself with a most ready mind to be the agent of this matter, and for that reason has procured at great expense the formes by which he may print the aforesaid works: We therefore, desiring that provision be made for the indemnity of the aforesaid Master Johannes and for the adornment of your honor, lest your works, composed by you with great labors and wakefulness, lie hidden as if covered with rust, but rather that they shine forth more and more day by day, have therefore given and granted to the aforesaid Master Johannes Haselberg of Constance full power and authority in every respect, just as by the tenor of these presents we give and grant it.
+
+We decree that he may print, and sell when printed, wherever he pleases and according to his will, whatever of treatises and little works has been published by you, the aforesaid Trithemius, Abbot of St. James the Greater at Würzburg, and has been reviewed and approved by the honorable Conrad Peutinger, doctor and our councillor, faithful and beloved to us. And we forbid all and singular chalcographers and printers of books, of whatever condition, under the penalty written below, strictly commanding them not to dare or presume, throughout the whole Roman Empire and in our hereditary lands, to print, publish, or, when printed by others, publish, buy, and sell such works, or similar ones, for ten years after they have been published by the said Master Johannes.
+
+Moreover, we command all and singular our faithful subjects, and those of the Holy Roman Empire, beloved to us, of whatever estate, condition, dignity, or office they may be, whether ecclesiastical or secular, under the penalty of our most grave indignation and that of the Holy Roman Empire, and of ten marks of pure gold, to be applied, as often as action is taken contrary to this, one part to our fisc and the other part to the aforesaid Master Johannes Haselberg, that they assist the same Master Johannes of Constance with their favor and aid in their places and lands, and not permit the said works and treatises to be printed, or those printed elsewhere to be sold. Rather, they shall immediately declare in our name that all persons presuming to do anything against this our grace and prohibition have incurred the sentence of such indignation of ours and of the Holy Roman Empire, and shall execute our will expressly stated in this matter.
+
+In witness whereof these letters have been furnished with the impression of our seal on the back. Given in our town of Innsbruck on the tenth day of the month of November, in the year of the Lord one thousand five hundred fourteen, in the twenty-ninth year of our Roman reign, and the twenty-fifth of Hungary.
+
+By the king himself.
+
+At the command of the lord Emperor himself.
+
+N. Ziegler,
+
+[unclear], by Paulus Oberstainer.

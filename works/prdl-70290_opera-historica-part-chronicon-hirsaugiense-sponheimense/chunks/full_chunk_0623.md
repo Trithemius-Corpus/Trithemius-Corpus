@@ -1,0 +1,29 @@
+*JOHANNES TRITHEMIUS*
+
+...they brought forward the most holy doctrine of Christ, the promises also of the prophets, and the ordinances of the apostles. But our preachers, in greater number, mingle the purest words of God with Aristotelian and Julian opinions, citing more often the philosophers of the Gentiles than Christ’s apostles. Shame! So celebrated has the authority of the Peripatetics become among the heralds of the word of God that in the chair of Christ Aristotle is more often cited in public than Paul or Peter, the most holy chiefs of the apostles.
+
+What do sermons of such men profit the simple, unlearned people of God, in which everything is introduced for display, but nothing for compunction? Those little harlots and traditions of the Gentiles must be sent back to the schools of the Gymnosophists, so that in the school of Christ nothing be preached except the pure and unstained doctrine of Christ. For whoever first devised this manner of preaching mixed bran with the purest flour.
+
+Turn over, I pray, the sermons of all the holy fathers of old, together with their most celebrated homilies; see whether you find the bran of Gentile philosophers mixed with the flour of Christian purity. Examine, I beseech you, as diligently as possible, the homilies and sermons of Origen, Hippolytus, Cyprian, Hilary, Gregory Nazianzen, Ambrose, Basil, Chrysostom, Jerome, Maximus, Severian, Augustine, Fulgentius, Pope Gregory, Isidore, Bede, Rabanus, Haymo, Peter Damian, Anselm, Bernard, and other most holy ancient fathers: you will find in them nothing other than the true, solid, pure doctrine of Christ, free from all leaven of Gentile traditions. There is not cited there that Peripatetic Aristotle, not the apostate Porphyry, not Plato, not Averroes, not Cicero, nor finally anyone from the remaining troop of the Gentiles, but only Christ Jesus himself, the wisdom of God the Father, and the apostles of that highest truth, the holy patriarchs and prophets.
+
+It is plainly an unworthy kind of teaching, in my judgment, that in the school of Christ, as though for confirmation of the sayings of the Holy Spirit, the names should be heard recited of those whose spirits are without doubt wholly alien from Christ. For the wise men of this world did not know the wisdom of God; therefore in their vanities they shamefully came to nothing. There are otherwise among Christians petty scholars who, presumptuous with excessive rashness, dare to assert that the philosopher Socrates, in life as in death and doctrine, prefigured our Savior, making a comparison of him to Christ that is excessively absurd, insolent, and by no means tolerable to Christian ears, as though he had been alien to the worship of idols, when, as he was already about to die, as Plato records in the Phaedo, he spoke this as the last of his words: “O Crito, we owe a cock to Asclepius; pay it, and do not neglect it.”
+
+But grant that no mortal knows the counsel of the Lord, and that for this reason no certain condemnation of such great men can be brought forward by us, especially of those who preceded the birth in the flesh of Christ our Savior: what necessity drives the preacher of the words of God to mingle, in the holy Church, which is the school of Christians, the words of Gentile philosophers ignorant of Christ with the doctrine of the highest truth, when sacred Scripture is abundantly sufficient for us for the instruction of the Christian life, and there is no need to borrow anything from elsewhere? Every preacher is foolish if he thinks the doctrine of Christ must be adorned with the sayings of Gentile philosophers; concerning it the holy prophet sang, saying: “The law of the Lord is undefiled, converting souls; the testimony of the Lord is faithful, giving wisdom to little ones.” And again: “The words of the Lord are pure words, silver tried by fire, proved in the earth, purified sevenfold.” Our Lord Jesus Christ himself also says in the Gospel according to John: “The words that I have spoken to you are spirit and life.” What agreement, then, has death with life, or what comparison has light with darkness? If the words of Christ are spirit and life, surely the words of those dead outside the Lord must not be mixed with them.
+
+But hear what Firmianus Lactantius says: “Divine instruction,” he says, “does not require dialectic, in which the whole method of speaking is contained, because wisdom is not in the tongue but in the heart; nor does it matter what manner of speech you use, where things are sought, not words. And we are disputing not about the grammarian or the orator, whose knowledge is how it is fitting to speak, but about the wise man, whose teaching is how one ought to live. But if neither that physical reasoning is necessary, nor, besides this, logical reasoning, because they cannot make one blessed, it remains that the whole force of philosophy is contained in ethics alone, to which Socrates is said to have turned after casting all other things aside; yet in this part too the philosophers erred, because they did not comprehend the highest good, for the sake of desiring which they were born.”
+
+It is therefore evident that all the philosophy of the Gentiles is false and empty, and for that reason must by no means be mixed with the sacred teachings of Christ, because it neither instructs in the duties of righteousness nor confirms the office and principles of man. But the office of a preacher established in the Church of God is faithfully to set before the people the law and doctrine of Jesus Christ the Savior, to impress compunction and devotion upon the minds of the hearers, and them to righteousness
+
+*Aristotelian preachers.*
+
+*1 Corinthians 1.*
+
+*Socrates is impiously compared with Christ.*
+
+*Psalm [unclear].*
+
+*Psalm [unclear].*
+
+*John 6.*
+
+*The law and the Gospel ought to be set before the people.*

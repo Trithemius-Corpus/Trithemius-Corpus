@@ -1,0 +1,19 @@
+to entrust to care: only when something occurs that you cannot safely make known to him either by letters or by messengers. For those things that we can make known without danger either by letters or by messengers, we must by no means make known through the ministry of spirits. But whoever shall try to summon spirits for light matters and secrets that can be made known without danger by letters or messengers will without doubt bring back loss and disadvantage, with danger.
+
+*The tenor of the letter, as one pleases.*
+
+To the venerable father in Christ, steward of the Lympurgenses, the religious lord called Johannes Weißdorffen, John Ouilis, humble abbot of Spanheim, joy of the heavens.
+
+The nuns of Saint Rupert desire you with exceeding eagerness as their governor, and humbly ask you in goodwill to undertake the governance of the temporal affairs of that monastery. To serve the devout virgins of Christ is praiseworthy and meritorious. You have, in spiritual affairs of the same convent, an excellent and most renowned visitor, who embraces you with the greatest honor: grave in conduct, adorned with virtues, cautious in counsel, beloved by all, well reputed in the life of monastic religion, and notable to all men; and such a life is deservedly most pleasing to Christ: the excellent abbot of the monastery of Saint John. He is most learned, most studious, and most skilled in the writings both of Christians and of pagans, and he notably far surpasses the wisdom of all men. He knows very well how to govern the flock entrusted to him, and he is a very zealous guardian of the virgins of Christ, whose cloister he preserves most firmly. Do not fear to serve such honorable nuns under him, who knows how to govern the brides of Christ according to the monastic law with the best discretion. By the virtue and zeal of the Christian faith he will gladly come to your aid in necessity. Since you have this man, so famous and kindly, as an intimate friend, I profess that you should gladly assume the helm of so religious virgins. Christ will reward your labor with eternal joys. May the Bridegroom, protector, and most kindly rewarder of the nuns grant you, with good zeal, to strive after better things. Farewell. From Spanheim, 15 Kalends of May, in the year 1500.
+
+When you have received letters marked with the Iesischa character, the person to whom they are sent, being skilled in the art, should first observe the lord of the ascendant of that hour with the whole figure of the sky, and should describe it on a clean sheet, and on its back the prescribed conjuration. When, after first doing what must be done beforehand, he has said it, and has seen the spirits sent to him standing present before him, let him say thus to the more powerful one in order: chamerusin aphroys aslotiel mean reneas vear tryamo cralti penason. When these words have duly been spoken to the principal spirit, he will approach nearer and will reveal in his ear the secret entrusted to him.
+
+*CHAPTER XVII.*
+
+*WHOSE HOUR IS CALLED SANAYFAR, AND its angel, the supreme emperor, is called Abasdarhon, who has under his dominion dukes, counts, and many servants.*
+
+[unclear]
+
+The fifth hour of the night is called Sanayfar, whose first angel, the supreme emperor, is called Abasdarhon, who has under his dominion many princes, dukes, counts, and ministerials, by orders and twelve divisions, whom he is accustomed to send, like those of the former arts of experiments, to operators duly instructed. In the first order there are 10, in the second 20, in the third 30, in the fourth 40, in the fifth 50, in the sixth 60, in the seventh 70, in the eighth 80, in the ninth 90, in the tenth 100, in the eleventh 1000, in the twelfth 100000. And through these every operation of Steganography is performed in the fifth hour of the night.
+
+Meniel

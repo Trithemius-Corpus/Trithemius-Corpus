@@ -1,0 +1,25 @@
+*116. JOHANNES TRITHEMIUS.*
+
+WILLIAM, duke of Bavaria, son of Albert, son of the aforesaid emperor Ludwig, made—for [his] portion of the paternal inheritance—count of Hainaut, Holland, Zeeland, and Friesland, left no male seed, but had one daughter by name Jacoba [Jacqueline], who first married the Dauphin of France, afterward the duke of Brabant, then the brother of the king of England, [and] lastly a certain noble called Francken. This William, his father being dead, possessed by hereditary right the county of Hainaut [and] Holland [and] the lordship of Friesland.
+
+This William, duke of Bavaria, died, no son being left, in the year of the Lord [MCCCCXVII?]; after whom John, bishop-elect of Liège, his brother, the daughter of [his] brother, Jacoba, being repulsed, acquired his lordship with the blood of many.
+
+ALBERT, duke of Bavaria, son of Albert duke at Straubing, son of the emperor Ludwig, brother of the aforesaid William, a brave man, young, fair of face, who after [his] father's death obtained among his brothers Straubing with the adjacent castles, villages, [and] properties. He had no wife; he died without sons; he was buried in the middle of the choir of the Carmelite brothers at Straubing.
+
+JOHN, duke of Bavaria, son of Albert the duke, son of the emperor Ludwig, brother of the aforesaid princes William [and] Albert, was for a long time bishop-elect of the church of Liège. He, after many years—his brother William having died—obtained the county of Hainaut [and] Holland with the rest of his lordships, Jacoba his brother's daughter protesting. Hoping to have himself [as] the legitimate possessor of his inheritance, a dispensation of the Council of Constance having been obtained, he married the daughter of John, duke of Jülich, [kinsman] of the brothers of the emperor Sigismund, from whom he received no legitimate heir. In the year of the Lord 1408.
+
+This John, duke of Bavaria, still bearing himself as bishop-elect of the church of Liège, is besieged by the Liège-men, set in Maastricht, to whose aid run his aforesaid brother William, [and] John duke of Burgundy, son of his sister, with two thousand. The battle being joined, John [and] William were made victors; they laid low more than twenty-five thousand of the Liège-men. But of their own army only ten are reported to have fallen.
+
+In the year of the Lord 1415, the aforesaid John, duke of Bavaria, count in Hainaut, Holland, [and] Zeeland, lord in Friesland, perished by poison, by the treachery of a certain official of his, whom they call Master of the solemn court. But he being dead, John duke of Burgundy, son of his sister—Jacoba, daughter of the aforesaid duke William (who was the legitimate heir), contradicting—powerfully obtained the county of Hainaut, Holland, Zeeland, [and] the lordship in Friesland; thus this princedom was taken away from the dukes of the house of Bavaria.
+
+RUPERT, count Palatine of the Rhine, duke of Bavaria, king of the Romans, son of the most illustrious prince Rupert (of whom it is spoken above), a powerful, just man, merciful to the poor, had as wife Margaret, daughter of the Burgrave of Nuremberg, who bore him six sons [and] three daughters: Rupert called the Pious, Frederick of Amberg, Ludwig the Bearded the prince-elector, John of Neumarkt, Stephen of Zweibrücken, Otto of Mosbach, Agnes, Margaret, [and] Elizabeth. Of these princes we shall speak afterward.
+
+In the year of the Lord 1400, about the feast of the Assumption of Blessed Mary ever-Virgin, the princes meeting together at Frankfurt, Wenceslaus being deposed, the aforesaid Rupert, count Palatine of the Rhine, duke of Bavaria, was elected king of the Romans; he reigned ten years.
+
+This duke Rupert, a magnificent king, led an army into Bohemia against Wenceslaus, and inflicted many evils on the Bohemian people, both by iron and by fire, and brought back to the dukes of Bavaria some castles and lordships of Bavaria possessed by them. He did also many other magnificent things, which we cannot relate in this place. He dies at Oppenheim, in the year of the Lord 1410, the 18th day of the month of May; he is buried at Heidelberg, in the church of the Holy Spirit (which he himself built), with [his] wife.
+
+Consequently I shall first continue the order of the generation of the dukes of Bavaria descending from the emperor Ludwig, and then I shall add the sons of king Rupert, the counts Palatine of the Rhine.
+
+LUDWIG, duke of Bavaria, son of Stephen duke at Ingolstadt, brother of John bishop of Regensburg [and] of Elizabeth queen of France, count at Mortain, had a wife by name Anna, sister of [the king] of Cyprus, who bore him a son Ludwig, who was called Hogel, who as a boy was carried in a basket from Paris into Bavaria. But his mother Anna, dying, was buried at the Preachers in the city of Paris.
+
+This Ludwig, duke of Bavaria, count of Mortain, [brought] those precious images of our Savior Jesus Christ, of holy Mary, [and] of the twelve Apostles, which today are with the duke [of Bavaria]…

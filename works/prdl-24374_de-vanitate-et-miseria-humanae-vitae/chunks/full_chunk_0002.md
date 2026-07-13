@@ -1,0 +1,1 @@
+<!-- removed: source digitization boilerplate (segment 2 was a degenerate OCR-model hallucination — a fabricated 1568 Dutch legal document about an Amsterdam 'schout', anachronistic for this 1495 Mainz incunable by an author who died in 1516; no genuine Trithemius text) -->

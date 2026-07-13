@@ -1,0 +1,23 @@
+when [unclear] has been exacted, they shall make and append it. The visitors and those coming to the provincial chapter shall not have more than twelve mounts. We further will that none of the visitors shall dare to bring with him more than twelve mounts; and we will that the same be observed concerning those coming to the chapter. But if they do the contrary, beyond the amount that they have spent, they shall be bound to pay it, to be placed in the common chest for the use of the aforesaid chapter within a month; but if they do not do so, they shall be condemned in double, as determined by the presidents, in the next chapter, no remission in this matter being of any benefit to them.
+
+*Concerning the appointment of the presidents, if it should happen that any one of them dies before [the chapter?] to be celebrated.* We therefore keep silent about the names of the presidents for the chapter to be celebrated in the future, so that, if it should happen that any one or more of them should close his last day, the successor in the dignity of the abbacy shall likewise succeed in the presidency. We will that the same be understood concerning the preacher and the one who is to celebrate the Mass, and concerning each of the visitors of the whole aforesaid province and diocese.
+
+*That mendicants are not to be received into our order without apostolic authority or sufficient license.* It has come to our hearing that certain abbots, or others presiding in monasteries of the said order, have received and incorporated mendicants as monks, even without the license of their superiors; and, what is worse, that they afterwards permit them to wander, to the detriment of their souls and to the scandal of very many. We forbid them to presume such things henceforth; and those whom they have already received by apostolic authority or sufficient license they shall be bound to keep as much as they can, and others wandering outside the monasteries they shall be bound, at least within a year, to recall to the monastery; otherwise, if they have not exercised diligence in this matter, they shall incur sentences of suspension.
+
+*That these statutes be published to all subject to the provincial chapter, and twice in the year, together with the constitutions of blessed Pope [Benedict XII?].* That the aforesaid may be read publicly through all places of the order of the aforesaid province and diocese, and may be better observed, we ordain that within a year, or at least one month before the future chapter, every abbot shall be bound to hold and complete a general chapter, if he has any subjects outside his monastery, in which the aforesaid statutes shall be published. We nevertheless will that they be read distinctly twice in the year, in the daily chapter, so that no one may be able to plead the cause of ignorance, together with the constitution of Benedict.
+
+*The second chapter was celebrated at Mainz among the Augustinians, in the year of the Lord 1418.*
+
+In the year of the Lord 1418, in the eleventh indiction, on the first day of the month of September, in the pontificate of the lord Pope Martin V, the second provincial chapter was celebrated at Mainz in the monastery of the Brothers Hermits of Saint Augustine, since it could not be celebrated at Saint Alban’s, where it had been placed in the preceding year, because of the transfer from the order that was then being conducted. In it there presided the venerable fathers, the lord abbots of Fulda, Kempten, Saint Ulrich at Augsburg, and Reinhardsbrunn.
+
+*Concerning the statutes.*
+
+In this second provincial chapter few statutes were newly issued; rather, all and each of the old statutes of the preceding chapter were approved and repeated word for word. It is not necessary to set them down here again, since they have once been set down above. Yet I shall briefly make mention after them of those things which above were not marked or established. For I judge that the new things should precede in this place.
+
+*We further ordain. Concerning the spoils of benefices.*
+
+That abbots and others to whom by custom, statute, or privilege it belongs to receive the spoils of benefices subject to them, when receiving them, shall observe constitution 11. But if they have gravely exceeded in this, they shall be punished by the visitors, even beyond the penalties contained in it, which they may have power to impose.
+
+*Concerning the statutes of the preceding chapter, here repeated.*
+
+Finally, as I said before, all the statutes issued in the preceding chapter were here renewed and repeated word for word, namely: [unclear] discipline [unclear].

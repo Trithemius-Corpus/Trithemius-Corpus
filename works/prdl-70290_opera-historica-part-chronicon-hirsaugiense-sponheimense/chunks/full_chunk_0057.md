@@ -1,0 +1,31 @@
+*Chronicle of Johannes Trithemius.*
+
+By common counsel, before they were separated from one another, they chose an abbot; yet he could by no means come into possession of the monastery. *They choose the [Albasian?], but he does not reach the monastery.* For, dispersed over all the land, they everywhere disclosed to all the injuries they were suffering; but there was no one who either wished, or even could, bring aid against such a tyrant.
+
+Meanwhile, while they were wandering from monastery to monastery, and each settled where he could maintain himself, after some years, when those two monks also who had been permitted to remain in the monastery had died or been expelled, I do not know for certain, secular clerics were ordered to inhabit the monastery. *Secular clerics inhabit the monastery.*
+
+And so from that time until Count Adelbert, of whom we shall speak in his own place, the monastery of St. Aurelius stood empty, and became a dwelling of clerics and a brothel of whores. Meanwhile, if anything remained that the count and the other thieves had not carried off, the clerics, consuming it little by little upon their concubines and whores, reduced it to nothing, so that they could not even spare the books, of which a huge quantity had been collected there through the diligence of the ancient monks, whom we have shown above to have been most learned. *The notable library of this monastery.*
+
+For since at that time, when the craft of printing books was not yet in use, volumes were sold at a higher price, those unlearned scoundrels in a few years [unclear] that most precious treasure of the library. From the fact that from the first foundation, for almost 180 years, many most learned men flourished in that same monastery, succeeding one another in order, as is very clear from what has been said above, we can most especially infer how precious, and heaped up with many volumes, that library was. [unclear] succeeding one another, not only Hirsau in that time [unclear], which they adorned by their learning, left after them a very great and precious treasure of books in the library of this monastery. But when all these had been sold and scattered by the clerics, [unclear], shamefully consuming them upon their concubines and whores, within a few years they brought the monastery, by neglecting the repair of walls and roofs, into utter ruin. *The clerics consumed [unclear].*
+
+It therefore remains fixed with me, firmly concluded beyond all doubt, that [unclear] without books, or for the adornment of the library, which every learned man especially loves, added nothing by writing in his own time. Rain fell upon the most holy altars of the church; cattle were received as stables within the walls of the cloister; everything seemed to be hastening utterly toward desolation. The count not only did not prevent these things, but even rejoiced greatly that they were happening, since he saw that by them the name and place of the monastery would soon be reduced to nothing, according to his desire. *The monastery is laid waste.*
+
+But we, intending to carry the sequence of years from here down to the restoration of the monastery of Hirsau, since we do not have [unclear] Cunigund, with whom, because of love of chastity, [unclear] was assumed to the empire by election, as we have said, had as wife the daughter of Sigifrid, count palatine of the Rhine, named [unclear], in those things which we have undertaken to touch upon, either concerning our order or concerning deeds in Germany, [unclear], as we hasten toward the future shepherd of the place. For it would be tedious to write for a long time without a guide; let us therefore assign, very briefly, the events that present themselves in the years while the monastery was vacant, even by leaps, as is usual, so that the promised integrity may not be wanting to the history itself.
+
+*St. Henry the Emperor observes chastity with Cunigund.*
+
+Accordingly, in the first year while the monastery was vacant, Henry, count of Bamberg, as we said above, was assumed to the empire by election. He had as wife Cunigund, daughter of Sigifrid, count palatine of the Rhine; with her, because of love of chastity, [unclear].
+
+*The bishopric of Bamberg is founded.*
+
+[He founded] [unclear] with the counts palatine of the Rhine, to which he appointed Eberhard as first bishop, and [unclear].
+
+*The monastery on Mount [Ma-] of monks is founded.*
+
+[unclear]
+
+*The monastery of Schuttern is restored.*
+
+[He founded it] by repairing it when it was ruinous from extreme age; he repaired it by founding it. It is called from a little river [unclear]. For the sustenance of the monks he provided quite abundantly for necessary things. The monks who dwell in this monastery report concerning it that in 603, when Theodoric, king of the Franks, was waging war with Theodebert and Lothar, inflamed with love of the heavenly fatherland, [unclear] visited the thresholds of the Apostles; then, departing through Alsace, [unclear].
+
+[unclear] the patrician, inflamed, visited the thresholds of the Apostolic court, and thence through Alsace to the departure of his [unclear]. And this is the history of the Monastery of St. Gall. Because lord Henry, who was king of the Germans, and his successor Sigifrid, who was emperor, and his successor Cunigund, who was queen, and his successor Giselbert, who was abbot palatine, and his successor Arnulf, who was archbishop of the diocese of [Terginensis?], and his successor Eberhard, who was bishop of the diocese of [Augiensis?], and his successor Conrad, who was [unclear] the monastery of St. Gall, which was in the region of [Arduingensis?], and his successor William, who was master of soldiers, and his successor Otto, who was king of the Franks, and the successor of that Otto, who was Pope Gregory III, and his successor Paschal, who was pope, and his successor Boniface, who was apostle, and his successor Clement, who was pontiff, and his successor Paul, who was patriarch of Constantinople, and his successor Simon, who was patriarch of Antioch, and his successor Theophanus, who was patriarch of Alexandria, and his successor Michael, who was patriarch [unclear], and his successor Innocent, who was patriarch of Antioch. And this is the history of the Monastery of St. Claren

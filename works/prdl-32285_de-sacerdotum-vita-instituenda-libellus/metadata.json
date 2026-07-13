@@ -1,0 +1,46 @@
+{
+  "id": "prdl-32285_de-sacerdotum-vita-instituenda-libellus",
+  "title": "De Sacerdotum Vita Instituenda Libellus",
+  "year": "1577",
+  "source_year": "1577",
+  "year_note": null,
+  "edition_info": "Brixinae, 1577 (BSB)",
+  "edition_info_raw": "( Brixinae , 1577 ) BSB",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 133,
+  "genre_cluster": "sacerdotal",
+  "tier": "S",
+  "faithful_adj": 4.96,
+  "fluent_adj": 4.96,
+  "coverage_pct": 100.0,
+  "chunks_graded": 23,
+  "chunks_total": 23,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "minimax",
+    "minimax-v2",
+    "opus-sweep",
+    "public"
+  ],
+  "source": {
+    "provider": "BSB",
+    "url": "http://daten.digitale-sammlungen.de/bsb00036373/image_1",
+    "download_url": "http://download.digitale-sammlungen.de/BOOKS/pdf_download.pl?id=bsb00036373",
+    "prdl_id": "32285"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 23,
+    "n_missing_segments": 0,
+    "latin_source_file": "churro_full.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-32285_de-sacerdotum-vita-instituenda-libellus_parallel.html"
+  }
+}

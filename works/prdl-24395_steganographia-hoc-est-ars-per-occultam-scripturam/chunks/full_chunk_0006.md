@@ -1,0 +1,21 @@
+*Of Steganography*
+
+[unclear] and of the Son, the Holy Spirit. Then, however, let him write in it whatever simple, open narrative he wishes, which all who read it may understand, in Latin, in his native tongue, or in any other language. But when he has sat down to write facing the East, let him compel the spirits thus: Pamerfiel oshurmy delmuson Thaftoyn peano charustea melany, lyaminto colchan, paroys, madyn, moerlay, bulre† atloor don melcoue peloin, ibutsyl meon mysbreath alini driaco person. Crisolnay, lemon asosle mydar, icoriel pean thalmō, asophiel il notreon banyel ocrimos esteuor naelma besro, nathaomor fronian beldodrayn bon otalmesgo mero fas el-nathyn bosramoth. When he has said these things, and the spirits seem to him to be present for obedience, let him continue the work begun. But if they have not yet appeared, let him repeat what has now been said so many times until they appear; or let him break off entirely, lest, being too greatly compelled, they harm the operator. But when you have completed the letters, send them as intended with a messenger to a friend approved in the art; when he has received them, let him say this conjuration: Lamarton anoyr bulon madriel traschon ebrasothea panthenon nabrułges Camery itras-bier rubanthy nadres Calmosi ormenulan, ytules demyrabion hamorphyn. When these things have been said, he will soon understand your mind perfectly, the spirits now offering themselves of their own accord to those calling, so that very often others who are present are able to perceive the secret of the sender. But observe that in all letters which you send written by this art you imprint your own sign, so that the one to whom you write may know through which spirits you have operated. For if he himself were to operate through some spirits for understanding, but through others for sending, they would never obey him for all eternity, but for the improper operation would injure him and would by no means reveal your secret. For all the spirits whom we use in this art keep only the ranks and duties committed to them; they by no means meddle with others. Consider carefully all that we have said in this chapter; you will more easily be able to understand what we are going to say in the following ones. And so that
+
+*The Second Book.*
+
+And so that we may prove by example the things which we have said, let us set out our intention in the vernacular language, which we shall accordingly make known to a friend in the manner stated before.
+
+*Let this be the secret intention of mind of some prince, which he desires his absent vassal to know.*
+
+Roth.
+
+Dear faithful one, we intend, for proper cause, to make war on those of Strasbourg and to attack them with our whole force on the next Wednesday after Vitus and Modestus. Therefore it is our earnest desire of you, as you are bound to us by oath and vow and obligated to faithful services, that on that same day, well equipped according to your ability, you appear at four after midday near Strauffenburg in the forest. (Here the letters were placed thus.) You would find further instruction there, to follow and not fail to appear. We will acknowledge this graciously toward you, and keep this plan of ours with you in high secrecy.
+
+*For making this secret known*
+
+To the vassal, with the fuller intention of the sender, let it be written thus, or in another manner:
+
+Roth.
+
+Almighty, everlasting God, who created all things out of nothing, have mercy on us through the most bitter passion on the cross of your only-begotten Son as he died, who, conceived of the Holy Spirit without male intercourse, was born of the most pure ever-Virgin Mary, and, handing himself over voluntarily to death for us, by his most holy blood, dying, freed our souls from death. Hear us wretches, O most merciful Father, and through the outpouring of the most sacred blood of the same your sweetest Son, our Lord Jesus Christ, forgive us our sins and pour your grace into our hearts, so that, loving you in all things and above all things with sincere fervor, henceforth we may love nothing earthly against your commandments, and seek nothing perishable. For you are the Lord our God, who from the beginning created us in your image and likeness when we did not exist; and through your beloved Son

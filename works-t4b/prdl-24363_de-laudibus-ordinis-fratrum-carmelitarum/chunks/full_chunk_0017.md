@@ -1,0 +1,21 @@
+--- Page 038 ---
+
+in the times of Pope Adrian I, in the year of the Lord’s most holy birth of Christ 770.
+
+Cyril, another priest of Mount Carmel, the third prior general in order, a learned and devout man and illuminated by the spirit of prophecy, wrote certain little works of his talent, among which are said to be several letters to various persons, and certain revelations to Abbot Joachim. Also the Angelic Table, which he is said to have received from the hands of an angel. He is said to have written some other things, which have not come to my knowledge. He flourished in the times of Emperor Henry VI and Pope Innocent III, in the year of the Lord 1200. Those who think these two Cyrils were one man are mistaken, since neither the time nor the order of events agrees for them. For it is certain that the first flourished under Theodosius at the Council of Ephesus, and this one under Henry VI, as we have said.
+
+Nicholas the Frenchman, the seventh prior general of the whole order, a learned and devout man and singularly beloved by God, after he had governed the order vigorously for some years, renounced his office and returned to the hermitage of monastic life. Among other things he wrote a distinguished volume which he entitled The Fiery Arrow, in which he laments with many groans the pitiable condition of his order. He flourished in the year of the Lord 1270.
+
+Libertus of Trapani, provincial prior of Sicily, a man devoted to and most learned in the divine Scriptures, also devout in life and conduct, and while still living shining with miracles, is said to have written many useful works for the edification of the brothers; yet these have not come into our hands. He died in the city of Messina in the year of the Lord 1292, indiction 5, on the seventh day before the Nones of August, glorious in signs.
+
+William of Sanvico, a singular ornament of the Carmelite order, a most learned man and distinguished professor of sacred theology, French by nation, wrote fine and suitable volumes for the edification of the simple brothers, among which the following are reported: On the Sentences, four books.
+
+--- Page 039 ---
+
+A Chronicle on the Multiplication of His Order, one book. Declarations of His Rule, one book. Decretals of Religious, one book. He is also said to have written some other things, which nevertheless have not come to my knowledge. He flourished in the times of Emperor Rudolf, in the year 1280.
+
+Gerard of Bologna, the eleventh prior general of the whole order, a Parisian doctor of sacred Scripture, subtle in intellect and a very celebrated lover and ruler of his order, wrote many excellent volumes, by which he commended his memory to posterity. On the Sentences, four books. Many and various quodlibets, one book. Also Questions, one book. Various Sermons, two books. He began a notable Summa of Theology, which, overtaken by death, he could not finish. At last he died and was buried at Avignon, in the year of the Lord 1317, indiction 15, and in the thirty-first year of his generalate.
+
+Albert of Beka, German by nation, a man very learned in the divine Scriptures, a doctor celebrated in the opinion and praise of all, and a most devout cultivator of his order, wrote certain excellent little works for the edification of the brothers, among which these are reported: On the Sentences, seven books. On the Censures of the New Law, one book. Considerations on the Rule of His Order, one book. He corrected the Ordinal of the Lord’s Sepulcher, which was decreed to be observed throughout the whole order. He also published some other things, which have not come to my knowledge. He flourished under Emperor Henry VII, in the year of the Lord 1310.
+
+Guy of Perpignan, Catalan by nation, the twelfth prior general, then bishop of Majorca and afterward of Elne, a man most learned in the divine Scriptures, acute in intellect, profound in knowledge, scholastic in speech, who was held in honor and reverence by Pope John XXII, wrote many excellent volumes, by which he commended his name to posterity. Among these the following are reported: to Pope John XXII, a distinguished tripartite work On the Perfection of the Catholic Life, three books. On the Sentences, seven books. Six Quodlibets, one book. Various ordinary disputed Questions, one book.

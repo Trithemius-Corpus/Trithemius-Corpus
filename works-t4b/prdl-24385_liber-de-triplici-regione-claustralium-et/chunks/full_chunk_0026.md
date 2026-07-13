@@ -1,0 +1,21 @@
+--- Page 061 ---
+
+in which he cannot persevere steadfastly if he disdains to put on the strongest arms of vigor. Therefore, if you desire to subject all your affections to the spirit, if you wish to fight successfully against the vices of the flesh, take care to make for yourself a most prudent violence, and to arm yourself bravely against all things.
+
+Next, a certain holy severity is set before you to assume, through which all contrary and adverse things of this world are borne as virtually nothing. For whoever has once truly assumed this benign severity of spirit for the love of God and the desire of heaven will from then on fear no adversities of the flesh, but will be so inwardly suffused with contemplation of divine reward that he will seem to take more delight in adversities than in prosperous things that befall him.
+
+But severity is by no means pleasing to the weaker unless it has been somewhat tempered by the sweetness of benignity. Therefore, in consequence, that benignity also must be assumed by the soldier, so that when, tempted or even wounded in battle through the weakness of the flesh, he sometimes falters, he may soon rise again through penitence to fight more bravely. For the soldier of Christ, if he has fallen in battle, must rise again through contrition and the other remedies of penitence, as often as he is about to fight again, until at last, by God's mercy, he can overcome the adversary. If the just man falls seven times in a day and rises again, how shall the sinner, now penitent, not hope for pardon? Rise again to fight, O soldiers, as often as you have fallen when the adversary has prevailed. Always renew the campaign more bravely from the beginning, so that by perseverance you may at last overcome the enemy whom you cannot succeed in destroying by strength. Do not despair of victory, O faithful cenobite, because, often conquered by temptation, you have fallen into the snare of vice. Do not lie prostrate for long because you feel yourself weak, but rise again at once as often as you have fallen, and trust that you have a merciful Lord, by whose help you will at last be victorious against the adversary. For no one becomes supreme all at once, nor is victory over the enemy granted immediately to inexperienced soldiers, lest, to their ruin, they be cast heavily into pride.
+
+--- Page 062 ---
+
+A possession acquired with difficulty is always dearer, and the good that is acquired laboriously is guarded with greater diligence. For so long does the loving Father, God, permit us, conquered by the adversary's temptations, to fall at intervals into the pit of sin, until, conscious of our weakness, we learn to hope in no powers of our own, but only in his grace. But you, man, who have often broken your resolution by sinning, never delay to rise again; for even if you cannot perfectly subject the enemy to yourself, it will nevertheless be good for you if the last day can find you standing and fighting, even after often repeated ruin. Yet this counsel does not release those to whom God's mercy has granted virtue and grace for defeating the adversary. Nevertheless, let him who stands take care lest he fall.
+
+On The Reform Of The Works Of The First Region
+
+Article 2.
+
+Now indeed, as we taught at the end of the first treatise, this middle region borders on the lowest region from its lowest part; if the cenobite is at all negligent and more remiss in it, he at once falls back again, without any middle ground, into the former region. Therefore whoever desires to advance and remain in this region should always, with attentive vigilance, be zealous to reform the works of the lowest region. And, lest we be prolix, whoever desires to exercise this reform in himself should assume, in this region, works contrary to the first eight articles. For, as is taught by the tradition of physicians, opposites are cured by opposites.
+
+Therefore the faithful monks who are citizens of this middle region are first commanded to consider this: that one should strive to order himself toward God before all things. This ordering is said to be done well if God is loved with the whole heart, according to the law, above all things.
+
+Next, the devout cenobite should understand himself as ordered toward his prelate

@@ -1,0 +1,23 @@
+--- Page 052 ---
+
+...the inner garment reproves. Truly, fathers, this disparity of morals and habits gravely offends the provincial chapter, which is known to have been instituted for this reason: that equality of life might be preserved before all. For outward discord is a sign of inward discord. Therefore, so that we may be of one mind in the observance of regular discipline, let us strive first to be conformable in habit and tonsure.
+
+How necessary a diligent reform of the monasteries in our province would be. Chapter IX.
+
+How necessary a diligent reform of the monasteries in our province may be, you yourselves know, fathers, since you are not ignorant of the condition of the monks of this time. It is newly known to you with what great labors, expenses, and sweats the fathers once reformed our order; of these efforts we find few and weak monuments in our age.
+
+Among all the reforms of our order in our province, three have most recently shone forth above the rest: namely the Castellan reform, taking its name from Castell; the Melk reform, from Melk; and the Bursfelde reform, from Bursfelde. All of these, just as they were fervent in the beginning, so by gradually growing lukewarm they are drawing near to an end. For the first two, as if worn out by age, have been contracted into a small number. The last, however, which is also later, because it is still younger, seems also to be more constant. Yet even it now seems in some of its members to be growing lukewarm and to be declining again into the laxity of its earlier life.
+
+So once the Cluniac reform, known throughout the whole world, when it spread itself far and wide, gradually failed, as though its strength had been lost through its expansion. For it is said in a proverb: Everything that grows old is near destruction. For any reform, however celebrated or holy it may have been, unless it is often renewed by the diligence of the fathers, gradually vanishes. For the more it grows in extent, the more it is diminished in fervor. For when those had passed away who showed zeal for the order in their works, new abbots arose after them who, neglecting the holy fervor of reform, fell back into their former deformities.
+
+--- Page 053 ---
+
+And, to touch upon things nearer at hand: where is that reform which Nicholas of Cusa, cardinal and legate, began with incredible zeal? Where are those terrible oaths of all the abbots of our province, by which they bound themselves to regular observance in the hands of that same cardinal, before the altar of Saint Stephen at Wurzburg? Where is the promised regular observance? Behold, fathers, you have one hundred twenty-seven abbeys under your chapter; of these, from the three observances already mentioned, scarcely seventy have remained under reform.
+
+Yet there are, I do not doubt, some who think themselves excellently reformed, but their conduct denies it. Would that the abbots paid attention to the warning of our holy lawgiver, repeated so often, by which he says that the governance of souls is subject to the strictest accounting. Would that they drove the sheep entrusted to them to the pastures of heavenly life, lest they themselves perish eternally with the sheep.
+
+Look at the conduct, both of abbots and of monks, smoking all around without the law of monastic honesty; of this, though known to me, I am ashamed to speak, and you, most reverend fathers, would be horrified to hear. For they care no more for the three vows of religion, which because of their excellence are called substantial, than if they had never promised to observe them. They confound everything, profane everything, presume everything.
+
+If we look to divine worship, they perform it so confusedly, so disorderly, so dissolutely, that neither the words give forth sense nor the melody its proper tone. For they are without all learning in the good arts, so that they understand absolutely nothing of what they sing. Hence it happens that, without affection, without devotion, without the savor of inward sweetness, they do not so much discharge the canonical hours as confound them.
+
+In their hands the book of divine Scripture is never seen. The practice of edifying speech is never taken up. No account is ever taken of the formation of morals. The whole day is consumed in obscene rumors. All time is enslaved to games and banquets. No mention is ever made of reform. The rage of those who are at discord with one another rages, and among the cloaks, peace broken, the monastery joins insane quarrels, the law held in contempt. There the spear and the sword are ready, so that one would not believe it a monastery...

@@ -1,0 +1,27 @@
+*Sponheim.*
+
+In the same year also the residence of a secular priesthood was established in Bockenau by Peter, archpriest of Sponheim, with Lord Philip, abbot, and the convent of this monastery consenting; the collation of this benefice belongs to the abbot, as appears in the letters whose date is the year of the Lord 1358, on the Sunday next before the feast of Philip and James.
+
+*The Mass at Bockenau is established.*
+
+1359.
+
+In this year Philip, abbot of this monastery, obtained from Lord Walram, count in Sponheim, complete freedom from every service, impost, and exaction for our courts and goods in the marches of the villages of Sponheim, Rudesheim, and Bockenau, for one thousand florins, which he gave to the same count in one sum, as appears in the letters of the same freedom, secured by the seal of the aforesaid count and of Elizabeth his wife; their date is in the year of the Lord 1360, on the day of St Martin. And to this day we possess peaceful possession of this freedom, in all the aforesaid courts, just as it was granted.
+
+*Our courts in Sponheim, Rudesheim, and Bockenau are granted freedom.*
+
+In the same year Philip, bishop of Châlons, and legate and nuncio of the sacrosanct Apostolic See, being established in the city of Mainz, caused Philip the abbot, Peter the prior, and the senior monks of the convent of this monastery to be summoned to him at Mainz; and, after a diligent inquiry had been made into their state, both spiritual and temporal, when he had learned by the testimony of many that they had failed in both, he appointed for them a manner of living henceforth in holy conduct, first enjoining and commanding that all the monks of this monastery, both those then present and those to come, should especially be instructed in regular disciplines, and should sleep together communally in one dormitory, according to the canonical sanctions and the ancient custom of this monastery hitherto laudably observed, under penalty of deprivation of that day’s prebend and of disobedience. He also commanded them to have integrity of morals, sobriety of diet, propriety of dress, and diligence in divine worship according to the Rule of St Benedict. He instructed the abbot to correct delinquents and to amend the disobedient according to the canonical institutions. Finally, in favor of regular observance, at the petition of the abbot, he confirmed in perpetuity by his authority the incorporation of the parish church formerly made by Archbishop Wernher, Udo’s donation, and all other grants made by anyone to this monastery. These things were done at Mainz in the year of the Lord 1360, on the twentieth day of the month of December, with Hermann, abbot of St Alban’s, and Wiric, abbot of the monastery of St James, present there with many others, in the residence of the aforesaid lord bishop and nuncio of the Apostolic See.
+
+1360.
+
+In the tenth year of Philip our abbot, Emperor Charles IV held a convention of princes at Esslingen. There, when on a certain day he was holding council with his princes among the Friars Minor in the refectory, a tumult arose among the citizens against the emperor; departing from the place, he ordered Count Eberhard of Württemberg, with the aid of the imperial cities, [unclear]. The people of Esslingen, surrounded by a very close siege and seeing that they were placed in danger and could by no means resist such power of the empire, bought peace with money, giving the emperor seventy thousand for the expenses which he had incurred in making war against them by command of the lord emperor.
+
+*A convention of princes at Esslingen. A disturbance of [unclear] against the emperor.*
+
+At these times also there were grave discords and dissensions between Boemund, archbishop of Trier, and the counts of Sponheim and Starkenburg, on account of certain [things] which the archbishop said belonged to the right of his church, while they protested against it. Walram, count of Sponheim, with his knights, through the mediation of friends, soon returned to concord with the archbishop. But the count of Starkenburg began to devastate the fields, villages, and possessions of the church of Trier with the sword, plundering, and fire, and inflicted many losses upon the church. Against him the archbishop, bringing forth an army, besieged a village near the Moselle which is called Enkirch, and a fortification below the castle of Starkenberg which the same count had built for a toll, and destroyed it utterly. When this had been done, the count, seeking the pontiff’s favor, obtained peace and pardon.
+
+*Discord between the archbishop [unclear].*
+
+*The University at Prague is founded. [unclear] Ingelheim.*
+
+At these times also Emperor Charles IV, since he was a learned man, indeed one who with much ornament of his Bohemian kingdom established the University of Prague, which he exalted by enriching it with many privileges, favors, and possessions. He also founded many churches and monasteries of different religions in his time, and provided for them abundantly in imperial magnificence. In the imperial court at the village called Ingelheim, not far from Mainz, he established a monastery of canons of the Order of St Augustine, in which he consented that no one should be received into religion unless he had been born in Bohemia. The first brothers of the same monastery he [took] from the monastery of St Charles in the city of Pra[unclear].

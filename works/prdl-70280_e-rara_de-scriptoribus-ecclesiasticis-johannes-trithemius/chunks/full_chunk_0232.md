@@ -1,0 +1,22 @@
+*ON ECCLESIASTICAL WRITERS. Fol. [114].*
+
+Nicholas of Cusa, bishop of Brixen, and cardinal-priest of the holy Roman Church of the title of Saint Peter in Chains, a Teuton by nation, from the diocese of Trier, a man most erudite in the divine Scriptures, and easily the prince of the theologians of his time, and excellently learned in secular letters: a philosopher, rhetorician, and most celebrated mathematician, subtle in talent and eloquent in speech, skilled in the three languages—Hebrew, Greek, and Latin—most upright in life and conversation and singularly devout, a sincere and fervid lover of the salvation of souls; who, sent as legate into Germany, did and established many useful things for the reformation of the Church, and especially of our order. He wrote many illustrious volumes, of which the following are extant:
+On the vision of God: book. ["I will now disclose what [things] to you…"]
+On the peace of the faith: book. ["He was of those who, among…"]
+The Reparation of the Calendar: 2 books. ["Receive, most holy pope…"]
+On mathematical complements: book. ["To the praise of the omnipotent God…"]
+A Sifting of the Koran: 3 books. ["So great is the power of the supreme…"]
+On the hunting of wisdom: book. ["It is [my] purpose [to set forth] my [things]…"]
+On the game of the mystical globe: 2 books. ["Since I see you [going] to the [Apostolic] See…"]
+A Compendium: book. ["Receive a brief compendium…"]
+A Trialogue on Possest [actualized-possibility]: book. ["Since to us is granted…"]
+On mathematical perfection: book. ["The noble mind is solicitous…"]
+Against the Bohemians: book. ["Nicholas, by [God's] mercy…"]
+On the Beryl: 1 book. ["Whoever shall have read the [things] which [are] in…"]
+On the gift of the Father of lights: book. ["And if already before, [as] above…"]
+On seeking God: book. ["According to your desire, as far as possible…"]
+On the summit of contemplation: [book]. ["I see you [pondering] a certain profound [matter]…"]
+On Learned Ignorance: book. ["He will wonder, and rightly…"]
+On Conjectures: 2 books. ["Now, such as it is, [the work] being given…"]
+On the filiation of God: [book]. ["At length [it] compelled me…"]
+On Gene[sis]

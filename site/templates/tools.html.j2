@@ -1,0 +1,83 @@
+{% extends "base.html.j2" %}
+{% block title %}Cipher Lab &mdash; Trithemius Corpus{% endblock %}
+{% block body %}
+<section class="cipher-lab" data-asset="">
+  <h2>The Cipher Lab</h2>
+  <p class="lede">Interactive tools built on Trithemius&rsquo;s actual tables &mdash; encode and decode
+  messages through the <em>Polygraphia</em>&rsquo;s verbal-substitution ciphers, explore the
+  <em>tabula recta</em>, and consult the <em>Steganographia</em>&rsquo;s catalogue of spirits.</p>
+
+  <nav class="lab-toc" aria-label="Cipher Lab sections">
+    <a href="#encoder">Encoder / Decoder</a>
+    <a href="#tabula">Tabula Recta</a>
+    <a href="#compare">Side-by-side Comparison</a>
+    <a href="#numbers">Numerical Letters</a>
+    <a href="#spirits">Spirit Index</a>
+  </nav>
+
+  {# ── Encoder / Decoder ── #}
+  <div id="encoder" class="lab-panel">
+    <h3>Encoder &amp; Decoder</h3>
+    <p class="lab-caption">Type a message and watch it become a pious Latin sentence through the
+    <em>Ave Maria</em> cipher &mdash; each plaintext letter is replaced by a real word from the
+    <em>Polygraphia</em>&rsquo;s substitution columns, rotating by position.</p>
+    <div class="lab-controls">
+      <label>Mode
+        <select id="enc-mode">
+          <option value="ave-maria">Ave Maria (verbal substitution)</option>
+          <option value="mono">Simple substitution (one column)</option>
+          <option value="decode">Decode cipher words</option>
+        </select>
+      </label>
+    </div>
+    <div class="lab-io">
+      <textarea id="enc-input" rows="3" placeholder="Type plaintext here (a&ndash;z)&hellip;"
+        aria-label="Plaintext or ciphertext input"></textarea>
+      <div class="lab-arrow" aria-hidden="true">&darr;</div>
+      <output id="enc-output" class="lab-output" aria-live="polite"></output>
+    </div>
+    <p id="enc-note" class="lab-note"></p>
+  </div>
+
+  {# ── Tabula Recta ── #}
+  <div id="tabula" class="lab-panel">
+    <h3>Tabula Recta</h3>
+    <p class="lab-caption">The 24&times;24 alphabet-rotation grid &mdash; the polyalphabetic table that
+    prefigures the Vigen&egrave;re cipher. Click a row and column to highlight the cipher letter.</p>
+    <div id="tabula-grid" class="tabula-grid"></div>
+    <p id="tabula-readout" class="lab-readout"></p>
+  </div>
+
+  {# ── Side-by-side Comparison ── #}
+  <div id="compare" class="lab-panel">
+    <h3>Side-by-side Comparison</h3>
+    <p class="lab-caption">One plaintext, encoded four ways &mdash; to see why Trithemius escalated
+    the complexity across his books.</p>
+    <input id="cmp-input" type="text" placeholder="e.g. hidethegold" aria-label="Text to compare across ciphers">
+    <div id="cmp-output" class="cmp-grid"></div>
+  </div>
+
+  {# ── Numerical Letters ── #}
+  <div id="numbers" class="lab-panel">
+    <h3>Numerical Letters</h3>
+    <p class="lab-caption">Trithemius&rsquo;s positional letter-codes for numbers
+    (units <em>a&ndash;i</em>, tens <em>k&ndash;r</em>, hundreds, and <em>w</em>-suffixed magnitudes).</p>
+    <div class="lab-controls">
+      <label>Number <input id="num-in" type="number" min="1" value="42" aria-label="Number to convert"></label>
+    </div>
+    <output id="num-out" class="lab-output" aria-live="polite"></output>
+    <p class="lab-note">Some codes collide in the OCR&rsquo;d source (e.g. <code>cw</code>, <code>bw</code>);
+    ambiguous results are flagged.</p>
+  </div>
+
+  {# ── Spirit Index ── #}
+  <div id="spirits" class="lab-panel">
+    <h3>Spirit Index &mdash; <em>Steganographia</em></h3>
+    <p class="lab-caption">The sixteen cardinal princes of the winds, from the Table of Direction.</p>
+    <input id="spirit-search" type="text" placeholder="Filter by name or wind&hellip;" aria-label="Filter spirits">
+    <div id="spirit-list" class="spirit-grid"></div>
+  </div>
+</section>
+<script>window.CIPHER_DATA={{ cipher_data_json|safe }};</script>
+<script src="{{ url('static/cipher-lab.js') }}"></script>
+{% endblock %}

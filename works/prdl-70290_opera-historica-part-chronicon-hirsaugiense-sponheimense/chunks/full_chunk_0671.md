@@ -1,0 +1,19 @@
+*Familiar Letters.*
+
+... if it has truly existed in you, will make you true brides of Christ. May almighty God cause you to burn in his love; and that you may render him favorable to us by your prayers, we most earnestly ask, mindful of our labors, which for your common benefit we have now borne for many [unclear]. Farewell, living without stain in the Lord Jesus. From Neumagen, on the 22nd day of the month of September, in the Christian year 1506.
+
+*LXXVIII.*
+
+*Johannes Trithemius, Abbot of Sponheim, to Brother Johannes of Frankfurt, greetings.*
+
+Beloved brother, for certain reasonable causes we intend to leave our monastery of Sponheim and to resign its abbacy, which we have possessed for twenty-four years. But lest on that account the convent of Christ's brides at Seebach should incur some danger, we shall continue for a longer time the commission over it made to us by the bishops of Speyer, at the humble entreaty of the abbess and convent, until they can find for themselves a more suitable visitor. Therefore we entrust and command to your charity that you execute and guard with all diligence and solicitude those things that concern the office entrusted to you, just as you heard from us when we were lately present in that monastery. Refrain from wandering excursions outside the convent, and do not ever enter the enclosure alone. Obey the commands of the abbess, knowing yourself to be the servant, not the lord, of Christ's virgins. In the remaining matters, strive to conform yourself to the little rule prescribed to you. Farewell. From Neumagen, on the 22nd day of the month of September, in the year 1506.
+
+*LXXIX.*
+
+*Johannes Trithemius, Abbot of the Monastery of St. James the Apostle, [unclear] in the suburb of the city of Würzburg, to James Trithemius, his very dear brother, greetings.*
+
+To your desire, sweetest brother, as far as I could, I have yielded a little; and copies of certain letters of mine, which I wrote from the day of my departure from Sponheim down to the present day, as many as remained, I have brought together in the present volume. For we did not keep copies of all of them with us, because we were rather often compelled to make haste in writing. But in this volume itself we have gathered sixty-six letters of ours, and have joined to them twelve letters from others sent to us, all of which, together with this one to you, make seventy-nine in all. In them, in our customary manner, we seem to ourselves to have used a familiar style of writing, not pursuing eloquence out of admiration for ourselves, for there has never been any eloquence in us, but using scholastic speech, by which we may easily be understood. You know, moreover, that on the first day of the month of April I left my monastery, and have never returned there afterwards down to this day. We departed, then, in the year of the Christians 1505, on the first of April, as we have said; and we received this abbacy of St. James on the fifteenth day of the month of October of the following year. Thus all the time between our departure from Sponheim and our entry here amounted to eighteen months and thirteen days. The present letters belonged to this period, which we have handed over to you, most pleasant brother, not for your instruction, but rather as a memorial of ourselves. Those, however, which we wrote earlier we left at Sponheim, not yet gathered into order; if at some time we put them into order and you should wish to have them, you will easily obtain them. But those which we have given afterwards, or shall write in the future, comprised in another volume, we shall likewise not withhold from you in their own time. Farewell from our monastery of St. James the Apostle Major in the suburb of the city of Würzburg, on the 28th day of the month of December, in the year of Christ 1506.
+
+*End of the Sponheim Letters of Trithemius, Abbot.*
+
+*Joan-*

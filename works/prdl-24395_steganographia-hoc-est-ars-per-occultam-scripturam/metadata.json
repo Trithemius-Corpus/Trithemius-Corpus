@@ -1,0 +1,43 @@
+{
+  "id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam",
+  "title": "Steganographia, hoc est: Ars per occultam scripturam",
+  "year": "1621",
+  "source_year": "1621",
+  "year_note": null,
+  "edition_info": "Darmbstadii. Ex officina typographica Balthasaris Aulæandri, sumptibus verò Joannis Berneri, bibliop. Francof. Anno M : DC.XXI, 1621 (BNF)",
+  "edition_info_raw": "( Darmbstadii. Ex officina typographica Balthasaris Aulæandri, sumptibus verò Joannis Berneri, bibliop. Francof. Anno M : DC.XXI, 1621 ) BNF",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 168,
+  "genre_cluster": "crypto-occult",
+  "tier": "S",
+  "faithful_adj": 4.56,
+  "fluent_adj": 4.56,
+  "coverage_pct": 100.0,
+  "chunks_graded": 88,
+  "chunks_total": 88,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "public"
+  ],
+  "source": {
+    "provider": "BNF",
+    "url": "http://gallica.bnf.fr/ark:/12148/bpt6k5832538j",
+    "download_url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j",
+    "prdl_id": "24395"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 88,
+    "n_missing_segments": 1,
+    "latin_source_file": "churro_full.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam_parallel.html"
+  }
+}

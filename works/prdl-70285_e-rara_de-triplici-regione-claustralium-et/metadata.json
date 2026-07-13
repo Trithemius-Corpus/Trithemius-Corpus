@@ -1,0 +1,46 @@
+{
+  "id": "prdl-70285_e-rara_de-triplici-regione-claustralium-et",
+  "title": "Liber de Triplici Regione Claustralium et Spirituali Exercitio Monachorum",
+  "year": "1498",
+  "source_year": "1498",
+  "year_note": null,
+  "edition_info": "[Mainz] : [Peter Friedberg], 1498 (e-rara)",
+  "edition_info_raw": "( [Mainz] : [Peter Friedberg], 1498 ) e-rara",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 205,
+  "genre_cluster": "monastic-reform",
+  "tier": "S",
+  "faithful_adj": 4.83,
+  "fluent_adj": 4.83,
+  "coverage_pct": 100.0,
+  "chunks_graded": 100,
+  "chunks_total": 100,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "minimax",
+    "minimax-v2",
+    "opus-sweep",
+    "public"
+  ],
+  "source": {
+    "provider": "e-rara",
+    "url": "http://www.e-rara.ch/zuz/content/titleinfo/2581257",
+    "download_url": "http://www.e-rara.ch/download/pdf/2581257",
+    "prdl_id": "70285"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 100,
+    "n_missing_segments": 1,
+    "latin_source_file": "churro_full.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-70285_e-rara_de-triplici-regione-claustralium-et_parallel.html"
+  }
+}

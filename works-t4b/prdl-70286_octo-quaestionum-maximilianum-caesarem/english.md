@@ -1,0 +1,1037 @@
+[segment 1]
+--- Page 001 ---
+
+Terms of Use for Online Offerings of the Herzog August Bibliothek Wolfenbüttel
+
+The online offerings of the Wolfenbüttel Digital Library of the Herzog August Bibliothek (http://digbib.hab.de) are protected by copyright and are subject to usage rights. Unless otherwise noted, they are made available under a Creative Commons Attribution-ShareAlike 3.0 Germany License (CC BY-SA).
+
+This applies to freely available online image digitizations, structural data, full texts, data from databases (in the form queryable via OAI), audio and video documents, and current publications. Please note that other rights may apply to documents by third parties offered through the websites of the Herzog August Bibliothek.
+
+Explanation
+
+The digital offerings of the Wolfenbüttel Digital Library available online are freely available worldwide to all interested parties for use under a CC BY-SA license. In addition to the general restrictions set out at http://creativecommons.org/licenses/by-sa/3.0/de/legalcode, reuse requires that a) the creator be named in the form described below and that b) the offering be made under the same conditions, that is, above all freely and without charge.
+
+a) In attribution (BY), the following must be observed (cf. CC BY-SA, sections 4.a and 4.c). Source notices attached to digitizations, typically the footer, may not be removed as evidence.1 At the same time, a notice in the following form must be placed at a suitable location on the offering page, and in any case within the domain of the offering: if a separate persistent link (PURL, URN, etc.) is used, the persistent link of the Wolfenbüttel Digital Library must stand above, below, or next to the user’s own persistent link.
+
+In print:
+
+Herzog August Bibliothek Wolfenbüttel [Persistent URL]
+
+© Herzog August Bibliothek Wolfenbüttel <http://diglib.hab.de/inkunabeln/14-astron/start.htm>
+
+or
+
+© HAB Wolfenbüttel: 14 Astron. <http://diglib.hab.de/inkunabeln/14-astron/start.htm>
+
+1 Attached scales are not subject to this restriction and may be removed.
+2 For citing Wolfenbüttel digitizations, see: http://diglib.hab.de/?link=033
+
+--- Page 002 ---
+
+On the Internet (HTML source code):
+
+© Herzog August Bibliothek Wolfenbüttel [Persistent URL]
+
+or
+
+© HAB Wolfenbüttel [Persistent URL]
+
+For example: © Herzog August Bibliothek Wolfenbüttel <a href="http://diglib.hab.de/inkunabeln/14-astron/start.htm">14 Astron.</a>
+
+If the page contains an additional statement naming the author of a contribution, for example © [Author name], the following form must be observed:
+
+In print:
+
+© [Author name]. Work originally published by HAB Wolfenbüttel Persistent URL
+
+On the Internet (HTML source code):
+
+© [Author name]. Work originally published by HAB Wolfenbüttel [Persistent URL]
+
+For example: © Flemming Schock. Work originally published by HAB Wolfenbüttel <a href="http://diglib.hab.de/edoc/ed000155/start.htm">http://diglib.hab.de/edoc/ed000155/start.htm</a>
+
+b) In making the work available under the same conditions, it must be noted that the work must be made available freely, without charge, and in the spirit of promoting culture and the sciences. Provided this is ensured, commercial use is also possible, for example in Wikipedia or with an open-access scholarly publisher publishing under CC BY-SA. Typical commercial products, such as publishers’ journals that users must purchase for a fee, access-restricted online offerings, and types of use aimed exclusively at advertising or other non-scholarly purposes, do not fall under this license. For all the last-mentioned cases, a paid special-use agreement must be concluded.
+
+Offerings not freely available through the library’s homepage are subject to separate rules of use, which may be requested from the library’s information service (auskunft@hab.de). In all other respects, the user regulations for state libraries and the fee schedule for the libraries of the State of Lower Saxony, in the version valid at the time, apply in conjunction with the Lower Saxony Administrative Costs Act.
+
+The Director (2013-03-01)
+
+[segment 2]
+--- Page 003 ---
+Yg 51
+HELMST
+8°
+Herzog August Library
+Wolfenbüttel
+0 1 2 3 4
+Gray Scale
+
+--- Page 004 ---
+yg 51. 8° Helmst.
+
+--- Page 005 ---
+Herzog August Library
+Wolfenbüttel
+0 1 2 3 4
+Gray Scale
+
+--- Page 006 ---
+[Trithemius]
+
+--- Page 007 ---
+BOOK OF EIGHT QUESTIONS
+BY JOHANNES TRITHEMIUS,
+ABBOT OF SPONHEIM,
+which Caesar Maximilian proposed to him to be resolved.
+
+1. On faith and understanding.
+2. On the faith necessary for salvation.
+3. On the miracles of unbelievers.
+4. On Sacred Scripture.
+5. On the reprobate and malefices.
+6. On the power of witches.
+7. On divine permission.
+8. On the providence of God.
+
+A very useful and pleasant little work, now first being issued in print.
+
+Mainz,
+in the printing office of Johann Albin, in the year 1601.
+
+--- Page 008 ---
+[unclear]
+
+--- Page 009 ---
+PREFACE
+TO THE MOST SERENE AND MOST INVINCIBLE LORD OF THE WORLD,
+MAXIMILIAN CAESAR,
+by Johannes Trithemius, Abbot of Peapoli, to the book of eight questions.
+
+I have obeyed your commands, most invincible Emperor Maximilian, and the eight questions which you proposed to me long ago, when I had been summoned to Your Highness at the castle of Boppard, I have resolved with what brevity I could and set down in this form of a little book. You wished, however, if I remember correctly, that, so far as possible, in resolving them I should follow the path of nature, on account of those who yield less to belief. Yet this did not seem possible to me in all cases, because the matter of the questions
+
+--- Page 010 ---
+in many places lay under theological rather than natural principles. For although the Christian religion, among the sects of all mortals, is held to be nearer, more conformable, and more closely allied to the laws of nature, nevertheless not all the chief articles of our faith are provable according to the common path of nature. We necessarily believe that this was done so that faith might have its place, and firm belief might not lack its own merit. Therefore, entering as best I could upon a middle course of disputation in accordance with your command, I have used partly the testimony of nature and partly also that of the divine Scriptures. For indeed the things which it is fitting for us to believe are not to be rashly examined by human arguments, since, as the holy Gregory says: Faith has no merit where human reason supplies proof. Therefore, with fear of God and reverence for our undefiled Christian religion, I have undertaken to answer the proposed questions in such a way
+
+--- Page 011 ---
+that I depart from the definitions of the Roman Church neither in jest nor in earnest. Therefore whatever I have ever written, or shall write, I wish to be wholly subject to its determination and judgment.
+
+RIC-
+
+--- Page 012 ---
+EPIGRAM
+OF RICHARD SBRULIUS
+OF FORO IULII.
+
+Who would deny that there is a God, parent of heaven and earth?
+No one is so savage as to deny that there is a God.
+God himself is worshiped everywhere throughout the whole world,
+but he is sought by different paths.
+The barbarian worships him as moving all things by fixed law;
+the Turk denies the sacred Son and the Spirit.
+The Hebrew boasts that he holds the true teachings,
+and, with Moses as guide, thinks himself to be the race of God.
+But the people of Christ, who took their name from his name,
+steadfastly proclaim that God is triune.
+Mighty Maximilian, who presides over the empire,
+continually advances the cause and honor of Christ.
+He asks, as it is right for an august king to ask such things,
+why the Most High God permits there to be so many sects;
+why he does not reveal himself equally to all mortals;
+why he wished many things to lie hidden from hard signs.
+
+--- Page 013 ---
+Trithemius, the father, discloses everything in order to the king,
+he who is both leader and ornament of the hooded flock.
+Whoever you were who used to doubt the holy faith,
+read these things: soon you will be a sure pupil of Christ.
+
+THE END.
+
+--- Page 014 ---
+[unclear]
+
+--- Page 015 ---
+I.
+ON FAITH AND UNDERSTANDING.
+
+QUESTION ONE.
+
+The first question of Your Most Serene Majesty was this: Why did almighty God wish to be believed by mortals rather than to be known and understood, that is, by the mode of cognition and understanding by which he is known and understood by the holy angels?
+
+I remember that I answered this question, set before me by Your Most Sacred Majesty, in this way. Almighty God, who is without beginning, pure intellect, everlasting and unchangeable, existing above everything, far more perfect than we can suppose, with infinite perfections, by his most ample will created from nothing, in the beginning, two intellects: namely, the angelic and the human. The angelic intellect, at the beginning of its condition, was made in act with respect to the knowledge of all things, and moved all things. The human intellect, however, at first consists in potency toward all things, but is ignorant of all things. Yet in the end, through many and continual actions, it will again become similar to the angelic intellect, knowing both God and all things that pertain to the cognition and understanding of the aforementioned knowledge. The angelic and human intellects differ as any two opposites do: namely, as act and potency, light and darkness, knowledge and ignorance, habit and privation, beginning and end, immobile and mobile, substance, etc.
+
+[segment 3]
+--- Page 016 ---
+
+2 IOA. TRITEMII OCTO QVAEST.
+
+accident, truth and likeness, nature and art, health and sickness, whole and part. For the angelic intellect is, as it were, act, light, knowledge, possession, beginning, unmoved, immediate, simple, substance, truth, nature, and the whole. The human intellect, however, is like potentiality, darkness, ignorance, privation, end, moved, mediated, composite, accident, likeness, art, and part. Therefore whatever belongs to the angelic intellect from the beginning later belongs to the human intellect at the end, when it has laid aside the burden of the flesh. For just as beginning and nature perfect the angelic intellect, so end and art, only after many exercises, raise the human intellect upward. Accordingly, between these two intellects there is greater inequality at the beginning; yet they are finally made equal in the end, when the human intellect will be as great by art as the angelic intellect first was by nature. From this it is clear that the angelic intellect, as soon as it was created, knew from the beginning, without any action or motion of its own, immovably, substantially, and by nature, all things that it can understand, and that it came forth created in an instant full and perfect in the knowledge of all things. The human intellect, however, since it was created in ignorance and privation of all things and was temporally appointed to a body for its own exercise, must by continual action, motion, and art arrive at knowledge of God and of all things. In the end it will be made equal to the angelic intellect, the end transforming its potentiality into act and bringing it from mere potency and possibility into essence; from empty it will make it full, from imperfect perfect, from deprived possessing, from dark bright, from nocturnal diurnal, from lunar solar, and from earthly heavenly. This cannot happen while the mind is bound together with the body, as Christopher-bearing Paul teaches: so long as we are in the flesh, we are away from the Lord. To know and understand God
+
+--- Page 017 ---
+
+AD MAXIM. CAESAREM.
+
+belongs to a pure, simple, and perfect intellect; but the human intellect, so long as it remains in the body, is impure, mixed, unstable, and imperfect, and for this reason, without faith, it is ignorant of all knowledge of God and of heavenly things. The object of each intellect, however, both human and angelic, is the same: namely, that highest, unchangeable good, God, the one principle of all things, toward which they return by the natural inclination of cognition. But if the angelic intellect is compared with the human, it is as nature is to art, and as intellect simply so called is to reason, which is closely joined to the principles of the disciplines; reason, however, proceeds discursively through principles to conclusions. Hence it is manifest that the angelic intellect immovably apprehends its own object, toward which the human intellect, through the angelic as an intermediary, after many exercises of itself, as has been said, at length and sometime by discursive reasoning prepares assent for itself. The human intellect, then, is separated from the perfection of the cognition of its natural object by the mediation of the angelic, and therefore necessarily becomes mobile, returning through that intermediary to its own principle. For every motion is from one extreme to the other through a middle. But where there is no middle, the extremes are now immediate, proximate, and therefore unmoved. The human intellect, however, placed as if in a dark prison, so long as it is held in the body, is moved by sense and reason toward understanding, although confusedly, imperfectly, and less fully; and therefore it endures between itself and God the intermediary that we have called angelic, while it bears the body as the greatest impediment to its destined perfection, just as the lover of wisdom said: the body that is corrupted weighs down the soul, and the earthly dwelling depresses the sense that thinks on many things. Therefore it was altogether necessary for us to believe God rather than to know or understand him.
+
+[segment 4]
+--- Page 018 ---
+
+For it is utterly impossible that that super-divine and uncircumscribable majesty should be comprehended by us, who understand nothing without the ministry of the senses and the discursive movement of reason. But God, existing far above every position, remains subject neither to the senses of mortals nor to reason, as he is read to have said to Moses: “Man shall not see me and live.” Hence also the divine Evangelist John says: “No one has ever seen God.” Nor is this surprising. For since God is the first and everlasting intellect, most pure, most simple, most perfect, immobile, creator, incomprehensible, highest, and far above every position, immeasurable and uncircumscribable, he could not be comprehended by the human intellect, which is impure, subject to composition, imperfect, mobile, created, comprehensible, lowest, and established under the measure of position.
+
+As for that question which seemed to arise from the first, whether God, since he is omnipotent, could have made himself knowable to the human intellect as he did to the angelic: I say that God can do all things; no one of sound sacred mind has ever denied this. But we say that God cannot do those things which imply contradiction, because they are contrary to the order of the wisdom of him who immutably disposes all things, just as destruction is not doubted to be contrary to the construction of the whole, and indeed, if I may say so, utterly opposed to it at the same time. For it was neither fitting nor in any way possible that God should be comprehended by the human intellect; for if mortal man, by the guidance of nature, comprehended the immortal God, then surely he would already seem to have to be called not man nor mortal, but angel, and either man would have to be compared with God, or God with man.
+
+--- Page 019 ---
+
+So long as the angelic intellect stands between, the human intellect cannot understand God; and it stands between until the death of the flesh, by which the mind, having attained its natural freedom, will become wholly equal to the angel.
+
+Now, I believe, Emperor, you see that it is manifest that it was neither fitting nor possible that the human intellect should comprehend the divine: the created comprehend the creator, the temporal the eternal, the mutable the unchangeable, the weak the omnipotent, since, as a certain philosopher says, there is either no proportion at all of the finite to the infinite. Therefore it is necessary for mortals to believe God, who is immortal, whom we can by no evident reasoning comprehend. Although the order of the whole universe, and providence, declare the author of all things, and although we understand that nothing produced exists apart from him without a principle, nevertheless the human mind cannot grasp what God is or how he is. For since he is far above all things that we, or any mortal, can understand about him, he is far outside and above every position, as the sacred Dionysius says: for he is neither soul nor sense; nor does he have imagination, opinion, reason, or intelligence; nor is he reason or intelligence; nor is he spoken or understood; nor is he number, multitude, order, magnitude, smallness, equality, likeness, or unlikeness; nor does he stand, nor is he moved, nor does he act quietly; nor does he have power, nor is he power; nor is he light; nor does he live, nor is he life; nor is he substance, age, or time; nor is there any spiritual contact of him; nor is he form, truth, kingdom, wisdom, one, divinity, or goodness; nor is he spirit, so far as we can know, nor sonship nor fatherhood by designation, nor any other thing among those known to us or to anyone else in the world.
+
+[segment 5]
+--- Page 020 ---
+
+known to us or to any other in the world; nor is he anything among the things that are not, nor among the things that are; nor do the things that are know him as he is in himself. There is no speech of him, no name, no knowledge; he is neither darkness nor light, neither error nor truth; there is no affirmation of him at all, nor denial. For as the perfect and singular cause of all things is above every affirmation, so the excellence of him who is simply released from all things and is above all things is above every denial.
+
+Therefore, Dionysius says, we say that, since as the cause of all things he is above all things, he is neither without substance nor without life, nor does he lack reason or mind; he is not body, nor figure, nor form; he has neither quality nor quantity nor mass; he is not in place, nor is he seen, nor does he have sensible touch; he neither senses nor is sensible; he is not subject to rashness or disturbance, agitated by bodily passions; he is not powerless, subject to sensible accidents; he is not in need of light; he admits neither change, nor corruption, nor division, nor flux; nor is he or does he have anything else belonging to sensible things.
+
+Hence, since he far excels above every affirmation, he could not be comprehended by a creature set beneath him, which necessarily uses the senses in order to understand, just as the Peripatetic truly said: nothing is in our intellect unless it has first been in sense. Therefore God, who is not subject to the senses of mortals, far exceeds the human intellect. According to affirmative affirmation he is truly wholly in all things; and according to denying negation, the more closely he is approached, he is none of all the things that are subject to the knowledge of mortals. Indeed, since he is above all things, he can be none of the things that are subject to him. Therefore Empedocles beautifully gave a likeness,
+
+--- Page 021 ---
+
+saying: God is a sphere whose center is everywhere and whose circumference is nowhere. Now let the human intellect raise itself as much as it can; and let the one who strives to comprehend God rightly understand this imagined sphere’s center everywhere at once and its circumference terminating nowhere. But if he is not capable of understanding this proposition of proper likeness, why does he contend to investigate the essence of God, which exists above every affirmation?
+
+May it not weary you, most unconquered Caesar, to hear another likeness concerning God from Cusanus, a certain priest, cardinal of the Roman Church, my compatriot and a man most learned in those times. He says: God is a straight line of infinite length which makes a circle. Let us therefore now consider this. If it is a straight line, how does it make a circle? And if it makes a circle, how is it straight? For a circle and a straight line are naturally opposed. Nevertheless, since a line of infinite length has neither beginning nor end, it necessarily makes a circle, although it is proposed to be imagined not as curved but as straight.
+
+Therefore, since God is infinite, greatest without quantity, best without quality, all things in all things without circumscription, above all things without excluding affirmation, it was not possible that he should be comprehended by the circumscribable human intellect, which uses the service of the senses in order to understand, nor that what is promised to it when purified at last in the homeland should be granted to it while confused and impure on the way. But after our mind, at last released from the flesh, has become clean, simple, pure, perfect, and consummated at the highest center, which is God, then, made equal to the angels, [unclear].
+
+[segment 6]
+--- Page 022 ---
+
+For this reason we said that the angelic intellect, led by its nature, clings immovably to its own principle, because it is pure act and habit; since it is naturally simple in condition, it cannot be impeded by any commerce of composition. But the human intellect, as has now sufficiently been shown, since it is potency and privation, impure because of its commerce with its body, is not indeed perfectly delayed from act until, at last released from the flesh, it passes into fellowship with the likeness of the angels, then first to be admitted to the true knowledge of God. But if meanwhile the affection of love necessary for salvation is joined to present Christian faith and to future divine knowledge, the same eternal blessedness prepared with the holy angels will be given to the worshipers of God. But if the depraved mind, through excessive commerce with its flesh, has scorned the love of God, then the intellect, released from prison, will indeed rise, sublime in knowledge, to the measure that belongs to it by nature; but it will be so much the more wretched, the more through evil will it is found to be like the demons.
+
+Therefore, to conclude the solution of the proposed question as far as I may, I say that it is not possible for almighty God to be perfectly understood by us so long as we mortals dwell in the flesh.
+
+(*) (*)
+(*) (*)
+
+CONCERNING THE FAITH NECESSARY FOR SALVATION.
+
+--- Page 023 ---
+
+TO MAXIMILIAN CAESAR. 9
+
+CONCERNING THE FAITH NECESSARY FOR SALVATION.
+
+QUESTION TWO.
+
+The second question of your unconquered Majesty was this. Since today a small part of the world is subject to the laws of the Christian faith, whether that opinion of many people seems able to be admitted without injury to the truth: that each person, in the religion which he believes to be true and salutary, as a worshiper of the one God, can be saved outside the Christian faith and without baptism, provided that nothing is known to him of the religion of Christ.
+
+I judged it superfluous to answer this question simply according to the common intention, since I know that today there are many among Christians whom an impious piety for the salvation of lost human beings makes cruel toward God. But because a just cause of consideration stirred your most serene Highness to ask these things, not because you do not know what must be held as Catholic in this proposition, but so that you might have truth to set against those who attack it, I shall answer the questions as briefly as I can.
+
+If anyone could be saved outside the Christian faith, Christ, the Son of almighty God, would seem to have been made man superfluously and without cause. For if there is salvation outside Christ, Christ is not the savior of all. But because it was necessary that the only-begotten Son of God, for the salvation of the human race, be born a man in the world, suffer,
+
+--- Page 024 ---
+
+die, and rise again on the third day according to the Scriptures, he did not come into this world in vain, nor superfluously, nor without cause. Since this is so, whoever asserts that anyone can be saved outside the faith of Christ shows himself not a Christian but an adversary of the faith and a deserter of Christ. For whoever does not believe in Christ, the Son of God, promises himself eternal salvation in vain. For Jesus Christ himself, who is the truth, says in the holy Gospel: He who does not believe will be condemned. And again: He who does not believe has already been judged, because he does not believe in the name of the only-begotten Son of God. And again, a little later, he adds and says: He who believes in the Son has eternal life; but he who is unbelieving toward the Son will not see life, but the wrath of God remains upon him. Saint Christophilus likewise says that without faith it is impossible to please God.
+
+The solution of the proposed question is now clear to all who truly believe in Christ: salvation is through him, the savior of the world, and whoever does not believe in him cannot be saved. Nor is it permitted for a Christian to overstep in any way the boundaries of his religion, so as to presume to amend this question otherwise than Christ taught. But whoever departs from this rule of faith by asserting the contrary plainly demonstrates that he does not think rightly about Christ, the savior of the faithful. For whoever promises salvation to anyone outside Christ wishes to declare Christ a liar.
+
+But we, confirmed by the most sacred sanctions of the Gospel, firmly believe and pronounce without doubt that no one can be saved outside the faith of Christ, however holy or justly he may live, however much he may trust in his paternal religion or another. Christ is salvation; outside the Christian faith no one will be saved. For to what end, then, did Christ of God
+
+[segment 7]
+--- Page 025 ---
+
+*To Maximilian Caesar.*
+
+the Son of God, will to die for the sins of the world, if each person could have been saved outside faith in him, in his own paternal tradition? From the beginning of the world, after the fall of the human race, it was impossible for anyone to be saved unto eternal life otherwise than in the blood of our Lord Jesus Christ.
+
+What, then, of the fact that the greater part of human beings today remains outside the faith of Jesus? Did not the Savior of the world long ago foretell in the holy Gospel: “Many are called, but few are chosen”? And again he says: “Enter through the narrow gate, because broad is the gate and spacious is the way that leads to destruction, and many are those who enter through it.” What do we think our salvation can contribute to God, who has no need of our goods? Whether many are saved or many are damned, God himself is the unchangeable Lord of all. Nothing is added to him if all are saved; nothing is lacking if the whole world sins. The order of the divine providence of majesty is infallible, embracing those who are to be damned no less than those who are to be saved, each and all alike. Certainly no one among those damned suffers injustice, since, just as in the first man we all fell, so no one is saved except in the blood of Jesus Christ through mercy, and no one is damned except in his own unbelief and, according to his desert, through justice.
+
+From what has been said another question arises, one of no small difficulty, which human curiosity is accustomed to raise against those who think rightly about the faith of Christ: Why does almighty God, since he is just and merciful, not cease creating so many thousands of human beings whom he has most certainly foreknown will be damned? Why does he not spare the wretched,
+
+--- Page 026 ---
+
+*Eight Questions of Johannes Trithemius.*
+
+and not bring forth into destruction, in so great a multitude, those whom he has foreknown will decline into evil? For it would seem better not to exist than to exist badly.
+
+Let whoever thinks himself God’s counselor answer this question. Who am I, that I should explain the cause of the divine will? For whatever the Lord willed, he has done in heaven and on earth, and there is no one who can resist his will. Hence a certain wise man says to God: “Who would blame you if the nations you made were to perish?” The Almighty has established an order of vicissitude in things, which he will never revoke by any fullness of change. For just as he permits his sun to rise over the good and the evil, so too, until the end of the age, he has caused human beings to be conceived, born, and to grow, both pious and impious. The thoughts of human beings are not in God, nor does he change his counsel according to time; but since he is unchangeable and eternal, willing all things together and at once, he has always, from eternity, preordained them unchangeably. God speaks once, as sacred Scripture testifies, and it adds that whatever he wills, he wills immovably and admits no change.
+
+Therefore God permits human beings to be born good and evil, pious and impious, faithful and faithless, sinners and saints, those to be saved and those to be damned, by a most just reason, he who has assigned this order to all things. Nothing is lost to God, who is Lord of all and everywhere holds confirmed dominion no less over evil human beings and spirits than over good ones. Christ Jesus, God from God the Father without time, and man from the Virgin in time, has been appointed Mediator of God and human beings. He himself is the one through whom we have access to God; he himself is the Savior of all the faithful. Whoever thinks that anyone can be saved without the Christian faith thinks wrongly of him.
+
+[segment 8]
+--- Page 027 ---
+
+TO MAXIMILIAN CAESAR. 13
+
+rashly concedes that he can be saved. The omnipotence of God has regard to the order of things which he has established; according to the inviolable sequence of its rectitude, no one will be saved without faith in Christ, no one who does not believe in the Son of God will be justified. Therefore they are moved by a vain and utterly foolish piety who think that anyone outside the faith of Christ, in the whole world and in any sect whatever, is to be saved, since his judgment is plainly contrary to this. Let them hear the Savior himself again saying in the Gospel: “No one comes to the Father except through me. For I am the way, the truth, and the life.” If no one comes to the Father except through the Son, certainly no one will be saved except through him.
+
+Who will save the Jew and the pagan, when no one can be saved except through Christ? But Christ will undoubtedly save only those who believe in him with heart, speech, and deed. He will not save the Jew, not the Saracen, not the pagan, not any other unbeliever whatever, because they do not believe in him, but despise his teaching, scorn the faith, and, blaspheming his holy name, vilify it all day long. For he himself said in the Gospel: “Whoever is ashamed of me and of my words, I too will be ashamed of him before my Father and his holy angels.”
+
+Tell me now, you who worship Christ and maintain that someone can be saved in his own sect, which he thinks true, outside the Christian faith: do you believe the Gospel of Christ to be true or false? If true, why do you hold the contrary of it? For Christ says that the wrath of God remains upon the one who has not believed in the Son of God, and that he has already been judged and will be condemned; and that no one comes to the Father except through me. But you, seduced by I know not what rashness, press the contrary, saying that a person outside the faith of Christ, trusting in his ancestral religion, which he believes to be true and pleasing to God, or
+
+--- Page 028 ---
+
+14 JOHANNES TRITHEMIUS, EIGHT QUESTIONS.
+
+living innocently according to the law of nature, and especially since perhaps he has never heard anything about the faith of Christ, is to be saved in that confidence of his. Christ did not say this, but: “Whoever has believed in the only-begotten Son of God will be saved; but whoever has not believed will be condemned.” He excepts no one; he adds no condition. For he who had come to suffer for all had provided for salvation through faith alone. If faith in the Savior is lacking, no confidence will then save the unbeliever.
+
+For the holy bishop Augustine said in On Faith to Peter: “Hold most firmly, and by no means doubt, that not only all pagans, but also all Jews, heretics, and schismatics who end this present life outside the Catholic Church will go into the eternal fire prepared for the devil and his angels.”
+
+You now see where foolish compassion is dragging you: measuring God by human laws, in order that in all things you may make him merciful, you do not fear to judge his only-begotten Son, our Lord and Savior Jesus Christ, a liar. But CHRIST is truthful, who says that those who do not believe in him are to be damned. You, however, are rash and false, who trust that anyone can be saved outside his faith. Whoever truly believes in Christ does not allow absolutely anyone outside the unity of the Catholic Church of Christians to be said to be saved. Whoever says the contrary shows that he is not a true and good Christian.
+
+For this is the immovable judgment of Catholic tradition, which the Lord Jesus himself defined in the holy Gospel: namely, that no one is to be saved outside his faith, which he himself established, taught, and confirmed by his own blood. Whoever therefore, that a person is to be saved
+
+[segment 9]
+--- Page 029 ---
+
+Whoever, therefore, affirms, or believes in his heart, that a human being is to be saved in any sect outside the faith of Jesus Christ, is not a good Christian, but rather an apostate and a disciple of Antichrist; unless he comes to his senses, let him know that he will be tortured forever in the lower world with him. For he is an Antichrist, not a Christian, who says that one who does not believe in the Lord Jesus is to be saved without the Savior.
+
+Therefore, most wise Caesar, let no one appear before the sight of your Majesty, let no one perceive you as attached to him, who thinks that human beings are to be saved outside the faith of Jesus Christ. For everyone who has believed that anyone is to be saved outside the faith of Christ has denied both Christ and his Gospel. But when we say that all who are not Christians are to be damned, this is not an indication of cruelty but of truthful piety. For it is better to believe the truth firmly than to agree falsely with a human being.
+
+That all Jews, pagans, gentiles, Saracens, schismatics, heretics, and infidels are without doubt to be damned with the demons is testified by the Church of the saints, which took and confirmed this judgment from no other source than the sayings of Christ. For thus he said: “He who believes in the Son has eternal life”; by this are designated Christians who are good in faith and deed. “But he who is unbelieving toward the Son shall not see life, but the wrath of God remains upon him.” Here are marked out all Jews, pagans, Saracens, gentiles, and whoever do not believe in our Lord Jesus Christ.
+
+Concerning schismatics and heretics, moreover, Christ’s judgment is clear, when he says in the Gospel: “If he refuses to hear the Church, let him be to you as a gentile and a publican.” Gentiles are the nations, and publicans are manifest and public sinners; concerning their damnation the most certain Church of the saints does not doubt. For who among Christians would doubt that gentiles and enormous and manifest sinners are to be damned? Why, then, should schismatics
+
+--- Page 030 ---
+
+and heretics, since they all despise the Church of the saints, not be said most rightly to be like the gentiles and publicans, who are to be damned for their offenses and demerits, and not justly undergo equal penalties of everlasting damnation with them?
+
+Behold: those whom the just judgment of Christ the Savior has damned, the foolish compassion of human beings, not to say impious cruelty, presumes to be saved. They desire to be merciful toward ruined human beings, and they do not fear to show themselves cruel toward God. Those whom he, through justice, has appointed to death, these people, by a most wicked presumption, assert are to be recalled to life.
+
+It is neither good nor useful for a Christian, whether in earnest or in jest, to contradict Christ. Whoever says that infidels are to be saved is impious, not Christian. When Adam, the first human being, fell, we all sinned; the wrath of God remained upon the whole human race from the beginning of the world down to Christ. Christ came, born of the Virgin, God and man, innocent of sin; he willingly underwent the death of the cross, and, having become mediator between God and human beings, removed the wrath of original guilt from those who believe in him. For thus he says: “He who believes in the only-begotten Son of God has eternal life; but he who is unbelieving toward the Son shall not see life, but the wrath of God remains upon him.”
+
+Indeed, without faith in Jesus Christ no one will be saved, however justly and holily he may seem to live in his own religion. For almighty God can save a believer without material baptism, but he cannot make a denier saved without faith. No one is saved unwillingly, because no one believes unless willingly. For God knows those who are his, since he receives those who believe in the Son through repentance, but condemns unbelievers through the equity of justice.
+
+From here, after one question had been shut off, a new question struck the mind: what
+
+[segment 10]
+--- Page 031 ---
+
+*To Maximilian Caesar.*
+
+What, then, should be thought about the infants and the mentally deficient among unbelieving pagans and Jews? To this one must reply: just as the infants of Christians, baptized in the faith of their parents, are saved, so the children of all unbelievers, not baptized, will be damned in the unbelief of their parents. The judgment is similar concerning the mentally deficient of either religion: just as we believe without hesitation that baptized mentally deficient Christians are to be saved, so we should say without doubt that those of unbelievers are to be damned.
+
+Again, it is asked here what is to be thought, in a Catholic way, about those people who inhabit the newly discovered islands in the great sea, of which there is no mention among the ancient cosmographers, and who, as we have been informed, have never heard anything at all about the Christian religion. From what has been set out above, a brief answer, consistent in every respect, is given: since the Truth has made absolutely no exception from damnation for anyone who does not believe, neither for islanders, nor for one bordering upon our world, nor for anyone else dwelling either near or far away, but has concluded indiscriminately and without distinction of persons, saying: “Whoever has believed and been baptized will be saved; but whoever has not believed will be condemned,” and “the wrath of God remains upon him.” Who removes the wrath of God from man, except our Lord Jesus Christ, who is the mediator of God and men? By what means, except through faith formed in him, who, though innocent, tasted death?
+
+Since, therefore, no one is saved without faith, we cannot promise salvation to those ignorant of Christ, when it is clear that they do not have the piety of faith in him. Necessarily, then, we shall say that all who do not believe in the Son of God are to be damned, whether they have heard of him or are wholly ignorant of him. Yet we grant one thing: if any among those who are ignorant of Christ, according to the law of nature
+
+--- Page 032 ---
+
+have lived well, invoking one God, even if they have sometimes sinned, provided they had done penance before death, they have been, or are to be, damned less gravely than those who either hear Christ and despise him, or in both respects have lived wickedly and foully. For God is just: he does injury to no one, but renders to each according to his works.
+
+Yet the wrath of God remains upon everyone who does not believe in his only-begotten Son, because of the original sin of the first man, from which no one is justified except through the faith and baptism of our Lord and Savior Jesus Christ. If original sin alone is in a person, as in little children, unless it is removed through Christ, it damns the one who has it only to the punishment of loss, by which, namely, he is kept forever from the vision of God and the enjoyment of the blessedness of the saints. But an adult who sins mortally will be punished after death with a double punishment, namely of loss and of sense, so that he both does not see God and, feeling the punishments of Gehenna without end, never escapes.
+
+But Jews, Saracens, and all the rest who hear the faith of Christ and despise it are without doubt damned to both punishments, of loss and of sense, whether otherwise they live innocently according to the law of nature or the contrary. Among those, however, who have never heard of Christ, if any should live innocently according to the law of nature up to death, I do not think they have furnished cause for being said or believed to be damned to the punishment of sense, although they are deprived forever of the vision of God, which theologians have called the punishment of loss. For no one will behold the face of God the Father almighty unless he has been reborn through faith in Christ.
+
+Now let us conclude the judgment against those who, when we assert these things in a Catholic way according to Christ’s teaching, object with weighty consideration. To what [unclear]
+
+[segment 11]
+--- Page 033 ---
+
+why almighty God, since he is supremely good, wished to create so many thousands of human beings whom from eternity he foresaw would be damned. For if Christians are compared with unbelievers, scarcely a twentieth part of the people of the whole world today believes in our Lord Jesus Christ. The immense curiosity of this question has often troubled many; if their faith in Christ were firm and their devotion fervent in love, they would not ask such unfamiliar and difficult things.
+
+For what man of such learning or such holiness is found among mortals that, apart from God himself, he could disclose to us the reason for the divine will? For the cause of God's will is incomprehensible, since he himself is the cause of his own most righteous will, an everlasting and inviolable order; and, as I said above, God does injustice to no one. When God judged all things and brought the flood upon the earth, were not only eight human beings saved in the ark, while all the rest perished in the inundation of the waters? The cause of their perishing was sin. But the reason why they were created was nothing other than the uncircumscribable goodness of God.
+
+That few are saved while many perish was prefigured beforehand as a mystery, and Noah's ark was a sacrament of the Christian faith. For just as all who were outside Noah's ark perished in the flood, so now all who are outside the unity of the Catholic Church of Christians will without doubt perish eternally in their sins, Jews as well as pagans, heretics together with schismatics. The justice of God condemns those whom his goodness created; but mercy saves those whom grace has confirmed. For, as the holy Apostle says, it is not of him who wills nor of him who runs, but of God who shows mercy, since he has mercy on whom he wills, and whom he wills he hardens. If we weigh carefully in this way the freedom of human choice, we shall also know the just will of God.
+
+DE MI-
+
+--- Page 034 ---
+
+20 Johannes Trithemius, Eight Questions
+
+CONCERNING THE MIRACLES OF UNBELIEVERS.
+
+QUESTION THREE.
+
+The third question of Your Most Serene Majesty was this: If no one is saved outside the faith, whence come miracles among unbelievers? For we have learned from the report of many that astonishing things happen even among unbelievers.
+
+The solution of this question, as it seems to me, will not be difficult if we apply both faith in the Scriptures and the necessary consideration of the natural powers of the soul. A miracle is a new and unusual occurrence, which happens contrary to custom and draws human beings into wonder. Hence good Christians perform miracles in one way, evil Christians in another, and unbelievers in still another. Good Christians perform miracles through public justice; evil Christians, however, through signs of public justice; but unbelievers through private contracts with demons, whether implicit or explicit.
+
+Concerning the good, the Lord said in the holy Gospel: These signs shall follow those who believe: in my name they shall cast out demons, they shall speak with new tongues, they shall take up serpents, and if they drink anything deadly it shall not harm them; they shall lay hands upon the sick, and they shall be well. Concerning evil Christians who perform miracles in the name of Jesus Christ, however, it is written thus in the Gospel: [unclear]
+
+[segment 12]
+--- Page 035 ---
+*To Maximilian Caesar.*
+
+we read in the Gospel: “Many will say to me on that day, Lord, Lord, did we not cast out demons in your name, and do many mighty works in your name? And then I will confess to them: I never knew you; depart from me, all you who work iniquity.”
+
+But outside the Church of God, where the name of our Lord Jesus Christ is not invoked, if any wondrous things occur beyond the customary course of nature or human art, no good Christian doubts that they are done by the cooperation of demons. And your Caesar’s Serenity judges that works of this sort should rather be called wonders, by a distinction of power, than miracles. Nor does this judgment of truth depart from reason, insofar as a necessary distinction should be maintained between prodigies of light and of darkness. I find four agents of wonders, but I recognize one alone who truly performs miracles in the principal sense: God, as the cause of all good things.
+
+Therefore the first and greatest agent of all wonders is God, who filled and illuminated the whole world with signs, miracles, and mighty works. None of the others is to be compared with him: he created heaven and earth, the sea, and all things that are in them; he alone is omnipotent, just, holy, and upright, good, incomprehensible, greatest, glorious, immeasurable, and everlasting. All other things are beneath him. For whatever can occur wondrously in this world is certainly less than the whole world itself, which he was able to create from nothing. Likewise every miracle that can be done through a human being is less than the human being himself, since God, the creator of all things, formed him from the beginning according to his own greatness and likeness. And although God’s miracles in visible natures, through the constant frequency of seeing them among mortals, have now almost become common, nevertheless, if we consider them wisely,
+
+--- Page 036 ---
+
+then they will appear greater and rarer than all things unfamiliar. The manner in which God performs miracles is the unchangeable will of God, who, since he is omnipotent, does whatever he has willed in heaven and on earth. For he spoke, and they were made; he commanded, and they were created. The will of God is ordered and eternal; for this reason his miracles are incomparably greater than all others. For greater than all the miracles of this world is what we behold: the whole universe, and whatever is contained in it, created by the will of God. The unchangeable divine will works all things while remaining steadfast, since it lacks both beginning and end; but whatever God wills, he always wills, because, since willing and being able are the same in him, it belongs to the unchangeable one not to labor. Hence all the universal miracles that the creator of all things performs he has presented for both good and evil people to behold. And after the general ones, which have now grown commonplace through use among mortals, he has also shown, in almost every individual creature, infinitely many special wonders.
+
+The second agent of miracles is the good angel, who very often works wonders for mortals both by natural power and by divine authority. For those most blessed spirits are sent by divine ordinance in ministry to the faithful, and they provide to both good and evil people those things that are benefits of nature. But only to those who believe in God and in our Lord Jesus Christ do they administer the gift of saving grace. Hence there is no doubt that those miracles which are done in the Church of the saints by invocation of the divine name are displayed through their ministry and cooperation. But the wonders of unbelievers, if any either occur today or are read to have occurred in former times, are either fabricated and falsely claimed, or are produced by the trickery of demons. For it cannot happen that mini-
+
+[segment 13]
+--- Page 037 ---
+
+*To Maximilian Caesar.* 23
+
+by the ministry of the good angels. For where Christ Jesus, the Son of God, is not believed in, no signs of grace are shown through good spirits to impious and reprobate persons. Indeed, since they are obstinate in the error of a false religion, if in their own estimation they have attained anything miraculous, there is no doubt at all that it is done through the ministry of demons. For since they are wholly unlike the good angels, they obtain no intimacy with them. No despiser of the Christian faith can please God; rather, whoever is shown to be displeasing to almighty God is without doubt deprived of the companionship of the holy angels.
+
+Yet by this we do not deny that every human being has been entrusted to some good spirit, by whose ministry, even if he is unbelieving toward the Son of God, he may receive the benefits of nature, although he does not attain the gifts of grace. But to those who believe in our Lord Jesus Christ they confer not only the benefits of nature but also minister the gifts of grace. It is therefore clear that, if any miracles occur among unbelievers, they cannot be done by the gift of God or by the ministry of the holy angels, since all of them are placed outside the unity of the Church, and signs cannot be worked by the impious through public justice. For God, as has been said, does not remove his original wrath from a human being except through faith in Jesus Christ; but everyone who is unbelieving toward the Son of God will not see eternal life, but the wrath of God remains upon him. Therefore everyone upon whom the wrath of God remains cannot please God; and so, if any wonders occur at his prayers, they should be believed to have been performed not by the power of God nor by the ministry of angels, but rather by the substitution of demons.
+
+The third worker of wonders is the devil, who, like an ape, strives to imitate whatever he has seen, and the minds
+
+--- Page 038 ---
+
+24 *Johannes Trithemius, Eight Questions*
+
+of human beings, especially unbelievers, he deceives with various illusions, and he seduces those who believe him by a certain likeness of miracles. Nor do I judge it difficult for demons to be able to mock human senses, since it is agreed that by nature they were created more subtle than all mortals. But they cannot know the thoughts of mortals except by a kind of conjecture, since we make the inner things of our nature manifest by certain signs. Demons foretell future things, and sometimes they speak truly; sometimes, conjecturing, they are deceived and deceive. From the beginning of the world they have known certain signs that precede an event; by experience and use of these they sometimes foretell truly what is going to happen. When they have seen signs preceding an event that are known to them, they at once infer what is taking place in a person’s thought; yet very often they deceive, because they themselves are deceived.
+
+For when they are asked about some matter they do not know, for example whether a messenger sent far away is soon to return, or on what day, they immediately, in the blink of an eye, arrive at the place where they know him to be. When they have seen that he has already begun the journey back, they carefully count the days, and, having suddenly returned to the questioner, they affirm for certain that the absent man will come on that day. But if he has delayed on the road or turned aside elsewhere, then certainly the demons, already deceived in their judgment, must be mistaken. They gladly involve themselves in prophecies and are quite ready to predict future things to human beings for the sake of the honor and esteem that they most eagerly desire to have as beings worthy of admiration. They seek divine honors, and they very much desire to be feared by mortals. Just as children, hiding in a secret place or running about in masks, suddenly burst out from their hiding places and strike their companions, who suspect nothing in hiding, with unexpected terror, and again, lest they be recognized
+
+[segment 14]
+--- Page 039 ---
+
+*To Maximilian Caesar.*
+
+...they hide themselves again so that they may not be recognized; and when they observe that those who do not know them are terrified, they glory as though they seem to have gained great honor from this. Following their example, certain demons, more attached to the earth and moving about among human beings, very restless, whom the ancients called *Bacuaei*, frighten people at night and seek nothing more from mortals than the reputation of divinity. Hence, in the presence of those with whom, by reason of likeness, they are permitted to be, they sometimes perform various mockeries and show themselves terrible in people’s minds, as occasion allows. As often as they can, they gladly assume the likeness of a human body, but they do not always find suitable aerial matter with which to clothe themselves. For this reason they rather often appear monstrous and horrible, since they have not had suitable humors or vapors for the perfection of the appearance they desire. And the more they are fastened to earthly dwellings, the duller they have become, through their fall, in relation to matter. Hence, because of the ignorance they contracted through disobedience, the predictions of demons are frequently false, although by divine permission they are sometimes also verified. For, as that most holy John Chrysostom says, the devil is sometimes permitted to speak the truth, so that he may commend his falsehood by a rare truth. For if he never spoke the truth, he could deceive no one, and his seduction would in no way suffice for tempting. It is therefore no wonder if demons sometimes seem to predict true things to unbelieving people, since they were once able to furnish prophecies among the idols of the gentiles. Nor is it any wonder if they sometimes provide care for the sick, since they know the natures of all herbs and can very easily apply themselves to the sick and remove diseases
+
+--- Page 040 ---
+
+that they had previously inflicted, or, for a time, withdraw from the senses those diseases that chance had imposed. Almighty God, by the right of imperial majesty over all things, uses even the ministry of demons, both for the testing of the faithful and for the punishment of the impious. Since they are perverse in affection, obstinate and proud in their rebellion, they most greatly desire divine reputation and honors; and therefore they gladly respond to the invocations of unbelievers, which they are accustomed to pour out to their gods, as though they themselves were gods. Among unbelievers they sometimes seem to restore the dead to life, and they show wondrous things to curious people, so that, as though consummated in their former error by miracles, they render them stubborn against the Lord. Yet they do not truly raise the dead, but deceive human senses in various ways: for either they themselves enter the corpses of the dead and carry them about for a time as though alive, or, after those corpses have been removed to a more distant place, they present to the onlookers some image in the likeness of the life of the deceased. Just as the experience of certain people has informed us, we believe it manifest that demons can display, in a certain false likeness, all the things whatsoever that the saints do as miracles in truth. But all demonic miracles are either phantasms or things done by a certain natural skill. For if human beings experienced in the more hidden mysteries of nature, by a certain manipulation of matter concealed from others, produce effects unusual and wondrous in form, such as forming eels from the dew of heaven, bees from the flesh of cattle, serpents from certain roots of herbs, and, if I wished not to say greater things, many things of this sort, as experience has made you practiced in very many matters, who would deny that demons, being of subtler nature and greater experience, can naturally perform more wondrous things that are manifest to no human beings?
+
+[segment 15]
+--- Page 041 ---
+AD MAXIM. CAESAREM. 27
+
+The fourth worker of miracles is man, who in four ways performs wonders which, to those who do not know either their cause or their manner, do not appear human.
+
+First, by invocation of the divine name, when, in the faith of our Lord Jesus Christ, the merit of accepted holiness concurs. In this way the holy Apostles and their imitators, by the power of God and at the same time by the merit of holiness in the unity of faith, performed miracles. But unbelievers cannot perform miracles in this way, because they do not walk the necessary path of faith toward salvation. For although most of them believe in one Lord, nevertheless, because they refuse to believe in the mediator of God and man, they have gone very far away from God’s mercy. But, according to the promise of the holy Gospel, all things are possible for those who believe in God and our Lord Jesus Christ: that is, for those who adorn right faith also with holy works. For truly, just as without faith it is impossible to please God, so also faith without works is dead. Almighty God would grant us all things that we ask in the faith of Christ, if we did all things according to the faith as we ought. Believe firmly and work faithfully, and you will always obtain all things.
+
+Second, man performs miracles by likeness to angelic purity. For the purer our mind becomes, confirmed in the faith of Jesus Christ through love, the more, being made like the holy angels, it obtains greater familiarity with them. For whoever has fully attained the familiarity of the holy angels will, whenever he wishes, shine forth in miracles, by God’s granting. For the holy angels reveal to pure men, fervent in the love of God, secrets hidden from others, and by command of the Creator they make many things manifest to him.
+
+--- Page 042 ---
+28 IOA. TRITEMII OCTO QVAEST.
+
+For the Lord is near to those who call upon him in truth. The Lord will do the will of those who fear him, and he will hear their prayers and save them. For whoever has been united with Christ through grace is refreshed by the frequent visitation of angels, and, as often as necessity demands, is illuminated by their ministry, and often also by their powers. Hence it is that even those oppressed by various illnesses betake themselves to the intercessions of the saints and, recalling the Lord’s promise to his friend, obtain by the merits of others what they cannot obtain by their own; their holy devotion in the faith of Christ receives salvation from the Lord, since, helped both by the purity of their own conscience and supported by the merit of another’s holiness, it rises, not rashly, into sure hope.
+
+Miracles are done in the Church of God by divine power in a threefold respect or means. For sometimes almighty God works a miracle by the ministry of angels solely through the merits of the one who performs it, as Saint Martin healed a blind man and a lame man even against their will. Sometimes miracles are done by the merit of the sufferers alone, as we read that many were cured through bad Christians, because the sick believed them to be excellent in faith. Third, there is no doubt that healings of this kind occur by the merit of both, namely of the sufferer and at the same time of the one who performs the work, as Christ says to someone in the holy Gospel: If you can believe, all things are possible to one who believes. For faith is required on both sides for a miracle, so that our Lord Jesus Christ, when he came into his own country, marveled that he could do no mighty work there because of their unbelief. But none of these things takes place among unbelievers, where neither holiness is found in the worker nor orthodox faith in the sufferer.
+
+Third, therefore, man has performed miracles through the mediation and cooperation
+
+[segment 16]
+--- Page 043 ---
+
+by the cooperation of diabolical depravity. And this can happen in three ways: namely, by the manifest invocation of demons, by implication, and by substitution.
+
+By manifest invocation, necromancers and the little women whom we commonly call witches do marvelous things; corrupted by a likeness of will, they have passed into fellowship with demons. For just as in the Church of God the sacraments are signs of the invisible grace of the Holy Spirit, so in the school of demons certain characters and modes of invocation are marks of a pact between a depraved human being and a malignant spirit. Hence, when witches display the signs of demons, the malignant spirits they invoke are accustomed to come readily and to exhibit both horrible acts of sorcery and certain marvels.
+
+But witches and necromancers produce marvelous effects by invocation of demons in different ways. Witches subject themselves to demons by a kind of profession; by their ministry they disturb the air, raise storms, devastate crops, weaken human beings and beasts, carry on foul commerce of the filthiest lust with demons, and by destructive charms bring back into sight from below whomever they wish. Their deeds should not be called miracles, but rather sorceries, and they deserve to be punished with the ultimate penalty.
+
+Necromancers, however, subject themselves to demons not by a manifest profession but by an implicit condition, when they promise to compel them, visible within a circle, not only by conjurations and the display of characters, but also by sacrifices, fumigations, and vows. Their crimes are infinite, since it is clear that all of them conspire into fellowship with demons, whether implicitly or explicitly. Although necromancers are not all equal either in art or in practice, nevertheless, to their own destruction, they are all agreed in damnable curiosity,
+
+--- Page 044 ---
+
+by which they desire to obtain with the help of demons what they cannot discover by nature. All their works and books are full of superstitions and impiety, and for that reason they must be driven far from the borders of believers. In the East there is a great multitude of enchanters and necromancers who, by their deceits, miserably deceive the human race and long ago turned almost all Asia, both greater and lesser, away from the faith of Christ.
+
+Illusions can occur in three ways: by the ministry of demons, by the operation of nature, and by the deception of human art. No true Christian will doubt that the miracles of those unbelievers occur in one of these ways, once the determinate root of the agent has been established. Today, moreover, there are many among Christians who are devoted to the works of demons: enchanters, witches, and people reprobate concerning the faith, who deceive many through excessive curiosity and promise impossibilities by their arts.
+
+By the implication of demons, too, marvels are sometimes done: namely, whenever a person not firmly enough established in the faith does or desires something otherwise than befits a Christian, even if he believes it to be no sin. Although this ought not to be done, nevertheless the Devil inserts himself and usually supplies the desired effect. Such, for example, is what people afflicted by spasms commonly use: on the holy day of Parasceve they fashion, during the office, a ring of whatever metal, and afterward always wear it on the heart-finger. These things are utterly vain and have no root of truth at all. Yet I cannot deny that I have seen some people cured of spasm by this same vanity.
+
+Likewise, I know that some people have opened very strong locks with words and herbs; I do not think this was done either by the power of God or by the force of the things applied. I could introduce countless similar things that I have seen and heard; what else are their manifest effects but certain miracles of demons?
+
+Finally, there are some excessively curious people who put faith and confidence obstinately in characters, slips, rings, figures, amulets, and unknown words, and often obtain marvelous effects. We do not doubt in the least that the Devil has supplied these effects, not by the merit of holiness, nor because they were granted by the mercy of God, but rather through treacherous credulity. For demons, having the greatest envy of the human race, readily come to the vain operations of the impious in order to destroy the souls of mortals. What else are characters and interpretations of hidden names but certain foods and drinks for demons? Whoever puts faith in characters promising marvelous effects has implicitly denied both the faith of Christ and the Church of the saints.
+
+Alas, how many Christians today, how many clerics, how many priests, to say nothing of greater persons, use many and varied superstitions in their daily actions; by these they follow implicit pacts of demons, to the insult of the Christian faith and their own condemnation. And because these evils have now multiplied too much among Christians, the Almighty has withdrawn his hand and handed them over into the power of the faithless, so that they may experience as exactors of punishment those whom, by imitation, they were persistently serving: not the living and true God, but vain superstitions.
+
+[segment 17]
+--- Page 045 ---
+
+*To Maximilian Caesar*
+
+I cannot deny that I have seen some cured of spasm by this same vanity. Likewise, I know that someone opened very strong locks with words and herbs; I do not think this was done either by the power of God or by the force of the things applied. I could adduce countless similar cases that I have seen and heard of; what else are their evident effects but certain miracles of demons?
+
+Finally, there are some excessively curious people who stubbornly put faith and confidence in characters, written slips, rings, figures, necklaces, and unknown words, and often obtain marvelous effects. We by no means doubt that these effects were granted neither by the merit of holiness nor by God’s mercy, but rather that the devil supplied them through faithless credulity. For demons, having the greatest envy of the human race and wishing to destroy the souls of mortals, gladly come to meet the vain operations of the impious. What else are characters and interpretations of hidden names but, as it were, food and drink for demons? Whoever gives faith to characters promising marvelous effects has implicitly denied both the faith of Christ and the Church of the saints.
+
+Alas, how many Christians today, how many clerics, how many priests, to spare those of higher rank, use many and various superstitions in their daily actions; through these they pursue passions entangled with demons, to the disgrace of the Christian faith and to their own condemnation. And because these evils have now multiplied too greatly among Christians, the Almighty has withdrawn his hand and handed them over into the power of the destroyers, so that they may feel as exactors of punishments those whose example they stubbornly followed, serving not the living and true God, but vain superstitions.
+
+--- Page 046 ---
+
+By the substitution of demons, moreover, we plainly recognize that marvelous things are done, if we inquire into the truth more carefully. For Jews, Saracens, pagans, or gentiles, who do not believe in God, our Lord Jesus Christ: if they perform any miracles, we believe that these are done not by the power of God, not by the ministry of angels, not by the merit of holiness, but by the substitution of demons. For whenever they invoke almighty God, in whose only-begotten Son they do not believe, for mercy in producing some marvelous effect, then the devil, who is never absent from sinners, and because the Most High does not hear unbelieving sinners so as to strengthen them in their errors, secretly applies himself in place of the God invoked; and, if he can, with the Lord permitting it, he supplies to their prayers what is requested.
+
+The devil uses this substitution all the more freely, the less he is restrained by faith in Christ and the sacrament of the Church. For the wrath of God remains upon all unbelievers who do not believe in his only-begotten Son, and they are in the power of the devil. And therefore, when they invoke, he steps in, in God’s place. Hence, when they are blinded in their errors, the innocent God, in whose Son they do not believe, refuses to hear those who remain under wrath, and the devil, false worker of miracles, approaches. Therefore those who refuse to believe the true miracles of God believe the justifications of the devil. Those who, by believing, have refused to follow the truth, that is, Christ, receive from demons false miracles suited to their errors.
+
+There are many among unbelievers who worship one God, creator of all things, do not adore idols, and firmly believe that they will be saved in their own faith. But because they fail to believe the mystery of the Lord’s incarnation, the wrath of God remains upon them; they vanish away in their follies, and, thinking God to be near to them, in whom they do not rightly believe, they are made subject to demons.
+
+[segment 18]
+--- Page 047 ---
+
+TO MAXIMILIAN CAESAR.
+
+demons; by putting faith in their false miracles, they are confirmed by a lie in their errors. It may not be amiss, O Caesar, to introduce a likeness of this matter. There was a certain man, a keeper of pigs, who had enclosed in a staff a little sheet containing the name of the holy martyr Blasius. He placed so much faith in it that, when the staff was fixed in the ground in the middle of the herd, he believed every wolf was kept from approaching. This foolish confidence, at length strengthened by long experience, made the man go securely wherever he wished, leaving the pigs in the wood without danger, since no wolf any longer had access.
+
+It happened that a seer passed by while the shepherd was absent. Seeing that demons were keeping watch over the herd, he said to one of them, “Wretched one, what are you doing here?” He replied, “I am guarding these pigs.” But the other said, “Who entrusted the care of the pigs to you?” Again he answered: “The shepherd’s foolish confidence. For he thinks that a certain little sheet enclosed in a staff is of great power, and that by the merits of a certain Blasius wolves are kept from the gates. He has sinned against his own law and follows our vanities. But because Blasius, when invoked, does not appear, I, lest the man lose his confidence, guard his pigs and willingly substitute myself for Blasius.”
+
+“So,” he said, “mortals harass us with vain conjurations, so that, unless we wish to lose all esteem and honor among them, it is necessary that we very often answer their foolish invocations.” In the likeness of this deed, demons deceive wretched unbelievers; and the miracles that they ask of God in prayer they quite often obtain by the substitution of malign spirits. For in those things that concern either the worship or the honor of God, demons willingly thrust themselves in; and those who cannot obtain open honors take very great delight in hidden ones.
+
+--- Page 048 ---
+
+34 IOA. TRITEMII OCTO QVAEST.
+
+At the same time it must be noted that, from the beginning of the world, miracles have never been lacking to any religion or sect that was chiefly eminent, although not all have been done from one principle. For whatever miracles have been done in the true religion have been done from nowhere else than from God. The law of nature had its miracles; the written law had them; and now grace likewise has them. Almighty God, who gave religion, also performs miracles.
+
+But in false religions, where truth is not worshiped, if any miracles occur, it is not God but the Devil who works them. For since God is truth, he did not institute false religions, and therefore he has never illuminated a lie with his miracles. Muhammad, who, full of an evil demon, instituted a false religion, adorned it with false miracles not from God, but by the cooperation of demons. For the demon who gave the cause of error could also, when an occasion was accepted, exhibit a false miracle to those deceived. Hence, if miracles had been altogether lacking to Muhammad as he persuaded a rude people of a new religion, perhaps no one would have placed faith in him. For he too showed the peoples certain wonders, both by subtlety of intellect and by the cooperation of the Devil, so that he might seem to have confirmed a new doctrine with new miracles as well.
+
+Nor were miracles lacking even to pagan idolaters, if we do not deny credit to the histories. The Jews, however, before the incarnation of the Son of God, receiving his law through Moses, were frequently illuminated by divine miracles. But after the Lord’s resurrection, when the Mosaic law had been emptied of force, those who do not believe in the only-begotten Son of God remain under the wrath of his indignation, and all miracles of truth have ceased among them. Hence, if today they do any wondrous things, they are works of demons and manifest signs of error. For demons strive especially to watch carefully, so that
+
+[segment 19]
+--- Page 049 ---
+
+TO MAXIMILIAN CAESAR. 35
+
+those men whom they have once made to wander from the way of truth, which is Christ, they may, by continuing their deceit, make obstinate in error until death. Indeed, when God for just reason withdraws his grace from unbelievers, their deceiver, the malignant spirit, comes upon them unknown; and when he sees that salvation is far away, he seduces the minds of the ignorant with false miracles, as though the Lord were near. Therefore whatever miracles belong to unbelievers are works of demons. For just as there is no salvation for mortals outside the unity of the Christian faith, so without Christ the most holy power of wonders is not granted. For now the demons, lying hidden in snares, long ago conquered and confounded by the trophy of Christ, fear to appear openly as they did before the Lord’s incarnation; and therefore among unbelievers they falsely present themselves as good spirits.
+
+There are also those who add a fourth mode to the three already described, saying that the mind or spirit of the man himself can naturally perform wonders, provided that it knows how to recall itself from every adventitious thing into itself, above the senses, into unity. For those who maintain such things promise that by nature they can perform wonders, foretell future things, disclose men’s secrets, remove diseases, and suddenly change a person’s counsels. But this mode of miracles cannot be simply natural, certain, common, and infallible, since if it is true, which I have not experienced, it is necessary that something of an external power also be present, and that either a good angel or a malignant spirit occupy the person thinking in some part. But if no power from outside intermingles itself, it is necessary that the one prophesying form the beginning of his speech either from conjectures or from bold presumption, and pronounce a judgment sometimes true, sometimes false. For indeed, as long as the spirit dwells in the body, it understands nothing naturally
+
+--- Page 050 ---
+
+36 THE EIGHT QUESTIONS OF JOHANNES TRITHEMIUS.
+
+without the ministry of sense. Therefore I would not altogether object if they were to grant that our confused and rude understanding is helped by an equal ministry. For we see, in those who often exceed the measure of the flesh by contemplating in the inward desire of love for Jesus, that they are lifted upward from the earth into the air; and we think that they surpass the bodily weight not by the mere sharpness of their own mind, but no less by divine power. The three principles of opinion mentioned above therefore satisfy many concerning things unknown, but few, in my judgment, so that the mind placed in the body may [unclear]. I speak of a thing experienced.
+
+When as a young man I was pursuing literary studies, four of us were sleeping one night in one bed. A contemporary of mine rose from my side, and, sleeping as he was accustomed to do in dreams, with his eyes closed and the full moon shining in, went about as though awake. He climbed walls and overcame every obstacle with his agility. While asleep he also crossed the bed a second and a third time; he trod on all of us with his feet, and we felt his weight no more than if something very slight had touched us. Wherever his body moved while he was asleep, all the fastenings of the doors were suddenly opened beyond measure. He very swiftly penetrated the higher parts and structures of the house, and clung to the roofs like a sparrow. I am speaking of things seen, not heard by vague report. These seem to be offices of the soul, not of the body; the soul uses its natural power, so to speak, almost freely, when, with the senses of the flesh bound, it wanders outside the dwelling of the body. But since this is not matter fitting the proposed question in every respect, I leave discussion of the causes of these wonders for another
+
+[segment 20]
+--- Page 051 ---
+
+...naturally understands without the ministry of sense. Hence I would not wholly resist if they concede that our confused and rough intellect is aided by a similar ministry. For we see that those who, in contemplation, often pass beyond the measure of the flesh through an inward longing of love for Jesus, are lifted upward from the earth into the air; and we think that they surpass bodily weight not only by the sharpness of their own mind, but no less by divine power.
+
+Therefore, in my judgment, let the three remembered principles of this opinion, unknown to many, suffice for a few: that the mind, placed in the body, by its own power works marvelous effects outside itself. For what? Let anyone ignorant of nature tell me whether bodily weight can be lightened by the operation of the mind. I speak of a thing I have experienced, with two others as witnesses along with me. When, as a young man, I was pursuing literary studies, four of us were sleeping one night in one bed. A companion rose from my side, constrained and asleep, as he was accustomed in sleep, and with closed eyes, while the fifteenth-day moon shone within, he was walking about the house as if awake. He climbed walls and overcame locks by his agility. Still sleeping, he also crossed over the bed a second and a third time; he trod on all of us with his feet, yet we felt his weight no more than if something tiny had touched us. Wherever his sleeping body was moved, suddenly all the fastenings of doors were opened beyond. He very swiftly penetrated the higher parts and buildings of the house, and clung to the roofs like a sparrow. I speak of things seen, not heard by wandering report.
+
+These seem to be the offices of the soul, not of the body; the soul uses its natural power, so to speak, almost freely when, the senses of the flesh being bound, it wanders outside the dwelling-place of the body. But since this matter is not wholly suited to the proposed question, let us put off the treatment of the causes of these marvels to another time. For we do not think these things marvelous to the wise, who have best understood the power and nobility of the human mind, since, hindered only by the interposition of the body, it is judged in some respect equal to the angels.
+
+Finally, we pass over the various modes and kinds of fascinations, by which the frenzied man works very marvelous effects upon external things. The very strong imagination of a confident person can also do much to produce marvelous effects, whether it is directed toward a true object or toward one only imagined. Therefore, since there are so many kinds and modes of working marvels, it is not to be wondered at if Jews, Saracens, pagans, gentiles, and all the other unbelievers established outside the faith of Christ, who cannot perform miracles by public justice, accomplish marvels either by the support of demons or by artful industry. Nor does it escape me that by the same reasoning the miracles of the saints are attacked by the impious, as though they were done not by the power of the Creator, but rather by the involvement or substitution of the devil. Whoever truly believes that the Christian faith alone is true does not doubt that all the miracles of unbelievers are performed by the cooperation of demons. But if anyone rashly and obstinately thinks the contrary, he shows himself an unbeliever, not a Christian.
+
+*On Sacred Scripture.*
+
+*Question Four.*
+
+The fourth question of your Most Serene Majesty was this: Why has almighty God not given sacred Scripture, containing the mysteries of our faith in both the New and the Old Testament,
+
+--- Page 052 ---
+
+open and manifest, uniform in all things, and plainly sufficient for everything, but rather wrapped up and in many places full of riddles? For many things necessary for the perfection of faith are not found sufficiently expressed in the divine Scriptures.
+
+To this question of your most sacred Majesty it seems one must answer: every Scripture divinely inspired is a perfect work of divinity, ordered and preordained before all time, written in time just as God willed, who inspired men that it should be written. For all the works of God are perfect. Therefore, since the Scripture of which we speak is the work of God, it is necessary to confess that it is perfect in all things. For God, the supreme arbiter, all of whose works are perfect, gave to his Scriptures the order he willed and the one he willed, and without doubt poured into those receiving them the manner in which they were to write. For almighty God gave such authority and majesty to sacred Scripture that, in comparison with it, all the words of this world fail, since divine things cannot properly be comprehended by human speech.
+
+Therefore divine Scripture, which on the surface of its words appears confused to the ignorant, seems manifest to those who know it, since unless it is read in that Spirit by whom it is believed to have been poured into men, one by no means reaches an understanding of it. The learned man who is inflamed by the embrace of the flesh and vain desires reads it in one way, and the man of understanding reads it in another, whom the love of God truly inflames after he has been stripped of pleasures. Hence it is no wonder if men wise according to the flesh do not understand the divine Scriptures, for, blinded by the pleasures of the flesh, they cannot taste the sweetness of the Spirit of God.
+
+[segment 21]
+--- Page 053 ---
+
+*To Maximilian Caesar.*
+
+they have never perceived the sweetness. Just as, if you show to a boy who is learning the first elements of letters any written volume whatever, whose script is unlike that in his own little book, when he cannot read the writing he will at once cry out that it is bad and not properly formed. In the same way, men approaching the reading of the divine Scriptures who are wise only according to the flesh, because they do not grasp the things that are of the divine Spirit, weighed down by vices and rashness, when they ought to have blamed their own ignorance and unworthiness, criticize the holy Scriptures that they do not understand.
+
+For it is not lawful for everyone indiscriminately to interpret the divine Scriptures, lest the beast, touching the mountain, be overwhelmed with stones. Now many arise in a perverse order, who have spent the whole time of their life on humane letters and, having grown old, wrongly interpret the divine Scriptures, which they never learned; they do not explain them, but confuse them and discuss them according to their own sense. Hence all who do not understand the sacred Scriptures by that Spirit by which they were infused into those who wrote them have a veil of ignorance and rashness spread over their hearts, in the manner of the Jews; and from that source they often draw the poison of pernicious error, from which the humble, approaching in the Spirit of God, have received the cup of salvation.
+
+For heavenly doctrine is not contained in the words of the Scriptures, but in their meaning; not in the surface of the discourse, but in the understanding; not in the leaves of adorned speech, but in the hidden place of mystical inspiration. Hence the holy Pope Gregory says: Sacred Scripture far surpasses all the sciences of this world in its manner of speaking, since in one and the same discourse, while it narrates the text, it reveals a hidden mystery; and just as it refreshes the simple by its surface, so it exercises the wise by its mystery. For it has in public what may nourish little ones, and it preserves in secret what may
+
+--- Page 054 ---
+
+hold the minds of the lofty suspended in wonder at its sweetness, like a certain marvelous river in which the simple and little lamb may walk and the great elephant may swim.
+
+And Saint Augustine says on Genesis: Divine Scripture speaks in such a way that by its height it mocks the proud, by its depth it terrifies the attentive, by its power it feeds the great, and by its affability it nourishes the little. For the authority of sacred Scripture is greater than all the insight of human talent. Therefore, in order that one may arrive at the true understanding of it, first of all the mind must be cleansed of every fleshly affection, and the aid of divine goodness must be diligently implored with humility, so that by his Spirit he may illumine the understanding of the learner.
+
+For all necks of powers must be submitted to the authority of the divine Scriptures. And, as the holy Jerome says, one must never flatter a man in such a way that the truth of the holy Scriptures is neglected. In both Testaments it is wholly true in its narration of deeds, right in its admonitions, certain in its promises, and terribly to be feared in its threats. Therefore it is not given to all to be able to penetrate the mysteries of the divine Scriptures, but it is permitted only to those, in whatever measure, whose study love continues and to whose purified minds the Spirit of God grants true understanding.
+
+But whoever is foul with the darkness of vices, whoever walks proud with swollen mind, whoever doubts the truth of the Scriptures of God either in part or in whole, let him never trust that he can reach their understanding. For the authority of Scripture itself says: Unless you believe, you will not understand. It is the slowness of our intellect, and also the impurity of our desire, whenever we do not rightly understand the divine Scriptures, namely when the veil of pernicious occupation
+
+[segment 22]
+--- Page 055 ---
+
+*To Emperor Maximilian.*
+
+...spread over our hearts, which does not allow us to arrive at the true understanding. Hence it happens that we do not understand the sense which the Holy Spirit has poured into the divine Scriptures, but, grasping the bare words of the writers, twist them into another sense. Indeed, if our minds were purified from carnal vices, if by the continual pursuit of sobriety the intellect were exercised in the Scriptures, if belief and reverence were applied to them as their dignity requires, every zealous student would understand more clearly than light that in the sacred readings there is nothing confused, nothing discordant, nothing unsuitable, nothing absurd, and nothing inserted without the most just reason.
+
+For all the passages of divine Scripture are full of mysteries, and whenever anything in them seems obscurely placed, it has been done by divine providence, so that the studious mind may have the necessary exercise of piety and the faith of the simple may not lose its proper place of reverence. Therefore not by chance, but by eternal providence, he willed the holy Scriptures to be obscure in many places, so that they might abound in as many mysteries as the senses in which, by the inspiration of the Spirit of God, they are explained in Catholic fashion by the doctors. For, as holy Augustine says, the obscurity of divine Scripture is useful and very profitable, because it begets and brings to light for men many meanings of truth; for when one person draws out this sense and another another, while explaining it in Catholic fashion, it becomes known how lofty and profound it is. Therefore let no man swollen with secular literature suppose that he understands sacred Scripture unless he has first laid aside the veil of pride and of every disordered desire. For secular literature is more useful for exercising the intellect than for illuminating the understanding toward true wisdom. It is therefore without doubt...
+
+--- Page 056 ---
+
+*Johannes Trithemius, Eight Questions.*
+
+...that divine Scripture, for minds purified through the continual exercise of divine fear and frequent study in reading, is manifest and clear, though to the defiled and to those given over to secular wisdom it seems confused and obscure. Hence that person understands the holy Scriptures well and rightly who, with his affection purified and frequent in their study, explains them according to the intention of the one who wrote them. For if they are read in a spirit other than that by which he is believed to have inspired them to be written, the mind must be wholly barred from true understanding.
+
+But when we encounter some discordance in them, let us understand that it is merely of words, not of meanings; and that it arises not by chance, but by the ordering providence of God, so that the mind, exercised longer in the Scriptures, may be strengthened, lest it grow altogether sluggish. For God’s counsel cannot be deceived; but the divine Scriptures were written according to the counsel of his will. It follows necessarily that they are true and in no way false.
+
+They were men by whom the divine Scriptures were handed down to us; and they wrote words, certainly, that were in ordinary human use, by which they might signify to posterity what that supreme excellence of divinity willed to be known to mortals. Therefore, you who are now devoted to secular wisdom and attack the divine Scriptures, tell me: the Scripture of the New and Old Testament, which the Church of Christians has received and venerates as true, authentic, and holy, from where do you believe it was received? From God, or from men? If from God, why do you not believe it? For everyone who attacks Scripture while believing it inspired by God most manifestly resists the divine ordinance. But if it is from men, why do you hope for the eternal salvation promised in it, which man cannot give? Unless perhaps, madmen, you go on to say that everything is fabricated, that nothing remains after death but ash, and that the mind undergoes destruction together with the body.
+
+[segment 23]
+--- Page 057 ---
+
+*To Maximilian Caesar.*
+
+unto destruction. This profession would show you to be no less insane than foolish. For if you truly believe in our Lord Jesus Christ, the only-begotten Son of God, you will necessarily say that the divine Scriptures were inspired by the Holy Spirit. But if, having fallen with apostates into a reprobate mind, you say that they were fabricated by men, you impiously show how far you are from true wisdom, wandering in darkness; you openly show yourselves to be ignorant and rash judges, since you condemn a Scripture that you do not understand. Yet because it is more familiar to you to despise wisdom than to learn it, it is not the purpose of this work to weary the mind any longer against the rashness of the ignorant.
+
+This one thing I wish you to know: no one understands unless he receives. But because you set the filth of your affections in the way, so that you may not receive, you therefore do not have the understanding of true wisdom. For almighty God, the illuminator, deigns by grace to be present to those who, stripped of carnal desires, burn with the fire of inward love, and who desire nothing in this world except for God. The Spirit of God brings the help of his presence to those whom he has found rooted in love of the truth, and, when they have been cleansed of every foreign thing, leads them into the knowledge of all things. For to those who truly love God all things are open, all things bare, all things manifest, because whoever through love beholds, in the faith of Jesus Christ, him who creates and governs all things, knows all things that are necessary for his salvation.
+
+But, on the contrary, the illumination of God dwells very far from the lazy, the wicked, gluttons, the envious, the greedy, the night-roaming, the filthy, the lustful, murderers, the impious, the proud, and those alien to piety, leaving them to the will of the avenging demon, who, striking them with the sharpness of savage fire, afflicts their senses and mind, and all the more arms and impels the impious to commit crimes,
+
+--- Page 058 ---
+
+so that, guilty of a baser fault, they may also become liable to a sharper punishment. Hence, entangled in vices and worldly desires, they are not only unable to penetrate the divine Scriptures with understanding, but, neglecting themselves, they do not even know themselves.
+
+Since, then, sacred Scripture is the perfect work of God, Caesar, we must so strengthen the mind that we believe it to be true, right, whole, solid, divinely inspired, and most abundantly sufficient in all things for those who understand, for the confirmation of the Christian faith. Indeed, unless divine Scripture is believed to be true, holy, perfect in all things, and whole, the Christian faith would be deprived of its foundation. Therefore every Christian must take the greatest care that, by scrutinizing the divine Scriptures more than is expedient, he not go beyond the bounds of piety; for the author of the Scriptures is not man, but the Holy Spirit, and whoever resists the integrity of the Scriptures of God is proved to resist his ordinance.
+
+Moreover Scripture, by the ordinance of God, is usefully woven together with parables, riddles, likenesses, and comparisons of figures, so that readers may be exercised toward understanding and, once its inward sweetness has been tasted, the mind may be strengthened toward piety. And so, if with purified minds we attend to the sense of Scripture, not to the words, we shall understand how rightly and properly all things have been ordered. For it was not fitting that the sacred Scriptures, in which the knowledge of the divine majesty is handed down, should be so completely plain and manifest that they would everywhere be understood by all, since they are set forth to be understood only by the good and holy, not also by evil, filthy, and polluted minds.
+
+For from this comes the Scripture: “The beast that touches the mountain shall be overwhelmed with stones.” What is designated here by the beast, except human beings who, in imitation of brute animals, live without the love of God in pleasures
+
+[segment 24]
+--- Page 059 ---
+
+To Maximilian Caesar.
+
+... the pleasures of the flesh. And what is expressed by the mountain, if not the loftiness of the divine Scriptures? When a beast approaches this holy mountain, it is overwhelmed with stones, because a man impure in mind, or weak with respect to faith, who strives to search out the height of the divine Scriptures without a teacher handing it down, is wounded by various and pernicious errors, as though by blows of stones. For just as all things are clean to the clean, so all things seem profane to the profane. Therefore God has placed his hiding place in the loftiness of the Scriptures, which is so inaccessible and closed to the reprobate that nevertheless it always lies plainly open to the saints.
+
+Why, moreover, almighty God did not give holy Scripture as sufficient and manifest for everything that concerns the Christian faith, we briefly answer. There are two things which the Most High has provided for believers for the confirmation of the Christian faith, namely the Church and Scripture, so that what is not expressed clearly enough in the one may be declared more fully by the other. Hence, if we find anything in the holy Scriptures expressed less sufficiently concerning the rules of faith, we at once have recourse to the Church. And where the Church, in salutary instruction, has need of piety, it immediately turns to Scripture. Hence it comes about that neither would the Church have authority without Scripture, nor Scripture have faith without the Church, so that from the two there may be one judgment. For Augustine says: I would not believe the Gospel unless the authority of the Church compelled me. And Johannes Gerson says: I would not believe the Church unless the Gospel compelled me. The Church confirms holy Scripture, and she herself is likewise confirmed by Scripture. The Church abounds whenever Scripture is lacking. And if ever the Church is in doubt, she has recourse to the counsel of Scripture. For one...
+
+--- Page 060 ---
+
+... is the Holy Spirit of God, who founded the Church in the faith of Jesus Christ, the same almighty one who alone inspired Scripture. And this is the threefold cord which is not easily broken, where divine Scripture is joined by the Holy Spirit to the authority of the Church, to such an extent that the Church commends Scripture, and Scripture in turn commends the Church.
+
+Thus, as it seems to me, O Caesar of unconquered majesty, we have assigned a sufficient cause for the proposed question. For if everything in the holy Scriptures that concerns the piety of faith were manifestly expressed, holy mother Church would not seem to be of such great authority, and the merit of salutary obedience would be emptied out in great part. At the same time, I think enough has been answered to the principal question, where some suppose that sacred Scripture is confused and imperfect in many places, though, if they read it with due purity of mind, they would certainly find it perfect and solid.
+
+Great is the authority of the Catholic Church, which alone, in doubtful matters that concern the faith, has the right to interpret the Scriptures; to her the necks of all powers must be subjected. If anyone departs from her definition with rash daring, he has denied the Gospel of Christ. There is one congregation of the faithful, the mother of Christians, the holy Church, outside whose unity no one will be saved. And although she may sometimes seem weak in morals, nevertheless, always constant in faith, she has never erred, with the piety of Christ preserved.
+
+* * *
+
+Concerning Re-
+
+[segment 25]
+--- Page 061 ---
+
+TO MAXIMILIAN CAESAR 47
+
+ON THE REPROBATE AND WITCHES.
+
+QUESTION FIVE.
+
+The fifth question of Your Most Serene Highness was this: Why can impious, evil, and reprobate people in matters of faith, such as those women whom we commonly call witches, command malign spirits, when good men and the most zealous observers of the Christian faith can command neither good spirits nor always malign ones?
+
+I remember that I once answered this question as follows. In all the works of the divine majesty there is a sequence and order of beauty, grounded in unchanging equity, by which individual things, suitably arranged, persevere in the rank they have received. For without its proper order nothing subsists in the world. In this order, the freedom of choice that the Creator gave to all human beings is driven by no violence of power so as to prevent it from always remaining in the order that the first man received from the beginning of his creation. Hence no one among mortals is good except by the counsel of his own will, aided by the grace of a merciful God; and no one is evil except of his own accord, deprived of grace because of the obstacle of sin. By uprightness of will we are made like good spirits, if we prove the piety of the faith that we have in Christ by holy and necessary works. And just as the good consummation of the will makes good people equal to angelic spirits, so the perversity of the impious renders them like demons. Hence evil and perverse people, the more fully they have been depraved by the malice of their own will,
+
+--- Page 062 ---
+
+48 JOHANNES TRITHEMIUS, EIGHT QUESTIONS
+
+the more they become like demons in disposition. By likeness, moreover, the familiarity of friendship is introduced, from which mutual confidence is gradually generated. From the confidence of the lesser toward the greater, command arises, whether it is real or feigned by cunning. Therefore if any command over demons seems to exist among depraved people, it arises from the magnitude of depravity: namely, when their disposition is depraved to such an extent that, by their reprobate will, they either surpass or equal the malice of the demons who join themselves to them.
+
+For not all demons are equal in malice or intelligence; rather, one is much craftier than another in agility of understanding, and far worse in depraved disposition. For those who, having fallen from their lofty seats, are more closely joined to the earth and inhabit caves and caverns are certainly duller than the rest, to such a degree that they fear swords and seem to be moved by rods and threats from men who terrify them, as may be observed in those whom we call possessed. But the demons who dwell farther away from the earth are subtler in nature and associate more rarely with human beings. Evil-filled people, however, the more they advance in perversity of will, the more like demons they become; and, once admitted by them into familiarity, they thereafter grow bold and receive command over the demons whose familiarity they use, not a command of coercive power but of feigned pretense. For demons, in order to keep willingly in their depravity those people whom they have once received in surrender, gladly subject themselves to them as though moved by pretended dominion; and what they do of their own accord, they pretend to do as though compelled to obedience. For no one obtains true command over demons unless faith in the Lord
+
+[segment 26]
+--- Page 063 ---
+*To Maximilian Caesar.*
+
+our Lord Jesus Christ, through the merit of holiness, has made acceptable and dear to God; for thus Scripture says of those who truly believe in the Lord Jesus: “And he gave them power over all demons.” Therefore evil men command demons: malevolence made them like them, likeness made them familiar, and familiarity made them their own and subject to them.
+
+It is as when some servant of a great prince, born in a humble station, is said to command him because he is joined to him by long familiarity, and obtains from him without contradiction everything he asks, so that he seems rather to rule his lord than to be ruled by him. According to this likeness, evil and reprobate men, who are admitted by demons into their familiarity and become very bold through long-standing confidence, receive over them a simulated, not to say familiar, command, which they have earned through the likeness of a most depraved will. Hence they receive whatever they have asked from demons who assist them by an implicit or explicit pact, except whenever, being forbidden by divine ordinance, the demons cannot provide what is requested. Yet they do not thus attend indiscriminately on all the reprobate and evil, but only on those with whom they have entered into treaties through the intervention of some pact, such as witch-women who have offered homage to the Devil, and those summoners of demons whom the common people call by the customary term necromancers.
+
+There are two kinds of men who can lawfully command demons.
+
+The first is that of those men who, beloved by God because of the merit of holiness, have received from him the power to trample the head of the ancient serpent, such as in the primitive Church were the Apostles and their
+
+--- Page 064 ---
+followers and disciples, concerning whom the Lord speaks in the Holy Gospel: “In my name they shall cast out demons,” and “they shall take up serpents.”
+
+The second kind is that of those men to whom, by reason of order in the Church of God, it is granted that they may drive demons from human bodies by the power of the ministry they have received. And this ministry is entrusted to exorcists in the Church of God when they are ordained by the bishop.
+
+Again, there are two kinds of men who desire to command demons, and the utterly wicked terms show how unlawfully they presume to do so.
+
+The first and most pernicious kind is that of witches, who enter into pacts with demons and, after making a solemn profession, hand themselves over to some demon as his property and to perpetual obedience. How great are the evils this most pernicious kind of human beings commits in your empire, most wise Caesar, no one can express. For first of all they deny God, the faith of Christ, and sacred Baptism; they offer themselves, mind and body, to demons; they weaken, harm, and kill human beings and beasts of burden by their witchcraft. There is no disease which, God permitting, they cannot induce, because when they present themselves as servants to demons in observing the covenant of the pact, in comparison with those demons they dare whatever they wish. Hence they are nowhere to be tolerated, but rather utterly exterminated in every place, as God the creator of all commands: “You shall not allow witches to live.” Some witches call up demons with charms, others entice them with prayers and sacrifices, and the rest provoke them with unspeakable things and ceremonies.
+
+[segment 27]
+--- Page 065 ---
+
+TO EMPEROR MAXIMILIAN 51
+
+By provoking them, they draw them into the assistance of their own impiety.
+
+It is therefore no wonder that witches seem to command demons: by the impiety of a perverse will they have become like them, and by mutual intercourse they are in agreement for the harm of the human race.
+
+The second kind of depraved persons who wish to command demons is that of those whom we commonly call necromancers. They profess arts full of execrations, by which they promise that they can summon demons into a circle, or show them openly visible, enclosed in a crystal or some other vessel. These most pernicious people, full of falsehood and superstitions, commit evils so great that no good person could imagine them.
+
+For, in order to entice demons into service to themselves, they very often use the foulest sacrifices and enter into an explicit pact with them. They circulate many various little books, full of filth, impiety, and falsehood, and falsely inscribed with the names of ancient philosophers and sages; by displaying these they deceive many unwary and curious people, and drag them with themselves into the pit of demons. They promise great and wholly incredible things, at the hearing of which they deceitfully hold people suspended in wonder.
+
+They say that by rings, pentacles, images, exorcisms, and conjurations they can constrain malignant demons, so that they appear visibly in a circle or in a crystal, or in some other receptacle, and answer distinctly to all questions asked. All indeed promise this, but in our times very few are found to whom malignant spirits, even for evil purposes, obey in this way, since God, for the most just reason, does not permit it, lest the curiosity of human beings, prone to novelties, [unclear]
+
+--- Page 066 ---
+
+[unclear]
+
+[segment 28]
+--- Page 067 ---
+
+*To Maximilian Caesar.* 53
+
+...wish to have no dealings with demons, and nevertheless in their empty operations make use of things appropriated to demons, and for that reason wholly illicit. For they think that there is some great and hidden power in characters, and therefore commit various errors against the faith of Christ. But since it is not our purpose at this time to recount their madness, let us pursue our subject.
+
+Why good and righteous men do not obtain command over demons must be stated briefly. Just as likeness of wills makes evil and impious men equal to demons, so difference of will renders good and righteous men wholly opposed to them. But among opposites and dissimilar things there can be no familiarity; rather, continual resistance and hatred prevail. Where there is no familiarity contracted by likeness of wills, there can be neither confidence of one toward another nor mutual concurrence in the performance of marvels. Nor do you, glorious Caesar, though you are a man and a great ruler and prince of men, admit as intimate with you anyone whose conduct is wholly contrary and unlike to yours, and who constantly resists your will. But good and upright men, because they always oppose the most depraved will of demons, can in no way pass into their fellowship; they neither wish nor consent to be intimate with them, but with all their strength shun and detest contact with them. Therefore, in the matter just mentioned, they do not obtain command over them. For there is no familiarity where no likeness of wills has preceded it; nor can there be concord between opposites, nor does friendship stand where the will is divided. Yet demons do not indiscriminately obey all evil and reprobate persons,
+
+--- Page 068 ---
+
+but only those with whom they are allied by pacts and services. When invoked, they gladly come to those whom they cannot otherwise keep faithful, although they falsely say that they are compelled. It is therefore no wonder, excellent Caesar, that malignant spirits sometimes seem to obey depraved and perverse men, whom, as we have said, both malice made like to them and destruction against the human race made concordant.
+
+But let it be far from every Christian to wish to command demons through a depraved likeness of will. For if anyone in this life begins to have fellowship with malignant spirits, in the life to come he will burn with them without end. But why can good and righteous men not command the holy angels of God, since they have passed into the likeness of their good will? I think that from what has been said above the solution to this question would easily be given, if the difference of intellects were recalled to mind. For although there are many men established in the Church of God whose righteousness profits many unto salvation, nevertheless in our times very few advance so far that, by merit of holiness, they are either to be feared by demons or received by angels into the fellowship of intimacy. Hence it happens that men of our age neither command malignant spirits by merit of holiness nor deserve to be intimate with the holy angels.
+
+But if any have advanced to that degree of holiness by which, performing miracles in the Church, they have advanced as the saints once did, then they can powerfully command demons and possess the intimate fellowship of the blessed spirits. For it is certain that holy men beloved by God in the primitive Church of Christians once bestowed greater benefits upon mortals by the cooperation of good spirits than
+
+[segment 29]
+--- Page 069 ---
+TO MAXIMILIAN CAESAR. 55
+
+than the impiety of wicked men could ever have inflicted through the ministry of demons. For whoever is a true worshiper of God and has become like the holy angels can, by prayer, do many wondrous things.
+
+ON THE POWER OF WITCHES.
+QUESTION SIX
+
+The sixth question of Your invincible Majesty was: whence comes this so great power in witches, by which they are able to perpetrate so many, varied, and wondrous things, even in a single hour, of such a kind and magnitude as no good person could accomplish in an entire lifetime?
+
+If we wish to answer this question briefly, we must necessarily say that all power is from the Lord God, without whom no creature can do anything. For Christ says in the holy Gospel, “Without me you can do nothing.” Hence it is clear that every power of doing anything is granted to human beings by the Lord God, and from nowhere else, whether people do good or evil. Hence the most holy bishop Augustine says: the will of God is the first and highest cause of all corporeal forms and motions, and nothing happens visibly in this most ample and immense commonwealth of the whole creation unless it is either commanded or permitted from the inner, invisible, and intelligible court of the supreme Emperor, according to the ineffable justice of rewards and punishments. Hence, Caesar, there must be no doubt that that power of witches, by which, with the cooperation of demons, they produce wondrous and horrible effects, is granted by the Lord God, whose will no one can resist.
+
+D 4
+
+--- Page 070 ---
+
+No one can resist it, and without his influence no human being can even move his hand. For the holy doctors conclude that neither demons nor witches can do anything, whether to harm a human being or a beast of burden, unless almighty God wills it, consents to it, and grants them the power to do what they have already resolved upon with perverse will. Unless God consents and wills, no creature can do anything; otherwise, if something could be done without his willing and consenting, it would necessarily follow that God is weak, since he could not prevent what, against his will, he would be forced to permit to happen. But since every human being, insofar as he is a creature, depends on God, he can do nothing without the will of him from whom he has both willing and being able.
+
+Whatever, therefore, witches do, God thus permitting it, since without his will they can do nothing, and since, unless God granted it, they would obtain neither from themselves nor from demons the ability to do what they wish: all power, then, is from the Lord God, in whom all things exist and are moved, as in the first cause of all things. For from the one from whom we have received freedom of choice, from him we also have the power to do what we will. But since the understanding of witches is very confused, they perpetrate the evils they do not by human art, but by the cooperation of demons; just as nature has made demons subtle, so long experience has made them swift in producing wonders. For the wondrous effects of witches are not caused by such means as they use for witchcraft, such as heads of the dead, toads, serpents, characters, images, and things like these, but by the Devil, who instituted these signs; since he is most proud, he desires in all things to be seen as comparable to God. For indeed, just as almighty God instituted certain sacraments in his Church, which
+
+[segment 30]
+--- Page 071 ---
+
+TO MAXIMILIAN CAESAR.
+
+when they are administered worthily, with his own assistance, signify and produce a saving effect, he himself who instituted them bringing salvation to pass. So too the devil, who desires nothing more than to be considered equal to God, has instituted certain signs as though they were sacraments. When he is invoked by those with whom the malignant worker is allied by pacts, he is present through these signs; and as often as God permits, he brings about the evil for which he is asked. If God does not permit it, he does absolutely nothing. For the devil is the worker of all necromantic effects and of the effects of witches; by applying the means which he himself first instituted, he produces the desired work in the subject matter, sometimes really, sometimes only apparently.
+
+But women who are witches, already depraved in will and having passed by consent through pacts into fellowship with demons, receive from them certain marks and symbolic signs; when they are summoned by these, the demons immediately come. In these destructive operations of demons nothing is stronger than the foolish credulity of witches, which is increased by pacts and vows, since the firmer the faith they place either in the demons or in their signs, the more swiftly they obtain the operation through their cooperation. For the excessively savage depravity of the witches’ will in a certain way turns them into madness; when this has taken possession of the mind, the demons at once attach themselves to the raving women, and, invited by pacts and signs, with God permitting, they grant the effect of the petition to those who are insane. Plato recounted something similar in the book On Poetic Frenzy, saying: just as bacchic women, not of sound mind, draw honey and milk from rivers, but when of sound mind could not draw them. Their mind, carried outside itself into fellowship with an evil demon, brings this about. We have found by experience that witches have drawn butter from rushing rivers
+
+--- Page 072 ---
+
+at certain times, something which can in no way be done except by the ministry of a demon. In the same way, when they have been drawn into hatred of some person or beast and are breathing out its destruction, they are driven by the gravest madness, thinking of nothing in their mind except revenge. They take up things known and familiar to them for witchcraft, invoke demons, display the signs instituted by them together with the characters, and what they cannot accomplish by their own power they obtain through the demons’ ministry.
+
+But another person, who is not subject to demons by pact and surrender, even if he knows the things suited to witchcraft and also the manner of working, and although he displays the signs, nevertheless rarely obtains the effect, because he is not regarded as one of the demons’ familiars. For the devil, swollen with pride, imitates the Church of Christ to such a degree that, just as one who is not ordained cannot consecrate the body of Christ, no matter how much he utters the words of consecration, so also the demon, however much he is invoked and however much the signs or characters are displayed by someone whom he knows not to be subject to him by pact, either never or only rarely cooperates. For if he came indiscriminately to all who invoked him without pacts first being interposed, he would not possess so many witches dedicated to him by right of ownership. Hence it is that many people devoted to profane arts, laboring with dreadful conjurations to summon demons to a circle, a mirror, or any other receptacles, obtain no effect, because either God’s command stands in the way, or the devil despises the curious man who has not been dedicated to him by homage.
+
+For three things are required for witchcraft, without which it is certain that none is perpetrated: a witch raging in mind and depraved in will; also the cooperation of a familiar demon:
+
+[segment 31]
+--- Page 073 ---
+
+TO MAXIMILIAN CAESAR 59
+
+and, before all else, divine permission. If one of these does not concur, witchcraft cannot be perpetrated. For if God did not permit it, neither the Devil nor the witch could do anything. And if the Devil did not come to the aid of the woman’s depraved will, she would perpetrate no witchcraft. Again, if the witch were absent, the Devil would by no means bring the witchcraft to completion. For the Devil uses the will of a raging witch as an artisan uses an instrument for working; without it he cannot inflict witchcraft. And just as demons differ from one another in power and in keenness of subtlety, so the power of witches is not one and the same in all, but differs in each, according as demons of a subtler or grosser nature cooperate with them. For there are many kinds of demons, and they stand apart from one another in fixed ranks, by reason of the places into which they were thrust down when they fell at the beginning.
+
+The first kind of demons is called fiery. It wanders about the upper air and is never plunged down to the lower regions before the day of judgment; rather, remaining continually beneath the lunar regions, they have no commerce with human beings on earth. That they remain beneath the moon is attested by Saint Augustine in the work On the Christian Combat, saying thus: demons do not dwell in heaven, where the sun and the stars are, but all move about beneath the lunar region. Moved by this, as I think, Apuleius said that demons are fiery animals, because Aristotle confirmed that in burning furnaces certain small animals have rather often been seen flying, fitted with little wings, which spend their whole life in fire, since they are born with fire and are extinguished with it, and, vanishing away, return to their own place from which they had come.
+
+--- Page 074 ---
+
+60 IOA. TRITEMIUS, EIGHT QUESTIONS
+
+They have no associations with witches, since, because they dwell in fire, on account of their subtlety they cannot put on a gross or airy body.
+
+The second kind is called aerial, which, wandering in the air, dwells near us. Indeed, they can descend to the lower regions and, having assumed bodies from the denser air, sometimes appear visibly to human beings. With God’s permission they quite often disturb the air, stir up thunder and storms, and all together conspire for the ruin of the human race. They are moved, in the manner of human beings, by the affections of the passions; they are especially touched by pride and envy and by continual disturbances. They are neither clothed with a solid body nor fixed in one place, nor do they all have one form; rather, they have many forms and change them quite often according to the variety of the affections by which they are either summoned by the spells of witches, or impelled by disturbance to do harm. For they have an altogether violent and furious character, full of disturbances; hence, when greatly injured and disturbed, they most often devise sudden ambushes. When they make their incursions, some wish to remain hidden, while others inflict violence. Witches, supported by the cooperation of these demons, are so much the more powerful in working witchcraft, the higher the member of that order whose cooperation they have obtained. In the Life of Saint Anthony, Saint Athanasius said that the air is full of demons, which Mercury Trismegistus had said before him: namely, that no part of the world is deprived of the presence of demons. Saint Ambrose the bishop also says: the world is full of holy powers because it is full of wickedness. Hence the Platonists [unclear] demons flying in the air in the manner of a very dense [unclear].
+
+[segment 32]
+--- Page 075 ---
+
+*To Maximilian Caesar.*
+
+...of the densest fiery snow visible to those who wish to see them, if for some time they keep their gaze turned toward the sky, with the sun shining, and with eyes not struck back by its glare. But I do not know whether the object is produced in the air from a real consistency, or whether, rather, the constrained motion of the eyes represents false images, not without harm to the sense of sight; nevertheless, I have made a slight experiment of the things just mentioned.
+
+The third kind we call terrestrial demons, whom we by no means doubt to have fallen from heaven to earth for their deserts. Concerning these the most holy bishop and martyr of Christ, Theophorus, once Ignatius, wrote thus in a certain letter to the Ephesians: “Nothing is better than to have peace, in which every weapon is rendered void, both of aerial and of terrestrial spirits.” Among these demons, some dwell in woods and groves, who lay snares for hunters. Others live in open fields, who make travelers wander at night. Some dwell in hidden places and caves. The rest, less furious and disturbed than the others, take delight in staying with human beings in darkness. They are not led by one affection but by various ones, since some are less depraved than others, although all are full of evil disturbances. Some of these rejoice in terrifying people by illusions alone; others, by predictions of future events, desire to draw their hearers into admiration of themselves. Some, moreover, labor with the utmost effort to terrify, harm, or kill human beings disturbed by irrational madness or raving with melancholy; we have learned by experience that this has often happened. Hence Saint John Chrysostom, in the third book *On Providence*, to the monk Stagirius, says: “The magnitude of sorrow is more powerful than every diabolical action for doing harm; because whomever a demon overcomes, he overcomes through sorrow; if you take that away, no one will be able to be harmed by a demon.”
+
+--- Page 076 ---
+
+This kind of demon, however, is rarely familiar to witches, because of the inconstancy of their affections and the fickleness by which they rejoice in terrifying many people rather than being subject to the command of one little woman. Yet they sometimes dwell with, or make promises to, madwomen, in glass or in crystal or in a mirror; when stirred up by charms, they give women answers, and if someone coming along the road has cursed them, they announce it beforehand. And this kind of witches differs considerably at times from the rest, because while those make a person ill by witchcraft, these promise to cure him. But because they for the most part repel witchcraft by witchcraft, every Christian is forbidden by the Church to have recourse to them.
+
+The fourth kind of demons is called aquatic, because, immersing itself in waters, it lives around lakes and rivers: full of anger, disturbed, restless, and deceitful. It stirs up storms at sea, sinks ships into the deep, and takes life from many in the waters. And whenever these demons assume a visible body, they more frequently appear in the female sex, and more rarely are seen in the male, because they dwell in moist places and follow a softer manner of life, so that they can easily assume a lowly form through association with others. Hence antiquity long ago named the Naiads and Nereids, nymphs of the waters, not in the male but in the female sex. By our people, however, they are commonly called aquatic women, that is, *Wasser Frauen*. Those, however, who live in drier and somewhat arid places, whenever they appear bodily visible to human beings, transform themselves into men. [unclear]
+
+[segment 33]
+--- Page 077 ---
+
+*To Maximilian Caesar.* 63
+
+They also assume the forms of different beasts, according as they are touched by various passions. But the holy angels, because they are never altered by passion, always appear uniformly in male form. For nowhere do we read it written that a good spirit was seen in the form of a woman or of any beast whatever, but always in male appearance. But demons have rather often been seen around rivers and springs in the appearance of women, sometimes dancing, sometimes spreading out their hair in the manner of women, and sometimes speaking with human beings and carrying on various deceptions. And this kind of demons is not accustomed to have commerce with witches.
+
+The fifth kind is called subterranean, because it dwells in caves and caverns and in the remote hollows of mountains. These demons are very wicked in passion, and they especially attack those who dig wells and mines and those who seek treasures hidden in the earth. Most ready for the ruin of the human race, they make openings in the earth, stir up flame-vomiting winds, and shake the foundations of buildings. Sometimes at night, coming out from the mountains in troops, they lead marvelous and astonishing dances in the fields, and, as if fearing the command of a single leader, suddenly vanish at a signal and return to their hiding places. At times the sound of little bells is heard among them, and they sometimes falsely claim to be the spirits of people departed from life. They seek nothing more than human fear and amazement. Hence we have found that they have sometimes led certain simpler people into their hiding places in the mountains,
+
+--- Page 078 ---
+
+64 *Johannes Trithemius, Eight Questions*
+
+showing them astonishing spectacles as they marveled, and they falsely claim that the dwellings of the blessed are there and that they are friends of the living. Among these demons, too, certain ones brood over treasures which the greed of mortals has hidden in the earth; and lest they again come into human use, they remove, steal, guard, and sometimes transfer them from place to place. And this kind of demons is not accustomed to have any commerce with female witches.
+
+The sixth kind of demons is called light-fleeing, because they especially dread and detest light, since they never appear by day and cannot assume a body in any other way than by night. This is the business that walks about in darkness, a kind of demons inscrutable and wholly dark, stirred by cold passions, malicious, restless, and troubled, which violently oppresses people it encounters in the night hours, and rather often, with God permitting, kills certain people either by breath or by touch. This kind of demons is not suited to witches, nor can it be drawn by incantations, because it flees light and human voices, and at the same time every airy disturbance. The aerial kind is especially accustomed to meet women’s acts of witchcraft, since it is subtler than all the rest and of the boldest recklessness. Some of the terrestrial demons also, as has been said, serve witches, though, since they are held in a lower degree, they are by no means able to bring about those greater works of witchcraft. It is therefore plainly established that all the power of witches, by which they do such astonishing things, is granted to demons, limited by the Lord God; and when he does not permit it, they accomplish nothing.
+
+Concerning Divine Permission
+
+--- Page 079 ---
+
+*To Maximilian Caesar.* 65
+
+CONCERNING DIVINE PERMISSION
+
+QUESTION SEVEN.
+
+The seventh question of Your Most Serene Majesty was this: why almighty God, since he is just and the avenger of evils, permits such acts of witchcraft to be done for the ruin of the human race, by which not only sinners but also many innocent people perish, grievously tormented.
+
+To this question, when I was formerly standing before Your Majesty, I answered as follows. Almighty God, just and upright, loving and merciful, permits whatever he permits justly, because he is just and there is no injustice in him; rather, in true judgment he either does or permits all things that come to pass. Therefore when it is asked why God permits evils to be done, we answer: he permits them because he is just. Let the answer we have given not seem absurd to Your Majesty, O Caesar, because it in no way prejudices the divine goodness that, for a most just reason, he permits evils to be done. Rather, it would prejudice it if he did not permit evils to be done in the present world. For indeed, if he did not permit evils to be done, then a human being could no longer sin; he would certainly be incapable of sin, which does not accord with his nature, to which the creator of all things gave free choice from the beginning. For since the human being is a creature and not creator, he is necessarily as able to turn toward good as toward evil, since his being depends on the highest maker of all creatures, just as every caused thing depends on the cause of its being. But creation has been left to God alone, who is incorruptible and everlasting; everything corruptible, however, necessarily fails, but is preserved
+
+[segment 34]
+--- Page 080 ---
+
+66 IOA. TRITEMII OCTO QVAEST.
+
+but is preserved by the goodness of the Creator so long as it does not lose the influence of its cause. Hence it neither could nor ought to have happened that man, by the condition of his own nature, should be created incapable of sinning; this belongs naturally to God alone, the maker of all things, who is unchangeable and everlasting.
+
+Whenever, however, it is granted to a human being that he seems unable to sin, the freedom of choice is not taken away, nor is the possibility simply removed, but the will is confirmed in good. And whenever this gift is conferred on a creature, it is a gift of grace, not of nature. For Scripture says: God created man from the beginning, and left him in the hand of his own counsel. For, properly speaking, it cannot be that a mortal man, conceived in original displeasure, should both have free choice and be unable to commit sin. For the most holy Augustine says: the first freedom of the will was to be able to sin; the last, in glory, will be much more, not to be able to sin. And so, if man could not sin, he would not have dominion over his own proper will.
+
+Hence, although almighty God does not will sin, nevertheless he justly permits human beings to sin and do evil, so that, while freedom of choice remains, both the virtue of a good work may receive its reward and voluntary depravity may receive the evil it has done. For no one does good or sins unwillingly. Therefore almighty God justly permits human beings to sin and do evil, to whom from the beginning he granted freedom of choice. There are, moreover, many reasons long ago assigned by the holy doctors why the Almighty permits such great acts of maleficence to be done through the cooperation of demons; of these, in order, we shall briefly make necessary mention.
+
+The first is so that the excellence of the divine power may be manifested: he alone is unchangeable and far above every rank.
+
+--- Page 081 ---
+
+AD MAXIM. CAESAREM 67
+
+Every mutable creature has no comparison with the unchangeable Creator. Hence it is read in Numbers: God is not like a man, that he should lie, nor like a son of man, that he should change. In Isaiah also it is said: God is faithful, without iniquity, just and upright. In the book of Tobit, too, it is written: You are just, Lord, and all your judgments are true, and all your ways are mercy, truth, and judgment. And in the book of holy Job we read: Let impiety be far from God, and iniquity from the Almighty; for he repays a man’s work to him, and according to the ways of each he restores to them. Therefore every person who rightly understands his own ignorance and weakness plainly recognizes how he is nothing in comparison with his Creator; for God justly permits man to sin, so that freedom of choice may be preserved and the excellence of the great God may become known to human beings.
+
+The second reason is so that the inscrutable wisdom of God may become known to mortals, which knows how to draw good from our evils, since it makes one person’s sin become another’s merit, for the increase of virtue. For if he did not permit evil to happen, who among us would understand the good? For God makes and orders good things; evil things, however, he does not make, but when they have been done by the impious, he himself disposes them so that they do not come about in a disorderly way. Nor does the wickedness of human beings impede the will of God, nor can man do anything that God does not permit.
+
+The third cause is that the Almighty permits acts of maleficence to happen in order to manifest his most merciful goodness toward those who have sinned and done penance, which he could in no way show if he did not permit the creature to sin. For if there were no sinner, God could not be merciful; but since in many...
+
+[segment 35]
+--- Page 082 ---
+
+68 *Johannes Trithemius, Eight Questions.*
+
+For in many things we all offend. Everywhere God finds something to forgive; everywhere a guilty person presents himself, in whom the kindly Creator may show his mercy. Hence the holy bishop Augustine says: If the disease were slight, the physician would be disregarded and not sought; if the physician were not sought, the disease would not be ended. Therefore, where sin abounded, grace also abounded, which alone distinguishes the redeemed from the lost, whom the mass of perdition, drawn from the origin of creation, gathers together into one. Therefore the mercy of the Lord is over all his works.
+
+The fourth reason for the divine permission is this: that the justice of the Creator may be declared against those who have sinned and have not done penance. For if all did good and no one sinned, the justice of God would have nothing to punish. Therefore, so that justice may have a place, the creature sins by divine permission. For the Lord is just, who will render to each according to the works of his will.
+
+The fifth reason is the dignity of the human condition. For if God did not permit man to sin, he would seem worse off than the beasts, which, with no violence compelling them, freely use the motions of nature. For although brute beasts lack reason, they nevertheless have the free motion of nature, which they follow. In comparison with them man would seem to be of a lower condition if he did not have free choice of the will. But God permitted man a free will, over which neither kings nor princes rule.
+
+The sixth reason is the praise due to the merit of constancy in human virtue, since we praise a just man for this reason: that, although he could have transgressed, he did not transgress, but, with the grace of God assisting him, remained in the constancy of a good will.
+
+The seventh reason why almighty God permits demons to do such great acts of witchcraft through the intervention of witches is this:
+
+--- Page 083 ---
+
+*To Maximilian Caesar.* 69
+
+so that those who, despising truth, delight in falsehood may be seduced and utterly deceived by the inventor of falsehood, the devil. For it is fitting that enchanters and witches, who scorn to follow the saving teachings of Christ, should be deceived by demons and all be plunged down to hell to be punished forever: they seek aid from demons, the enemies of the whole human race, and they despise the Savior of the world, whom alone they ought to have adored. For it is just that one who, abandoning truth by his own free will, clings to falsehood should be hurled to destruction by the devil.
+
+The eighth cause is the manifestation of divine power, whose might and virtue are above every creature. For indeed, when almighty God sometimes permits the devil great things and denies him certain small ones, he manifests in all things how weak the enemy of the human race is, and how subject he is to the divine majesty. For the devil can do nothing of himself; whatever he does, he does by God's permission. Therefore the first cause of all, on account of which almighty God permits acts of witchcraft to be done, is justice, by which he preserves, in an inviolable order, the freedom that he once granted to the creature from the beginning. But since the power of every creature dependent on its Creator is restricted and limited, it is clear that neither the devil can do everything he wishes, nor can man, however depraved in will. The will is indeed free, but power is limited by fixed and necessary degrees. For if demons could do everything they wish, nothing among human affairs would remain safe, but all things would be overthrown. The story of blessed Job plainly demonstrates by example the bound power of demons:
+
+--- Page 084 ---
+
+70 *Johannes Trithemius, Eight Questions.*
+
+Satan did not dare to tempt him any further than had been permitted to him by divine dispensation. For no one in the present world, however just or strong, could resist the fury of demons if they were always able to use a free power of doing harm according to their own judgment. Before the Lord's passion, however, they used a greater freedom of power than afterward. But when Christ tasted death for us on the altar of the cross, thereafter their power was greatly diminished, as the Savior says in the Gospel: “Now the prince of the world will be cast out.” Indeed, the humility of Christ and the perseverance of the saints greatly restrained the audacity of demons, so that they may rightly be called inciters of evils, but by no means drivers. Nor would the devil prevail against us unless he received strength from our sins. Hence Scripture admonishes us, saying: “Resist the devil, and he will flee from you”; and again: “Do not give place to the devil.”
+
+Therefore, in concluding this discourse for the understanding of the proposed question, why God permits so many acts of witchcraft to be done, I believe the reasons have been made sufficiently clear. For although the will of demons is always unjust, their power can never be unjust, since what the devil wills wickedly he has from his own choice, but what he is able to do wickedly he has only from God. And these things have been said insofar as they concern those who do evil.
+
+But why does almighty God permit demons to injure human beings through the agency of witches, when those humans have been baptized in the name of the Holy Trinity and faithfully believe in his only-begotten Son, our Lord Jesus Christ? For if demons were able to harm only the wicked, the perverse, and unbelievers in body and in possessions, but were restrained from access to and injury of the good—
+
+[segment 36]
+--- Page 085 ---
+of the good and faithful, the judgment of permission would rightly seem to be just. But now more often the good and innocent are made ill by the demons' harmful acts, and sometimes are even deprived of life, to say nothing of the loss of temporal goods that those harmed by magic often suffer. It troubles many people why the Almighty permits these things, since he permits nothing unjustly.
+
+For this proposed question, I shall briefly set out in order, as far as I can, the necessary reasons, no other than those I have received from the ancient and Catholic doctors.
+
+And the first reason is the testing of Christians' faith and the trial of their integrity: so that, when they are scourged by the demons' harmful acts, they may learn in the sufferings of the flesh what faith and love toward God they have hidden in the mind. In prosperity it is not difficult to be patient; but in adversity, to await help from the Savior of the faithful with humble patience is not the mark of the soft, but of strong and truly faithful Christians. Most holy Job learned in his tribulation how much constancy of faith toward God he possessed, he who previously, in tranquility, had preserved piety without the dart of temptation.
+
+Here at the same time it must be noted that those whom the harmful acts of demons or men have in any way made ill, and who, in order to recover health, either approach or consult any magicians and enchanters, whether by themselves or through others, act against the commandments of God and of the Church. They have neither true faith in God nor love, since they seek health not from Christ but from the devil and his minister. For they prefer to live healthy, but unhappily, in the name of the devil, than to suffer a little here for the love of Christ
+
+--- Page 086 ---
+and afterward rejoice with him forever. But the person who does not approach magicians because God has forbidden it, preferring to live in poverty and sickness while observing God's commandments rather than against God in riches and bodily health, truly loves God and rightly preserves the integrity of the Christian faith.
+
+O most sacred Caesar, people corrupt in mind and reprobate concerning the faith are not to be tolerated among Christians: those who cure persons harmed by magic through magic; who reveal thefts and adulteries by the ministry of demons; who foretell future things by inspecting stones or mirrors. I beg you, do not listen to those who, ignorant of the divine laws, think such ministers of demons useful to your rule because they know how to dissolve magic by magic. For this pernicious healing of bodies brings death to souls, and makes people withdraw from God, the creator of all things, and cling to impious apostate demons, with whom they will be damned after death for eternity.
+
+Secondly, the reason why almighty God permits the innocent to be harmed by magic is the increase of merits, so that, when their patience has been tested in tribulation, they may deserve a worthier crown of glory in heaven. For, as sacred Augustine says: a person is unknown to himself, what he can bear and what he cannot; sometimes he thinks he cannot do what nevertheless he can. When temptation comes, a person is found out by himself as by a kind of interrogator, who before lay hidden and did not know himself. The divine arch-apostle Peter, before temptation came upon him, was hidden both from himself and from others as to how inconsiderate and weak he was; when it came, the weakness that had been hidden appeared. Therefore temptation is the greatest testing of a person, as sacred Scripture bears witness.
+
+[segment 37]
+--- Page 087 ---
+
+*To Maximilian Caesar.* 73
+
+the furnace tests the potter’s vessels, and the trial of tribulation tests just men. Patience is easy in prosperity, when no adversities strike the mind. But many are the tribulations of the just, and from all these our Lord Jesus Christ will deliver them.
+
+The third reason for divine permission is the preservation of humility, so that a faithful and just man may always fear God and never presume upon his own strength or justice. Hence Scripture says of the reprobate: They are not in the labor of men, and they shall not be scourged with men. Therefore pride has seized them; they are covered with their iniquity and impiety; their iniquity comes forth as if from fatness. It belongs to the mercy of God that he sometimes permits good and just men to be shaken by adversities, men whom he knows cannot be humbled in prosperity. For tribulation has made many humble whom favorable circumstances would have made proud. Finally, the fearful imagination of evildoers makes a good man fear his God and diligently invoke his help, so that, fortified by it, he may trust that he is safe against the assaults of demons. But no proud man, presuming upon his own powers, should think himself safe from the harmful works of demons, since anyone whom the protection of God abandons because he is swollen with pride undoubtedly lies open to demonic injuries.
+
+The fourth reason is that a distinction may be made between the good and the evil. For Scripture says of good men, beloved by God, in the Acts of the Apostles, that through many tribulations we must enter into the kingdom of God. And Paul, the holy lover of Christ, says in a certain epistle: All who wish to live piously in Christ will suffer persecution. Likewise the most wise King Solomon says in Proverbs: Whom the Lord loves he corrects, and he is pleased with him as a father with a son.
+
+--- Page 088 ---
+
+74 *Johannes Trithemius, Eight Questions*
+
+It is a very glorious thing for a Christian to endure adversities patiently for the love of God, whether they are inflicted by evil men or by demons. For power is given to the devil and his ministers to injure good and just men, not for their confusion, as those who seek it suppose, but rather for the greatest and certain consolation of the soul. Indeed, when a just man lives well, harms no one, offends no one, does injury to no one, loves, fears, and venerates his God with his whole heart, keeps his commandments with every care, and nevertheless is afflicted by evildoers, whether in body or in possessions, or in both, truly that man is blessed, because when he has been tested he will receive the crown of life, which God has promised to those who love him. Everyone who lives rightly in the unity of the Catholic faith of Christians and patiently endures for the love of God the evils he receives in this world has a sure sign that he has persevered in the grace of God and is to be saved. On the contrary, we read this written of the wicked and reprobate: Why do the impious live, raised up and strengthened with riches? Their houses are secure and peaceful, and the rod of God is not upon them. They spend their days in good things, and in a moment they descend to hell. For it is a manifest sign of damnation if here you live wickedly in sins and vices, opposed to God, and yet prosper in the goods of fortune and in bodily health.
+
+The fifth reason why the Almighty permits good and just men to be afflicted by the wicked and reprobate is for the complete purification of the mind. For, as Scripture says, there is no just man on earth who does good and does not sin; but since God lets no sin pass unpunished, in his mercy he appoints temporal punishments for just men on account of their offenses, but in his justice eternal punishments for the impious and reprobate.
+
+--- Page 089 ---
+
+*To Maximilian Caesar.* 75
+
+Therefore, out of mercy, he changes eternal punishment for the penitent into temporal punishment, which they must necessarily suffer either in this world or after death in purgatory. But because the torments of purgatory are dreadful and most grievous, the merciful God is accustomed to purify in this life, in various ways, the penitents whom he loves, through the hardships of diverse tribulations in body and in possessions. For the wicked deeds of the impious serve as a remedy for good and just men, but for those who inflict them they serve unto damnation.
+
+The sixth reason is that a man harmed by the assaults of demons may be called back to penitence and may resolve in his heart upon the necessary amendment of his life. For Almighty God does not immediately send vengeance upon us when we sin, but waits until a predetermined time for our amendment. But if we have neglected to do penance, the avenger of evils comes to us when we do not expect it; and we sinners, who in tranquility despised recognizing ourselves by doing penance, will at last recognize ourselves in tribulation, though late. Hence the holy prophet speaks in the person of God, saying: If his sons forsake my law and do not walk in my judgments, and do not keep my commandments, I will visit their iniquities with the rod and their sins with blows; but I will not scatter my mercy from them, nor will I harm them in my truth.
+
+The seventh reason why Almighty God permits the harmful works of demons to prevail against the good and innocent is so that an excessively licentious occasion for sinning may be cut away from them. For there are many poor and infirm people, pleasing to God, good, devout, and humble, whom poverty and bodily illness preserve in the love of God; but if they were rich and raised to honors, they would quickly sink from the height of sanctity into the depth of vices.
+
+[segment 38]
+--- Page 090 ---
+
+...they would quickly slip away from the purpose of holiness. It is not expedient for everyone’s salvation to have honors and riches together with health, nor does a longer life always make a person better. Therefore almighty God, wishing to show his mercy toward those whom he has chosen, permits the good, the just, and the innocent to be subject to various calamities; and sometimes through demons, sometimes through wicked human beings, and sometimes by various other ways and means, he takes away from such people the riches and honors which he foreknew they would use badly, so that they may preserve humility in poverty and abasement, which, if placed in wealth and high station, they would by no means have preserved. He also often permits them to fall into many great illnesses, whereas cheerful health of the flesh would have brought upon them the greatest illness of the mind.
+
+Finally, he permits some people to be driven to death by witchcraft, so that the license to sin may be cut off from them, a license they would have abused if they had been permitted to remain longer in life. Hence Scripture says of the just man: “He was snatched away, lest malice change his understanding, and lest deceit beguile his soul.”
+
+The eighth reason for divine permission is that human beings may venerate the sacraments of the Church, which have great power against all the works of witchcraft of malignant spirits. For a person who venerates the sacraments and rites of the Catholic Church with due honor is rarely harmed by the witchcraft of demons. And from the witches’ own confession we have often heard that hearing masses and using things blessed by the Church greatly weakens the powers of demons. For they are not blessed in the Church of God in vain, but so that they may be signs, to be feared by demons, that display the protection of divine guardianship. But concerning children and infants
+
+--- Page 091 ---
+
+who, reborn in Christ, are sometimes killed by the witchcraft of demons or human beings, we do not doubt that divine providence permits this to happen for their salvation, since it knows how to order all things for the better for mortals. Yet it often happens that infants perish by witchcraft because of the sins of their parents.
+
+ON THE PROVIDENCE OF GOD.
+
+QUESTION EIGHT.
+
+The eighth question of Your Serenity was this: whether it can be proved by natural reason, as well as by the holy Scriptures, that God has care for human affairs and actions, and certain and infallible providence over all and each of the things that are done in the world.
+
+I remember that I answered this question as follows. The whole world, heaven and earth and all things that are in them, are subject to divine providence, by whose will and command they were brought forth from the beginning into being. For there is nothing in the whole universe that is not governed by the providence of the Creator. Let us confirm this opinion, first by the Scriptures and afterward by reasons, as briefly as possible. In the book of Judith we read: “All your ways are peaceful, and you have placed all judgments in your providence.” And in Ecclesiastes the most wise King Solomon speaks thus: “Do not give your mouth to make your soul sin, nor say before the angel, ‘There is no providence,’ lest perhaps the Lord, angered by your words, scatter all the works of your hands.” The clearest testimonies of providence are confirmed in the holy Gospel, when the Savior says...
+
+[segment 39]
+--- Page 092 ---
+
+78 Johannes Trithemius, Eight Questions
+
+our Savior to his disciples: “Are not two sparrows sold for an as, and one of them does not fall to the ground before God?” This is a great commendation of divine providence, which has care not only for human beings, but also for small birds. Indeed, if the Almighty cares for such small things, who would not believe that he has care for great things? “Look,” he says, “at the birds of heaven: they do not sow, nor reap, nor gather into barns, and your heavenly Father feeds them.” And a little later he adds, saying: “If God so clothes the grass of the field, which exists today and tomorrow is cast into the oven, how much more you, of little faith?”
+
+Almighty God, because he created all things and brought them into being when they did not exist, rules and governs all things lest they collapse and flow away. This could in no way happen if he did not have providence and care over all things. For if providence is removed, the order of continuity of the whole universe must necessarily be thrown into confusion. The providence of the Creator cares for all things, because he who feeds the birds, gives beasts their food, fills every animal with blessing, and clothes the grass of the field, adorning violets and lilies with beautiful grace, cannot forget man, whom he created from the beginning in his own image. He who governs all things cares for all things, and he exercises providence not only over man but also over all beasts; in his dominion all things are placed, and there is no one who can resist his will in anything.
+
+Let us now, therefore, consider this immense structure of the whole universe, how in its original disposition and motion it always continues most orderly; and, unless we have shamefully departed from reason, we shall understand by the clearest reasoning that divine and unchangeable providence preserves, directs, and governs it.
+
+--- Page 093 ---
+
+To Maximilian Caesar 79
+
+Then let us contemplate all earthly things, how each and every thing is born and proceeds most orderly in its natural disposition. This cannot happen by chance; rather, they must be moved by the will of him by whose power they were made and created. Consider next the earth, placed in the middle of the world like a point or center that unfolds the circle, equally distant from the whole universe. Nothing more beautiful, nothing more adorned, nothing finally more delightful could offer itself to the sense for contemplation. In this point of an immense mass, enclosed by that very mass, we behold all things wonderfully ordered, and nothing can be left unordered. Thus we may know for certain that all things which sometimes seem to us in some way to drift are not, within the order of the universe, without their own particular order.
+
+For by the simple and utterly unchangeable nod of God, the whole structure of the entire universe, composed of so many diverse and movable things, most orderly agrees and is governed. We certainly see in those things that present themselves to our senses that, the greater the intelligence and power that arise over time in any governor, the less can anything disorderly happen there by random chance. Therefore, since that highest intellect, the creator, preserver, and ruler of all things, almighty God, rules and governs the world by his unchangeable providence, holding all things under his command, surely no place at all is left to rash chance that could obstruct the will of such majesty.
+
+Therefore the whole universe, whatever exists anywhere or can exist, is comprehended under the command of the one divine mind, whose infallible judgment nothing can escape. But unexpected events happen to us because we are changeable and are changed almost daily...
+
+[segment 40]
+--- Page 094 ---
+80 Johannes Trithemius, Eight Questions.
+
+having no determinate knowledge of future things. But that best maker of all things, God, since he is wholly unchangeable, knows all things, beholds all things, understands all things at once and all together. His providence is not deceived; his will is never varied; his power is not broken; his ordinance is not violated; his counsel is never interrupted, even if his judgment sometimes seems to be changed. Hence, if we pay careful attention, we plainly understand that the ends of things and of motions will show that all these lower things are made, preserved, ordered, and moved by divine providence, to whose command nothing at all is alien.
+
+For God himself, ruler of all things, understands both all things and each thing: not dispersed into many things in our manner, but remaining in himself an indivisible one. By looking upon himself as the exemplar of the whole universe and the cause of causes, and through the causes contemplating the cause of all things, he cares for all things by contemplating them, and provides for each, directing it to a good end by an everlasting order.
+
+Come now, most wise Caesar: in order that we may understand divine providence, which governs all things, let us use arguments as briefly as we can for more attentive consideration. Therefore, if God’s action is his own proper intelligence, which no wise man fails to admit, as at once most eminent and most inward, then insofar as he acts, so far indeed he understands, and conversely. But he acts in individual things, not only in great things, but also in the smallest. Therefore he understands individual things, since from the first Being, through all things that are beings in any way, following in fixed orders, there is a most abundant influx; and whatever things act after him are moved and act everywhere by his power.
+
+Either, then, God understands or does nothing outside himself, which is false, or, by acting upon all things and each thing, he also
+
+--- Page 095 ---
+To Emperor Maximilian. 71
+
+understands those same things, which is true. For nothing would be made unless first, to speak in our manner, it were understood by God himself, who makes it, just as those things are not made by the sun which are not looked upon by it. But because the Almighty understands all things and each thing that he makes, there is no doubt that he disposes, rules, and orders all things that he has made. From him things have not only that they exist, but also that they are certain causes of other things. Therefore, if things have from God that they are causes, from him too they have received the proper office of a cause, that is, to preserve according to their powers and to care for what they have made.
+
+Accordingly, if all causes have this property from the first cause, insofar as they are certain causes, deservedly that first cause itself naturally has this goodness and providence: that it cares for all things and for each thing that it has made, insofar as it is especially the cause of all of them and of each of them. Unless these things are guarded individually by him who makes them, the common things that are preserved in individual things will never be guarded. For the whole, which consists of parts, will not be preserved if the parts themselves are neglected.
+
+Therefore, from the intention of the first and greatest common intelligence proceeds the universal distinction of things. But it is distinguished by itself from other things, and it distinguishes the rest among themselves by the rule of its own knowledge. Hence, just as God knows all things and each thing most distinctly, so also he rules, moderates, and cares for them most distinctly.
+
+I think, therefore, most clement Caesar Maximilian, that it has been clearly and sufficiently shown that the providence of God, the highest ruler, embraces, disposes, rules, and moderates all lower things and each one of them; otherwise, without the provident disposition of one who watches over them, they would in no way continue this most beautiful order that we behold. Nor does it escape me how variously, in former times, the wise men of this world
+
+--- Page 096 ---
+72 Johannes Trithemius, Eight Questions.
+
+thought about providence. Some of them judged that this world was made not by providence but by chance. If their opinion were true, much room would be left for providence, but all things would necessarily drift at random, since the world, having been made by chance, could perish by chance.
+
+Against their false opinion others taught that the world could not have been made without reason, nor could it certainly stand unless it were governed by the supreme providence of its maker. Hence Boethius, a most Christian man, said: “O you who govern the world by perpetual reason, sower of earth and heaven, who command time to go forth from eternity, and, remaining stable, grant all things to be moved.” And again he said: “The generation of all things, the whole progress of mutable natures, and whatever is moved in any way, draw their causes, order, and forms from the stability of the divine mind.”
+
+Others thought that God cares only for incorruptible things, such as the heavenly things and the separate substances, and also the species of things, but that he is wholly ignorant of and neglects all the rest. But these men erred shamefully, because the Almighty has providence and care not only of universal and incorruptible things, but also of particular and corruptible things. Hence Saint Boethius again says: “The lofty founder sits upon the earth, and, ruling all things, bends the reins, king and lord, source and origin, law and wise arbiter of justice. He is the continuous love for all things, and good things seek to be held by their end, because they cannot endure otherwise unless, turned back again by love, the causes that he himself gave flow back.”
+
+But others, unable to bear the thought that they were neglected, removed man from the number of corruptible things because of the preeminence of his intellect, saying that God has care and providence for human beings, but that the remaining earthly
+
+[segment 41]
+--- Page 097 ---
+
+*To Emperor Maximilian.* 73
+
+he despises all earthly things. Against their false opinion I think enough has already been said, and to bring forward many arguments would be wholly superfluous. For Scripture says: “Men and beasts you will save, O Lord.” And in another place a certain wise man said: “The Lord made the small and the great, and he has equal care for all.” Therefore the providence of the divine majesty orders, rules, disposes, and cares for all lower things, both collectively and individually, great and small, corruptible and incorruptible; its most powerful will produces all things from nothing, as sacred Scripture again testifies: “But your providence, Father, governs all things from the beginning.”
+
+Let those men blush, then, corrupt in mind, impious and reprobate regarding the Christian faith, who, puffed up with vain loquacity, take away the providence of him who knows all things, and do not notice how great an injury they do to God. For what, to use the judgment of Firmianus, is so worthy and so proper to almighty God as providence? But if he foresees nothing, if he neglects lower things, if he does not care for mortal things, then he has already lost all dignity. But it is impossible, as Saint Anselm attests, for God to lose his honor, since, as the Peripatetic says, in eternal things there is no evil, no corruption, and no sin. Therefore whoever removes providence removes the whole substance of God; and what is he saying except that God does not exist?
+
+But now let those who deny that God’s providence cares for lower things tell me this. If God neglects lower things, let them consider what necessarily follows. If God knowingly neglects and scorns us, there is henceforth no reason why we should honor him with worship or venerate him with religious reverence for any benefit; rather, being neglected and scorned, we ourselves should neglect and scorn him. But if, not knowing us,
+
+--- Page 098 ---
+
+74 *Johannes Trithemius, Eight Questions*
+
+he scorns and neglects us, there is now no reason at all for us to worship one who does not know us and, for that reason, is unable to confer any good, or to call upon him with prayers. For if God does not care for human affairs, whether knowingly or unknowingly, every cause of piety ceases, since there is no hope of salvation. What regard for piety can exist among mortals, what hope for the salvation of souls, if God does not care for human affairs?
+
+Indeed, if providence is removed, whom do we worship, whom do we adore? If there is no providence for mortals with God, surely he neither grants benefits to human beings nor imposes punishments on deserters; he neither can nor wishes to help mortals, nor does he care at all or observe what we do, and he hears neither the prayers nor the petitions of anyone. Why, then, do we offer him any worship, why honor, why prayers? Or why do we so greatly fear or dread a God who does not know us, who, with us neglected and scorned, can do us neither good nor harm? For once providence is taken away, neither holiness nor religion will remain; and when these have been extinguished, the greatest disturbance of life and a dreadful confusion will follow.
+
+Once piety toward God has been taken away, what will the commonwealth be, except everlasting confusion? Public trust among human beings will necessarily perish, and the fellowship of the human race and all justice will vanish and perish together. What will have to be thought about the Christian faith, if God does not care for human affairs? And finally, what about the Savior of all, our Lord Jesus Christ, except that the whole thing will be reckoned an empty tale and a fiction, if there is no providence of God caring for mortal things? Clearly, whatever good we do in this life, whatever evil we endure for the love of God, is entirely vain and useless to us, if he has no care for us.
+
+Let those who deny the providence of God now see and shudder.
+
+[segment 42]
+--- Page 099 ---
+
+Let those now see and shudder who deny the providence of God, when they behold that the end of their opinion is the worst despair of all. Therefore let no one, led on by the empty talk of secular philosophers, train himself to contempt of God; let no one abolish the providence of the highest and unchangeable good; let no one corrupt the dignity of the Creator of all things. For all who deny divine providence show themselves both unworthy of and ungrateful for the benefits of the most merciful Savior.
+
+For it must be firmly believed, and in no way doubted, that this whole world, both visible and invisible, and all things individually and collectively that are either in heaven, on earth, or in the sea, are ruled and governed by divine providence, and that nothing at all in the whole universe is alien to his care. For crops, too, and all the other things that the earth brings forth, and likewise storms, the variations of seasons, and the changes of the sky, by which all the things that the earth produces naturally ripen, divine providence supplies to the human race; and it provides for all things, individually and collectively, not only the great but also every least thing, to such a degree that not even the thinnest leaf of a tree falls to the ground without the will of almighty God the Father, who created it and rules and cares for it.
+
+But if anyone thinks that this so great magnitude of the whole universe cannot be ruled and governed by one God, who alone is, he is greatly mistaken, and is proved not to know how great the power of divine might is. For in truth, he who was able to bring the whole world from nothing into being is also able to govern forever, with supreme wisdom, what he made. For he knows all things, understands all things, and can do all things, who alone, omnipotent, created all things.
+
+Therefore, believing in the holy Gospel, let us venerate divine providence above all; and let us also raise our minds upward, with what strength we can,
+
+--- Page 100 ---
+
+from those things that are perishable, and, brought back to ourselves, let us be united, so that we may faithfully understand the majesty of God, present everywhere. Since it is altogether uncircumscribable, it holds all things, fills all things, embraces all things, surpasses all things, and sustains all things. It does not sustain from one side and surpass from another, nor fill from one side and encompass from another; rather, by encompassing it fills, and by filling it encompasses; by sustaining it surpasses, and by surpassing it sustains all things. Through the bulk of a body he is nowhere; through his uncircumscribable substance he is nowhere absent. He is not perceived by the eyes of flesh; through faith he is seen in purity of heart.
+
+O inexplicable power, O incomprehensible goodness, O ineffable wisdom, O uncircumscribable divinity: you do not consist of parts like a body; you are not distinguished by affections like a soul; you do not stand beneath forms like all other things that were made through you. You are in all things, and above all things, ruling and governing the universe with the highest wisdom.
+
+And so, by these testimonies, most sacred Caesar Maximilian, it has been sufficiently proved, as I think, that this whole world is governed by the providence of God. Since he is pure intellect, simple, uncreated, and eternal, he knows all things, understands all things, foreknows all things; and since he is omnipotent in nature, he can do all things, for whom nothing is difficult, nothing impossible. He created such wondrous things by his power, established them in truth, perfected them by reason, sustains them by strength, and illumines them by goodness. To him be praise, to him honor, to him glory, who lives and reigns, glorious and exalted God, forever and ever. Amen.
+
+AUTHOR-
+
+[segment 43]
+--- Page 101 ---
+THE AUTHOR'S PROTESTATION
+to Caesar.
+
+These, most unconquered Caesar Maximilian, are the things that seemed to me should be said in response to the eight questions proposed by your Majesty. For you wished to have from me also a written judgment on them, forming an estimate of me beyond the truth; I am not to be compared in ability with those whose opinion you heard before me. Let me be deemed worthy of pardon if I have said anything less than apt, since, at the command of your Highness, while I was a traveler set upon a journey, I dictated, as I could, at intervals, whatever came to mind that should be answered. But I say from my heart and openly protest that I am a sincere confessor of the Christian faith, and that I wish to remain in union with the most holy Roman Church until death. Therefore, if anything either in this lucubration or in others should be found said or written otherwise than she holds, judges, believes, and teaches, as a true son of obedience I declare by the attestation of these present words, and I wish it simply to be
+
+--- Page 102 ---
+and to be held forever revoked. Therefore, most wise Caesar, I humbly ask and earnestly admonish your Majesty that, before you cause my responses to come to the knowledge of those for whom they are destined and reserved, you have them approved by the judgment of many. For the utmost care must be taken that nothing be set before those for whose salvation your Serenity keeps watch, unless it is sound, approved, manifest, and lawfully confirmed in the Catholic faith by the judgment of very many wise men. May almighty God by his providence direct and preserve you always to the praise of his name, Maximilian, greatest of emperors. From the city of Neumarkt, on the tenth day of the month of July, in the Christian year one thousand five hundred eight.
+
+Johannes Trithemius,
+Abbot.
+
+--- Page 103 ---
+[unclear]
+
+--- Page 104 ---
+[Blank page]
+
+--- Page 105 ---
+Herzog August Library
+Wolfenbüttel
+0 1 2 3 4
+Gray Scale
+
+--- Page 106 ---
+Herzog August Library
+Wolfenbüttel
+Gray Scale
+0 1 2 3 4

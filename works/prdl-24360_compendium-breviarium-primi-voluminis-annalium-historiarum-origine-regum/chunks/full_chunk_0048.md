@@ -1,0 +1,17 @@
+from the Thuringians for three years, keeping secret their plan of undertaking a new possession. Then they sent their men, together with the envoys of the aforesaid friends, into Thuringia, so that, by the judgment of the king and the nobles, they might confirm the proposed business concerning the grant of the promised region. When all these things had been duly completed, what we are writing followed.
+
+*When and whence the Franks first came to Menigauium [unclear]. The sequel follows.*
+
+Therefore, in the seventh year of Clodomir, king of the Franks, and in the year 326 of the Lord’s nativity, in the thirteenth Roman indiction, on the ninth day of the month of April, by order of the aforesaid king, there went out from the mouths of the Rhine, where the Sicambri had formerly had their first settlements in Germany, thirty thousand armed men, with wives, children, household goods, and beasts of burden, and two thousand six hundred eighty-six farmers and craftsmen of various trades, intending to set out for the new settlements promised to the Franks by the Thuringians. They did not all go out together at one time, but successively by companies, beginning on the prescribed day, until at last in the month of September they completed the aforesaid number, as Hunibald, the historian of the Franks, testifies.
+
+[Margin: Here began the duchy of the eastern Franks. Würzburg, the ducal city of Franconia. In the year 326. 32,686 Franks come to Würzburg.]
+
+King Clodomir appointed his brother Genebald duke of the people of eastern Francia, and entrusted to him the army and also the administration of the whole duchy under these conditions, according to the custom of the Franks: namely, that both he himself and his sons, heirs, and successors should remain forever under subjection to the kings of the Franks, should faithfully obey their commands in all things, should go forth with them to war against any adversaries whatsoever, and, according to the custom of the other dukes of the kingdom of the Franks, should everywhere render to those kings the service and honor owed to them.
+
+[Margin: Genebald, first duke of eastern Francia. The institution of the duchy of eastern Francia.]
+
+When these conditions had been given and accepted, Genebald, duke of eastern Francia, set out for Menigau with the people assigned to him, and ruled for nearly thirty years over the principality offered to him. For he was a prudent, bold, and warlike man, who not only governed and distributed the land of the duchy of Francia prudently, but also greatly enlarged the boundaries of its possession.
+
+[Margin: Menigau, the place where Würzburg now is.]
+
+When the Suevi heard of the arrival of the Franks within the borders of Thuringia, they bore it with considerable displeasure, fearing what did in fact happen: that, once multiplied in number and strength, they would also extend the boundaries of the possession they had received to the Suevi’s ruin. But when they saw that they could in no way resist the undertakings of the Franks, they feigned rejoicing at their arrival and, sending envoys, asked for peace, more from necessity, as it seemed to many, than from intention. They also committed to the arbitration of the Franks the settlement of the whole cause of the disputes that they were alleging against the Thuringians. The Thuringians did the same. Thus the great discord between them was calmed by the prudence of Duke Genebald.

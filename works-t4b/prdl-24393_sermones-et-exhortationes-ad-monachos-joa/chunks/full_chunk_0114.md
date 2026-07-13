@@ -1,0 +1,15 @@
+--- Page 123 ---
+
+Letter.
+
+Johannes Trithemius, abbot of the monastery of Sponheim, though unworthy, to the reverend father lord Johannes of Colenhausen, abbot of Seligenstadt and formerly of Sponheim, my very dear predecessor: with prayers, a mind prompt and ready to please.
+
+I recently sent to you, venerable teacher, my first book of exhortations to monks, containing twenty-five homilies. After I learned that it had been approved by your examination, I judged that this second book also, which I now send, could confidently be inscribed to your name. In the former book I gathered, for the instruction of the brothers, twenty-five homilies that I had delivered before them; in this one I have arranged sermons in number according to the order in which they were spoken in their presence.
+
+I do not fear to undergo the examination of your paternity, since I have always had you as a gentle teacher, and I have long found you to be a sincere lover of truth. For you flourish with an intellect both gentle and deep, able easily to discern between true and false, and, where necessity requires it, to correct everything sufficiently. Therefore I pray that, according to the gentleness innate in you, you patiently bear the rudeness of my intellect, for I am both a little child in knowledge of the Scriptures and a novice in the rank of prelates. Practice in the Scriptures will give me facility, as I trust, and continued solicitude will give progress. The management of household affairs and the poverty of the place often draw me back from salutary study and carry my mind elsewhere, contrary to the intention of my will.
+
+Only on feast days and Sundays is leisure granted me for writing; on these, out of reverence for God, I customarily admit no cases involving the peasants. Sometimes also, after matins has been sung according to custom, I am accustomed to devote what remains of the night to the study of letters, and to compose something by lamplight, as far as I can, for the instruction of my brothers. For I desire in all things to follow in your footsteps, and to be diligent in the praiseworthy work of teaching.
+
+I submit these sermons to your examination, and with humble supplication I request that the file of your mastery correct them. I have gathered a few out of many into order, since I did not commit them all to writing, nor did too great an extension of the book seem to me either necessary or useful. For on feast days, when we have respite from the tumult of worldly business, we devote ourselves to reading according to the rule of the Scriptures. And lest I seem to occupy the place of pastor in vain, what I have composed by lamplight at night I am accustomed to speak after None in place of the regular study, and to recite from a little paper before the brothers in chapter. For I consider that this solicitude of mine not only profits the brothers for edification, but also helps me toward skill in composition.
+
+Farewell, venerable teacher, and pray for us. From Sponheim, on the twelfth day of the month of September, in the year of Christians 1486.

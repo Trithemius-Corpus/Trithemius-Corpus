@@ -1,0 +1,17 @@
+*Before the birth of the Lord, in the year 57.*
+
+*The twelfth: Antenor reigned sixteen years. Truces are made between the Sicambri and the Gauls. The priests of the Sicambri were of great power. King Antenor dies.*
+
+*The thirteenth: Clodomer reigned twenty years. When the truces had ended, the Gauls declare war on the Sicambri. War of the Sicambri with the Gauls. The Gauls are overcome by the Sicambri. Clodomir, king of the Franks, died.*
+
+*The thirteenth king: Merodacus reigned twenty-eight years. The Franks, with 220,000, laid waste Italy.*
+
+But King Clodius dies, slain in the Gallic war, as has been said, in the eleventh year of his reign, but in the 157th year before the birth of Christ.
+
+The elder son of King Clodius reigned after his father for sixteen years. He made with the Gauls truces for ten years, which our people, with faith interposed, call *treugas*; this also pleased the Romans, who were always on the side of the Gauls, enemies and foes, as was said, of the nation of the Sicambri. For the king was thirty-six years old when he began to reign, more a lover of peace than of war, and he did little worthy of memory except this one thing: being more humane than the rest, he forbade men to be sacrificed to the divine powers. This displeased many nobles of the Sicambri, who thought that fear of themselves among foreign nations was being diminished. But because this act of piety was decreed by the counsel and assent of the priests, the constitution itself remained inviolable. For priestly authority among them was always greater and more excellent than that of all leaders and princes. King Antenor dies in the sixteenth year of his reign, but in the 141st year before the birth of the Lord.
+
+The son of Antenor reigned after his father for twenty years. In his first year the Romans, through Scipio, overthrew the Numantines and brought them under their own power. In his sixth year the Gauls, the truces which they had made with his father now ended, determined, after assembling a great army of their men, to move against the Sicambri; and, crossing the river Meuse, they were the first to declare war on the enemy. Clodomir, surrounded by the aid of the Germans, without delay confidently met the Gauls and fought most bravely for his people and kingdom. A very fierce battle was joined there for a long time, and many fell on both sides. At last the Gauls turned their backs; the Sicambri pursued them as far as the river and laid low the greater part of the army with the edge of the sword. If they had either thrown down or seized the bridge, as King Clodomirus, son of great Basanus, had once done, not even one of the Gauls could have escaped. After the Gauls had suffered that disaster, as long as Clodomir survived they no longer crossed the Meuse with an army, though in their usual manner they often carried out raids.
+
+But King Clodomer, after many battles had been fought with the Romans, the Gauls, and the peoples higher up around the Rhine and the Moselle, dies in the twentieth year of his reign, which was the 121st year before the birth of Christ.
+
+The son of Clodomir, succeeding his father, reigned twenty-eight years, a high-minded, vigorous, and most daring prince. How warlike he was, both the Romans and the Gauls were able to feel, with whom he fought many times bravely, even with his own hand. For when the Saxons, Thuringians, and Germans were bringing aid, he led against the Romans into Italy an army of 220,000 fighting men, and, laying waste...

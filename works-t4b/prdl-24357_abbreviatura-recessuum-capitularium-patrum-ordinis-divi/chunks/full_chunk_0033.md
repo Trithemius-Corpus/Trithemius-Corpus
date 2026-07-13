@@ -1,0 +1,21 @@
+--- Page 075 ---
+
+to absolve the abbots and other presidents and persons of this kind, and any of them, if they humbly seek it, from all and each sentences, censures, and penalties of excommunication, suspension, and interdict by which they shall be found bound for the time, or which perhaps shall happen to be promulgated against them in any way in the execution of this office, in the customary form of the Church, after a salutary penance and the other things that by law are to be enjoined have been imposed on them according to the measure of their fault; also to publish and announce the aforesaid articles, and to have them received and observed by all subjects; and to dispose, ordain, establish, and execute all and each other matter necessary or opportune in the premises and concerning them in any way; and to restrain contradictors and rebels by ecclesiastical censure and the other remedies of law, calling in for this, if need be, the aid of the secular arm.
+
+No apostolic constitutions, statutes, or customs of the aforesaid monasteries, places, and order, strengthened by oath, apostolic confirmation, or any other firmness, nor any other contrary things whatsoever, shall stand in the way. Nor shall it stand in the way if to the monasteries, places, and order, to the abbots and other presidents and persons, or to any others, jointly or individually, an indult has been granted by the Apostolic See that they are in no way bound to admit others to visit or otherwise act beyond and contrary to the privileges or indults granted to them, and that they cannot be compelled to this, or excommunicated, or that they themselves or monasteries and places of this kind cannot be placed under interdict or suspension, by letters that do not make full and express, word-for-word mention of such an indult; nor shall any apostolic privileges, exemptions, or indulgences, general or special, of whatever tenor they may be, by which, because they are not expressly or fully inserted in the presents, the exercise of your jurisdiction in this matter could in any way be impeded, stand in the way, since, as regards this, we do not wish them to avail them in any way.
+
+--- Page 076 ---
+
+XXXVI
+
+On Absolution.
+
+We will, moreover, that each of the presidents and persons mentioned whom you shall judge should be absolved from such sentences, censures, and penalties, or from any of them, ought and shall be bound, when the impediment has ceased, canonically to render satisfaction within a competent peremptory term to be fixed by you to each person to whom satisfaction may perhaps have to be rendered on that account. Otherwise, when the term has elapsed, they shall by that very fact fall back into their former sentences, censures, and penalties.
+
+The tenor of the aforesaid articles, as they have been set forth, follows and is this:
+
+Articles for Reform.
+
+Because regular discipline and the beauty of religion have almost wholly fallen, and have miserably collapsed, to the grave scandal of the whole order of black monks and to the dishonor, reproach, and contempt of all the professors of that order, and, what is more horrible, to the deadly harm of souls: for, alas, every comeliness has been taken away from religion. She who formerly could glory in the Lord, saying, “I am black in the lowliness of my habit, and beautiful in the holiness of morals and observance,” now, alas, by a certain monastic coarseness, has been perverted into wantonness and insolence, so that neither in reality nor even in appearance does any image of her former beauty now seem to remain.
+
+Therefore we, the abbots and other religious of the said order gathered in the sacred Council of Basel, wishing with such great and most earnest desires and with one zeal to provide against such great and enormous scandals, and for the reform of the same order, lest it hereafter suffer a more grievous ruin, which may God avert, have come and gathered together into one. Devoutly and wholesomely attending with daily labors to the aforesaid reform, we have set forth certain beginnings and foundations of religion, so that, beginning from these, deformed monasteries may be able to advance toward the fruit of monastic profession; and out of abundant caution, from the Rule

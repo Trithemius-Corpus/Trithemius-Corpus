@@ -1,0 +1,9 @@
+*Familiar Letters*
+
+[unclear]
+
+*20.*
+
+*Johannes Trithemius, Abbot of Sponheim, to Roger Sycamber, his very dear brother, greetings.*
+
+Most loving Sycamber, in order to satisfy your desire, which, at your request, I promised before I left Neumagen, I wished briefly to disclose to you in my letter what fortune I have had in sailing, and what is being done publicly here. On the twenty-fifth day of the month of June I left Neumagen with Master Narcissus, lately sent to me from Paris, and with certain other members of our household, and that same evening, carried by carriages, we entered Mainz. The next day, having boarded a ship, and sailing with a favorable wind, we went down, furrowing the Rhine, and on the first day of the month of July we put in at Bonn. It was the solemn vigil of the Visitation of the most blessed Mother of God, ever-virgin Mary. There we waited for two days for the arrival of the most serene prince Joachim, Margrave of Brandenburg, meanwhile being most abundantly provided in all things by the munificence of the most reverend Hermann, Archbishop of Cologne. But on the third day of the month of July, around sunset, the prince himself whom we were awaiting also came, with sixty horsemen; the archbishop received him honorably and detained him for three days. On the morning of the sixth day of that same month, leaving Bonn, we came to Cologne around the tenth hour. And now we are here, having no certainty at all about our departure. There is a report, not a common one, that our king is planning an expedition, and that aid will not fail in the future for your Sycambrians. Continuous negotiations are being held among the princes before the king for the restoration of peace and concord between our prince Philip, Count Palatine, and the others who are at odds with him. Macharius, abbot of the desolated monastery of Limburg,

@@ -1,0 +1,27 @@
+{% extends "base.html.j2" %}
+{% from "_macros.html.j2" import breadcrumb, text_card with context %}
+{% block title %}{{ section.label }} &mdash; Trithemius Corpus{% endblock %}
+{% block body %}
+
+<article class="genre-page">
+{{ breadcrumb([("index.html", "Home"), ("works.html", "Works"), (None, section.label)]) }}
+
+<header class="work-header">
+  <h2>{{ section.label }}</h2>
+  <p class="muted">{{ section.n_texts }} {{ 'text' if section.n_texts == 1 else 'texts' }} &middot; {{ section.n_editions }} {{ 'edition' if section.n_editions == 1 else 'editions' }}</p>
+</header>
+
+<p>{{ section.description }}</p>
+{% if section.register_notes %}
+<aside class="register-note">
+  <strong>Register.</strong> {{ section.register_notes }}
+</aside>
+{% endif %}
+
+<div class="text-cards">
+  {% for t in section.texts %}{{ text_card(t) }}{% endfor %}
+</div>
+
+</article>
+
+{% endblock %}

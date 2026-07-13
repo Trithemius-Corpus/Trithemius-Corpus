@@ -1,0 +1,11 @@
+Thuringians; Burgundians; Lombards; Burgundians; Brabantians; Hollanders; [Bavarians?]; Huns; Hungarians; Poles; Poles likewise; Danes likewise; Dacians; Swedes; Swedes; Swedians; Frisians; Helvetians; Frisians; Helvetians; Alsatians; Alsatians; Alsatians; Vangiones; [unclear].
+
+Suebi; Suebians; Vindelici; Triboci; Triboci; [unclear]; Nemetes; Spirensians; Nemetici; Spirani; [unclear]; Anglians; Albinians; English; Scots; Scots; Raetians; Raetians; Irish; Norwegians; Norwegians; Zeelanders; Zeelanders.
+
+Spaniards; Spaniards; Normans; Normans; Normans; Icelanders; Icelanders; Icelanders; Britons; Britons; Britons; Slavians also and; Slavs and you; Slavians; Slavs; Slavs; Rugians; Rugii; Rugi; Ruthenians; Ruthenians; Prussians; Prussians.
+
+Lithonians; Lithuanians; Lithuanians; Flemings; Flemings; Cassubians; Cassubians; Lusatians; Lusatians; [unclear]; [unclear]; Savoyards; [unclear]; Savoyards; Savoyards; Savoyards; Styrians; Styrians; Dalmatians; Dalmatians; Dalmatians; Pannonians; Majorcans; Picards; Picards; Picards; Picardians; Mauritanians; Mauritanians; Mauritanians; Portuguese; Portuguese; Lusitanians; Lusitanians; Gaetuli; Gaetulians; Ethiopians; Ethiopians; Ethiopians; Scaldes; Scaldes; Scaldes; Africans; Africans; Majorcans.
+
+Sicilians; Sicilians; Neapolitans; Neapolitans; Italians; Italians; Italici; Italians; Calabrians; Calabrians; Romans; Romans; Etruscans; Etrurians; Allobroges; Celtiberians; Greeks; Gauls; Cabini; Sabines; Latins; barbarians; Indians; [unclear]; Armenians; Armenians; Palestinians; Hebrews; Jews; Rhodians; Cypriots; Egyptians; Asians; Asiatics; Tartars; Cappadocians; Chaldeans; Medes; Parthians; Persians; Numidians; Numidians; Pelasgians; Thracians; Thracians; Amazons; Arcadians.
+
+Atrebates; Aduatici; Avarici; Ambari; Auverni; Aulerci; Andes; [unclear]; Antuates; Aremorici; [unclear]; Bigerriones; Brannoces; [unclear]; Bituriges; Bactavi; Bellovaci; Centrones; Caturiges; [unclear]; [unclear]; [unclear]; Condrusi; Curiosolites; Ambiani; Ambluariti; Ancalites; Ambilates; Agendones; Ambibareti; Ambibari; [unclear]; [unclear]; Arenarii; Bellovaci; Bibroci; Brigantes; [unclear]; Baetasii; Bingiones; [unclear]; [unclear]; Bructeri; Cimbri; [unclear]; Caletes; Cadetes; Cadurci.

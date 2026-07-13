@@ -1,0 +1,19 @@
+with your gifts, which please you in truth, so that at all times, with unstained body and clean heart, I may be able to offer to you the sacrifice of your body and blood.
+
+I know, Lord, and truly know, and I confess this very thing to your goodness: that I am not worthy to approach so great a mystery, because of my too many sins and my many negligences. But I also know, and with my whole heart believe and with my mouth confess, that, since you are almighty, you can make me worthy, you who alone justify the ungodly, and from the unclean can make the clean.
+
+Therefore, by your omnipotence, I pray you: grant to me, your unworthy servant, true contrition for my sins, and also pure devotion, and most fervent fear and reverence, so that with purity of heart and a fountain of sweet tears, with spiritual gladness and heavenly joy, with humility and the fervor of charity, I may be able to offer to you. O sweetest Lord Jesus, grant me in this hour your mercy, so that my mind may feel the sweetness of your most blessed presence, and the devotion of the holy angels around me, and the peaceful elevation of [itself?] in you.
+
+Take away from me, Lord Jesus, all my iniquities, and mercifully kindle in me the fire of your love. Do not be angry with me, O Jesus, ineffable good, nor withhold the multitude of your mercies from me. For it is not in my justifications that I pour out prayers before your face, Lord, but in your many mercies. Take away from me, Lord Jesus, a stony and hard heart, and give me a heart of flesh and contrite, which may fear you, love you, cherish you above all things, delight in you alone, follow you, and enjoy you forever.
+
+O most merciful Lord Jesus, I pray you through the most holy mystery of your body and blood, by which in your Church the saints are daily fed and given drink, washed and sanctified: give me your holy virtues, adorned with which, with a good conscience, I may be able to approach your altar, so that these heavenly sacraments may become for me salvation and life. For you said with your holy and most blessed mouth: The bread which I shall give is my flesh for the life of the world. If anyone eats of this bread, he shall live forever. O sweetest bread, heal the palate of my heart, so that I may feel the sweetness of your love.
+
+Heal my heart, Lord, from every weakness, so that it may feel no sweetness except you, seek no love except you, love no consolation except you. O most holy Jesus, bread of life and understanding, having in yourself every delight and every sweetness of fragrance, who always refresh us from yourself and never fail in yourself: let my heart, I beseech you, eat you, and let my soul be filled with the sweetness of your savor. O holy bread, O living bread, beautiful bread, clean bread, who came down from heaven and give life to the world: come into my heart, and cleanse me from every defilement of mind and spirit. Enter into my soul; heal and sanctify me at all times. Be the protection and continual salvation of my body and soul. Repel from me the enemies who lie in wait for me, so that, fortified by the sacrament of your body and blood, I may advance through you on the straight path under regular discipline, and after this life may come gladly to your kingdom.
+
+*An Excuse for the Lengthiness.*
+
+If this prayer has seemed too long to anyone, let him read the part he wishes, since for this reason we have divided it into short paragraphs, that we might remove weariness. But the person who wants to read neither the whole nor a part complains of its length in vain, since he is shown to be unwilling to pray either at length or briefly.
+
+*Meditation Before Approaching the Altar.*
+
+For by meditation on the Lord’s Passion, or at least on one of its more sacred articles, or on several, if the opportunity of time is present, the mind of a devout person is pierced with compunction by a wondrous working, if the custom of tasteful meditation

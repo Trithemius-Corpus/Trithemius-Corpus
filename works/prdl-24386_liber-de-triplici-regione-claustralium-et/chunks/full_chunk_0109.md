@@ -1,0 +1,15 @@
+*Secondly, in the cell you ought to read profitably.*
+
+It is especially fitting for a monk staying in his cell always to read something good, and to occupy himself usefully in all things. For sacred reading overcomes the temptations of the devil, calms the fires of the flesh, makes one despise the world, and raises the mind to heavenly things. For Jerome, lover of divine Scripture, truly said: “Love the knowledge of the Scriptures, and you will not love the vices of the flesh.” Not all things are to be read by all monks, since one who is still weak in spirit must be imbued only with simple teachings. And Hugh says to the monk who loves simplicity: “Do not read in order that you may be considered more learned, nor read curiosities that do not edify, since vain reading begets vain thoughts and extinguishes the mind’s devotion.” Therefore simple things, not lofty ones, are to be read by simpler monks; devout things, not curious ones, so that those who, because of slowness of understanding, are not learned in higher matters may not become dissolute in vain things. But for those who are stronger in spirit, we do not forbid suitable studies, since all things are clean to the clean, and nothing that is read harms the truly devout. Nevertheless let no one claim for himself a strength of spirit that he does not have; rather it is placed in the abbot’s discretion who may seem fit for freedom in reading.
+
+*Thirdly, in the cell you ought to devote yourself opportunely to meditations.*
+
+Just as a flower arises from a root, so meditation is generated from reading. If the reading has been vain, the meditation too will be fruitless and useless. For meditation is the fruit of reading, and prayer the offspring of meditation. Therefore take care to devote yourself opportunely to holy meditations, so that you may also learn sometimes to raise the mind through the fervor of divine love into contemplation. Finally, meditation itself raises the mind and commits the study of reading to memory.
+
+*Fourthly, in the cell you ought frequently to pray.*
+
+The holy apostle admonishes us to devote ourselves to prayer without ceasing, because just as breath is always necessary for us for the life of the flesh, so continual prayer is altogether necessary for the health of the mind. For just as we are instructed toward good by readings, so by prayers we are freed from evil. For the Lord says in the holy Gospel: “Pray that you may not enter into temptation.” For prayer refreshes the hungry mind, extinguishes the fire of carnal concupiscence, instructs conduct, and drives away demons. If you wish always to be with God, pray. Let your prayer be pure, simple, and clean; let it be poured out to God through the fervor of love, and it will not be able to be fruitless.
+
+*Fifthly, in the cell you ought to rest properly.*
+
+He rests best who commits no evil. He rests well who despises all occupations of the world. Be quiet in the cell, so that you do not wander this way and that in any thought; be pure and tranquil in mind, so that

@@ -1,0 +1,17 @@
+--- Page 029 ---
+
+Others, however, said: “This abbot Trithemius promises great and wondrous things. If he can do them, he can do so only by the ministry of demons, since they seem to exceed by far the bounds of nature. But if he cannot do them, who will doubt that he is a liar, and deservedly to be refuted by all good and learned men?” But let both alternatives be far from me, since I promised natural things.
+
+Of all those who rashly judged matters of mine unknown to them, the most rash, and finally the most unjust assessor of things, came into the open: Charles Bovillus, a Picard by nation. After he had traveled through the upper parts of Alsace, he came to me at Spanheim for the sake of hospitality, intending to return to France by way of Trier. I treated him with all the courtesy I could, and, for as long as he was with me, showed him every kindness of hospitality with a cheerful face.
+
+And since, as is customary among friends, especially those devoted to literary studies, I had shown my most welcome guest all my things for him to see, among the rest there also presented itself the aforementioned work of the Steganographia, not yet completed at that time. Bovillus saw it and read it cursorily; with his mind occupied elsewhere, he said that he marveled at the invention, praised it, and did not trouble himself as to the way in which it might be understood. Hence, since he did not ask for the key of understanding, he deserved to hear or perceive none of the things contained in that work of ours.
+
+After this he returned to France, repaid us evil for good, and shamefully violated the bond of Christian friendship. For when he was asked by our common friend lord Germain de Ganay, later bishop of Orléans, what he had found and seen at my house in Spanheim,
+
+--- Page 030 ---
+
+he wrote back falsehoods for truths and lies for benefits, condemning and rashly judging things that he was in no way able to grasp with his understanding. For, since he believed that the palm of learning would be awarded to him by envy and falsehood, he wrote back to the aforementioned most learned man a letter full of falsehood, lies, injuries, and many insults. In it, making mention of the Steganographia, which he had not understood, he falsely, mendaciously, and with excessively injurious rash presumption proclaims that I am devoted to depraved arts, a magician and a necromancer.
+
+To his most mendacious injuries and blasphemies, God being merciful, I shall shortly respond in such a way that all posterity may understand both that I am innocent and that Bovillus, in this matter, is impious, cruel, rash, and a liar. I firmly affirm, I truly say, and I confidently swear upon my soul, that I have never had any dealings with demons, or with depraved and pernicious magical or necromantic arts; rather, each and every thing that I have either written or promised that I would write is pure, sound, natural, and in no respect whatever contrary to the Christian faith.
+
+Therefore I do not fear to submit my promises to the examination of good and learned men, whenever and as often as there is need; and I in no way intend to resist their determination. There was a reasonable cause for my inserting this account of Bovillus’s rashness into this preface of mine: namely, so that all may understand that it has been done by mature counsel that the work of the Steganographia remains buried in darkness up to now, not because I fear the rash judgments of Bovillus;

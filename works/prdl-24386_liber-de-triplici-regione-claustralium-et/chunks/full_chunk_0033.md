@@ -1,0 +1,13 @@
+[unclear]tion. The third is the faithful cleansing of the powers. The fourth is the attentive reformation of works at the end of the region. The fifth is the ordered institution of true cenobitic progress. The sixth is the adaptation of the powers for entry into the third region; and the seventh is the exemplary or experimental certainty of all the things aforesaid.
+
+*On the continual and diligent intention of the end of cenobitic life.*
+
+*Article I.*
+
+Since the end is first in the intention of the wise person, and each thing in its own kind is judged the more perfect the more it approaches its end, the monk who cultivates this middle region should always consider why he has entered religion; and if he finds his intention well ordered, he should strive to continue it. But if he finds it corrupted, he should not neglect to reform it to the rectitude of the end that is due.
+
+But note that in spiritual exercises the end is described as twofold, through which the virtue of monastic life is increased in merits. The first is charity, which is called principal and ultimate; to it all monastic exercises are ordered as to a first cause. Whatever good we do must always and principally be ordered to this end, because no work of virtue receives merit unless charity always lays the due foundation. “God,” says John, “is charity; and he who abides in charity abides in God, and God in him.” But he who abides in God does not sin. The second end, disposing toward the first principal end, is directed as it were through some fitting means; and this is called secondary, or less principal. The monk must always attend to this end, and through it order his exercises to the ultimate end. For no one can reach the principal end of charity who neglects to observe the means.
+
+This disposing end, however, in relation to the ultimate end, so far as it pertains to cenobites, according to John Cassian in the *Conferences of the Fathers*, is to cast away from oneself entirely all cares of the world, to mortify one’s own wills, to entrust every disposition and care of oneself to the superior, and to think nothing of tomorrow. For a cenobite who wishes to make progress in this middle region must assume the complete denial of himself, and then resign himself totally into the hands of his superior, so that within himself he may be inwardly free from every secular occupation. Indeed, unless our cenobite has arrived at this end, he is by no means a true monk, because he still sows corruption in corruptible flesh and in no way observes the virtue of his profession.
+
+This denial of monastic self-will, however, seems principally to consist in three things, without which no one can truthfully say himself

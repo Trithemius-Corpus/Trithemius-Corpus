@@ -1,0 +1,46 @@
+{
+  "id": "prdl-70287_joh-tritthemii-de-scriptoribus-ecclesiasticis-liber",
+  "title": "Liber de Scriptoribus Ecclesiasticis",
+  "year": "1546",
+  "source_year": "1546",
+  "year_note": null,
+  "edition_info": "Coloniae : Peter Quentel, 1546 (HAB)",
+  "edition_info_raw": "( Coloniae : Peter Quentel, 1546 ) HAB",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 536,
+  "genre_cluster": "bibliographic",
+  "tier": "S",
+  "faithful_adj": 4.59,
+  "fluent_adj": 4.59,
+  "coverage_pct": 100.0,
+  "chunks_graded": 291,
+  "chunks_total": 291,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "minimax",
+    "minimax-v2",
+    "opus-sweep",
+    "public"
+  ],
+  "source": {
+    "provider": "HAB",
+    "url": "http://diglib.hab.de/drucke/alv-df-99/start.htm",
+    "download_url": "http://diglib.hab.de/download.php?dir=drucke/alv-df-99&submit=start%20download&begin=drucke_alv-df-99_00001&end=drucke_alv-df-99_00534",
+    "prdl_id": "70287"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 291,
+    "n_missing_segments": 0,
+    "latin_source_file": "churro_full.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-70287_joh-tritthemii-de-scriptoribus-ecclesiasticis-liber_parallel.html"
+  }
+}

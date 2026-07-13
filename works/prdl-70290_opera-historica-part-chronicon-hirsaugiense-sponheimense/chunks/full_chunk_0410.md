@@ -1,0 +1,31 @@
+*Chronicle of Trithemius*
+
+In the same year also sixteen counts, conspiring against John, duke of Brabant, advanced to war against him near Fexhe and Landen. Among them from these upper territories were John, count of Sponheim, also the count of Katzenelnbogen, Henry of Bolanden, and the count of Falkenburg; but the dispute was at last settled by Philip, king of France.
+
+*1329.*
+
+In this year, which was the twentieth of our abbot Wilicho, Simon, count of Sponheim, after he had divided the castle of Sponheim with his brother John, added, delivered, and resigned his part with all its appurtenances, freely, of his own accord and voluntarily, forever, and [unclear] gave and resigned it to this monastery, freely, of his own accord and voluntarily, forever, and [unclear] by him to all his successors, abbots of this [unclear], of his wife [unclear], to Abbot Wilicho [unclear], those to descend from him, whoever shall be the elder at the time, should receive from the hand of the abbot one half of that castle with all its appurtenances as his fief, according to the tenor of the letters drawn up concerning this, which the same count, strengthened with his own seal and that of his aforesaid wife, delivered to Abbot Wilicho. Their date is the year of the Lord [1329?], on the Sunday next after the feast of St. John the Baptist. This condition having been made, Lord Abbot Wilicho [unclear] the said castle.
+
+*Count Simon received the abbot’s fief.*
+
+*Conrad, bishop of Worms, died.*
+
+*Baldwin, archbishop of Trier, was administrator of the church of Worms.*
+
+*Baldwin was rector [unclear] of the priory.*
+
+In the same year Cuno of Schoneck, bishop of Worms, died. He had permitted the canonical brothers in Frankenthal to have their own houses and residences, contrary to the regular institution; nevertheless he revoked that permission before his death. When he had died, Baldwin, archbishop of Trier, with John and [unclear] of Sponheim, abbot, and the aforesaid count, granted it anew in fief and received from him the customary oath. This same John was count, brother of Lord Simon, concerning his remaining part of the aforesaid castle, in the sixth year following, as we shall say there.
+
+Sponheim, with all its revenues and appurtenances, was granted anew in fief to the aforesaid Lord Count Simon, and the oath was agreed to by the same. This same John was count, brother of Lord Simon, concerning his remaining part [unclear], in the same also the date is the year of the Lord 1329, on the Sunday next after the feast of St. John the Baptist. This condition having been made, Lord Abbot Wilicho [unclear] the said castle. Conrad, bishop of Worms, died. Baldwin, archbishop of Trier, was administrator of the church of Worms. Baldwin was rector [unclear] of the priory. In the same year Cuno of Schoneck, bishop [unclear] Frankenthal, permitted private houses and residences contrary to the regular institution. When he had died, Baldwin, archbishop of Trier, with John and [unclear] of Sponheim, abbot, and the aforesaid count, granted it anew in fief, and the oath was agreed to by the same. This same John was count, brother of Lord Simon, concerning his remaining part of the aforesaid castle; in the same also the year is given as the year of the Lord [unclear], on the Sunday next after the feast of St. John the Baptist. This condition having been made, Lord Abbot Wilicho [unclear] the said castle. Cuno, bishop of Worms, died. Baldwin, archbishop of Trier, was administrator of the church of Worms. Baldwin was rector [unclear] of the priory.
+
+In the same year Berthold, bishop of Speyer, was, by the authority of Pope John XXII, transferred to the episcopate of the church of Strasbourg, and Baldwin, archbishop of Trier, to the episcopate of Strasbourg [unclear]. In the same year the bishop of the church of Speyer was transferred; Baldwin, archbishop of Trier, in the same year was [unclear] administrator by the chapter of the church of Speyer, and archbishop of Speyer and administrator [unclear], because one man at the same time was archbishop of Trier and administrator [unclear], not elected nor postulated, but violently intruded. In the same year also [unclear] the bishop of Speyer, after the promotion of Baldwin, archbishop of Trier, who after the translation of Bishop Berthold to Strasbourg, as we have said, was administrator of the episcopate of the same church; this same Walram presided over the church of Speyer for six years. In the same year also, when the aforesaid archbishop resigned the administration of the church of Worms, Gerlach Schenk of Erbach, of whom we have already spoken above, assumed the episcopate of the same church and held it for two years.
+
+In the same year also, after a long contest held in the papal curia, the clergy and citizens of Mainz were compelled by Pope John XXII to receive as their archbishop Henry of Virneburg, surnamed Busman, consecrated by the same pope. Through two apostolic legates sent for this purpose, Baldwin, archbishop of Trier, resigning the administration which he had carried on for almost three years, he was introduced into possession of all the goods of the archbishopric and presided for fifteen years. This Archbishop Henry completed the castle called Altavilla, *Elfeld*, [unclear] by Baldwin, archbishop of Trier, administrator of the church of Mainz, as has been said.
+
+In these times also Emperor Louis, seeing the excellence of the sons of his brother Rudolf, count palatine, whom, because he had sided with Frederick, duke of Austria, he had driven into England, as we have said, said: “Their father sinned against me, not the sons. Shall innocent sons therefore bear the iniquity of their father? Far from it.” He therefore ordered that everything which he had taken from their father be restored to the sons: namely, the principality of the county palatine, with the other possessions in Bavaria, in Amberg, Nabburg, and all the rest which their father had possessed.
+
+*The sons of Rudolf, counts palatine, succeed to shares.*
+
+*Names of the sons of Rudolf, the aforesaid count palatine.*
+
+There were three sons of Rudolf, and these are their names: Rudolf, the firstborn, a man not very wise nor shrewd, had as wife the sister of Louis, king of Hungary; by her he begot one daughter, named Margaret.

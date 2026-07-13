@@ -1,0 +1,22 @@
+...you do, you will more readily, at our prayers, have shaped your life according to the precepts of the venerable father Trithemius. We think that none of you is unaware how great the examples of pastors are among the unlearned multitude; if anything is done rather freely by them, it thinks not only that this is permitted to itself, but we often see it add and contribute much of its own. Therefore show yourselves, by example and by speech, such as it is fitting that those should be who have almost all the means of their salvation dependent upon you. Farewell, mindful of your office and duty.
+
+Given at Strasbourg, from our episcopal citadel, on the Kalends of February, in the year from salvation restored 1577.
+
+*Hexastich to the Reader*
+
+One man, chaste in conduct, will unroll this pious work,
+while another, with impure heart, will read it through:
+let the former rejoice that he leads a life equal to its admonitions,
+and let him hope for the pleasing rewards of the eternal house.
+Let the latter fear, unless he become better through right teaching,
+lest in his own life he feel God as avenger.
+
+*The Little Book of Johannes Trithemius, Abbot, to Nicolaus Mernicensis, Priest, on the Life of Priests to Be Ordered*
+
+*Chapter One*
+
+You ask of me, Nicolaus, most beloved brother, and urge me with frequent letters, that I should commend to you in writing a pattern for living praiseworthily in the priesthood. You compel me to labor beyond the powers of my intellect, and expose me to be torn by the bites of rivals, who on this account will judge me presumptuous, [unclear] I have learned, I should wish to show you. And although [unclear]
+
+[unclear]
+
+although the matter stands thus, nevertheless I prefer to undergo the judgment of rivalry rather than suffer harm to my charity toward you. For I have always cherished you with so great an affection that I have never been accustomed to deny you anything when you ask. Therefore, wishing to satisfy your prayers, I have resolved to commend to you a rule of living from the writings of the saints: not because it would be wholly sufficient in every respect for your state, but so that, as some sort of beginning, it may lead you, if you wish, into honorable conduct. First of all, then, I admonish you to weigh, from the definition of the name, the state of the conduct enjoined. For we are called clerics, as many of us as have been specially chosen into the lot of the Lord. Let us therefore interpret the word of the name, and we shall understand the quality of the prescribed honorableness. For cleros in Greek is interpreted as sors, “lot,” in Latin. From cleros, therefore, clerics are said to be chosen into the Lord’s lot. If, then, we recognize that we have been called into God’s lot, why do we still serve the world? Why do we seek an inheritance in the land of the dying, we who await God promising himself to us as an inheritance? For in the Old Testament we read that the Lord commanded the priests and Levites not to receive an inheritance among the children of Israel, their brothers, because he himself was their inheritance. Now, therefore, if you think yourself to be a cleric, you ought to walk more honorably than other men by the excellence of your conduct, and by no means love the perishable riches of this world. For if you have subjected your soul to the inheritance of the age, you will be placed outside the lot of the Lord with the foolish. For the Lord will not deign to receive you among his elect if, going after gold, you have resolved to love the world. Avarice is most shameful in a priest of Christ, for it makes a servant of God a minister of idols. If it has once seized your soul, it never again lets it go in control of itself. For no one can serve two discordant masters. “You cannot,” he says, “serve God and Mammon.” You will not be able to be a good cleric if you have been avaricious. But I know, and by long experience in living with you I have learned, that nature has made you frugal; beware lest you turn a gift of grace into fuel for greed. Indeed, those who wish to become rich in this world frequently fall into the temptations of the devil. But the minister of God must be separated from the anxiety of the world, because a free mind cannot go to God if it has been entangled in earthly cares. Hence we wear shaved crowns on the head, so that, casting off superfluities, we may freely prepare an ascent to God in thought. For the hairs of the head, superfluous earthly...

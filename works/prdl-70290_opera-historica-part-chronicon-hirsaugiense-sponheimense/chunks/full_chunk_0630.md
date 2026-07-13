@@ -1,0 +1,15 @@
+*Johannes Trithemius.*
+
+[unclear] excellent [things]. But for others there is sadness, whose whole concern is now in pleasure. For we shall escape immortal. For death, as all philosophers affirm, is nothing other than the end of all these evils.
+
+The second is the death of guilt, of which it is written: “The soul that has sinned, it shall die.” And again: “The death of sinners is very evil,” whose birth also is evil, and a worse life has followed. This death, O [unclear], let us fear, which not only kills the body but sends the soul into eternal pains.
+
+The third, however, is the death of saving grace, which brings about the death of worldly pleasures, in which not nature but sins die. This is the saving death by which, baptized in Christ, we are reborn, and with him himself are graciously buried in the Lord. Therefore the first death is to be despised by all the wise; the second is to be detested by everyone; the third is most greatly to be desired by all Christians.
+
+Those, then, are wretched and rightly to be lamented, who die by the second death, whom hell receives from this life to be tortured forever, not those whom the heavenly court receives to be made glad forever. For precious in the sight of the Lord is the death of his saints. And truly precious: through it the desired end of labors will be present, the preservation of victory is granted, the gate of life is opened, and entrance into perfect security is conceded.
+
+The quality of death depends on the merit of life, just as life itself is good if it is lived virtuously, evil if with crime; so death must be weighed from the acts of the preceding life. Thus it happens that if life has been spent in the love of God and the knowledge of truth, death cannot be evil, because it is a transfer to immortality. If the other life has existed, death must necessarily be evil, since it sends one to eternal punishments. Death is to be feared by all who, not walking wisely in the law of the Lord, have preferred earthly things to heavenly, perishable things to eternal.
+
+O wretched we, O unhappy, what must we necessarily do, being about to die, we who especially dread common death because, conscious of our evils, we dread the sentence of the judge whom we have offended? For it is necessary for all who lead life on earth to die. But now, O you [unclear], at last thinking that we are already about to die, let us amend our life, fearing death in such a way that before it comes we may die to sins. For we shall not fear the death of the flesh if, our vices having been mortified, we have lived in the love of God through works of holy piety. Who indeed should fear temporal death, to whom eternal life is promised for the merit of justice?
+
+Yet we must never forget that our death is pressing life toward its end, since he who daily remembers himself [unclear] from his labors. Let us beware, friend, lest we die worse than we were born, and lest, with [unclear] sins, [unclear], we depart from the world, we who entered it without actual sin.

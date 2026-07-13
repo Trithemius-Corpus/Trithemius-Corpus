@@ -1,0 +1,15 @@
+Homily IV.
+
+Let him know the gracious will of almighty God, to whose words and service he has sworn allegiance. But just as a soldier cannot know the will of his lord when he is far away except through messengers and letters, so a monk does not understand the commands of the eternal King except through sacred readings, sermons, and the writings of the Gospel. For those who do not know it, reading Scripture opens the gate of salvation; it leads the diligent reader by the straight path to the knowledge of God; it makes the one who loves it despise all worldly things and love nothing except true wisdom.
+
+Nothing, however, is more shameful than for a monk in the spiritual life to refuse to make progress, and knowingly to wish to remain ignorant of the will of God. Let no one flatter himself on account of his weakness or ignorance, since he who is ignorant will be ignored, and he who has hated saving knowledge is justly condemned. When the Lord was about to send preachers into all the earth, he warned them beforehand, saying: “Be wise as serpents and simple as doves,” lest either you be overthrown by someone through ignorance, or devise injury against someone through deceit. For there is little difference in fault between being able to deceive and being deceived.
+
+Therefore I ask you, dearest brothers, to give your attention to the Rule of our holy father Benedict, which admonishes you in many places to labor diligently in frequent readings of the divine Scriptures. For in the Scriptures we are taught to be formed in every kind of piety: how we ought to live in this very brief pilgrimage of our sojourn, so that we may be able to please the Lord our God above all things. For it belongs to monks to despise the world and all the pleasures of the present life for the love of God, manfully to restrain the unlawful movements of the flesh, to devote themselves also to prayer, reading, and meditation on the Scriptures, and continually to lift the mind from earthly things to heavenly things.
+
+Blessed is that monk who has not gone away in the counsel of the wicked, nor stood in the way of sinners, nor sat in the chair of pestilent men, but meditates on the law of the Lord day and night, learning here in the Scriptures the wisdom of God, whose fruit, eternal life, he will receive after the end of this pilgrimage.
+
+On the Daily Renewal of the Holy Purpose. Homily V.
+
+We have heard, dearest brothers, the reading recited to us from the book of holy Job, in which he laments the misery of the human race, the calamity of this life, and at the same time its unstable brevity. “Man,” he says, “born of woman, living for a short time, is filled with many miseries; he comes forth like a flower and is crushed, and flees like a shadow, and never remains in the same state.” “Behold,” he says, “the brief years pass by, and I walk the path by which I shall not return.” “All flesh fails together, and man will return to ashes.”
+
+What do you notice amid these things, brothers, or what do you think? Is there any man among us who does not know himself to be mortal, who can say with truth, “I shall not be moved forever”? Alas, my brothers,

@@ -1,0 +1,23 @@
+--- Page 176 ---
+toward one’s neighbor, or against the rule or the statutes of the fathers, he should strive to bring it back for examination under this chapter; and concerning secret matters in tomorrow’s confession, and concerning public and regular transgressions in the first chapter, he should faithfully and from the heart resolve to cleanse himself by accusing himself. Let him grieve over what he has committed; make satisfaction for what has been repented of; and beware of committing such things again.
+
+Then let him consider the grave danger of offending God, whether the sin has been venial or mortal. For John Gerson, chancellor of Paris, says in the treatise On the Spiritual Life: “So much is even venial sin against God that, by his justice, he could condemn a person to eternity for it. But that he does not impute it to a person unto damnation proceeds not from justice but from his infinite goodness.” And Saint Anselm the bishop warns us that a person ought not knowingly to commit the least sin against the will of God for the whole world. For the most blessed bishop Augustine says: “No sin is so venial that it would not become mortal if it pleased.”
+
+You will say: “This statement cannot be true, since if a sin has been venial, it can never become mortal; but if it becomes mortal, it was not venial.” But listen and understand. I grant that venial sin, considered in itself, cannot become mortal; but one and the same sin, which can stand together with charity, becomes venial for one person from negligence and weakness alone, while for another, from contempt and aversion from God in the same sin, it is without doubt mortal, because what pleases even insofar as it is sin and against God is deservedly imputed. Blessed, therefore, is the one who is always fearful; but the hard-minded will fall into evil. Whoever neglects the smallest sins when he can amend them gradually falls into graver ones.
+
+Indeed, how much sin displeases almighty God is shown by the punishment that follows it. For so often we read in the sacred books and in the deeds of times past that those sinning against God were gravely punished, that we should rightly fear the pit of sin. How much even the briefest thought of a spirit turned away displeases him is declared to us by the fall of the first angel. For as soon as he displayed himself inordinately by growing proud against God, he was cast into hell.
+
+--- Page 177 ---
+How much idle and useless words are against God is sufficiently and plainly taught to us in the Lives of the Fathers by the story of the infernal pigs among brothers speaking useless things in the presence of their parents.
+
+How much evil and harmful words offend almighty God was made evident in the five-year-old boy who blasphemed, whom the devil, snatching him from his father’s lap, carried off alive to hell, as is believed.
+
+How much evil deeds and negligences concerning one’s office displease him is clear in the sons of Eli, who were negligent and cared too little for the rite of sacrifice.
+
+How much even good works displease God when done by one’s own will, with obedience set aside, holy Arsenius taught us by his own deed; for although he did not go against the command of a superior, he did not carry his usual water unpunished. And we read many similar things about others.
+
+But how much evil deeds offend God, since we can understand it from innumerable histories, so to speak, there is no need to prove by a few examples.
+
+Therefore, when in his recollections our devoted monk has found himself burdened with promises, or any other negligences or sins, however grave they may be, let him assume contrition for what has been done, amendment for what is possible in the present, firm caution for the future, and penance for all. Let him therefore assume for himself the counsel of the above-mentioned chancellor, and say, contrite in spirit: “Lord my God, I confess to you, Truth. I fall down before your most holy goodness, because in this or that way I have sinned against your will. I grieve for this vehemently, and because I have offended you, who are wholly good, I humbly do penance.”
+
+“Lord my God, who know all things, Truth. You know that, by your gift, I have a good purpose, and I intend, with your help, to amend myself according to my strength in the future.” But let him beware of sins by asking God’s help in prayers, by inflicting penance on the body, and by avoiding flight from the occasion of sin. Therefore, for the third truth let him say: “Lord my God, I have a good will to make satisfaction for my sins, to fulfill all your commandment and holy [unclear].”

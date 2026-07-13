@@ -1,0 +1,378 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>The Ciphers of Trithemius &mdash; Trithemius Corpus</title>
+<meta name="description" content="The Ave Maria cipher, the tabula recta expansion figures, and the Steganographia&#39;s letter-pair claves — with the Clavis ciphers decoded.">
+<link rel="canonical" href="https://trithemius-corpus.github.io/Trithemius-Corpus/ciphers.html"><meta property="og:type" content="website">
+<meta property="og:site_name" content="Trithemius Corpus">
+<meta property="og:title" content="The Ciphers of Trithemius &mdash; Trithemius Corpus">
+<meta property="og:description" content="The Ave Maria cipher, the tabula recta expansion figures, and the Steganographia&#39;s letter-pair claves — with the Clavis ciphers decoded.">
+<meta property="og:url" content="https://trithemius-corpus.github.io/Trithemius-Corpus/ciphers.html"><meta property="og:image" content="https://trithemius-corpus.github.io/Trithemius-Corpus/static/images/hero-steganographia-wheel.webp"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@trithemius_corpus">
+<meta name="twitter:title" content="The Ciphers of Trithemius &mdash; Trithemius Corpus">
+<meta name="twitter:description" content="The Ave Maria cipher, the tabula recta expansion figures, and the Steganographia&#39;s letter-pair claves — with the Clavis ciphers decoded.">
+<meta name="twitter:image" content="https://trithemius-corpus.github.io/Trithemius-Corpus/static/images/hero-steganographia-wheel.webp"><link rel="icon" type="image/svg+xml" href="static/favicon.svg">
+<meta name="theme-color" content="#100d12">
+<link rel="stylesheet" href="static/fonts.css">
+<link rel="stylesheet" href="static/style.css">
+<script>
+  // Apply the saved theme before first paint to avoid a flash of the wrong theme.
+  // 'auto' resolves from the OS colour-scheme preference (light→parchment,
+  // dark→steganographia) and is stored on a distinct attribute so the switcher
+  // can highlight 'auto' as active while the concrete theme paints immediately.
+  (function () {
+    function resolveAuto() {
+      try {
+        return window.matchMedia &&
+               window.matchMedia('(prefers-color-scheme: light)').matches
+               ? 'parchment' : 'steganographia';
+      } catch (e) { return 'steganographia'; }
+    }
+    try {
+      var t = localStorage.getItem('tc-theme');
+      if (t === 'auto') {
+        var r = resolveAuto();
+        document.documentElement.setAttribute('data-tc-theme', 'auto');
+        if (r !== 'steganographia') document.documentElement.setAttribute('data-theme', r);
+      } else if (t && t !== 'steganographia') {
+        document.documentElement.setAttribute('data-theme', t);
+      }
+    } catch (e) {}
+  })();
+</script>
+</head>
+<body class="parchment">
+<a class="skip-link" href="#main">Skip to content</a>
+<div class="read-progress" id="readProgress" aria-hidden="true"><span class="read-progress-pct" id="readProgressPct"></span></div>
+<header class="site-header">
+  <div class="container">
+    <h1 class="site-title"><a href="index.html">Trithemius Corpus</a></h1>
+    <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="siteNav">
+      <span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span>
+    </button>
+    <nav class="site-nav" id="siteNav" aria-label="Site">
+      <a href="works.html">Works</a>
+      <a href="ciphers.html" class="is-active" aria-current="page">The Ciphers</a>
+      <a href="tools.html">Cipher Lab</a>
+      <a href="scoreboard.html">Quality</a>
+      <a href="methodology.html">Methodology</a>
+      <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus">GitHub</a>
+      <a href="search.html" class="nav-search" title="Search the corpus">&#128269; Search</a>
+      <span class="theme-switcher" role="group" aria-label="Theme">
+        <span class="theme-label" aria-hidden="true">Theme</span>
+        <button type="button" data-set="steganographia" title="Steganographia (celestial night)" aria-label="Steganographia theme"></button>
+        <button type="button" data-set="candlelight" title="Candlelight (warm dark)" aria-label="Candlelight theme"></button>
+        <button type="button" data-set="parchment" title="Parchment (light scholarly)" aria-label="Parchment theme"></button>
+        <button type="button" data-set="ink" title="Ink (high-contrast facsimile)" aria-label="Ink theme"></button>
+      </span>
+    </nav>
+  </div>
+</header>
+
+<main class="container" id="main">
+<article class="prose">
+<h1 id="the-ciphers-of-trithemius">The Ciphers of Trithemius</h1>
+<p>Johannes Trithemius (1462–1516), abbot of Sponheim and later of the Schottenkloster in Würzburg, stands at the head of printed cryptography. His <em>Polygraphiae libri VI</em> — "Six Books of Polygraphy" — is his open cryptographic manual, the first printed book on the subject in the West: completed late in his life, dedicated to Emperor Maximilian I, and printed in 1518, two years after his death. Its notorious companion, the <em>Steganographia</em> (composed around 1499–1500), circulated only in manuscript during his lifetime and earned him lasting accusations of necromancy, because its cipher instructions are dressed as conjurations of angels and spirits. Both systems — and the explanatory keys Trithemius supplied for them — are in this corpus.</p>
+<h2 id="the-ave-maria-cipher-a-prayer-that-is-also-a-message">The "Ave Maria" cipher: a prayer that is also a message</h2>
+<p>The heart of the <em>Polygraphia</em> is verbal substitution, often called the "Ave Maria" cipher. Each of its books presents a different <em>modus</em> of enciphering, but the basic mechanism is constant. The plaintext is broken into individual letters, and each letter is replaced by a Latin word drawn from a substitution column — an <em>alphabetum</em> of cipher words. In the multi-column <em>modi</em> the substitution rotates with the letter's position: position 1 uses column 1, position 2 uses column 2, and so on, returning to column 1 once the columns are exhausted. The columns are built so that <em>any</em> plaintext produces a grammatical Latin sentence — invariably a devotional invocation. The ciphertext is thus undetectable: it reads as ordinary monastic prayer.</p>
+<p>The corpus's own worked example takes the eight-letter plaintext <code>ABCDEFGH</code> through the eight columns of <em>Modus Primus</em> (the first cipher of the <em>Clavis Polygraphiae</em>): A in column 1 becomes <em>facti</em>, B in column 2 <em>certe</em>, C in column 3 <em>timendum</em>, D in column 4 <em>continue</em>, E in column 5 <em>sempiternum</em>, F in column 6 <em>fabricatorem</em>, G in column 7 <em>supercaelestium</em>, and H in column 8 <em>compassionem</em>. The resulting ciphertext reads:</p>
+<blockquote>
+<p><em>Facti certe timendum continue sempiternum fabricatorem supercaelestium compassionem.</em></p>
+</blockquote>
+<p>To an eavesdropper this is a pious Latin sentence; only the recipient who knows to take each word back through its enciphering column recovers <code>ABCDEFGH</code>.</p>
+<p>The cipher words above are given in their <em>intended</em> forms, to show the mechanism clearly. The OCR'd source cells themselves carry scannos — <em>certe</em> appears as <code>Lerte</code>, <em>fabricatorem</em> as <code>fabricatosem</code>, <em>supercaelestium</em> as <code>supercelestvm</code> — and those damaged forms are preserved as they appear in the rendered chunk tables and the facsimile beside them, per the editorial principle below.</p>
+<p>The published tables let you watch this machinery at full width. One chunk of the <em>Clavis Polygraphiae</em> (<code>full_chunk_0085</code>) parses twenty-two substitution columns against Trithemius's 24-letter alphabet (<code>a b c d e f g h i k l m n o p q r s t v x y z w</code>, omitting <em>j</em> and <em>u</em>). Reading across the row for the letter <code>b</code>, the first columns give <em>ebales</em>, <em>abadan</em>, <em>abzym</em>, <em>abenoz</em>, <em>abadiel</em>, <em>abnason</em> — six different ways of saying "b", each pulled from a different prayer-vocabulary.</p>
+<h2 id="rotating-alphabets-the-tabula-recta-and-the-orchema-numerale">Rotating alphabets: the <em>tabula recta</em> and the <em>Orchema numerale</em></h2>
+<p>The <em>Polygraphia</em>'s sixth book moves from words to tables. Its alphabet-rotation expansion figures (<em>tabula recta</em> / <em>auersa</em> / <em>aucta</em>) derive new cipher alphabets from a base alphabet by transposition — in the rendered <em>Prima figura expansionis tabulae rectae</em>, each row is the alphabet stepped one place from the row above. This rotating-alphabet family is the ancestor of what later cryptographers know as the Vigenère table. Alongside it sits the <em>Orchema numerale</em>, a numerical-substitution matrix indexed by Latin letters with Trithemius's own note describing its diagonal use.</p>
+<p>An honest note about what you will see. In the printed book these are worked <em>example</em> figures, set as paired plaintext/cipher columns — not one mechanical master grid. The OCR that underlies this corpus frequently linearised those paired columns into identical rows, a layout that cannot be recovered from the text alone. Rather than fabricate grids, this corpus omits the misleading transcription in 31 of the 54 cipher-grid chunks and shows the source facsimile instead; where the OCR did preserve the rows, they are transcribed as tables with illegible cells marked <code>—</code> and OCR noise left visible. In every case the facsimile shown beside the rendering is authoritative for the cipher.</p>
+<h2 id="the-steganographia-ciphers-dressed-as-conjurations">The <em>Steganographia</em>: ciphers dressed as conjurations</h2>
+<p>The <em>Steganographia</em> works differently, and its mechanism is documented in Trithemius's own key, the <em>Clavis generalis triplex</em> — the "Threefold General Key to the Steganographic Books." Unlike the <em>Polygraphia</em> scheme (plaintext letter → Latin word), the <em>Clavis</em> convention is letter-pair substitution: each plaintext letter maps to a single ciphertext letter. The source records each alphabet as comma-separated pairs of the form <code>Ax,bz,ca,db…</code> — read as <code>A→x, b→z, c→a, d→b, …</code>. The cipher letters are then padded out into an innocent-looking Latin prose <em>Exemplum</em> that reads as ordinary devotional writing.</p>
+<p>The rendered chunks show the full anatomy of one concealment: the <em>Alphabetum</em> (the substitution table); the <em>Intentio Mysterij</em>, the secret message in early-modern German — in one example, <em>"Ich bittedich komm von stund an zu mir/ es thut sehr noth"</em> ("I beg you, come to me at once; the need is great"); the <em>Literae significantes</em>, the bare ciphertext letters; and the <em>Exemplum</em>, the Latin cover prose that carries them, opening <em>"Creator genyri humani apice Deus…"</em> (OCR scannos preserved as they appear in the scan).</p>
+<p>What of the angels? The <em>Steganographia</em>'s instructions are framed as conjurations of spirits — Pamersiel, Padiel, Camuel, Aseliel and dozens more — and strings like <em>Camuel aperoys, melym mevomanial, casmoyn cralty bufaco aeli lumar photirion theor besamys</em> are not Latin and not nonsense: they are constructed cipher cover-text. Trithemius framed his cipher schemes in spirit-conjuration language for cover, and the <em>Clavis</em> is the antidote he supplied, demonstrating that the "spirit names" resolve into a cryptographic system, not a magical one. This corpus accordingly preserves the magical surface verbatim — spirit names unanglicized, conjuration formulae quoted rather than translated — without glossing over the cryptographic substrate or treating the angels as the real subject. That framing nonetheless cost the book dearly: printed posthumously in 1606, the <em>Steganographia</em> was placed on the <em>Index Librorum Prohibitorum</em>.</p>
+<h2 id="solved-the-clavis-ciphers-decoded">Solved: the <em>Clavis</em> ciphers decoded</h2>
+<p>The breakthrough was identifying that the <em>Clavis</em> cipher is <strong>not a uniform Caesar shift</strong> (which is why brute-force over all 24 shifts scored no better than chance). Each <em>modus</em> prints its own <strong>explicit, irregular substitution alphabet</strong>, and the ciphertext is decoded by inverting that alphabet letter by letter. The alphabets are roughly −N on Trithemius's 24-letter alphabet, but irregular enough that the printed <em>Alphabetum</em> itself — not a shift rule — is the key. A hand-check on the opening of Modus II confirms it: the cipher stream <code>gafzgbc…</code> maps g→i, a→c, f→h, z→b → <strong>"Ich b[…ittedich]"</strong> ("I beg you…").</p>
+<p><strong>The simple <em>modi</em> (five worked examples) are solved</strong> — their German plaintext recovered and recognisable:</p>
+<table>
+<thead>
+<tr>
+<th>Modus</th>
+<th>Facsimile page</th>
+<th>Match</th>
+<th>Recovered plaintext (excerpt)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>XI</td>
+<td>263</td>
+<td>77%</td>
+<td><em>diese bucher behal[t]… die heimlich</em></td>
+</tr>
+<tr>
+<td>X</td>
+<td>261</td>
+<td>75%</td>
+<td><em>die sachsen [ver]sam[m]elen ein gros [vol]ck…</em></td>
+</tr>
+<tr>
+<td>V</td>
+<td>254</td>
+<td>65%</td>
+<td><em>der p[farr]her[z] von bing ist vmb eins…</em></td>
+</tr>
+<tr>
+<td>VI</td>
+<td>255</td>
+<td>62%</td>
+<td><em>mor[gen] vmb se[y] gerust vnd wart meiner…</em></td>
+</tr>
+<tr>
+<td>II</td>
+<td>251</td>
+<td>62%</td>
+<td><em>ich bi[tte] dich kom[m] von st[und] an…</em></td>
+</tr>
+</tbody>
+</table>
+<p>The decodes are <strong>letter-for-letter through the printed alphabet</strong> — no guessing. Each recovered plaintext is an ordinary early-modern German sentence (a request to come at once, a report of Saxon musters, a note about keeping books secret), confirming that the <em>Steganographia</em>'s "spirit names" and "angelic conjurations" are cover for mundane correspondence, exactly as Trithemius's <em>Clavis</em> was designed to demonstrate. The full <strong>char-aligned decodes</strong> — with each cipher letter mapped to its plaintext letter, match shown green and OCR-drift shown red, beside the facsimile crop of the cipher line — are in the <a href="cipher-solutions.html">cipher solutions page</a>.</p>
+<h3 id="honest-scope-of-the-solve">Honest scope of the solve</h3>
+<p>Two limits remain, and they are stated plainly:</p>
+<ul>
+<li><strong>The residual gap is OCR, not the cipher.</strong> The cipher lines are tiny, period-separated Fraktur letters in 1608 print — at the ceiling of current vision OCR — so a few letters per line drift. The German is recovered and recognisable (62–77% character match on the simple <em>modi</em>, 70–92% on the high <em>modi</em>), but not a perfect transcription. The high-<em>modus</em> cipher lines in particular were beyond vision OCR and were recovered by <strong>human eye-reading</strong> of zoomed facsimile crops against a Fraktur reference key — the one step in the pipeline a machine could not do.</li>
+<li><strong>The full range of <em>modi</em> present in the facsimile is solved — simple (II–XI) and high (XXXII–XXXIX) alike.</strong> The high <em>modi</em> use the <em>same</em> explicit-alphabet inversion as the simple ones; their "alternating words / null rhythm" rule-language describes only how the cipher <em>stream</em> was extracted from the cover letter, not a different decryption. Six high <em>modi</em> now decode end-to-end:</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Modus</th>
+<th>Facsimile page</th>
+<th>Alphabet shift</th>
+<th>Match</th>
+<th>Recovered plaintext (excerpt)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>XXXVII</td>
+<td>243</td>
+<td>+18</td>
+<td>92%</td>
+<td><em>Jacob Seum hat nun gesprochen, er will dich erstechen… hüt dich vor ihm</em></td>
+</tr>
+<tr>
+<td>XXXIII</td>
+<td>238</td>
+<td>+14</td>
+<td>89%</td>
+<td><em>er ist noch new, versuch ihn vor gantz wol… er trinket auch gern Wein</em></td>
+</tr>
+<tr>
+<td>XXXV</td>
+<td>241</td>
+<td>+16</td>
+<td>87%</td>
+<td><em>Der Abt von S. Johannes Berg helt Communia… vnd fehret auch im Narrenschiff</em></td>
+</tr>
+<tr>
+<td>XXXVIII</td>
+<td>244</td>
+<td>+19</td>
+<td>86%</td>
+<td><em>Wisse das Hans Schwerd viel übel von dir red… nimpt sich doch an für dich</em></td>
+</tr>
+<tr>
+<td>XXXII</td>
+<td>237</td>
+<td>+13</td>
+<td>78%</td>
+<td><em>noch… vmb Vhr… du mich an dem Wald… pfeiffen mit einem Schlüssel… kom herab</em></td>
+</tr>
+<tr>
+<td>XXXIX</td>
+<td>245</td>
+<td>+20</td>
+<td>70%</td>
+<td><em>Dir wird geschrieben herzu kommen, ist mein Rath… der Anschlag ist dich zuvertrencken</em></td>
+</tr>
+</tbody>
+</table>
+<p>Each is an ordinary early-modern German sentence — a warning of a planned stabbing (XXXVII), a character reference for a drinker (XXXIII), a report of an absent abbot (XXXV), a slander warning (XXXVIII), a signal by a woodsman's whistle (XXXII), a counsel to stay away (XXXIX). The "angelic" frame dissolves entirely: these are mundane letters about money, drink, and danger, hidden in Latin cover prose. The high-<em>modus</em> decodes were cracked by inverting each <em>modus</em>'s printed <em>Alphabetum</em> table against a <strong>human-transcribed</strong> cipher line — the dense Fraktur Literae stream being the one input vision OCR could not supply.</p>
+<p>For the published <em>translations</em> of these works, the cryptographic substitutions are still <strong>passed through as written</strong> — the cipher streams in the body text are transcribed, not decoded inline. The decoding lives in the <a href="cipher-solutions.html">cipher solutions page</a> and the cryptanalysis scripts. For the comprehensive modern English edition of the <em>Steganographia</em> and its angelological framing, see Skinner &amp; Clark (2024); for the foundational cryptanalysis, Ernst (1996) and Reeds (1998), who independently solved Book III.</p>
+<h2 id="explore-the-cipher-materials-in-this-corpus">Explore the cipher materials in this corpus</h2>
+<ul>
+<li><a href="cipher-solutions.html"><strong>Solved ciphers</strong> — the <em>Clavis Steganographiae</em> decoded</a> — eleven worked examples spanning the simple <em>modi</em> (II–XI) and the high <em>modi</em> (XXXII–XXXIX), each cipher stream char-aligned to its recovered German plaintext beside the facsimile crop, with honest match percentages and scope.</li>
+<li><a href="works/prdl-24390_polygraphiae-libri-vi_style-c-cipher-key.html">Substitution tables (<em>Polygraphia VI</em>, cipher-key renderings)</a> — the "Ave Maria" alphabets, rendered alphabet-down / columns-across beside the source facsimile.</li>
+<li><a href="works/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis_style-c-cipher-grid.html">Rotation figures and the <em>Orchema numerale</em> (cipher-grid renderings)</a> — the <em>tabula recta</em> family, with facsimiles wherever the OCR collapsed the figure.</li>
+<li><a href="works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_style-c-untranslated.html">Worked steganographic examples (<em>Clavis Steganographiae</em>)</a> — freshly translated passages from the triple key; the letter-pair claves themselves are on the <a href="works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_style-c-cipher-key.html">cipher-key page</a>.</li>
+<li>The parallel viewers — e.g. <a href="works/prdl-24390_polygraphiae-libri-vi_parallel.html"><em>Polygraphia VI</em></a> and <a href="works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_parallel.html"><em>Clavis triplex</em></a> — keep the Latin OCR beside the English throughout.</li>
+</ul>
+</article>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-cols">
+      <div>
+        <h4>Browse</h4>
+        <a href="works.html">The works</a>
+        <a href="works-trithemius-4b.html">Trithemius 4B editions</a>
+        <a href="ciphers.html">The ciphers</a>
+        <a href="scoreboard.html">Quality tiers</a>
+      </div>
+      <div>
+        <h4>About</h4>
+        <a href="methodology.html">Methodology &amp; limitations</a>
+        <a href="LICENSE.html">License &amp; rights</a>
+      </div>
+      <div>
+        <h4>Project</h4>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus">Source on GitHub</a>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/blob/main/CONTRIBUTING.md">Contribute corrections</a>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/blob/main/CITATION.cff">How to cite</a>
+      </div>
+    </div>
+    <p class="footer-byline muted">
+      Machine-assisted English translations of the Latin works of Johannes Trithemius (1462&ndash;1516).
+      Every translation is machine-produced and independently audited; for scholarly quotation, check the Latin.
+      Translations &amp; generated data: public domain (CC0). Methodology, docs &amp; code: CC BY 4.0. Compiled 2026 by Ian Carlos Fabin.
+    </p>
+  </div>
+</footer>
+<script>
+  // Mobile nav toggle — collapses the site-nav into a hamburger menu on
+  // narrow viewports. ARIA-expanded reflects state; clicking a link or
+  // outside closes it.
+  (function () {
+    var toggle = document.querySelector('.nav-toggle');
+    var nav = document.getElementById('siteNav');
+    if (!toggle || !nav) return;
+    function setOpen(open) {
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+      nav.classList.toggle('is-open', open);
+    }
+    toggle.addEventListener('click', function () {
+      setOpen(toggle.getAttribute('aria-expanded') !== 'true');
+    });
+    // close on link click (mobile) and on Escape
+    nav.addEventListener('click', function (e) { if (e.target.tagName === 'A') setOpen(false); });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && toggle.getAttribute('aria-expanded') === 'true') setOpen(false);
+    });
+    // reset on resize back to desktop
+    window.addEventListener('resize', function () {
+      if (window.innerWidth > 760) setOpen(false);
+    });
+  })();
+
+  // Theme switcher — persists choice in localStorage under 'tc-theme'.
+  // Theme switcher — steganographia (default dark), parchment (light), ink
+  // (high-contrast), candlelight (warm dark), and auto (follow OS preference).
+  (function () {
+    var root = document.documentElement;
+    function resolveAuto() {
+      try {
+        return window.matchMedia &&
+               window.matchMedia('(prefers-color-scheme: light)').matches
+               ? 'parchment' : 'steganographia';
+      } catch (e) { return 'steganographia'; }
+    }
+    function applyTheme(t) {
+      // track the chosen theme (incl. auto) on data-tc-theme; paint the
+      // concrete theme on data-theme.
+      if (t === 'auto') {
+        root.setAttribute('data-tc-theme', 'auto');
+        var r = resolveAuto();
+        if (r === 'steganographia') root.removeAttribute('data-theme');
+        else root.setAttribute('data-theme', r);
+      } else {
+        root.removeAttribute('data-tc-theme');
+        if (t === 'steganographia') root.removeAttribute('data-theme');
+        else root.setAttribute('data-theme', t);
+      }
+    }
+    var current = 'steganographia';
+    try { current = localStorage.getItem('tc-theme') || 'steganographia'; } catch (e) {}
+    applyTheme(current);
+    // if OS preference changes while 'auto' is selected, re-resolve live
+    try {
+      window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', function () {
+        if ((localStorage.getItem('tc-theme') || '') === 'auto') applyTheme('auto');
+      });
+    } catch (e) {}
+    document.querySelectorAll('.theme-switcher button[data-set]').forEach(function (btn) {
+      var pressed = btn.getAttribute('data-set') === current;
+      btn.setAttribute('aria-pressed', pressed ? 'true' : 'false');
+      btn.addEventListener('click', function () {
+        var t = btn.getAttribute('data-set');
+        try { localStorage.setItem('tc-theme', t); } catch (e) {}
+        applyTheme(t);
+        document.querySelectorAll('.theme-switcher button[data-set]').forEach(function (b) {
+          b.setAttribute('aria-pressed', b.getAttribute('data-set') === t ? 'true' : 'false');
+        });
+      });
+    });
+  })();
+  // Reading progress bar (overall page scroll) + percentage indicator
+  (function(){
+    var bar=document.getElementById('readProgress');
+    var pct=document.getElementById('readProgressPct');
+    if(!bar)return;
+    var ticking=false;
+    function onScroll(){
+      if(ticking)return; ticking=true;
+      requestAnimationFrame(function(){
+        var h=document.documentElement.scrollHeight-window.innerHeight;
+        var p=h>0?Math.min(1,window.scrollY/h):0;
+        bar.style.transform='scaleX('+p.toFixed(3)+')';
+        bar.classList.toggle('is-active', p>0.02);
+        if(pct){
+          var n=Math.round(p*100);
+          pct.textContent=n<1?'':n+'%';
+          pct.setAttribute('aria-hidden', (n<3).toString());
+        }
+        ticking=false;
+      });
+    }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    onScroll();
+  })();
+  // Random work button — uses the work-ID list baked in at build time (no
+  // fetch() needed, so it works on file://, HTTP, and GitHub Pages).
+  (function(){
+    var btn=document.getElementById('randomWorkBtn');
+    if(!btn)return;
+    var workIds=window.TC_WORK_IDS||[];
+    btn.addEventListener('click',function(e){
+      e.preventDefault();
+      if(!workIds.length){
+        // graceful fallback: go to the works listing
+        window.location.href=btn.href;
+        return;
+      }
+      var pick=workIds[Math.floor(Math.random()*workIds.length)];
+      // resolve relative to this page (works/<id>.html)
+      var base=btn.href.replace(/works\.html.*$/,'');
+      window.location.href=base+'works/'+pick+'.html';
+    });
+  })();
+  // Cipher substitution tables: tag each .table-scroll that overflows
+  // horizontally so the CSS right-edge scroll affordance (the ::after fade)
+  // only appears when there is actually more to scroll sideways.
+  (function () {
+    function tagScroll() {
+      document.querySelectorAll('.table-scroll').forEach(function (ts) {
+        if (ts.scrollWidth > ts.clientWidth + 2) ts.classList.add('scrollable-x');
+        else ts.classList.remove('scrollable-x');
+      });
+    }
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(tagScroll);
+    window.addEventListener('load', tagScroll);
+    var t; window.addEventListener('resize', function () { clearTimeout(t); t = setTimeout(tagScroll, 150); });
+  })();
+</script>
+</body>
+</html>

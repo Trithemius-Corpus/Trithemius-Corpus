@@ -1,0 +1,11 @@
+[Preceding page illegible in the source.]
+
+*48. STEGANOGRAPHIA.*
+
+Since I know, dearest brother, that you are a lover of the good arts, it delights me greatly to exhort you that you would persevere in inquiring into and continually unrolling the secrets of books, which show us the way of felicity—to return by an open path to the homeland which by sinning we lost, to which the love of our most mild and most merciful Savior, hidden for us in the Scriptures, may lead us back, burning [with desire]. For what to those wandering in wretched exile can be a more wholesome [and] sweeter health than to apply oneself diligently to letters?—by whose study our eyes are raised to seek the truth, [and] our mind is lifted up to the desire of future blessedness; without which the soul, submerged in worldly temporal affairs, is given over as a victim, never to attain to the knowledge of God. Do you therefore, despising the pleasures and tumults of the world, give your leisure to letters day and night; since religion is [adorned] by virtues, and virtues are tempered [and] illumined by the commerce of letters—so that neither letters without the adornment of noble virtues, nor good virtues without the knowledge of the Scriptures, can prevail. And so I exhort you: always give your effort to the study of letters. Farewell, from Sponheim, the 16th [day before] the Kalends of April, in the year of the Lord 1500.
+
+After he to whom they are sent has received the letters, the sign of Baruchus being recognized, and the things to be premised premised, toward the quarter of the south-east, which is nearest before the East, let him say in silence this Conjuration.
+
+*Conjuration of the Spirit.* Baruchas, Mularchas, chameron, notiel, pedarfy, phorsythel, rontho, theras, capean, Vear, almonym, lierno, medusan, therfiel, peatha, thumar, nerosyn, cral, nothiel, peson, segalry, madon, scoha, bulayr. The Conjuration said according to the precept of the art, the spirit will appear, [and] will produce into the ear the secret committed to him, without deception.
+
+*CHAPTER XVII.* Whose prince and supreme spirit is called Carnesiel, and dwells in the East, having under him many dukes [and] princes with their servitors, whose office is to announce all things which are sent toward the East. WHO—

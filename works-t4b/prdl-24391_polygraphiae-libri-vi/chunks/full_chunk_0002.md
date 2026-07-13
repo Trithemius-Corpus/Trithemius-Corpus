@@ -1,0 +1,18 @@
+--- Page 011 ---
+In my judgment, these can be more useful and more necessary to no one than to princely men. For the more matters they attend to, the greater caution of secrecy must be used in their counsels. For this book teaches princes to command secrecy over their secrets. But because Your Caesarean Majesty, occupied with many affairs, does not have time to search out the things that lie hidden, wrapped in mysteries, lest you be deprived of the fruit of my labor, I have appended a little book extracting the kernel of the whole work, which I have entitled The Key of the Polygraphia; with it as guide you will more easily understand everything shut up here in figures. May God preserve you unharmed for our salvation. I wrote on the twenty-sixth day of the month of April, in the year of Christ one thousand five hundred eight.
+
+INDEX
+
+--- Page 012 ---
+INDEX, OR CATALOGUE OF THE LUCUBRATIONS OF JOHANNES TRITHEMIUS, FIRST ABBOT OF SPONHEIM, AND AFTERWARD OF ST. JAMES AT WURZBURG.
+
+Johannes Trithemius, abbot, was born in the village of Trittenheim, in the diocese of Trier, on the banks of the Moselle River, on the first day of the month of February, at the eleventh hour, in the thirtieth minute after midday, in the year of the Lord’s birth one thousand four hundred sixty-two, in the tenth Roman indiction; his father was Johannes de Heydenberg, and his mother was called Elisabeth de Longouico. This was, namely, the year in which the city of Mainz, amid the quarrel of two pontiffs, was captured, lost its liberty, and found servitude, many of its citizens having been driven into exile; in the fourth current year of Pope Pius, the second of that name, and the twenty-second year of Emperor Frederick III.
+
+In the year of the Lord one thousand four hundred eighty-two, moreover, in the monastery of Sponheim in the diocese of Mainz, on the first day of February, the very day on which he had once been born, he put off secular dress and there took up the monastic habit under the rule of the holy father Benedict, according to the observance newly introduced. In the following year, which was the eighty-third above one thousand four hundred, when Johannes de Colenhüsen, the abbot, had been transferred to Seligenstadt by canonical postulation,
+
+--- Page 013 ---
+Johannes Trithemius, by the common election of the brothers, was promoted and adorned as abbot of the aforesaid monastery of Sponheim on the fourth day before the Kalends of July, and presided for twenty-three years, one month, ten days, and nine. After these had passed, not without many labors, provoked by the rashness of certain rivals, he accepted the abbey of St. James at Würzburg, which was being offered to him, and of his own free will resigned Sponheim, full of unprofitable cares.
+
+In both places he wrote several little works, from which he recently recorded for me in his own hand, on a sheet, the items written below. Since you, as a friend, ask me for their titles, I gladly consent to your wishes, so that from consideration of such great labors of our common friend and teacher you may have a closer memory of him. And first, indeed, I shall record the titles of those lucubrations which he wrote while he was abbot at Sponheim.
+
+On the Matters of His Order That Were Dealt with in Provincial Chapters by Order of the Presiding Officers, one book. On the Visitation of Monks, one book. On the Manner of Holding a Provincial Chapter, one book. On the Rule of St. Benedict, two books. Homilies and Exhortatory Sermons to His Monks, two books, which he dedicated to his predecessor. On the Temptations of Cloistered Persons and Their Remedies, two books. To Nicolaus, Priest of Mernica, on the Priestly Life, one book. Against the Private Property of Monks, one book.

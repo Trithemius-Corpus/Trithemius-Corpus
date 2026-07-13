@@ -1,0 +1,35 @@
+{# Shared fragments. Import with context so url()/asset() resolve at the
+   calling page's depth: {% from "_macros.html.j2" import breadcrumb, text_card with context %} #}
+
+{% macro breadcrumb(crumbs) %}
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  {% for href, label in crumbs %}
+  {% if href %}<a href="{{ url(href) }}">{{ label }}</a>{% else %}<span class="crumb-here" aria-current="page">{{ label }}</span>{% endif %}
+  {% if not loop.last %}<span class="crumb-sep" aria-hidden="true">&rsaquo;</span>{% endif %}
+  {% endfor %}
+  <button type="button" class="pdf-btn" onclick="window.print()">Save as PDF</button>
+</nav>
+{% endmacro %}
+
+{% macro text_card(t) %}
+<article class="text-card" data-search="{{ (t.title ~ ' ' ~ (t.title_en or '') ~ ' ' ~ (t.genre_label or '') ~ ' ' ~ (t.year or ''))|lower }}"
+         data-genre="{{ t.genre }}" data-first="{{ '1' if t.first_english else '0' }}">
+  <h4 class="text-card-title">
+    <a href="{{ url('works/' + t.rep.id + '.html') }}"><em>{{ t.title }}</em></a>
+  </h4>
+  <p class="text-card-sub">
+    {{ t.title_en }}{% if t.year %} &middot; {{ t.year }}{% endif %}
+    {% if t.first_english %}<span class="badge first-en" title="No prior published English translation is known (see docs/PRIOR_TRANSLATIONS.md)">first English</span>{% endif %}
+  </p>
+  {% if t.excerpt %}<p class="text-card-excerpt muted">{{ t.excerpt }}</p>{% endif %}
+  <p class="text-card-editions muted">
+    {% if t.editions|length == 1 %}
+    <span class="tier-dot tier-{{ (t.editions[0].tier or 'u')|lower }}" title="Audit tier {{ t.editions[0].tier or '?' }}"></span>{{ t.editions[0].label }}
+    &middot; <a href="{{ url('works/' + t.editions[0].id + '_parallel.html') }}">Latin&thinsp;/&thinsp;English</a>
+    {% else %}
+    {{ t.editions|length }} editions:
+    {% for e in t.editions %}<a href="{{ url('works/' + e.id + '.html') }}"><span class="tier-dot tier-{{ (e.tier or 'u')|lower }}" title="Audit tier {{ e.tier or '?' }}"></span>{{ e.label }}</a>{% if not loop.last %} &middot; {% endif %}{% endfor %}
+    {% endif %}
+  </p>
+</article>
+{% endmacro %}

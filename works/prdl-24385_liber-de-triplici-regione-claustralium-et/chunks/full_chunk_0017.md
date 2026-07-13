@@ -1,0 +1,1 @@
+The second degree of pride, therefore, is levity of mind and the restless preoccupation of a wandering, unstable heart. In this degree of disordered conduct, carnal monks fall into various passions, which they have contracted in a sensual way from the vice of curiosity. But it is fitting for a true cenobite [unclear].

@@ -1,0 +1,1 @@
+<!-- removed: source digitization boilerplate (segment 19 was pseudo-Greek hallucination; this English was a brief flagged stutter-summary with no content, appearing after the genuine Haselperg/Nuremberg 1522 colophon) -->

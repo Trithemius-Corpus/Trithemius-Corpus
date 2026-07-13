@@ -1,0 +1,13 @@
+with garments; you sit at table like a prince; food is set before you to satiety by brothers better than you; all necessities, even to the point of nausea, are ministered to you, an unworthy sinner, by the servants of God. Consider, therefore, what outcome this abundance of things will have in a monk, since you, who by entering religion professed poverty, now in religion feast more splendidly than the rich of the world. Take care, therefore, that you not be ungrateful for such great benefits of God. Live according to the rule which you professed; pray for those who contribute temporal substance to your monastery, that almighty God may mercifully grant them eternal life.
+
+*On Reading at Table.*
+
+When you are seated at table during the meal, be composed; do not look this way and that, but take care to eat the food set before you, only for the necessity of nature, with humility and thanksgiving. Consider carefully what is read at table, so that, just as the body is refreshed with its food, so the soul may by no means be defrauded of its own refreshment. Learn frequently, while eating, to lift your mind to heavenly things, and through the word of sacred reading, which is never lacking to us while we eat, sweetly to inflame yourself with divine compunction. For the true and inward worshiper of God, whenever he hears anything read, even amid feasting, about the bitterness of the Lord’s Passion, about the fervor of divine love, or about the kingdom of the heavenly homeland, at once groans from exceeding desire; his feeling is kindled in the ardor of love; compelled by exceeding sweetness, the man weeps. For indeed the mind that truly loves the Lord Jesus, as soon as it hears his name or looks upon the image of the Crucified, is dissolved in compunction and by affection is lifted to his feet or embraces.
+
+*For Giving Thanks.*
+
+When the meal has been completed, give thanks to the Lord; and while you go to the church under the psalm, direct your mind upward; intercede for benefactors living and dead. If after the thanksgiving you add some special prayer for the dead, you do well.
+
+*On the Regular Reading.*
+
+Returning from the refectory to your cell, if it is not a fast day, complete the customary prayer; then read something good for edification, meditate, or do the work that has been assigned to you, or write. But if it is a fast day, take up the volume of your study and enter the place of the regular reading; sitting with the others, read in silence whatever you wish. But when you have been asked by the presiding officer to say something good, say a few things and use-

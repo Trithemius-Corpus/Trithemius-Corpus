@@ -1,0 +1,11 @@
+--- Page 151 ---
+
+in this life he is accustomed to reward with some special grace; and at the death of those whom the holy angels are believed to come to meet as familiarly known to them, they present the soul of the minister of Jesus before his sight with joy. For thus the Son prays to the Father in the holy Gospel: “Father, I will that where I am, there also my minister may be.” For great in this venerable sacrament is the condescension of divine kindness, since, as the same Hugh says, God seems to do nothing less in it, when he deigns daily to descend from heaven upon the altar for our salvation, than when, descending from heaven, he assumed human nature and was made man. And just as our Lord Jesus Christ established this venerable sacrament for us in memory of his most bitter Passion, as a sign of the greatest love, so he loves more abundantly and especially those who prepare themselves with humble devotion and love either to receive it or to minister it to those receiving it; and through it he aids them in every necessity when they ask faithfully.
+
+For Jesus, seated in heaven, will not be able to be hard toward us when we pray with full faith, who was so gracious and kind to those asking mercy when he walked on earth. Who ever came to his feet and was rejected? What sick person asked to be healed whom he did not heal as he walked among men? Therefore let the Lord Jesus never be thought to deny mercy to us when we ask in faith, since while still mortal he was so merciful to those who prayed to him. For he says: “All things are possible to one who believes.”
+
+Therefore, one who is about to minister at Mass ought before all else to cleanse himself from every evil temptation and disordered affection, and as much as he can to call himself back to himself through desire for the love of Jesus, so that, purified, he may be able to stand before the Lord and to pray effectively both for himself and for the whole Church, the living and the dead. Therefore, standing behind the priest during Mass, at a suitable time let him pray in these or similar words.
+
+Prayer of One Ministering.
+
+Most sweet and most beloved Lord Jesus, I ask you through the moving anguish of your most holy heart, which in the Passion

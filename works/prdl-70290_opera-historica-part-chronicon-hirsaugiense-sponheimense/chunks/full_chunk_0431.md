@@ -1,0 +1,25 @@
+*Sponheimense.*
+
+...shall have said for his soul, he will obtain indulgences of 480 days from the imposed penances, as is clear in the letters obtained by Abbot Philip from twelve bishops in the year 59; a copy of these we shall set down below, in the eighth year of Abbot Philip, the aforesaid year of the Lord.
+
+*Concerning Philip Metswin, Fifteenth Abbot of This Monastery of Sponheim, who presided for twenty-four years, one month, and twelve days, and concerning his deeds and those of his time.*
+
+After the resignation of the reverend father Wilhelm, which was made on the Monday before the feast of St. Lawrence, lest the monastery long lament the hardships of its widowhood, the brothers appointed the immediately following Thursday as the date for choosing a new pastor over themselves. On that day, gathering in the chapter room, and after the customary prayers had first been said, immediately, with no other discussion intervening, suddenly inspired by the grace of the Holy Spirit, as they maintained, all of them, with no one at all objecting or dissenting, directed their votes, together with the aforesaid Wilhelm, to Philip, called Meysvin, prior of this monastery, and unanimously elected him abbot. They sent him to Gerlach, archbishop of Mainz, to be confirmed, with these letters:
+
+“To the venerable father in Christ and lord Gerlach, archbishop of Mainz, archchancellor throughout Germany, the whole convent of the religious of the monastery of the Order of St. Benedict in Sponheim, in the diocese of Mainz, offers its devout prayers in Christ. Since by divine [unclear], the abbacy of the church in spiritual matters of our monastery through Wilhelm, formerly abbot of our monastery [unclear], lest that monastery long lament the hardships of its widowhood, a day was unanimously assigned by our brothers present, namely the Thursday immediately before Lawrence the Martyr, in the year of the Lord 1350, for holding the election of a future abbot. Meanwhile the absent having been summoned, and all who wished, could, and ought conveniently to be present assembling at our chapter on the aforesaid date, immediately, with no other discussion intervening, suddenly inspired, as we believe, by the grace of the Holy Spirit, all of us, with no one at all objecting or dissenting, unanimously directed our votes, together with Wilhelm, formerly abbot, to brother Philip Mysvin, prior of our monastery, a useful, provident, and discreet man, commendable in knowledge of letters, life, and morals, established in sacred orders and of lawful age, professed of our monastery, born of lawful marriage, and very circumspect in spiritual and temporal matters; and with one spirit we elected him as abbot of us and of our monastery, solemnly sang Te Deum laudamus, and, raising the said elect to the high altar, as is the custom, immediately had his election published to clergy and people. Afterwards, when this election had been presented to the said elect within the due time, and he had been asked to give his assent, he at length, not wishing to resist the divine will, within the time established by law, agreed to our wishes, consenting to the election made concerning him. Therefore we supplicate your Paternity, as devoutly as humbly, with unanimous wish, that you deign to confirm this same election, thus unanimously and concordantly made, and favorably bestow upon the same elect the gift of blessing, so that he may be able to preside over us and our monastery as abbot and usefully benefit us, and that we and the other subjects under his rule may serve God wholesomely. Furthermore, so that your Paternity may know more clearly that the votes of all of us were in agreement in the aforesaid matters, and that in this petition we remain unanimous and concordant...”
+
+[unclear] from the vicar in pontificals of the aforesaid archbishop of Mainz, here in our monastery, with two abbots standing by him, namely of [St. John?] in [the Rheingau?] and of Mount St. Disibod, he received the gift of blessing. At the same time he had the chapel of the Blessed Virgin Mary, founded in the cloister by lord Willicho his predecessor, as was said above, consecrated by the same bishop. This Philip was by origin from Sponheim, from that knightly family which, taking its origin from the late great Philip Meysvin, was called by the same name; born of honorable parents, whose father [unclear]. Set in his childhood to learn letters, he made sufficient progress according to his measure; with nature assisting study, he grew into a sufficiently provident and active man. Then, having been made a monk under the first abbacy of Willicho, and in the course of time advancing to higher things, to the priesthood...
+
+*Philip is chosen [unclear] among the abbots.*
+
+*The decree of election is sent to the bishop.*
+
+*The Thursday before the day of Lawrence, the day of election.*
+
+*Commending Philip the elect.*
+
+*They seek confirmation of the elect.*
+
+*The family and origin of Philip.*
+
+*How he was made a monk, and when prior.*

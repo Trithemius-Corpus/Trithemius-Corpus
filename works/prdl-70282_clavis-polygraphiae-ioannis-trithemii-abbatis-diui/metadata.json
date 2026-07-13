@@ -1,0 +1,47 @@
+{
+  "id": "prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui",
+  "title": "Clavis Polygraphiae",
+  "year": "1518",
+  "source_year": "1518",
+  "year_note": null,
+  "edition_info": "[Basel] : Johann Haselberg; Adam Petri, 1518 (HAB)",
+  "edition_info_raw": "( [Basel] : Johann Haselberg; Adam Petri, 1518 ) HAB",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 546,
+  "genre_cluster": "crypto-occult",
+  "tier": "S",
+  "faithful_adj": 4.59,
+  "fluent_adj": 4.59,
+  "coverage_pct": 100.0,
+  "chunks_graded": 119,
+  "chunks_total": 119,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "claude-cli",
+    "codex-sweep",
+    "minimax",
+    "minimax-v2",
+    "public"
+  ],
+  "source": {
+    "provider": "HAB",
+    "url": "http://diglib.hab.de/drucke/fb-128/start.htm",
+    "download_url": "http://diglib.hab.de/download.php?dir=drucke/fb-128&submit=start%20download&begin=drucke_fb-128_00001&end=drucke_fb-128_00544",
+    "prdl_id": "70282"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 119,
+    "n_missing_segments": 0,
+    "latin_source_file": "churro_full.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui_parallel.html"
+  }
+}

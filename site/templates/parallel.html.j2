@@ -1,0 +1,138 @@
+{% extends "base.html.j2" %}
+{% from "_macros.html.j2" import breadcrumb with context %}
+{% block title %}{{ work.title }} &mdash; Latin / English &mdash; Trithemius Corpus{% endblock %}
+{% block head %}<meta name="robots" content="index,follow">{% endblock %}
+{% block body %}
+
+<article class="parallel">
+{{ breadcrumb([("index.html", "Home"), ("works.html", "Works"),
+               ("works/" + work.id + ".html", work.title),
+               (None, "Latin / English reader")]) }}
+
+<header class="work-header">
+  <h2 class="work-title">{{ work.title }}</h2>
+  {% if work.title_en %}<p class="work-subtitle">{{ work.title_en }}</p>{% endif %}
+  <p class="work-id"><code>{{ work.id }}</code> &middot; Latin source / English translation, segment&nbsp;by&nbsp;segment</p>
+  <div class="badges">
+    {% if work.tier %}<span class="badge tier-{{ work.tier|lower }}">Tier {{ work.tier }}</span>{% endif %}
+    {% if work.genre %}<a class="badge badge-link" href="{{ url('genres/' + work.genre + '.html') }}">{{ work.genre_label }}</a>{% endif %}
+    <span class="badge">{{ pairs|length }} reader segments</span>
+    {% if stats.n_missing %}<span class="badge warn">{{ stats.n_missing }} untranslated</span>{% endif %}
+    {% if stats.n_dup %}<span class="badge" title="The scan digitized these page regions twice; each duplicate points to the retained translation.">{{ stats.n_dup }} duplicate scans suppressed</span>{% endif %}
+    {% if not stats.aligned %}<span class="badge warn">alignment approximate</span>{% endif %}
+  </div>
+</header>
+
+<p class="parallel-note muted">
+  The left column is the OCR&rsquo;d Latin segment from the release artifact;
+  the right column is the corresponding English. These are translation
+  units, not Trithemius&rsquo;s chapter divisions. Untranslated or intentionally
+  placeholdered segments are marked in place so the Latin remains visible
+  (see <a href="{{ url('methodology.html') }}#latin-only-display-segments-in-the-parallel-viewer">Methodology &mdash; Latin-only display segments</a>).
+</p>
+
+{% if style_c %}
+<p class="parallel-stylec-note">
+  This work also has <strong>special scholarly renderings</strong> for its
+  cipher tables and damaged passages, each shown beside the source facsimile:
+  {% for ct_key, ct in style_c.items() %}<a href="{{ url('works/' + work.id + '_style-c-' + ct_key + '.html') }}">{{ ct.label }}</a>{% if not loop.last %} &middot; {% endif %}{% endfor %}.
+</p>
+{% endif %}
+
+{% include "_chapter_nav.html.j2" %}
+<div class="pp-grid" data-asset="../">
+  <div class="pp-head pp-col-n" aria-hidden="true">#</div>
+  <div class="pp-head">Latin (source OCR)</div>
+  <div class="pp-head">English</div>
+  {% for p in pairs %}
+  <div class="pp-n" id="seg-{{ p.n }}"><a href="#seg-{{ p.n }}">{{ p.n }}</a></div>
+  <div class="pp-latin" lang="la">
+    {%- if p.latin -%}
+    {{ p.latin }}
+    {%- else -%}
+    <span class="muted">[non-text scan boilerplate removed]</span>
+    {%- endif -%}
+  </div>
+  <div class="pp-english{% if p.missing or p.dup_of %} pp-missing{% endif %}">
+    {%- if p.dup_of -%}
+    <span class="muted">[duplicate scan of segment <a href="#seg-{{ p.dup_of }}">{{ p.dup_of }}</a> &mdash; the translation is shown there]</span>
+    {%- elif p.missing -%}
+    <span class="muted">[no translation available for this segment &mdash; see <a href="{{ url('methodology.html') }}#latin-only-display-segments-in-the-parallel-viewer">Methodology</a>]</span>
+    {%- else -%}
+    {{ p.english_html|safe }}
+    {%- endif -%}
+  </div>
+  {% endfor %}
+</div>
+
+<div class="pp-seg-indicator" id="ppSegIndicator" aria-live="polite" aria-hidden="true">
+  <span class="pp-seg-n">—</span><span class="pp-seg-of">/ {{ pairs|length }}</span>
+</div>
+
+<footer class="parallel-foot muted">
+  <p>
+    Faithfulness {{ '%.2f'|format(work.faithful_adj) }} in the independent grading pass (Claude Sonnet 4.6, with Opus 4.8 pairwise on the churro-hi layer).
+    See <a href="{{ url('methodology.html') }}">Methodology</a> for how this was produced and graded,
+    and <a href="{{ url('methodology.html') }}#11-limitations-known-failure-modes">its limitations</a> for what it is not.
+  </p>
+</footer>
+</article>
+
+<style>
+/* Persistent segment indicator — fixed bottom-right, shows which segment is
+   currently in view. Mirrors how scholarly parallel-text tools (Loeb Digital)
+   keep readers oriented in long sessions. */
+.pp-seg-indicator{
+  position:fixed;bottom:1rem;right:1rem;z-index:90;
+  background:var(--void-2,#14172a);border:1px solid var(--gilt-deep,#8a6c2c);
+  border-radius:6px;padding:.28rem .55rem;
+  font-size:.72rem;font-variant-numeric:tabular-nums;
+  color:var(--ink-faded,#c2c1b4);box-shadow:0 2px 10px rgba(0,0,0,.35);
+  opacity:0;transition:opacity .25s;pointer-events:none;
+}
+.pp-seg-indicator.is-visible{opacity:.92}
+.pp-seg-n{color:var(--gilt-bright,#f0d489);font-weight:700}
+.pp-seg-of{color:var(--ink-muted,#8c8ea2);margin-left:.15rem}
+@media (max-width:600px){.pp-seg-indicator{bottom:.5rem;right:.5rem;font-size:.68rem}}
+@media print{.pp-seg-indicator{display:none}}
+</style>
+<script>
+// Track the segment nearest the viewport top and reflect it in the indicator.
+(function(){
+  var ind=document.getElementById('ppSegIndicator');
+  if(!ind)return;
+  var nEl=ind.querySelector('.pp-seg-n');
+  var segs=[].slice.call(document.querySelectorAll('[id^="seg-"]'));
+  if(!segs.length)return;
+  var byId={};segs.forEach(function(s){byId[s.id]=parseInt(s.id.slice(4),10);});
+  function currentSeg(){
+    var top=window.innerHeight*0.33, best=null, bestDist=Infinity;
+    for(var i=0;i<segs.length;i++){
+      var r=segs[i].getBoundingClientRect();
+      if(r.top<=top && r.bottom>0){
+        var d=Math.abs(r.top-top);
+        if(d<bestDist){bestDist=d;best=segs[i];}
+      }
+    }
+    return best;
+  }
+  var ticking=false;
+  function update(){
+    if(ticking)return;ticking=true;
+    requestAnimationFrame(function(){
+      var cur=currentSeg();
+      if(cur){
+        nEl.textContent=byId[cur.id];
+        ind.classList.add('is-visible');
+      }
+      ticking=false;
+    });
+  }
+  window.addEventListener('scroll',update,{passive:true});
+  window.addEventListener('resize',update);
+  update();
+})();
+</script>
+<script src="../static/glossary.js"></script>
+
+{% endblock %}

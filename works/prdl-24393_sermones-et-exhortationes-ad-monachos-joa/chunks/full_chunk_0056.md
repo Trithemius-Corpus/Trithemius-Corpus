@@ -1,0 +1,19 @@
+*Homily XII.*
+
+The servant of Christ is believed to act in Christ's stead in the monastery, and therefore he is deservedly honored by all. Live, then, as though you always had him present before your eyes; and whatever you would not presume to do or say with him looking on, do not attempt in any way when he is absent. For it is a foolish consolation, when conscience is gnawing with guilt, for a sin to be hidden from men and for one who knows himself to be sick unto death to flee the judgment of his shepherd. A monk who does evil and wants it to be hidden from his prelate has violated the integrity of the monastic rule and has gravely sinned against the fifth degree of humility. For thus it commands: The fifth degree of humility is this: if he has not concealed from his abbot, by humble confession, all evil thoughts coming into his heart and evil deeds done by him in secret.
+
+These are the admonitions of father Benedict; these are the holy teachings of monastic instruction. If you, monk, despise or neglect them, you will be shown to be unmindful of your own salvation. It is a sure sign of humility if a monk has not refused to open his heart to his senior, and wants none of the evils he has committed to be hidden from his shepherd. He who confesses his offense with humility will be strengthened against the adversary of his salvation; and he who hides his thoughts will advance into evil. For there is no evil thought so small that it will not gradually grow if neglected, and no vice so slight that it will not gain strength if it is dissembled.
+
+Therefore evil thoughts must be repelled at once from the beginning, because when a depraved thought is not immediately extinguished it gives birth to delight; delight, repeated, gives rise to consent; consent to habit; habit to necessity; necessity then brings in despair; despair, contempt; contempt, obstinacy; and obstinacy gives birth to the eternal death of the soul. For Scripture says: When the wicked man has come into the depth of evils, he despises. Is not your abbot, O monk, the shepherd and physician of your soul? Am I not, my dearest brothers, after God, the one who feeds your mortal bodies with necessary nourishment? Am I not compelled to minister to you the word of salvation? If you, the sheep, flee the shepherd, what pastures of the spirit do you expect from us? The sick man who flees the physician despises his own salvation and willingly kills his own soul.
+
+A monk, therefore, walking in the way of wickedness and turning aside from the paths of justice, is near to death; and he slips so much the more into the depth of vices as he reverences less the judgment of the one correcting him. But he is truly a monk who guards his soul from every iniquity and does absolutely nothing that he would wish his shepherd not to know. He who conceals his way is not pure, and he who flees the presence of the judge increases suspicion. Like a sheep you walk in the desert, to be snatched by the wolf, negligent and impure monk, who withdraws himself from the knowledge of his shepherd and is devoured by demons. A sick sheep running to destruction, and a monk hiding every sin: there is no salvation for them unless they return to the physician.
+
+Monks returning from a journey should immediately, on that very day, according to the monastic rule, prostrate themselves before the sight of all the brothers, so that whatever has been committed on the way through negligence may be expiated by the prayers of the community. For the common prayer of many avails much for washing away sins, if it has been poured out to the Lord with the fervor of devotion.
+
+*Here ends Homily XII, On monks sent on a journey.*
+
+*On the daily expiation of sins.*
+
+*Homily XIV.*
+
+Since for a long time in this corruptible life we are established, dearest brothers, we offend daily in many things; and however holily we may seem to conduct ourselves

@@ -1,0 +1,96 @@
+{% extends "base.html.j2" %}
+{% from "_macros.html.j2" import text_card with context %}
+{% block title %}The Works &mdash; Trithemius Corpus{% endblock %}
+{% block body %}
+
+<section>
+  <h2>The works</h2>
+  <p class="muted">
+    {{ n_texts }} distinct Latin texts across {{ n_editions }} printed editions,
+    {{ n_first }} of them in English for the first time. Grouped by genre below
+    &mdash; or <a href="#by-date" id="toggle-date-link">arrange by date</a>.
+    Quality grades per edition are on the <a href="{{ url('scoreboard.html') }}">audit page</a>.
+  </p>
+
+  <div class="works-toolbar" id="works-toolbar" hidden>
+    <input type="search" id="works-search" placeholder="Filter by title, genre, or year&hellip;"
+           aria-label="Filter works">
+    <label class="works-first-only"><input type="checkbox" id="works-first"> first English only</label>
+    <span class="muted" id="works-count" aria-live="polite"></span>
+  </div>
+  <noscript><p class="muted">(Filtering needs JavaScript; the full grouped list is below.)</p></noscript>
+</section>
+
+<div id="view-genre">
+  {% for s in sections %}
+  <section class="genre-section" id="{{ s.slug }}">
+    <h3><a href="{{ url('genres/' + s.slug + '.html') }}">{{ s.label }}</a>
+      <span class="muted genre-count">{{ s.n_texts }} {{ 'text' if s.n_texts == 1 else 'texts' }}, {{ s.n_editions }} {{ 'edition' if s.n_editions == 1 else 'editions' }}</span></h3>
+    <p class="muted genre-blurb">{{ s.description }}</p>
+    <div class="text-cards">
+      {% for t in s.texts %}{{ text_card(t) }}{% endfor %}
+    </div>
+  </section>
+  {% endfor %}
+</div>
+
+<div id="view-date" hidden>
+  <section class="genre-section" id="by-date">
+    <h3>By date of composition <span class="muted genre-count">(earliest edition shown first)</span></h3>
+    <div class="text-cards">
+      {% set ns = namespace(decade='') %}
+      {% for t in texts_by_year %}
+      {% set d = (t.year[:3] + '0s') if (t.year and t.year[:3].isdigit()) else 'undated' %}
+      {% if d != ns.decade %}{% set ns.decade = d %}<h4 class="decade-head">{{ d }}</h4>{% endif %}
+      {{ text_card(t) }}
+      {% endfor %}
+    </div>
+  </section>
+</div>
+
+<script>
+(() => {
+  const toolbar = document.getElementById("works-toolbar");
+  if (!toolbar) return;
+  toolbar.hidden = false;
+  const search = document.getElementById("works-search");
+  const firstOnly = document.getElementById("works-first");
+  const countEl = document.getElementById("works-count");
+  const viewGenre = document.getElementById("view-genre");
+  const viewDate = document.getElementById("view-date");
+  const dateLink = document.getElementById("toggle-date-link");
+
+  function applyFilter() {
+    const q = search.value.trim().toLowerCase();
+    const fo = firstOnly.checked;
+    let shown = 0;
+    document.querySelectorAll(".text-card").forEach((card) => {
+      const hit = (!q || card.dataset.search.includes(q)) &&
+                  (!fo || card.dataset.first === "1");
+      card.hidden = !hit;
+      if (hit) shown += 1;
+    });
+    // Hide genre sections that filtered down to nothing.
+    document.querySelectorAll(".genre-section").forEach((sec) => {
+      const any = Array.from(sec.querySelectorAll(".text-card")).some((c) => !c.hidden);
+      sec.hidden = !any;
+    });
+    // Cards exist in both views; report one view's count.
+    countEl.textContent = (q || fo) ? (shown / 2) + " shown" : "";
+  }
+  search.addEventListener("input", applyFilter);
+  firstOnly.addEventListener("change", applyFilter);
+
+  let dateView = false;
+  dateLink.addEventListener("click", (e) => {
+    e.preventDefault();
+    dateView = !dateView;
+    viewGenre.hidden = dateView;
+    viewDate.hidden = !dateView;
+    dateLink.textContent = dateView ? "arrange by genre" : "arrange by date";
+    applyFilter();
+  });
+})();
+</script>
+
+{% endblock %}

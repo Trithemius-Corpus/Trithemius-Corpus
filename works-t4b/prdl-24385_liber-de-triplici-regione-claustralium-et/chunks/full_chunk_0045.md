@@ -1,0 +1,21 @@
+--- Page 099 ---
+
+But listen to my counsel, and return as quickly as possible to the guide of your youth, Jesus; submit yourself wholly and humbly to him. He is merciful: when you return to him, he will gladly receive you; he will forgive your vices, and, if you ask, will bestow the grace of his love. But you must withdraw from the affections of the flesh if you desire to come into the sight of your Savior. Therefore, if you turn to Jesus, turn in truth, because supreme Truth cannot love anything except what is true.
+
+There is also another proper mode of knowing oneself, which is taken up with respect to God, whenever one thinks on the incomparable comparison between God and man. Concerning this mode Bernard, famous in contemplation, says: “No better does the measure of human imperfection reveal itself than in the light of the countenance of God and in the mirror of divine vision. There, indeed, one who is more fully in the day and sees more clearly what is lacking in himself improves day by day by likeness whatever he had lost by unlikeness, drawing near to him by likeness from whom he had been made distant by unlikeness.” Let us therefore raise the eye of the mind to the most bright mirror of divine perfection; let us submit our affection to that unchangeable good, so that in God’s wisdom we may be able to see our own folly, and in his power to consider our own weakness.
+
+On Keeping the Memory of One’s Sins.
+
+The sixth root.
+
+The fifth root of the fear of God is the memory of sins, and the very foulness of sin often considered. Indeed, whoever truly understands the foulness of mortal sin always foresees the pit of this evil. But so that you may in some way recognize the gravity of sin, you must consider the seven things that follow.
+
+First, then, consider the beauty of God’s justice, to which sin is entirely contrary and therefore to be especially avoided. For through sin the soul is wholly turned away from the highest good, and the love that is naturally in it toward its principle is changed into hatred.
+
+--- Page 100 ---
+
+For just as all good things are from the first good, so every love, toward whatever good it is borne, is naturally kindled by its condition. For since our love cannot rest in any goods as in its end, it has as its end, where it is to rest, that same good which it had also as its beginning. Therefore, as often as sin is committed against the beauty of God’s justice, the soul is separated from its principle. For since God is charity, he demands love in the soul; as peace, he requires peace; he loves what is like, and hates what is unlike.
+
+Second, consider the enormity of sin, and carefully weigh how greatly its foulness displeases God. Behold, because of pride the just God expelled the most noble angel Lucifer from heaven, and with his accomplices condemned him to the burning of eternal fire. Because of disobedience he compelled our first parents, Adam and Eve, to leave paradise, and by a just judgment condemned the whole human race, in their crime, to the sentence of a double death. Finally, let us review the whole history of the Old and New Testament, and we shall find that what was clearly committed rashly against the justice of God was often gravely punished by that justice. Therefore the gravity of the crime is easily recognized if the severity of the vengeance that followed is considered.
+
+Third, consider how grave a scandal arises from sin, especially when one sins in the presence of others. For whoever, by his evil example, provokes someone to sin shows himself an adversary of God. For God, by his own will and out of mercy, has determined to save souls redeemed by the blood of his only-begotten Son; but this man, through his turning away from God, desires to destroy them by evil example. A scandalous sin is truly called most grave with respect to guilt for this reason: because, as we have said, it is opposed to God. But if the one who gives occasion for harm is to be thought to have harmed, then the sinner subjects himself to as many sentences of death as he has caused people, by his evil example, to fall into mortal crime. For Christ says in the holy Gospel: “Woe to the man through whom scandal comes.” And again he says: “Whoever scandalizes one of these little ones...”

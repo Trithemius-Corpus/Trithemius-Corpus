@@ -1,0 +1,15 @@
+spiritual confessors from the four elders, so that if any of you has been overtaken by some hidden temptation, and has suspected our inexperienced youth, he may have safe recourse to them for his consolation. Yet thus far in the whole congregation we have found no one whom we have observed to have withdrawn his trust from us either in confession or outside it.
+
+For you all know, and plainly see, that I seek nothing more in you, desire nothing more, than your salvation and the daily increase of your spiritual progress. For you are my crown, you my honor, you my joy; because I count myself happy when I know that you have advanced in the love of God.
+
+You have obtained a great opportunity for progress, dearest brothers, since the place in which we serve the Lord as soldiers is removed from all noise, and we do not cease to move you toward better things by daily admonition. And whenever any one of you has fallen into some sin through human frailty, he is not allowed to lie long in the delight of his mind, where one brother is daily proclaimed by another, in true brotherly charity, for his negligences.
+
+This is the workshop of salvation, in which the mind is fed with the nourishment of heavenly doctrine, and the soul is daily cleansed from the stains of sins by public satisfaction. This place is an earthly purgatory, in which the monk is discreetly corrected for his negligences, and through humble patience, for the love of Christ, is daily offered to his Creator in a long martyrdom.
+
+It is our part, brothers, in this court of faults, to correct discreetly those who have been proclaimed; it is yours to endure all things with the greatest patience. For we must make satisfaction for our sins; and if we neglect to do this in this life, in the life to come we shall necessarily be compelled to do it.
+
+There are some among you who take corrections hard. To them we declare what we have often said: that in the future they must endure very grievous things, who here refuse to endure small and light ones. But I, considering their weakness and ignorance, am grievously tormented within myself, because I see their minds wounded, and yet I am afraid to apply the necessary medicines. For if I apply remedies suited to their diseases, I fear that, becoming fainthearted, they may fall into despair, or certainly, given over to a reprobate sense, may wholly withdraw from the holy purpose.
+
+Therefore I use as much discretion as I can, as you all will bear witness for me, preferring to send the weak, through patience with charity, to purgatory, rather than through just severity to make them despair and descend to hell. For who in this mortality was ever able to make satisfaction for sins, who did not apply a good will to penance? For only a good will commends the works of the penitent. But since many are punished unwillingly, they are still far from perfect satisfaction.
+
+Believe me, my most beloved brothers, that satisfaction for sins is commended more by suffering than by acting. For even the Lord himself, and the Savior of us all, Jesus Christ, by suffering

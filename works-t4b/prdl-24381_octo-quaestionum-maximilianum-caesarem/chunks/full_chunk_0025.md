@@ -1,0 +1,19 @@
+--- Page 092 ---
+
+43
+
+...without whose will they can do nothing; for unless God granted that they could do what they wish, they would obtain it neither from themselves nor from demons. Thus every power is from the Lord God, in whom all things both exist and are moved, as in the first cause of all things, since from him from whom we receive freedom of will, from him also we have the ability to do what we will.
+
+But since the understanding of witches is very confused, they do not perpetrate the evils they do by human art, but by the cooperation of demons, whom both their subtle nature and long experience have made swift in producing marvels. For the astonishing effects of witches are not caused by such means as they use for witchcraft, such as heads of the dead, toads, serpents, characters, images, and things like these, but by the devil who instituted these signs; since he is most proud, he desires in all things to seem comparable to God. For indeed, just as almighty God instituted certain sacraments in his Church, which, when worthily administered and with himself assisting, signify and produce a salutary effect, with him who instituted them working salvation, so also the devil, who desires nothing more than to be esteemed equal to God,
+
+--- Page 093 ---
+
+instituted certain signs as though they were sacraments. When invoked by those with whom he has been joined by pacts, that malignant operator assists them, and as often as God permits, he carries out the evil for which he is asked; if God does not permit it, he does absolutely nothing. Indeed, the devil is the operator of all necromantic and witchcraft effects; by applying the means that he himself had previously instituted to the subject matter, he produces the desired work, sometimes in reality, sometimes only in appearance.
+
+Women who are witches, after passing by depraved will and consent through pacts into fellowship with demons, receive certain marks and symbolic signs from them; when these are used to summon them, the demons soon come. In these pernicious operations of demons, nothing is stronger than the foolish credulity of witches, which is increased by pacts and marks, since the firmer the faith they place either in demons or in their signs, the more swiftly they obtain the operation through their cooperation. For the exceedingly savage depravity of the witches’ will turns them in a certain way into frenzy; when this frenzy has taken possession of their mind, the demons soon attach themselves to the raging women, and, with God permitting, they grant to the frenzied women the effect of their petition, fortified by pacts and signs.
+
+--- Page 094 ---
+
+For Plato related something similar in the book On Poetic Frenzy, saying: just as Bacchant women, when not of sound mind, draw honey and milk from rivers, but when of sound mind cannot draw them. Their spirit, carried outside itself into fellowship with an evil demon, brings this about. We have found that witches in disturbed rivers have drawn butter at appointed times, which can in no way happen except by the ministry of a demon.
+
+In the same way, when they have been brought into hatred of some man or beast and long for its death, they are driven by a most grievous frenzy, thinking in their soul of nothing except vengeance. They take up things known and familiar to them for witchcraft, invoke demons, display the signs instituted by them and also the characters, and what they cannot accomplish by their own power they obtain by the ministry of those demons. But another person, who is not subjected and devoted to demons by pact, even if he knows the things suitable for witchcraft and also the manner of operation, and although he displays the signs, nevertheless rarely obtains the effect, because he is not counted among the familiars of the demons. For the devil, swollen with pride, imitates the Church of Christ to such a degree that...

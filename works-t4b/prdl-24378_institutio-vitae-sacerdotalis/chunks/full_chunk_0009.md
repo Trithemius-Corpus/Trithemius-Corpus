@@ -1,0 +1,24 @@
+--- Page 024 ---
+
+he has been, he will rarely be good in old age.
+
+On the remedy against lust.
+Chapter 3.
+
+Physicians have been accustomed first to show the sick the seriousness of their disease by careful discussion, and only then to apply the help of remedies. For once the seriousness of the illness is known, the bitterness of the potion causes less fear. Since I am about to do this with you, I have first disclosed to you, by many kinds of demonstration, the danger of cohabitation with women, and, as far as I could, I have declared what the end of this disease is. It follows now, therefore, that we should think about the remedy. For the flesh always desires against the spirit, and unless it is restrained by salutary exercise, it casts both itself and him down into the depth of damnation.
+
+Hence the poet aptly admonishes us, saying: “If you take away idleness, Cupid’s bows have perished; his torches lie despised and without light.” Holy Scripture also declares that every idle person is in his desires. Therefore anyone who wishes to extinguish the vice of lust must continually exercise himself in some holy work. For idleness is the enemy of the soul. Hence blessed Jerome admonishes someone, saying: “Always do some good thing, so that the devil may find you occupied.” The best remedy against evil thoughts is, indeed, occupation in some holy work. For when the mind is pleasantly intent on some good exercise, it does not think of anything else. No access will lie open to the devil if the mind is occupied in some exercise.
+
+Take an example from holy David: when occupied with matters of war he subdued lust; when idle, remaining at home, he committed adultery. When the hand is free from work, the mind grows weak in thought. Therefore, if you wish to conquer lust, flee idleness. As for the exercises to which you ought to adapt your time, receive them in a few words, if you please. Accustom yourself to rise from sleep in the morning before daylight, and to devote some little time to prayers, both canonical and votive. And when by devout prayer you have completed the due measure of your service, you will then devote yourself to sacred readings,
+
+--- Page 025 ---
+
+until you understand that you are called by office to celebrate Mass. After Mass one must again devote oneself to prayers, and attend to sacred meditations and the most devout exercises. Then one must work with the hands; the household must be cared for; and whatever business has to be arranged out of necessity should be ordered with the fear of God.
+
+The manual work of a priest is to write, to bind books copied by himself or by others, or printed books, and to attend to other honorable labors according to his condition or necessity. Then, when food has been taken, thanks must be given to God, who feeds us here on earth; and again one must pray that after this life he may feed us without end in heaven. When these things have duly been completed, one must not immediately go off to idle talk, but again devote oneself to sacred readings. Then one must work with the hands until evening, though manual work should not be extended beyond the fourth hour.
+
+But when the day is now declining and one must sleep, recourse should first be had to most devout prayers. When these have been completed, you should set up an account of your actions throughout the day, and, crying out that you are guilty before God for your negligent way of life, you should ask for pardon and indulgence. For if you have judged yourself, you will be absolved by God. And unless you have constantly kept yourself in the fear of the Lord, the house of your conscience will quickly be overturned.
+
+But if you have been overtaken in some fault, at once return to the lamentation of penance, and, if it can be done, choose such a confessor as both knowledge of the Scriptures proves suitable and conduct commends. For he who lives in reprobate conduct rarely opens the way of salvation in truth to those confessing. But if, at the enemy’s suggestion, you begin to feel temptations of the flesh in your mind, do not strengthen them by delay, but drive them out as quickly as possible through prayers and holy exercises. Slippery is the serpent of lust, and unless it is crushed at the head, it is not easily destroyed. While the adversary is still weak, he is easily overcome.
+
+And if you have conquered yourself at some time, do not suppose that you are secure, for victory is not complete where daily battle is waged. Therefore, as long as you can be subjected, do not believe that you have conquered. Do not trust in your own strength; do not claim the victory for yourself, but know that your hope rests in the help of God alone. For no one is chaste by his own powers. For the grace of God, when it has helped him, conquers the flesh.

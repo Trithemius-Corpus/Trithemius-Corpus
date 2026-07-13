@@ -1,0 +1,13 @@
+*Here begins the Compendium of Spiritual Exercise. Johannes Trithemius.*
+
+Although the form of spiritual exercise published by us for the edification of cloistered persons could seem very brief to any devout persons who have leisure, we fear nevertheless that to those occupied in household affairs it may seem rather lengthy; while their thought is stretched out in continual solicitude in arranging the necessities of their subjects, the mind is easily wearied even in the briefest spiritual exercises. Therefore, lest our monks who are either given over to external matters, or less devout in spiritual conduct, should be able, on the pretext of lengthiness, to take refuge in their usual argument of excuse, we have been ordered to abridge the same instruction, so that the fervent may keep the greater one in their devotion, and the lukewarm may not omit the lesser.
+
+*There follows the practice of spiritual exercise.*
+
+Before all and each of the hours, in general, the devout cenobite should strive to direct his effort to this end: that he may desire with all his strength to magnify God in his heart through the root of his benefits. Let there be in him so fervent an ardor of devotion, so great a compunction, and finally so great an outpouring of tears, that whoever sees him singing psalms may be moved by his example to magnify the Lord. Secondly, let him remember to stir himself, so far as he can, to charity toward his neighbor, because love is directed toward God in vain if one’s neighbor is hated. Therefore, after all spirits of displeasure have been driven out, turned toward the Lord, let the most devout cenobite pray:
+
+Almighty, everlasting God, who, instructing us for the exercise of your [unclear] by the manifold creation of things, have commanded us to love you above all things with all our strength, and our neighbor as ourselves for your sake: graciously grant me the grace of your most secret love and of love for my neighbor, so that, after all movements of displeasure, aversion, and anger have been repressed, I may always love you above all things with a pure heart, and in no way withdraw from sincere love of my neighbor; so that, just as one member, joined to another member, suffers with the wounded member, so may my mind, sincerely loving my neighbor, deserve to be a member of our true head, Jesus Christ. Who lives and reigns with you.
+
+*Another prayer.*
+
+I beseech you, holy Father, almighty, eternal God, through the power of the most holy Passion of your only-begotten Son, our Lord Jesus Christ: enlighten the eyes of my heart, so that, pierced in spirit, I may see how often I have offended against your commandments; and, cleansed by your mercy from every filth of sin, may I never offend you hereafter.

@@ -1,0 +1,21 @@
+--- Page 124 ---
+
+I believe the reasons why he permits harmful acts of magic have been made sufficiently clear. For even if the will of demons is always wicked, their power can never be unjust, since what it wickedly wills it has from its own free choice, but what it is able wickedly to do it has only from God. And these things have been said with regard to those who do evil.
+
+But why does almighty God permit demons, through the agency of witches, to harm people who have been baptized in the name of the holy Trinity and faithfully believe in his only-begotten Son, our Lord Jesus Christ? For if they could harm only the wicked, the perverse, and unbelievers in body and goods, but were restrained from approaching and injuring the good and faithful, the permission would rightly seem to be a just judgment. But now the good and innocent are more often made sick by the harmful magic of demons, and sometimes are even deprived of life, to pass over in silence the loss of temporal goods which those bewitched often suffer. Thus it comes as a scruple to many
+
+--- Page 125 ---
+
+why the Almighty permits these things, since he permits nothing unjustly.
+
+For this proposed question I shall set out in order, as briefly as I can, the necessary reasons, no others than those I have received from ancient and Catholic doctors. The first reason is the testing of Christians’ faith and the proving of their integrity, so that, when scourged by the harmful works of demons, they may learn in the sufferings of the flesh what faith and love toward God they have hidden in the mind. It is not difficult to be patient in prosperity; but in adversity, with humble patience, to await help from the Savior of the faithful belongs not to the soft, but to the strong and truly faithful Christians. In his tribulation most holy Job learned how great a constancy of faith toward God he had, he who previously in tranquility had preserved piety without the dart of temptation. Here it must also be noted that those whom harmful acts of demons or of men have in any way made sick, and who, to recover health, either approach or consult any sorcerers and enchanters,
+
+--- Page 126 ---
+
+whether by themselves or through others, act against the commandments of God and of the Church, and have neither true faith in God nor love. For they prefer the health of mortal flesh to God, and seek salvation not from Christ, but from the devil and his minister. They prefer to live healthy, but unhappily, in the name of the devil, rather than suffer a little here for the love of Christ and afterward rejoice with him forever. But one who does not approach sorcerers because God has forbidden it, preferring to live with observance of God’s commandments in poverty and sickness rather than against God in riches and bodily health, truly loves God and rightly preserves the integrity of the Christian faith. Among Christians, O most sacred Caesar, men corrupt in mind and reprobate concerning the faith must not be tolerated: those who cure the bewitched by harmful magic, who reveal thefts and adulteries by the ministry of demons, who foretell future things by inspection of stones or mirrors. Do not listen, I pray,
+
+--- Page 127 ---
+
+to those who, ignorant of the divine laws, think ministers of demons of this kind useful to your rule because one skilled in harmful magic knows how to undo harmful magic; for this pernicious healing of bodies brings death to souls, and makes human beings withdraw from God, the creator of all things, and cling to impious apostate demons, with whom after death they will be damned forever.
+
+The second reason why almighty God permits the innocent to be harmed by harmful magic is the increase of merits, so that, once their patience has been tested in tribulation, they may deserve a more worthy crown of glory in heaven. For, as holy Augustine says, a person is unknown to himself as to what he can bear and what he cannot bear. At times he fears that he cannot bear what nevertheless he can. When temptation approaches like a certain interrogator, a person is discovered by himself, who before, hidden, did not know himself. The divine chief apostle Peter, before temptation came upon him, was hidden both from himself and from others as to how inconsiderate and weak he was; that temptation approached, and it became apparent

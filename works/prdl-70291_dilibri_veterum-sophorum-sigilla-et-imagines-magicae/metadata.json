@@ -1,0 +1,45 @@
+{
+  "id": "prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae",
+  "title": "Veterum Sophorum Sigilla et Imagines Magicae (pseudo-Trithemian, 1612)",
+  "year": "1612",
+  "source_year": "1612",
+  "year_note": null,
+  "edition_info": "Marne / Aubry, 1612 (dilibri)",
+  "edition_info_raw": "(Marne / Aubry, 1612 ) dilibri",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 58,
+  "genre_cluster": "crypto-occult",
+  "tier": "S",
+  "faithful_adj": 4.69,
+  "fluent_adj": 4.75,
+  "coverage_pct": 100.0,
+  "chunks_graded": 16,
+  "chunks_total": 16,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "minimax",
+    "minimax-v2",
+    "public"
+  ],
+  "source": {
+    "provider": "dilibri",
+    "url": "http://www.dilibri.de/ubtrdfg/content/titleinfo/466737",
+    "download_url": "http://www.dilibri.de/download/pdf/466737",
+    "prdl_id": "70291"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 16,
+    "n_missing_segments": 0,
+    "latin_source_file": "full.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae_parallel.html"
+  }
+}

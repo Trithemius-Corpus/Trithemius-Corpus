@@ -1,0 +1,35 @@
+of great devotion and an outstanding preacher. While proclaiming the word of God he rebuked the wantonness, lust, greed, and excessive pomp of the clergy, and set before all for imitation the poverty of Christ and his apostles and their most blameless life. He was indeed praised by the Roman nobility as an ancient disciple of Christ, but he was held in excessive hatred by the cardinals and clergy, by whom he was seized at night and secretly killed.
+
+*Arnulphus, preacher of truth, is killed at Rome by the clergy.*
+
+This martyrdom of his had previously been divinely revealed to him while he was still in the hermitage, when he was sent by an angel to preach at Rome. Hence he said publicly: “I know that you seek my life; I know that shortly you will kill me in secret. But why? I tell you the truth: I rebuke the pomp, pride, greed, luxury, and excessive zeal which you wretched men devote to acquiring riches; for this reason I do not please you. I call heaven and earth as witness that I have announced to you those things which the Lord commanded me; but you despise me and your creator, who redeemed you through his only-begotten Son. Nor is it any wonder if I, a sinful man announcing the truth to you, am delivered to death by you, since even if Saint Peter were to rise again today and rebuke your vices, which have been multiplied beyond measure, you would by no means spare him.”
+
+*How freely he rebukes the vices of the clergy. Nor would they spare Saint Peter.*
+
+When he had cried out with this loud voice, he added: “For my part, I do not fear to undergo death for the truth; but to you I proclaim in the word of the Lord that almighty God will not spare your impurities. For you, full of every filthiness, go before the people entrusted to you down to hell. God is the avenger.” And when the hatred of the clergy began to rage against him because of the truth, he was seized by their treacheries and drowned.
+
+*1129.* In the eighth year of Abbot Volmar, which was the year 1129 of the Lord’s nativity, in the western regions, by a miracle against men wearing long hair by evil custom, the hair around the heads of twenty men suddenly began to burn, having been miraculously set on fire in many cases.
+
+*Speyer is captured.*
+
+“I undergo death; for the truth I do not fear. But to you I proclaim in the word of the Lord, who [unclear] almighty God [unclear] not [unclear] your impurities. For you [unclear].” “They have all been multiplied, he would rebuke them; you would by no means spare him.” When he had cried out with this loud voice, he added: “For my part, I do not fear to undergo death for the truth. But to you I proclaim in the word of the Lord that almighty God will not [unclear] your impurities. For you [unclear].” “They have all been multiplied, he would rebuke them; you would by no means spare him.” When he had cried out with this loud voice, he added: “For my part, I do not fear to undergo death for the truth. But to you I proclaim in the word of the Lord [unclear].” “They have been multiplied, he would rebuke them; you would by no means spare him.” When he had cried out with this loud voice, he added: “For my part, I do not fear to undergo death for the truth. But to you I proclaim in the word of the Lord [unclear].” “They have been multiplied; he would rebuke them, and you would by no means spare him.” When he had cried out with this loud voice, he added: “For my part, I do not fear to undergo death for the truth. But to you I proclaim in the word of the Lord [unclear].” “They have been multiplied; he would rebuke them, and you would by no means spare him. They would be rebuked; you would by no means spare him. They would be rebuked; you would by no means spare [unclear].”
+
+*The boy king [unclear].* [unclear] perished through the gate/harbor [unclear].
+
+[Henry?], bishop of Verdun, was also deposed by Matthew, bishop of Albano, legate of the Apostolic See. But Bruno, bishop of Strasbourg, after being expelled for four years, [unclear].
+
+*The abbey of St. John in Rheingau will be erected.*
+
+In this year the boy Philip, son of Louis, king of the Franks, was anointed king at Reims. [unclear] he obtains the favor of the queen and of the bishops of the king. Frederick also, archbishop [unclear], having been convicted, confessed that he had received thirty solidi for the consecration of a certain church. Perhaps meeting him, he threw him headlong from his horse; [unclear] following, in this year he was reconciled. The bishop of Cologne, who for three years had carried on enmities against the king, was reconciled.
+
+[Henry?], bishop of Verdun, was also [unclear] by Matthew, bishop of Albano, of the Apostolic See [unclear], to be anointed king. [Henry?] also, bishop of Verdun, by Matthew of Albano, priest, son of King Louis of the Franks, because for the consecration of certain churches [unclear] to reconcile. “For my part, I do not fear to undergo death for the truth [unclear] by night [unclear] the king to be anointed, expelled from the kingdom; he was expelled.” [Henry?] also, [unclear] of Verdun, priest, son of King Louis of the Franks, because for the consecration of a certain church [unclear] to reconcile. “For my part, I do not fear to undergo death for truth [unclear] by night [unclear] the king to be anointed, expelled from the kingdom; he was expelled.”
+
+*The boy king [unclear].* [unclear] perished through the gate/harbor [unclear].
+
+[Henry?] also, bishop of Verdun, by Matthew, bishop of Albano, [legate] of the Apostolic See [unclear].
+
+[Henry?] also, bishop of Verdun, by Matthew of Albano, priest, son of King Louis of the Franks, because for the consecration of a certain church [unclear] to reconcile. [Henry?] also, [unclear] of Verdun, priest, son of King Louis of the Franks, because for the consecration of the same church [unclear] to reconcile. “For my part, I do not fear to undergo death for truth [unclear] by night [unclear] the king to be anointed, expelled from the kingdom; he was expelled.” [Henry?] also, [unclear] of Verdun, priest, son of King Louis of the Franks, because for the consecration of a certain church [unclear] to reconcile. “For my part, I do not fear to undergo death for truth [unclear] by night [unclear] expelled from the kingdom; he was expelled.” [Henry?] also, [unclear] of Verdun, priest, son of King Louis of the Franks, because for the consecration of a certain church [unclear].
+
+*The boy king [unclear].* [unclear] perished through the gate/harbor. *The king [unclear] perished through the gate/harbor.*
+
+[Henry?] also, [unclear] of Verdun, priest, son of King Louis of the Franks, because for the consecration of a certain church [unclear] they came. [Henry?] also, [unclear] of Verdun, priest, son of King Louis of the Franks, because for the consecration of the same church [unclear] they came. “For my part, I do not fear to undergo death for truth [unclear] by night [unclear] the king to be anointed, expelled from the kingdom; he was expelled.” [Henry?] also, [unclear] of Verdun, priest, son of King Louis of the Franks, because for the consecration of a certain church [unclear].

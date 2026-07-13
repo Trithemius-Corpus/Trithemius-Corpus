@@ -1,0 +1,11 @@
+*Of Steganography, 15:*
+
+*Let us form for ourselves, by way of example, such a secret as must be entrusted to no one.*
+
+I have a certain secret for my prince, which must be communicated to absolutely no one. I do not dare commit it to letters, lest through negligence or forgetfulness, if they are scattered, they be read; much less do I wish to announce it through a man, lest it also happen to be revealed in some way to others through him. Therefore it pleases me to try the mystery of this art, by which my secret will remain hidden at all times.
+
+*Let us write letters, of whatever sort one pleases, which need fear the sight of no one.*
+
+To the most serene Prince, Lord Philip, Count Palatine of the Rhine, Duke of Bavaria, Arch-Steward of the Holy Roman Empire, Prince-Elector, Johannes Trithemius, Abbot of Sponheim, with prayers offers service.
+
+Most illustrious prince, with humble submission, service. The kindness of your renowned dukedom has commanded me to commit to letters certain very hidden matters set forth in words. I would rejoice, not without devout exultation, if powers equal to my will were present, to assign the most honorable benefit shown to a more fitting place, and to render the obedience owed by favor. The novelty of the work, to be undertaken without the path of a predecessor, holds back the weakness of my heart; I know myself to be far unequal to it. For it will have an immense and great labor, and it imposes very great dullness upon my efforts. Yet I shall try my powers, in order to obey Your Grace, without doubt approaching a most kindly judge, if the suitable possibility of completing it has not supported my good will: where, with most abundant humanity, I perceive, he says, a glorious and most munificent prince, lover and defender of letters, under whose most humane protection the University of Heidelberg, adorned with many most learned and most erudite men, most fresh in talent, surpasses all the schools throughout Germany. And so, most distinguished and most humane Prince, if I have anything or am anything, I know it all to be bound to your kindness; and this I shall always take care to display most readily with humble submission. And although there are others wiser, who could render this work better, or more usefully and more elegantly, not moderately.

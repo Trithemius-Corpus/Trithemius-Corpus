@@ -1,0 +1,25 @@
+--- Page 129 ---
+are neglected. Therefore, from the intention of the first and greatest intelligence comes the common and universal distinction of things. It is distinguished from others by itself, and it distinguishes the rest among themselves by the standard of its own conception. Hence, just as God knows all things and each thing most distinctly, so too he most distinctly rules, governs, and cares for them.
+
+I think, therefore, most clement Caesar Maximilian, that it is clear and sufficiently shown that the providence of God, the supreme ruler, embraces, disposes, rules, and governs all lower things and each one of them; otherwise, without the provident disposition of one who watches over them, they would by no means continue in this most beautiful order that we discern.
+
+Nor does it escape me how variously the wise men of this world once held opinions about providence. Some of them thought that this world was made not by providence but by chance. If their opinion were true, no place would be left for providence; rather all things would necessarily drift, and the world, since it was made by chance, could perish by chance. Against their false opinion others taught that the world could not have been made without reason, nor certainly continue to exist, unless it were ruled by the highest providence of its maker. Hence Boethius, that most Christian man,
+
+--- Page 130 ---
+said: “O you who govern the world by everlasting reason, sower of earth and heaven, who command time to go forth from eternity, and, remaining stable, grant that all things be moved.” And again he said: “The generation of all things, all the advances of changeable natures, and whatever is moved in any way, receive their causes, order, and forms from the stability of the divine mind.”
+
+Others, however, thought that God cared only for incorruptible things, such as the heavenly bodies and separate substances, and likewise the species of things, but that he was entirely ignorant of all the rest and utterly neglected them. But these men erred shamefully, because the Almighty has providence and care not only for universal and incorruptible things, but also for particular and corruptible things. Hence Saint Boethius again says: “The lofty founder of things sits upon the earth, and, ruling all things, bends the reins: king and lord, fountain and origin, law, and wise arbiter of justice. He is the continuous love for all things, and they seek to be held by the end of the good, because they cannot endure otherwise unless, turned back again by love, they flow back to the causes that he himself gave.”
+
+Others, however, unable to bear that they should be neglected, removed man from the number of
+
+--- Page 131 ---
+corruptible things because of the preeminence of his intellect, saying that God has care and providence for man, but despises all the remaining earthly things. Against their false opinion I think enough has already been said, and to bring forward many things would be wholly superfluous. For Scripture says: “You will save men and beasts, O Lord.” And in another place a certain wise man said: “The Lord made the small and the great, and he has equal care for all.”
+
+Therefore the providence of the divine majesty orders, rules, disposes, and cares for all lower things and each one of them, great and small, corruptible and incorruptible; his most powerful will produced all things from nothing, as sacred Scripture again bears witness: “But your providence, Father, governs all things from the beginning.” Let men corrupt in mind, impious, and reprobate concerning the Christian faith therefore blush, who, puffed up by mere loquacity, take away the providence of him who knows all things, and do not consider how great an injury they do to God. For what, to use the judgment of Firmianus, is so worthy of almighty God, and so proper to him, as providence? But if he foresees nothing, if he neglects lower things, if he does not care for mortal things, he has now lost all
+
+--- Page 132 ---
+dignity. But it is impossible, as Saint Anselm attests, for God to lose his honor, since, as the Peripatetic says, “in eternal things there is no evil, no corruption, and no sin.” Whoever, therefore, removes providence removes the whole substance of God; and what does he say except that God does not exist?
+
+But now let those who deny that God’s providence cares for lower things tell me: if God neglects lower things, let them consider what necessarily follows. If God knowingly neglects and despises us, then there is no longer any reason why we should pursue him with worship or venerate him with religion, since we obtain no benefit from him; rather, neglected and despised, we ourselves should neglect him too.
+
+But if, not knowing, he despises and neglects us, then there is plainly no reason for us to worship him, since he does not know us and for that reason is unable to confer any good, or to call upon him in prayers. For if God does not care for human affairs, whether knowingly or unknowingly, every reason for piety ceases, since there is no hope of salvation.

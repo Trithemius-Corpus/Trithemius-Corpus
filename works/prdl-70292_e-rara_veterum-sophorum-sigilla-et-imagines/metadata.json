@@ -1,0 +1,46 @@
+{
+  "id": "prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines",
+  "title": "Veterum Sophorum Sigilla et Imagines Magicae (pseudo-Trithemian, 1612; e-rara witness)",
+  "year": "1612",
+  "source_year": "1612",
+  "year_note": null,
+  "edition_info": "[s. n.], 1612 (e-rara)",
+  "edition_info_raw": "([s. n.], 1612 ) e-rara",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 73,
+  "genre_cluster": "crypto-occult",
+  "tier": "S",
+  "faithful_adj": 4.65,
+  "fluent_adj": 4.65,
+  "coverage_pct": 100.0,
+  "chunks_graded": 20,
+  "chunks_total": 20,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "codex-sweep",
+    "minimax",
+    "minimax-v2",
+    "public"
+  ],
+  "source": {
+    "provider": "e-rara",
+    "url": "http://www.e-rara.ch/zuz/content/titleinfo/2480555",
+    "download_url": "http://www.e-rara.ch/download/pdf/2480555",
+    "prdl_id": "70292"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 20,
+    "n_missing_segments": 2,
+    "latin_source_file": "full.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines_parallel.html"
+  }
+}

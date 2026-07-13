@@ -1,0 +1,125 @@
+# Build / OS
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Source PDFs — provenance documented in manifest.json; not redistributed
+# (Public domain originals are available from the institutions listed in the manifest.)
+*.pdf
+
+# site/dist/ is intentionally NOT ignored: it is the published GitHub Pages
+# artifact and CANNOT be rebuilt in CI — scripts/build_site.py needs the
+# working corpus (Latin source + translations) which is deliberately not in
+# this repo. Build locally with build_site.py and commit site/dist/.
+site/public/
+site/resources/
+docs/_site/
+docs/.jekyll-cache/
+
+# Per-cluster sentence-embedding indices (regenerable from data/anchors/*.jsonl
+# via scripts/build_retrieval_index.py — ~25 KB per cluster, but kept out of git
+# so the repo stays source-of-truth for the curated pairs).
+data/retrieval/
+
+# Model caches / embeddings — too large for git
+models/
+*.gguf
+*.safetensors
+*.bin
+embeddings/
+*.faiss
+
+# OCR working files
+ocr-pages/
+*.tesseract.tmp
+
+# Style C source facsimiles: regenerable from the working corpus via
+# scripts/build_facsimiles.py (PNG page scans -> WebP). The SOURCE copy under
+# site/static/images/<work>/ is ignored to avoid committing every page twice;
+# the SERVED copy under site/dist/static/images/<work>/ (produced by
+# build_site.py copy_static) IS committed, because GitHub Pages deploys
+# site/dist/ verbatim and CI cannot rebuild it. The landing-hero
+# site/static/images/clavis-source-page.webp stays tracked (not matched here).
+site/static/images/prdl-*/
+
+# Local notes
+SCRATCH.md
+TODO.local.md
+AUDIT_REVIEW_*.md
+CLAUDE_VISION_REOCR_TEST.md
+_rename_map.json
+_unclear_proposals_*.json
+
+# Local browser/screenshot/audit output
+.cache/
+scripts/_cp_audit/
+scripts/_chrome_profile_measure/
+scripts/_cp_meas/
+scripts/_shots/
+scripts/_claude_vision_fixes.jsonl
+scripts/_fix_intros.py
+site/dist/_REVIEW*.md
+site/dist/works/nul
+
+# One-off corpus rewrite backups
+*.pre184
+*.preintro
+*.stub
+
+# Retrieval-anchor data whose redistribution is not licensed for this release.
+# A v2 index built from public-domain anchors will replace this; see METHODOLOGY.md §5.2.
+data/steganographia_parallel.jsonl
+**/steganographia_parallel.jsonl
+
+# Training datasets — regenerable and multi-hundred-MB; never commit to git.
+# Build from the working corpus via scripts/build_qwen3vl_ocr_lora_dataset.py
+# and scripts/qwen3vl_corpus_pipeline.py; publish via Zenodo/LFS, not the repo.
+training_*.jsonl
+data/ocr_training/
+
+# Private operator / session working notes — not release material.
+# (Kept locally for provenance; the public process docs live in docs/.)
+SESSION_HANDOFF_*.md
+*_HANDOFF_*.md
+*_HANDBOFF_*.md
+HANDOFF_*.md
+QWEN3VL_*.md
+NPU_*.md
+V2_*.md
+UNLIMITED_OCR_BENCHMARK_*.md
+TRAINING_DATA_*.md
+damaged_segments.json
+
+# Local ML environment, watchdogs, training bulk, and grading packages — never public.
+.venv*/
+*.ps1
+training_v2_manifest.json
+trithemius_corpus_grading_package*
+*.zip
+*.zip.[0-9]*
+data/v3/
+data/retrieval_npu/
+data/_quality_codex_minimax_grade/
+data/_quality/codex_grade_minimax_summary.jsonl
+data/prompts/qwen3vl_trithemius_ocr_only.txt
+
+# Dev runbooks inside docs/ that describe the private pipeline (vast.ai, re-OCR lanes).
+docs/TRITHEMIUS_REOCR_RUNBOOK_*.md
+docs/V3_DATASET_IMPLEMENTATION.md
+
+# Developer / process docs kept out of the front-facing repo. These describe
+# the private working pipeline (working-corpus paths, internal lanes) and are
+# backed up under E:\trithemius\_repo_dev_docs_backup\. The published process
+# docs (docs/METHODOLOGY_GPT_AUDIT.md, docs/CIPHERS.md, METHODOLOGY.md, etc.)
+# stay tracked.
+scripts/INTEGRATION.md
+AUDIT_*.md
+audit.md
+docs/LLM_TRAINING_AGENT_RUNBOOK.md
+docs/OCR_TRAINING_CORPUS_EXPANSION_*.md

@@ -1,0 +1,46 @@
+{
+  "id": "prdl-24362_de-laude-scriptorum-manualium",
+  "title": "De Laude Scriptorum Manualium",
+  "year": "1494",
+  "source_year": "1494",
+  "year_note": null,
+  "edition_info": "Mainz, 1494 (BSB)",
+  "edition_info_raw": "( Mainz , 1494 ) BSB",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 46,
+  "genre_cluster": "monastic-reform",
+  "tier": "S",
+  "faithful_adj": 4.71,
+  "fluent_adj": 4.71,
+  "coverage_pct": 100.0,
+  "chunks_graded": 21,
+  "chunks_total": 21,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "minimax",
+    "minimax-v2",
+    "opus-sweep",
+    "public"
+  ],
+  "source": {
+    "provider": "BSB",
+    "url": "http://daten.digitale-sammlungen.de/bsb00037424/image_1",
+    "download_url": "http://download.digitale-sammlungen.de/BOOKS/pdf_download.pl?id=bsb00037424",
+    "prdl_id": "24362"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 21,
+    "n_missing_segments": 0,
+    "latin_source_file": "churro_full.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24362_de-laude-scriptorum-manualium_parallel.html"
+  }
+}

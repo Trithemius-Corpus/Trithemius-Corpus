@@ -1,0 +1,15 @@
+is made a Christian: no one is judged a good man or monk.
+
+First, therefore, what is required for a good man is the testimony of a good conscience: namely, that no mortal sin lies hidden in the conscience. For a mind that is polluted by the guilt of mortal sin testifies that the state of the conscience is evil. Therefore each monk must examine himself diligently and carefully cleanse himself of the faults he has committed, according to the ordinance of the Church. But whoever, on examining his conscience, finds it clean from mortal sin should offer humble praises to God and should not omit to add the examination of the following matters.
+
+The second thing necessary for a good man is to aim chiefly at God in all works and, as far as he can, to order all things to his praise and honor. But if, because the multitude and variety of works impede him, a man cannot always actually keep God before his eyes, at least habitually let him conform his intention of living according to the most pleasing will of God to this desire.
+
+The third is that in all things he obey God and holy mother Church and the prelates set over him, and not withdraw from the path of right and enlightened reason; for whoever despises this threefold obedience has denied the faith. It is therefore necessary that obedience be shown equally to these three in right order, according to the ordinance of reason, so that the life of the monk may remain blameless in its actions, without fear.
+
+These three things, possessed with humble sincerity, make a good man and show the state of a conscience hoping well in the Lord. But the man to whom one of these is lacking is not perfectly good, even if he seems to be good. But if, repentant of his sins, he has resolved henceforth to fulfill these three things, he is now made good and pleasing to God, however evil he may have been considered before. Furthermore, in order that from a good man a good religious, or spiritual man, may be born, according to the aforesaid [unclear], three other things are required.
+
+The first thing required for making a good religious is that purity of heart be cleansed, through zeal for discipline, from every defilement or incitement of the flesh. This purity is never better acquired than if the world, with all its things, is despised.
+
+The second thing by which a good man is made a good religious is called spiritual freedom in God. This, once the images of all things have been excluded, can raise itself upward to God, unencumbered in all exercises, and continually lift itself up without impediment in thanksgiving with devout prayers.
+
+In the third way a good man is made spiritually good when, through love, the desire of the spirit is united with God by fixed degrees. These last two things make our cenobite spiritual and often introduce him to the citizens of the third region. Therefore whoever desires to trust rightly in the testimony of his conscience should humbly strive to exercise himself in the aforesaid things, because security is never prudently presumed when danger is not avoided. And what is so dangerous as always

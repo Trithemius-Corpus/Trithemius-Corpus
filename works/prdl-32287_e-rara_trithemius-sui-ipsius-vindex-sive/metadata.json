@@ -1,0 +1,46 @@
+{
+  "id": "prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive",
+  "title": "Trithemius Sui Ipsius Vindex",
+  "year": "1616",
+  "source_year": "1616",
+  "year_note": null,
+  "edition_info": "Ingolstadii : ex typographeo Ederiano, apud Elisabetham Angermariam, 1616 (e-rara)",
+  "edition_info_raw": "( Ingolstadii : ex typographeo Ederiano, apud Elisabetham Angermariam, 1616 ) e-rara",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 141,
+  "genre_cluster": "apologetic",
+  "tier": "S",
+  "faithful_adj": 4.91,
+  "fluent_adj": 4.91,
+  "coverage_pct": 100.0,
+  "chunks_graded": 32,
+  "chunks_total": 32,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "claude-cli",
+    "minimax",
+    "minimax-v2",
+    "public"
+  ],
+  "source": {
+    "provider": "e-rara",
+    "url": "http://www.e-rara.ch/zuz/content/titleinfo/1761179",
+    "download_url": "http://www.e-rara.ch/download/pdf/1761179",
+    "prdl_id": "32287"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 32,
+    "n_missing_segments": 0,
+    "latin_source_file": "_full_preocr.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive_parallel.html"
+  }
+}

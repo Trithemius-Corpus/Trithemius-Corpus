@@ -1,0 +1,15 @@
+What the signs of true humility are.
+
+[unclear], and superfluous. Indeed, he who is truly humble takes no delight in worldly conversations, because they often hinder the purpose of purity. The love of Christ does not love publicity.
+
+The eighteenth sign of humility: he compassionates from the heart with all who suffer for Christ’s love, and most patiently bears the faults and weaknesses of others, and prays for the correction of offenders. For true humility shows the bowels of pity and compassion toward weak sinners; but false and feigned humility, because it is truly pride, swells up against the frail with harsh and indiscreet severity, and becomes a cause of danger to many when, in correcting, it exceeds the rule of God’s charity. But he who is truly humble always fears to exceed the due measure of correction, and therefore inclines more toward mercy than toward excessive severity.
+
+The nineteenth sign of true humility: it keeps the mind from all envy, and favors and prays for all people. It envies no one the gifts of divine goodness; it desires the grace of God for all, and rejoices in the progress of others. It judges no one unworthy of God’s benefits; it considers all better than itself. It regards the advantage of neighbors as its own, because it loves all as itself.
+
+The twentieth sign of perfect humility: with bitterness of heart it recalls to memory the multitude of its sins, and for that reason considers itself unworthy of every benefit and grace of God. Hence, seeking the depth of humility, it imitates the publican of the Gospel, who, having the memory of his sins, did not wish even to lift his eyes to heaven. For the monk who is truly humble for Christ’s love always bears in his heart the sorrow of holy compunction and repentance for the evils he has done.
+
+The twenty-first sign of cenobitic humility: he trusts the judgment of others more than his own, and for Christ’s sake wholly subjects his own will to another’s command. Let those among you who follow the judgment of their own head consider whether they can, or wish to, grasp this sign of monastic humility. For today we see few observers of true monastic humility, though many monks seem to be advancing in it. O times, O morals: in which we all promise humility, and very few of us truly take care to keep what we have promised inviolate.
+
+The twenty-second sign of cenobitic humility: he abominates and despises beautiful, new, costly garments, and desires to have and wear all clothing cast off by others. He willingly uses cheaper things, and takes great delight in those things which others despise. Beautiful and ornately arranged garments do not befit a monk, but the meanest ones, by which the body may merely be defended from the injury of intemperate weather. For every curiosity is forbidden to cloistered men, who by reason of the profession they have made before God are bound to contempt of the world. Humility flees high things; it seeks what is lowly.
+
+The twenty-third sign of monastic humility shows the monk to be servile toward the brothers, and [unclear].

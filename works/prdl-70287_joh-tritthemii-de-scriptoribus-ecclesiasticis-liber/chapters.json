@@ -1,0 +1,41 @@
+{
+  "source": "headings",
+  "n_segments": 291,
+  "entries": [
+    {
+      "label": "Annotationes Scriptorum",
+      "n": 29,
+      "title": "Annotationes"
+    },
+    {
+      "label": "Tractate I — qui ad notitiam meam non venerunt",
+      "n": 78,
+      "title": "qui ad notitiam meam non venerunt"
+    },
+    {
+      "label": "Tractate II — edidit, quibus famam sui nominis ad posteros trāmisit",
+      "n": 89,
+      "title": "edidit, quibus famam sui nominis ad posteros trāmisit"
+    },
+    {
+      "label": "Annotationes Scriptorum",
+      "n": 194,
+      "title": "Annotationes"
+    },
+    {
+      "label": "Tractate I — Quod Deus homo fieri voluerit",
+      "n": 251,
+      "title": "Quod Deus homo fieri voluerit"
+    },
+    {
+      "label": "Tractate II — de nouorum officiorum diuinorum institutione",
+      "n": 254,
+      "title": "de nouorum officiorum diuinorum institutione"
+    },
+    {
+      "label": "Annotationes Scriptorum",
+      "n": 255,
+      "title": "Annotationes"
+    }
+  ]
+}

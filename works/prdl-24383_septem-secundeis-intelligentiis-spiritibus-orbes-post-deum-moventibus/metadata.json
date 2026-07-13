@@ -1,0 +1,47 @@
+{
+  "id": "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+  "title": "De Septem Secundeis, id est, Intelligentiis sive Spiritibus Orbes post Deum Moventibus",
+  "year": "1522",
+  "source_year": "1522",
+  "year_note": null,
+  "edition_info": "Nurnberge, 1522 (BSB)",
+  "edition_info_raw": "( Nurnberge , 1522 ) BSB",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 25,
+  "genre_cluster": "bibliographic",
+  "tier": "S",
+  "faithful_adj": 4.67,
+  "fluent_adj": 4.78,
+  "coverage_pct": 94.7,
+  "chunks_graded": 18,
+  "chunks_total": 19,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "minimax",
+    "minimax-v2",
+    "public"
+  ],
+  "source": {
+    "provider": "BSB",
+    "url": "http://daten.digitale-sammlungen.de/bsb00013346/image_1",
+    "download_url": "http://download.digitale-sammlungen.de/BOOKS/pdf_download.pl?id=bsb00013346",
+    "prdl_id": "24383"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 19,
+    "n_missing_segments": 0,
+    "latin_source_file": "churro_full.txt",
+    "latin_fallback_sources": {
+      "full.txt": 1
+    },
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus_parallel.html"
+  }
+}

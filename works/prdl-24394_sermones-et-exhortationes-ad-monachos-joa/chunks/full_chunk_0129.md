@@ -1,0 +1,13 @@
+*How Sin Is to Be Fled*
+
+the multitude of sins; without it there is no good work, and it alone is able to blot out every sin. [Unclear], Saint Augustine says: “No holy and just man is without sin; nor for this reason does he cease to be just or holy, if he holds fast to holiness with affection. But those sins of the just are not to be considered mortal or enormous, but small and venial, without which a man scarcely lives this present life. For every sin is mortal when committed by a just man, if he must retain the name of justice. For mortal sin separates a man from God, kills the soul, and condemns it eternally with the demons.”
+
+By God’s grace we can beware of this deadly kind of mortal sin, and by uprightness of free will we ought carefully to do so. For this reason we have become monks: so that, living most cautiously under the rule of salutary obedience, we may not fall into the pit of mortal sin. Therefore the monk must always keep watch in good works, so that he may live free from mortal crime. Whoever feels his flesh troublesome and contrary to him in the way of God must, by remembrance of punishments, make it subject to the spirit, and, as it were, obedient through fear.
+
+Therefore, first of all, let the monk who is a lover of his own salvation always attentively consider the deceptive condition and deception of this world, and ponder how quickly every delight of the flesh passes away. Who will be able to draw his soul back from sins? He who has also diligently considered the very brief pleasure of the flesh and the punishment due to sinners. For the world passes away, and its concupiscence together with it. All who live pass away by dying, and no one is permitted to remain long in this life.
+
+For what is the world except a great, deep, and vast sea, in which there are as many creeping things of evils as there are evil desires of men ordered toward the good? O world, deceitful deceiver and unclean one, who foully deceives those who cling to you; all who follow you, you plunge into the depth of hell. How happy are those who despise you for love of Christ, and, making a useful separation from your vanities, depart from you in time. Whatever we discern in the world is vain, and every lover of the world is made vain and will shortly decay.
+
+Think that you will soon die, for nothing draws men back from sin as frequent and intent meditation on death does. For Scripture says: “Dwell upon your last things, and forever you will not sin.” The necessity of dying, when pondered, shakes the mind with fear and restrains it from vice.
+
+The second thing that persuades one to flee sin is fear of the future judgment, in which all men must be presented. No one can escape this dreadful judgment, and it is necessary

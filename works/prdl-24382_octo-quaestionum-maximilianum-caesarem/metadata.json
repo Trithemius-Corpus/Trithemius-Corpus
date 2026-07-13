@@ -1,0 +1,46 @@
+{
+  "id": "prdl-24382_octo-quaestionum-maximilianum-caesarem",
+  "title": "Liber Octo Quaestionum ad Maximilianum Caesarem",
+  "year": "1515",
+  "source_year": "1515",
+  "year_note": null,
+  "edition_info": "Oppenheym, 1515 (BSB)",
+  "edition_info_raw": "( Oppenheym , 1515 ) BSB",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 93,
+  "genre_cluster": "bibliographic",
+  "tier": "S",
+  "faithful_adj": 4.81,
+  "fluent_adj": 4.81,
+  "coverage_pct": 100.0,
+  "chunks_graded": 43,
+  "chunks_total": 43,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "minimax",
+    "minimax-v2",
+    "opus-sweep",
+    "public"
+  ],
+  "source": {
+    "provider": "BSB",
+    "url": "http://daten.digitale-sammlungen.de/bsb00012794/image_1",
+    "download_url": "http://download.digitale-sammlungen.de/BOOKS/pdf_download.pl?id=bsb00012794",
+    "prdl_id": "24382"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 43,
+    "n_missing_segments": 0,
+    "latin_source_file": "churro_full.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24382_octo-quaestionum-maximilianum-caesarem_parallel.html"
+  }
+}

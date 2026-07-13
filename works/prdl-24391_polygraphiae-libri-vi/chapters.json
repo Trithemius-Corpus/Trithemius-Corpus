@@ -1,0 +1,31 @@
+{
+  "source": "headings",
+  "n_segments": 136,
+  "entries": [
+    {
+      "label": "Preface",
+      "n": 8,
+      "title": "Preface"
+    },
+    {
+      "label": "Book I",
+      "n": 34,
+      "title": ""
+    },
+    {
+      "label": "Book II",
+      "n": 63,
+      "title": ""
+    },
+    {
+      "label": "Book IV",
+      "n": 96,
+      "title": ""
+    },
+    {
+      "label": "Book V",
+      "n": 103,
+      "title": ""
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "ledger_files": 47,
+  "published_chunks_total": 4400,
+  "published_chunks_graded": 4353,
+  "translatable_works": 47,
+  "tier_distribution": {
+    "S": 47
+  },
+  "chunk_weighted_faithful_mean": 4.633,
+  "confirmed_hallucinated_pct": 0.0,
+  "ge4_clean_pct": 100.0,
+  "source": "manifest.json + works/*/metadata.json",
+  "note": "Current public-release summary after remediation; historical GPT-5.5 baseline is retained only as methodology narrative."
+}

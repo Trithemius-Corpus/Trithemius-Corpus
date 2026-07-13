@@ -1,0 +1,2592 @@
+--- Page 001 ---
+
+Nutzungsbedingungen für Online-Angebote der Herzog August Bibliothek Wolfenbüttel
+
+Die Online-Angebote der Wolfenbütteler Digitalen Bibliothek der Herzog August Bibliothek
+(http://digbib.hab.de) sind urheberrechtlich geschützt und unterliegen Nutzungsrechten. Soweit
+nicht anders vermerkt, stehen sie unter einer Creative Commons Namensnennung-Weitergabe unter
+gleichen Bedingungen 3.0 Deutschland Lizenz (CC BY-SA).
+
+Unter diese fallen online frei verfügbare Imagedigitalisate, Strukturdaten, Volltexte, Daten aus
+Datenbanken (in der über OAI abfragbaren Form), Ton- und Videodokumente sowie aktuelle
+Publikationen. Bitte beachten Sie, dass für über die Webseiten der Herzog August Bibliothek
+angebotene Dokumente Dritter andere Rechte gelten können.
+
+Erläuterung
+
+Die Online verfügbaren digitalen Angebote der Wolfenbütteler Digitalen Bibliothek stehen allen
+Interessierten weltweit frei unter einer CC BY-SA Lizenz zur Nutzung zur Verfügung. Neben den in
+http://creativecommons.org/licenses/by-sa/3.0/de/legalcode ausgeführten allgemeinen
+Einschränkungen ist bei einer Nachnutzung Voraussetzung, dass a) der Urheber in der nachfolgend
+beschriebene Form genannt ist und dass b) das Angebot unter den gleichen Bedingungen, d.h. vor
+allem frei und unentgeltlich, erfolgt.
+
+a) Bei der Namensnennung (BY) ist Folgendes zu beachten (vgl. CC BY-SA, Abschnitt 4.a und 4.c). In
+Digitalisaten angebrachte Herkunftsnachweise – typischerweise die Fußleiste – dürfen als
+Nachweis nicht entfernt werden.¹ Zugleich muss auf der Angebotsseite an geeigneter Stelle, in
+jedem Fall aber innerhalb der Domain des Angestellten ein Nachweis in der folgenden Form
+angebracht werden: Sofern ein eigener persistenter Link (PURL, URN, etc.) verwendet wird, muss
+der persistente Link der Wolfenbütteler Digitalen Bibliothek über, unter oder neben dem eigenen
+persistente Link stehen.
+
+Im Druck:
+
+Herzog August Bibliothek Wolfenbüttel <Persistent URL²>
+
+© Herzog August Bibliothek Wolfenbüttel <http://diglib.hab.de/inkunabeln/14-
+astron/start.htm>
+
+oder
+
+© HAB Wolfenbüttel: 14 Astron. <http://diglib.hab.de/inkunabeln/14-astron/start.htm>
+
+¹ Beigefügte Maßstäbe unterliegen nicht dieser Beschränkung und dürfen entfernt werden.
+² Zum Zitieren Wolfenbütteler Digitalisate s.: http://diglib.hab.de/?link=033
+
+--- Page 002 ---
+
+Im Internet (HTML Quelltext):
+
+© Herzog August Bibliothek Wolfenbüttel &lt;a href="[Persistent URL]"&gt;Persistent URL&lt;/a&gt;
+
+oder
+
+© HAB Wolfenbüttel &lt;a href="[ Persistent URL]"&gt;[Signatur]&lt;/a&gt; ©
+
+Z.B. Herzog August Bibliothek Wolfenb&#x00FC;t;tel &lt;a href="http://diglib.hab.de/inkunabeln/14-astron/start.htm"&gt;14 Astron.&lt;/a&gt;
+
+Wenn sich auf der Seite eine zusätzliche Angabe zur Autorin oder Autor eines Beitrages findet, z.B. © [Autoname] ist folgende Form einzuhalten:
+
+Im Druck:
+
+© [Autoname]. Work originally published by HAB Wolfenbüttel <Persistent URL> ©
+
+Im Internet (HTML Quelltext):
+
+© [Autoname]. Work originally published by HAB Wolfenb&#x00FC;t;tel &lt;a href="[Persistent URL]"&gt;Persistent URL oder Signatur&lt;/a&gt; ©
+
+Z.B © Flemming Schock. Work originally published by HAB Wolfenb&#x00FC;t;tel &lt;a href="http://diglib.hab.de/edoc/ed000155/start.htm"&gt;http://diglib.hab.de/edoc/ed000155/start.htm&lt;/a&gt;
+
+b) Bei der Bereitstellung unter gleichen Bedingungen ist zu beachten, dass das Werk frei, unentgeltlich und im Geiste der Förderung der Kultur und Wissenschaften zur Verfügung gestellt werden muss. Sofern dies gewährleistet ist, ist auch eine kommerzielle Nutzung, z.B. in der Wikipedia oder einem Open Access, unter CC BY-SA publizierenden wissenschaftlichen Verlag möglich. Nicht unter diese Lizenz fallen typische kommerzielle Produkte wie Verlagszeitschriften, die Nutzer kostenpflichtig erwerben müssen, zugangsbeschränkte Online-Angebote sowie Nutzungsarten, die ausschließlich auf Werbung oder andere nicht-wissenschaftliche Zwecke zielen. Für alle zuletzt genannten Fälle muss eine kostenpflichtige Sondernutzung vereinbart werden.
+
+Nicht frei über die Homepage der Bibliothek verfügbare Angebote unterliegen gesonderten Nutzungsregeln, die von der Auskunft der Bibliothek (auskunft@hab.de) erfragt werden können. Im Übrigen gilt die Benutzungsordnung für Landesbibliotheken und die Gebührenordnung für die Bibliotheken des Landes Niedersachsen in der jeweils gültigen Fassung in Verbindung mit dem Niedersächsischen Verwaltungskostengesetz.
+
+Der Direktor (2013-03-01)
+
+--- Page 003 ---
+
+Johns Trithemius. 5 D. 6716.
+Johannis Tritemij abbatis
+Spanhemensis Terraſtichon de ſanctiſſima matre anna
+Virginis almiſſicemater venerabilis anna
+Excellens meritis, et pietate potens
+Memo tristis abit qui te colit et veneratur
+ferv cunctis placidam quippe ſalutis opem.
+Diffichon eiufdem quod poſuit ad imaginem ſcte annæ.
+Quifquis in aduerſis ſanctam pulſauerit annam
+Deuotis precibus, is bene ſutus erit
+Lunradi celtis protecij, poete laureati
+Terraſtichon de ſancta anna.
+Nullius anna preces vnq; dimiſſit inanes
+Sed tulit optatam candida ſemper opem
+Ergo piam matrem multo cumulemus honore
+Nulline vacuas que ſint eſſe preces
+Theodorti greſemundi iunioris maguntini
+Terraſtichon ad ſanctam annam
+Virginis anna parens ſalveto ſauſta marie
+Odiri noſtre digna ſalutis opus
+Que per recepta eſt humana redemptio queſto
+Continues precipibus crimina noſtra tegens
+Rodulphi langij canonici monaſterienſis
+Diffichon de ſancta anna
+Magna parens audi ſecunde virginis anna
+Pregnantes vtero que tibi vota ferunt
+Iodoci badij gaudenſis Terraſtichon de ſcta anna
+Anna decus mundi, mater genitricis hieſt
+Pro nate meritis dei tuus aſtra nepos
+Primitas noſtre pariens ſancta anna ſolutis
+Nos cum prole tua cuiuſq; nepotes una
+Rodulph° agricola in ſino de ſcta anna carmie inter alia ſic.
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 353
+D i
+D. 6716.
+Johannes Trithemius.
+Lunradus.
+Pictelchius.
+Lunradus.
+Huius Noduli 35
+
+--- Page 004 ---
+
+Johann Trothemerius
+[De laudibus sanctissimæ matris Anne]
+Anna parens summe genitrix veneranda parentis
+Que pandis populus prima salutis iter
+Te cuncti fugiunt morbi palorq; voloq;
+Moria queq; animo. corpe queq; fedent
+Quicquid id est hominum quod curas cordaq; laffat
+Te fugit. vt ventos nubila pulfa folent
+Ru. gerus venrai Canonicus regularis
+Baynenfis ad ymaginé sancte anne
+Nic profunde preces tenote poplice fexto
+Anna parens vbi cum prole beata fedet
+Me dubita capies quicquid rogitaueris ipfam
+Mamq; potens precibus iugiter anna nitef
+Eiufdem diffichon de sancta anna
+Anna parens bielfi chzifti genitricis aucto
+Zi nobis petimus omne repelle nephas
+Jodoci biffellij patricij aquefis rofarinz de sancta anna ad res
+uerendum patrem oim Johanné tritemiu abbatem spanhemé
+fem ordinis diui patris benedicti.
+Quifquis hoc rofarium ad honore beatiffime matris anne pro
+deuotione legere voluerit. fimittat oione dificam cum laudatioe
+fancte anne qua femp post duos verfus repetat que quide falu
+tatio est vt fequitur.
+De dei genitricis mater venerabilis anna: fancte trinitati
+gratiffima .p cunctis mulieribus honozata. bndicta tu a
+dno.et bndicta ples vter fui. pluq; vginé nat the xps amen.
+Pater nofter Ave dei.
+Anna tuas liceat mifero mibi promere laudes
+Anna tibi fi patens ferta rolaq; feram
+Anna nites regim inde veneranda propago
+Atq; etiam ioachim coningc clara pio
+Anna diu fteriles fleuifti in coningc amore
+Anna nuptarum gloria.et vnus honoz
+Anna pia fobolem nec vanos queris in vfu
+Sed colat vt fancta pofteritate deum
+Anna tibi eberea celer aftane nuncius aula
+Sande ait en fobolem mater habebis ouans
+Anna feres fobolem tanta virtute beatam
+De cum virgineo mater honore miser
+( Lipitzk [Am 1506; Melchior Lotter d.d.])
+Unvollst, mir Bl. D. 6 uerfa.
+
+--- Page 005 ---
+
+Anna feres gratam quem non caput obis
+Ipfe libens fubeat vifcera cafa deus
+Anna tuo tandem furget de fanguine fanguis
+Qui finis miferis fpem ferat ufq; reis
+Anna tuum decuit tanta expectatio partum
+Haud facile eft matrem matris haberi dei
+Anne tue fobolis laudes fuper astra volabunt
+Te q; uos felicem fecula cuncta ferent
+Pater nofter. Ave dei.
+Anna mali puram tu concepiffe mariam
+Credetis. et fanctam morhabuiffe deo
+Anna aluo geftas quam fignauere figure
+Venturam. fancti quam decinere patres
+Anna geris claufam paradifum. aroboe vite
+felicem. et cuncto ruris honore facram
+Anna grauis geftas ortum quem flammens enis
+Lufiodie chernbin nocte dieq; calens
+Anna geris florem qui candida filia vincat
+Et violas humiles coccineamq; rofam
+Anna mofayea inte deprehenditur archa
+Liberei panta aures et vna iacet
+Anna geris fponfam veri falomoni. et omni
+Semina exornatam intus et extra domum
+Anna geris templum cuius penetratia dulces
+Implepere foni. mufica et omnis organo
+Anna geris velum pulchra fub ymagine. patrum
+In fe gefta tenens. quod tegat alta dei
+Anna geris fobolem cuius phebi aures veflit
+Flamma caput. niveos candida luna pedes
+Pater nofter. Ave dei.
+Anna exoptate compos iam facta marie
+Pectore vix toto gaudia aborta capis
+Anna recens nate plaufferunt cuncta marie
+Sidera. et in folitum fluir ab age inbar.
+Anna tui fens natalem credere fas eft
+Te circum angelicos concelebraffe choro
+Anna tuum partum manes fenire profundì
+Lut noua tunc stygios terruit ipfa lacus
+Anna parens dubitas manibus contingere gnatum
+Sole magis rutila luminibusq; poli
+Anna quid etheream metuis fractatere puellam
+Attidet matris. triftia nulla facit
+Aue
+Aue.
+Aue
+Aue
+Aue
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue
+
+--- Page 006 ---
+
+Anna capelle animos en lactea ad vbera tendit
+Enata. manu teneras et tua colla petit.
+Anna mozas rumpis. mammas et pectora midans
+Excipis in tenero membra teneſte ſinu
+Anna ſones gnatam. dulceſq; a pectore ſuccos
+De trahit roſeo murmura grata ſonans
+Anna feret quantos ſi ſcires ignata volores
+Quoq; ſerat mores. tu modo nulla fores
+Pater noſter. Ave ei.
+Anna tibi eſt cordi gnata exornare probatis
+Mozibus. et ſummo compositiſſe deo
+Anna paras celſo gnatam importare delubro
+Sponſe ſed ad ſuperum perigit alma gradum
+Anna citam ſenſo ſequeris greſſu atq; labore
+Solatur ſeſſam promptula virgo matrem
+Anna quid in tenera miratis virgine robur
+Non humana vides. ſed pia ſigna dei
+Anna ſoles inopi et facris dare munera templis
+Munçdas quo mulier plus nibil vlla dedit
+Anna vbi ſacratam voluiſti degere gnatam
+Lauſtra libens ſubit virginemq; domum
+Anna piam miſſura. genas et lumina ſtem
+Conſicis. immotam retener altus amor
+Anna domum repetas. gnatam dimitte tonanti
+Nil nifi venturum cogitet illa bieſum.
+Anna per ethereos volitet tua nata receſſus
+Occupet banc ſummo culmine miſſus amor
+Anna duas ſatis eſt tibi. deferure marias
+Ide quoq; non modica te pietate colent
+Pater noſter. Ave dei.
+Anna tuo ſletu docta es ſuccurrere ſenti
+Hinc miſerum votis tu quoq; prompta ſaues
+Anna ſoles ratas nature vertere leges
+Steq; voles. ſterilis ſit modo leta parens
+Anna etiam ſiux fortune munera ſitis.
+Iſte ſugiant noſtros lapſa repente ſumq;
+Anna fugas cedens. das pulchre munera fame
+Tu lactus relenas. et tibi cedit amor
+Anna innas ſen quem terrer vis hoſtica. ſen quem
+Laceris obſcuri vincula ſena tenent
+Anna lenamen. adev ſidum mortalibus egris
+Te dnce languenti perdra vna redit
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+Aue.
+
+--- Page 007 ---
+
+Anna parens timido te inclamat namia fluet
+Si iacent laceram flatus et vnda ratem
+Anna parens nigro es semper metuenda tiranno
+Ut glacies ignem te fugit ille nocens
+Anna abs te nequeant mortalía peccata frustra
+Pofcere. quodq3 voles gnata deuq3 volet
+Anna igitur meritis et tanta prole beata
+Anna parens nostras refpice magna preces
+Aue.
+Aue.
+Aue.
+Aue.
+
+Oratio post rofarium dicenda
+Omnipotens ac piſſime deus. qui beata anna in genitri
+cis filij tui matrem eligere dignatus es. concede .picus
+vt qui memoria eius fidelé deuotione percolimus. eius merit
+et precibus eternæ vite suffragia confequamur. Per e.
+
+Explicit rofarii Iodoci beiffelli vtrinfq3 uris .pfeftoris pa
+tricij aquenfis ad reuerendu pre3 dnm Iohane tritemiu abbate
+Spanhemem odinus fancti benedicti . Et aquilgrani tercio
+idus Aprilis Anno M.cccc.xciiij.
+
+Ade wernbert themarenfis Carmen de fanctiffima
+anna Ad.r.p.dnm Iohanne tritemium abbatem
+In laudes ante pangimus inclite
+Lodis plecra iefu chare nepos mone
+Mec tu nata canenti
+Deſis caſta parens anna choro.
+Regi pgenies anna viro durat
+In fecunda diu le ſterilem gemit
+Prolem flendo precatur
+Mec fruſtra lachryme fluunt
+Promittunt fobolem nuncia celica
+Pregnans iuncta viro.deinde puerpa
+Mata prole probatur
+Per quam noſtra venit falus
+Jeſſe fic viruit ſurps venerabilis
+Exit virga ſerax germine fertili
+Cuius flore reſcti
+Vita mox reuivimus
+Doc partu ioachim ſiſtere debitis
+Fit dignus.remonens pontificis probra
+Sic nos anna nepoti
+Puros ferre preces para
+D ij
+
+--- Page 008 ---
+
+Commendes puerò quem pia castitas
+Mate parturijt.nos prece poscimus
+O matrona beata.
+Crifus nil tibi denegat.
+Crifto qui focius.cum patre flami
+Regnat gloria fit fecula per omnia
+Quem dant conciliatum
+Modis o anna tue preces
+Amen
+
+Lanitur ait ifte hymnus sub nota illius qui in natiuitate fctè
+marie a multis frequentat ecclelij. et incipit Baude vifcerib
+mater in intimis te. Et caftro heydelbergenfi.iiij. kalendas. fe
+briarij. M.cccc.xciiij.
+
+Johannis herbflinterburgensis. Carmen feu hymnus
+de fctà anna Ad r.p. oñim iohane tritemium abbatem.
+
+Baude que miferis anna refugium.
+O ramus. canimus. carmina promimis
+In fefto pia fis germine cum tuo
+Landes nunc tibi dicimus
+Baude terra nitens gramine fertilis
+Et de pluta madens roze cefico
+Et qua nata fuit primo ethere
+Virgo criminis nicta.
+Baude que fueras femine regio
+Nam concepta viro dedita duxeras
+Celebs coniugium prole carens diu
+Doto facta puerpera
+Baude que obprobrio pontificis rubitb
+Es confufa. deum fletibus inuocas
+Staudita virum fufcipis obnium
+Posta dicta sub aurea
+Baude que iocahim leta tibi obnium
+Amplexata virum doctag numine
+Celefi. genitrix ficq; hieiu tuo
+Conceptrur in aluulo
+Baude fimplicitas angelico fagag
+Que laudata choro. et fecta trufarie
+Templo diuidis et pauperibus bona
+Et partem famulis tuis
+Baude plebs celebrat felta fidelium
+Wt patrona fibi. et cum patre fpiritum
+
+--- Page 009 ---
+
+Et criftum genitum fuz rogatibus
+Reddas anna propicium, amen.
+
+Hymnus ifte melodia illius recipit q de afcenfione dñi canit
+fez feftum nunc celebre &. Et illus de martiribus Sanctorum
+merit inclita. &. Et heydelberga fcio nonas febuarías Anno
+M. cc. cc. xcuij.
+
+Rutgeri venraij Canonicì regularis in heyna. Woz
+macenfis dyocel Carmen elegiacù de fancta anna.
+
+Splendoris patrij, candoris lucis intacte
+Virgine mater fplendidà mater aue
+Tu diuam domino genitù fancta puellam
+Et qua lux mundi prodijt alma hieus
+Tu nate genitum confanter fare nepotem
+Quamuis ipfe polos fecerit atq; folum
+Carnem nepos tuus ipfe hieus, fummam deitatem
+Comunxit carni. nam deus eft et homo
+Ergo licet femper fuerit hieus attamen optat
+Dignaturq; nepos dicer effe tuus
+Talem ne dubites precibus pulfare nepotem
+Anna rogamus que cuncta rogata feres
+Ad primas faciles fi non inflexerit aures
+Ad gnatam cicius anna recurre tuam
+Vbera demonftrat nato tua filia chrifto.
+protinus optatum deferet alma parens
+Si multum fuerit oratu difficilis res
+Cum genitricis fua filia pofcat opem
+firma fides mea nec dubito quin protinus ambas
+Oantes dñs audiet aure pia
+Quare continuìs fratres oratibus anne
+Mareq; fimul pofcere oportet opem
+Conftat fi matrem domini genitricis honores
+Et titulas matris virginis ipfe colas
+Rurfus fi matrem domini venerare. lignefcit
+Dominos laudes in genitricem pares
+Sit nategnato laus virtus et decus anne
+Et fummo patri fpirituq; facro. Amen.
+
+Carmen faphicum Johannis tritemij abbatis
+fpanbemenfis in die fancte anne
+fefta facrate celebremus anne.
+
+--- Page 010 ---
+
+Matriș excelle meritis opinе
+Que dei patris geniti parentem
+Edidit obi
+Linus a nobis venerada semper
+Vita landatur merito beata
+Vite signoz misericlemamen
+Mentibus angens
+Laguidos sanat.mala cicta purgat
+Lorda meftoz iubilo ferenat
+Apta pponit.regit et gubernat
+Aſpera planat
+Prepotes ſimi reſidens in aula
+Regis.abſterget maculas pcat
+Graciam confert.animas fideles
+Ducit in astra.
+Nic frequentantes tua feſta fratres
+Vota promentes.bona te precantes
+Adiuna ferua.refone.guberna
+Inclita mater
+Sit decus virtus ſuper tonanti
+Qui deus ſimplex pariterq3 trinus
+Glorie magne tribuit coronam
+Iugiter anne.Amen.
+
+Hymnus iſte ſaphicus canit ſub melodia Vt queat Iaris 7
+Vita ſcto3 Virginis ples.Quod choros vatum Iſte pfeſtoz.et
+ſimilium qui ſaphici ſunt tantum.Et ſpanhem.Monis Iulij3
+Anno dni.M.cccc.xciiij.
+
+Iohannis tritemij abbatis ſpanhemensis
+Lar men elegiacum de ſancta matre anna.
+
+Premia quanta ſuis referat cultoribus anna
+Memo caput mente nec valet ore loqui
+Aſpera propellit.veniam imperat.auget honori3
+Ornamenta ſuis.et facit eſſe polo
+Contra multa nimis comitatur acerba parentis
+Anne ſpretor3.propſice prae tibi
+Proterit elatos. repont honoré potentes
+Et ſinit vt magna ſcandala ſepe ferant
+Doc patet et fixum manet.anna colentibus offert
+Leta.led inſenſis tristia plura refert
+
+--- Page 011 ---
+
+Ergo viri moneo tante feruite patrone
+femenenfq; chora affit amore fimul
+Conftat et exemplis liquido quod fcribimus, aures
+Concipiant patule quod pia corda inuat.
+Exspanhem, xvi. kalendas augusti. M. cccc. xciiij
+
+Carmen faphicii rurgeri ficcambai.
+pro hymno in laudem fancte annæ
+Pangimus laudes veneranda tuas
+Anna. laudantum modulis fancto
+Impetrans cunctis veniam. falutis
+præmia donans
+Tu parens chrifti genitricis anna
+Ethereis fumma renitens in arce
+Obtines quicquid genitum precaris
+Lunctipotentis
+Languidos fanas. maculo fa tergis
+Lomptos voti famulos fideles
+Efficis. tandem tribus fupernum
+Scandere regnum
+Mouibus fummum dominum probatio
+Anna flexifti precibusq; multis
+Vt daret tante fieri parentem
+Dolus in orbe
+Sit patri fummo. genito fuperno
+Pneumati facro tecus et potestas
+Claritas virtus pietas vigoris
+Omne per eum
+Eiufdem aliud
+Virginis matris genitricis annæ
+Sedulas laudes refonemus omnes
+Virtibus totis. animi medullis
+Doce fonoza
+Illa prufudit generi mifello
+Labe fordent genitricis eue
+Mobilem prolem radians iubar que
+Edidit oibi
+Lumen hoc mundi tenebras migrantis
+Expulit. cunctos radians fuperna
+Luce. cæp fanctus refonat iohannes
+Lodice facro
+Anna diuine genitrix puelle
+
+--- Page 012 ---
+
+Cuius appellas gemitum nepotem
+Carme dumtaxat. populum precantem
+Spernere noli.
+Virgo pro nobis rogitantis anne
+Matri intentè precibus faneto
+Tu nepos hieſu facilis precatum
+Eius adimple
+Filio nate genetricis anne
+Cum deo ſumma decus et potestas
+Pneumati compar ſit honor beato
+Tempus in omne
+
+Carmen eiufdem aliud iambicum dimetrum
+quod canitur ſub melodia hymnoz ambroſij.
+Anne colamus cernui
+ſeſtum beate. debitas.
+Grates canentes vocibus
+Et intimis precordijs
+Dec mater alme virgini
+Que protulit mundi iubar
+Dec que deo virtutibus
+Seredidit gratiſſimam
+Moras repellit grām
+Conſert ſuis precatibus
+Morbos leuat deterimos
+Tam corporis quam ſpiritus
+Munis in laudes rex poli
+Tibi ſonoris cantibus
+Matoz ſimul flamin.
+Depromimus laudes pias. amen.
+
+Carmen alcinaricum eiufdem quod canit ſub
+melodia. Crux fidelis. vel Pangelingua.
+
+Dec caterna voce votis
+Et pijs precordijs
+Festa glitcit anna mater
+Tam preclara promere
+Mitio adhis deprecamur
+Temet collaudantibus
+In parens matris marie
+Ludeo gratiſſima
+
+--- Page 013 ---
+
+Legis oſta conſernaſti
+Quam moſſes patribus
+Quondam conſulit vetuſtio
+Mebreiuſq; plebibus
+Dona mira gracioſa
+Impetrans fidelibus
+Deprecatu complacente
+Alii patris filio
+Ergos ſanas et pudica
+Prestas eſſe pectora.
+Te pater rogamus atq;
+Filiũ cum ſtamine
+Vt des gaudioſa nobis
+Laudes concinentibus
+Inclitas prædulcis anne
+Matri alme vginis. Amē
+
+Larmen Rutgeri venrai germani canon ici regula
+ris hermenſis in librum de laudibus ſanctæ anne
+
+Quifquis eris lector præſtantis codicis huius
+Bone metum vanum. ſtruoſa nulla tenet
+Munc miro grauidum ſenſu. dulcemq; lepore
+Abbas tritemius edidit arte ſua
+Libus inuigilans. cuſtos ſpanhemensis oulis
+Qui triplicis lingua ſcripta ſacra ta colit
+Dic titulos anne plenos rationis et arte
+Inuenies. tantum pector volue pio
+Non ſequitur vanas paſſim dubiaſq; ſabellas
+Eloqui ſacri clara fluenta docet
+Ergo preceo laudes dignas venerabilis anne
+Quas tibi vir doctus promptit amando lege
+
+Obannes tritemius abbas ſpanhemensis: lectori ſa
+lutem. Eus nuper ad amicog infantia ſcribere ali
+quid de laudibus ſanctiſsimæ matris anne ſtatuiſt
+patres quidam de ordine fratrum beatæ marie ſp
+virginis de monte carmeli rogabant. ne deſenſionem puriſſime
+ceptionis mariane obmitterem. Itaq; precibus eoy et alioqui
+uita ratione perſuafus. ſeptimũ hui? opis caput. de conceptione
+
+--- Page 014 ---
+
+del parétio et vginis pnotati, qd ne quisquã aliter q̃ nica habet
+intenio fufcipiat. Lectorem putati admonendũ. Vnui em nec
+me fugit q̃ multi sanctiffimi atq̃ doctiffimi viri dei genitricẽ
+fubiacuiſſe originali macule fcripferit. qui longe ante baſilienſe
+concilii. claruerũt. Vhoz ego fententia tpi cõcedes pemit? intac
+tas pertrafeo. nibilq̃ oino ptra eos duc vel fcribẽ intedo. Eni
+uero ſidã a me durius dictũ cernit. no inopinates aliter q̃ nos.
+fed imptinaces dũtaxat referat. q fine eruditiõe garriẽtes alteri?
+opinionis aſſertores appellare hereticos no verent. Et hoc vba
+mea infinuãt. q pria tps et no pteriti notat. Quod em dico quid
+ſolidi latrãt. qd imperiti murmura?. pitis tpiis eſt. no preteriti
+et hodie ptinaces arguit no antiquẽ alter opinates. Interro
+gans vero q̃ erudit? vncq̃ ætrariũ fcripferit. no de antiquis pa
+tribus in fero. fed de his q poſt æterminationẽ pſati concilij aliter
+opinant intendo. Itaq̃ folã ptinacia quorundã imperitor? bu?
+tpis. no opinionẽ eruditoz quorundã alter fententia arguo
+quippe qui ſtati quarti potificis matum declarationẽ no ignoro
+Vibi autẽ viſu eſt a ſancta romana eccleſia nullatenus abhorere
+puriffime conceptionis fides. quã illa credit et venerat. qõ hodie
+inſtis documẽtis offid? Deniq̃ cũ doctos? gymnafios. parieſ
+coloniẽſis. heydelbergenſis. erfordienſis. winẽſ. lipzẽſis. tho
+wingienſis. engolftatenſis. baſilienſis. magutinenſis. alioũm?
+multorum et omnibus peneordunbus chriſtiz fidelib? per vnu?
+uerſum oẽdem crutianum diffuſio. pceptionem dei genitricis et
+virginis marie purã venerari no timeo. ptinacia tĩ no admittõ
+fed romane eccleie obedire in oibus vt matre renerendiffime om
+nium eccleiaz volo. Nec preſati captiis mei pura et ſyncera in?
+tenteio eſt. in quo nulli fobrie et fine pertinatia opinanti derogati
+eritũno. Lector vale.
+Dec epſa pſati dni Johannis abbatiz et incuria et negligetia
+quibufdam exemplaribus cœſt. quã ipſe tamen apponi oñibus
+mandauit. et pro appoſita ſingulis haberi decreuit.
+Impreſſum Lipz̃k per Melchiar Lotter.
+
+Impreſſum Lipz̃k per Melchiar Lotter.
+
+--- Page 015 ---
+
+Hergog August Bibliothek Wolfenbüttel
+Kodak
+Gray Scale
+0 1 2 3 4
+
+--- Page 016 ---
+
+B. 230
+1) Briel, SalmoL
+Neb. 21-6)
+E l. 230
+
+--- Page 017 ---
+
+Hertzog August Bibliothek Wolfenbüttel
+Kodak
+Gray Scale
+0 1 2 3 4
+
+--- Page 018 ---
+
+Hergoz August Bibliothek Wolfenbüttel
+Kodak
+Gray Scale

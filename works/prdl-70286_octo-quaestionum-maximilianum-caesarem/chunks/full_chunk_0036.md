@@ -1,0 +1,17 @@
+*To Maxim. Caesar.*
+
+65
+
+*On Divine Permission*
+
+*Seventh Question*
+
+The seventh question of Your Most Serene Majesty was this: why almighty God, since he is just and the avenger of evils, permits such great misdeeds to be done to the destruction of the human race, by which not only sinners but also many innocent persons perish, grievously tortured.
+
+To this question, when I was formerly placed before your majesty, I remember that I answered as follows. Almighty God, just, upright, kindly, merciful, whatever he permits, permits justly, because he is just; there is no iniquity with him, but in true judgment he either does or permits all things that are done. Therefore, when it is asked why God permits evils to be done, we answer: he permits them because he is just.
+
+Let not the answer we have given seem absurd to Your Majesty, O Caesar, since it in no way prejudices the divine goodness that he permits evils to be done for a most just reason; rather, it would prejudice it if he did not permit evils to be done in the present world. For indeed, if he did not permit evils to be done, then man could not sin; he would certainly be impeccable, which does not befit his nature, to which from the beginning the creator of all things gave free will. For since man is a creature and not the creator, he is necessarily as capable of being turned to good as to evil; his being depends upon the supreme maker of all creatures, just as every caused thing depends upon the cause of its being. But to create has been left to God alone, who is incorruptible and eternal; everything corruptible necessarily fails, but it is preserved by the goodness of the creator so long as it does not lose the influence of its cause. Hence it neither could nor ought to have happened that man, by the condition of his nature, should be created impeccable; naturally this is enjoyed by God alone, the maker of all things, who is immutable and eternal.
+
+But whenever it is granted to man that he seems unable to sin, neither is the freedom of will taken away, nor is the possibility simply removed, but the will is confirmed in good. And whenever this gift is conferred on a creature, it is a gift of grace, not of nature. For Scripture says: God created man from the beginning; he left him in the hand of his own counsel. For, properly speaking, it cannot be that mortal man, conceived in original displeasure, should have free will and yet be unable to commit sin. For most holy Augustine says: the first freedom of the will was to be able to sin; the last freedom in glory will be much more [unclear], he would not have dominion over his own will. Therefore, although almighty God does not will sin, he nevertheless justly permits men to sin and to do evil, so that, while freedom of will remains, the virtue of a good work may receive its merit, and voluntary depravity may receive the evil it has done. For no one either does good or sins unwillingly. Therefore almighty God justly permits men to sin and to do evil, to whom from the beginning he granted freedom of will. But there are many reasons long since assigned by the holy doctors why the Almighty permits such great crimes to be done through the cooperation of demons; of these we shall briefly make mention in order as necessary.
+
+The first is so that the excellence of the divine power may be manifested, since he alone is immutable above every [unclear].

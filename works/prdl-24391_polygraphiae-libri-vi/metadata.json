@@ -1,0 +1,46 @@
+{
+  "id": "prdl-24391_polygraphiae-libri-vi",
+  "title": "Polygraphiae libri VI",
+  "year": "1518",
+  "source_year": "1600",
+  "year_note": "Polygraphia first printed 1518; this source witness is the 1600 Strasbourg/BSB edition.",
+  "edition_info": "Argentoratum, 1600 (BSB)",
+  "edition_info_raw": "Argentoratum , 1600 BSB",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 657,
+  "genre_cluster": "crypto-occult",
+  "tier": "S",
+  "faithful_adj": 4.74,
+  "fluent_adj": 4.74,
+  "coverage_pct": 100.0,
+  "chunks_graded": 136,
+  "chunks_total": 136,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "codex-sweep",
+    "minimax",
+    "minimax-v2",
+    "public"
+  ],
+  "source": {
+    "provider": "BSB",
+    "url": "http://daten.digitale-sammlungen.de/bsb00038431/image_1",
+    "download_url": "http://download.digitale-sammlungen.de/BOOKS/pdf_download.pl?id=bsb00038431",
+    "prdl_id": "24391"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 136,
+    "n_missing_segments": 0,
+    "latin_source_file": "churro_full.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24391_polygraphiae-libri-vi_parallel.html"
+  }
+}

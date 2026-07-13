@@ -1,0 +1,3 @@
+*De Sacerdotum Vita Instituenda Libellus* — "A Little Book on Establishing the Life of Priests" — is Trithemius's short treatise on ordering the life and conduct of priests, close in subject to his *Institutio Vitae Sacerdotalis* and *De Cura Pastorali*. It belongs to the clerical-formation side of his work rather than the strictly monastic reform tracts: the "little book" of the title signals a compact, practical manual — how a priest is to be formed in virtue and learning — rather than a sustained treatise.
+
+This is the **1577 Brixen / Bressanone edition** (BSB scan), a later reprint. The Latin was re-OCR'd from the page scans and translated by GPT-5.5. No published English translation is known; the translation sits in the top tier (S).

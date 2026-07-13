@@ -1,0 +1,17 @@
+--- Page 008 ---
+
+PREFACE.
+
+can be hidden, and before Jesus Christ his Son, who will judge the living and the dead, in truth I say, swear, and protest: all and each of the things that I have said in this work, or am going to say, and all the properties, modes, figures, operations, traditions, receptions, formations, inventions, institutions, mutations, alterations of this science or art, and everything that pertains to its speculation, invention, attainment, operation, and practice, either in part or in whole, and everything contained in this volume of ours, rest upon true Catholic and natural principles; and all and each are done with God, with a good conscience, without injury to the Christian faith, with the integrity of ecclesiastical tradition, without any superstition whatsoever, without idolatry, without any pact with malign spirits, explicit or implicit; without suffumigation, adoration, veneration, worship, sacrifice, or offering to demons; and without any fault or sin, venial or mortal. And all and each are done with truth, rectitude, sincerity, and purity, so that the knowledge of this invention, and its practice for good use, may not be unworthy of a wise man, a good and faithful Christian.
+
+For I too am a Christian, voluntarily devoted to the monastic life; and I desire to live and conduct myself no otherwise than truly befits a Christian and a monk professed under the rule of the divine father Benedict. I received the Catholic faith itself from the cradle according to the tradition of the Holy Roman Church, having been baptized in the name of the Father, and of the Son, and of the Holy Spirit. This faith, together with that same universal Church of Christians, I hold and believe; and as long as I live, with God’s help, always firmly preserving it inviolate, I will hold it in heart, mouth, and deed, nor do I ever intend to depart from it on any occasion whatsoever. Far be it from me, therefore, either to learn or to teach anything that is contrary to the Christian faith and its purity, harmful to holy morals, or in any way opposed to the regular life I have undertaken. I fear God, and I have sworn myself to his worship; from him I shall be separated neither living nor, as I trust, dead. This
+
+--- Page 009 ---
+
+PREFACE.
+
+This protestation of mine I have not set before the whole of this work of ours without cause, because I know that there will be many who, when they cannot understand the things we have written, will turn to abuse, and will attribute our good and holy studies to evil arts or superstitious inventions. To these, since they will exist, and to all whoever will read this synthesis of ours, we earnestly beg that, if they understand this secret tradition of ours, they keep it forever hidden, and not pour forth such wondrous mysteries into public view. But if they do not understand it, as we know will happen to many, let them learn before they criticize. For he shows himself a rash judge who gives sentence on a matter before he has learned the truth.
+
+Learn this art first, and afterwards judge it. If you have been unable to understand it, do not reject the art itself, since it is good, but your own dull wits. For I know and am certain that no one of sound mind can criticize this work of ours unless he happens to be wholly ignorant of it. As for those to whom it is more familiar to despise wisdom than to have learned it, I neither hope nor would wish them to penetrate these mystical matters of ours.
+
+CHAP.

@@ -1,0 +1,25 @@
+--- Page 520 ---
+
+...they wish to have separate. Thus they themselves will hold the methods of writing for all of them, and none of their subjects will understand another’s method. For the variable methods of writing more secretly in this art are infinite.
+
+XIII. Thirteenth, it should be noted that, to stop the mouths of those who speak unjust things, we have shown the truth of this new invention of ours to be possible, placing the words in the alphabets of the first book so that they cohere with one another, and so render a fitting and Latin prayer in the form of an exhortation and supplication offered to God. Under the cover of this discourse we can conceal whatever secrets occur to us, and write in such a way to a friend skilled in the art that, if all the people in the whole world were gathered into one place, they could never discover the secret lying beneath the open speech, provided it has been correctly arranged.
+
+XIIII. Fourteenth, it should be known that in this very invention of our Polygraphia there still lie hidden certain things far better than those described above: namely, how you will be able, in a few days, not to say hours, to instruct someone ignorant of the Latin language so that he may know how to write, read, speak, and understand Latin, not indeed universally in all things, but in a fixed manner, whatever necessary matter occurs to him in his affairs. Likewise, how you may safely, securely, and most secretly make known to your far-distant friend, who knows the practice of the art, all the conceptions of your mind, without writing and without the messenger’s knowing; and sometimes even without a messenger, naturally and without any superstition, danger, or fear.
+
+But reason has moved us to leave these things buried in their own hiding places with the rest, since it neither pleases me nor is at all useful to cast precious stones to the wind and to accomplish difficult things without the fruit of gratitude. Finally, beneath these matters there lie no small mysteries of subtlety concerning medicines, herbs, plants, precious stones, rivers, the members of the human body, brute animals, sacred things, nations, cosmography, astronomy, and the seven liberal arts; also concerning all those things that are held for human use, and concerning the universal world, both visible and invisible. And, lest we be more prolix than is proper: all things that exist in the world, through the application of the likeness already shown, serve the mystical teaching of the art of Polygraphia.
+
+XV. Fifteenth, note that all these inventions that we have handed down in the Polygraphia are only certain small introductions in comparison with those things
+
+--- Page 521 ---
+
+that still remain to be discovered and written in this same faculty; concerning them we pass over in silence, lest we seem to boast idly. For we have given those sufficiently gifted in intellect cause to discover greater things than we have either written or perhaps been able to discover. Let whoever can add for the completion of this invention those things he knows to be useful; but whoever cannot should not rashly judge what he does not understand.
+
+Explanation of those things which seemed rather obscure in the second book of the Polygraphia.
+
+In the second book of the Polygraphia, apart from the order and sequence of the words, nothing new is handed down beyond the first; and therefore the method of operation in both will be one and the same. We carefully admonish that everything we said must be observed in the first book is also to be observed in the second. A difference is seen to have arisen only in the narrative of the manifest prayer, since the former is composed concerning our Lord, the Son of God, whereas this one is raised to his mother, the ever-undefiled Virgin.
+
+In the second book, moreover, there are 308 alphabets set in order before the words, though under different subjects. For from the beginning the discourse is directed to that Lady of ours; afterward the Lord’s Prayer is expanded under twenty-four alphabets; then the Angelic Salutation is appended; next, the Salve Regina; and finally a brief prayer concerning Saint Anne, mother of the Virgin Mary, the Mother of God.
+
+In all the books of the Polygraphia one must take care that no word be repeated in any alphabetical order, that is, that it not be placed twice, and that none be omitted, because this would cause great confusion for the reader. Therefore the greatest care must be taken that the copies be corrected in every respect and amended exactly, lest the writer fall into error. But if, through the negligence of the scribe or the carelessness of the printer, you find some word duplicated under one alphabet, erase the last one and put in its place another suitable word that has not previously appeared in the same alphabet.
+
+Know also that these two books of our Polygraphia serve sufficiently for the promised operation; through them you may not only write at any time, most safely and securely, whatever you wish to your friends

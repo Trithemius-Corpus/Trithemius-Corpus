@@ -1,0 +1,23 @@
+chapter; for that reason the council appointed, as presidents for holding the chapter, two men from our province of Mainz, namely Siegfried, abbot in Ellwangen in the diocese of Augsburg, and Johannes, abbot of St. George’s in the diocese of Constance; to these they added Ludovicus, abbot of Tournus in the diocese of Chalon, and Thomas, abbot of Ebrach, who already knew the manner of holding a chapter. In this chapter measures were laudably established for the reform of our order, which are contained in the acts of the provincial chapter. This provincial chapter was held in the aforesaid year of the Lord, begun on the last day of February; from it our reform, called the Bursfeld reform, as we shall say in its place, first took its beginning. From that time provincial chapters began to be held every three years in the province of Mainz, and they are continued down to the present day, as we shall say hereafter in order in its place.
+
+In the same year, in August, Adolphus, Duke of Berg, entered with a strong army of his men the land of Bar, adjoining the duchy of Luxembourg, which he said belonged to him by hereditary right on his wife’s side; but, when provisions had been consumed, he was forced to return with loss and confusion. Then, seven years later, when he had again entered that land with the strong hand of his men and had subjected a great part to his rule, he was captured in a certain convent of nuns and delivered into the hands of the Duke of Lorraine.
+
+In the same year also Johannes, Duke of Bavaria, Count Palatine of the Rhine, son of Albert, brother of Wilhelm, Count of Holland, elect of Liège, a subdeacon, about whom we spoke above, after he had for some time, following his brother’s death, governed that county with Jacoba, his brother’s daughter, resigned the bishopric and, with dispensation from the Council of Constance, took as wife the widow of Anthony, Duke of Brabant. Leaving Liège in the month of September, never to return, he obtained the land against his brother’s daughter with the bloodshed of many, waging many wars with her, and at last came out victorious. 1418.
+
+In the twenty-sixth year of our abbot Bernhard, Wernher of Falkenstein, archbishop of Trier, died on the fourth day of the month of October, and was buried with honor at Koblenz in the church of St. Castor. After his death Otto, son of the Count of Ziegenhain, provost of the major church, a magnificent man, glorious in every respect, was canonically elected archbishop by the chapter; he presided vigorously for twelve years, did much in a short time, powerful in peace and arms, steadfast.
+
+In the same year Bernhard, abbot of this monastery, lost the other eye on the following occasion. While he was at the provincial chapter held at Constance at the time of the council, to which, in going, staying, and returning, he spent more than [unclear] with a servant and two horses, as we find from his manual, he was forced to swear with the others that within the space of one year he would accept without opposition the proposed reform, under penalty of loss of the abbacy and perpetual incapacity. Returning therefore to the monastery, he explained to the brothers the oath which he had made with the other abbots, and urged them most earnestly to accept the proclaimed reform. But when he saw that they were wholly unwilling, he used penalties and threats, and took care first of all to cut away, as far as he could, every occasion of deformity, forbidding by strict prohibition the wandering of the monks and the entry of women into the monastery. But he had within the walls [unclear]. Yet he could not fully draw the monks back from their deformities, whence great discord arose between him and them, which brought no small disaster upon this monastery. Thereafter the abbot himself was rarely in the monastery, but more often stayed in the town of Trarbach, or in Bingen, or in Kreuznach, not without grave loss to the temporal and spiritual affairs of this monastery.
+
+In the aforesaid year, on the first day of the month of September, the second provincial chapter of our order was held at the Augustinians in the city of Mainz. Presiding over it were the abbots of Fulda, Kempten, St. Ulrich at Augsburg, and Reinhardsbrunn, who had been appointed to the office of presidency in the last chapter held at Constance, as we have said. The place for holding the chapter was in the monastery of St. Alban.
+
+*The Duke of Berg enters the land of Bar for the third time.*
+
+*Johannes, elect of Liège, takes a wife.*
+
+*Otto becomes archbishop of Trier.*
+
+*Abbot Bernhard lost the other eye.*
+
+*Abbot Bernhard attempts to reform the monks.*
+
+*A provincial chapter is held in Mainz.*

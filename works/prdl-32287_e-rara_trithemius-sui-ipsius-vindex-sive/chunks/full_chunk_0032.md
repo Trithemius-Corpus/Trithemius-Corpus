@@ -1,0 +1,1 @@
+[OCR damage on the final leaves (pages 139–141): the scan stuttered, repeating the line "the lord, and the male servant and female servant of the mistress, also in service" dozens of times. The page images are the authoritative witness.]

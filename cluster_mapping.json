@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0",
+  "comment": "Per-work assignment to a genre cluster. Each cluster has a curated public-domain Latin/English parallel anchor set; the harness loads the cluster-appropriate index when translating a work. See METHODOLOGY.md §5.2 (v1/v2 note) for the licensing rationale.",
+  "clusters": {
+    "crypto-occult": {
+      "description": "Cryptographic, hermetic, demonological, and angelological works. Includes the Polygraphia treatises, the Clavis works, the Sigilla, and the Liber Octo Quaestionum (responses to Maximilian on witchcraft).",
+      "anchor_sources_pd": [
+        "Henry Cornelius Agrippa, Three Books of Occult Philosophy, tr. JF (London, 1651) — public domain. Latin source: De Occulta Philosophia (Cologne, 1533).",
+        "William Lilly, Of the Seven Secondary Causes / De Septem Secundeis (London, 1647) — public domain. Trithemius's own text in his own century's English.",
+        "G.R.S. Mead, Thrice-Greatest Hermes (Theosophical Publishing Society, 1906) — public domain. Hermetica with Latin/Greek source apparatus.",
+        "Meric Casaubon, A True & Faithful Relation of What Passed for Many Yeers Between Dr. John Dee and Some Spirits (London, 1659) — public domain. Latin and English passages in close proximity."
+      ],
+      "register_notes": "Late-medieval scholastic Latin with spirit-prince names, angelological tables, and conjuration formulae. Anchors should preserve technical magical vocabulary and Latin word-order in invocations.",
+      "works": [
+        "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+        "prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui",
+        "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis",
+        "prdl-24390_polygraphiae-libri-vi",
+        "prdl-24391_polygraphiae-libri-vi",
+        "prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae",
+        "prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines",
+        "prdl-32286_octo-quaestionum-maximilianum-caesarem",
+        "prdl-70286_octo-quaestionum-maximilianum-caesarem",
+        "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"
+      ]
+    },
+    "bibliographic": {
+      "description": "Catalog and biographical works — De Scriptoribus Ecclesiasticis and the Spanheim/Würzburg collected-works compilations and chronicles.",
+      "anchor_sources_pd": [
+        "Jerome, De Viris Illustribus, tr. Ernest Cushing Richardson in NPNF Series II, vol. III (1892) — public domain. Directly comparable genre (catalog of ecclesiastical writers).",
+        "Gennadius of Marseille, De Viris Illustribus (continuation), tr. Ernest Cushing Richardson in NPNF Series II, vol. III (1892) — public domain.",
+        "Bede, Historia Ecclesiastica Gentis Anglorum, tr. A. M. Sellar (London, 1907) — public domain. For chronicle register.",
+        "Isidore of Seville, De Viris Illustribus, in older PD editions of his collected works."
+      ],
+      "register_notes": "Terse biographical entries; lists of works with incipits; chronological framing.",
+      "works": [
+        "prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius",
+        "prdl-70287_joh-tritthemii-de-scriptoribus-ecclesiasticis-liber",
+        "prdl-24380_admonitiones-exhortationes-monachos",
+        "prdl-24381_octo-quaestionum-maximilianum-caesarem",
+        "prdl-24382_octo-quaestionum-maximilianum-caesarem",
+        "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+        "prdl-70289_opera-historica-part",
+        "prdl-70290_opera-historica-part-chronicon-hirsaugiense-sponheimense"
+      ]
+    },
+    "monastic-reform": {
+      "description": "Works on monastic observance, the state of the orders, claustral life, exhortations to monks, and chapter resolutions. Includes De Laude Scriptorum Manualium (manuscript culture is a monastic register).",
+      "anchor_sources_pd": [
+        "John Cassian, Institutes and Conferences, tr. Edgar Gibson in NPNF Series II, vol. XI (1894) — public domain. The foundational text of Western monastic register.",
+        "Athanasius, Life of Antony, tr. Robertson in NPNF Series II, vol. IV (1892) — public domain.",
+        "Sulpitius Severus, Life of St. Martin, tr. Roberts in NPNF Series II, vol. XI (1894) — public domain.",
+        "Rule of St. Benedict — pre-1929 PD English translations available (e.g. Boniface Verheyen OSB, 1949 is post-1929 but earlier 19th-c. translations are PD; the Migne Latin is always PD)."
+      ],
+      "register_notes": "Hortatory, scriptural-quotation-heavy, frequent appeals to the Desert Fathers and Benedictine rule.",
+      "works": [
+        "prdl-24360_compendium-breviarium-primi-voluminis-annalium-historiarum-origine-regum",
+        "prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis",
+        "prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis",
+        "prdl-24373_de-statu-et-ruina-monastici-ordinis",
+        "prdl-24385_liber-de-triplici-regione-claustralium-et",
+        "prdl-24386_liber-de-triplici-regione-claustralium-et",
+        "prdl-70285_e-rara_de-triplici-regione-claustralium-et",
+        "prdl-24393_sermones-et-exhortationes-ad-monachos-joa",
+        "prdl-24394_sermones-et-exhortationes-ad-monachos-joa",
+        "prdl-24357_abbreviatura-recessuum-capitularium-patrum-ordinis-divi",
+        "prdl-24362_de-laude-scriptorum-manualium"
+      ]
+    },
+    "sacerdotal": {
+      "description": "Pastoral and priestly works — pastoral care, the formation of priests, the priestly vocation.",
+      "anchor_sources_pd": [
+        "Gregory the Great, Liber Regulae Pastoralis (Book of Pastoral Rule), tr. James Barmby in NPNF Series II, vol. XII (1895) — public domain. The canonical Latin pastoral manual.",
+        "Augustine, De Doctrina Christiana (On Christian Doctrine), tr. J. F. Shaw in NPNF Series I, vol. II (1887) — public domain."
+      ],
+      "register_notes": "Practical-doctrinal, addressing the priest's formation, duties, and the cure of souls.",
+      "works": [
+        "prdl-24361_de-cura-pastorali",
+        "prdl-24378_institutio-vitae-sacerdotalis",
+        "prdl-24379_institutio-vitae-sacerdotalis",
+        "prdl-32285_de-sacerdotum-vita-instituenda-libellus"
+      ]
+    },
+    "marian-hagiographic": {
+      "description": "Marian devotion (especially the Anne / immaculate-conception tradition), Carmelite hagiography.",
+      "anchor_sources_pd": [
+        "Bernard of Clairvaux, Sermones in laudibus Virginis Matris and other Marian sermons, tr. Samuel J. Eales (London, 1895) — public domain.",
+        "Anselm of Canterbury, Prayers and Meditations (including Marian prayers), in pre-1929 English editions — public domain.",
+        "Augustine, Marian-context sermons in NPNF Series I (1886-1888) — public domain."
+      ],
+      "register_notes": "Hymnic; high-register; frequent epithets, anaphora, and citations of the Song of Songs and Psalms.",
+      "works": [
+        "prdl-24363_de-laudibus-ordinis-fratrum-carmelitarum",
+        "prdl-24364_de-laudibus-sanctissimae-matris-annae",
+        "prdl-24365_de-laudibus-sanctissimae-matris-annae",
+        "prdl-24366_de-laudibus-sanctissimae-matris-annae-liptzk-1497",
+        "prdl-24367_de-laudibus-sanctissimae-matris-annae-liptzk-1501",
+        "prdl-70283_de-laudibus-sanctissimae-matris-annae-liptzk-1501-hab",
+        "prdl-70284_de-laudibus-sanctissimae-matris-annae",
+        "prdl-24369_de-purissima-et-immaculata-conceptione-virginis",
+        "prdl-24370_de-purissima-et-immaculata-conceptione-virginis"
+      ]
+    },
+    "devotional": {
+      "description": "Contemplative and ascetic works — divine love, the vanity of human life, conversion of the mind to God.",
+      "anchor_sources_pd": [
+        "Bernard of Clairvaux, De Diligendo Deo (On Loving God), tr. Edmund Garratt Gardner (London, 1916) — public domain.",
+        "Augustine, Confessions, tr. E. B. Pusey (London, 1838) — public domain.",
+        "Thomas à Kempis, De Imitatione Christi, in pre-1929 English editions (Whitford 1556, Stanhope 1696, Knox 1853, etc.) — public domain."
+      ],
+      "register_notes": "First-person interior; addresses the soul or God directly; Augustinian and Bernardine vocabulary of caritas, contritio, conversio.",
+      "works": [
+        "prdl-24368_de-operatione-divini-amoris",
+        "prdl-24374_de-vanitate-et-miseria-humanae-vitae",
+        "prdl-24375_de-vera-conversione-mentis-ad-deum"
+      ]
+    },
+    "apologetic": {
+      "description": "Self-defense / apologetic works (one work: Sui Ipsius Vindex).",
+      "anchor_sources_pd": [
+        "Augustine, Retractationes (Retractations), in NPNF Series I, vol. I (1886) — public domain.",
+        "Jerome, apologetic letters and Adversus Rufinum, in NPNF Series II, vol. III (1892) — public domain."
+      ],
+      "register_notes": "Defensive-polemical; first-person; cites past works and rebuts critics.",
+      "works": [
+        "prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive"
+      ]
+    },
+    "verse": {
+      "description": "Occasional Latin verse (one work: the bald-men ecloga to Maximilian).",
+      "anchor_sources_pd": [
+        "Hucbald of St. Amand, Ecloga de Calvis, in Thomas Wright, ed., Latin Poems Commonly Attributed to Walter Mapes (Camden Society, 1841) — public domain. Direct predecessor of Trithemius's poem.",
+        "Erasmus, Encomium Moriae (Praise of Folly), tr. White Kennett (1683) or Wilson (1668) — public domain. Renaissance satirical Latin verse register.",
+        "Bucolic / pastoral PD English of Virgil's Eclogues (Dryden 1697, etc.) for the eclogue form itself."
+      ],
+      "register_notes": "Encomiastic-satirical; metric (hexameter or elegiacs); rhetorical praise of an unworthy subject as comedic device.",
+      "works": [
+        "prdl-24376_ecloga-de-laude-calvorum-ad-carolum"
+      ]
+    }
+  }
+}

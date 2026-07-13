@@ -1,0 +1,1 @@
+Johannes Trithemius, *Compendium or Breviary of the First Volume of the Annals or Histories, concerning the Origin of the Kings and of the People of the Franks, addressed to the most reverend father in Christ and prince, Lord Lawrence, bishop of Würzburg ... by Johannes Trithemius, abbot.* [Mainz], 1515.

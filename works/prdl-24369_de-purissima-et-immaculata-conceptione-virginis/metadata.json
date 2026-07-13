@@ -1,0 +1,46 @@
+{
+  "id": "prdl-24369_de-purissima-et-immaculata-conceptione-virginis",
+  "title": "De Purissima et Immaculata Conceptione Virginis (Strasbourg: Hupfuff)",
+  "year": "1506",
+  "source_year": "1506",
+  "year_note": null,
+  "edition_info": "Argentoratum, 1506 (BSB)",
+  "edition_info_raw": "( Argentoratum , 1506 ) BSB",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 25,
+  "genre_cluster": "marian-hagiographic",
+  "tier": "S",
+  "faithful_adj": 4.67,
+  "fluent_adj": 4.67,
+  "coverage_pct": 100.0,
+  "chunks_graded": 12,
+  "chunks_total": 12,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "claude-cli",
+    "minimax",
+    "minimax-v2",
+    "public"
+  ],
+  "source": {
+    "provider": "BSB",
+    "url": "http://daten.digitale-sammlungen.de/bsb00010726/image_1",
+    "download_url": "http://download.digitale-sammlungen.de/BOOKS/pdf_download.pl?id=bsb00010726",
+    "prdl_id": "24369"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 12,
+    "n_missing_segments": 1,
+    "latin_source_file": "churro_full.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24369_de-purissima-et-immaculata-conceptione-virginis_parallel.html"
+  }
+}

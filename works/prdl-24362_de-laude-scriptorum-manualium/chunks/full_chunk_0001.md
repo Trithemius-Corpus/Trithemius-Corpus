@@ -1,0 +1,11 @@
+*A very fine treatise On the Praise of Scribes, by Dom Johannes Trithemius, abbot of Sponheim, of Saint Benedict of the Bursfeld observance, to Gerlach, abbot of Deutz.*
+
+*Begins the letter of Johannes Trithemius, abbot of Sponheim, to Dom Gerlach, abbot of the monastery of Deutz.*
+
+To the venerable and most beloved father, Dom Gerlach of Breitbach, abbot of Deutz, of the Order of Saint Benedict: Brother Johannes of Trittenheim, called abbot in Sponheim, of the same order, greeting and charity.
+
+When recently, returning together from the annual chapter held at Erfurt, we were discussing various matters in turn concerning the majesty of the divine Scriptures, and were saying that through their splendor our religion had once been glorious, you asked me, with much insistence of charity, to write something for you, by which you might more easily stir your subjects to the love of writing. For you thought that this would be of profit to many, and especially to be commended among our own. Therefore, humbly giving assent to your prayers, I promised what I knew did not exceed the powers of my talent, taking confidence from the aid of the Most High and from brotherly charity, with which we desire continually to be armed in this life.
+
+Hence, as soon as I was permitted to breathe a little from my occupations, with mind of faith I put my hand to the papers, and, aided by your prayers, arranged this modest little treatise which you see, On the Praise of Scribes. In it, if I have done anything less than I ought, you should know that it must be imputed to my various cares, by which I am for the most part so occupied that scarcely am I allowed, in snatched intervals, to return to the studies I desire.
+
+Therefore let your charity, venerable father, receive the book which it has sought; let it read, examine, and, if it judges it worthy, allow it also to come to the knowledge of other brothers. For it may happen that by reading it the brothers will be incited to love of writing. But you, proceed on the path begun; apply yourself ardently to the sacred writings, and exhort your brothers in every way to do the same. Let them look upon that holy and venerable man Rupert, once abbot of your monastery of Deutz, who even by himself can suffice them as an example of study. He, with singular desire, the divine Scriptures then

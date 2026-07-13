@@ -1,0 +1,21 @@
+--- Page 182 ---
+
+The third thing to be observed by the monk for progress in labor is that he speak little, and what is edifying. For Scripture says: “In much speaking sin will not be lacking.” And let no monk speak without permission, if he truly desires to be good. But when permission to speak has been given, let him speak only a few useful things, knowing that idle and scurrilous words are condemned everywhere by the rule. Let him establish for himself, everywhere and at all times, such a manner of speaking, with circumspection, that by speaking he offends no one. Let him prefer to listen rather than desire to speak; and let him not say everything that comes into his mind, if he fears the reproach of fools. For thus Hugh says to the monk: “Do not pour out everything you know, like a vessel without a lid, which as soon as it is tilted pours out whatever it contains, and lies open to every dust and impurity.”
+
+Take diligent care that you do not seem to seek your own glory in any way, directly or indirectly; nor reveal to anyone, from a desire for boasting or otherwise imprudently, anything praiseworthy that lies hidden in you. If you are silent about yourself and conceal yourself, you will be more pleasing; if you disclose and commend yourself, you will become contemptible before all and will be mocked. Beware of idle words, because when we do not notice such things for long, we gradually slip into harmful ones; from them arise disturbances, dissipations, or grave corrosions of spiritual progress. Be such in your inner conversation that, through love of spiritual meditation, silence may please you more at every time than talkativeness.
+
+Let the cenobite be composed and mature in conduct.
+
+Fourth, the monk, both in labor and outside it, and everywhere, is bound to compose his conduct and to show himself mature before men in all things, both in deeds and in words. Let him be clean and humble in heart; let him be kind and useful in speech; let him be modest and grave in his gait; let him be mature and exemplary in his whole way of life. The whole person is easily brought into conformity with the norm of discipline, if the effort to make progress is held firmly in the soul at all times. For truly, when a monk desires daily to advance toward better things, he avoids every dissolution and disorderly way of life. For a firm effort
+
+--- Page 183 ---
+
+to make progress has this as its own property: that it makes the mind of the one striving very circumspect in all things. But one who does not have a firm effort to make progress toward the better cannot truly be called composed, although he may seem mature to men. For feigned maturity quickly dissolves into open dissolution of mind where the root of discipline does not have the fear of God. Therefore, so that our cenobite may always be able to be composed both inwardly and outwardly, let him strive to be truly rooted in the fear of the Lord. For one who fears God neglects nothing. And the love of God is not idle.
+
+What the monk’s conduct ought to be toward other people. Consideration XI.
+
+Since, then, we have begun to speak about the maturity and composure that a monk must preserve before men, it seems useful to us now to say briefly how he ought to show himself to individual persons. For he is instructed to show himself in one way to his prelate, and is commanded to show himself in another way to his brothers and to secular persons. To his ruler, in the place of Christ, he ought to show reverence; to his brother, charity; to those who injure him, meekness; to secular persons, modest piety. Therefore let the monk render to each what is his own, and he will truly be composed before God and men. What he owes to God, and what to himself, has been sufficiently said above; now let us pursue what has been proposed to us.
+
+Let his conduct be reverential toward the prelate in the place of Christ.
+
+First, the monk’s conduct ought to be reverential toward the prelate, as the Lord says in the holy Gospel: “Whoever hears you hears me; and whoever despises you despises me.” For the monk who withholds due obedience and reverence from his abbot does injury to almighty God. For as our most holy father says in the Rule, the abbot is shown to hold the place of Christ in the monastery. Therefore whoever

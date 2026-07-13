@@ -1,0 +1,1 @@
+*An address on the commonwealth of the Church and of the monks of the order of the holy father Benedict, held at Cologne in the annual chapter by the reverend father Lord Johannes, abbot of Sponheim, on the first day of the month of September, in the year of the Lord 1493.*

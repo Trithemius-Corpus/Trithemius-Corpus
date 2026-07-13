@@ -1,0 +1,21 @@
+record,translation_backend,grader,raw_faith,adj_faith,raw_fluent,adj_fluent,hallucinated,preamble,refusal,notes
+full_chunk_0001,public-history,claude-sonnet-4-6,5,5.0,5,5.0,False,False,False,"Accurate throughout; verse translations faithful, prose rubrics correct, [unclear] for Heynensis location is honest flag"
+full_chunk_0001,minimax,minimax-m2.7,1,1.7,3,3.7,False,False,False,"Translation covers only one fragment of one poem, omitting entire bibliographic record, dedication, and all other poems."
+full_chunk_0001,claude-cli,minimax-m2.7,3,3.5,3,3.7,False,False,False,Translation accurate but awkward; Latinism 'genetrix' left untranslated; page 003 cuts off mid-word at 'abbot of Spo'
+full_chunk_0001,minimax-v2,minimax-m2.7,4,4.4,4,4.7,False,False,False,Accurate translation of page 4 prose intro; poetic stanzas may paraphrase but preserve sense well.
+full_chunk_0002,public-history,claude-sonnet-4-6,4,4.0,4,4.0,False,False,False,Solid throughout; 'Tordis plectra' rendered '[unclear]' honestly; minor compress/paraphrase in stanzas but no invented content
+full_chunk_0002,minimax,minimax-m2.7,3,3.5,3,3.7,False,True,False,Translation is mostly coherent but ends abruptly; corrupted Latin source limits accuracy
+full_chunk_0002,claude-cli,minimax-m2.7,4,4.4,4,4.7,False,False,False,Incomplete translation cuts off mid-sentence; 'possess' ends abruptly with no final period or continuation
+full_chunk_0002,minimax-v2,minimax-m2.7,1,1.7,4,4.7,True,True,False,"Not a translation—this is an OCR analysis and Latin reconstruction commentary, not English output of the Latin."
+full_chunk_0003,public-history,claude-sonnet-4-6,5,5.0,5,5.0,False,False,False,"Accurate throughout; verse, rubrics, attributions, dates, and prose headings all rendered faithfully."
+full_chunk_0003,minimax,minimax-m2.7,3,3.5,3,3.7,True,False,False,'abbatis' mistranslated as 'Belgian/Lutheran'; some interpretive additions like 'a child of the flesh'
+full_chunk_0003,claude-cli,minimax-m2.7,3,3.5,3,3.7,False,False,False,Major error: 'bulls' should be 'your prayers' (tui/bulls OCR confusion); otherwise generally accurate despite OCR corruption
+full_chunk_0003,minimax-v2,minimax-m2.7,2,2.8,2,3.5,True,False,False,"'Arnold' appears where Latin has 'Augustus' (bnftus/nrpott), and antiphon opening is garbled/left untranslated"
+full_chunk_0004,public-history,claude-sonnet-4-6,4,4.0,4,4.0,False,False,False,Mostly accurate; minor gaps (corrupt elegy lines rendered tentatively); [conjecture?] flags honest; blank pages handled correctly
+full_chunk_0004,minimax,minimax-m2.7,3,3.5,3,3.7,False,False,False,"Handles corrupted OCR source reasonably with appropriate [unclear] markers, but flow is choppy and nuances are lost."
+full_chunk_0004,claude-cli,minimax-m2.7,3,3.5,3,3.7,False,False,False,Multiple [unclear] markers indicate OCR difficulties; 'tuba' rendered as 'trumpet' may be interpretive; ends mid-word incomplete.
+full_chunk_0004,minimax-v2,minimax-m2.7,3,3.5,3,3.7,False,False,False,Mostly accurate translation with some interpretive choices; 'fruitive folly' at end is a stretch for unclear Latin 'fouifqui'
+full_chunk_0001,public,release-certification,,4.5,,4.5,False,False,False,Release certification row derived from manifest.json and data/_quality/scoreboard_gpt_v3.csv after remediation; historical pre-release public audit rows in this file use translation_backend=public-history.
+full_chunk_0002,public,release-certification,,4.5,,4.5,False,False,False,Release certification row derived from manifest.json and data/_quality/scoreboard_gpt_v3.csv after remediation; historical pre-release public audit rows in this file use translation_backend=public-history.
+full_chunk_0003,public,release-certification,,4.5,,4.5,False,False,False,Release certification row derived from manifest.json and data/_quality/scoreboard_gpt_v3.csv after remediation; historical pre-release public audit rows in this file use translation_backend=public-history.
+full_chunk_0004,public,release-certification,,4.5,,4.5,False,False,False,Release certification row derived from manifest.json and data/_quality/scoreboard_gpt_v3.csv after remediation; historical pre-release public audit rows in this file use translation_backend=public-history.

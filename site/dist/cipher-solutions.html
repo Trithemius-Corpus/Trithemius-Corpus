@@ -1,0 +1,495 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Solved Ciphers &mdash; Trithemius Corpus</title>
+<meta name="description" content="The Clavis Generalis Triplex ciphers, solved: eleven modi decoded into their hidden German plaintexts.">
+<link rel="canonical" href="https://trithemius-corpus.github.io/Trithemius-Corpus/cipher-solutions.html"><meta property="og:type" content="website">
+<meta property="og:site_name" content="Trithemius Corpus">
+<meta property="og:title" content="Solved Ciphers &mdash; Trithemius Corpus">
+<meta property="og:description" content="The Clavis Generalis Triplex ciphers, solved: eleven modi decoded into their hidden German plaintexts.">
+<meta property="og:url" content="https://trithemius-corpus.github.io/Trithemius-Corpus/cipher-solutions.html"><meta property="og:image" content="https://trithemius-corpus.github.io/Trithemius-Corpus/static/images/hero-steganographia-wheel.webp"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@trithemius_corpus">
+<meta name="twitter:title" content="Solved Ciphers &mdash; Trithemius Corpus">
+<meta name="twitter:description" content="The Clavis Generalis Triplex ciphers, solved: eleven modi decoded into their hidden German plaintexts.">
+<meta name="twitter:image" content="https://trithemius-corpus.github.io/Trithemius-Corpus/static/images/hero-steganographia-wheel.webp"><link rel="icon" type="image/svg+xml" href="static/favicon.svg">
+<meta name="theme-color" content="#100d12">
+<link rel="stylesheet" href="static/fonts.css">
+<link rel="stylesheet" href="static/style.css">
+<script>
+  // Apply the saved theme before first paint to avoid a flash of the wrong theme.
+  // 'auto' resolves from the OS colour-scheme preference (light→parchment,
+  // dark→steganographia) and is stored on a distinct attribute so the switcher
+  // can highlight 'auto' as active while the concrete theme paints immediately.
+  (function () {
+    function resolveAuto() {
+      try {
+        return window.matchMedia &&
+               window.matchMedia('(prefers-color-scheme: light)').matches
+               ? 'parchment' : 'steganographia';
+      } catch (e) { return 'steganographia'; }
+    }
+    try {
+      var t = localStorage.getItem('tc-theme');
+      if (t === 'auto') {
+        var r = resolveAuto();
+        document.documentElement.setAttribute('data-tc-theme', 'auto');
+        if (r !== 'steganographia') document.documentElement.setAttribute('data-theme', r);
+      } else if (t && t !== 'steganographia') {
+        document.documentElement.setAttribute('data-theme', t);
+      }
+    } catch (e) {}
+  })();
+</script>
+</head>
+<body class="parchment">
+<a class="skip-link" href="#main">Skip to content</a>
+<div class="read-progress" id="readProgress" aria-hidden="true"><span class="read-progress-pct" id="readProgressPct"></span></div>
+<header class="site-header">
+  <div class="container">
+    <h1 class="site-title"><a href="index.html">Trithemius Corpus</a></h1>
+    <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="siteNav">
+      <span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span>
+    </button>
+    <nav class="site-nav" id="siteNav" aria-label="Site">
+      <a href="works.html">Works</a>
+      <a href="ciphers.html" class="is-active" aria-current="page">The Ciphers</a>
+      <a href="tools.html">Cipher Lab</a>
+      <a href="scoreboard.html">Quality</a>
+      <a href="methodology.html">Methodology</a>
+      <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus">GitHub</a>
+      <a href="search.html" class="nav-search" title="Search the corpus">&#128269; Search</a>
+      <span class="theme-switcher" role="group" aria-label="Theme">
+        <span class="theme-label" aria-hidden="true">Theme</span>
+        <button type="button" data-set="steganographia" title="Steganographia (celestial night)" aria-label="Steganographia theme"></button>
+        <button type="button" data-set="candlelight" title="Candlelight (warm dark)" aria-label="Candlelight theme"></button>
+        <button type="button" data-set="parchment" title="Parchment (light scholarly)" aria-label="Parchment theme"></button>
+        <button type="button" data-set="ink" title="Ink (high-contrast facsimile)" aria-label="Ink theme"></button>
+      </span>
+    </nav>
+  </div>
+</header>
+
+<main class="container" id="main">
+<article class="prose">
+<style>
+/* Cipher-solution cards — themed via the site's semantic CSS variables
+   (--paper, --ink, --ink-muted, --gilt, --vermilion) so they follow the
+   active Night / Parchment / Ink theme. Fallbacks cover the default. */
+.cipher-cards .card{background:var(--paper, rgba(255,255,255,.5));border:1px solid var(--gilt-deep, #c9b896);border-radius:6px;padding:1rem 1.2rem;margin:1.4rem 0}
+.cipher-cards .card.high{border-left:4px solid var(--vermilion, #7a1f1f)}
+.cipher-cards h2{color:var(--vermilion, #7a1f1f);margin:.2rem 0 .7rem;font-size:1.15rem}
+.cipher-cards h2.section-head{margin-top:2.6rem;border-bottom:1px solid var(--gilt-deep, #c9b896);padding-bottom:.4rem}
+.cipher-cards .section-note{color:var(--ink-muted, #4a3f34);font-size:.9rem;line-height:1.5;margin:.6rem 0 .2rem}
+.cipher-cards .pg{color:var(--ink-muted, #5a4f44);font-size:.82rem;font-weight:normal}
+.cipher-cards .pct{float:right;font-size:.85rem;padding:.1rem .5rem;border-radius:10px}
+.cipher-cards .pct.ok{background:#bfe3c0;color:#26542c} .cipher-cards .pct.mid{background:#f0dcb0;color:#7a5a1f}
+.cipher-cards .crop img{width:100%;border:1px solid var(--gilt-deep, #c9b896);border-radius:4px;background:#fff;margin:.2rem 0 .7rem}
+.cipher-cards .row{margin:.4rem 0;font-size:.92rem} .cipher-cards .lbl{color:var(--ink-muted, #6a5f54);font-size:.8rem;display:block}
+.cipher-cards code{font-family:Consolas,monospace;font-size:1rem;letter-spacing:.14em;word-break:break-all}
+.cipher-cards .ger{font-style:italic;color:var(--ink, #3a342e)}
+.cipher-cards .eng{color:#26542c;font-weight:500}
+.cipher-cards .ciph{color:var(--ink-muted, #5a4f44)}
+.cipher-cards .dec .ok{background:#bfe3c0;color:#1f4a26} .cipher-cards .dec .bad{color:#9a3030}
+.cipher-cards .gercode{color:var(--ink-faded, #8a7a5a)}
+.cipher-cards .source-row{margin-top:.7rem;padding-top:.5rem;border-top:1px dashed var(--gilt-deep, #d8c8a8)}
+.cipher-cards .source-row .src{color:var(--gilt-bright, #9a7b30);text-decoration:none;font-weight:500;font-size:.86rem}
+.cipher-cards .source-row .src:hover{text-decoration:underline}
+.cipher-cards .foot{margin-top:2rem;padding-top:1rem;border-top:1px solid var(--gilt-deep, #c9b896);color:var(--ink-muted, #5a4f44);font-size:.86rem;line-height:1.5}
+.cipher-cards .intro{color:var(--ink, #4a3f34);font-size:.95rem;line-height:1.5}
+.cipher-cards .intro code{background:var(--gilt-deep, #e8dcc0);padding:.05rem .3rem;border-radius:3px}
+</style>
+<h1>Johannes Trithemius &mdash; <i>Clavis Generalis Triplex</i>: the ciphers, solved</h1>
+<p class="intro">For four centuries the <i>Steganographia</i> ciphers were read as demonic conjuration.
+They are not. Each <i>modus</i> is a plain <b>explicit-alphabet substitution</b> on a 24-letter
+alphabet <code>a b c d e f g h i k l m n o p q r s t v x y z w</code> (no <i>j</i>, <i>u</i>=<i>v</i>,
+<i>w</i> last): the book prints each modus's <i>Alphabetum</i>, and the <i>Literae significantes</i>
+decode, letter for letter, through that alphabet's inverse into a plain German <i>Intentio</i>.
+Below, eleven worked examples spanning the full range of <i>modi</i> present in the facsimile &mdash;
+the simple modi (II&ndash;XI) and the high modi (XXXII&ndash;XXXIX) &mdash; decode back into the
+ordinary German the book itself states as the message.</p>
+<div class="cipher-cards">
+
+<section class="card">
+  <h2>Modus II <span class="pg">— Clavis facsimile p.251</span>
+      <span class="pct ok">62% recovered</span></h2>
+  <div class="crop"><img src="static/images/cipher-crops/modus_02_p251.webp" alt="facsimile p251"></div>
+  <div class="row"><span class="lbl">Intentio (German plaintext):</span>
+      <span class="ger">Ich bittedich komm von stund an zu mir es thut sehr noth</span></div>
+  <div class="row"><span class="lbl">English (translation):</span>
+      <span class="eng">I beg you, come to me at once, it is very urgent.</span></div>
+  <div class="row"><span class="lbl">Literae significantes (cipher, Opus-vision):</span>
+      <code class="ciph">gafzgbcpgafhmksmlqrsibxlvsskgrgqbseqetpmgr</code></div>
+  <div class="row"><span class="lbl">Decode (explicit-alphabet substitution, Opus alphabet):</span>
+      <code class="dec"><span class="ok">ichbi</span><span class="ok">d</span><span class="bad">er</span><span class="ok">ichkom</span><span class="ok">vons</span><span class="bad">p</span><span class="ok">v</span><span class="bad">l</span><span class="ok">d</span><span class="bad">x</span><span class="ok">n</span><span class="bad">vv</span><span class="ok">vmi</span><span class="bad">pi</span><span class="ok">s</span><span class="bad">d</span><span class="ok">v</span><span class="bad">g</span><span class="ok">s</span><span class="bad">gx</span><span class="ok">r</span><span class="ok">o</span><span class="bad">ip</span></code></div>
+  <div class="row"><span class="lbl">target letters:</span>
+      <code class="gercode">ichbittedichkommvonstvndanzvmiresthvtsehrnoth</code></div>
+  <div class="row source-row"><span class="lbl">In this corpus:</span><a class="src" href="works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_parallel.html">Clavis Generalis Triplex &mdash; Latin&thinsp;/&thinsp;English viewer (facsimile p.251)</a></div>
+</section>
+<section class="card">
+  <h2>Modus V <span class="pg">— Clavis facsimile p.254</span>
+      <span class="pct ok">65% recovered</span></h2>
+  <div class="crop"><img src="static/images/cipher-crops/modus_05_p254.webp" alt="facsimile p254"></div>
+  <div class="row"><span class="lbl">Intentio (German plaintext):</span>
+      <span class="ger">Der Pfarrherz von Bing ist vmb eins verschieden lug nach der Psar</span></div>
+  <div class="row"><span class="lbl">English (translation):</span>
+      <span class="eng">The parish priest of Bingen is short by one; look to the parish.</span></div>
+  <div class="row"><span class="lbl">Literae significantes (cipher, Opus-vision):</span>
+      <code class="ciph">zanldaniaqkiveiceopdeipqhvaeioqanoxdaezaigqeritxdzanldtnnai</code></div>
+  <div class="row"><span class="lbl">Decode (explicit-alphabet substitution, Opus alphabet):</span>
+      <code class="dec"><span class="ok">derp</span><span class="ok">her</span><span class="bad">neqk</span><span class="ok">nbingist</span><span class="bad">hintq</span><span class="ok">mbeins</span><span class="bad">q</span><span class="ok">ers</span><span class="bad">o</span><span class="ok">h</span><span class="ok">e</span><span class="bad">i</span><span class="ok">denl</span><span class="bad">qix</span><span class="ok">n</span><span class="bad">to</span><span class="ok">hderp</span><span class="bad">ht</span><span class="ok">r</span><span class="bad">ren</span></code></div>
+  <div class="row"><span class="lbl">target letters:</span>
+      <code class="gercode">derpfarrherzvonbingistvmbeinsverschiedenlvgnachderpsar</code></div>
+  <div class="row source-row"><span class="lbl">In this corpus:</span><a class="src" href="works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_parallel.html">Clavis Generalis Triplex &mdash; Latin&thinsp;/&thinsp;English viewer (facsimile p.254)</a></div>
+</section>
+<section class="card">
+  <h2>Modus VI <span class="pg">— Clavis facsimile p.255</span>
+      <span class="pct ok">62% recovered</span></h2>
+  <div class="crop"><img src="static/images/cipher-crops/modus_06_p255.webp" alt="facsimile p255"></div>
+  <div class="row"><span class="lbl">Intentio (German plaintext):</span>
+      <span class="ger">Morgen umb sey gerust vund wart meiner am Kreuz</span></div>
+  <div class="row"><span class="lbl">English (translation):</span>
+      <span class="eng">Tomorrow morning be ready and wait for me at the cross.</span></div>
+  <div class="row"><span class="lbl">Literae significantes (cipher, Opus-vision):</span>
+      <code class="ciph">gimhpgtnzthndbzmpnophxppsmvgdhsgvmporhexem</code></div>
+  <div class="row"><span class="lbl">Decode (explicit-alphabet substitution, Opus alphabet):</span>
+      <code class="dec"><span class="ok">mor</span><span class="ok">nvmbse</span><span class="bad">bnsi</span><span class="ok">gervstv</span><span class="ok">nd</span><span class="bad">vvs</span><span class="ok">r</span><span class="bad">c</span><span class="ok">m</span><span class="ok">in</span><span class="bad">s</span><span class="ok">m</span><span class="bad">crvtznkd</span><span class="ok">kr</span></code></div>
+  <div class="row"><span class="lbl">target letters:</span>
+      <code class="gercode">morgenvmbseygervstvvndwartmeineramkrevz</code></div>
+  <div class="row source-row"><span class="lbl">In this corpus:</span><a class="src" href="works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_parallel.html">Clavis Generalis Triplex &mdash; Latin&thinsp;/&thinsp;English viewer (facsimile p.255)</a></div>
+</section>
+<section class="card">
+  <h2>Modus X <span class="pg">— Clavis facsimile p.261</span>
+      <span class="pct ok">75% recovered</span></h2>
+  <div class="crop"><img src="static/images/cipher-crops/modus_10_p261.webp" alt="facsimile p261"></div>
+  <div class="row"><span class="lbl">Intentio (German plaintext):</span>
+      <span class="ger">Die Sachsen versamblen ein gros Volck vt weiss ich offen es gehe sie dich fur</span></div>
+  <div class="row"><span class="lbl">English (translation):</span>
+      <span class="eng">The Saxons are gathering a great host; I do not yet know whether they will come against you.</span></div>
+  <div class="row"><span class="lbl">Literae significantes (cipher, Opus-vision):</span>
+      <code class="ciph">rzsiomisdlshiocsbsdszdvhezilabqadzkllszizqxvtllsdzivsxisxsrzqxtvh</code></div>
+  <div class="row"><span class="lbl">Decode (explicit-alphabet substitution, Opus alphabet):</span>
+      <code class="dec"><span class="ok">diesa</span><span class="bad">x</span><span class="ok">sen</span><span class="bad">l</span><span class="ok">ersam</span><span class="bad">e</span><span class="ok">leneingro</span><span class="bad">i</span><span class="ok">s</span><span class="bad">lk</span><span class="ok">lck</span><span class="bad">ni</span><span class="ok">t</span><span class="bad">ll</span><span class="ok">ei</span><span class="ok">sich</span><span class="bad">g</span><span class="ok">f</span><span class="bad">ll</span><span class="ok">en</span><span class="bad">i</span><span class="ok">sgeh</span><span class="ok">s</span><span class="bad">eh</span><span class="ok">edichf</span><span class="bad">g</span><span class="ok">r</span></code></div>
+  <div class="row"><span class="lbl">target letters:</span>
+      <code class="gercode">diesachsenversambleneingrosvolckvtweissichoffenesgehesiedichfvr</code></div>
+  <div class="row source-row"><span class="lbl">In this corpus:</span><a class="src" href="works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_parallel.html">Clavis Generalis Triplex &mdash; Latin&thinsp;/&thinsp;English viewer (facsimile p.261)</a></div>
+</section>
+<section class="card">
+  <h2>Modus XI <span class="pg">— Clavis facsimile p.263</span>
+      <span class="pct ok">77% recovered</span></h2>
+  <div class="crop"><img src="static/images/cipher-crops/modus_11_p263.webp" alt="facsimile p263"></div>
+  <div class="row"><span class="lbl">Intentio (German plaintext):</span>
+      <span class="ger">Diese Bucher behalten die heimlich</span></div>
+  <div class="row"><span class="lbl">English (translation):</span>
+      <span class="eng">Keep these books secret.</span></div>
+  <div class="row"><span class="lbl">Literae significantes (cipher, Opus-vision):</span>
+      <code class="ciph">qrhrokpvrgorvnaioxqgxvrxbaxpvv</code></div>
+  <div class="row"><span class="lbl">Decode (explicit-alphabet substitution, Opus alphabet):</span>
+      <code class="dec"><span class="ok">d</span><span class="ok">eseb</span><span class="bad">t</span><span class="ok">cherbehal</span><span class="ok">i</span><span class="bad">bidri</span><span class="ok">heimlich</span><span class="bad">h</span></code></div>
+  <div class="row"><span class="lbl">target letters:</span>
+      <code class="gercode">diesebvcherbehaltendieheimlich</code></div>
+  <div class="row source-row"><span class="lbl">In this corpus:</span><a class="src" href="works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_parallel.html">Clavis Generalis Triplex &mdash; Latin&thinsp;/&thinsp;English viewer (facsimile p.263)</a></div>
+</section><h2 class="section-head">The high modi (XXXII–XXXIX) — table-inversion</h2><p class="section-note">These cipher lines were transcribed by vision OCR and decoded by explicit-alphabet inversion, the same mechanism as the simple modi. One line — <b>Modus XXXV (p.241)</b> — defeated the OCR (dense, isolated Fraktur letters that every model read as the alphabet table or adjacent prose) and was recovered by <b>human eye-reading</b> of a zoomed facsimile crop against a Fraktur reference key. The "alternating words / null rhythm" in each rule describes how the cipher stream was <i>built</i> from the cover letter; once transcribed, decoding is pure table inversion.</p>
+<section class="card high">
+  <h2>Modus XXXII <span class="pg">— Clavis facsimile p.237</span>
+      <span class="pct ok">78% recovered</span></h2>
+  <div class="crop"><img src="static/images/cipher-crops/high_modus_p237.webp" alt="facsimile p237"></div>
+  <div class="row"><span class="lbl">Alphabetum (printed key):</span>
+      <code class="ciph">Ao bp cq dr es ft gu hx iz ka lb mc nd oe pf qg rh si tk ul xm zn</code></div>
+  <div class="row"><span class="lbl">Intentio (German plaintext):</span>
+      <span class="ger">Noch hewt vmb 9 Vhr weis du mich an dem Wald horest pfeiffen mit einem Schlussel So kom herab zu mir</span></div>
+  <div class="row"><span class="lbl">English (translation):</span>
+      <span class="eng">Even today, about the ninth hour: if you hear me whistling in the woods with a key, then come down to me.</span></div>
+  <div class="row"><span class="lbl">Literae significantes (cipher):</span>
+      <code class="ciph">deqxfzdklcplxhlldrlczqxodrfcllobrxehfikftfzttfdczkfzdfciqxbliifbieaecxfhopnlczb</code></div>
+  <div class="row"><span class="lbl">Decode (table-inversion):</span>
+      <code class="dec"><span class="ok">noch</span><span class="bad">pin</span><span class="ok">tvmbvhr</span><span class="bad">vvn</span><span class="ok">dvmichand</span><span class="bad">p</span><span class="ok">m</span><span class="bad">vv</span><span class="ok">aldhor</span><span class="bad">p</span><span class="ok">stpf</span><span class="bad">p</span><span class="ok">iff</span><span class="bad">p</span><span class="ok">nmit</span><span class="bad">p</span><span class="ok">in</span><span class="bad">p</span><span class="ok">mschlvss</span><span class="bad">p</span><span class="ok">lsokomh</span><span class="bad">p</span><span class="ok">rabzvmi</span><span class="bad">l</span></code></div>
+  <div class="row"><span class="lbl">target letters:</span>
+      <code class="gercode">nochhewtvmbvhrweisdvmichandemwaldhorestpfeiffenmiteinemschlvsselsokomherabzvmir</code></div>
+  <div class="row source-row"><span class="lbl">In this corpus:</span><a class="src" href="works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_parallel.html">Clavis Generalis Triplex &mdash; Latin&thinsp;/&thinsp;English viewer (facsimile p.237)</a></div>
+</section>
+<section class="card high">
+  <h2>Modus XXXIII <span class="pg">— Clavis facsimile p.238</span>
+      <span class="pct ok">89% recovered</span></h2>
+  <div class="crop"><img src="static/images/cipher-crops/high_modus_p238.webp" alt="facsimile p238"></div>
+  <div class="row"><span class="lbl">Alphabetum (printed key):</span>
+      <code class="ciph">Ap bq cr ds et fu gx hz ia kb lc md ne of pg qh ri sk tl um xn zo</code></div>
+  <div class="row"><span class="lbl">Intentio (German plaintext):</span>
+      <span class="ger">Er ist noch new versuch ihn vor gantz wol ehe denn ihm viel vertraut Er trinket auch gern Wein vnnd ist wunderlich</span></div>
+  <div class="row"><span class="lbl">English (translation):</span>
+      <span class="eng">He is still new; test him thoroughly before you trust him much. He also likes to drink wine, and is eccentric.</span></div>
+  <div class="row"><span class="lbl">Literae significantes (cipher):</span>
+      <code class="ciph">tcaklefrzetmmmtekmrzazemfixpelommfctztsteazdmatcmtilipmltiliaerblpmrzxtiemmtaemesaklmmmesticarz</code></div>
+  <div class="row"><span class="lbl">Decode (table-inversion):</span>
+      <code class="dec"><span class="ok">e</span><span class="bad">l</span><span class="ok">istnochne</span><span class="bad">vv</span><span class="ok">ve</span><span class="bad">n</span><span class="ok">svchihnvorgantz</span><span class="bad">vv</span><span class="ok">olehede</span><span class="ok">nihmvielvertravtertrin</span><span class="bad">c</span><span class="ok">k</span><span class="ok">tavchgern</span><span class="bad">vv</span><span class="ok">einvn</span><span class="ok">dist</span><span class="bad">vv</span><span class="ok">vnderlich</span></code></div>
+  <div class="row"><span class="lbl">target letters:</span>
+      <code class="gercode">eristnochnewversvchihnvorgantzwolehedennihmvielvertravtertrinketavchgernweinvnndistwvnderlich</code></div>
+  <div class="row source-row"><span class="lbl">In this corpus:</span><a class="src" href="works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_parallel.html">Clavis Generalis Triplex &mdash; Latin&thinsp;/&thinsp;English viewer (facsimile p.238)</a></div>
+</section>
+<section class="card high">
+  <h2>Modus XXXV <span class="pg">— Clavis facsimile p.241</span>
+      <span class="pct ok">87% recovered</span></h2>
+  <div class="crop"><img src="static/images/cipher-crops/high_modus_p241.webp" alt="facsimile p241"></div>
+  <div class="row"><span class="lbl">Alphabetum (printed key):</span>
+      <code class="ciph">Ar bs ct du ex fz ga hb ic kd le mf ng oh pi qk rl sm tn uo xp zq</code></div>
+  <div class="row"><span class="lbl">Intentio (German plaintext):</span>
+      <span class="ger">Der Abt von S Johannes Berg helt Communia mit den Bawren bleibt nicht viel in dem Kloster vnd fehret auch im Narrenschiff</span></div>
+  <div class="row"><span class="lbl">English (translation):</span>
+      <span class="eng">The Abbot of St. John&#x27;s Mount holds communions with the peasants, does not stay much in the monastery, and also sails in the Ship of Fools.</span></div>
+  <div class="row"><span class="lbl">Literae significantes (cipher<br>transcribed by eye — OCR-defeating Fraktur):</span>
+      <code class="ciph">vxlrinohgmcbbrgmsxlabxenthffogcrfcnxxgsrolxgsexcsngctbnocxecftehmnxlogxzxblxxrotbxfgrrxgmtbcz</code></div>
+  <div class="row"><span class="lbl">Decode (table-inversion):</span>
+      <code class="dec"><span class="ok">dera</span><span class="bad">p</span><span class="ok">tvonsi</span><span class="bad">h</span><span class="ok">han</span><span class="ok">sbergheltcommvniamit</span><span class="bad">e</span><span class="ok">enba</span><span class="bad">v</span><span class="ok">renbleibtnichtvieli</span><span class="ok">m</span><span class="bad">c</span><span class="ok">lostervn</span><span class="bad">e</span><span class="ok">fehre</span><span class="bad">e</span><span class="ok">avch</span><span class="bad">e</span><span class="ok">mna</span><span class="bad">a</span><span class="ok">enschif</span></code></div>
+  <div class="row"><span class="lbl">target letters:</span>
+      <code class="gercode">derabtvonsiohannesbergheltcommvniamitdenbawrenbleibtnichtvielindemklostervndfehretavchimnarrenschiff</code></div>
+  <div class="row source-row"><span class="lbl">In this corpus:</span><a class="src" href="works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_parallel.html">Clavis Generalis Triplex &mdash; Latin&thinsp;/&thinsp;English viewer (facsimile p.241)</a></div>
+</section>
+<section class="card high">
+  <h2>Modus XXXVII <span class="pg">— Clavis facsimile p.243</span>
+      <span class="pct ok">92% recovered</span></h2>
+  <div class="crop"><img src="static/images/cipher-crops/high_modus_p243.webp" alt="facsimile p243"></div>
+  <div class="row"><span class="lbl">Alphabetum (printed key):</span>
+      <code class="ciph">At bu cx dz ea fb gc hd ie kf lg mh ni ok pl qm rn so tp uq xr zs</code></div>
+  <div class="row"><span class="lbl">Intentio (German plaintext):</span>
+      <span class="ger">Jacob Seum hat nun gesprochen er woll dich erstechen so bald er dich mog ankomen hut dich vor ihm</span></div>
+  <div class="row"><span class="lbl">English (translation):</span>
+      <span class="eng">Jacob Seum has now said that he will stab you as soon as he can reach you; beware of him.</span></div>
+  <div class="row"><span class="lbl">Literae significantes (cipher):</span>
+      <code class="ciph">etxkvoaqhdtpiqickolnkxdaianqqegzexdanopaxdaiokvtgzanzexdhkactifkhhaidqpzexdbkneh</code></div>
+  <div class="row"><span class="lbl">Decode (table-inversion):</span>
+      <code class="dec"><span class="ok">iacobsevmhatnvng</span><span class="bad">o</span><span class="ok">sprochener</span><span class="bad">vvi</span><span class="ok">ldicherstechensobalderdichmo</span><span class="bad">e</span><span class="ok">ganko</span><span class="bad">m</span><span class="ok">menhvtdich</span><span class="bad">f</span><span class="ok">ori</span><span class="ok">m</span></code></div>
+  <div class="row"><span class="lbl">target letters:</span>
+      <code class="gercode">iacobsevmhatnvngesprochenerwolldicherstechensobalderdichmogankomenhvtdichvorihm</code></div>
+  <div class="row source-row"><span class="lbl">In this corpus:</span><a class="src" href="works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_parallel.html">Clavis Generalis Triplex &mdash; Latin&thinsp;/&thinsp;English viewer (facsimile p.243)</a></div>
+</section>
+<section class="card high">
+  <h2>Modus XXXVIII <span class="pg">— Clavis facsimile p.244</span>
+      <span class="pct ok">86% recovered</span></h2>
+  <div class="crop"><img src="static/images/cipher-crops/high_modus_p244.webp" alt="facsimile p244"></div>
+  <div class="row"><span class="lbl">Alphabetum (printed key):</span>
+      <code class="ciph">Au bx cz da eb fc gd he if kg lh mi nk ol pm qn ro sp tq vr xs zt</code></div>
+  <div class="row"><span class="lbl">Intentio (German plaintext):</span>
+      <span class="ger">Wisse das Hans Schwerd viel vbel von dir red in deinem Abwesen vnd nimpt sich doch an fur dir als sey er dein fast guter Freund</span></div>
+  <div class="row"><span class="lbl">English (translation):</span>
+      <span class="eng">Know that Hans Schwerd speaks much ill of you in your absence, and yet poses before you as if he were your very good friend.</span></div>
+  <div class="row"><span class="lbl">Literae significantes (cipher):</span>
+      <code class="ciph">rrfpbavpenkopzerrboqrfbhrxbhrlkafoobafkabfkbivxaabpbkrkakfimqpfzealzevkeroafonhppbfboabfkcnpqdrabooobrka</code></div>
+  <div class="row"><span class="lbl">Decode (table-inversion):</span>
+      <code class="dec"><span class="bad">vv</span><span class="ok">i</span><span class="ok">sedash</span><span class="bad">q</span><span class="ok">n</span><span class="bad">r</span><span class="ok">sch</span><span class="bad">vv</span><span class="ok">er</span><span class="bad">t</span><span class="ok">vielvbelvondirredindeinemab</span><span class="bad">dd</span><span class="ok">esenvndnimptsichdochan</span><span class="bad">h</span><span class="ok">vrdir</span><span class="bad">q</span><span class="ok">lsse</span><span class="bad">i</span><span class="ok">erdeinf</span><span class="bad">q</span><span class="ok">stgv</span><span class="bad">d</span><span class="ok">er</span><span class="bad">r</span><span class="ok">revnd</span></code></div>
+  <div class="row"><span class="lbl">target letters:</span>
+      <code class="gercode">wissedashansschwerdvielvbelvondirredindeinemabwesenvndnimptsichdochanfvrdiralsseyerdeinfastgvterfrevnd</code></div>
+  <div class="row source-row"><span class="lbl">In this corpus:</span><a class="src" href="works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_parallel.html">Clavis Generalis Triplex &mdash; Latin&thinsp;/&thinsp;English viewer (facsimile p.244)</a></div>
+</section>
+<section class="card high">
+  <h2>Modus XXXIX <span class="pg">— Clavis facsimile p.245</span>
+      <span class="pct ok">70% recovered</span></h2>
+  <div class="crop"><img src="static/images/cipher-crops/high_modus_p245.webp" alt="facsimile p245"></div>
+  <div class="row"><span class="lbl">Alphabetum (printed key):</span>
+      <code class="ciph">Ax bz ca db ec fd ge hf ig kh li mk nl om pn qo rp sq tr vs xt zu</code></div>
+  <div class="row"><span class="lbl">Intentio (German plaintext):</span>
+      <span class="ger">Dir wird geschrieben herzu kommen ist mein rath du thust nicht Wann der Anschlag ist dich zuvertrencken oder in ewige Gefangnuss zu setzen hut dich</span></div>
+  <div class="row"><span class="lbl">English (translation):</span>
+      <span class="eng">It is written to you: to come here is my advice — do not do it. For the plan is to drive you out, or to cast you into perpetual imprisonment; take care.</span></div>
+  <div class="row"><span class="lbl">Literae significantes (cipher):</span>
+      <code class="ciph">bgpsgprecgafpezlfapzfhmkkelgqrkglpxrbsbcqqlglgesxlbepxlqafixegqrbgafvssepbpclabclmbepglcssgeeodclelgqvsqerclfscbbgaf</code></div>
+  <div class="row"><span class="lbl">Decode (table-inversion):</span>
+      <code class="dec"><span class="ok">dir</span><span class="bad">v</span><span class="ok">ir</span><span class="bad">t</span><span class="ok">ge</span><span class="bad">i</span><span class="ok">chr</span><span class="bad">g</span><span class="ok">b</span><span class="ok">nh</span><span class="bad">c</span><span class="ok">r</span><span class="bad">bh</span><span class="ok">komm</span><span class="bad">g</span><span class="ok">nistm</span><span class="ok">inrat</span><span class="ok">dv</span><span class="ok">de</span><span class="bad">ssninigvandg</span><span class="ok">ranschlagistdichzvv</span><span class="bad">g</span><span class="ok">r</span><span class="bad">d</span><span class="ok">renc</span><span class="bad">d</span><span class="ok">enod</span><span class="bad">g</span><span class="ok">rine</span><span class="bad">vv</span><span class="ok">ig</span><span class="ok">g</span><span class="bad">q</span><span class="ok">f</span><span class="bad">e</span><span class="ok">ngn</span><span class="bad">i</span><span class="ok">szvs</span><span class="bad">g</span><span class="ok">t</span><span class="ok">enhv</span><span class="bad">ed</span><span class="ok">dich</span></code></div>
+  <div class="row"><span class="lbl">target letters:</span>
+      <code class="gercode">dirwirdgeschriebenherzvkommenistmeinrathdvthvstnichtwannderanschlagistdichzvvertrenckenoderinewigegefangnvsszvsetzenhvtdich</code></div>
+  <div class="row source-row"><span class="lbl">In this corpus:</span><a class="src" href="works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_parallel.html">Clavis Generalis Triplex &mdash; Latin&thinsp;/&thinsp;English viewer (facsimile p.245)</a></div>
+</section>
+</div>
+<div class="foot">
+<b>Honest scope.</b> The decode is letter-for-letter through each modus's printed alphabet; the
+German is <i>recovered and recognisable</i> (match 62&ndash;77% on the simple modi, 70&ndash;92% on
+the high modi). The residual gap is <b>not</b> the cipher but transcription of the isolated-letter
+cipher streams &mdash; tiny, period-separating Fraktur letters in 1608 print that sit at the ceiling
+of vision OCR. One cipher line &mdash; <b>Modus XXXV (p.241)</b> &mdash; defeated the OCR and was
+recovered by <b>human eye-reading</b> of a zoomed facsimile crop against a Fraktur reference key,
+the one step a machine could not do; the rest were transcribed by vision OCR. The
+high modi's "alternating words / null rhythm" rule-language describes how each cipher stream was
+<i>constructed</i> from its cover letter; once the Literae significantes line is transcribed,
+decoding is pure table inversion, identical to the simple modi.
+</div>
+<div class="foot" style="margin-top:1.6rem;border-top:1px solid var(--cs-border, #c9b896);padding-top:.8rem;font-size:.85rem;color:var(--cs-muted, #5a4a30)">
+<p>The cipher lines decoded here are from the <b>1608 Frankfurt <i>Clavis Generalis Triplex</i></b>
+(Balthasar Hofmann, for Johann Berner) &mdash; Trithemius's own key to the <i>Steganographia</i>.
+The <i>Steganographia</i> itself was composed around 1499, first printed in 1606 (Frankfurt),
+and placed on the Index in 1609; the corpus's <i>Steganographia</i> witness is the 1621
+Darmstadt edition (Hofmann, printing under the Latinized name <i>Aulaeander</i>, again for
+Berner). For the foundational cryptanalysis &mdash; the independent solutions of Book III &mdash;
+see Thomas Ernst, <i>Daphnis</i> 25:1 (1996), and Jim Reeds, <i>Cryptologia</i> 22:4 (1998).
+The decryption shown here applies the mechanism those authors established to the facsimile
+of the 1608 <i>Clavis</i>; the cipher lines are transcribed by vision OCR (with the single
+exception of Modus XXXV, p.241, which was eye-read), but the substitution-inversion method itself
+is not a new cryptanalytic result.</p>
+</div>
+</article>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-cols">
+      <div>
+        <h4>Browse</h4>
+        <a href="works.html">The works</a>
+        <a href="works-trithemius-4b.html">Trithemius 4B editions</a>
+        <a href="ciphers.html">The ciphers</a>
+        <a href="scoreboard.html">Quality tiers</a>
+      </div>
+      <div>
+        <h4>About</h4>
+        <a href="methodology.html">Methodology &amp; limitations</a>
+        <a href="LICENSE.html">License &amp; rights</a>
+      </div>
+      <div>
+        <h4>Project</h4>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus">Source on GitHub</a>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/blob/main/CONTRIBUTING.md">Contribute corrections</a>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/blob/main/CITATION.cff">How to cite</a>
+      </div>
+    </div>
+    <p class="footer-byline muted">
+      Machine-assisted English translations of the Latin works of Johannes Trithemius (1462&ndash;1516).
+      Every translation is machine-produced and independently audited; for scholarly quotation, check the Latin.
+      Translations &amp; generated data: public domain (CC0). Methodology, docs &amp; code: CC BY 4.0. Compiled 2026 by Ian Carlos Fabin.
+    </p>
+  </div>
+</footer>
+<script>
+  // Mobile nav toggle — collapses the site-nav into a hamburger menu on
+  // narrow viewports. ARIA-expanded reflects state; clicking a link or
+  // outside closes it.
+  (function () {
+    var toggle = document.querySelector('.nav-toggle');
+    var nav = document.getElementById('siteNav');
+    if (!toggle || !nav) return;
+    function setOpen(open) {
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+      nav.classList.toggle('is-open', open);
+    }
+    toggle.addEventListener('click', function () {
+      setOpen(toggle.getAttribute('aria-expanded') !== 'true');
+    });
+    // close on link click (mobile) and on Escape
+    nav.addEventListener('click', function (e) { if (e.target.tagName === 'A') setOpen(false); });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && toggle.getAttribute('aria-expanded') === 'true') setOpen(false);
+    });
+    // reset on resize back to desktop
+    window.addEventListener('resize', function () {
+      if (window.innerWidth > 760) setOpen(false);
+    });
+  })();
+
+  // Theme switcher — persists choice in localStorage under 'tc-theme'.
+  // Theme switcher — steganographia (default dark), parchment (light), ink
+  // (high-contrast), candlelight (warm dark), and auto (follow OS preference).
+  (function () {
+    var root = document.documentElement;
+    function resolveAuto() {
+      try {
+        return window.matchMedia &&
+               window.matchMedia('(prefers-color-scheme: light)').matches
+               ? 'parchment' : 'steganographia';
+      } catch (e) { return 'steganographia'; }
+    }
+    function applyTheme(t) {
+      // track the chosen theme (incl. auto) on data-tc-theme; paint the
+      // concrete theme on data-theme.
+      if (t === 'auto') {
+        root.setAttribute('data-tc-theme', 'auto');
+        var r = resolveAuto();
+        if (r === 'steganographia') root.removeAttribute('data-theme');
+        else root.setAttribute('data-theme', r);
+      } else {
+        root.removeAttribute('data-tc-theme');
+        if (t === 'steganographia') root.removeAttribute('data-theme');
+        else root.setAttribute('data-theme', t);
+      }
+    }
+    var current = 'steganographia';
+    try { current = localStorage.getItem('tc-theme') || 'steganographia'; } catch (e) {}
+    applyTheme(current);
+    // if OS preference changes while 'auto' is selected, re-resolve live
+    try {
+      window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', function () {
+        if ((localStorage.getItem('tc-theme') || '') === 'auto') applyTheme('auto');
+      });
+    } catch (e) {}
+    document.querySelectorAll('.theme-switcher button[data-set]').forEach(function (btn) {
+      var pressed = btn.getAttribute('data-set') === current;
+      btn.setAttribute('aria-pressed', pressed ? 'true' : 'false');
+      btn.addEventListener('click', function () {
+        var t = btn.getAttribute('data-set');
+        try { localStorage.setItem('tc-theme', t); } catch (e) {}
+        applyTheme(t);
+        document.querySelectorAll('.theme-switcher button[data-set]').forEach(function (b) {
+          b.setAttribute('aria-pressed', b.getAttribute('data-set') === t ? 'true' : 'false');
+        });
+      });
+    });
+  })();
+  // Reading progress bar (overall page scroll) + percentage indicator
+  (function(){
+    var bar=document.getElementById('readProgress');
+    var pct=document.getElementById('readProgressPct');
+    if(!bar)return;
+    var ticking=false;
+    function onScroll(){
+      if(ticking)return; ticking=true;
+      requestAnimationFrame(function(){
+        var h=document.documentElement.scrollHeight-window.innerHeight;
+        var p=h>0?Math.min(1,window.scrollY/h):0;
+        bar.style.transform='scaleX('+p.toFixed(3)+')';
+        bar.classList.toggle('is-active', p>0.02);
+        if(pct){
+          var n=Math.round(p*100);
+          pct.textContent=n<1?'':n+'%';
+          pct.setAttribute('aria-hidden', (n<3).toString());
+        }
+        ticking=false;
+      });
+    }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    onScroll();
+  })();
+  // Random work button — uses the work-ID list baked in at build time (no
+  // fetch() needed, so it works on file://, HTTP, and GitHub Pages).
+  (function(){
+    var btn=document.getElementById('randomWorkBtn');
+    if(!btn)return;
+    var workIds=window.TC_WORK_IDS||[];
+    btn.addEventListener('click',function(e){
+      e.preventDefault();
+      if(!workIds.length){
+        // graceful fallback: go to the works listing
+        window.location.href=btn.href;
+        return;
+      }
+      var pick=workIds[Math.floor(Math.random()*workIds.length)];
+      // resolve relative to this page (works/<id>.html)
+      var base=btn.href.replace(/works\.html.*$/,'');
+      window.location.href=base+'works/'+pick+'.html';
+    });
+  })();
+  // Cipher substitution tables: tag each .table-scroll that overflows
+  // horizontally so the CSS right-edge scroll affordance (the ::after fade)
+  // only appears when there is actually more to scroll sideways.
+  (function () {
+    function tagScroll() {
+      document.querySelectorAll('.table-scroll').forEach(function (ts) {
+        if (ts.scrollWidth > ts.clientWidth + 2) ts.classList.add('scrollable-x');
+        else ts.classList.remove('scrollable-x');
+      });
+    }
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(tagScroll);
+    window.addEventListener('load', tagScroll);
+    var t; window.addEventListener('resize', function () { clearTimeout(t); t = setTimeout(tagScroll, 150); });
+  })();
+</script>
+</body>
+</html>

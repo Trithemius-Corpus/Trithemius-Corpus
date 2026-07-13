@@ -1,0 +1,1 @@
+<!-- removed: OCR double-scan duplicate; partial-overlap pair resolved eyes-on — segment 644 is the fuller capture (adds the Missurus capellanum letter opening); 635 is the partial scan; the translation is retained at chunk 0644 -->

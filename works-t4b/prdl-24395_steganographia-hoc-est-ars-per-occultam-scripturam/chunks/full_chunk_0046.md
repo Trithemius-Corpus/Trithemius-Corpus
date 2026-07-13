@@ -1,0 +1,25 @@
+--- Page 092 ---
+
+*Steganography.*
+
+...of our Steganography, about which we have spoken in this first book of ours, assigning to each one the character proper to him, and also adding below the number and order of the princes, dukes, counts, servants, and subordinate attendants in their proper ranks, so that no one who wishes to study this art may fall into error because of the diversity of the operations.
+
+The great mysteries of this art can indeed be penetrated only by the most studious men: namely, those whom love of secrets and nature itself move to perseverance, and who, in their desire to attain knowledge, refuse no honorable and possible labor. But men who are sluggish and dull in intellect, and whom neither love kindles toward the study of the secrets of wisdom nor nature assists, when they have been unable to understand this most secret art of our invention, should understand that this is not to be imputed to us, but rather ascribed to their own dullness, laziness, and malice. For either, having their understanding immersed in the pleasures of the flesh and worldly cares, they cannot devote themselves diligently to examining these things, or, already considering themselves wise or most learned, they despise our compositions as unworthy of their reading. There will also be some so accustomed to rely on old and other men's traditions that whatever they do not find in them they judge either impossible or superstitious. Nothing is more unfit for knowledge of this profound art than such men, who either will not or cannot contemplate its highest matters.
+
+But those who are both apt and willing to study this art, if any such there are to be, we have resolved to admonish briefly at the end of this book, so that they may be able to make progress. First, they must be admonished always to keep the art itself hidden, lest it come into the hands and knowledge of the wicked, who would commit many detestable crimes by means of it. For even if the art itself is truly good in itself, nevertheless its practice would conduce no less to evil through the impious than to good through the good. Let that therefore remain a secret among the good which, if made public among the bad, would do harm. Yet good men should not on that account despise this knowledge because it serves bad men for evil, just as one does not despise the sword because it strikes down a man.
+
+Next, students of this art must be admonished not to presume to proceed to operate in it unless they have first been perfectly instructed in everything that is required for practical knowledge.
+
+--- Page 093 ---
+
+*Book One.*
+
+For I am not unaware to what great dangers they expose the matter who, being insufficiently skilled in it, have ever attempted to perform anything.
+
+Likewise, whoever is well instructed in this knowledge and wishes to operate through it should remember diligently to observe, according to what we have said both in the circle and in the individual tables and chapters, the distinction, places, names, orders, and offices of the supreme spirits, and also their dukes, how many counts there are in number, what order they observe, and how many they set over the substitutes, so that he may know how to express these things in the conjuration. For unless the operator of the art has carefully kept all these things, he will not be able to make progress or to reach the effect of his intention.
+
+Again, let him attend carefully when each spirit is to be called, and for what offices or secrets to be announced, and to what region of the world he belongs, lest he err either in the places or in all the matters concerning the individuals, or any of those whom he wishes to call.
+
+Likewise, let everyone who is advised and is about to operate in this knowledge attend most diligently to pronounce the words of the conjurations properly, in which the great force of our operation consists; for when an error is committed in the conjurations, the spirits called and to be called not only do not obey, but even resist altogether. Consequently, let him also be forewarned not to call one for another, but each one in his own order, time, and office, just as has been sufficiently stated by us in almost all the chapters of this book. For if, either from error or from any other negligence, he calls one for another, he will make no progress in his operation, but will rather bring danger upon himself.
+
+Likewise, in the conjurations let him name the spirit who is called together with his substitutes, and let the cause of the calling be settled beforehand in the intention; nor should the act of operation be performed in trivial and profane matters, which one person could otherwise safely communicate to another without danger, either by letters or by messengers. For this art is to be used only for announcing great and difficult matters which, if made public, would bring loss or danger to the operator. Likewise, it is necessary for everyone operating in this art to know the natures of the spirits: which are good, which evil, which prompt and benevolent toward obedience, which hard and rebellious. Again, [unclear]

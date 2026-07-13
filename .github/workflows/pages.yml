@@ -1,0 +1,51 @@
+name: Deploy site to GitHub Pages
+
+# The site is built locally (scripts/build_site.py needs the working corpus,
+# which is intentionally NOT in this repo) and the rendered output is
+# committed under site/dist/. This workflow only publishes that directory —
+# it does not rebuild. Rebuild locally and commit site/dist/ before pushing.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "site/dist/**"
+      - ".github/workflows/pages.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Sanity-check built site
+        run: |
+          test -f site/dist/index.html || { echo "site/dist/index.html missing — build & commit the site first"; exit 1; }
+          test -f site/dist/.nojekyll || touch site/dist/.nojekyll
+          echo "pages: $(find site/dist -name '*.html' | wc -l) html files"
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/dist
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

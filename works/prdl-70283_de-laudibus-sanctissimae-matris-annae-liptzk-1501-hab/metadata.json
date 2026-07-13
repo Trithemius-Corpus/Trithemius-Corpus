@@ -1,0 +1,43 @@
+{
+  "id": "prdl-70283_de-laudibus-sanctissimae-matris-annae-liptzk-1501-hab",
+  "title": "De Laudibus Sanctissimae Matris Annae",
+  "year": "1501",
+  "source_year": "1501",
+  "year_note": null,
+  "edition_info": "Liptzk : Melchior Lotter, 1501 (HAB)",
+  "edition_info_raw": "( Liptzk : Melchior Lotter, 1501 ) HAB",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 18,
+  "genre_cluster": "marian-hagiographic",
+  "tier": "S",
+  "faithful_adj": 4.67,
+  "fluent_adj": 4.67,
+  "coverage_pct": 100.0,
+  "chunks_graded": 6,
+  "chunks_total": 6,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "minimax",
+    "minimax-v2",
+    "public"
+  ],
+  "source": {
+    "provider": "HAB",
+    "url": "http://diglib.hab.de/drucke/alv-el-230-5s/start.htm",
+    "download_url": "http://diglib.hab.de/download.php?dir=drucke/alv-el-230-5s&submit=start%20download&begin=drucke_alv-el-230-5s_00001&end=drucke_alv-el-230-5s_eb0004",
+    "prdl_id": "70283"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 6,
+    "n_missing_segments": 1,
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-70283_de-laudibus-sanctissimae-matris-annae-liptzk-1501-hab_parallel.html"
+  }
+}

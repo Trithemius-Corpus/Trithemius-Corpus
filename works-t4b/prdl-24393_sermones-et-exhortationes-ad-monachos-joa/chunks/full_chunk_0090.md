@@ -1,0 +1,25 @@
+--- Page 099 ---
+
+*Homily XIX. Fol. XLVI.*
+
+[unclear] is raised up; it is sustained by the rock of humility alone. Indeed, if true humility is lacking, the gathering together of the other virtues will be nothing other than a kind of ruin: to build a house without a foundation on sand.
+
+For in the spiritual building humility lays the stable foundation; charity arranges the breadth of that house; the wall is raised upward by the continuation of good works in fervor of spirit; by faith in our Lord Jesus Christ and by firm hope in the promised eternal perfection and blessedness, the straightness is set at the top; and the length is arranged in the long-suffering of patience with most beautiful order.
+
+Therefore, my brothers, again and again I confess and admonish you to take care to found the building of your spiritual exercise on the foundation of humility, because no work, however good, pleases God if it has been offered apart from true humility.
+
+There are many things that can provoke the servants of God to acquire true humility. Some, through consideration of their own vileness, humble themselves in the sight of God; while they know by their own experience that they are wretched and weak, they place all their hope and confidence humbly in God. Others, fearing the multitude of benefits shown to them and God’s particular judgment against ingratitude, always walk humbly in the sight of God with great fear and reverence of gratitude. And which of us is there, brothers, to whom the mercy of almighty God has not also granted many benefits individually? If we wish to be grateful for these, we must above all be humble.
+
+Others, after a multitude of sins, converted to penance by divine kindness, diligently call to mind how many evils they have committed against the law of the Almighty, and because of these, in bitterness of spirit, they detest their own sins with horror and humility. But we have offended him in many things; therefore it is necessary that we humble ourselves always in mind and heart, and even in body, so that grace may abound where sin had formerly abounded.
+
+Often, indeed, the providence of divine mercy permits certain people to fall grievously for a time, so that afterward, converted to penance, they may learn to remain in true humility. The humble penitent is better than the proud man who has not sinned, because humility justifies penitents, while pride condemns the arrogant forever, even if they have done nothing else evil except this alone, that they are proud.
+
+Others, carrying the bitter passion of Jesus Christ in their hearts by daily meditation, humble themselves the more, the more they recognize the debt of such wondrous love from their redeemer and the greatness of his benefit, for which they are insufficient. For the sake of humility the Son of God himself, made man for us, mocked and bound, voluntarily underwent the most shameful death of the cross, to free us from the destruction of perpetual death. What Christian man, and especially what monk, would not greatly humble his soul before God when he calls to mind such great humility of his creator and redeemer? Truly, if Christ’s humility does not move a man to meekness, no admonitions of men avail in him. Monks are called so in vain unless, according to their strength, they have humbly followed Christ.
+
+For this reason this way has been set forth for us in the holy Gospel, that we should imitate his humility, as the master’s conduct is the form of the spiritual disciple. Therefore, brothers, let us labor with all the strength we can, so that humility, conceived through meditation on the most bitter passion of Jesus Christ, may beat down, restore, and reform everything in us that swollen pride has made crooked.
+
+How greatly it befits us to humble our souls, beloved brothers of Jesus Christ, when God himself, the creator of all things, made man, humbled himself so greatly for us. Therefore the highest medicine for bringing true humility to a servant of God is that he should daily and often call to mind the most bitter passion of Christ Jesus.
+
+Many tribulations, adversities, and illnesses, together with poverty or want, have also made humble those who perhaps would have persisted proud in prosperous and favorable circumstances. And let us consider what we are often accustomed to say: that poverty conduces to our salvation, since we have a great cause for humility, but find no matter at all for exaltation and pride.
+
+Others have come to great humility through the continual exercise of virtues and the meditation on death, which they must necessarily undergo. For whom would constant meditation on death not humble, even if he were most proud? Or who has so fierce a spirit that he would not gradually lay aside swelling pride if he thought more diligently that he must die in a short time? Therefore the conscience of a monk ought never to drive away from itself the memory of future death, so that he may remain humble and, confident in humility, may not become proud.

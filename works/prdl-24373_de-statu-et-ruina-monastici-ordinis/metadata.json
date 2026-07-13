@@ -1,0 +1,47 @@
+{
+  "id": "prdl-24373_de-statu-et-ruina-monastici-ordinis",
+  "title": "De Statu et Ruina Monastici Ordinis",
+  "year": "1493",
+  "source_year": "1493",
+  "year_note": null,
+  "edition_info": "[Leipzig] [after 1493 (BSB)",
+  "edition_info_raw": "( [Leipzig] [nach , 1493 ) BSB",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 62,
+  "genre_cluster": "monastic-reform",
+  "tier": "S",
+  "faithful_adj": 4.55,
+  "fluent_adj": 4.55,
+  "coverage_pct": 100.0,
+  "chunks_graded": 33,
+  "chunks_total": 33,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "claude-cli",
+    "minimax",
+    "minimax-v2",
+    "opus-sweep",
+    "public"
+  ],
+  "source": {
+    "provider": "BSB",
+    "url": "http://daten.digitale-sammlungen.de/bsb00040424/image_1",
+    "download_url": "http://download.digitale-sammlungen.de/BOOKS/pdf_download.pl?id=bsb00040424",
+    "prdl_id": "24373"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 33,
+    "n_missing_segments": 0,
+    "latin_source_file": "churro_full.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24373_de-statu-et-ruina-monastici-ordinis_parallel.html"
+  }
+}

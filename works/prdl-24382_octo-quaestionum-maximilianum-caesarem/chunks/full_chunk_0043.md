@@ -1,0 +1,1 @@
+[This final page is damaged; the OCR yielded only disconnected fragments ("Through me...", "I judge...", "conspiring...") repeating chunk 41's charter tail with no recoverable continuous sense. The source page image is the authoritative witness.]

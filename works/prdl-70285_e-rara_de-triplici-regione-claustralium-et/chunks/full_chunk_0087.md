@@ -1,0 +1,21 @@
+... he should strive to recall to the examination of this chapter whatever he knows he has transgressed against his neighbor, or against the rule or the statutes of the fathers; and concerning secret matters, in confession on the morrow; concerning public and regular transgressions, in the next chapter, by accusing himself, he should faithfully and sincerely purpose to clear himself. Let him grieve for what has been committed; let him make satisfaction for [unclear]; let him beware of things to be committed.
+
+Then let him consider the grave danger of offending God, whether the sin be venial or mortal. For John Gerson, chancellor of Paris, says in his treatise *On the Spiritual Life*: “Even venial sin is so much against God that by his justice he could damn a man eternally for it. But that he does not impute it to a man unto damnation proceeds not from justice but from his infinite goodness.” And the holy bishop Anselm admonishes us that a man ought not knowingly to commit the least sin against God’s will for the whole world. For the most blessed pontiff Augustine says: “No sin is so venial that it does not become mortal when it is pleasing.”
+
+You would say: this opinion cannot be true, because if a sin was venial, it can never become mortal; but if it becomes mortal, it was not venial. But listen and understand. I grant that venial sin, considered in itself, cannot become mortal; but one and the same sin, which can stand together with charity, becomes merely venial for one man through negligence and weakness alone, while for another, through contempt and aversion from God in the same sin, it is without doubt rightly imputed as mortal, because it is pleasing even insofar as it is sin and against God. Blessed, therefore, is he who is always fearful; but he who is hard of mind will fall into evil. He who neglects the smallest sins when he can amend them gradually falls into graver ones.
+
+Indeed, how greatly sin displeases almighty God is shown by the vengeance that follows. For so often in the sacred volumes and in the deeds of past time we read that those sinning against the Lord were gravely punished, that we rightly fear the pit of sin. How greatly even the briefest thought of a spirit turned away displeases him is declared to us by the fall of the first angel. As soon as [unclear] showed himself disorderly by growing proud against the Lord, he was cast into hell.
+
+How greatly idle and useless words are against the Lord is sufficiently shown to us by the very plain story in the *Lives of the Holy Fathers* about the infernal pigs appearing among brothers speaking useless things.
+
+How greatly evil and pernicious words offend almighty God was made clear in the boy of five years who blasphemed, whom the devil, snatching him alive from his father’s lap, carried off to hell, as is believed.
+
+How greatly deeds and negligences concerning one’s office displease him is clear in the sons of Eli, who were negligent and less careful about the rite of sacrifice.
+
+How greatly evil deeds offend God, although from infinite histories, so to speak, we can understand it, there is no need to prove by a few examples.
+
+But when our cenobite, devout in his recollections, has found himself burdened by the things mentioned above, or by any other negligences or sins, however grave, let him assume the contrition possible to him concerning the past, the purpose of amendment for firmly avoiding future things, and penitence for what has been committed. Let him therefore take up the counsel of the aforesaid chancellor, and, moved to compunction, let him say:
+
+“Lord my God, I confess” ¶ *Truth I* “to your most holy goodness that thus or thus I have sinned against your will. For this I grieve vehemently, and because I have offended you, who are wholly good, I humbly do penance.
+
+Lord my God, you know all things concerning me.” ¶ *Truth III* “You know that, by your granting, I have a good purpose, and I intend, with your help, to amend myself according to my powers in the future.” But sin is avoided by prayers, by calling upon God for help; by punishments, by inflicting penance on the body; by flight, by avoiding the occasion of sin. Therefore for the third truth let him say: ¶ *Truth III* “Lord my God, I have a good will to make confession of my sins, according to your commandment and holy

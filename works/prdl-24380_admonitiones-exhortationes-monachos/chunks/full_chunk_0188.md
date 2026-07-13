@@ -1,0 +1,15 @@
+Sermon III.
+
+willingly devoted to service, and ready for whatever he shall have been ordered to do. For true humility obeys even inferiors with a most ready will, and is never indignant against the one who gives an order. As far as he can, he who faithfully loves God with his whole heart desires to serve everyone for the love of Christ. For whatever service he has given to the brothers, he firmly believes it has all been shown to Christ.
+
+The twenty-fourth sign of humility a monk truly attains when, for the love of God, he delights in taking care of the baser tasks in the monastery, which the others despise. We read that many once climbed this step of true humility, and we do not doubt that they are of great merit before God. For the Lord says in the holy Gospel: Everyone who humbles himself will be exalted, because God resists the proud, but gives grace to the humble. The humble monk imitates Christ; the proud one imitates the devil.
+
+The twenty-fifth sign of monastic humility is, in any gathering of people, always to seek the lowest place, and not to put oneself before either an equal or an inferior. It is not for monks to contend proudly over preeminence of place; nor is it fitting for a soldier of Christ to wish to surpass others in honor. For the true monk, who loves humility, content with every lowest position, desires to excel no one.
+
+The twenty-sixth mark of humility most of all befits him who, though he is learned and educated, hides all learning and knowledge because of his lowly self-abasement. For the monk who is truly humble is always found readier to listen than to speak. For the divine priest Jerome says: The monk has the office not of one who teaches, but of one who mourns: he should either bewail himself or the world, and in fear await the coming of the Lord. The arrogance of monks is hateful both to God and to men, and is always liable to sin.
+
+The twenty-seventh sign of humility is perfectly attained by him who, out of love for regular discipline, delights more in being silent than in speaking. The humble lover of Christ loves silence, and, lest he offend in speech, is accustomed to say very little. Humility is rarely found among the talkative, and he who is quick to speak casts down his own soul. A talkative and chattering monk is not without pride, and he who is foolish multiplies words. Whoever desires in spiritual combat to overcome his adversary through humility should not fail to restrain his tongue from much speaking and from every idle word. It is written in the book of Proverbs that in much speaking sin will not be lacking.
+
+Whoever has attained the twenty-eighth sign of perfect humility will avoid laughter and all the disordered gestures of those who guffaw. Mourning chiefly befits a monk, not laughter, since he is one who has died to all the frivolities of the world. And the wise man says: The fool raises his voice in laughter, but the wise man will scarcely laugh quietly.
+
+The twenty-ninth mark of perfect humility takes its beginning from the fear of the Lord,

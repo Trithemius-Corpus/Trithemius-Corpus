@@ -1,0 +1,21 @@
+--- Page 155 ---
+
+by the pouring out of your most precious blood, by the power of your most innocent death, and by that very body and blood of yours, the great price of our salvation: I ask, by that wonderful and ineffable love with which you so loved us, miserable and unworthy as we are, that you washed us from our sins in your blood: have mercy on me and forgive me all my sins. Teach me, your unworthy servant, whom, among your other gifts, you have deigned to call to the priestly office, not by any merits of mine but solely by the graciousness of your mercy, so to handle this mystery, through your Holy Spirit, with the reverence and honor, devotion and fear, that are fitting and proper.
+
+Grant me, I beg, always to believe and understand, to perceive and firmly hold, to say and think concerning so great a mystery what is pleasing to you and what is expedient for the salvation of my soul. Let your good Spirit enter my heart, and there make sound without sound, and without the noise of words speak in me the truth of such great mysteries. For they are exceedingly deep, and covered with a sacred veil.
+
+Because of your great mercy, most sweet Lord Jesus, grant me to celebrate the solemn rites of the Mass with a pure heart and a clean conscience. I pray you, by the sweetness of your most holy heart, most loving Savior: free my heart from all vain, impure, harmful, and illicit thoughts, so that it may be made a worthy dwelling place of your love, now and forever.
+
+I pray you, lover of humankind, most sweet Lord Jesus, by the whole power of your most holy passion: drive away from me the spirit of arrogance and pride, vainglory and envy, lust and blasphemy; and fill my soul with the virtue of charity and innocence. King of virtues, Jesus Christ, lover of holy chastity and integrity, I pray you by the most holy virginity of the most blessed mother of God and undefiled Virgin Mary, and by the purity of your most reverend body: extinguish in me, with the dew of heavenly blessing, the flame of burning lust, so that the brightness of all purity may be and remain in me. Mortify in me, I beg, the stings of the flesh, and all lustful stirrings and disordered affections; and give me true and perpetual chastity, together with the other
+
+--- Page 156 ---
+
+goods that please you in truth, so that at all times, with undefiled body and clean heart, I may be able to offer to you the sacrifice of your body and blood.
+
+I know, Lord, truly I know, and I confess this very thing to your goodness: that I am not worthy to approach so great a mystery because of my excessive sins and my many negligences. But I also know, and with my whole heart believe and confess to you, that since you are almighty you can make me worthy; for you alone justify the ungodly, and from the unclean you can make the clean. Therefore, by your omnipotence, I pray you: grant to me, your unworthy servant, true contrition for my sins, pure devotion, and a most fervent compunction in your love, so that I may be able to offer this most holy sacrifice to you with fear and reverence, with purity of heart and a fountain of sweet tears, with spiritual gladness and heavenly joy, with humility and the fervor of charity.
+
+Most sweet Lord Jesus, in this hour grant me your mercy, so that my mind may feel the sweetness of your most blessed presence, the devotion of the holy angels around me, and a gentle lifting up into you.
+
+Take away from me, Lord Jesus, all the blindness of my iniquities, and mercifully kindle in me the fire of your love. Do not be angry with me, O Jesus, ineffable good, nor restrain from me the multitude of your mercies. For I do not pour out my prayers before your face, Lord, in my own justifications, but in your many mercies. Take away from me, Lord Jesus, a stony and hard heart, and give me a heart of flesh and contrition, which may fear you, love you, cherish you above all things, delight in you alone, follow you, and enjoy you forever.
+
+O most merciful Lord Jesus, I pray you by the most sacred mystery of your body and blood, by which in your holy Church we are daily fed and given drink, washed and sanctified, and made sharers in your one supreme divinity: give me your holy virtues, adorned with which, and with a good conscience, I may be able to approach your altar, so that this holy

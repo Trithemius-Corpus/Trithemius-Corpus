@@ -1,0 +1,1075 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tier table &mdash; Trithemius Corpus</title>
+<meta name="description" content="Quality tier table for every translated edition in the Trithemius Corpus, graded chunk-by-chunk against the Latin.">
+<link rel="canonical" href="https://trithemius-corpus.github.io/Trithemius-Corpus/scoreboard.html"><meta property="og:type" content="website">
+<meta property="og:site_name" content="Trithemius Corpus">
+<meta property="og:title" content="Tier table &mdash; Trithemius Corpus">
+<meta property="og:description" content="Quality tier table for every translated edition in the Trithemius Corpus, graded chunk-by-chunk against the Latin.">
+<meta property="og:url" content="https://trithemius-corpus.github.io/Trithemius-Corpus/scoreboard.html"><meta property="og:image" content="https://trithemius-corpus.github.io/Trithemius-Corpus/static/images/hero-steganographia-wheel.webp"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@trithemius_corpus">
+<meta name="twitter:title" content="Tier table &mdash; Trithemius Corpus">
+<meta name="twitter:description" content="Quality tier table for every translated edition in the Trithemius Corpus, graded chunk-by-chunk against the Latin.">
+<meta name="twitter:image" content="https://trithemius-corpus.github.io/Trithemius-Corpus/static/images/hero-steganographia-wheel.webp"><link rel="icon" type="image/svg+xml" href="static/favicon.svg">
+<meta name="theme-color" content="#100d12">
+<link rel="stylesheet" href="static/fonts.css">
+<link rel="stylesheet" href="static/style.css">
+<script>
+  // Apply the saved theme before first paint to avoid a flash of the wrong theme.
+  // 'auto' resolves from the OS colour-scheme preference (light→parchment,
+  // dark→steganographia) and is stored on a distinct attribute so the switcher
+  // can highlight 'auto' as active while the concrete theme paints immediately.
+  (function () {
+    function resolveAuto() {
+      try {
+        return window.matchMedia &&
+               window.matchMedia('(prefers-color-scheme: light)').matches
+               ? 'parchment' : 'steganographia';
+      } catch (e) { return 'steganographia'; }
+    }
+    try {
+      var t = localStorage.getItem('tc-theme');
+      if (t === 'auto') {
+        var r = resolveAuto();
+        document.documentElement.setAttribute('data-tc-theme', 'auto');
+        if (r !== 'steganographia') document.documentElement.setAttribute('data-theme', r);
+      } else if (t && t !== 'steganographia') {
+        document.documentElement.setAttribute('data-theme', t);
+      }
+    } catch (e) {}
+  })();
+</script>
+</head>
+<body class="parchment">
+<a class="skip-link" href="#main">Skip to content</a>
+<div class="read-progress" id="readProgress" aria-hidden="true"><span class="read-progress-pct" id="readProgressPct"></span></div>
+<header class="site-header">
+  <div class="container">
+    <h1 class="site-title"><a href="index.html">Trithemius Corpus</a></h1>
+    <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="siteNav">
+      <span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span>
+    </button>
+    <nav class="site-nav" id="siteNav" aria-label="Site">
+      <a href="works.html">Works</a>
+      <a href="ciphers.html">The Ciphers</a>
+      <a href="tools.html">Cipher Lab</a>
+      <a href="scoreboard.html" class="is-active" aria-current="page">Quality</a>
+      <a href="methodology.html">Methodology</a>
+      <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus">GitHub</a>
+      <a href="search.html" class="nav-search" title="Search the corpus">&#128269; Search</a>
+      <span class="theme-switcher" role="group" aria-label="Theme">
+        <span class="theme-label" aria-hidden="true">Theme</span>
+        <button type="button" data-set="steganographia" title="Steganographia (celestial night)" aria-label="Steganographia theme"></button>
+        <button type="button" data-set="candlelight" title="Candlelight (warm dark)" aria-label="Candlelight theme"></button>
+        <button type="button" data-set="parchment" title="Parchment (light scholarly)" aria-label="Parchment theme"></button>
+        <button type="button" data-set="ink" title="Ink (high-contrast facsimile)" aria-label="Ink theme"></button>
+      </span>
+    </nav>
+  </div>
+</header>
+
+<main class="container" id="main">
+
+<section>
+  <h2>Quality tier table</h2>
+  <p class="muted">
+    Every translated edition, graded chunk-by-chunk against its own Latin:
+    Claude Sonnet 4.6 for the bulk of the corpus, with Claude Opus 4.8
+    pairwise-adjudicating the churro-hi re-translations, GLM-5.2 grading the
+    184-chunk 2026-06 gap-close batch, and a 2026-06 dual-grader consensus
+    (MiniMax-M3 + GLM-5.2, Claude third pass) over the disagreements and
+    hallucination remediation (see
+    <a href="methodology.html#6-grading-and-quality-tiers">METHODOLOGY &sect;6</a>).
+    Corpus-wide: 4353 graded chunks, mean faithfulness
+    4.63/5, 0.0% flagged hallucinated.
+    Looking for the reading index instead? <a href="works.html">Browse the works</a>.
+  </p>
+  <noscript><p class="muted">(Sorting needs JavaScript; the table below is pre-sorted by tier.)</p></noscript>
+
+  <table class="works-table" id="works-table">
+    <caption class="sr-only">Per-work quality scoreboard: tier, pages, genre cluster, faithfulness, fluency, and damage density for each of the 47 translated editions. Column buttons sort the table.</caption>
+    <thead>
+      <tr>
+        <th scope="col"><button class="sort-btn" type="button" data-sort="tier">Tier</button></th>
+        <th scope="col"><button class="sort-btn" type="button" data-sort="pages">Pages</button></th>
+        <th scope="col"><button class="sort-btn" type="button" data-sort="cluster">Cluster</button></th>
+        <th scope="col"><button class="sort-btn" type="button" data-sort="faith">Faithfulness</button></th>
+        <th scope="col"><button class="sort-btn" type="button" data-sort="fluent">Fluency</button></th>
+        <th scope="col"><button class="sort-btn" type="button" data-sort="gap">Damage density<sup>&dagger;</sup></button></th>
+        <th scope="col"><button class="sort-btn" type="button" data-sort="work">Work</button></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="141"
+          data-cluster="apologetic"
+          data-faith="4.91"
+          data-fluent="4.91"
+          data-gap="0.6"
+          data-work="trithemius sui ipsius vindex">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">141</td>
+        <td data-label="Cluster"><a href="genres/apologetic.html">Apologetic</a></td>
+        <td class="num" data-label="Faithfulness">4.91</td>
+        <td class="num" data-label="Fluency">4.91</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">0.6</td>
+        <td data-label="Work"><a href="works/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive.html">Trithemius Sui Ipsius Vindex</a></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="168"
+          data-cluster="crypto-occult"
+          data-faith="4.56"
+          data-fluent="4.56"
+          data-gap="2.2"
+          data-work="steganographia, hoc est: ars per occultam scripturam">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">168</td>
+        <td data-label="Cluster"><a href="genres/crypto-occult.html">Cryptography &amp; the Occult</a></td>
+        <td class="num" data-label="Faithfulness">4.56</td>
+        <td class="num" data-label="Fluency">4.56</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">2.2</td>
+        <td data-label="Work"><a href="works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Steganographia, hoc est: Ars per occultam scripturam</a></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="278"
+          data-cluster="crypto-occult"
+          data-faith="4.55"
+          data-fluent="4.55"
+          data-gap="2.5"
+          data-work="clavis generalis triplex in libros steganographicos">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">278</td>
+        <td data-label="Cluster"><a href="genres/crypto-occult.html">Cryptography &amp; the Occult</a></td>
+        <td class="num" data-label="Faithfulness">4.55</td>
+        <td class="num" data-label="Fluency">4.55</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">2.5</td>
+        <td data-label="Work"><a href="works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos.html">Clavis Generalis Triplex in Libros Steganographicos</a></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="546"
+          data-cluster="crypto-occult"
+          data-faith="4.59"
+          data-fluent="4.59"
+          data-gap="3.5"
+          data-work="clavis polygraphiae">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">546</td>
+        <td data-label="Cluster"><a href="genres/crypto-occult.html">Cryptography &amp; the Occult</a></td>
+        <td class="num" data-label="Faithfulness">4.59</td>
+        <td class="num" data-label="Fluency">4.59</td>
+        <td class="num gap-mid" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">3.5</td>
+        <td data-label="Work"><a href="works/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui.html">Clavis Polygraphiae</a></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="563"
+          data-cluster="crypto-occult"
+          data-faith="4.69"
+          data-fluent="4.69"
+          data-gap="2.6"
+          data-work="polygraphiae libri sex">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">563</td>
+        <td data-label="Cluster"><a href="genres/crypto-occult.html">Cryptography &amp; the Occult</a></td>
+        <td class="num" data-label="Faithfulness">4.69</td>
+        <td class="num" data-label="Fluency">4.69</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">2.6</td>
+        <td data-label="Work"><a href="works/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis.html">Polygraphiae libri sex</a> <span class="ed-tag" title="One of 3 editions of this text in the corpus">Francofurti, 1550</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="657"
+          data-cluster="crypto-occult"
+          data-faith="4.74"
+          data-fluent="4.74"
+          data-gap="2.0"
+          data-work="polygraphiae libri vi">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">657</td>
+        <td data-label="Cluster"><a href="genres/crypto-occult.html">Cryptography &amp; the Occult</a></td>
+        <td class="num" data-label="Faithfulness">4.74</td>
+        <td class="num" data-label="Fluency">4.74</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">2.0</td>
+        <td data-label="Work"><a href="works/prdl-24391_polygraphiae-libri-vi.html">Polygraphiae libri VI</a> <span class="ed-tag" title="One of 3 editions of this text in the corpus">Argentoratum, 1600</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="541"
+          data-cluster="crypto-occult"
+          data-faith="4.56"
+          data-fluent="4.56"
+          data-gap="4.5"
+          data-work="polygraphiae libri vi (basel: furter &amp; petri, for haselberg, 1518)">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">541</td>
+        <td data-label="Cluster"><a href="genres/crypto-occult.html">Cryptography &amp; the Occult</a></td>
+        <td class="num" data-label="Faithfulness">4.56</td>
+        <td class="num" data-label="Fluency">4.56</td>
+        <td class="num gap-mid" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">4.5</td>
+        <td data-label="Work"><a href="works/prdl-24390_polygraphiae-libri-vi.html">Polygraphiae libri VI (Basel: Furter &amp; Petri, for Haselberg, 1518)</a> <span class="ed-tag" title="One of 3 editions of this text in the corpus">Basel, 1518</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="301"
+          data-cluster="bibliographic"
+          data-faith="4.67"
+          data-fluent="4.67"
+          data-gap="2.0"
+          data-work="liber de scriptoribus ecclesiasticis">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">301</td>
+        <td data-label="Cluster"><a href="genres/bibliographic.html">Bibliography &amp; History</a></td>
+        <td class="num" data-label="Faithfulness">4.67</td>
+        <td class="num" data-label="Fluency">4.67</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">2.0</td>
+        <td data-label="Work"><a href="works/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius.html">Liber de Scriptoribus Ecclesiasticis</a> <span class="ed-tag" title="One of 2 editions of this text in the corpus">Basel, 1494</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="536"
+          data-cluster="bibliographic"
+          data-faith="4.59"
+          data-fluent="4.59"
+          data-gap="3.1"
+          data-work="liber de scriptoribus ecclesiasticis">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">536</td>
+        <td data-label="Cluster"><a href="genres/bibliographic.html">Bibliography &amp; History</a></td>
+        <td class="num" data-label="Faithfulness">4.59</td>
+        <td class="num" data-label="Fluency">4.59</td>
+        <td class="num gap-mid" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">3.1</td>
+        <td data-label="Work"><a href="works/prdl-70287_joh-tritthemii-de-scriptoribus-ecclesiasticis-liber.html">Liber de Scriptoribus Ecclesiasticis</a> <span class="ed-tag" title="One of 2 editions of this text in the corpus">Coloniae, 1546</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="46"
+          data-cluster="monastic-reform"
+          data-faith="4.71"
+          data-fluent="4.71"
+          data-gap="1.3"
+          data-work="de laude scriptorum manualium">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">46</td>
+        <td data-label="Cluster"><a href="genres/monastic-reform.html">Monastic Reform</a></td>
+        <td class="num" data-label="Faithfulness">4.71</td>
+        <td class="num" data-label="Fluency">4.71</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">1.3</td>
+        <td data-label="Work"><a href="works/prdl-24362_de-laude-scriptorum-manualium.html">De Laude Scriptorum Manualium</a></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="32"
+          data-cluster="monastic-reform"
+          data-faith="4.77"
+          data-fluent="4.77"
+          data-gap="2.8"
+          data-work="de republica ecclesiae et monachorum ordinis">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">32</td>
+        <td data-label="Cluster"><a href="genres/monastic-reform.html">Monastic Reform</a></td>
+        <td class="num" data-label="Faithfulness">4.77</td>
+        <td class="num" data-label="Fluency">4.77</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">2.8</td>
+        <td data-label="Work"><a href="works/prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis.html">De Republica Ecclesiae et Monachorum Ordinis</a> <span class="ed-tag" title="One of 2 editions of this text in the corpus">Mainz, 1493</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="32"
+          data-cluster="monastic-reform"
+          data-faith="4.73"
+          data-fluent="4.73"
+          data-gap="7.0"
+          data-work="de republica ecclesiae et monachorum ordinis">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">32</td>
+        <td data-label="Cluster"><a href="genres/monastic-reform.html">Monastic Reform</a></td>
+        <td class="num" data-label="Faithfulness">4.73</td>
+        <td class="num" data-label="Fluency">4.73</td>
+        <td class="num gap-high" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">7.0</td>
+        <td data-label="Work"><a href="works/prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis.html">De Republica Ecclesiae et Monachorum Ordinis</a> <span class="ed-tag" title="One of 2 editions of this text in the corpus">Mainz, 1493</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="30"
+          data-cluster="sacerdotal"
+          data-faith="4.6"
+          data-fluent="4.6"
+          data-gap="3.2"
+          data-work="de cura pastorali">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">30</td>
+        <td data-label="Cluster"><a href="genres/sacerdotal.html">The Priestly Life</a></td>
+        <td class="num" data-label="Faithfulness">4.60</td>
+        <td class="num" data-label="Fluency">4.60</td>
+        <td class="num gap-mid" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">3.2</td>
+        <td data-label="Work"><a href="works/prdl-24361_de-cura-pastorali.html">De Cura Pastorali</a></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="62"
+          data-cluster="monastic-reform"
+          data-faith="4.55"
+          data-fluent="4.55"
+          data-gap="2.1"
+          data-work="de statu et ruina monastici ordinis">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">62</td>
+        <td data-label="Cluster"><a href="genres/monastic-reform.html">Monastic Reform</a></td>
+        <td class="num" data-label="Faithfulness">4.55</td>
+        <td class="num" data-label="Fluency">4.55</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">2.1</td>
+        <td data-label="Work"><a href="works/prdl-24373_de-statu-et-ruina-monastici-ordinis.html">De Statu et Ruina Monastici Ordinis</a></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="123"
+          data-cluster="monastic-reform"
+          data-faith="4.62"
+          data-fluent="4.62"
+          data-gap="1.5"
+          data-work="compendium sive breviarium primi voluminis annalium sive historiarum de origine regum et gentis francorum">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">123</td>
+        <td data-label="Cluster"><a href="genres/monastic-reform.html">Monastic Reform</a></td>
+        <td class="num" data-label="Faithfulness">4.62</td>
+        <td class="num" data-label="Fluency">4.62</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">1.5</td>
+        <td data-label="Work"><a href="works/prdl-24360_compendium-breviarium-primi-voluminis-annalium-historiarum-origine-regum.html">Compendium sive Breviarium primi voluminis Annalium sive Historiarum de origine regum et gentis Francorum</a></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="50"
+          data-cluster="marian-hagiographic"
+          data-faith="4.78"
+          data-fluent="4.78"
+          data-gap="0.6"
+          data-work="de laudibus sanctissimae matris annae">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">50</td>
+        <td data-label="Cluster"><a href="genres/marian-hagiographic.html">Marian &amp; Hagiographic</a></td>
+        <td class="num" data-label="Faithfulness">4.78</td>
+        <td class="num" data-label="Fluency">4.78</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">0.6</td>
+        <td data-label="Work"><a href="works/prdl-24367_de-laudibus-sanctissimae-matris-annae-liptzk-1501.html">De Laudibus Sanctissimae Matris Annae</a> <span class="ed-tag" title="One of 6 editions of this text in the corpus">Liptzk [ca. 1501, 1501</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="66"
+          data-cluster="marian-hagiographic"
+          data-faith="4.74"
+          data-fluent="4.74"
+          data-gap="0.6"
+          data-work="de origine, progressu et laudibus ordinis fratrum carmelitarum">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">66</td>
+        <td data-label="Cluster"><a href="genres/marian-hagiographic.html">Marian &amp; Hagiographic</a></td>
+        <td class="num" data-label="Faithfulness">4.74</td>
+        <td class="num" data-label="Fluency">4.74</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">0.6</td>
+        <td data-label="Work"><a href="works/prdl-24363_de-laudibus-ordinis-fratrum-carmelitarum.html">De Origine, Progressu et Laudibus Ordinis Fratrum Carmelitarum</a></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="18"
+          data-cluster="marian-hagiographic"
+          data-faith="4.67"
+          data-fluent="4.67"
+          data-gap="2.3"
+          data-work="de laudibus sanctissimae matris annae">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">18</td>
+        <td data-label="Cluster"><a href="genres/marian-hagiographic.html">Marian &amp; Hagiographic</a></td>
+        <td class="num" data-label="Faithfulness">4.67</td>
+        <td class="num" data-label="Fluency">4.67</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">2.3</td>
+        <td data-label="Work"><a href="works/prdl-70283_de-laudibus-sanctissimae-matris-annae-liptzk-1501-hab.html">De Laudibus Sanctissimae Matris Annae</a> <span class="ed-tag" title="One of 6 editions of this text in the corpus">Liptzk, 1501</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="54"
+          data-cluster="marian-hagiographic"
+          data-faith="4.58"
+          data-fluent="4.58"
+          data-gap="1.7"
+          data-work="de laudibus sanctissimae matris annae">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">54</td>
+        <td data-label="Cluster"><a href="genres/marian-hagiographic.html">Marian &amp; Hagiographic</a></td>
+        <td class="num" data-label="Faithfulness">4.58</td>
+        <td class="num" data-label="Fluency">4.58</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">1.7</td>
+        <td data-label="Work"><a href="works/prdl-24365_de-laudibus-sanctissimae-matris-annae.html">De Laudibus Sanctissimae Matris Annae</a> <span class="ed-tag" title="One of 6 editions of this text in the corpus">Leipzig [ca. 1497, 1497</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="62"
+          data-cluster="marian-hagiographic"
+          data-faith="4.51"
+          data-fluent="4.66"
+          data-gap="2.1"
+          data-work="de laudibus sanctissimae matris annae">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">62</td>
+        <td data-label="Cluster"><a href="genres/marian-hagiographic.html">Marian &amp; Hagiographic</a></td>
+        <td class="num" data-label="Faithfulness">4.51</td>
+        <td class="num" data-label="Fluency">4.66</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">2.1</td>
+        <td data-label="Work"><a href="works/prdl-24366_de-laudibus-sanctissimae-matris-annae-liptzk-1497.html">De Laudibus Sanctissimae Matris Annae</a> <span class="ed-tag" title="One of 6 editions of this text in the corpus">Liptzk [ca. 1497, 1497</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="17"
+          data-cluster="marian-hagiographic"
+          data-faith="4.5"
+          data-fluent="4.5"
+          data-gap="0.8"
+          data-work="de laudibus sanctissimae matris annae">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">17</td>
+        <td data-label="Cluster"><a href="genres/marian-hagiographic.html">Marian &amp; Hagiographic</a></td>
+        <td class="num" data-label="Faithfulness">4.50</td>
+        <td class="num" data-label="Fluency">4.50</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">0.8</td>
+        <td data-label="Work"><a href="works/prdl-24364_de-laudibus-sanctissimae-matris-annae.html">De Laudibus Sanctissimae Matris Annae</a> <span class="ed-tag" title="One of 6 editions of this text in the corpus">Mainz, 1494</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="17"
+          data-cluster="marian-hagiographic"
+          data-faith="4.5"
+          data-fluent="4.5"
+          data-gap="1.8"
+          data-work="de laudibus sanctissimae matris annae">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">17</td>
+        <td data-label="Cluster"><a href="genres/marian-hagiographic.html">Marian &amp; Hagiographic</a></td>
+        <td class="num" data-label="Faithfulness">4.50</td>
+        <td class="num" data-label="Fluency">4.50</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">1.8</td>
+        <td data-label="Work"><a href="works/prdl-70284_de-laudibus-sanctissimae-matris-annae.html">De Laudibus Sanctissimae Matris Annae</a> <span class="ed-tag" title="One of 6 editions of this text in the corpus">Mainz, 1494</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="143"
+          data-cluster="monastic-reform"
+          data-faith="4.74"
+          data-fluent="4.74"
+          data-gap="1.2"
+          data-work="liber de triplici regione claustralium et spirituali exercitio monachorum">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">143</td>
+        <td data-label="Cluster"><a href="genres/monastic-reform.html">Monastic Reform</a></td>
+        <td class="num" data-label="Faithfulness">4.74</td>
+        <td class="num" data-label="Fluency">4.74</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">1.2</td>
+        <td data-label="Work"><a href="works/prdl-24386_liber-de-triplici-regione-claustralium-et.html">Liber de Triplici Regione Claustralium et Spirituali Exercitio Monachorum</a> <span class="ed-tag" title="One of 3 editions of this text in the corpus">Lipsia, 1516</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="206"
+          data-cluster="monastic-reform"
+          data-faith="4.61"
+          data-fluent="4.67"
+          data-gap="3.8"
+          data-work="liber de triplici regione claustralium et spirituali exercitio monachorum">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">206</td>
+        <td data-label="Cluster"><a href="genres/monastic-reform.html">Monastic Reform</a></td>
+        <td class="num" data-label="Faithfulness">4.61</td>
+        <td class="num" data-label="Fluency">4.67</td>
+        <td class="num gap-mid" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">3.8</td>
+        <td data-label="Work"><a href="works/prdl-24385_liber-de-triplici-regione-claustralium-et.html">Liber de Triplici Regione Claustralium et Spirituali Exercitio Monachorum</a> <span class="ed-tag" title="One of 3 editions of this text in the corpus">nobili vrbe Maguntina, 1498</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="50"
+          data-cluster="sacerdotal"
+          data-faith="4.79"
+          data-fluent="4.79"
+          data-gap="1.0"
+          data-work="institutio vitae sacerdotalis (mainz, 1499)">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">50</td>
+        <td data-label="Cluster"><a href="genres/sacerdotal.html">The Priestly Life</a></td>
+        <td class="num" data-label="Faithfulness">4.79</td>
+        <td class="num" data-label="Fluency">4.79</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">1.0</td>
+        <td data-label="Work"><a href="works/prdl-24378_institutio-vitae-sacerdotalis.html">Institutio Vitae Sacerdotalis (Mainz, 1499)</a> <span class="ed-tag" title="One of 2 editions of this text in the corpus">Mainz, 1494</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="42"
+          data-cluster="sacerdotal"
+          data-faith="4.74"
+          data-fluent="4.74"
+          data-gap="2.9"
+          data-work="institutio vitae sacerdotalis (mainz, 1504)">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">42</td>
+        <td data-label="Cluster"><a href="genres/sacerdotal.html">The Priestly Life</a></td>
+        <td class="num" data-label="Faithfulness">4.74</td>
+        <td class="num" data-label="Fluency">4.74</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">2.9</td>
+        <td data-label="Work"><a href="works/prdl-24379_institutio-vitae-sacerdotalis.html">Institutio Vitae Sacerdotalis (Mainz, 1504)</a> <span class="ed-tag" title="One of 2 editions of this text in the corpus">Augsburg, 1494</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="294"
+          data-cluster="bibliographic"
+          data-faith="4.98"
+          data-fluent="4.98"
+          data-gap="0.3"
+          data-work="admonitiones / exhortationes ad monachos">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">294</td>
+        <td data-label="Cluster"><a href="genres/monastic-reform.html">Monastic Reform</a></td>
+        <td class="num" data-label="Faithfulness">4.98</td>
+        <td class="num" data-label="Fluency">4.98</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">0.3</td>
+        <td data-label="Work"><a href="works/prdl-24380_admonitiones-exhortationes-monachos.html">Admonitiones / Exhortationes ad Monachos</a></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="147"
+          data-cluster="bibliographic"
+          data-faith="4.89"
+          data-fluent="4.89"
+          data-gap="0.7"
+          data-work="liber octo quaestionum ad maximilianum caesarem">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">147</td>
+        <td data-label="Cluster"><a href="genres/crypto-occult.html">Cryptography &amp; the Occult</a></td>
+        <td class="num" data-label="Faithfulness">4.89</td>
+        <td class="num" data-label="Fluency">4.89</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">0.7</td>
+        <td data-label="Work"><a href="works/prdl-24381_octo-quaestionum-maximilianum-caesarem.html">Liber Octo Quaestionum ad Maximilianum Caesarem</a> <span class="ed-tag" title="One of 4 editions of this text in the corpus">Francoforti, 1550</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="93"
+          data-cluster="bibliographic"
+          data-faith="4.81"
+          data-fluent="4.81"
+          data-gap="3.3"
+          data-work="liber octo quaestionum ad maximilianum caesarem">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">93</td>
+        <td data-label="Cluster"><a href="genres/crypto-occult.html">Cryptography &amp; the Occult</a></td>
+        <td class="num" data-label="Faithfulness">4.81</td>
+        <td class="num" data-label="Fluency">4.81</td>
+        <td class="num gap-mid" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">3.3</td>
+        <td data-label="Work"><a href="works/prdl-24382_octo-quaestionum-maximilianum-caesarem.html">Liber Octo Quaestionum ad Maximilianum Caesarem</a> <span class="ed-tag" title="One of 4 editions of this text in the corpus">Oppenheym, 1515</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="25"
+          data-cluster="bibliographic"
+          data-faith="4.67"
+          data-fluent="4.78"
+          data-gap="0.9"
+          data-work="de septem secundeis, id est, intelligentiis sive spiritibus orbes post deum moventibus">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">25</td>
+        <td data-label="Cluster"><a href="genres/bibliographic.html">Bibliography &amp; History</a></td>
+        <td class="num" data-label="Faithfulness">4.67</td>
+        <td class="num" data-label="Fluency">4.78</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">0.9</td>
+        <td data-label="Work"><a href="works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus.html">De Septem Secundeis, id est, Intelligentiis sive Spiritibus Orbes post Deum Moventibus</a></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="471"
+          data-cluster="bibliographic"
+          data-faith="4.5"
+          data-fluent="4.5"
+          data-gap="3.3"
+          data-work="opera historica, part i">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">471</td>
+        <td data-label="Cluster"><a href="genres/bibliographic.html">Bibliography &amp; History</a></td>
+        <td class="num" data-label="Faithfulness">4.50</td>
+        <td class="num" data-label="Fluency">4.50</td>
+        <td class="num gap-mid" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">3.3</td>
+        <td data-label="Work"><a href="works/prdl-70289_opera-historica-part.html">Opera Historica, Part I</a></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="619"
+          data-cluster="bibliographic"
+          data-faith="4.48"
+          data-fluent="4.48"
+          data-gap="3.5"
+          data-work="opera historica, part ii — chronicon hirsaugiense &amp; sponheimense">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">619</td>
+        <td data-label="Cluster"><a href="genres/bibliographic.html">Bibliography &amp; History</a></td>
+        <td class="num" data-label="Faithfulness">4.48</td>
+        <td class="num" data-label="Fluency">4.48</td>
+        <td class="num gap-mid" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">3.5</td>
+        <td data-label="Work"><a href="works/prdl-70290_opera-historica-part-chronicon-hirsaugiense-sponheimense.html">Opera Historica, Part II — Chronicon Hirsaugiense &amp; Sponheimense</a></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="14"
+          data-cluster="verse"
+          data-faith="5.0"
+          data-fluent="5.0"
+          data-gap="6.3"
+          data-work="ecloga de laude calvorum ad carolum (hucbald of elnon, transmitted by trithemius)">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">14</td>
+        <td data-label="Cluster"><a href="genres/verse.html">Verse</a></td>
+        <td class="num" data-label="Faithfulness">5.00</td>
+        <td class="num" data-label="Fluency">5.00</td>
+        <td class="num gap-high" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">6.3</td>
+        <td data-label="Work"><a href="works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum.html">Ecloga de Laude Calvorum ad Carolum (Hucbald of Elnon, transmitted by Trithemius)</a></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="133"
+          data-cluster="sacerdotal"
+          data-faith="4.96"
+          data-fluent="4.96"
+          data-gap="1.3"
+          data-work="de sacerdotum vita instituenda libellus">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">133</td>
+        <td data-label="Cluster"><a href="genres/sacerdotal.html">The Priestly Life</a></td>
+        <td class="num" data-label="Faithfulness">4.96</td>
+        <td class="num" data-label="Fluency">4.96</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">1.3</td>
+        <td data-label="Work"><a href="works/prdl-32285_de-sacerdotum-vita-instituenda-libellus.html">De Sacerdotum Vita Instituenda Libellus</a></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="40"
+          data-cluster="devotional"
+          data-faith="4.94"
+          data-fluent="4.94"
+          data-gap="0.8"
+          data-work="de operatione divini amoris">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">40</td>
+        <td data-label="Cluster"><a href="genres/devotional.html">Devotional</a></td>
+        <td class="num" data-label="Faithfulness">4.94</td>
+        <td class="num" data-label="Fluency">4.94</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">0.8</td>
+        <td data-label="Work"><a href="works/prdl-24368_de-operatione-divini-amoris.html">De Operatione Divini Amoris</a></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="139"
+          data-cluster="crypto-occult"
+          data-faith="4.88"
+          data-fluent="4.9"
+          data-gap="0.8"
+          data-work="liber octo quaestionum ad maximilianum caesarem">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">139</td>
+        <td data-label="Cluster"><a href="genres/crypto-occult.html">Cryptography &amp; the Occult</a></td>
+        <td class="num" data-label="Faithfulness">4.88</td>
+        <td class="num" data-label="Fluency">4.90</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">0.8</td>
+        <td data-label="Work"><a href="works/prdl-32286_octo-quaestionum-maximilianum-caesarem.html">Liber Octo Quaestionum ad Maximilianum Caesarem</a> <span class="ed-tag" title="One of 4 editions of this text in the corpus">Coloniae, 1534</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="205"
+          data-cluster="monastic-reform"
+          data-faith="4.83"
+          data-fluent="4.83"
+          data-gap="1.3"
+          data-work="liber de triplici regione claustralium et spirituali exercitio monachorum">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">205</td>
+        <td data-label="Cluster"><a href="genres/monastic-reform.html">Monastic Reform</a></td>
+        <td class="num" data-label="Faithfulness">4.83</td>
+        <td class="num" data-label="Fluency">4.83</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">1.3</td>
+        <td data-label="Work"><a href="works/prdl-70285_e-rara_de-triplici-regione-claustralium-et.html">Liber de Triplici Regione Claustralium et Spirituali Exercitio Monachorum</a> <span class="ed-tag" title="One of 3 editions of this text in the corpus">Mainz, 1498</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="30"
+          data-cluster="devotional"
+          data-faith="4.77"
+          data-fluent="4.77"
+          data-gap="1.6"
+          data-work="de vera conversione mentis ad deum">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">30</td>
+        <td data-label="Cluster"><a href="genres/devotional.html">Devotional</a></td>
+        <td class="num" data-label="Faithfulness">4.77</td>
+        <td class="num" data-label="Fluency">4.77</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">1.6</td>
+        <td data-label="Work"><a href="works/prdl-24375_de-vera-conversione-mentis-ad-deum.html">De Vera Conversione Mentis ad Deum</a></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="184"
+          data-cluster="monastic-reform"
+          data-faith="4.72"
+          data-fluent="4.72"
+          data-gap="2.6"
+          data-work="abbreviatura recessuum capitularium patrum ordinis divi benedicti per provinciam moguntinam et dioecesim bambergensem">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">184</td>
+        <td data-label="Cluster"><a href="genres/monastic-reform.html">Monastic Reform</a></td>
+        <td class="num" data-label="Faithfulness">4.72</td>
+        <td class="num" data-label="Fluency">4.72</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">2.6</td>
+        <td data-label="Work"><a href="works/prdl-24357_abbreviatura-recessuum-capitularium-patrum-ordinis-divi.html">Abbreviatura Recessuum Capitularium Patrum Ordinis Divi Benedicti per Provinciam Moguntinam et Dioecesim Bambergensem</a></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="106"
+          data-cluster="crypto-occult"
+          data-faith="4.71"
+          data-fluent="4.71"
+          data-gap="3.2"
+          data-work="liber octo quaestionum ad maximilianum caesarem">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">106</td>
+        <td data-label="Cluster"><a href="genres/crypto-occult.html">Cryptography &amp; the Occult</a></td>
+        <td class="num" data-label="Faithfulness">4.71</td>
+        <td class="num" data-label="Fluency">4.71</td>
+        <td class="num gap-mid" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">3.2</td>
+        <td data-label="Work"><a href="works/prdl-70286_octo-quaestionum-maximilianum-caesarem.html">Liber Octo Quaestionum ad Maximilianum Caesarem</a> <span class="ed-tag" title="One of 4 editions of this text in the corpus">Moguntiae, 1601</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="161"
+          data-cluster="monastic-reform"
+          data-faith="4.69"
+          data-fluent="4.69"
+          data-gap="2.2"
+          data-work="sermones et exhortationes ad monachos">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">161</td>
+        <td data-label="Cluster"><a href="genres/monastic-reform.html">Monastic Reform</a></td>
+        <td class="num" data-label="Faithfulness">4.69</td>
+        <td class="num" data-label="Fluency">4.69</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">2.2</td>
+        <td data-label="Work"><a href="works/prdl-24393_sermones-et-exhortationes-ad-monachos-joa.html">Sermones et Exhortationes ad Monachos</a> <span class="ed-tag" title="One of 2 editions of this text in the corpus">Argentine, 1516</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="157"
+          data-cluster="monastic-reform"
+          data-faith="4.69"
+          data-fluent="4.69"
+          data-gap="2.4"
+          data-work="sermones et exhortationes ad monachos">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">157</td>
+        <td data-label="Cluster"><a href="genres/monastic-reform.html">Monastic Reform</a></td>
+        <td class="num" data-label="Faithfulness">4.69</td>
+        <td class="num" data-label="Fluency">4.69</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">2.4</td>
+        <td data-label="Work"><a href="works/prdl-24394_sermones-et-exhortationes-ad-monachos-joa.html">Sermones et Exhortationes ad Monachos</a> <span class="ed-tag" title="One of 2 editions of this text in the corpus">Argentine, 1516</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="58"
+          data-cluster="crypto-occult"
+          data-faith="4.69"
+          data-fluent="4.75"
+          data-gap="1.3"
+          data-work="veterum sophorum sigilla et imagines magicae (pseudo-trithemian, 1612)">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">58</td>
+        <td data-label="Cluster"><a href="genres/crypto-occult.html">Cryptography &amp; the Occult</a></td>
+        <td class="num" data-label="Faithfulness">4.69</td>
+        <td class="num" data-label="Fluency">4.75</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">1.3</td>
+        <td data-label="Work"><a href="works/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae.html">Veterum Sophorum Sigilla et Imagines Magicae (pseudo-Trithemian, 1612)</a> <span class="ed-tag" title="One of 2 editions of this text in the corpus">Marne / Aubry, 1612</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="25"
+          data-cluster="marian-hagiographic"
+          data-faith="4.67"
+          data-fluent="4.67"
+          data-gap="1.1"
+          data-work="de purissima et immaculata conceptione virginis (strasbourg: hupfuff)">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">25</td>
+        <td data-label="Cluster"><a href="genres/marian-hagiographic.html">Marian &amp; Hagiographic</a></td>
+        <td class="num" data-label="Faithfulness">4.67</td>
+        <td class="num" data-label="Fluency">4.67</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">1.1</td>
+        <td data-label="Work"><a href="works/prdl-24369_de-purissima-et-immaculata-conceptione-virginis.html">De Purissima et Immaculata Conceptione Virginis (Strasbourg: Hupfuff)</a> <span class="ed-tag" title="One of 2 editions of this text in the corpus">Argentoratum, 1506</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="73"
+          data-cluster="crypto-occult"
+          data-faith="4.65"
+          data-fluent="4.65"
+          data-gap="1.4"
+          data-work="veterum sophorum sigilla et imagines magicae (pseudo-trithemian, 1612; e-rara witness)">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">73</td>
+        <td data-label="Cluster"><a href="genres/crypto-occult.html">Cryptography &amp; the Occult</a></td>
+        <td class="num" data-label="Faithfulness">4.65</td>
+        <td class="num" data-label="Fluency">4.65</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">1.4</td>
+        <td data-label="Work"><a href="works/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines.html">Veterum Sophorum Sigilla et Imagines Magicae (pseudo-Trithemian, 1612; e-rara witness)</a> <span class="ed-tag" title="One of 2 editions of this text in the corpus">e-rara, 1612</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="22"
+          data-cluster="marian-hagiographic"
+          data-faith="4.55"
+          data-fluent="4.55"
+          data-gap="1.1"
+          data-work="de purissima et immaculata conceptione virginis (buda)">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">22</td>
+        <td data-label="Cluster"><a href="genres/marian-hagiographic.html">Marian &amp; Hagiographic</a></td>
+        <td class="num" data-label="Faithfulness">4.55</td>
+        <td class="num" data-label="Fluency">4.55</td>
+        <td class="num" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">1.1</td>
+        <td data-label="Work"><a href="works/prdl-24370_de-purissima-et-immaculata-conceptione-virginis.html">De Purissima et Immaculata Conceptione Virginis (Buda)</a> <span class="ed-tag" title="One of 2 editions of this text in the corpus">Nürnberg, 1497</span></td>
+      </tr>
+      <tr class="tier-s"
+          data-tier="S"
+          data-pages="50"
+          data-cluster="devotional"
+          data-faith="4.5"
+          data-fluent="4.5"
+          data-gap="3.4"
+          data-work="de vanitate et miseria humanae vitae">
+        <td class="tier-letter" data-label="Tier">S</td>
+        <td class="num" data-label="Pages">50</td>
+        <td data-label="Cluster"><a href="genres/devotional.html">Devotional</a></td>
+        <td class="num" data-label="Faithfulness">4.50</td>
+        <td class="num" data-label="Fluency">4.50</td>
+        <td class="num gap-mid" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">3.4</td>
+        <td data-label="Work"><a href="works/prdl-24374_de-vanitate-et-miseria-humanae-vitae.html">De Vanitate et Miseria Humanae Vitae</a></td>
+      </tr>
+    </tbody>
+  </table>
+  <p class="muted scoreboard-note"><sup>&dagger;</sup> <strong>Damage density</strong> &mdash; <em>OCR damage density</em>: the count of <code>[unclear]</code> markers (spots the OCR could not resolve, marked as such rather than guessed) per translated segment. Higher means the underlying page scan is more damaged, not that the translation is worse; the translation honestly preserves the damage. Sort by this column to see which works' Latin sources are the roughest.</p>
+</section>
+
+<script>
+(() => {
+  const table = document.querySelector("#works-table");
+  if (!table) return;
+  const tbody = table.tBodies[0];
+  const tierRank = { S: 0, A: 1, B: 2, C: 3, F: 4, U: 5 };
+  let activeSort = { key: "tier", dir: 1 };
+
+  function value(row, key) {
+    if (key === "tier") return tierRank[row.dataset.tier] ?? 9;
+    if (["pages", "faith", "fluent", "gap"].includes(key)) {
+      return Number(row.dataset[key]);
+    }
+    return row.dataset[key] || "";
+  }
+
+  function render() {
+    const rows = Array.from(tbody.rows);
+    rows.sort((a, b) => {
+      const av = value(a, activeSort.key);
+      const bv = value(b, activeSort.key);
+      if (typeof av === "number" && typeof bv === "number") {
+        return (av - bv) * activeSort.dir;
+      }
+      return String(av).localeCompare(String(bv)) * activeSort.dir;
+    });
+    for (const row of rows) {
+      tbody.appendChild(row);
+    }
+  }
+
+  document.querySelectorAll("[data-sort]").forEach((button) => {
+    button.addEventListener("click", () => {
+      const key = button.dataset.sort;
+      activeSort = {
+        key,
+        dir: activeSort.key === key ? activeSort.dir * -1 : 1,
+      };
+      render();
+    });
+  });
+
+  render();
+})();
+</script>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-cols">
+      <div>
+        <h4>Browse</h4>
+        <a href="works.html">The works</a>
+        <a href="works-trithemius-4b.html">Trithemius 4B editions</a>
+        <a href="ciphers.html">The ciphers</a>
+        <a href="scoreboard.html">Quality tiers</a>
+      </div>
+      <div>
+        <h4>About</h4>
+        <a href="methodology.html">Methodology &amp; limitations</a>
+        <a href="LICENSE.html">License &amp; rights</a>
+      </div>
+      <div>
+        <h4>Project</h4>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus">Source on GitHub</a>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/blob/main/CONTRIBUTING.md">Contribute corrections</a>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/blob/main/CITATION.cff">How to cite</a>
+      </div>
+    </div>
+    <p class="footer-byline muted">
+      Machine-assisted English translations of the Latin works of Johannes Trithemius (1462&ndash;1516).
+      Every translation is machine-produced and independently audited; for scholarly quotation, check the Latin.
+      Translations &amp; generated data: public domain (CC0). Methodology, docs &amp; code: CC BY 4.0. Compiled 2026 by Ian Carlos Fabin.
+    </p>
+  </div>
+</footer>
+<script>
+  // Mobile nav toggle — collapses the site-nav into a hamburger menu on
+  // narrow viewports. ARIA-expanded reflects state; clicking a link or
+  // outside closes it.
+  (function () {
+    var toggle = document.querySelector('.nav-toggle');
+    var nav = document.getElementById('siteNav');
+    if (!toggle || !nav) return;
+    function setOpen(open) {
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+      nav.classList.toggle('is-open', open);
+    }
+    toggle.addEventListener('click', function () {
+      setOpen(toggle.getAttribute('aria-expanded') !== 'true');
+    });
+    // close on link click (mobile) and on Escape
+    nav.addEventListener('click', function (e) { if (e.target.tagName === 'A') setOpen(false); });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && toggle.getAttribute('aria-expanded') === 'true') setOpen(false);
+    });
+    // reset on resize back to desktop
+    window.addEventListener('resize', function () {
+      if (window.innerWidth > 760) setOpen(false);
+    });
+  })();
+
+  // Theme switcher — persists choice in localStorage under 'tc-theme'.
+  // Theme switcher — steganographia (default dark), parchment (light), ink
+  // (high-contrast), candlelight (warm dark), and auto (follow OS preference).
+  (function () {
+    var root = document.documentElement;
+    function resolveAuto() {
+      try {
+        return window.matchMedia &&
+               window.matchMedia('(prefers-color-scheme: light)').matches
+               ? 'parchment' : 'steganographia';
+      } catch (e) { return 'steganographia'; }
+    }
+    function applyTheme(t) {
+      // track the chosen theme (incl. auto) on data-tc-theme; paint the
+      // concrete theme on data-theme.
+      if (t === 'auto') {
+        root.setAttribute('data-tc-theme', 'auto');
+        var r = resolveAuto();
+        if (r === 'steganographia') root.removeAttribute('data-theme');
+        else root.setAttribute('data-theme', r);
+      } else {
+        root.removeAttribute('data-tc-theme');
+        if (t === 'steganographia') root.removeAttribute('data-theme');
+        else root.setAttribute('data-theme', t);
+      }
+    }
+    var current = 'steganographia';
+    try { current = localStorage.getItem('tc-theme') || 'steganographia'; } catch (e) {}
+    applyTheme(current);
+    // if OS preference changes while 'auto' is selected, re-resolve live
+    try {
+      window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', function () {
+        if ((localStorage.getItem('tc-theme') || '') === 'auto') applyTheme('auto');
+      });
+    } catch (e) {}
+    document.querySelectorAll('.theme-switcher button[data-set]').forEach(function (btn) {
+      var pressed = btn.getAttribute('data-set') === current;
+      btn.setAttribute('aria-pressed', pressed ? 'true' : 'false');
+      btn.addEventListener('click', function () {
+        var t = btn.getAttribute('data-set');
+        try { localStorage.setItem('tc-theme', t); } catch (e) {}
+        applyTheme(t);
+        document.querySelectorAll('.theme-switcher button[data-set]').forEach(function (b) {
+          b.setAttribute('aria-pressed', b.getAttribute('data-set') === t ? 'true' : 'false');
+        });
+      });
+    });
+  })();
+  // Reading progress bar (overall page scroll) + percentage indicator
+  (function(){
+    var bar=document.getElementById('readProgress');
+    var pct=document.getElementById('readProgressPct');
+    if(!bar)return;
+    var ticking=false;
+    function onScroll(){
+      if(ticking)return; ticking=true;
+      requestAnimationFrame(function(){
+        var h=document.documentElement.scrollHeight-window.innerHeight;
+        var p=h>0?Math.min(1,window.scrollY/h):0;
+        bar.style.transform='scaleX('+p.toFixed(3)+')';
+        bar.classList.toggle('is-active', p>0.02);
+        if(pct){
+          var n=Math.round(p*100);
+          pct.textContent=n<1?'':n+'%';
+          pct.setAttribute('aria-hidden', (n<3).toString());
+        }
+        ticking=false;
+      });
+    }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    onScroll();
+  })();
+  // Random work button — uses the work-ID list baked in at build time (no
+  // fetch() needed, so it works on file://, HTTP, and GitHub Pages).
+  (function(){
+    var btn=document.getElementById('randomWorkBtn');
+    if(!btn)return;
+    var workIds=window.TC_WORK_IDS||[];
+    btn.addEventListener('click',function(e){
+      e.preventDefault();
+      if(!workIds.length){
+        // graceful fallback: go to the works listing
+        window.location.href=btn.href;
+        return;
+      }
+      var pick=workIds[Math.floor(Math.random()*workIds.length)];
+      // resolve relative to this page (works/<id>.html)
+      var base=btn.href.replace(/works\.html.*$/,'');
+      window.location.href=base+'works/'+pick+'.html';
+    });
+  })();
+  // Cipher substitution tables: tag each .table-scroll that overflows
+  // horizontally so the CSS right-edge scroll affordance (the ::after fade)
+  // only appears when there is actually more to scroll sideways.
+  (function () {
+    function tagScroll() {
+      document.querySelectorAll('.table-scroll').forEach(function (ts) {
+        if (ts.scrollWidth > ts.clientWidth + 2) ts.classList.add('scrollable-x');
+        else ts.classList.remove('scrollable-x');
+      });
+    }
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(tagScroll);
+    window.addEventListener('load', tagScroll);
+    var t; window.addEventListener('resize', function () { clearTimeout(t); t = setTimeout(tagScroll, 150); });
+  })();
+</script>
+</body>
+</html>

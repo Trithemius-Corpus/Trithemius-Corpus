@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://trithemius-corpus.github.io/Trithemius-Corpus/sitemap.xml

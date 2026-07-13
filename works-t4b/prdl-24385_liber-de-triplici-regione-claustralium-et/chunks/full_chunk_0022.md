@@ -1,0 +1,21 @@
+--- Page 053 ---
+
+Nor will it be able truly to rejoice, unless it comes to that unchangeable and highest good, which no instability of change overshadows. The highest truth and unchangeable good is God, who said to Moses: “Man shall not see me and live.” And the disciple of the highest truth says: “No one has ever seen God.” But the prophet too, addressing God, says: “Truly, you are a hidden God.” Although, then, the three aforesaid powers of the soul cannot perfectly comprehend their object in this life, none of them ought to cease from its office, lest it incur the danger of failing precisely where it has abandoned the practice of striving. Therefore the citizens of this middle region mortify evil affections within themselves; they adorn themselves with continual virtues; they direct all their works by a right intention; they depart least of all from the office of reason.
+
+The citizens of this region are scholastic, speculative, and active men, devoted to various and indeed honorable arts: men who subject the sensual or carnal powers to reason; who do not neglect to cleanse these three powers of the soul from all illicit objects; who always raise their intention to the end of honorable usefulness; who reform the will, in act or in habit, toward its proper end. Therefore the cenobite who loves this purification and desires to ascend to the third region of the spirit must, while dwelling in the middle region, observe the following principal articles.
+
+The summary of the truth of this middle region is expressed in seven principal articles.
+
+Whoever in this middle region desires, according to the vow of his profession, to make progress should diligently take care to observe the following articles. If he neglects to keep them, he shows that he is still a citizen not of the middle but of the lowest region. For, as we said above, no one can remain in this middle region without a continual effort to advance; in it, not to have gone forward is to fail, and not to have ascended is to descend. Therefore the monk who, having overcome the dark region, has at last deserved, with the Lord’s help, to come to this middle one,
+
+--- Page 054 ---
+
+must take care not to abandon his effort to advance even for a little while, but always to stretch himself toward what lies further on. And he should remember the admonition of the wise man, who says: “Unless you constantly hold yourself in the fear of the Lord, your house,” that is, your conscience, “will quickly be overthrown.” For it is impossible for anyone to make progress in holy conduct if, through fear of the Lord, he neglects to renew daily his effort to advance. The effect of this renewal is shown to be rightly ordered when the truth of the articles of the middle region is duly observed. The first article, therefore, is the diligent intention of the cenobitic end; the second is the due restraint of the sensual powers; the third is the faithful cleansing of the powers; the fourth is the careful reform of the works of the lowest region; the fifth is the ordered institution of the true cenobitic progress; the sixth is the adaptation of the powers for entrance into the third region; and the seventh is the exemplary or experiential certainty of all the aforesaid matters.
+
+On the continual and diligent pursuit of the cenobitic end.
+
+Article I.
+
+Since the end is first in the intention of the wise person, and since each thing in its own kind is judged more perfect the more closely it approaches its end, the monk who cultivates this middle region should always consider why he entered religious life. If he finds that his intention is rightly ordered, he should strive to continue it; but if he finds that it is corrupt, he should not neglect to reform it according to the rectitude of its due end.
+
+But note that, in spiritual exercises, the end through which the virtue of monastic conduct is increased in merits is described as twofold. The first is charity, which is called the principal and ultimate end, to which all monastic exercises are ordered as to their first cause. Whatever good we do must always and chiefly be ordered to this end, because no work of virtue attains merit unless charity always establishes its proper foundation.

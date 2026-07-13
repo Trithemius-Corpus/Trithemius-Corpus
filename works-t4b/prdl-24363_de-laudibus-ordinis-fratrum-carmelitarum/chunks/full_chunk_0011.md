@@ -1,0 +1,21 @@
+--- Page 026 ---
+
+Virgin of Mount Carmel, and are deservedly so and are openly proclaimed as such.
+
+*On the Migration of the Brothers into Europe. Chapter 8.*
+
+When, because of the sins of the people, the Holy Land had been brought into the hands of the faithless Saracen nation, in the six hundred thirty-ninth year after the Lord's Passion, the Carmelite brothers, who had formerly been dwelling in the cities in growing numbers, were so greatly afflicted by the infidels that they were compelled to return to the hermitage of Mount Carmel. For they could no longer remain in the cities, since the Saracens oppressed them so severely that they left them no quiet time to serve God, and utterly denied them the necessities of life.
+
+And so the brothers remained on Mount Carmel, leading a solitary life in no small poverty, until, after many years had passed, the Holy Land was again recovered by Christians and the route for pilgrims to it was made peaceful. This recovery of the Holy Land was accomplished through Duke Godfrey, in the year of the Lord 1099. Then, after a few years, as pilgrims flowed in from every side, and especially from the regions of Europe, the number of brothers on Mount Carmel increased greatly, so much so that because of their multitude they filled mountains and cities. O, if you had then seen the beauty of the Carmelite order in its majesty, you would have cried out that there had never been another like it.
+
+It was a delight to see innumerable brothers dwelling around Mount Carmel in cells and caves of the rocks, wholly of one mind, serving the most high God by day and by night, and most devoutly; despising the world with its pleasures for love of Christ. At that time religion among them was supreme, and the perfection of regular life supreme, since the brothers, while remaining in the flesh, had strongly conquered the flesh itself with its vices. The order flourished in peace, though a little before, disturbed by the attacks of the faithless, it had been thought to be failing. Pilgrim brothers came from all Europe and humbly submitted their necks to monastic disciplines on Mount Carmel.
+
+--- Page 027 ---
+
+But that tranquillity did not last long in the Holy Land. For when John, king of Jerusalem, had died, the Holy Land could not have its customary assistance from the apostolic see, since Emperor Frederick, through his rebellion, was resisting the supreme pontiff, until it was again captured by the Saracens. Thereafter the Carmelite brothers were afflicted by the infidels with such great tribulation that nowhere in Judea did they any longer seem safe.
+
+Therefore, in the year of the Lord 1238, when a council of the whole order had been convened together on Mount Carmel, many, with the prior's permission and the brothers' counsel, departed from Palestine and returned to Europe, whence they had come, with their rule, their ordinal, and their statutes. Some came to Cyprus, others to France and England, and some to Germany, each to the place where they thought they could find a means of preserving the order. Many, however, remained on Mount Carmel, though they too were expelled by the Saracens shortly afterward.
+
+O lamentable calamity of a most holy order: it had lately rejoiced in almost countless sons, but now, with necessity pressing upon it, it is abandoned by its brothers. Who, unless he be made of stone, would not be softened by that desolation of Carmel, when the order was destroyed not only on one mountain, but in the monasteries of many throughout all Judea? But how could the place of Elijah and of the Carmelites remain safe, when that whole land, which our Lord, the king of heaven, sanctified by his bodily presence, is trampled by the nations?
+
+And so, when the Carmelites came into Europe, places to dwell in were arranged for them in different regions by the authority of the supreme pontiff, and immediately, though with difficulty, they established several convents. Great compassion for Christ's brothers held people, and those whom they grieved to see expelled from their own seats they supported with generous munificence. From this time, therefore, the order of the brothers greatly increased throughout all Europe, and by its way of life and teaching brought, and continues to bring down to this day, great fruits in the church of God.

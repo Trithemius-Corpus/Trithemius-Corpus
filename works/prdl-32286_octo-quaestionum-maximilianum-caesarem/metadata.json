@@ -1,0 +1,46 @@
+{
+  "id": "prdl-32286_octo-quaestionum-maximilianum-caesarem",
+  "title": "Liber Octo Quaestionum ad Maximilianum Caesarem",
+  "year": "1534",
+  "source_year": "1534",
+  "year_note": null,
+  "edition_info": "Coloniae, 1534 (BSB)",
+  "edition_info_raw": "( Coloniae , 1534 ) BSB",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 139,
+  "genre_cluster": "crypto-occult",
+  "tier": "S",
+  "faithful_adj": 4.88,
+  "fluent_adj": 4.9,
+  "coverage_pct": 100.0,
+  "chunks_graded": 41,
+  "chunks_total": 41,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "codex-sweep",
+    "minimax",
+    "minimax-v2",
+    "public"
+  ],
+  "source": {
+    "provider": "BSB",
+    "url": "http://daten.digitale-sammlungen.de/bsb00036371/image_1",
+    "download_url": "http://download.digitale-sammlungen.de/BOOKS/pdf_download.pl?id=bsb00036371",
+    "prdl_id": "32286"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 41,
+    "n_missing_segments": 0,
+    "latin_source_file": "full.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-32286_octo-quaestionum-maximilianum-caesarem_parallel.html"
+  }
+}

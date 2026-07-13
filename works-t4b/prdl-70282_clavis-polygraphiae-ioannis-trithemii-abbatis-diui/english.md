@@ -1,0 +1,18979 @@
+[segment 1]
+--- Page 001 ---
+
+TO THE DIVINE MAXIMILIAN CAESAR,
+a letter of Johannes Trithemius, abbot of Saint James
+at Würzburg, on the Polygraphia.
+
+I was wavering in a hesitant mind, most invincible Emperor Maximilian, and I myself was somewhat in doubt whether I would be doing something worth the trouble if I dedicated the book of our Polygraphia to your Caesarean majesty. For among the great you are greatest, among the more powerful most powerful, and among all the wise by far the wisest; therefore nothing should be inscribed to you unless it is great, nothing dedicated unless it has been worked out with the highest learning. But I, having attained no literary learning, or little, hesitated for a long time, not without reason, whether I ought to bring my trifles before so great a majesty, since I am neither fit by talent to elaborate anything nor adorned with the necessary grace of speech.
+
+For I know, and cannot deny, how scanty my equipment is, how rude my talent, and how lacking I am in any vein of eloquence for speaking. For this reason, after due consideration, I stood back for some time and feared to appear before your glorious majesty as an inept writer. For since, after God, you are by right lord of the world, it is no wonder if I, an unlearned man and the least of monks, fear the judgment of so great a majesty as yours, and dread to offer those writings of mine which I know are not worthy of your hands. And while I was turning these things over in my mind, a messenger arrived with letters sent by your highness, by which you summoned me to Cologne, the expenses necessary for the journey having already previously been assigned through another. But when I reread the letters of your serenity, confidence at once overcame modest shame, and reflection on your innate gentleness drove out fear.
+
+For I know that your disposition is most mild: since you are the most modest of all, you are accustomed to be gentle to the humble and to resist the proud. You do not know how to be vainly exalted, nor, in the manner of tyrants, to despise the humble who are devoted to your highness; because just as you have nowhere to grow on earth, so no envy will penetrate your mind. You are the greatest; you have also accomplished many great things, no less bravely than wisely, both in peace and in war. By these you have obtained an eternal name, and, with reverence for the highest honor, you are celebrated by the love and favor of all your subjects. These are the riches of princes: the love and favor of the people, and doing justice to each person according to the commandment of the charity of God. Since, therefore, all bear your name to the stars with praises, and all proclaim you most mild and most humane, there was thereafter no reason why I in particular should suspect you of being more severe, especially when by your letter you deign to draw me to write. Thus at last encouraged by weighing these things, I laid aside all fear and took up great confidence in the gentleness innate in you.
+
+--- Page 002 ---
+
+Indeed, since all draw confidence from the fountain of your piety, why should I alone not approach trustfully? You, who are always gracious, mild, and pious to all, surely cannot be cruel to me alone. Therefore, with that humility which befits me, which I owe and can show, I approach the throne of your most excellent majesty, prostrate on the ground; I devotedly offer the aforesaid work of the Polygraphia; and I humbly commend my littleness to your serenity, as a servant to his lord. Therefore now receive, most merciful Caesar, the very small little gift that I bring, in which may you deign to weigh my mind, most subject to you, not its value.
+
+In the following synthemata of our Polygraphia there are, in certain places, some mysteries wrapped in riddles, lest the deeper meaning of the art, which lies hidden, should become manifest to the understanding of all. Just as not all things befit all people, so not everything everywhere is always suitable for everyone. Therefore certain mysteries are enclosed here, which in my judgment can be more useful and more necessary to none than to princely men. For the more matters they are concerned with, the greater caution of secrecy must be applied in their counsels. For this book teaches princes to command secrecy over their private matters. But because your Caesarean majesty, occupied with many affairs, does not have time to examine those things which lie wrapped in mysteries, lest you be deprived of the fruit of my labor, I have added a little explanatory book for the whole work, which I have entitled the key of the Polygraphia; with it as guide you will more easily understand all the things obstructed here by figures. May God preserve you unharmed for our salvation. I wrote on the twenty-sixth day of the month of April, in the year of Christ 1508.
+
+--- Page 003 ---
+
+TABLE OR INDEX OF THE LUCUBRATIONS
+of Johannes Trithemius, first abbot of Spanheim and afterward of Saint James
+at Würzburg.
+
+Johannes Trithemius, abbot, was born in the village of Trittenheim, in the diocese of Trier, on the banks of the river Moselle, on the first day of the month of February, at the eleventh hour and thirtieth minute after midday, in the year of the Lord’s nativity 1462, in the tenth Roman indiction; his father was Johannes of Heidenberg, and his mother was called Elisabeth of Longuich. This was the very year in which the city of Mainz, in the dissension of two pontiffs, was captured, lost its liberty, and found servitude, with many of its citizens driven into exile; it was the fourth year of Pope Pius, the second of that name, and the twenty-second of Emperor Frederick III.
+
+In the year of the Lord 1482, in the monastery of Spanheim in the diocese of Mainz, on the first day of February, the day on which he had once been born, he put off secular dress and there assumed the monastic habit under the rule of the divine father Benedict, according to the observance newly introduced. In the following year, which was 1483, after Johannes of Colenhusen, the abbot, had been transferred by canonical postulation to Segenia, Johannes Trithemius, by the common election of the brothers, was promoted and ordained abbot of the said monastery of Spanheim on the fourth day before the Kalends of July, and presided for twenty-three years, one month, and nineteen days.
+
+When these years had passed, not without many labors, provoked by the rashness of certain rivals, he accepted the abbacy of Saint James at Würzburg, which was being offered to him, and of his own will resigned Spanheim, full of useless cares. In both places he wrote several small works, the titles of which he lately set down for me with his own hand in the attached little schedule. Since you, as a friend, ask me for their titles, I gladly yield to your wishes, so that from consideration of his many labors you may hold more closely the memory of our common friend and teacher.
+
+First, then, I shall set down the titles of those lucubrations which he laboriously composed while he was abbot at Spanheim. He wrote, first, The Constitutions of His Order, which were made in provincial chapters by order of the presidents, one book. On the Manner of Celebrating a Provincial Chapter, one book. On the Rule of Saint Benedict, two books. Homilies and Exhortatory Sermons to His Monks, two books, which he dedicated to his predecessor. On the Temptations of Cloistered Persons and Their Remedies, two books.
+
+[segment 2]
+--- Page 004 ---
+To Nicolaus, priest of Memmingen, On the Priestly Life, one book. Against the Private Property of Monks, one book. On the Vanity and Misery of This Life, one book. A Penthic Work, that is, a mournful work On the Ruin of His Order, one book. On the Illustrious Men of His Order, four books. Praises of the Order of the Carmelite Brothers, two books. To Gerlacus, abbot of Deutz, Praises of Manual Scribes, one book. To Johannes Dalburg, bishop of Worms, On Ecclesiastical Writers, one book. On the Praises of Saint Anne, grandmother of the Lord, one book. To the Questions of Rutger Sicamber, canon of Deventer, one book. A Chronicle of His Monastery of Spanheim, a volume of no small size, one book. A Chronicle or Annals of the Monastery of Hirsau, two large volumes. A Chronicle of the Succession of the Dukes of Bavaria and the Counts Palatine, addressed to Philip, count palatine and prince-elector, one book. The Life of Saint Hirmina, nun and first abbess in the Trier granary, one book. On the Misery of Cloistered Prelates, two books. Praises of Saint Andrew the Apostle, one book. Praises of Saint Joseph, foster-father of the Lord, one book. Praises of Saint Benedict the Abbot, one book. Praises of the Monastic Life, one book. Praises of True Penitence, one book. Praises of the Study of the Divine Scriptures, one book. The Monologue of a Man Devoted to God, addressed to himself, one book. On the Miracles of the Holy Mother Anne, one book. To Ulrich, canon of Cologne, on questions concerning the Gospel of John, one book. To the same, on questions concerning the Psalms, one book. To the presiding officers of the annual chapter on the Bursfelde observance, he abridged the statutes of that same union, one book. The Spiritual Exercise of Monks, one book. An Epitome or Breviary of the same, one book. On Ecclesiastical Computation, one book. On the Illustrious Writers of Germany, addressed to Jakob Wimpfeling of Sélestat, one book. Spanheim Letters to various persons, four books. Orations delivered in chapters and elsewhere, twenty-four in number, which make one book. He wrote forty very fine sermons to his brothers of the monastery of Spanheim, one book. Sermons to the people on feast days, one book. Many supplicatory prayers to God and the saints, one book. From the Greek language he translated into Latin Maximus the Abbot On the Incarnation of the Lord; also the Anathemas of Saint Cyril, archbishop of Alexandria, against the heretics, promulgated in the third Synod of Ephesus, and certain letters of that same synod. He also wrote, for the edification of monks, a notable work which he entitled On the Threefold Region of Cloistered Persons, three books. He wrote certain other smaller works as well, whose titles he did not indicate to me. These, most loving brother Nicolaus, are the little works of Trithemius, which--
+
+[segment 3]
+for twenty-three years while he was abbot he composed at Sponheim, to the honor of God, amid cares and the continual management of household affairs, reading or writing day and night whenever he could steal time for this duty. Over the years during which he presided there, he brought into the Sponheim library a very great treasure of books in every field, not only by the art of printing but also in manuscript. For when I was with him for the space of one year, to learn Greek and Hebrew letters from him, I counted two thousand volumes in the library, of which at least eight hundred had been properly written by pen on parchment and paper. I often heard from his own mouth that he had spent more than two thousand florins on books. These he had not taken from the substance of the monastery, which had always been very slight, but since he was known and dear to many princes, he spent for the most part on books the gifts with which he was honored by them. For he is the greatest lover and cultivator of books, beyond all whom I know living in the flesh today. It is said, however, by many that his successor, who is now abbot in Sponheim, has alienated many volumes; whether this is true, I certainly do not know.
+
+In the year of the Lord 1504, when a fierce war had arisen between the kingdom and Philipp, count palatine, Trithemius, for fear of the enemy, withdrew with his library and the monastery’s goods to the nearby town of Kreuznach; and I likewise returned to my own affairs. But in the year 1506, in the month of October, Trithemius himself, stirred by the envy of certain men, accepted the abbacy of Saint James at Würzburg and resigned that of Sponheim. There, at leisure, he writes various works, the titles of which he recently sent to me at my request.
+
+To Emperor Maximilian he published a wondrous work, which he entitled Polygraphy, six books. To the same, a Key to the same Polygraphy, one book. Responses to eight questions of the same emperor, one book. To Joachim, margrave of Brandenburg and prince-elector, twenty books of various questions, orations, and propositions. To the same, On Prenotations Permitted to a Christian and Not Permitted, two books. To the same he wrote that wondrous and laborious work of Steganography, eight books, which that rash Bovillus, not understanding it, criticized most ignorantly and most falsely. To the same prince, a book of letters, one book. To the same, Against Malefactors, three books. To Jacob Trithemius his brother, an itinerary of his life, two books. To Burkhard von Horneck, physician, On the Private Property of Nuns, one book.
+
+[segment 4]
+--- Page 006 ---
+For twenty-three years, while serving as abbot, he labored by lamplight at Sponheim to the honor of God, amid cares and the continual occupation of household affairs, reading or writing day and night whenever he could steal a little leisure for himself. During the years in which he presided there, he brought into the library of Sponheim a very great treasury of books in every field, not only printed books but also manuscripts. For when I was with him for the space of one year to learn Greek and Hebrew letters from him, I counted two thousand volumes in the library, of which at least eight hundred had been handsomely written with the pen on parchment and paper. I often heard from his own mouth that he had spent more than two thousand florins on books. He had not taken these from the substance of the monastery, which was always very scanty; rather, since he was known and dear to many princes, he spent for the most part on books the gifts with which he was honored by them. For he is the greatest lover and cultivator of books above all whom I know today living in the flesh. It is said, however, by many that his successor, who is now abbot at Sponheim, has alienated several volumes; whether this is true, I certainly do not know.
+
+In the year of the Lord 1504, when a fierce war had broken out between the realm and Philip, count palatine, Trithemius, from fear of the enemy, withdrew with his library and the possessions of the monastery to Kreuznach, the nearest town; and I likewise returned to my own affairs. But in the year 1506, in the month of October, Trithemius himself, stirred by the envy of certain persons, accepted the abbacy of Saint James at Würzburg and resigned that of Sponheim. There, in quiet, he writes various works, whose titles he recently sent to me at my request. To Maximilian Caesar he issued a remarkable work, which he entitled Polygraphy, in six books. To the same man, the key to the same Polygraphy, one book. Responses to Eight Questions of the same Caesar, one book. To the same man, On the Seven Intelligences Moving the Spheres, one book. To Joachim, margrave of Brandenburg, prince-elector, Various Questions, Orations, and Propositions, twenty books. To the same man, On Foreknowings Lawful for a Christian and Those Not Lawful, two books. To the same man he wrote that remarkable and laborious work of Steganography, eight books, which that rash Bouillus, not understanding it, criticized most ignorantly and falsely. To the same prince, Letters, one book. To the same man, Against Sorcerers and All Arts and Superstitions Forbidden by the Church, five books. To the same man, On the Causes and Cure of the Falling Sickness and of Harmful Magic, three books. To Jacob Trithemius, his brother, the Itinerary of His Life, two books. To Burghard von Horneck, physician, On the Private Property of Nuns, one book.
+
+[segment 5]
+--- Page 007 ---
+An eighth, on the wounds of Christ, which begins thus: “Let us adore Jesus Christ, let us mourn him crucified.” A ninth, on the compassion of blessed Mary ever virgin; and it begins thus: “Come, let us weep with devout mind, sharing in the compassion of the blessed Virgin Mary,” to the melody, namely, “Ave praeclara.” A tenth, on Saint Joachim, father of our Lady, which begins thus: “Let us adore the Trinity, let us praise together the unity of Father, Son, and Spirit.” An eleventh, on the good angel proper to each person. A twelfth, for the proper Mass of any priest. A thirteenth, on Saint Maximus, bishop of Mainz. A fourteenth, on Saint Martha, virgin, Christ’s hostess. A fifteenth, on Saint Mary Magdalene. A sixteenth, on Saint Mary of Egypt. A seventeenth, on Saint James the Greater, apostle. An eighteenth, on Saint Andrew the Apostle. A nineteenth, on Saint Benedict, abbot. A twentieth, on All Saints. And for each of the named memorials and saints he composed individual new offices of the Mass, conformable to the divine Scriptures.
+
+He wrote besides a little work of meditations and prayers on the Lord’s incarnation, nativity, life, passion, and death, suited to devotion, in two books. The Mirror of Heavenly Teaching, serving in no small part for compunction of mind, one book, which begins thus: “The beginning of human salvation.” He also composed many most devout meditations and prayers on our Lord Jesus Christ, on his most holy mother the Virgin Mary, and on various saints, arranged with beautiful variety, along with a great many other things which all devout posterity will see and admire.
+
+These, my dearest Nicolaus, are the works which Trithemius our abbot has produced in almost thirty-two years of continuous scholarly labor, apart from those, known to me, which are not yet finished but are still being worked on under the hammer. Farewell, from my house at Durach, on the fifth day of the month of October, in the year of our salvation one thousand five hundred and fifteen. Johannes Duraclusius.
+
+Here ends the index of the works of Johannes Trithemius, abbot of Saint James at Würzburg, from the letter of Johannes Duraclusius, his disciple, to Nicolaus Hamerius Emelanus.
+
+[segment 6]
+--- Page 008 ---
+
+Preface of Johannes Trithemius, abbot of Saint James at Würzburg, in the Polygraphia, to Emperor Maximilian.
+
+We have read that many wise men of old, philosophers, kings, and princes once devised various and manifold methods by which they might safely entrust to their messengers, when they were to be sent to rather distant places, the secrets of their counsel and whatever confidential mystery had to be conveyed: so that they might become fit for carrying them out and secure from every incursion of the wicked, lest either the simplicity of the cabalists should lay bare the mystery, or the inborn curiosity of the Bacuceans should bring harm to apostolic matters.
+
+Great among these was Caesar Augustus of the Romans. Wishing in difficult affairs to use the service of obscure messengers, he changed the breathings of conceived speech from clear signs into dark ones; and, by the dance of metathesis, with a fine invention he made their barbarous form, though resisting his wishes, conform to his command. And that receptive and, as it were, perpetual order, nevertheless subject to will and to the reckoning of time, although it keeps messengers safe on the road from the incursion of the Bacucceans, yet, since it does not preserve the regulated limits of its own system, will make all who look upon it anxious with suspicion about the matter.
+
+Archimedes of Syracuse, easily the chief of mathematicians, took a white bird suited to his designs, bare at the head and feet, and fastened it around to a staff cut in the form of a tetragon; and, when the ministers had been set in order in due proportion, he entrusted the work to the flying instrument, until the image of the white bird appeared changed into a magpie. When this had been properly done, he loosened with his own hand what had been fastened; and when he had allowed it to fly away, there was suddenly a great separation of appearances among the familiar things of the inner chambers, and at once there arose the previously monastic monster of a twisted image, exceedingly wandering; in whose appearance no one could think what it was. Nor did the disagreement of the owls come to rest before the master’s image had skillfully bound the magpie again with a similar tetragon.
+
+Marcus Tullius Cicero, the eloquent orator, using both talent and art, changed the small details of phrase into signs, and set the zeal, or character, of his own will in place of the customary phrase. In this very novelty, moreover, he used such abundance that his invention could suffice for almost all things in the world. To these fore-announcers of mysteries the training of art gave a remarkable agility, so that, contrary to the nature of all, they make use of solid ground with the steps of their feet; and they serve the will of a good master not by small intervals or moments, but by whole steps. A king can always use their obedience very safely, although not without great labor and the manifest suspicion of the Bacaceans.
+
+But Cyprian, most holy bishop and martyr of the church of Carthage, wishing to provide for the benefit of Christians, considerably enlarged the very teachings of the Ciceronian system, and aided what had been lacking for our customs.
+
+Pharamund also, the forty-third after Marcomer,
+
+[segment 7]
+--- Page 009 ---
+
+the very powerful king of the Franks in Germany, when, in the four hundred twenty-fourth year of the Lord’s birth, he forcefully entered the territories of the Gauls, attached foreign minute signs to his secrets, so that everything might be done safely.
+
+Clodius Crinitus also, Pharamund’s elder son, succeeding his father in the kingdom of the Franks, after he had violently brought all Gaul under his rule, ordered all the Gauls, as conquered slaves, to have their hair shorn and their beards shaved; but he commanded the Franks, the victorious lords of the Gauls, to grow their hair and beard. Hence he was called “Crinitus.” In imitation of his father, he wrapped the mysteries of his counsel in signs of his own and in foreign ones.
+
+Charles, surnamed the Great, the sixty-third king of the Franks after Marcomer, who was the first of the Franks to rule the Romans, with Nanno the grammarian as his teacher, wishing to adorn the German language, which was his paternal tongue, with grammatical rules in imitation of Latin, began an arduous work; yet, being entangled in many affairs and overtaken by death, he did not complete it. He attached owls of the mystery, various and numerous; Germany had no one born in greater Brabant or Namur. To each prefect of the kingdom he assigned individual owls by his art.
+
+The Northmen, having come out from the borders of Gothia, when they once cruelly devastated Gaul, summoned owls from Greece and prepared a safe hiding-place for their secrets, which today is known to few. Our Bede, a monk in England, not ignorant of the Northmen’s deed, described many ancient inventions similar to these, by which they made the path of the mystery, though bright, obscure. He himself was the first to commend artrology to the memory of later men, and he invented dactylology.
+
+There were those who distinguished minute signs by the hissings of their accident, by whose prudence night was turned into day, and without the ministry of owls light shone in darkness. Concerning these matters, moreover, the illustrious count palatine and prince elector, who is also concerned with our Steganography, received from us the clear experiment of a proven lesson.
+
+Others, multiplying minute signs by regulated division, overturned, after the fashion of barbarians, the patterns of nature, secreting in darkness the figures of things being born by a shadow; and where the secret of counsel required it, they supplied the cabala to the absent through diapyramata. Great labor is involved in these things, and the long exercise of an aged mind; in this no one suddenly becomes skilled in practice. Necessity endures all things.
+
+There were also those whom celestial harmony taught to compose foreign sounds, of which there was a twofold use for those who understood: while the one suspended the meaning, the other raised the mind to the heavens. God can do all things. Many attempted to seek light in shadow without light, yet they could not, because the fire lies buried in ashes.
+
+Some practiced painters of masks divided one wind precisely into two, of which one [unclear]
+
+[segment 8]
+--- Page 010 ---
+
+always lurks in darkness; the other, a lover of light, is philosophical, hates darkness, loves light, and guards the secret by means of an owl. Again, as Bede attests, there were some whose intention, advancing to wider things, bound the wind invisible to the eyes to visible things, and compelled many plants, and no less stones and shrubs, which lack voices, to speak with a human tongue. Why should I mention brute animals, when all things obey the art? This secret is rightly preferred to all inventions up to now, through which hidden things assume the strength and power of mysteries; yet reason is pleased to hide a great thing from the little, and by no means to entrust pearls to swine. From nothing, nothing is brought back.
+
+The multitude of visible things known to us is great, but invisible things remain remote from us. If the latter are prudently adapted to the former, the enlightened mind of man will know and behold marvelous things. But to treat more fully of these matters is not part of the present purpose; since they are greater and weightier, they require another work and another time.
+
+Matthias, most powerful king of Hungary, and a hammer of the Turks harder than adamant, who in our age waged many victorious battles against the enemies of the cross of Christ, discovered many things by wonderful ingenuity and art. He adorned owls with periphrasmata, kept his own mysteries, made them with manifold variety, and by manifest industry destroyed the counsels of his enemies. He preferred wisdom to gold; therefore he always triumphed as a glorious victor.
+
+A sound mind in a well-mortified body belongs to the wise man; driven upward by desire for higher understanding, when it has returned by means of the likeness of the binary from the ternary into unity, thereafter it will easily rise to the denary. Pythagoras of Samos, that philosopher, warned his disciples that the quaternary must not be forgotten, in which the first perfection of numbering is contained. For thus we count: one, two, three, four. Stop: you have the mind, for you have ten. For the denary is the head of perfection. What are eleven, except the denary and unity? What is thirty? Three times ten. What is forty? Four times ten. You have a hundred, and you have not departed at all from the quaternary. And what is a hundred, except ten times ten? Deep mysteries lie hidden in these things, and they are manifest to few.
+
+For love of brevity we pass over in silence many who, aiding nature by art, clung with prudence to secrets, and what seemed impossible to many who did not know, by keen study they brought into easy use. A cultivated mind can do great things, and he who cleaves to God becomes higher than the world in understanding. Many are the mysteries of kings, and counsels full of cares, in which confidence and faith are required; one who is rarely credulous suffers harm, and one who doubts, even when trust is present, more often grants admission. Therefore it would have been worth the effort for all princes to be philosophers and endowed with singular wisdom, just, gentle, benevolent, and distinguished by munificence, so that they themselves would neither wish to deceive others nor be easily supplanted by others. Justice alone, the companion of prudence, makes a prince glorious.
+
+N
+
+The number 1234, in which the greatest secret lies hidden.
+
+Kodak
+Gray Scale
+
+[segment 9]
+--- Page 011 ---
+
+[segment 10]
+After this he returned to Gaul and repaid us evil for good, and shamefully violated the covenant of Christian friendship. For when he was asked by Lord Germain de Ganay, a mutual friend and later bishop of Orléans, what he had found and seen at my house in Sponheim, he wrote back falsehoods instead of truths and lies instead of benefits, condemning and rashly judging things that he was by no means able to grasp with his understanding. For since, through envy and falsehood, he believed that the palm of learning would be granted to him, he wrote back to the aforesaid most learned man a letter full of falsity, lies, wrongs, and many insults. In it, making mention of steganography which he had not understood, he falsely, mendaciously, and with far too injurious a rash presumption proclaimed me devoted to wicked arts, a magician and necromancer.
+
+With God’s mercy, I shall shortly answer his most mendacious injuries and blasphemies in such a way that all posterity may understand both that I am innocent and that Bovelles is, in this matter, an impious, cruel, and rash liar. I steadfastly affirm, truthfully declare, and confidently swear upon my soul that I have never had any dealings with demons, nor with wicked or pernicious magical or necromantic arts; rather, each and every thing that I have either written or promised that I would write is pure, sound, natural, and in no way at all contrary to the Christian faith. Therefore I do not fear to submit my promises for examination before good and learned men, whenever and as often as there is need; and I in no way intend to resist their determination.
+
+There was a reasonable cause for my inserting this account of Bovelles’s rashness into this preface of mine: so that all may understand that it was done by mature counsel that the work of steganography has remained until now buried in darkness, not because I fear Bovelles’s rash judgments, but lest I should seem to give more people like him cause for suspecting similar things about me. Indeed, as far as I am concerned, I would rather appease my rivals by silence than provoke them by letters or writings to madness. For I judged it better that all things wonderfully discovered should be kept in perpetual silence than that I should incur, even by the false estimation of men, the mark of pernicious superstition, magical or necromantic. Let steganography, then, lie hidden in darkness, and let it not be made common to the lying society of Bovelles, which is accustomed to judge concerning things unknown and to corrupt the reputation of a good man from the mere lust of wickedness.
+
+Nevertheless, at the urging of friends, so that our rivals may understand, together with Bovelles, how rash and fictitious an injury he has done us, while steganography remains within its own bounds, we consent to bring into the light the following work, which we call Polygraphy, divided into six books. Let those who wish read it, and let friends read this volume without resentment; and when they have understood all its hidden mysteries, let them themselves be judges, without envy, whether they are natural or superstitious. For I know and am certain that all things are sound
+
+[segment 11]
+--- Page 013 ---
+
+sincere, pure, natural, and removed from every pursuit of evil superstition. Whenever the preceding discourse is rather obscure, this is done for the following reason: lest a madman abuse, for destruction, the sword of defense which a man sound in soul and mind carries for his own protection. Yet for that reason nothing evil is contained in it, although perverse men abuse even good things for evil. Whoever presumes to condemn this edition of ours is himself conscious and witness that he has never truly understood it. The mysteries are hidden beneath enigmas, lest the secrets of owls be in any way made manifest to bats. If anyone takes delight in knowing these things, let him approach as a reader with envy set far aside. For I am a Christian; I am a priest and a monk under the rule of the blessed father Benedict. I love Christ, and with whatever sincerity of mind I can, I devoutly adore him always. I have no dealings with demons; I have had none; and, with God as protector, I shall have none. I have no studies in magical, necromantic, or profane arts; no occupations in them, no teachings. Whoever thinks otherwise of me thinks wrongly, does me injury, and defends the open lie of Bovillus. But now let us put these matters aside, and recount in order what is contained in each book of our Polygraphy.
+
+TABLE OR INDEX OF THE THINGS THAT ARE
+Treated in the First Book.
+
+In the first book of this Polygraphy of ours we have arranged and distributed, according to the order of our ternary, the words of the Latin language, as many as are found. By their use and service, all princes throughout the world will find secure assistance in any secret matters whatever: it will remain forever hidden without danger to the mystery, without mark, and without suspicion from the bats. For owls, the road is known to be safe in these matters, and not to be violated by any investigation whatsoever. Knowledge of the hidden matter is granted to two only, if the binary is skillfully brought back to the monad. Ignorance is the mother of error; and he who scorns learning the good that he does not know loves blindness. These periphrases themselves are set out in the manner either of one advising or of one entreating; they can be varied for every visible subject matter of this world. For they are suited to individual mysteries, and are set before the secrets of the Greeks no less than before our own. When you have understood the things you see, do not rashly despise the hidden things you do not see. You perceive the accidents; the substance remains invisible. Hence the greater things lie hidden; the lesser are open to those who look. Since this has been done with reason, let no good man receive it for evil, since every suitable person can, if only he wishes, advance from these things to higher ones. For my part, however, on this occasion it has not pleased me to pour forth higher matters into the light
+
+[segment 12]
+--- Page 014 ---
+
+to publish, since an unsuitable time seems to stand in the way. The letters of the Latin alphabet have been prefixed in order to the individual words with this consideration: that the operator may have an easy method in the matter proposed, and that the reciprocal party in reporting may be relieved of excessive labor. The periphrases placed outside the straight order of the lines are not empty of the mystery of the art, since they serve luminous propositions, not obscure ones, for the completion of the necessary perfection. Therefore they are also taken up in the former and neglected in the latter. For they are the sure means by which every suspicion of an adversary is removed. Everything has been placed by reason, so that not even one proposition is introduced idly.
+
+For example, the farther the sun advances from the equinoctial circle, the longer the day becomes for those dwelling in those regions. Therefore, so that the unit may advance in the proper order through the ternary into the binary, the model that we hand down must be observed rather carefully. And first, indeed, the operator, understanding his intention and having first considered it, should note what he is going to grant to the ternary through the binary; he should divide the day with the night into minutes, and distinguish the small parts of the winds not by a foreign supposition but by one proper to the phrase.
+
+In any mystical business he should carefully beware of disturbing the established order of the art, or of substituting one periphrase for another, or of granting to one what is owed to another; otherwise the unit will not admit the binary, and the whole operation will be confused and useless. Let the night not wander with excessive length; in advancing, you will not press beyond the limits established for it by the art. Let curiosity not change water into snow, nor let him sleep by day who keeps watch at night. Let the mind, solicitous with understanding, also use art, lest the hand by its own levity commit an error which, small and slight in the monad, is always accustomed to appear great and very large in the binary.
+
+It admits only one periphrase from any order into the service of the secret, since, after the example of a servant, whenever a particle of light demands to be expressed, one phrase similarly adhering, not several, is taken up. These things must be committed to a watchful mind, and care must be taken that the wind not be stirred up. After this a rule is prescribed for one approaching the practice of the art: he should imitate, as far as he can by the mystical art, the one person of man consisting of two natures, namely the soul surpassing visible things and the flesh remaining visible. For just as the soul is not seen, although it is established in a visible body, so the secret of the mind, in order that it may remain secret and nevertheless operate according to its pleasure, requires the guidance of light, while enduring in its workshop of shadows.
+
+Therefore, whenever the body serves the soul, the servant his master, and the will reason, see that the principal power and virtue of the periphrase in the light is preserved in its natural vigor. By this document of the Peripatetics the first will duly enter the second, and the monad will enter the binary. Consequently we likewise warn the willing man that,
+
+--- Page 015 ---
+
+whenever a leaf is moved by the wind, he should discern the property of each nature, compare the night itself with the day by degrees and minutes, and conform the darkness to the light. But if Phoebus prejudices the night, or night the sun, by which a mingling of eclipse would arise, either let the unit take back the binary which it sent forth in the light, or let the shadow of night reduce it to the first line of the sun.
+
+Keep fixed in memory whatever has anywhere been produced in number, weight, and measure. Therefore, when you have cut through the knot of the difficulty mentioned, count the small parts of the night; note also the periphrases of the daylight; and so temper one from the other that the necessary proportion may follow the action. Beware lest, while the eclipse of the sun lasts, you interrupt the necessary labor.
+
+Pay no less attention to remembering the ancient fathers: Thuisco, who, the grandson of Noah, is the father of the Teutons, and Marcomer, who is read to have been the first to lead the people of the Franks from the borders of Scythia into Germany, to the mouths of the Rhine. For the Franks are brothers of the Greeks, and, intermingled with the Germans, once made two languages from one. Hence, according to the oracle, they take up g.g.g., who lost one g.
+
+Finally, studious investigator of polygraphy, you are warned that, after you have eagerly attained the true method of operating these intentions, you should guard all things prudently, and not pour them out everywhere into the knowledge of all men, especially foul ones. For this reason do not ask, since you know that there is nothing in the world so good and holy that the wicked do not rather often abuse it for evil.
+
+*Index of the Things Treated in the Second Book of the Polygraphy*
+
+number, weight, and measure
+
+No.
+
+[unclear]
+
+[segment 13]
+--- Page 016 ---
+
+[segment 14]
+--- Page 017 ---
+
+[segment 15]
+Index of what is said in the sixth book of the Polygraphy.
+
+In the sixth book, which is the last book of our Polygraphy, after introducing a mental account, we have set out in order almost all the details of the preceding signs and degrees, and by arithmetical distributions we have drawn the functions of the letters into the mystery of a cabalistic operation. One thing lies hidden here in the bark, and another is found in the common operation of the signs. For just as the spirit in the blood gives life to the human body, so the force hidden in the art commends the operation. Therefore whoever needs knowledge of this invention should open the eyes of his understanding, so that he may comprehend the particular property of each operation. For we desire all things to be pure for good men, in such a way that, if it were possible, they would never be made manifest to the wicked. A reason compelled us to adapt Latin letters to numbers, lest, if we were too obscure, our mind and intention should be clear to no one. Yet this novelty, so that it might not be made public without reasonable cause, had been mystically hidden under unknown signs and marks of numbering. For evening things are often stronger at night than by day, and just as night, in its own order, tends toward day. We ask the reader not to condemn this laborious work of ours before he understands it, but, as a judge without rashness, to seek what it is, and prudently remove the bark until he comes to the hidden kernel. The work is good and natural, and can be turned to good use or bad, according as each person’s desire of will moves him. A sword is a good instrument; it is turned to good use whenever it is carried for defense without injury to one’s neighbor. But if it is unlawfully extended to wounding anyone, through abuse a good thing is loosened into evil. Therefore, so that the good may have something by which they may prudently provide for their affairs, the Polygraphy is written by us; and lest it offer the wicked an opportunity for sinning, the kernel is hidden in the bark under various enigmas. He who is good does not misuse good for evil, but rather, if he can, turns evil into good.
+
+What the causes of this work of our Polygraphy are, and at the same time its advantages.
+
+We have undertaken the labor of the present work, rare and difficult, for no other reason than to provide for the usefulness of those in need. I mean those in need not of food, not of drink, but of mystical assistance for preserving secrets without danger. We therefore judge that it will be worthwhile if we briefly note the advantages and conveniences that can come to those who use these inventions of ours. For although in our household affairs there is no business such that we need these teachings for the concealment of secrets, we have labored for those whose empire had to be defended. The first advantage is that, when understanding of this work has been completed, it gives the needy man an easy way by which, through the skill of the new art, you will make known the secret of your mind safely, secretly, and without any suspicion from any observers, to one who knows, however widely the work must be extended, to any distances of places, by regulated speech. What lies hidden in these things the work of Steganography brings out, which requires neither letters nor messengers, but only one who knows how to carry secrets. It would be otherwise in matters admitting the light, according to the common custom of all our people. Do not take the matter otherwise than it is.
+
+The second advantage is that, by the service of this work, in the space of a short time, it will teach a man ignorant of Latin speech, provided only that he knows how to read and write letters in his mother tongue, to write in the Latin language as you wish, ornately or concisely; and, when you wish, to conceal and hide your secret mysteries, and safely, secretly, and without suspicion to announce very widely whatever art and knowledge has pleased you. I warn you beforehand not to understand us as promising otherwise than we do promise.
+
+The third true advantage is that those unskilled in Roman speech will not only, in a few hours, as we promise, write and read, but also understand, if you prudently apply the duty of the task, which in this rational cause we shall give to be written back. For the disciple of the new art will write in whatever language he wishes, and under the institution of rule will polish it in Latin speech, and will interpret it, if he himself has sufficient knowledge word for word. Finally, this instruction can be extended more broadly to all the affairs and business of the world. If anyone wishes to learn from me how these things can be done, let him first remember to show himself such that he deserves to receive them. For all things are not owed to all people, but one person is more suited than another.
+
+The fourth advantage is that, by extending an accepted likeness of a thing, all things can thus be extended into any language whatever, once the binary institution has been reduced to unity. Yet not just any person can do this, but one whom, with God’s special grace going before him, art and nature have made worthy.
+
+The fifth advantage is that, by imitation of likeness, through the art of our invention we can sufficiently cast forth whatever secrets of our mind we wish, however we wish to hide them, in many ways and very widely, by various methods that could be known or observed by no one else. Here a manifold speech without voice is given, by which safely, securely, very widely, and with all suspicion removed, we can most fully disclose to anyone skilled in the art all the conceptions of our mind, however difficult. And this wonderful invention has innumerable progressions and is capable of all mysteries.
+
+The sixth advantage is that, through understanding of this work, you will be able to invent any regulated literal metathesis or transposition, and nevertheless that same thing will serve only those who know the art, and absolutely no one else in the world. And there is great power in the form of metathesis, and likewise in its operation, which has several modes and is varied in many ways.
+
+The seventh advantage is that, through understanding of this volume, a very great facility is given to those who desire to enlarge the memory without labor, whenever the seeds of small things are placed in their proper degrees. All things, for the sake of goodness, lie hidden wrapped in the secrets of words and figures. If anyone desires to understand them more fully, let him call to mind that hard labor conquers all things. For it will have been enough for me to have discovered the principles of the art and to have transmitted a symbolic mode of writing, rough and deliberately unpolished. For there was neither time nor reason for our inventions to be formed in a more cultivated fashion, lest truth should produce disgust among the nauseated through vomiting, or hatred among the indignant. Every work must be assigned to its own merits; pigs are not to be adorned with eloquent words, nor are filthy things to be burdened with pearls. All things are inopportune that do not agree with morals and times.
+
+[segment 16]
+--- Page 019 ---
+of the mortals upon whom they are thrust. There have been many very noble talents among men that belonged to alien times, and almost daily still more new things are discovered in times not their own. What did the wondrous invention of the nautical art profit the distinguished verifier Bartholus under Pope Innocent VIII, which in a certain little book he offered for sale for one hundred thousand ducats, when neither the supreme pontiff himself, nor the Venetians, nor the Genoese, to whom he proposed that his matter be bought, deigned to come to terms with him even for a modest sum? For he promised that by his art he could keep a ship unharmed in the middle of the sea for thirty months, repair it when broken, and recover without danger anything cast into the depths. But no one cared. Nor does it escape me that many, with Naso, have perished by their own genius. It is therefore better to set a limit to knowledge than, without fruit, to expose oneself to the hatred and detraction of many, for whom it is more familiar to despise any knowledge at all than to have learned it.
+
+Here ends the preface, on the seventh day of April, in the year of the Lord’s nativity 1508.
+
+THE FIRST BOOK OF THE POLYGRAPHY, TO Emperor Maximilian, by Johannes Trithemius, abbot of Peapolis, formerly of Sponheim.
+
+There are twenty-four characters, the letters of the Latin tongue, which, when placed in order before just as many syntactic words, convey secrets most copiously in every respect according to the wish of each person operating in this art. These paraphrastic expressions, however, have been arranged artificially in such a way that they produce thoroughly Latin speech, if only one is taken from each order. And it should be noted that, by reason of our German speech, the twenty-fourth letter, w, is taken at the end of the alphabet, since all the remaining letters perform service in both languages. We have placed the co-signifying terms in such an order and with such diligence that, whatever you take from any one line, once the full deduction has been made, concord will remain. Yet circumspection is needed: from any line of syntax you must take only one, and no unit must do injury to the binary. You must also take care that, whenever you approach the cabalistic operation, you first count every single minute of the night, and join them in due proportion to the degrees of the following day. But if, according to the fixed arrangement of the secret, the minutes do not suffice for the degrees through to the end, [unclear]
+
+[segment 17]
+--- Page 020 ---
+
+Nor is it an obstacle if by chance the night falls back upon the beginning of the day, since a prudent operator in the art can, by voluntary addition, withdraw from the front by as much as he sees the night surpass the light of day. And this is to be understood of the individual chapters throughout the whole work of the Polygraphia. Yet we say that this consideration must be assigned to the unit, by which the pair may be certified, by the known little mark of return, lest it happen to go astray. From the monad, through what has been established, the pair will stand, and it becomes a monad. Nothing is placed here in vain; nothing is alleged without cause or idly. Therefore we necessarily admonish everyone who wishes to copy this work of our Polygraphia, whether in whole or in part, to take diligent care first of all that he not depart in any respect from our archetype, nor skip, neglect, or transpose any word whatever. For indeed, if he omits one letter or word in substantial matters, if he changes a word contrary to its nature, he has made the progress of the whole work useless. Therefore let him either copy it properly, or not copy it.
+
+There follow the words of the first order with the minutes for the degrees.
+
+--- Page 021 ---
+
+a to the miserable        a men
+b poor little ones        b little men
+c pitiable ones           c mortals
+d miserable ones          d [unclear]
+e most miserable ones     e [unclear]
+f miserable ones          f [unclear]
+g most unhappy ones       g [unclear]
+h most abject ones        h [unclear]
+i most vain ones          i [unclear]
+k wicked ones             k [unclear]
+l unjust ones             l [unclear]
+m perishable ones         m [unclear]
+n cast-off ones           n [unclear]
+o fools                   o [unclear]
+p simpletons              p [unclear]
+q unwise ones             q [unclear]
+r slothful ones           r [unclear]
+s utter fools             s [unclear]
+t utter simpletons        t [unclear]
+v most wicked ones        v [unclear]
+x negligent ones          x [unclear]
+y most negligent ones     y [unclear]
+z most forgetful ones     z [unclear]
+& corruptible ones        & [unclear]
+
+--- Page 022 ---
+
+a quickly                 a [unclear]
+b more quickly            b [unclear]
+c most quickly            c [unclear]
+d swiftly                 d [unclear]
+e most swiftly            e [unclear]
+f most rapidly            f [unclear]
+g very swiftly            g [unclear]
+h rapidly                 h [unclear]
+i more rapidly            i [unclear]
+k swiftly                 k [unclear]
+l swiftly                 l [unclear]
+m as swiftly as possible  m [unclear]
+n never suddenly          n [unclear]
+o suddenly                o [unclear]
+p most suddenly           p [unclear]
+q speedily                q [unclear]
+r without delay           r [unclear]
+s unceasingly             s [unclear]
+t most rapidly            t [unclear]
+v daily                   v [unclear]
+x very swiftly            x [unclear]
+y continually             y [unclear]
+z always                  z [unclear]
+& continually             & [unclear]
+
+--- Page 023 ---
+
+a God
+b Creator
+c Founder
+d Maker
+e Lord
+f Ruler
+g Comforter
+h Arbiter
+i Judge
+k Illuminator
+l Enlightener
+m Rector
+n King
+o Emperor
+p Governor
+q Maker
+r Fashioner
+s Preserver
+t Redeemer
+v Author
+x Prince
+y Shepherd
+z Moderator
+w Savior
+
+a merciful
+b most merciful
+c pious
+d most pious
+e great
+f exalted
+g greatest
+h best
+i most wise
+k invisible
+l immortal
+m eternal
+n everlasting
+o glorious
+p most strong
+q most holy
+r incomprehensible
+s omnipotent
+t peaceable
+v compassionate
+x most compassionate
+y all-powerful
+z magnificent
+w most excellent
+
+A
+
+--- Page 024 ---
+
+a creating
+b ruling
+c preserving
+d moderating
+e governing
+f ordering
+g adorning
+h embellishing
+i establishing
+k directing
+l producing
+m decorating
+n strengthening
+o illuminating
+p beholding
+q admonishing
+r confirming
+s guarding
+t discerning
+v distinguishing
+x enlightening
+y fashioning
+z bringing salvation
+w making
+
+a the heavens
+b heavenly things
+c things above the heavens
+d the world
+e worldly things
+f human beings
+g human things
+h angels
+i angelic things
+k the earth
+l earthly things
+m time
+n temporal things
+o an age
+p age-lasting things
+q all things
+r everything
+s the universe
+t the orb
+v the stars
+x the sun
+y stars
+z life
+w living things
+
+--- Page 025 ---
+
+a in the saints
+b in the elect
+c in the beloved beforehand
+d in the most holy
+e in the just
+f in the justified
+g in the predestined
+h in the angels
+i in the archangels
+k in those who love him
+l in those who worship him
+m in his friends
+n in his apostles
+o in the prophets
+p in the disciples
+q in the martyrs
+r in the sanctified
+s in the dominions
+t in the beloved
+v in the citizens
+x in the servants
+y in the attendants
+z in the ministers
+w in the confessors
+
+a in the heavens
+b in heavenly places
+c in the places above the heavens
+d unto eternity
+e unto perpetuity
+f unto everlastingness
+g unto ages of ages
+h unto that holy age
+i unto the age
+k in the kingdom of heaven
+l in the highest places
+m in the exalted places. Amen.
+n in paradise. Amen.
+o in Olympus
+p in paradisal places
+q in Olympian places
+r in splendors
+s in happiness
+t in states of happiness
+v in glorious places
+x in honor
+y in magnificence
+z in perpetual light
+w in the heavenly homeland
+
+A iiij
+
+--- Page 026 ---
+
+a Majesty
+b of the great one
+c of the greatest one
+d of the supreme one
+e of the exalted one
+f of the best one
+g of the most illustrious one
+h of the most holy one
+i of the most powerful one
+k of the wisest one
+l of the strongest one
+m of the gentlest one
+n of the highest one
+o of the most robust one
+p of the omnipotent one
+q of the all-powerful one
+r of the everlasting one
+s of the most glorious one
+t of the ineffable one
+v of the invisible one
+x of the immortal one
+y of the inaccessible one
+z of the most eminent one
+w of the most merciful one
+
+[segment 18]
+--- Page 027 ---
+
+a of the creator
+b of the parent
+c of the savior
+d of the redeemer
+e of the beginning
+f of the founder
+g of the maker
+h of the maker
+i of the preserver
+k of the ruler
+l of the author
+m of the artificer
+n of the one ruling
+o of the dominator
+p of the king
+q of the one governing
+r of the emperor
+s of the one commanding
+t of the prince
+u of the mover
+x of the judge
+y of the liberator
+z of the governor
+20 of the protector
+
+A iv
+
+a by Christians
+b by worshippers of Christ
+c by the faithful
+d by believers
+e by the baptized
+f by the reborn
+g by the living
+h by mortals
+i by all
+k by us
+l by the good
+m by the just
+n by the pious
+o by the holy
+p by the meek
+q by the sanctified
+r by the justified
+s by the devout
+t by the frail
+u by those who love
+x by those who hope
+y by those who fall
+z by those who sin
+20 by sinners
+
+--- Page 028 ---
+
+a sincerely                         a to be preached
+b sincerely                         b to be proclaimed as gospel
+c most sincerely                    c to be prayed to
+d devoutly                          d to be adored
+e most devoutly                     e to be entreated
+f humbly                            f to be worshipped
+g most humbly                       g to be recollected
+h fervently                         h to be remembered
+i most fervently                    i to be remembered again
+k ardently                          k to be thought upon
+l most ardently                     l to be thought upon again
+m most prudently                    m to be contemplated
+n prudently                         n to be invoked
+o wisely                            o to be honored
+p most wisely                       p to be glorified
+q cordially                         q to be blessed
+r most cordially                    r to be venerated
+s affectionately                    s to be loved
+t most affectionately               t to be cherished
+u reverently                        u to be praised
+x most urgently                     x to be praised together
+y most strongly                     y to be extolled
+z most constantly                   z to be exalted
+20 cheerfully                       20 to be magnified
+
+--- Page 029 ---
+
+a by many
+b by very many
+c by very many
+d by several
+e by numerous
+f by various
+g by diverse
+h by holy things
+i by most holy things
+k by sacred things
+l by consecrated things
+m by sacrosanct things
+n by necessary things
+o by very necessary things
+p by useful things
+q by very useful things
+r by the best things
+s by very good things
+t by honorable things
+u by manifest things
+x by frequent things
+y by very frequent things
+z by continual things
+20 by salutary things
+
+a by words
+b by teachings
+c by statutes
+d by institutions
+e by admonitions
+f by warnings
+g by admonitions
+h by inspirations
+i by doctrines
+k by sermons
+l by writings
+m by commands
+n by persuasions
+o by precepts
+p by counsels
+q by orders
+r by encouragements
+s by exhortations
+t by illuminations
+u by illustrations
+x by promises
+y by things promised
+z by examples
+20 by promptings
+
+A v
+
+--- Page 030 ---
+
+a wretched
+b poor little wretches
+c pitiable
+d miserable
+e most wretched
+f most unhappy
+g unhappy
+h perishable
+i unstable
+k fragile
+l weak
+m unclean
+n vain
+o most vain
+p abject
+q most abject
+r lost
+s unjust
+t wicked
+u stained
+x foolish
+y stupid
+z changeable
+20 most weak
+
+a human beings
+b little men
+c mortals
+d Christians
+e worshippers of Christ
+f orthodox
+g pilgrims
+h exiles
+i exiled ones
+k sinners
+l those who sin
+m the living
+n those who stray
+o travelers
+p those destined to die
+q wanderers
+r workers
+s hirelings
+t operators
+u sleepers
+x earth-born ones
+y and the desolate
+z worldly ones
+20 earthly ones
+
+--- Page 031 ---
+
+a imbues                              a present things
+b teaches                             b the world
+c visits                              c worldly things
+d admonishes                          d worldly matters
+e warns                               e the age
+f forewarns                           f secular things
+g instructs                           g changeable things
+h commands                            h corruptible things
+i exhorts                             i vain things
+k exhorts                             k vanities
+l urges                               l earthly things
+m dissuades                           m carnal things
+n encourages                          n luxury
+o reminds                             o riches
+p taught                              p mortal things
+q educates                            q transient things
+r reminds                             r passing things
+s incites                             s lower things
+t stirs up                            t visible things
+u advises                             u perishable things
+x provokes                            x pleasures
+y illuminates                         y riches
+z illustrates                         z honors
+20 invites                            20 the lowest things
+
+--- Page 032 ---
+
+a love
+b affection
+c charity
+d reverence
+e honor
+f veneration
+g contemplation
+h memory
+i consideration
+k adherence
+l acquisition
+m affection
+n devotion
+o union
+p virtue
+q election
+r hope
+s faith
+t trust
+u confidence
+x delight
+y attainment
+z retribution
+20 reward
+
+a of the savior
+b of the redeemer
+c of the liberator
+d of the creator
+e of the founder
+f of the fashioner
+g of the author
+h of the maker
+i of the artificer
+k of the mover
+l of the preserver
+m of the governor
+n of the emperor
+o of the maker
+p of the fabricator
+q of the illuminator
+r of the illustrator
+s of the ruler
+t of the king
+u of the director
+x of the rescuer
+y of the life-giver
+z of the inspector
+20 of the producer
+
+--- Page 033 ---
+
+a of happiness
+b of pleasantness
+c of blessedness
+d of joyfulness
+e of rest
+f of dwelling
+g of sweetness
+h of habitation
+i of exultation
+k of brightness
+l of pleasure
+m of jubilation
+n of gladness
+o of feeding
+p of honorableness
+q of firmness
+r of security
+s of tranquility
+t of repose
+u of majesty
+x of peace
+y of constancy
+z of festivity
+20 solemnity
+
+a with care
+b with diligence
+c with solicitude
+d with vigilance
+e with zeal
+f with effort
+g with endeavor
+h with exertion
+i with desire
+k with trust
+l with confidence
+m with every thought
+n according to one’s strength
+o with total thought
+p as far as one is able
+q with assiduity
+r with longing
+s with desire
+t with concupiscence
+u with affection
+x with feeling
+y with virtue
+z with devotion
+21 with charity
+
+[segment 19]
+--- Page 034 ---
+a to desire
+a correction
+b to seek
+b penitence
+c to inquire after
+c contrition
+d to search out
+d discipline
+e to seek for
+e instruction
+f to wish for
+f doctrine
+g to long for
+g holiness
+h to desire greatly
+h modesty
+i to ask for
+i penitence
+k to seek earnestly
+k correction
+l to desire
+l continence
+m to await
+m temperance. Therefore, O
+n to expect
+n abstinence. And so, you
+o to demand
+o devotion
+p to think upon
+p humility
+q to think again
+q purity
+r to love
+r chastity
+s to love deeply
+s frugality
+t to esteem
+t patience
+v to remember
+v obedience
+x to remember again
+x integrity
+y to desire
+y prudence
+z to long for
+z cleanness
+rv to sigh for
+rv charity
+
+--- Page 035 ---
+a wretched
+a men
+b most wretched
+b little men
+c pitiable
+c mortals
+d deserving pity
+d Christians
+e most unhappy
+e worldly people
+f unhappy
+f earth-born people
+g senseless
+g worldly people
+h corruptible
+h believers
+i changeable
+i orthodox people
+k most foolish
+k carnal people
+l most foolish
+l pilgrims
+m most vain
+m exiles
+n poor little wretches
+n exiles
+o foolish
+o earthly people
+p fools
+p sinners
+q vain
+q carnal people
+r perishable
+r lovers
+s corrupt
+s neglecters
+t most corrupt
+t despisers
+v criminal
+v mockers
+x slothful
+x human beings
+y wicked
+y wayfarers
+z lost
+z living persons
+rv calamitous
+rv deserters
+B
+
+--- Page 036 ---
+a receive
+a eternal
+b take up
+b everlasting
+c accept
+c future
+d undertake
+d coming
+e begin
+e impending
+f set about
+f promised
+g assume
+g promised again
+h take up again
+h heavenly
+i learn
+i ineffable
+k learn
+k inestimable
+l take
+l most blessed
+m love, so that for
+m most happy
+n keep, in order that for
+n most joyful
+o observe
+o desired
+p guard
+p desirable
+q hasten
+q blessed
+r put on
+r happy
+s preserve
+s prepared
+t practice
+t made ready
+v frequent
+v celestial
+x celebrate
+x supercelestial
+y do
+y holy
+z inquire after
+z desired
+2v search out
+2v awaited
+
+--- Page 037 ---
+a banquets
+a of the saints
+b gifts
+b of the just
+c goods
+c of the elect
+d joys
+d of the angels
+e consolations
+e of the archangels
+f rewards
+f of the thrones
+g mysteries
+g of the powers
+h secrets
+h of the dominions
+i dwellings
+i of the principalities
+k homes
+k of the virtues
+l receptacles
+l of the patriarchs
+m spectacles
+m of the prophets
+n lodgings
+n of the apostles
+o feasts
+o of the martyrs
+p joyful dances
+p of the innocents
+q gifts
+q of the blessed
+r fellowships
+r of those who exult
+s solemnities
+s of friends
+t shelters
+t of servants
+v festivals
+v of attendants
+x jewels
+x of disciples
+y benefits
+y of lovers
+z pleasant things
+z of the faithful
+rv kingdoms
+rv of imitators
+B ij
+
+--- Page 038 ---
+a of the savior
+a of all
+b of the redeemer
+b of all collectively
+c of the deliverer
+c of the universe
+d of the founder
+d of men
+e of the rescuer
+e of mortals
+f of the helper
+f of the living
+g of the assister
+g of the world
+h of the fashioner
+h of us
+i of the consoler
+i of the earth
+k of the benefactor
+k of heaven
+l of the creator
+l of the heavens
+m of the king
+m of souls. May you possess God
+n of the leader
+n of the faithful. May you be strong
+o of the lord
+o of the good
+p of the commander
+p of the humble
+q of the dominator
+q of believers
+r of the governor
+r of Christians
+s of the rewarder
+s of the orthodox
+t of the lover
+t of earth-born people
+v of the shepherd
+v of the devout
+x of the guardian
+x of the pious
+y of the maker
+y of the just
+z of the nourisher
+z of the meek
+2v of the builder
+2v of those who hope
+
+--- Page 039 ---
+a to be brought in
+a inwardly
+b to be admitted within
+b eternally
+c to be admitted
+c everlastingly
+d to reach
+d everlasting
+e to ascend
+e unto eternity
+f to climb
+f forever
+g to come
+g perpetually
+h to arrive
+h continually
+i to enter
+i perpetually
+k to go in
+k without end
+l to enter
+l happily
+m to be raised up
+m most happily
+n to be lifted up
+n always
+o to be exalted
+o constantly
+p to pass over
+p continuously
+q to migrate
+q unceasingly
+r to emigrate
+r most sweetly
+s to fly
+s sweetly
+t to fly forth
+t greatly
+v to fly through
+v exceedingly
+x to migrate across
+x ineffably
+y to be led through
+y beyond measure
+z to be carried down
+z incredibly
+rv to be exalted
+rv incessantly
+B iij
+
+--- Page 040 ---
+a rejoicing
+a Wash
+b glad
+b Beware
+c rejoicing together
+c Take care
+d rejoicing with others
+d Take precautions
+e triumphing
+e Withdraw
+f dancing for joy
+f Withdraw yourselves
+g exulting
+g Depart
+h jubilant
+h Flee
+i cheerful
+i Flee
+k happy
+k Depart
+l secure
+l Flee
+m glorious
+m Turn aside
+n glorying
+n Turn aside
+o gleaming
+o Abstain
+p clarified
+p Pay attention
+q beatified
+q Pay attention
+r illuminated
+r Take refuge
+s adorned
+s Take refuge
+t crowned
+t Flee for refuge
+v comely
+v Flee for refuge
+x bright
+x Spare yourselves
+y shining
+y Spare yourselves
+z honored
+z Stand away
+2v honored
+2v Escape. Therefore, then, O
+
+[segment 20]
+--- Page 042 ---
+
+a of life
+b of sojourn
+c of time
+d of pilgrimage
+e of conduct
+f of mortality
+g of calamity
+h of passage
+i of the world
+k soon
+l of the globe
+m of the earth
+n of the age
+o of the cosmos
+p of exile
+q of misery
+r of habitation
+s of the workhouse
+t of abasement
+v of brevity
+x of prison
+y of capture
+z of captivity
+2v of transmigration
+
+a banquets
+b weddings
+c riches
+d joys
+e delights
+f visions
+g songs
+h consolations
+i recreations
+k dignities
+l pleasures
+m dwellings
+n festivities
+o habitations
+p melodies
+q solemnities
+r contemplations
+s pleasantnesses
+t delights
+v contemplations
+x blessings
+y largesses
+z praises
+2v rewards
+
+--- Page 043 ---
+
+a of the benign creator
+b of the heavenly founder
+c of the supreme savior
+d of the most benign fashioner
+e of the most benign redeemer
+f of the sweetest liberator
+g of the highest rescuer
+h of the supreme mover
+i of the greatest maker
+k of the best judge
+l of the honey-sweet king
+m of the most just ruler
+n of the merciful emperor
+o of the most merciful governor
+p of the merciful giver of life
+q of the most merciful enlightener
+r of the most powerful illuminator
+s of the almighty lord
+t of the all-powerful preserver
+v of the most loving administrator
+x of the most pious moderator
+y of the glorious disposer
+z of the most glorious ordainer
+2v of the most excellent adorner
+
+--- Page 044 ---
+
+a of heaven
+b of earth
+c of the globe
+d of the world
+e of the ages
+f of heavenly things
+g of earthly things
+h of the lands
+i of all things
+k of all collectively
+l of all things
+m of human beings
+n of angels
+o of the age
+p of spirits
+q of the faithful
+r of believers
+s of invisible things
+t of visible things
+v of souls
+x of minds
+y of intellects
+z of the humble
+2v of supercelestial things
+
+a heavenly
+b divine
+c supernal
+d supercelestial
+e superdivine
+f everlasting
+g spiritual
+h ethereal
+i bright
+k eternal
+l best
+m enduring
+n perpetual
+o most blessed
+p most tranquil
+q most pleasant
+r most splendid
+s most luminous
+t splendid
+v most bright
+x immortal
+y holy
+z glorious
+2v secure
+
+--- Page 045 ---
+
+a happily
+b sweetly
+c mercifully
+d compassionately
+e most compassionately
+f most benignly
+g most happily
+h most sweetly
+i more sweetly
+k more gently
+l piously
+m especially
+n singularly
+o principally
+p graciously
+q very greatly
+r most holily
+s finally
+t originally
+v most gently
+x indulgently
+y most indulgently
+z rejoicingly
+2v gladly
+
+a called
+b called forth
+c summoned
+d recalled
+e chosen
+f invited
+g ordained
+h chosen beforehand
+i preordained
+k predestined
+l predisposed
+m to be taken up
+n about to enter
+o about to go in
+p to be brought in
+q to be admitted
+r to be recalled
+s to be called forth
+t to be called
+v to be ordained
+x to be invited
+y to be brought back
+z about to return
+2v about to pass over
+
+--- Page 046 ---
+
+a Behold
+b See
+c Discern
+d Look
+e Look within
+f Look back
+g Look closely
+h Look through
+i Consider
+k Weigh carefully
+l Take note
+m Weigh
+n Think
+o Pay heed
+p Notice
+q Know
+r Remember
+s Recognize
+t Look around
+v Acknowledge
+x Understand
+y Know
+z Think again
+2v Remember
+
+a wretched
+b poor little wretches
+c unhappy
+d pitiable
+e most wretched
+f miserable
+g most unhappy
+h most abject
+i most vain
+k wicked
+l unjust
+m perishable
+n abject
+o foolish
+p foolish
+q unwise
+r slothful
+s most foolish
+t most foolish
+v most wicked
+x negligent
+y most negligent
+z most forgetful
+2v corruptible
+
+--- Page 047 ---
+
+a human beings, quickly
+b little people, more quickly
+c worldly people, most quickly
+d people of the world, swiftly
+e earthly people, most swiftly
+f earthbound people, most rapidly
+g mortals, very speedily
+h kings, rapidly
+i rich people, rather rapidly
+k princes, speedily
+l rulers, more swiftly
+m prelates, sooner
+n pastors, suddenly
+o governors, more suddenly
+p common people, most suddenly
+q hearers, nimbly
+r worshipers of Christ, without delay
+s Christians, unceasingly
+t readers, most rapidly
+v pontiffs, daily
+x leaders, day by day
+z monks, always
+2v priests, continually
+L
+
+[segment 21]
+--- Page 048 ---
+a are changed
+b are varied
+c are altered
+d are transformed
+e are exchanged
+f are transmuted
+g pass completely away
+h pass away
+i slip away
+k perish
+l flee
+m go away
+n vanish
+o perish away
+p flee away
+q flee off
+r fall down
+s collapse
+t decline
+v are corrupted
+x alternate
+y fail
+z fall
+2v recede
+
+a all things
+b all things
+c all things
+d worldly things
+e worldly things
+f secular things
+g earthly things
+h earthly things
+i temporal things
+k desirable things
+l pleasing things
+m beautiful things, which are now
+n your wished-for things, which
+o things desired
+p things to be desired
+q transitory things
+r bodily things
+s lower things
+t visible things
+v sensible things
+x delightful things
+y things to be longed for
+z material things
+2v corruptible things
+
+--- Page 049 ---
+a badly
+b perversely
+c most badly
+d impurely
+e ardently
+f more ardently
+g most impiously
+h most fervently
+i most zealously
+k most diligently
+l more diligently
+m more fervently, with
+n more zealously, with
+o diligently
+p fervently
+q zealously
+r exceedingly
+s anxiously
+t anxious
+v too much
+x stubbornly
+y more stubbornly
+z most stubbornly
+2v rashly
+
+a by sin
+b by danger
+c by damnation
+d by wickedness
+e by unrest
+f by perversity
+g by harm
+h by ambition
+i by pride
+k by injustice
+l by impiety
+m by impurity
+n by malice
+o by deceit
+p by falsity
+q by wickedness
+r by transgression
+s by disgraceful deed
+t by crime
+v by fraudulence
+x by iniquity
+y by greed
+z by attachment
+2v by stain
+
+--- Page 050 ---
+a you hold
+b you retain
+c you have
+d you love
+e you love
+f you possess
+g you covet
+h you behold
+i you seek ambitiously
+k you desire
+l you see
+m you discern, and just as
+n you look at, and you, as
+o you seek
+p you require
+q you magnify
+r you make grand
+s you embrace
+t you gather
+v you detain
+x you occupy
+y you collect
+z you carry together
+2v you desire
+
+a wind
+b breath
+c shadow
+d cloud
+e mist
+f straw
+g little cloud
+h dream
+i nothingness
+k sound
+l sound
+m smoke
+n dung
+o dust
+p snow
+q ice
+r hoarfrost
+s thunder
+t peals of thunder
+v dripping
+x shout
+y outcry
+z little shade
+2v hay
+
+--- Page 051 ---
+a you will fail
+b you will vanish
+c you will be dissolved
+d you will be destroyed
+e you will be corrupted
+f you will depart
+g you will depart
+h you will die
+i you will be snatched away
+k you will pass away
+l you will perish
+m you will fall in ruin
+n you will fall
+o you will fall down
+p you will perish
+q you will be carried off
+r you will breathe your last
+s you will transmigrate
+t you will recede
+v you will go away
+x you will collapse
+y you will depart
+z you will be dissolved
+vv you will be annihilated
+
+a you think
+b you reckon
+c you calculate
+d you will think
+e you will reckon
+f you are suspicious
+g you will suspect
+h you will think beforehand
+i you think beforehand
+k you will calculate
+l you will think
+m you think
+n you believe
+o you will believe
+p you notice
+q you will notice
+r you will fear
+s you fear
+t you will dread
+v you will be afraid
+x you fear greatly
+y you judge
+z you take precautions
+vv you expect
+
+--- Page 052 ---
+a Now
+b Therefore now
+c Now then
+d Therefore now
+e Now accordingly
+f Accordingly now
+g Wherefore
+h Therefore
+i Wherefore
+k For which reason
+l Hence
+m And therefore
+n For that reason
+o And therefore
+p Come now
+q Therefore
+r Accordingly
+s Wherefore
+t You therefore
+v You therefore
+x you accordingly
+y For which reason
+z You now
+2v Now you
+
+a brothers
+b fellow brothers
+c mortals
+d little men
+e fellow soldiers
+f men
+g peoples
+h faithful
+i Christians
+k worshippers of Christ
+l earth-born
+m earthly
+n believers
+o orthodox
+p earthly
+q worldly
+r worldly
+s pitiable
+t miserable
+v most wretched
+x poor little ones
+y wretched
+z poor
+2v very poor
+
+--- Page 053 ---
+a think
+b think back
+c think beforehand
+d remember
+e weigh carefully
+f ponder
+g weigh
+h attend
+i take notice
+k consider
+l notice
+m learn
+n know
+o hear
+p taste
+q understand
+r meditate
+s turn over in your minds
+t weigh thoroughly
+v listen
+x recognize
+y taste
+ahead
+z taste beforehand
+vv know beforehand
+
+a joyful thing
+b a thing to be wished for
+c a very sweet thing
+d a most joyful thing
+e an honorable thing
+f a most pleasant thing
+g the best thing
+h a thing to be desired
+i a good thing
+k a sweet thing
+l a pleasant thing
+m a delightful thing
+n a consoling thing
+o a most delightful thing
+p a most beautiful thing
+q a beautiful thing
+r a glorious thing
+s a great thing
+t an honorable thing
+v a thing to be desired
+x the greatest thing
+y a wonderful thing
+z a beatifying thing
+vv a praiseworthy thing
+
+--- Page 054 ---
+a in choirs
+b in feasts
+c in delights
+d in fellowship
+e in company
+f in companies
+g in fellowships
+h in solemnities
+i in songs
+k in festivities
+l in blessedness
+m in exultation
+n in enjoyment
+o in brightness
+p in consolation
+q in joys
+r on thrones
+s in rejoicing
+t in delightfulness
+v in happinesses
+x in songs
+y in solemn rites
+z in festivals
+
+a of the saints
+b of the elect
+c of friends
+d of lovers
+e of servants
+f of servants
+g of servants
+h of ministers
+i of priests
+k of the blessed
+l of angels
+m of archangels
+n of apostles
+o of martyrs
+p of the humble
+q of the just
+r of prophets
+s of patriarchs
+t of heaven-dwellers
+v of confessors
+x of beloved ones
+y of disciples
+z of dearest ones
+2v of most loving ones
+
+[segment 22]
+--- Page 055 ---
+
+a of God
+b of Christ
+c of the Father
+d of the maker
+e of the author
+f of the maker
+g of the creator
+h of the founder
+i of the Lord
+k of the ruler
+l of the commander
+m of the governor
+n of the principality
+o of the prince
+p of the ruler
+q of the one ruling
+r of the king
+s of the judge
+t of the mover
+v of the director
+x of the helper
+y of the aider
+z of the administrator
+vv of the rewarder
+
+a almighty
+b all-powerful
+c unchangeable
+d incomprehensible
+e inestimable
+f ineffable
+g immortal
+h greatest
+i best
+k great
+l powerful
+m perfect
+n without end
+o of all
+p of all collectively
+q of the universe
+r most holy
+s most powerful
+t most merciful
+v most dutiful
+x most pious
+y most bright
+z sweetest
+vv most gentle
+
+--- Page 056 ---
+
+a from end
+b from dread
+c from terror
+d from fear
+e from limit
+f from change
+g from alteration
+h from disturbance
+i from perturbation
+k from confusion
+l from termination
+m from interruption
+n from mutability
+o from need
+p from defect
+q from weariness
+r from want
+s from tedium
+t from nausea
+v from want
+x from penury
+y from cessation
+z from alteration
+vv from corruption
+
+a always
+b continually
+c perpetually
+d perpetually
+e everlastingly
+f eternally
+g perpetually
+h most happily
+i happily
+k sweetly
+l pleasantly
+m continually, to be present and to attend
+n swiftly
+o constantly
+p constantly
+q unceasingly
+r without end
+s most pleasantly
+t most sweetly
+v most quietly
+x most securely
+y most joyfully
+z most gladly
+vv rejoicingly
+
+--- Page 057 ---
+
+a the face
+b the countenance
+c the appearance
+d the presence
+e the majesty
+f the beauty
+g the radiance
+h the loveliness
+i the glory
+k the comeliness
+l the form
+m the adornment
+n the kingdom
+o the empire
+p the piety
+q the sweetness
+r the gentleness
+s the kindness
+t the greatness
+v the honorableness
+x the magnificence
+y the brightness
+z the power
+zv the goodness
+
+a of the best
+b of the great
+c of the greatest
+d of the most holy
+e of the highest
+f of the most pious
+g of the holy
+h of the high
+i of the pious
+k of the blessed
+l of the good
+m of the bright, of himself, of the same
+n of the powerful
+o of the brightest
+p of the almighty
+q of the all-powerful
+r of the most gentle
+s of the most kind
+t of the most dutiful
+v of the most merciful
+x of the most excellent
+y of the supreme
+z of the heavenly
+zv of the everlasting
+
+--- Page 058 ---
+
+a of the ruler
+b of the founder
+c of the creator
+d of the lover
+e of the defender
+f of the commander
+g of the fashioner
+h of the enlightener
+i of the illuminator
+k of the preserver
+l of the restorer
+m of the life-giver
+n of the restorer
+o of the governor
+p of the justifier
+q of the sanctifier
+r of the moderator
+s of the searcher
+t of the knower
+v of the inspector
+x of the discerner
+y of the guardian
+z of the mover
+zv of the nourisher
+
+a of all
+b of all collectively
+c of the universe
+d of mortals
+e of heavenly beings
+f of the heavens
+g of men
+h of the just
+i of his own
+k of the humble
+l of Christians
+m of Christ-worshipers
+n into rule
+o of the orthodox
+p of believers
+q of the faithful
+r of the poor
+s of spiritual beings
+t of spirits
+v of souls
+x of minds
+y of hearts
+z of bodies
+zv of living beings
+
+--- Page 059 ---
+
+a in the kingdom
+b in glory
+c in the fatherland
+d in the city
+e in the palace
+f in the house
+g in the hall
+h in the seat
+i in the dwelling
+k in the habitation
+l in the dwelling
+m in pleasantness
+n in brightness
+o in splendor
+p in the dwelling-place
+q in splendors
+r in the empire
+s in honorableness
+t in honor
+v in communion
+x in participation
+y in society
+z in presence
+vv in attendance
+
+a of the living
+b of the living
+c of the saints
+d of the blessed
+e of the good
+f of the just
+g of the divine ones
+h of the elect
+i of happiness
+k of blessedness
+l of charity
+m of angels
+n of the happy
+o of the gentle
+p of eternity
+q of prophets
+r of apostles
+s of patriarchs
+t of archangels
+v of heaven-dwellers
+x of the supercelestial
+y of the heavenly
+z of martyrs
+vv of the predestined
+
+D
+
+--- Page 060 ---
+
+a continually
+b always
+c continuously
+d joyfully
+e unceasingly
+f without end
+g incessantly
+h rejoicingly
+i cheerfully
+k pleasantly
+l joyfully
+m perfectly
+n sweetly
+o perpetually
+p everlastingly
+q perpetually
+r eternally
+s constantly
+t happily
+v ardently
+x fervently
+y eagerly
+z most rejoicingly
+vv most gladly
+
+a to see
+b to discern
+c to behold
+d to look upon
+e to look up at
+f to gaze at
+g to look back at
+h to look through
+i to behold
+k to inspect
+l to look ahead to
+m to contemplate
+n to behold
+ o to participate
+p to share
+q to have present
+r to have before one
+s to love
+t to love
+v to marvel at
+x to admire
+y to admire
+z to know
+vv to recognize
+
+--- Page 061 ---
+
+a of the blessed
+b in the heavens
+c of those rejoicing
+d in the supercelestial realms
+e of those rejoicing
+f in the heavenly realms
+g of those dwelling
+h in paradise
+i of the saints
+k in the highest places
+l of those abiding
+m of those ruling
+n of the faithful
+o of the happy
+p of believers
+q of the living
+r of the just
+s of those resting
+t of those resting together
+v of those standing firm
+x of those dwelling together
+y of those praising together
+z of those triumphing
+w in the highest
+
+D ij
+
+of all, of all collectively
+
+a in heaven
+b in the heavens
+c in the heavenly realms
+d in the supercelestial realms
+e in the Olympic realms
+f in the heavenly realms
+g in eternal realms
+h in paradise
+i in the realms above
+k in the highest places
+l in the lofty places
+m in the fatherland
+n in divine things
+o in eminence
+p in the firmament
+q in spiritual things
+r in promises
+s in promises
+t in eternity
+v in charity
+x in brightness
+y in the kingdom of God
+z on thrones
+w in the highest
+
+D ij
+
+of all, of all collectively
+
+a in heaven
+b in the heavens
+
+[segment 23]
+--- Page 062 ---
+a one
+b true
+c certain
+d firm
+e eternal
+f perpetual
+g everlasting
+h most certain
+i highest
+k common
+l everlasting
+m unanimous
+n tranquil
+o stable
+p persevering
+q most firm
+r most pleasant
+s most secure
+t beautiful
+u secure
+x sweet
+y chosen
+z very sweet
+20 sweetest
+
+a rest
+b repose
+c joy
+d exultation
+e jubilation
+f consolation
+g refreshment
+h blessedness
+i recreation
+k pleasantness
+l pause
+m peace which will never
+n life which by no means
+o glory
+p enjoyment
+q full enjoyment
+r fellowship
+s satiety
+t festivity
+v solemnity
+x brightness
+y happiness
+z sweetness
+20 concord
+
+--- Page 063 ---
+a fails
+b will fail
+c is ended
+d will be ended
+e is terminated
+f will be terminated
+g will be destroyed
+h is destroyed
+i will be changed
+k will be altered
+l is changed
+m is altered
+n is removed
+o withers
+p will be diminished
+q will be extinguished
+r will be corrupted
+s is clouded over
+t will be hidden
+v will be taken away
+x will cease
+z will stop
+2v may be varied
+
+a endures
+b remains
+c will endure
+d will remain
+e will remain permanently
+f will persevere
+g perseveres
+h remains permanently
+i is continued
+k will be extended
+l is extended, but
+m is made continual in, but
+n will be made continual in
+o will be continued
+p will be enlarged
+q is increased
+r will grow
+s will be widened
+t will be possessed
+u is possessed
+y is had
+z 2v is had
+
+--- Page 064 ---
+a ages
+b an age
+c an age
+d eternity
+e all ages
+f eternal ages
+g everlasting time
+h ages of ages
+i everlasting ages
+k ages of ages
+l perpetual ages
+m eternal time
+n infinite ages
+o all ages
+p everlasting time
+q perpetual time
+r all time
+s all time
+t every age
+v infinity
+x everlasting ages
+y all times
+z every age
+
+A See
+B Attend
+C Turn your attention
+D Weigh
+E Consider
+F Observe
+G Remember
+H Think over
+I Think
+K Direct your attention
+L Weigh
+M Know
+N Acknowledge
+O Look upon
+P Inspect
+Q Look back
+R Behold
+S Look ahead
+T Weigh carefully
+V Deliberate
+X Recognize
+Y Turn over in mind
+Z Understand
+W Discern, now therefore, O
+
+--- Page 065 ---
+a brothers
+b fellow brothers
+c fellow servants
+d fathers
+e peoples
+f men
+g human beings
+h humble little men
+i fellow soldiers
+k earth-born ones
+l sons of Adam
+m lords
+n kings
+o dukes
+p counts
+q princes
+r prelates
+s pontiffs
+t shepherds
+v prelates
+x abbots
+y bishops
+z archbishops
+2v cardinals
+
+a good
+b excellent
+c beloved
+d dear
+e Christian
+f worshippers of Christ
+g most faithful
+h dearest
+i closest friends
+k devout
+l zealous
+m wise, who
+n prudent, if any
+o understanding
+p distinguished
+q learned
+r learned
+s lettered
+t judicious
+v most devout
+x most learned
+y most illustrious
+z worldly
+2v mortal
+
+--- Page 066 ---
+a you fear
+b you believe
+c you tremble
+d you become afraid
+e you are greatly afraid
+f you honor
+g you fear
+h you adore
+i you revere
+k you invoke
+l you entreat
+m you await
+n you esteem
+o you love
+p you worship
+q you acknowledge
+r you know
+s you recognize
+t you venerate
+v you love dearly
+x you hope in
+y you trust in
+z you await
+20 you glorify
+
+a founder
+b creator
+c maker
+d author
+e craftsman
+f rescuer
+g lord
+h savior
+i redeemer
+k life-giver
+l ruler
+m commander
+n preserver
+o governor
+p fashioner
+q builder
+r ruler
+s producer
+t lover
+v adorner
+x embellisher
+y revealer
+z sanctifier
+20 justifier
+
+--- Page 067 ---
+a of the world
+b of worldly things
+c of worldly people
+d of supercelestial things
+e of celestial things
+f of the dwellers in heaven
+g of the heavens
+h of us
+i of you
+k of the age
+l of heaven
+m of earth
+n of the globe
+o of souls
+p of human beings
+q of mortals
+r of Christians
+s of worshippers of Christ
+t of believers
+v of the faithful
+x of the humble
+y of all
+z of everyone
+ꝝ of all things
+
+a almighty
+b all-powerful
+c sweetest
+d most loving
+e most pious
+f most merciful
+g most kind
+h most merciful
+i most gentle
+k kind
+l gentle
+m pious, why you are
+n sweet, why you are
+o just
+p good
+q merciful
+r compassionate
+s indulgent
+t honey-sweet
+v highest
+x glorious
+y desirable
+z unchangeable
+ꝟ uncircumscribable
+
+--- Page 068 ---
+a made
+b called
+c chosen
+d created
+e established
+f fashioned
+g formed
+h baptized
+i ordained
+k called together
+l foreordained
+m predestined
+n gathered
+o made alive
+p led together
+q appointed
+r united
+s assumed
+t summoned
+v bound
+x joined together
+y generated
+z instituted
+20 born
+
+a Assuredly
+b Certainly
+c Surely not?
+d Of course
+e Indeed
+f Undoubtedly
+g Without doubt
+h Indubitably
+i Without any doubt
+k Most certainly
+l Most truly
+m Indeed, to
+n Since, to
+o Surely
+p Plainly
+q Truly
+r I know that
+s I say that
+t I think that
+u I reckon that
+x I affirm that
+y Know that
+z You should know that
+21 You should know that
+
+[segment 24]
+--- Page 069 ---
+a to be loved
+b to be worshiped
+c to be feared
+d to be known
+e to be sought out
+f to be sought
+g to be searched for thoroughly
+h to be inquired after
+i to be loved exceedingly
+k to be praised
+l to be blessed
+m to be praised
+n to be loved
+o to be honored
+p to be feared
+q to be invoked
+r to be remembered
+s to be glorified
+t to be magnified
+v to be extolled
+x to be honored
+y to be exalted
+z to be adored
+vv to be venerated
+
+a constantly
+b continually
+c always
+d continuously
+e fervently
+f unceasingly
+g without ceasing
+h most fervently
+i most cordially
+k most ardently
+l most devoutly
+m cordially
+n ardently
+o devoutly
+p purely
+q attentively
+r daily
+s humbly
+t most humbly
+v reverently
+x most willingly
+y reverently
+z most affectionately
+vv most prudently
+
+--- Page 070 ---
+a most merciful; a maker
+b most indulgent; b creator
+c most kind; c founder
+d most clement; d benefactor
+e everlasting; e former
+f most loving; f fashioner
+g most pious; g ruler
+h immortal; h protector
+i greatest; i receiver
+k best; k rector
+l great; l king
+m pious; m judge
+n just; n father
+o sweet; o shepherd
+p eternal; p mover
+q holy; q preserver
+r kind; r governor
+s most holy; s giver of life
+t merciful; t emperor
+v strongest; v redeemer
+x supercelestial; x savior
+y highest; y comforter
+z most renowned; z arbiter
+2v most excellent; 2v director
+
+--- Page 071 ---
+a of you; a you
+b of us; b us
+c of all; c all
+d of all persons; d all persons
+e of all universally; e all universally
+f of believers; f believers
+g of supercelestial beings; g men
+h of heavenly beings; h the faithful
+i of the heavens; i his own
+k of heaven; k the living
+l of the world; l mortals
+m of men; m the poor
+n of the faithful; n sinners
+o of worldly things; o unbelievers
+p of earthly things; p Gentiles
+q of invisible things; q the impious
+r of visible things; r nations
+s of earthly things; s the ignorant
+t of lands; t those who err
+v of the earth; v those who stray
+x of the world; x the dead
+y of the living; y the sick
+z of mortals; z the weak
+vv of angels; vv those who perish
+E
+
+--- Page 072 ---
+a faith
+b hope
+c trust
+d victory
+e passion
+f love
+g charity
+h compassion
+i pity
+k mercy
+l indulgence
+m clemency
+n piety
+o grace
+p patience
+q sweetness
+r gentleness
+s kindness
+t belief
+v love
+x apparition
+y teaching
+z gospel
+2v munificence
+
+a called
+b recalled
+c summoned
+d ordained
+e foreordained
+f predestined
+g renewed
+h restored
+i reformed
+k formed
+l led back
+m redeemed
+n chose
+o established
+p restored
+q received
+r placed
+s set in place
+t exalted
+v lifted up
+x confirmed
+y strengthened
+z fortified
+2v raised up
+ad
+to
+in
+in
+
+--- Page 073 ---
+a life; a eternal
+b peace; b perennial
+c rest; c everlasting
+d happiness; d to come
+e truth; e unfading
+f blessedness; f incorruptible
+g delight; g endless
+h exultation; h heavenly
+i solemnity; i supercelestial
+k pleasantness; k angelic
+l tranquillity; l celestial
+m beauty; m perpetual
+n sweetness; n immortal
+o brightness; o ineffable
+p enjoyment; p abiding
+q dwelling; q permanent
+r glory; r apostolic
+s fellowship; s of the apostles
+t security; t of the angels
+v festivity; v of the heaven-dwellers
+x abundance; x of eternity
+y joy; y of divinity
+z homeland; z of majesty
+vv rest; vv of the prophets
+E ij
+
+--- Page 074 ---
+a O pious one
+b O gentle one
+c O sweet one
+d O venerable one
+e O adorable one
+f O most pious one
+g O most loving one
+h O blessed one
+i O most just one
+k O all-powerful one
+l O most holy one
+m O most powerful one
+n O most clement one
+o O most wise one
+p O most venerable one
+q O most kind one
+r O fearsome one
+s O adorable one
+t O sweetest one
+v O merciful one
+x O gentlest one
+y O most reverend one
+z O most merciful one
+vv O most excellent one
+
+a former
+b fashioner
+c ruler
+d emperor
+e preserver
+f governor
+g founder
+h creator
+i maker
+k rector
+l father
+m judge
+n king
+o savior
+p mover
+q director
+r lord
+s redeemer
+t giver of life
+v renewer
+x restorer
+y renewer
+z preserver
+vv inspector
+
+--- Page 075 ---
+a our
+b of all
+c of all persons
+d of all universally
+e of movable things
+f of visible things
+g of the ages
+h of the age
+i of the world
+k of the globe
+l of the universe
+m of universality
+n of invisible things
+o of the living
+p of mortals
+q of men
+r of the faithful
+s of the humble
+t of heavenly beings
+u of angels
+x of supercelestial beings
+y of Christians
+z of Christ-worshipers
+20 of believers
+
+a look upon
+b look at
+c look into
+d behold
+e look through
+f look ahead for
+g look up to
+h give heed
+i look upon
+k look at
+l look into
+m behold us
+n look through upon us
+o look up
+p may you look upon
+q may you look at
+r may you look into
+s may you behold
+t may you look ahead for
+v pay attention
+x give heed
+y pay attention
+z may you give heed
+20 may you pay attention
+E iij
+
+[segment 25]
+--- Page 076 ---
+[Table:] a the wretched; b the weak; c the infirm; d the tainted; e the useless; f the unfortunate; g the pitiable; h the poor; i the frail; k the miserable; l the most wretched; m the most unfortunate; n the corruptible; o the changeable; p the unworthy; q the slothful; r Christians; s the lamentable; t the perishable; v the poorest; x the calamity-stricken; y the most unclean; z mortals; 2v the unjust.
+
+[Table:] a servants; b ministers; c priests; d attendants; e slaves; f suppliants; g sons; h subjects; i subordinates; k little servants; l disciples; m hearers; n devotees; o lovers; p worshippers; q adorers; r exiles; s captives; t the needy; v venerators; x bound servants; y the redeemed; z debtors; 2v nurslings.
+
+--- Page 077 ---
+[Table:] a have mercy; b take pity; c may you have mercy; d have compassion; e take pity; f have compassion; g suffer with us; h be compassionate; i may you be compassionate; k may you help; l help; m condescend to us; n come to our aid; o may you succor; p succor; q come to our help; r be present; s come to meet us; t may you come to meet us; v come to meet us; x be propitious; y be gracious; z sanctify; 2v save.
+
+[Table:] a remitting; b dismissing; c indulging; d releasing; e loosening; f giving; g forgiving; h granting; i cleansing; k forgetting; l purging; m erasing; n expiating; o washing; p washing away; q wiping; r wiping off; s wiping away; t purging; v thoroughly cleansing; x purifying; y rinsing away; z cleansing; 2v making clean. E iiij
+
+--- Page 078 ---
+[Table:] a our; b of human beings; c of the humble; d of the faithful; e of the devout; f of those who ask; g of those who grieve; h of those who pray; i of those who weep; k of the penitent; l of the contrite; m of the afflicted; n of believers; o of the baptized; p of Christians; q of the orthodox; r of Catholics; s of those who groan; t of Christ-worshippers; v of petitioners; x of seekers; y of those who desire; z of those who hope; 2v of those who wait.
+
+[Table:] a wicked deeds; b offenses; c misdeeds; d sins; e faults; f crimes; g sins; h wickednesses; i impieties; k iniquities; l unlawful pleasures; m excesses, because you; n guilt, since you; o vices; p evils; q acts of malice; r stains; s impurities; t negligences; v transgressions; x uncleannesses; y injustices; z crimes; 2v shameful deeds.
+
+--- Page 079 ---
+[Table:] a pious; b gentle; c sweet; d clement; e patient; f benign; g most gentle; h long-suffering; i most holy; k best; l good; m you are generous, Lord Jesus; n you are great, Lord God; o most pious; p most dutiful; q merciful; r sweetest; s most patient; t most meek; v most clement; x most benign; y meek; z excellent; 2v powerful.
+
+[Table:] a king; b judge; c emperor; d prince; e preserver; f governor; g administrator; h enlightener; i illuminator; k giver of life; l creator; m founder; n maker; o author; p director; q moderator; r purifier; s justifier; t redeemer; v savior; x lover; y establisher; z promoter; 2v producer.
+
+--- Page 080 ---
+[Table:] a of all; b of everyone; c of all things; d of humanity; e of angels; f of human beings; g of heavenly beings; h of the world; i of the globe; k of the earth; l of the heavens; m of good things; n of the saints; o of heaven; p of worldly things; q of things above; r of living beings; s of mortals; t of the universe; v of worldly beings; x of invisible things; y of visible things; z of natural things; 2v of nature.
+
+[Table:] a Look upon; b behold; c look into; d look closely upon; e consider; f remember; g may you remember; h call to mind; i may you call to mind; k may you recollect; l recollect; m weigh carefully, therefore; n attend, therefore; o turn your attention; p think; q think again; r be mindful; s may you be mindful; t remember; v recognize; x recognize; y come to know; z know; 2v understand.
+
+--- Page 081 ---
+[Table:] a O good one; b O holy one; c O worshipful one; d O venerable one; e O most benign one; f O most dutiful one; g O sweetest one; h O most pious one; i O gentlest one; k O most loving one; l O benign one; m O sweet Lord Jesus, how; n O gentle King of heaven, how; o O pious one; p O holy one; q O more-than-holy one; r O most holy one; s O most worshipful one; t O most excellent one; v O most noble one; x O merciful one; y O most merciful one; z O most indulgent one; 2v O most clement one.
+
+[Table:] a grave things; b unworthy things; c horrendous things; d very harsh things; e most grave things; f most unworthy things; g most bitter things; h most cruel things; i most harsh things; k hardest things; l cruel things; m bitter things; n harsh things; o hard things; p contrary things; q fearful things; r pitiable things; s most shameful things; t sorrowful things; v injurious things; x insulting things; y reproachful things; z unjust things; 2v lamentable things.
+
+--- Page 082 ---
+[Table:] a on the altar; b on the wood; c on the gibbet; d in torment; e in torture; f on the tree; g on the stake; h on the height; i on the trunk; k in the sanctuary; l on the sacrificial altar; m on the sign; n on the branch; o on the wood; p on the lofty place; q on the height; r in the place of labor; s on the eminence; t on the rack; v in the shrine; x on the instrument; y on the implement; z on the column; 2v in the receptacle.
+
+[Table:] a of the holy cross; b of the sanctified cross; c of the most holy cross; d of the saving cross; e of the Christ-bearing cross; f of the God-bearing cross; g of the gracious cross; h of the venerable cross; i of the honorable cross; k of the venerable cross; l of the honorable cross; m of the fearful cross; n of the holiness of the cross; o of the life-bearing cross; p of the vital cross; q of the sacred cross; r of the consecrated cross; s of the consecrated cross; t of the most consecrated cross; v of the most renowned cross; x of the blood-shed cross; y of the life-bearing cross; z of the venerable cross; 2v of the sweetest cross.
+
+[segment 26]
+--- Page 083 ---
+a: you endured; b: you bore; c: you have endured; d: you have borne; e: you bore; f: you have received; g: you received; h: you took upon yourself; i: you have taken upon yourself; k: you have sustained; l: you sustained; m: you suffered; n: you tasted; o: you have tasted; p: you were suffering; q: you have experienced; r: you have suffered; s: you have received; t: you received; v: you underwent; x: you underwent; y: you underwent; z: you bore; w: you tasted.
+
+a: for wretched; b: for poor wretches; c: for pitiable; d: for most wretched; e: for miserable; f: for most unworthy; g: for most unworthy; h: for iniquitous; i: for impious; k: for unwilling; l: for vain; m: for perishable; n: for perverse; o: for depraved; p: for distressed; q: for calamitous; r: for most vain; s: for useless; t: for very poor; v: for most unjust; x: for most unclean; y: for most impure; z: for most defiled; w: for most infirm.
+
+--- Page 084 ---
+a: creatures; b: exiles; c: those in exile; d: pilgrims; e: human beings; f: little humans; g: mortals; h: earth-born beings; i: children of Adam; k: fools; l: foolish people; m: the ignorant; n: wanderers; o: little worms; p: worms; q: sinners; r: wayfarers; s: the living; t: those who stray; v: animals; x: worldly beings; y: penitents; z: common people; 2v: evildoers.
+
+a: Most certainly; b: Most truly; c: Undoubtedly; d: Indeed; e: Surely; f: Because; g: For this reason; h: And therefore; i: Accordingly; k: Since; l: For indeed; m: For you are; n: Surely you are; o: Hence; p: Wherefore; q: For; r: Therefore; s: For which reason; t: And therefore; v: Truly; x: Truthfully; y: Certainly; z: Most truly; 2v: Since indeed.
+
+--- Page 085 ---
+a: God; b: Father; c: creator; d: founder; e: maker; f: ruler; g: lord; h: redeemer; i: governor; k: Lord; l: prince; m: maker; n: fashioner; o: king; p: judge; q: lover; r: helper; s: savior; t: life-giver; v: consoler; x: preserver; y: protector; z: moderator; vv: beatifier.
+
+a: our; b: of the world; c: of the good; d: of the just; e: of human beings; f: of mortals; g: of the living; h: of the faithful; i: of believers; k: of the orthodox; l: of worshipers of Christ; m: of Christians; n: of all together; o: of everyone; p: of all; q: of the elect; r: of the pious; s: of exiles; t: of sons; v: of the devout; x: of the humble; y: of the afflicted; z: of the wretched; vv: of pilgrims.
+
+--- Page 086 ---
+a: pious; b: good; c: powerful; d: great; e: best; f: greatest; g: most pious; h: most dutiful; i: most powerful; k: most merciful; l: merciful; m: kind; n: glorious; o: exalted; p: distinguished; q: excellent; r: most gentle; s: most holy; t: most kind; v: most excellent; x: most merciful; y: most glorious; z: most high; vv: most bright.
+
+a: redeeming; b: freeing; c: saving; d: lifting up; e: expiating; f: relieving; g: supporting; h: renewing; i: making new; k: purifying; l: enlightening; m: illuminating; n: crowning; o: raising up; p: rescuing; q: guarding; r: loving; s: bringing salvation; t: preserving; v: glorifying; x: sanctifying; y: cleansing; z: beatifying; vv: making blessed.
+
+--- Page 087 ---
+a: minds; b: souls; c: spirits; d: spirits; e: life; f: morals; g: deeds; h: works; i: actions; k: thoughts; l: wills; m: reflections; n: operations; o: intentions; p: desires; q: purpose; r: prayers; s: orations; t: petitions; v: inspirations; x: aspirations; y: inward parts; z: hearts; vv: hearts.
+
+a: of servants; b: of the faithful; c: of little servants; d: of attendants; e: of household servants; f: of ministers; g: of the poor; h: of the humble; i: of Christians; k: of worshipers of Christ; l: of priests; m: of all your friends; n: of all your elect; o: of lovers; p: of worshipers; q: of those who love; r: of dear ones; s: of those who pray; t: of followers; v: of sacred servants; x: of vicars; y: of messengers; z: of the obedient; vv: of disciples.
+
+--- Page 088 ---
+a: We ask; b: We pray; c: We desire; d: We request; e: We beg; f: We beseech; g: We entreat; h: We petition; i: We demand; k: We urgently request; l: We hope; m: But we desire; n: For we believe; o: We trust; p: We await; q: We wait for; r: We long for; s: We yearn; t: We seek after; v: We urgently request; x: We desire; y: We intend; z: We seek; zv: We strive.
+
+a: to be saved; b: to be healed; c: to be helped; d: to be aided; e: to be made happy; f: to be beatified; g: to be relieved; h: to be justified; i: to be sanctified; k: to be cleansed; l: to be taken up; m: to be blessed through your; n: to be crowned through your; o: to be renewed; p: to be made new; q: to be reconciled; r: to be reconciled again; s: to be restored; t: to be refreshed; v: to be reformed; x: to rise again; y: to recover strength; z: to be defended; zv: to be preserved.
+
+--- Page 089 ---
+a: piety; b: greatest; c: ineffable; d: inestimable; e: unchangeable; f: superdivine; g: supercelestial; h: divine; i: celestial; k: excellent; l: exalted; m: infinite; n: inexhausted; o: inexhaustible; p: most abundant; q: incomprehensible; r: most excellent; s: most high; t: most worthy of worship; v: most blessed; x: most happy; y: memorable; z: manifold.
+
+[segment 27]
+--- Page 090 ---
+a about to receive
+b about to perceive
+c about to take up
+d about to conceive
+e about to accept
+f about to take
+g about to obtain
+h about to receive exceptively
+i about to find
+k about to discover
+l about to attain
+m about to take up all things
+n about to take back all things universally
+o about to pursue
+p about to seize
+q about to have
+r about to have again
+s about to apprehend
+t about to comprehend
+v about to share in
+x about to hasten toward
+y about to perceive
+z about to await
+2v about to expect
+
+a pardon
+b remedy
+c health
+d release
+e absolution
+f loosening
+g dissolution
+h indulgence
+i remission
+k remedy
+l cure
+m care
+n washing away
+o wiping away
+p expiation
+q correction
+r cleansing
+s dismissal
+t emptying out
+v purification
+x purging
+y relaxation
+z purgation
+2v loosening
+
+--- Page 091 ---
+a of crimes
+b of harms
+c of charges
+d of offenses
+e of things committed
+f of transgressions
+g of sins
+h of impieties
+i of iniquities
+k of wicked deeds
+l of vices
+m of deeds, because you are
+n of evils, because you are
+o of faults
+p of excesses
+q of acts of malice
+r of corruptions
+s of injustices
+t of transgressions
+v of ignorances
+x of shameful deeds
+y of sins
+z of neglected duties
+2v of wickednesses
+
+a true
+b certain
+c firm
+d perfect
+e most true
+f most certain
+g most firm
+h most perfect
+i most truthful
+k most constant
+l most secure
+m most solid
+n clear
+o solid
+p secure
+q constant
+r most clear
+s most pleasant
+t most overflowing
+v most tranquil
+x sweetest
+y gentlest
+z safest
+2v eternal
+
+--- Page 092 ---
+a hope
+b salvation
+c rest
+d trust
+e repose
+f consolation
+g confidence
+h refreshment
+i recreation
+k blessedness
+l happiness
+m reward
+n life
+o sweetness
+p pleasantness
+q sustenance
+r recompense
+s sanctification
+t justification
+v freedom
+x enjoyment
+y delight
+z exultation
+2v praise
+
+a of the faithful
+b of the humble
+c of mortals
+d of human beings
+e of believers
+f of Christians
+g of Christ-worshippers
+h of the orthodox
+i of the poor
+k of the afflicted
+l of the devout
+m of all the good, because you are
+n of all the needy, because you are
+o of the wretched
+p of the desolate
+q of the meek
+r of the troubled
+s of the hungry
+t of the just
+v of the gentle
+x of those crying out
+y of exiles
+z of penitents
+2v of the contrite
+
+--- Page 093 ---
+a virtue
+b piety
+c majesty
+d excellence
+e clemency
+f divinity
+g mercy
+h omnipotence
+i immensity
+k existence
+l dominion
+m deity faithfully
+n essence truly
+o goodness
+p truth
+q grace
+r loftiness
+s eminence
+t holiness
+v blessedness
+x eternity
+y sweetness
+z immortality
+2v benignity
+
+a they worship
+b they adore
+c they proclaim
+d they venerate
+e they honor
+f they magnify
+g they honor
+h they love
+i they call to mind
+k they love
+l they entreat
+m they praise
+n they praise together
+o they follow
+p they observe
+q they bless
+r they imitate
+s they await
+t they expect
+v they invoke
+x they implore
+y they celebrate
+z they exalt
+2v they fear
+
+--- Page 094 ---
+a Therefore
+b This one, then
+c This one, therefore
+d This one, accordingly
+e Hence
+f For this reason
+g Wherefore
+h And therefore
+i Accordingly
+k On account of this
+l And therefore
+m Therefore we also
+n Therefore we
+o And so
+p Therefore
+q Accordingly
+r Hence
+s From this
+t Wherefore
+v And on account of this
+x For which reason
+y Indeed
+z For indeed
+2v Certainly and
+
+a servants
+b attendants
+c ministers
+d servants
+e priests
+f ministerial servants
+g ministrants
+h attendants
+i subordinate servants
+k administrators
+l those who praise together
+m your adorers of this
+n your worshippers, though
+o boys
+p little servants
+q members of the household
+r obedient servants
+s observers
+t disciples
+v subjects
+x human beings
+y Christians
+z Christ-worshippers
+2v vicars
+
+--- Page 095 ---
+a vain
+b weak
+c wretched
+d unworthy
+e pitiable
+f miserable
+g most wretched
+h most unworthy
+i vilest
+k iniquitous
+l unjust
+m perishable
+n abject
+o desolate
+p most vain
+q most unjust
+r most unhappy
+s weakest
+t most desolate
+v mortal
+x unclean
+y unhappy
+z slothful
+2v ignorant
+
+a we greet
+b we praise
+c we praise together
+d we bless
+e we glorify
+f we celebrate together
+g we call blessed
+h we celebrate
+i we exalt
+k we honor
+l we extol
+m we pray
+n we venerate
+o we revere
+p we invoke
+q we implore
+r we honor
+s we acknowledge
+t we know
+v we proclaim
+x we sing
+y we tremble before
+z we fear
+2v we fear
+
+--- Page 096 ---
+a eternal
+b life-giving
+c immortal
+d greatest
+e ineffable
+f inaccessible
+g inestimable
+h unsurpassable
+i uncircumscribed
+k unchangeable
+l honey-flowing
+m luminous
+n health-bringing
+o heavenly
+p celestial
+q bright
+r serene
+s glorious
+t unconquered
+v everlasting
+x perennial
+y sempiternal
+z supercelestial
+2v supereminent
+
+a deity
+b piety
+c brightness
+d sweetness
+e blessedness
+f benignity
+g greatness
+h mercy
+i divinity
+k deity
+l power
+m your goodness, you who
+n your virtue, you who
+o glory
+p clemency
+q excellence
+r providence
+s omnipotence
+t gentleness
+v loftiness
+x wisdom
+y eminence
+z majesty
+2v height
+
+[segment 28]
+--- Page 097 ---
+
+a us                a you made
+b heaven            b you founded
+c earth             c you formed
+d the world         d you fashioned
+e man               e you brought forth
+f our race          f you reformed
+g all things        g you renewed
+h everything        h you restored
+i all things        i you shaped
+k the heavens       k you established
+l the globe         l you ordered
+m earthly things    m you alone ordered
+n worldly things    n you alone shaped
+o things of the world o you fashioned
+p men               p you created
+q angels            q you created
+r heavenly things   r you love
+s earthly things    s you loved
+t created things    t you have loved
+v creation          v you adorned
+x creation          x you adorned
+y those above       y you magnified
+z the living        z you enlightened
+rv spirits          rv you embellished G ij
+
+--- Page 098 ---
+
+a by goodness        a preparing
+b by clemency        b preparing beforehand
+c by condescension   c promising
+d by love            d promising again
+e by charity         e disposing
+f by generosity      f ordering
+g by piety           g granting
+h by grace           h providing
+i by benevolence     i giving
+k by kindness        k giving
+l by will            l promising
+m by mildness        m granting to us
+n by compassion      n establishing for us
+o by sweetness       o communicating
+p by munificence     p ministering
+q by gentleness      q administering
+r by mercy           r contributing
+s by indulgence      s bestowing
+t by fellow-feeling  t granting
+v by participation   v furnishing
+x by communication   x deferring
+y by wisdom          y distributing
+z by command         z forgiving
+rv by utterance      rv granting indulgence
+
+--- Page 099 ---
+
+a life               a to your friends
+b peace              b to your elect
+c joy                c to the righteous
+d happiness          d to the angels
+e fruition           e to your beloved
+f sweetness          f to the disciples
+g pleasantness       g to the apostles
+h communion          h to the evangelists
+i exultation         i to the archangels
+k gladness           k to the prophets
+l security           l to the servants
+m brightness         m to your sons
+n reward             n to your thrones
+o quiet              o to the household servants
+p rest               p to the little servants
+q glory              q to the ministers
+r blessedness        r to the servitors
+s jubilation         s to the principalities
+t delight            t to the dominations
+v serenity           v to the familiars
+x light              x to the predestined
+y dwelling           y to the most loving
+z recompense         z to the dearest
+rv tranquillity      rv to the most elect G iij
+
+--- Page 100 ---
+
+a eternal            a We have recognized
+b perpetual          b We recognize
+c everlasting        c We have known
+d unending           d We know
+e eternal            e We have acknowledged
+f ineffable          f We acknowledge
+g inestimable        g We have known
+h incorruptible      h We know
+i unfading           i We know
+k perennial          k We confess
+l immortal           l We acknowledge
+m eternal            m For we profess
+n luminous           n For we perceive
+o most noble         o We assent
+p most pleasant      p We consent
+q most blessed       q We experience
+r most secure        r We consider
+s most bright        s We weigh
+t most sweet         t We ponder
+v most excellent     v We examine carefully
+x most happy         x We consider
+y endless            y We reconsider
+z heavenly           z We grieve
+2v infinite          2v We groan
+
+--- Page 101 ---
+
+a ruler              a of the globe
+b creator            b of heaven
+c founder            c of the world
+d savior             d of the heavens
+e fashioner          e of all things
+f shaper             f of everything
+g commander          g of the universe
+h moderator          h of the archangels
+i renewer            i of Christians
+k restorer           k of angels
+l preserver          l of men
+m liberator          m of mortals
+n instructor         n of the humble
+o guardian           o of the faithful
+p God                p of the good
+q king               q of the saints
+r prince             r of believers
+s giver of life      s of the devout
+t governor           t of the poor
+v enlightener        v of the righteous
+x illuminator        x of the penitent
+y comforter          y of the innocent
+z sustainer          z of the worshipers of Christ
+2v consoler          2v of the simple G iiij
+
+--- Page 102 ---
+
+a most dutiful       a wretched
+b most pious         b poor little wretches
+c sweetest           c pitiable
+d most holy          d most wretched
+e most powerful      e miserable
+f most kind          f most unjust
+g most merciful      g most wicked
+h most dread         h unclean
+i most gracious      i criminal
+k greatest           k stained
+l best               l most vain
+m kind               m we are very bad and
+n holy               n we are weak and
+o strongest          o wicked
+p almighty           p unjust
+q most serene        q unworthy
+r most wise          r unhappy
+s most worthy of worship s wicked
+t most excellent     t most unhappy
+v most loving        v most wicked
+x most glorious      x corruptible
+y most sacred        y most unworthy
+z most splendid      z most unclean
+rv most merciful     rv most stained
+
+--- Page 103 ---
+
+a mortal             a hearing
+b hearing            b keeping
+c keeping            c preserving
+d preserving         d preserving
+e attending          e noticing
+f observing closely  f observing closely
+g loving             g loving
+h caring             h caring
+i looking upon       i looking back upon
+k regarding          k inspecting
+l inspecting         l observing
+m observing          m taking
+n receiving          n perceiving
+o ruinous            o perceiving
+p defective          p receiving
+q calamity-stricken  q taking up
+r very poor          r loving diligently
+s most abject        s doing
+t most sluggish      t working
+u contemptible       u fulfilling
+v most foolish       v completing
+x weak               x perfecting
+y carrying out       y carrying out
+z ignorant           z following
+z desiring           20 deaf
+
+[segment 29]
+--- Page 104 ---
+
+a commandments
+b precepts
+c utterances
+d counsels
+e just decrees
+f laws
+g beginnings
+h law
+i counsel
+k utterance
+l precept
+m commandment
+n justifications
+o instruction
+p tradition
+q traditions
+r teaching
+s teachings
+t doctrine
+v doctrines
+x sanctions
+y admonitions
+z intimations
+2v gospel
+
+a of goodness
+b of piety
+c of holiness
+d of clemency
+e of sweetness
+f of meekness
+g of love
+h of charity
+i of wisdom
+k of kindness
+l of divinity
+m of your deity, but in
+n of your virtue, who in
+o of grace
+p of truth
+q of instruction
+r of excellence
+s of humanity
+t of will
+v of calling
+x of election
+y of preaching
+z of illumination
+2v of enlightenment
+
+--- Page 105 ---
+
+a from many
+b from great
+c from very great
+d from grave
+e from gravest
+f from dreadful
+g from continual
+h from worst
+i from harmful
+k from pernicious
+l from very frequent
+m from daily
+n from more serious
+o from detestable
+p from abominable
+q from very many
+r from very great
+s from very great
+t and from many
+v and from great
+x from deadly
+y from lethal
+z from death-bringing
+2v from mortal
+
+a vices
+b harms
+c offenses
+d sins
+e guilts
+f crimes
+g crimes
+h misdeeds
+i offenses
+k iniquities
+l impieties
+m offenses against you
+n faults against you
+o evils
+p words
+q deeds
+r things thought
+s thoughts
+t desires
+v pleasures
+x desires
+y impurities
+z defilements
+2v pollutions
+
+--- Page 106 ---
+
+a piety
+b goodness
+c majesty
+d clemency
+e sweetness
+f gentleness
+g charity
+h holiness
+i will
+k justice
+l grace
+m law, we have sinned against
+n virtue, we have offended
+o truth
+p power
+q loftiness
+r equity
+s kindness
+t compassion
+v mercy
+x justification
+y munificence
+z excellence
+2v serenity
+
+a By vices
+b By evils
+c By faults
+d By offenses
+e By sins
+f By crimes
+g By misdeeds
+h By desires
+i By impieties
+k By iniquities
+l By beatitudes
+m By offenses committed by us
+n By harms also committed by us
+o By malices
+p By follies
+q By crimes
+r By offenses
+s By negligences
+t By vanities
+v By misdeeds
+x By transgressions
+y By rash acts
+z By pleasures
+2v By desires
+
+--- Page 107 ---
+
+a demanding
+b deserving
+c demeriting
+d earning
+e requesting
+f requiring
+g occasioning
+h effecting
+i doing
+k causing
+l impelling
+m compelling
+n intervening
+o determining
+p occurring in between
+q mediating
+r cooperating
+s bursting in
+t running together
+v overflowing
+
+a find
+b have found
+c have surrounded
+d have wrapped up
+e surround
+f wrap up
+g have approached
+h approach
+i envelop
+k hold
+l occupy
+m detain us
+n have occupied us
+o have occupied
+p have shut in
+q shut in
+r have held
+s have detained
+t have anticipated
+v have preoccupied
+x have narrowed
+y have constrained
+z constrain
+2v preoccupy
+
+H2
+
+--- Page 108 ---
+
+a wretched
+b poor little wretches
+c most wretched
+d pitiable
+e miserable
+f dying
+g most unhappy
+h most frail
+i most infirm
+k most desolate
+l most vain
+m infirm
+n desolate
+o abject
+p perishable
+q useless
+r vain
+s weak
+t feeble
+v most abject
+x most unworthy
+y corruptible
+z slothful
+2v poor
+
+a men
+b little men
+c earth-born people
+d Christians
+e worshippers of Christ
+f Germans
+g Alemanni
+h Pannonians
+i Hungarians
+k Teutons
+l Teutonics
+m Theotisci
+n Italians
+o earthly people
+p worldly people
+q mortals
+r faithful
+s orthodox
+t believers
+v little servants
+x ministers
+y priests
+z religious
+2v cloistered persons
+
+--- Page 109 ---
+
+a many
+b numerous
+c great
+d very great
+e infinite
+f dreadful
+g very many
+h very many indeed
+i innumerable
+k incredible
+l countless
+m gravest
+n unbearable
+o unceasing
+p hardest
+q daily
+r continual
+s constant
+t hard
+v fearful
+x fearsome
+y horrible
+z cruel
+2v cruelest
+
+a miseries
+b encirclements
+c incursions
+d tribulations
+e persecutions
+f disturbances
+g commotions
+h invasions
+i vexations
+k confusions
+l mockeries
+m derisions
+n insults
+o adversities
+p entreaties
+q depopulations
+r devastations
+s desolations
+t assaults
+v molestations
+x destructions
+y contradictions
+z reproaches
+2v infestations
+
+H ij
+
+[segment 30]
+--- Page 110 ---
+
+a of evils b of thieves c of enemies d of the wicked e of robbers f of the unjust g of the impious h of Turks i of the very worst k of Saracens l of the most impious m of Ruthenians n of Tartars o of the most faithless p of Thracians q of the most worthless r of Pelasgians s of the cruel t of pagans u of heathens x of Palestinians y who us z O of the faithless, who us v of Egyptians w of the perverse p of Mamluks x of tyrants u of the proud r of the faithless v of the truculent s of flatterers x of night-wanderers t of the most savage y of creatures of darkness v of the most cruel z of Spatics y of gentiles
+
+--- Page 111 ---
+
+a they trouble b by right c by cause d by reason e by judgment f by justice g with discretion h with compassion i with pity k with commiseration l with honor m they despoil, without moderation n without cessation, with no o they vex o honor p fear q they trample q fellow-feeling r they wound r clemency s they overthrow t reverence u they destroy v mercy x they persecute z interruption y x interval z moderation
+
+--- Page 112 ---
+
+a rescuing b snatching away c caring d saving e helping f assisting g preventing h sympathizing i defending k redeeming l opposing m intervening n succoring o grieving with p thinking q reconsidering r consoling s sustaining t refreshing v hastening to help x receiving y resisting z opposing 20 fighting back
+
+a most pious b most gentle c most dutiful d sweetest e most merciful f most sweet g most kind h most merciful i most indulgent k most mild l most venerable m most just n highest o strongest p most powerful q most loving r most excellent s most glorious t wisest u most unconquered x most virtuous y most victorious z most shining 21 most excellent
+
+--- Page 113 ---
+
+a shepherd b tutor c helper d nourisher e assistant f governor g defender h preserver i fashioner k maker l founder m creator n author o helper p king q judge r maker s ruler t emperor v protector x consoler y savior z restorer vv lover
+
+a of all b of all c of all people d of Christians e of worshippers of Christ f of believers g of the faithful h of the good i of the saints k of the just l of the elect m of the humble n of the sorrowful o of the saddened p of the poor q of the afflicted r of those who groan s of the orthodox t of Catholics v of the innocent x of the frail y of the weak z of the needy vv of the destitute
+
+--- Page 114 ---
+
+a erase b wash c wash away d cover e wipe away f expiate g hide h may you hide i may you remit k remit l forgive m may you forgive n may you erase o may you wash p may you wash away q may you cover r may you wipe away s may you cover t cleanse v may you cleanse x purify y may you purify z may you pardon 2v pardon
+
+a we pray b we ask c we beg d we pray e we beseech f we supplicate g we request h we seek i we earnestly demand k we entreat l we urgently ask m we most urgently ask n we implore o we desire p we wish q we choose r we long for s we desire t we beseech v we greatly desire x we greatly wish y we most earnestly entreat z we long for 2v we implore
+
+--- Page 115 ---
+
+a harms b vices c faults d transgressions e crimes f sins g misdeeds h offenses i sins k shameful deeds l offenses m excesses of all n guilt of all o guilt p offenses q negligences r desires s extravagances t transgressions v iniquities x impieties y injustices z perversities 2v impurities
+
+a of those who worship b of those who love c of those who adore d of those who praise e of those who proclaim f of those who venerate g of those who cherish h of those who sing i of those who fear k of those who dread l of those who invoke m of those who endure n of those who bless o of those who believe p of those who follow q of those who seek r of those who seek again s of those who seek out t of those who praise together v of those who await x of those who glorify y of those who exalt z of those who honor 2v of those who imitate
+
+--- Page 116 ---
+
+a holy b ineffable c most holy d glorious e health-giving f saving g lovable h greatest i life-giving k admirable l unconquered m lofty n highest o deep p venerable q blessed r everlasting s uncircumscribed t uncircumscribable v incomprehensible x unchangeable y deepest z infinite 20 eternal
+
+a piety b goodness c sweetness d gentleness e mercy f kindness g divinity h majesty i deity k grace l glory m your power o your blessedness o clemency p loftiness q serenity r brightness s long-suffering t eminence v omnipotence x wisdom y providence z happiness 20 all-powerfulness
+
+[segment 31]
+--- Page 117 ---
+a king                a of the faithful
+b hope                b of the humble
+c life                c of all
+d salvation           d of all things
+e crown               e of human beings
+f creator             f of believers
+g founder             g of angels
+h prince              h of mortals
+i emperor             i of visible things
+k preserver           k of invisible things
+l governor            l of Christians
+m giver of life       m of the worshippers of Christ, who us
+n renewer             n of the poor, who us
+o restorer            o of the meek
+p sustainer           p of the good
+q consoler            q of the just
+r defender            r of the nations
+s protector           s of the living
+t refuge              t of those who hope
+v father              v of those who trust
+x God                 x of those who love you
+y judge               y of those who cherish you
+z savior              z of those who praise you
+2v redeemer           2v of those who praise you together
+
+--- Page 118 ---
+a you save            a teaching
+b you have saved      b nativity
+c you have freed      c institution
+d you have liberated  d incarnation
+e you have recalled   e circumcision
+f you have redeemed   f manifestation
+g you have led back   g baptism
+h you have repaired   h victory
+i you have recovered  i preaching
+k you have protected  k instruction
+l you have rescued    l teaching
+m you have reserved   m passion
+n you have preserved  n death
+o you have kept safe  o kindness
+p you have reformed   p charity
+q you have renewed    q resurrection
+r you have restored   r ascension
+s you have withdrawn  s humanity
+t you have lifted up  t glorification
+v you have received   v mercy
+x you have taken back x wounding
+y you have vindicated y crucifixion
+z you have bought back z scourging
+2v you have raised up 2v crowning
+
+--- Page 119 ---
+a of the malignant    a from the power
+b of the wicked       b from the command
+c of the faithless    c from the captivity
+d of the worst        d from the tyranny
+e of the most faithless e from the cruelty
+f of the most wicked  f from the domination
+g of the most malignant g from the dominion
+h of the most criminal h from the savagery
+i of the most wicked  i from the right
+k of the liar         k from the service
+l of the most impious l from the servitude
+m of the most deceitful m from the damnation
+n of the most furious n from the violence
+o of the most unclean o from the fellowship
+p of the filthiest    p from the subjection
+q of the most unbelieving q from the lordship
+r of the most cunning r from the detention
+s of the most proud   s from the rashness
+t of the most lying   t from the oppression
+v of the fraudulent   v from the severity
+x of the impious      x from the malice
+y of the unbelieving  y from the net
+z of the deceitful    z from the capture
+2v of the criminal    2v from the deception
+I
+
+--- Page 120 ---
+a of the devil        a Eternal
+b of Satan            b Kindly One
+c of the serpent      c Greatest
+d of the toad         d Most pious
+e of the dragon       e Omnipotent
+f of the deceiver     f Most loving
+g of the adversary    g Most powerful
+h of the seducer      h Everlasting
+i of the supplanter   i All-powerful
+k of the accuser      k Most unconquered
+l of the transgressor l Most just
+m of the blasphemer   m Best Lord God
+n of the deserter     n Most high Lord Jesus
+o of the apostate     o Most strong
+p of the robber       p Most gentle
+q of the bandit       q Most worthy of worship
+r of the spirit       r Most holy
+s of the murderer     s Most clement
+t of the accuser      t Most benign
+v of the mocker       v Most merciful
+x of the wolf         x Most excellent
+y of the thief        y Most illustrious
+z of the enemy        z Most wise
+2v of the foe         2v Most glorious
+
+--- Page 121 ---
+a of all things       a creator
+b of all              b founder
+c of everything       c fashioner
+d of the heavens      d maker
+e of the world        e establisher
+f of the globe        f preserver
+g of the earth        g illuminator
+h of heaven           h enlightener
+i of the sea          i renewer
+k of the cosmos       k restorer
+l of the sea          l emperor
+m of man              m judge, who
+n of human beings     n king, who
+o of humanity         o maker
+p of mortals          p author
+q of the living       q craftsman
+r of souls            r mover
+s of spirits          s moderator
+t of minds            t orderer
+v of spiritual things v giver of life
+x of angels           x sanctifier
+y of heavenly things  y reformer
+z of earthly things   z purifier
+2v of supercelestial things 2v governor
+Z ij
+
+--- Page 122 ---
+a standing            a from heaven
+b shining             b from on high
+c living              c in the heavens
+d sitting             d on high
+e residing            e in the heights
+f forgiving           f in the highest places
+g ruling              g among heavenly things
+h reigning            h above
+i commanding          i in majesty
+k gleaming forth      k among supercelestial things
+l shining             l in sublime things
+m existing            m in higher things
+n flashing            n in more eminent things
+o resplendent         o in the most eminent things
+p presiding           p among dominions
+q governing           q among principalities
+r triumphing          r among powers
+s preeminent          s among thrones
+t shining             t in eternity
+v eminent             v eternal
+x exulting            x perpetual
+y rejoicing           y everlasting
+z gleaming            z among powers
+2v gleaming again     2v in brightness
+
+--- Page 123 ---
+a usefully            a you rule
+b beautifully         b you care for
+c fittingly           c you cherish
+d powerfully          d you carry
+e prudently           e you order
+f wisely              f you provide for
+g sweetly             g you foresee
+h virtuously          h you arrange
+i orderly             i you preserve
+k moderately          k you moderate
+l modestly            l you govern
+m in order            m you administer all things
+n happily             n you dispense all things
+o gloriously          o you distribute
+p immovably           p you discern
+q most strongly       q you adorn
+r most beautifully    r you embellish
+s most sweetly        s you adorn
+t sweetly             t you sustain
+v most happily        v you uphold
+x most sweetly        x you support
+y most modestly       y you preserve
+z most rightly        z you give life
+2v most benignly      2v you renew
+I iij
+
+[segment 32]
+--- Page 124 ---
+
+a small things
+a great things
+b lesser things
+b greater things
+c the least things
+c the greatest things
+d human beings
+d angels
+e human things
+e angelic things
+f earthly things
+f heavenly things
+g terrestrial things
+g supercelestial things
+h worldly things
+h archangels
+i lower things
+i Olympian things
+k the lowest things
+k higher things
+l visible things
+l the highest things
+m mortal things
+m invisible things
+n present things
+n immortal things
+o bodies
+o future things
+p bodily things
+p souls
+q transitory things
+q spiritual things
+r eternal things
+r heavenly things
+s secular things
+t heaven
+t the world
+u minds
+u the earth
+x spirits
+v perishable things
+y souls
+z individual things
+z indeed
+20 all things
+30 the universe
+
+--- Page 125 ---
+
+a see
+a weepings
+b accept
+b groans
+c receive
+c groaning
+d receive
+d tears
+e hear
+e lamentation
+f hear
+f lamentations
+g listen
+g bewailings
+h attend
+h implorings
+i pay heed
+i lamentations
+k admit
+k entreaties
+l turn your attention
+l supplications
+m remember
+n prayers
+n call to mind
+o petitions
+o be mindful
+p sighs
+q remember
+q laments
+r recollect
+r weeping
+s consider
+s wailings
+t weigh carefully
+t wailing
+v think again
+v miseries
+x think
+x outcries
+y weigh
+y invocations
+z behold
+z afflictions
+20 have mercy
+20 adversities
+I iv
+
+--- Page 126 ---
+
+a of servants
+b of those who love
+c of those who endure
+d of those who cherish
+e of those who remember
+f of those who praise
+g of those who adore
+h of those who honor
+i of those who seek
+k of those who seek after
+l of those who inquire
+m of those singing you, God
+n of those fearing you, God
+o of those who fear
+p of those who praise together
+q of those who glorify
+r of those who exalt
+s of those who bless
+t of those who desire
+v of those who cultivate
+x of those who await
+y of those who entreat
+z of those who confess
+2v of those who affirm
+
+--- Page 127 ---
+
+a alone
+b true
+c best
+d greatest
+e most pious
+f most devout
+g ineffable
+h inestimable
+i immortal
+k invisible
+l pious
+m only
+n gentle
+o powerful
+p almighty
+q all-powerful
+r uncircumscribed
+s inaccessible
+t unchangeable
+v incorruptible
+x most powerful
+y strongest
+z gentlest
+2v wisest
+
+a all things
+b all things
+c individual things
+d each thing
+e the universe
+f the world
+g worldly things
+h worldly things
+i supercelestial things
+k everlasting things
+l perpetual things
+m eternal things
+n the globe
+o heaven
+p earth
+q heavenly things
+r earthly things
+s terrestrial things
+t mortal things
+v times
+x the age
+y visible things
+z human beings
+2v human things
+
+--- Page 128 ---
+
+a seeing
+b ruling
+c looking upon
+d beholding
+e moderating
+f embracing
+g administering
+h providing
+i ordering
+k directing
+l preserving
+m discerning
+n looking at
+o distinguishing
+p caring for
+q adorning
+r embellishing
+s preserving
+t governing
+u disposing
+x guarding
+y looking upon
+z giving life
+20 inspecting
+
+a frail
+b wretched
+c unjust
+d poor
+e poor little ones
+f pitiable
+g most wretched
+h miserable
+i most abject
+k most unworthy
+l most unhappy
+m most ruined
+n poorest
+o vainest
+p unclean
+q ungrateful
+r unjust
+s impious
+t evil
+v reprobate
+x ruined
+y wicked
+z most unjust
+21 most ungrateful
+
+--- Page 129 ---
+
+a mortals
+a salvation
+b earthly ones
+b usefulness
+c terrestrial ones
+c salvation
+d human beings
+d liberation
+e petty human beings
+e redemption
+f sinners
+f giving life
+g worldly ones
+g restoration
+h worldly ones
+h restoration
+i little servants
+i repair
+k perishable ones
+k leading back
+l servants
+l fertility
+m exiles
+m our advantage; you have willed
+n the needy
+n and our consolation; you have deigned
+o the destitute
+o recall
+p captives
+p renewal
+q deceived ones
+q sanctification
+r desolate ones
+r justification
+s worms
+s instruction
+t little worms
+t blessedness
+v wounded ones
+v happiness
+x apostates
+x reconciliation
+y condemned ones
+y cleansing
+z deserters
+z purification
+vv transgressors
+vv purgation
+
+--- Page 130 ---
+
+a to be incarnate
+a most chaste
+b to be baptized
+b most pure
+c to be circumcised
+c most blessed
+d to be tempted
+d most holy
+e to appear
+e most bright
+f to be made human
+f most noble
+g to fast
+g thrice holy
+h to be wearied
+h most devout
+i to labor
+i most pious
+k to preach
+k undefiled
+l to be persecuted
+l unstained
+m to suffer
+m untouched, the Virgin Mary
+n to be handed over, begotten of
+n inviolate Mary, ever virgin
+o to thirst
+o immaculate
+p to teach
+p most adorned
+q to hunger
+q most innocent
+r to be sold
+r most beautiful
+s to be taken captive
+s most lovely
+t to be bound
+t most modest
+v to be crowned
+u most glorious
+x to be wounded
+x most kindly
+y to be scourged
+y most splendid
+z to be buried
+z most merciful
+2v to die
+2v
+
+[segment 33]
+--- Page 131 ---
+
+a We recommend; a highest
+b We commend; b best
+c We entrust; c greatest
+d We set forth; d loftiest
+e We intimate; e most pious
+f We reveal; f sweetest
+g We assign; g most devoted
+h We consign; h most worthy of worship
+i We resign; i most merciful
+k We signify; k most kind
+l We make known; l most to be feared
+m We notify; m everlasting
+n We submit; n mildest
+o We offer; o most loving
+p We hand over; p most noble
+q We render; q perpetual
+r We prostrate; r to be feared
+s We bring back; s to be remembered
+t We bring forward; t to be adored
+v We defer; v to be venerated
+x We sacrifice; x eternal
+y We present; y glorious
+z We admonish; z ineffable
+vv We subject; vv inestimable
+K
+
+--- Page 132 ---
+
+a to goodness
+b to deity
+c to majesty
+d to divinity
+e to fatherhood
+f to lordship
+g to charity
+h to piety
+i to grace
+k to authority
+l to power
+m to holiness
+n to wisdom
+o to virtue
+p to brightness
+q to mercy
+r to providence
+s to munificence
+t to mercy
+v to compassion
+x to greatness
+y to blessedness
+z to meekness
+vv to serenity
+
+a God
+b Father
+c maker
+d creator
+e guardian
+f founder
+g savior
+h governor
+i fashioner
+k preserver
+l defender
+m ruler
+n king
+o keeper
+p judge
+q emperor
+r establisher
+s renewer
+t restorer
+v giver of life
+x governor
+y illuminator
+z enlightener
+vv redeemer
+
+--- Page 133 ---
+
+a of all
+b of all
+c of all things
+d of invisible things
+e of visible things
+f of mortals
+g of the heavens
+h of the world
+i of the globe
+k of heaven
+l of earth
+m of man
+n of men
+o of humanity
+p of the universe
+q of things above
+r of worldly things
+s of worldly things
+t of worshipers of Christ
+v of Christians
+x of dominations
+y of principalities
+z of powers
+zv of angels
+
+a actions
+b souls
+c minds
+d lives
+e powers
+f affairs
+g cares
+h sorrows
+i miseries
+k affections
+l consciences
+m causes
+n infirmities
+o temptations
+p adversities
+q little temptations
+r anxieties
+s wants
+t necessities
+v hardships
+x afflictions
+y tribulations
+z intentions
+zv operations
+K ij
+
+--- Page 134 ---
+
+a devoutly
+b attentively
+c intently
+d more devoutly
+e more attentively
+f more intently
+g insistently
+h more insistently
+i most humbly
+k most insistently
+l humbly
+m most intently
+n most devoutly
+o most attentively
+p most fervently
+q most ardently
+r fervently
+s more fervently
+t ardently
+v more ardently
+x affectionately
+y more affectionately
+z most affectionately
+vv without ceasing
+
+a praying
+b adoring
+c beseeching
+d praying
+e entreating
+f supplicating
+g asking
+h groaning
+i repeatedly asking
+k knocking
+l invoking
+m desiring, that through
+n it is fitting that through
+o wishing
+p crying out
+q exclaiming
+r desiring
+s requesting
+t demanding
+v urgently demanding
+x earnestly demanding
+y seeking
+z asking
+vv crying aloud
+
+--- Page 135 ---
+
+a great
+b infinite
+c greatest
+d loftiest
+e broadest
+f deep
+g abundant
+h deepest
+i most abundant
+k inexhaustible
+l invincible
+m insurmountable
+n everlasting
+o inestimable
+p sweetest
+q ineffable
+r lovable
+s praiseworthy
+t mildest
+v most highly praised
+x singular
+y richest
+z unchangeable
+zv uncircumscribable
+
+a compassion
+b mercy
+c compassion
+d fellow-feeling
+e generosity
+f sweetness
+g piety
+h mildness
+i grace
+k goodness
+l charity
+m your love
+n your clemency
+o sweetness
+p meekness
+q kindness
+r benignity
+s munificence
+t bounty
+v benevolence
+x long-suffering
+y indulgence
+z sweetness
+zv magnificence
+K iij
+
+--- Page 136 ---
+
+a may you pardon
+b may you forgive
+c may you dismiss
+d may you remit
+e may you release
+f may you wipe away
+g may you wash away
+h may you cleanse
+i may you loosen
+k may you wash
+l may you cover
+m may you wash away
+n may you wipe off
+o may you hide
+p may you overlook
+q may you extinguish
+r may you break apart
+s may you cleanse
+t may you purify
+v may you purify
+x may you purge
+y may you amend
+z may you justify
+vv may you take away
+
+a our
+b of the faithful
+c of the humble
+d of the devout
+e of the contrite
+f of those confessing
+g of believers
+h of the poor
+i of the infirm
+k of the wretched
+l of the afflicted
+m of all
+n of those groaning
+o of those invoking
+p of those weeping
+q of Christians
+r of the orthodox
+s of churchmen
+t of the compunctious
+v of the desolate
+x of exiles
+y of supplicants
+z of those entreating
+vv of those desiring
+
+--- Page 137 ---
+
+a vices
+b evils
+c harms
+d faults
+e sins
+f crimes
+g offenses
+h hidden things
+i things committed
+k crimes
+l wicked deeds
+m impurities
+n sins
+o negligences
+p transgressions
+q iniquities
+r impieties
+s wicked acts
+t depravities
+v excesses
+x guilt
+y stains
+z injustices
+2v acts of disobedience
+
+a of time passed
+b of time completed
+c of time accomplished
+d of time gone by
+e of time past
+f of time already sent ahead
+g of time perishing
+h of time granted
+i of most precious time
+k of saving time
+l of salutary time
+m of preceding time
+n of granted time
+o of time lost
+p of time already done
+q of time neglected
+r of time elapsed
+s of time wasted
+t of time spent
+u of fleeting time
+y of former time
+z of ancient time
+2v of time slipping away
+K iiij
+
+[segment 34]
+[page 138:] a leading through; b leading back; c bringing together; d leading in; e leading; f leading across; g bringing in; h bringing forth; i carrying across; k advancing; l receiving; m receiving us to; n admitting us to; o accepting; p drawing; q bringing to; r summoning back; s raising up; t lifting; v joining; x associating; y uniting; z enrolling; vv exalting. — a solace; b pleasantness; c consolation; d felicity; e fellowship; f blessedness; g exultation; h banquet; i exultations; k banquets; l gladness; m the feasts of all; n the joys of all; o joy; p society; q triumphs; r mansions; s dwellings; t spectacles; v abodes; x communion; y participation; z brightness; vv rest.
+
+[page 139:] a of the elect; b of the saints; c of friends; d of the beloved; e of lovers; f of the faithful; g of servants; h of the righteous; i of attendants; k of the blessed; l of martyrs; m of your worshippers in; n of your citizens in; o of angels; p of confessors; q of apostles; r of prophets; s of disciples; t of believers; v of those praised; x of those praising; y of the dear; z of the dearest; 2v of the most loving. — a in the heavens; b age; c eternal; d perpetual; e everlasting; f among the supercelestial; g in everlastingness; h ages of ages; i holy age; k everlasting ages; l among the heavenly; m in the highest; n age; o ages; p in heaven; q from heaven; r in the heights; s among the supernal; t in the hall of heaven; v in the court of the heavens; x among the supreme; y in the supreme; z in paradise; 2v among the heavenly.
+
+[page 140:] a O wretched ones; b O poor little ones; c O pitiable ones; d O most wretched; e O miserable ones; f O most unfortunate ones; g O most foolish ones; h O ruined ones; i O unfortunate ones; k O you; l But you; m O vain ones; n O good ones; o O you who are about to perish; p O most ruined ones; q Therefore you; r You therefore; s You accordingly; t O most vain ones; v O unbelieving ones; x O negligent ones; y O most poor ones; z O most abject ones; 2v O foolish ones. — a mortals; b men; c little men; d common people; e sinners; f princes; g barons; h counts; i dukes; k kings; l judges; m rulers, from every; n governors, in every; o prelates; p pontiffs; q emperors; r priests; s presbyters; t prelates; v pastors; x seculars; y cloistered ones; z Christians; 2v Christ-worshippers.
+
+[page 141:] a land; b globe; c world; d homeland; e region; f territory; g province; h clime; i horizon; k parallel; l south; m east, under the heaven; n west, under the heaven; o north; p district; q county; r principality; s empire; t language; v kingdom; x estate; y place; z town; 2v city. — a Franks; b Bavarians; c Austrians; d Franconians; e French-born; f Germans; g Alemanni; h Belgians; i Noricans; k Bohemians; l Hessians; m southerners, and especially; n Menapians, especially, or; o West Gauls; p Frisians; q Frisians; r Grunes; s Cleves-men; t Sicambri; v Gelderlanders; x Wederanians; y Lotharingians; z Moravians; 2v Saxons.
+
+[page 142:] a Thuringians; b Meisseners; c Mosellans; d Rhinelanders; e Rhenish people; f Cisrhenanes; g Transrhenanes; h Cismosellans; i Transmosellans; k Treverans; l Treverici; m Treviri; n Teutons; o Germans; p Teutonics; q Westphalians; r march-men; s Cijnonoti; t Pomeranians; v Gauians; x Nahagavi; y Stauronesii; z Renigavi; zv Vangiones. — a Burgundians; b Lombards; c Burgundians; d Brabantians; e Brabantians; f Hollanders; g Hollanders; h Avars; i Huns; k Hungarians; l Poles; m Poles, together with; n Danes, together with; o Dacians; p Swedes; q Swedes; r Swedians; s Silesians; t Helvetians; v Silesians; x Helvetians; y Alsatians; z Alsatians; zv Alsatians.
+
+[page 143:] a Suebi; b Suevians; c Vindelici; d Triboci; e Triboci; f Gauioduri; g Nemetes; h Speyer people; i Nemetic people; k Speyer people; l Bavarians; m Anglians; n Albinians; o English; p Scots; q Scots; r Rhaetians; s Rhaetians; t Irish; v Irish; x Norwegians; y Norwegians; z Zealanders; 2v Zealanders. — a Spaniards; b Spaniards; c Normans; d Normans; e Normans; f Icelanders; g Icelanders; h Icelanders; i Britons; k Britons; l Britons; m Slavians; n Slavs; o Slavians; p Slavs; q Slavs; r Rugians; s Rugians; t Rugians; v Ruthenians; x Ruthenians; y Ruthenians; z Prussians; 2v Prussians. L.
+
+[page 144:] a Lithuanians; b Picards; c Lithuanians; d Picards; e Flemings; f Picards; g Kashubians; h Picardians; i Mauritanians; k Kashubians; l Mauritanians; m Lusatians; n Portuguese; o Athasons; p Lusatians; q Subaudians; r Gaetulians; s Lusatians; t Gaetulians; u Athasini; v Ethiopians; x Styrians; y Scaldes; z Pannonians; 2v Majorcans; 3v Ethiopians; 4v Scaldes; 5v Africans; 6v Africans; 7v Lithuanians; 8v Lithuanians; 9v of Lithuania; 10v of Lithuania; 11v Lithuanian; 12v Lithuania; 13v Lithuania; 14v of Lithuania; 15v of Lithuania and Ethiopia; 16v of Lithuania and Scaldia; 17v of Lithuania and Africa; 18v of Lithuania and Majorca; 19v of Lithuania and Picardy; 20v of Lithuania and Turkey; 21v of German Lithuania; 22v of Roman Lithuania; 23v of Slavic Lithuania.
+
+[segment 35]
+[page 145:]
+a Sicilians
+b Sicilians
+c Neapolitans
+d Neapolitani
+e Italians
+f Italians
+g Italici
+h Itali
+i Calabrians
+k Calabrians
+l Romans
+m Romans
+n Etruscans
+o Etrurians
+p Allobroges
+q Celtiberians
+r Gallic people
+s Greeks
+t Gauls
+v Cabini
+x Sabines
+y Latins
+z barbarians
+2v Indians
+
+a Moabites
+b Armenians
+c Armeni
+d Palestinians
+e Hebrews
+f Jews
+g Rhodians
+h Cypriots
+i Egyptians
+k Asians
+l Asiatics
+m Tartars
+n Cappadocians
+o Chaldeans
+p Medes
+q Parthians
+r Persians
+s Numidians
+t Numidiani
+v Pelasgians
+x Thracians
+y Thracians
+z Amazons
+2v Arcadians
+L ij
+
+[page 146:]
+a Atrebates
+b Ambluariti
+c Avarici
+d Ambilates
+e Arverni
+f Ambibareti
+g Andes
+h Ambibari
+i Antuati
+k Arenarii
+l Arthomici
+m Bellovaci
+n Bigeriones
+o Bituriges
+p Bethasii
+q Brannonii
+r Bingiones
+s Bellocassi
+t Nivicellenses
+v Centrones
+x Cimbri
+y Catuaci
+z Caletes
+2v Cadurci
+
+[page 147:]
+a Cavillones
+b Occosates
+c Ceuimagni
+d Caninephates
+e Cyraiores
+f Gammani
+g Cerocates
+h Diablinthres
+i Eburonices
+k Flustates
+l Garocelli
+m Hedui
+n Harudes
+o Helveceti
+p Helvii
+q Iceni
+r Lingones
+s Lentii
+t Lexonii
+v Lexonienses
+x Leuaci
+y Mandubii
+z Marcomanni
+2v Morini
+
+a Carnutes
+b Cantabri
+c Cancii
+d Cassii
+e Cerusii
+f Cathi
+g Duracii
+h Ebutones
+i Eusubii
+k Essui
+l Gaballi
+m Garites
+o Grudii
+p Gorduni
+q Gugerni
+r Hermonduri
+s Lenonices
+t Leopontii
+v Latouici
+x Lemonices
+y Ligiones
+z Ligii
+2v Mediomatrites
+L iij
+
+[page 148:]
+a Mesii
+b Pemani
+c Pleuinosii
+d Petrocorii
+e Primigeni
+f Chemi
+g Remenses
+h Rhedones
+i Santones
+k Sedusii
+l Seduni
+m Sesuntini
+n Bisuntii
+o Bisuntini
+p Suesii
+q Segni
+r Sessuui
+s Sonciates
+t Sengoriaci
+v Tullingni
+x Tholosates
+y Tholosani
+z Trinobantes
+2v Toctusages
+
+[page 149:]
+a Tauciati / perceive
+b Tungri / take up
+c Torbiaci / receive
+d Tubantes / accept
+e Tijgeni / conceive
+f Vocatii / hear
+g Vagiones / listen
+h Volge / heed
+i Volsi / hearken
+k Vellocasses / listen attentively
+l Veragri / attend
+m Veneti / intend
+n Unelli and all the rest / turn your attention
+o Ubii / weigh carefully
+p Usipetes / consider
+q Vascones / ponder
+r Veromandui / weigh
+s Chimonoburgii / weigh
+t Agrippinates / understand
+v Colonienses / think
+x Botanepolites / think again
+y Botaneburgii / discern
+z Peapolites / preserve
+2v Herbipolenses / preserve
+L iiij
+
+[page 150:]
+a warnings
+b admonitions
+c admonitions
+d forewarnings
+e reminders
+f fore-notices
+g notices
+h exhortations
+i exhortations
+k exhortations
+l suggestions
+m consultations
+n introductions
+o allegations
+p insinuations
+q instructions
+r predictions
+s preachings
+t announcements
+v denunciations
+x declamations
+y exclamations
+z instructions
+2v attestations
+
+a of God
+b of Christ
+c my
+d divine
+e of the Scriptures
+f Christian
+g evangelical
+h of the apostles
+i apostolic
+k of the saints
+l holy
+n true
+o useful
+p salutary
+q health-giving
+r best
+s of the prophets
+t prophetic
+v ecclesiastical
+x paternal
+y of the fathers
+z of the faithful
+2v faithful
+
+[page 151:]
+a correct
+b purify
+c make straight
+d compose
+e justify
+f purge
+g cleanse thoroughly
+h sanctify
+i make straight
+k cleanse
+l cleanse thoroughly
+m wash
+n wash away
+o reform
+p restore
+q renew
+r illuminate
+s prepare
+t repair
+v examine
+x alleviate
+y cast away
+z despise
+2v clarify
+
+a true
+b pure
+c right
+d whole
+e faithful
+f holy
+g continuous
+h fervid
+i fervent
+k ardent
+l unceasing
+m most true
+n most pure
+o most right
+p most whole
+q most faithful
+r most holy
+s most fervent
+t most ardent
+v catholic
+x Christian
+y ecclesiastical
+z necessary
+2v due
+
+[segment 36]
+--- Page 152 ---
+
+a faith
+b knowledge
+c repentance
+d penitence
+e confession
+f contrition
+g attrition
+h satisfaction
+i humiliation
+k humility
+l chastity
+m belief
+n mortification
+o continence
+p wisdom
+q chastisement
+r opinion
+s charity
+t conversion
+v instruction
+x subjection
+y obedience
+z way of life
+2v life
+
+a devices
+b desires
+c occupations
+d exercises
+e iniquities
+f impieties
+g injustices
+h foulnesses
+i stains
+k souls
+l affections
+m your faults, lest
+n your offenses, lest
+o causes
+p ways
+q paths
+r minds
+s consciences
+t works
+v judgments
+x estimations
+y desires
+z cravings
+2v actions
+
+--- Page 153 ---
+
+a death
+b hell
+c judgment
+d calamities
+e damnation
+f danger
+g consummation
+h consumption
+i condemnation
+k destruction
+l perdition
+m destruction suddenly [come upon] you
+n vengeance suddenly [come upon] you
+o the end
+p fear
+q pain
+r anguish
+s misery
+t tribulation
+v vengeance
+x sentence
+y trouble
+z sadness
+2v recompense
+
+a seize
+b catch
+c apprehend
+d whirl around
+e roll around
+f envelop
+g wrap around
+h overtake
+i consume
+k consume
+l invade
+m carry off, when it does not
+n snatch away, while it does not
+o devour
+p overthrow
+q overturn
+r extinguish
+s exterminate
+t swallow up
+v destroy
+x shatter
+y destroy
+z lay waste
+2v surround
+
+--- Page 154 ---
+
+a you think
+b you reckon
+c you fear
+d you ponder
+e you will think
+f you will reckon
+g you will ponder
+h you will reconsider
+i you reconsider
+k you will estimate
+l you estimate
+m you will have reckoned
+n you will fear
+o you grow afraid
+p you grow afraid
+q you fear
+r you estimate
+s you will estimate
+t you will take precaution
+v you take precaution
+x you will beware
+y you beware
+z you dread
+2v you consider
+
+a Attend
+b Give heed
+c Consider
+d Weigh
+e Weigh carefully
+f Weigh
+g Remember
+h Reflect
+i Think
+k Behold
+l Look upon
+m Look into; now, you
+n Look back; now therefore, you
+o See through
+p Discern
+q Perceive
+r Gaze upon
+s Notice
+t Observe
+v Recall
+x See
+y Recognize
+z Know
+2v Recognize
+
+--- Page 155 ---
+
+a vain
+b sluggish
+c hard
+d slow
+e ignorant
+f idle
+g wretched
+h inactive
+i slothful
+k idle
+l forgetful
+m sleepy
+n negligent
+o shameless
+p inconsiderate
+q most wretched
+r pitiable
+s deserving pity
+t most hard
+v doomed to perish
+x unhappy
+y unskilled
+z desolate
+2v most unskilled
+
+a worshippers of Christ
+b Christians
+c pontiffs
+d prelates
+e bishops
+f pastors
+g bishops
+h kings
+i judges
+k faithful
+l peoples
+m presidents
+n tribunes
+o rulers
+p princes
+q emperors
+r elders by birth
+s little men
+t men
+v mortals
+x magnates
+y worldly people
+z more precious ones
+2v prefects
+NB
+
+--- Page 156 ---
+
+a I beseech
+b I pray
+c I entreat
+d I ask
+e I beg
+f I urge
+g I exhort
+h I encourage
+i I admonish
+k you advise
+l you warn beforehand
+m I warn
+n I am able
+o I implore
+p I call to witness
+q I remind
+r I cause to remember
+s I persuade
+t I counsel
+v I urge
+x we ask
+y we ask
+z we pray
+2v we supplicate
+
+a miseries
+b disturbances
+c calamities
+d adversities
+e tribulations
+f persecutions
+g perturbations
+h harassments
+i annoyances
+k desolations
+l vexations
+m hardships which
+n troubles which
+o collisions
+p treacheries
+q insolences
+r destructions
+s devastations
+t depopulations
+v plunderings
+x tramplings
+y oppositions
+z afflictions
+2v irruptions
+
+--- Page 157 ---
+
+a holy
+b venerable
+c to be revered
+d most blessed
+e most holy
+f fruitful
+g worthy of honor
+h honorable
+i venerable
+k undefiled
+l unstained
+m uncontaminated
+n untouched mother
+o inviolate mother
+p happy
+q incorrupt
+r immaculate
+s sacrosanct
+t catholic
+v universal
+x benign
+y sweet
+z chaste
+2v pious
+
+a of the faithful
+b of believers
+c of the humble
+d of the orthodox
+e of Christians
+f of worshippers of Christ
+g of the redeemed
+h of the restored
+i of the elect
+k of the just
+l of the innocent
+m church of the apostles
+n church of the martyrs
+o of confessors
+p of those confessing
+q of the predestined
+r of the good
+s of those to be saved
+t of virgins
+v of those to be blessed
+x of the devout
+y of the contrite
+z of mortals
+2v of the living
+NB ij
+
+--- Page 158 ---
+
+a suffers
+b has suffered
+c endured
+d sustained
+e experiences
+f has experienced
+g undergoes
+h has undergone
+i tolerated
+k tolerates
+l bears
+m endures
+n endured
+o receives
+p received
+q receives
+r received
+s accepts
+t accepted
+v waits for
+x expects
+y had
+z has
+
+a deceitful
+b reprobate
+c perverse
+d disgraceful
+e cruel
+f most cruel
+g most perverse
+h most deceitful
+i most reprobate
+k most wicked
+l criminal
+m worst, and
+n [unclear]
+o bestial
+p most foul
+q criminal
+r most wicked
+s most savage
+t contaminated
+v most hard
+x most vain
+y most filthy
+z most treacherous
+2v treacherous
+
+[segment 37]
+--- Page 159 ---
+a: impious; b: unjust; c: unclean; d: unbelieving; e: most impious; f: most unjust; g: most unclean; h: most unbelieving; i: most unfortunate; k: most sordid; l: most absurd; m: most abject; n: most wretched; o: most ignorant; p: most envious; q: most foolish; r: most stupid; s: most slothful; t: most unlearned; v: most inert; x: most avaricious; y: most covetous; z: savage; sv: most savage.
+
+a: by Turks; b: by pagans; c: by Saracens; d: by heathens; e: by nations; f: by gentiles; g: by Bulgarians; h: by Mohammedans; i: by Mohammedans; k: by Pelagians; l: by heretics; m: by Greeks who [unclear]; n: by Tartars who [unclear]; o: by tyrants; p: by Armenians; q: by Ruthenians; r: by Bulgarians; s: by schismatics; t: by idolaters; v: by persecutors; x: by robbers; y: by Parthians; z: by brigands; sv: hideamphoteris. M iii.
+
+--- Page 160 ---
+a: daily; b: continually; c: continuously; d: gravely; e: excessively; f: enormously; g: most gravely; h: most cruelly; i: horribly; k: pitiably; l: most wretchedly; m: cruelly; n: in hostile fashion; o: most savagely; p: wickedly; q: unceasingly; r: frequently; s: most wickedly; t: most unjustly; v: most frequently; x: most insolently; y: most furiously; z: enviously; 2v: constantly.
+
+a: trouble; b: disturb; c: throw into confusion; d: devastate; e: assail; f: attack; g: storm; h: invade; i: oppress; k: cast down; l: molest; m: harass; n: afflict; o: overthrow; p: overturn; q: despoil; r: tear apart; s: cast down; t: annihilate; v: trample underfoot; x: plunder; y: persecute; z: shake; 2v: exterminate.
+
+--- Page 161 ---
+a: They hold; b: They occupy; c: They detain; d: They hold; e: They have occupied; f: They have occupied; g: They have obtained; h: They have preoccupied; i: They have preoccupied; k: They preoccupy; l: They have taken away; m: They have seized. Behold now; n: For they already have; o: They possess; p: They have borne; q: They have invaded; r: They have stormed; s: They have stormed; t: They have overturned; v: They have exterminated; x: They have exterminated; y: They have usurped; z: They have usurped; vv: They have entered.
+
+a: Asia; b: Africa; c: Greece; d: Thrace; e: Bulgaria; f: Carmania; g: Armenia; h: Cappadocia; i: Mauretania; k: Ethiopia; l: Gaetulia; m: Libya; n: Egypt; o: Arabia; p: Antioch; q: Alexandria; r: Palestine; s: Assyria; t: Judea; v: Syria; x: India; y: Tartary; z: Barbary; vv: the Hellespont. M iv.
+
+--- Page 162 ---
+a: Epirus; b: Persia; c: Persis; d: Albania; e: Dardania; f: Magrabia; g: Negroponte; h: Taprobana; i: Calicut; k: Scoyra; l: Parthia; m: Samaria; n: Pamphylia; o: Numidia; p: Mesopotamia; q: Babylon; r: Hydromtum; s: Scythia; t: Euboea; v: Media; x: Aetolia; y: Chalocea; z: Damascus; zv: Arcadia.
+
+a: Aeolia; b: Alania; c: Galatia; d: Bithynia; e: Macedonia; f: Amazonia; g: Melindia; h: Gargisa; i: Coriitum; k: Repsiana; l: Agizimba; m: Speransa; n: Marchosa; o: Logonia; p: Perodia; q: Camaroela; r: Damesas; s: Tacharnia; t: Dalagum; v: Musameli; x: Hesperia; y: Malachat; z: Turamida; zv: Pharasata.
+
+--- Page 163 ---
+a: Realm; b: Salitana; c: Eleones; d: Nigritae; e: Tumelica; f: Sagabacia; g: Ichthyophagi; h: Cyrenaica; i: Marmarica; k: Sisophagi; l: Azania; m: Mascitae; n: Abrochis; o: Mynothora; p: Troglodytica; q: Smyrnophora; r: Gargisa; s: Sabara; t: Rapata; v: Phasagar; x: Malachias; y: Cassanitha; z: Megobardi; zv: Catramonicae.
+
+a: Sacae; b: Marae; c: Aschytae; d: Lydia; e: Phrygia; f: Asaborum; g: Thamis; h: Labonophas; i: Sachalia; k: Susiana; l: Hyrcania; m: Parthian country; n: Turkey; o: Caria; p: Lycia; q: Cilicia; r: Coele-Syria; s: Colchis; t: Argolis; v: Sarmatia; x: Noguridia; y: Cyropolitae; z: Arsia; zv: Iberia.
+
+--- Page 164 ---
+a: Bosnia; b: Mysia; c: Achaia; d: Morea; e: Gedrosia; f: Paradena; g: Drangiana; h: Omodagastara; i: Aramagata; k: Callensiana; l: Basachata; m: Arachosia; n: Paropania; o: Zanzibar; p: Daradrae; q: Ursana; r: Indoscythae; s: Parsiatia; t: Caspiria; v: Cilindina; x: Condalium; y: Adisatri; z: Ariaca; w: Iona.
+
+a: Passale; b: Lissa; c: Sissa; d: Zibala; e: Corancoli; f: Benagurum; g: Triliphin; h: Bisingni; i: Alasonga; k: Chrysoana; l: Monirundae; m: Nangoletae; n: Amathae; o: Armachora; p: Bactriana; q: Margiana; r: Sogdiana; s: Jaxartes; t: Tectosages; v: Astatantae; x: Darusae; y: Messeii; z: Dabase; w: Biolingae.
+
+--- Page 165 ---
+a: Cassia; b: Biltae; c: Cylindi; d: Tagari; e: Lestana; f: Codupae; g: Calcites; h: Basanatae; i: Bragmani; k: Archimara; l: Abischitae; m: Achassa; n: Caraneia; o: Alanorsia; p: Massagetae; q: of the Sacae; r: Isidomseytae; s: Taurana; t: Chersonesus; v: Palliana; x: Cathobae; y: Iberingae; z: Coniedes; rv: Sindi.
+
+a: Troana; b: Solana; c: Semantines; d: Nicomedia; e: Octotoraces; f: Madagarith; g: Seylanan; h: Rabantian; i: Garnei; k: Ambastae; l: Rabana; m: Cathigara; n: Theriotis; o: Coronia; p: Mohabar; q: Chayra; r: Stoyra; s: Thinea; t: Sina; u: Inurfulis; x: Loath; y: Edessa; z: Olach; rv: Varrh.
+
+[segment 38]
+--- Page 166 ---
+a Lacia b Java c Lamia d Tangut e Pertara f Cijamba g Tholama h Siuulglu i Sindissa k Fulicandora l Angania m Nechura n Mangos o Ezinia p Balora q Tibet r Loacha s Sandur t Candur v Garnea x Bengal y Quinsaios z Quiritiria 2v Chymchitalis
+
+a by many b by more c by very many d by rather more e by very many f by very many g by rather very many h by exceedingly many i by the greatest k by exceedingly great l by the very greatest m by the broadest n by great o by ample p by very ample q by very famous r by very pleasant s by very adorned t by very distinguished v by the best x by adorned y by broad z by famous 2v by distinguished
+
+--- Page 167 ---
+a by the most beautiful b by the most handsome c by splendid d by handsome e by beautiful f by wealthy g by very wealthy h by very populous i by very rich k by populous l by strong m by very strong n by very rich o by comely p by noble q by renowned r by precious s by most renowned t by precious u by very spacious x by very strong
+
+y of the baptized z of believers e of the orthodox f of Catholics g of ecclesiastics h of worshippers of Christ i of Christians k of saints l of Nazarenes q of the elect, once of a province s of the blessed, once of kingdoms o of confessors p of martyrs q of apostles r of evangelicals s of those evangelizing t of those preaching v of Romans x of spiritual persons y of those justified z of those predestined 2v of the just
+
+--- Page 168 ---
+a by inhabitants b by citizens c by Christians d by worshippers of Christ e by believers f by the faithful g by our people h by men i by the just k by saints l by the good m by boys n by brothers o by those found p by those discovered q by the credulous r by religious persons s by men t by inhabitants v by the living x by the orthodox y by ecclesiastics z by Catholics 2v by disciples
+
+a impiously b harshly c severely d cruelly e unjustly f wickedly g most impiously h most harshly i most severely k most cruelly l most unjustly m most wickedly n most iniquitously o wickedly p most bitterly q shamefully r terribly s dreadfully t horribly v most harshly x most wretchedly y savagely z most shamefully 2v violently
+
+--- Page 169 ---
+a killed b slain c killed outright d burned e burned up f put to death g destroyed h destroyed i consumed k slaughtered l exterminated m martyred n strangled o perishing p mortified q intercepted r suffocated s extinguished t crucified v mutilated x slaughtered y set on fire z burned up 2v destroyed
+
+A And b Alas c Ah d Ah e But f Meanwhile g In the meantime h And yet i Nevertheless k But nevertheless l Behold m Alas, there is no one who n Alas, who is there who o Benignly p Nevertheless q Good God r But behold s Alas, the sorrow t Shame on it v Nonetheless x Ah y O God z See 2v And yet behold
+
+--- Page 170 ---
+a may rescue b may snatch away c may grieve d may grieve with e may grieve inwardly f may mourn g may avenge h may come to aid i may intervene k may reconsider l may think m may free; there is no one who n may save; there is no one who o may redeem p may help q may look upon r may notice s may pay attention t may fear v may be afraid x may be afraid y may beware z may take precautions 2v may judge
+
+a may have compassion b may contradict c may fight back d may resist e may defend f may succor g may meet h may oppose i may assist k may take up l may sustain m may cherish all his own n may attend to all his own o may attend p may console q may groan r may pity s may have compassion t may tremble v may be saddened x may be moved y may be moved z may reckon 2v may sigh
+
+--- Page 171 ---
+a they care for b they think c they reconsider d they take care of e they devise f they seek out g they inquire h they seek i they love k they desire l they search for m they follow n they look upon o they inspect p they look back q they consider r they desire s they follow t they prefer v they practice x they handle y they treat thoroughly z they behold 2v they preserve
+
+a of God b of Christ c of the Lord d of the Crucified e of the Savior f of the Redeemer g of the Shaper h of the Maker i of the Reformer k of the Liberator l of the Founder m of the Creator n of the Author o of the Maker p of the Craftsman q of the Father r of the Nourisher s of the Enlightener t of the Illuminator v of the Governor x of the Preserver y of the Protector z of the Emperor 2v of the Rewarder
+
+of our
+of all
+
+--- Page 172 ---
+a part b people c inheritance d household e little people f church g honor h precept i commandment k good pleasure l will m ministers n priests o servants p little sheep q clergy r common people s sheep t servants v faith x doctrine y institutions z gospel 2v religion
+
+a neglecting b spurning c contemning d despising e thinking little of f valuing little g esteeming as a straw h making little of i forgetting k disparaging l passing over m abhorring n mocking o deriding p casting away q abandoning r trampling underfoot s jeering at t holding as nothing v abhorring vx reproaching vy corrupting vz detesting 2vx execrating
+
+[segment 39]
+--- Page 173 ---
+
+a For this reason
+b Wherefore
+c Therefore
+d For that reason
+e On which account
+f Accordingly
+g Whence
+h For this reason
+i Therefore
+k Therefore
+l But
+m But woe to you
+n And woe to you
+o And so
+p Therefore
+q And this
+r Accordingly
+s And because of this
+t And therefore
+v Because of this
+x Hence
+y Now therefore
+z Now then
+2v Now accordingly
+
+a kings
+b judges
+c rulers
+d consuls
+e governors
+f princes
+g pontiffs
+h prelates
+i hierarchs
+k bishops
+l cardinals
+m moderators
+n cardinals
+o patriarchs
+p primates
+q lords
+r dukes
+s prefects
+t greater men
+v powerful men
+x governors
+y counts
+z captains
+2v emperors
+A iiij
+
+--- Page 174 ---
+
+a of Christians
+b of worshippers of Christ
+c of Christianity
+d of the world
+e of the orthodox
+f of believers
+g of peoples
+h of provinces
+i of churches
+k of common people
+l of the faithful
+m of lands
+n of the world
+o of the earth
+p of the globe
+q of faith
+r of justice
+s of the poor
+t of human beings
+v of mortals
+x of regions
+y of kingdoms
+z of all Europe
+2v of the baptized
+
+a to leisure
+b to vices
+c to lust
+d to avarice
+e to desires
+f to pleasures
+g to vanities
+h to impurities
+i to foul practices
+k to feasting
+l to drinking bouts
+m too greatly to transitory things
+n continually to useless things
+o to earthly things
+p to perishable things
+q to empty things
+r to banquets
+s to delights
+t to pride
+v to frivolities
+x to arrogance
+y to hunts
+z to concupiscences
+2v to dancing
+
+--- Page 175 ---
+
+a intent
+b devoted
+c occupied
+d preoccupied
+e entangled
+f giving yourselves up
+g serving
+h being subservient
+i deserting
+k being subject
+l indulging
+m ministering
+n sweating over
+o enslaved
+p applying yourselves
+q immersed
+r involved
+s polluted
+t accustomed
+v habituated
+x suffocated
+y ensnared
+z conceding
+2v consenting
+
+a of the Church
+b of the faithful
+c of the just
+d of the churches
+e of believers
+f of those perishing
+g of Christians
+h of worshippers of Christ
+i of ecclesiastics
+k of fellow Christians
+l of the baptized
+m of the orthodox
+n of Catholics
+o of saints
+p of the innocent
+q of the poor
+r of the afflicted
+s of the desolate
+t of brothers
+v of the wretched
+x of captives
+y of priests
+z of the servants of Christ
+2v of the oppressed
+
+--- Page 176 ---
+
+a dangers
+b danger
+c necessities
+d necessity
+e close bonds
+f desolations
+g desolation
+h destructions
+i destruction
+k ruin
+l ruins
+m labors
+n griefs
+o miseries
+p misery
+q afflictions
+r tribulations
+s adversities
+t oppression
+v overthrow
+x overthrows
+y persecutions
+z vexations
+2v crushings
+
+a do you care for
+b do you think upon
+c do you think over again
+d do you behold
+e do you look ahead to
+f do you look back upon
+g do you inspect
+h do you look at
+i do you grieve over
+k do you judge
+l do you weigh
+m do you ponder
+n do you weigh carefully
+o do you consider
+p do you observe
+q do you avenge
+r do you defend
+s do you defend
+t do you discern
+v do you see
+x do you help
+y do you assist
+z do you understand
+2v do you attend to
+
+--- Page 177 ---
+
+a Amen, amen
+b Most certainly
+c Assuredly
+d Most truly
+e Truthfully
+f Truly
+g Amen
+h Behold
+i Now
+k Therefore
+l Sad
+m Weeping
+n Sorrowing
+o Groaning
+p Mournful
+q Firmly
+r Boldly
+s Trustfully
+t Confidently
+v Steadfastly
+x Without doubt
+y Indubitably
+z Undoubtedly
+2v Certainly
+
+a I say
+b I proclaim
+c I disclose
+d I make known
+e I set forth
+f I express
+g I intimate
+h I foretell
+i I signify
+k I announce beforehand
+l I announce
+m I denounce to you, unless
+n I announce to you, because unless
+o I reveal
+p I disclose
+q I report
+r I affirm
+s I confirm
+t I protest
+v I call to witness
+x I attest
+y I prophesy
+z I prophesy
+2v I profess
+
+--- Page 178 ---
+
+a you keep watch
+b you wake up
+c you will have kept watch
+d you will have awakened
+e you forestall
+f you run to aid
+g you come to help
+h you meet
+i you fight back
+k you resist
+l you assist
+m you oppose
+n you rise up
+o you rise together
+p you run together
+q you intervene
+r you will have defended
+s you will have consulted
+t you consult
+v you think
+x you act
+y you take care
+z you do
+2v you will have done
+
+a they will overthrow
+b they will invade
+c they will destroy
+d they will enter
+e they will occupy
+f they will obtain
+g they will subvert
+h they will usurp
+i they will overcome
+k they will have
+l they will subject
+m they will take away successively
+n little by little they will seize
+o they will plunder
+p they will afflict
+q they will shake
+r they will defile
+s they will seize
+t they will claim
+v they will trample
+x they will contaminate
+y they will storm
+z they will attack
+2v they will assault
+
+--- Page 179 ---
+
+a Europe.                 a Frisia
+b Hungary                 b Hesse
+c Pannonia                c Meissen
+d Austria                 d Pomerania
+e Dalmatia                e Westphalia
+f Croatia                 f Neustria
+g Styria                  g Lombardy
+h Cilli                   h Calabria
+i Silesia                 i Italy
+k Dacia                   k Istria
+l Poland                  l Etruria
+m Bohemia                 n Tuscany
+n Lusatia                 n Venice
+o Sweden                  o Sicily
+p Sweden                  p Sardinia
+q Moravia                 q Carinthia
+r Norway                  r Slavonia
+s Sarmatia                t Germany
+t the March               t Alemannia
+v Saxony                  v Theutonia
+x Thuringia               x [unclear]
+y Bavaria                 y Savoy
+z Franconia               z Burgundy
+2v Swabia                 2v Lorraine
+D
+
+[segment 40]
+--- Page 180 ---
+a Helvetia; a Zealand
+b Alsace; b Holland
+c Prussia; c Brabant
+d Pruthenia; d Sycambria
+e Wallachia; e Grunedia
+f Vindelicia; f Olsacia
+g Lithuania; g England
+h Spain; h Albia
+i Aquitaine; i Scotland
+k Lusitania; k Ireland
+l Portugal; l Hainaut
+m Aragon; m Angaria, and all that...
+n Catalonia; n Vedravia, and all that...
+o Granada; o Zvestravia
+p Castile; p Buconia
+q Galicia; q Belagica
+r Gascony; r Navarre
+s Austrasia; s Luxembourg
+t Gaul; t Majorca
+v France; v Minorca
+x Britain; x Champagne
+y Normandy; y Candia
+z Picardy; z Rhodes
+2v Flanders; 2v Cyprus
+
+--- Page 181 ---
+a our
+b of our people
+c of the faithful
+d of rulers
+e of believers
+f of the orthodox
+g of Catholics
+h of Christians
+i of worshippers of Christ
+k of churches
+l of the Church
+m your
+n of Christ
+o of the saints
+p of the just
+q of priests
+r of ecclesiastics
+s of Christendom
+t of the baptized
+v of the predestined
+x of the evangelical
+y of the Nazarenes
+z of the elect
+vv of the poor
+
+a they will seize
+b they will take away
+c they will plunder
+d they will carry off
+e they will scatter
+f they will receive
+g they will take up
+h they will receive
+i they will divide
+k they will seize
+l they will overthrow
+m they will overturn
+n they will destroy
+o they will burn
+p they will break in pieces
+q they will despoil
+r they will depopulate
+s they will invade
+t they will obtain
+v they will occupy
+x they will preoccupy
+y they will inhabit
+z they will inhabit beneath
+vv they will lead away
+O ij
+
+--- Page 182 ---
+a killing
+b killing utterly
+c slaying
+d choking
+e suffocating
+f destroying
+g extinguishing
+h killing
+i putting to death
+k mortifying
+l drowning
+m exterminating
+n disembowelling
+o cutting down
+p crucifying
+q hanging
+r flaying
+s torturing
+t tormenting
+v punishing
+x slaughtering
+y cutting off
+z destroying
+2v butchering
+
+a impiously
+b everywhere
+c openly
+d everywhere
+e wickedly
+f in hostile fashion
+g cruelly
+h horribly
+i most impiously
+k most wickedly
+l most cruelly
+m most furiously, all
+n terribly, all
+o most savagely
+p lamentably
+q furiously
+r publicly
+s suddenly
+t soon
+v most wickedly
+x most savagely
+y most depravedly
+z most greedily
+2v most wretchedly
+
+--- Page 183 ---
+a us
+b you
+c our people
+d your people
+e our countrymen
+f your countrymen
+g men
+h Catholics
+i the orthodox
+k believers
+l the faithful
+m any men whatever
+n any boys whatever
+o citizens
+p the living
+q those alive
+r mortals
+s Christians
+t worshippers of Christ
+v believers
+x ecclesiastics
+y the baptized
+z the called
+2v the elect
+
+a they shall have seen
+b they shall have found
+c they shall have discovered
+d they shall have come upon
+e they shall have invaded
+f they shall have occupied
+g they shall have preoccupied
+h they shall have stormed
+i they shall have comprehended
+k they shall have seized
+l they shall have detected
+m they shall have overcome
+n they shall have conquered
+o they shall have prevailed
+p they shall have conquered
+q they shall have looked upon
+r they shall have looked back upon
+s they shall have inspected
+t they shall have beheld
+v they shall have seen through
+x they shall have captured
+y they shall have deceived
+z they shall have led astray
+2v they shall have taken.
+O iij
+
+--- Page 184 ---
+a Pray
+b May you pray
+c Entreat
+d Knock
+e May you knock
+f Call upon
+g May you call upon
+h Adore
+i May you adore
+k Beseech
+l May you beseech
+m May you now entreat, therefore, O...
+n Ask now, O you...
+o May you ask
+p Seek
+q May you seek
+r Demand earnestly
+s May you demand earnestly
+t Implore
+v May you implore
+x May you request
+y Request
+z Remonstrate
+2v May you beseech repeatedly
+
+a kings
+b dukes
+c counts
+d rulers
+e governors
+f prelates
+g pontiffs
+h princes
+i bishops
+k mortals
+l Christians
+m worshippers of Christ
+n emperors
+o marquises
+p provincials
+q believers
+r priests
+s ecclesiastics
+t bishops
+v pastors
+x Catholics
+y orthodox
+z prefects
+2v peoples
+
+--- Page 185 ---
+a riches
+b grace
+c power
+d piety
+e sweetness
+f clemency
+g wealth
+h majesty
+i patience
+k liberality
+l goodness
+m charity
+n indulgence
+o kindness
+p mercy
+q compassion
+r fellow-feeling
+s benevolence
+t munificence
+v magnificence
+x loftiness
+y excellence
+z gentleness
+vv long-suffering
+
+a of the maker
+b of the author
+c of the mover
+d of the creator
+e of the founder
+f of the fabricator
+g of the moderator
+h of the governor
+i of the preserver
+k of the ordainer
+l of the defender
+m of the protector
+n of the helper
+o of the deliverer
+p of the ruler
+q of the judge
+r of the king
+s of the artificer
+t of the prince
+v of the emperor
+x of the redeemer
+y of the renewer
+z of the restorer
+vv of the repairer
+O iiij
+
+--- Page 186 ---
+a of all
+b most pious
+c greatest
+d most gentle
+e most illustrious
+f most dutiful
+g most holy
+h most powerful
+i of the almighty
+k of the all-powerful
+l strongest
+m of the most high God, to the end that
+n most blessed
+o of the glorious God, to the end that
+p great
+q eternal
+r merciful
+s everlasting
+t most sacred
+v most beautiful
+x most clement
+y most robust
+z most glorious
+2v most kind
+
+[segment 41]
+--- Page 187 ---
+a servants
+b faithful ones
+c household servants
+d humble ones
+e poor ones
+f worshipers
+g ministers
+h priests
+i servants
+k believers
+l credulous ones
+m lovers
+n imitators
+o confessors
+p adorers
+q preachers
+r invokers
+s little servants
+t those who pray
+v peoples
+x orthodox persons
+y Catholics
+z ecclesiastics
+2v worshipers of Christ
+
+a from deceits
+b from evils
+c from snares
+d from dangers
+e from inconveniences
+f from frauds
+g from evil deeds
+h from reproaches
+i from vexations
+k from insults
+l from invasions
+m from devastations
+n from tribulations
+o from persecutions
+p from infestations
+q from plots
+r from assaults
+s from contrivances
+t from incursions
+v from terrors
+x from terrors
+y from fears
+z from fears
+2v from threats
+
+--- Page 188 ---
+a of nations
+b of Gentiles
+c of heathens
+d of the perverse
+e of adversaries
+f of unbelievers
+g of barbarians
+h of Saracens
+i of Mahometans
+k of the wicked
+l of Turks
+m of all the impious
+n of all the unjust
+o of the evil
+p of tyrants
+q of heretics
+r of Tartars
+s of pagans
+t of criminals
+v of idolaters
+x of the malicious
+y of apostates
+z of schismatics
+2v of infidels
+
+a piously
+b always
+c everywhere
+d assiduously
+e continually
+f kindly
+g most piously
+h mercifully
+i more mercifully
+k most gently
+l most mercifully
+m most kindly
+n most compassionately
+o compassionately
+p most swiftly
+q most powerfully
+r most strongly
+s powerfully
+t swiftly
+v sweetly
+x most sweetly
+y at all times
+z forever
+2v perpetually
+
+--- Page 189 ---
+a to preserve
+b to conserve
+c to fortify in advance
+d to fortify
+e to defend
+f to defend
+g to protect
+h to save
+i to fortify
+k to rescue
+l to snatch away
+m may he deign to guard, and not
+n may he wish to cherish, and not
+o to take away
+p to hide
+q to liberate
+r to draw back
+s to withdraw
+t to guard
+v to protect
+x to redeem
+y to strengthen
+z to reinforce
+2v to confirm
+
+a may he allow
+b may he make
+c may he grant
+d may he favor
+e may he concede
+f may he permit
+g may he admit
+h may he assent
+i may he consent
+k may he be pleased
+l may he overlook
+m may it please him
+n may he wish
+o may he furnish
+p may he give
+q may he bestow
+r may he suffer
+s may he sustain
+t may he contribute
+v may he indulge
+x may he grant assent
+y may he look upon
+z may he inspect
+2v may he behold
+
+--- Page 190 ---
+a to slip
+b to be struck down
+c to be overturned
+d to be subverted
+e to be destroyed
+f to be laid waste
+g to fail
+h to be undermined
+i to be trampled
+k to be annihilated
+l to be exterminated
+m to be disturbed
+n to be troubled
+o to be cast down
+p to be devastated
+q to be corrupted
+r to be violated
+s to be smitten
+t to fall forward
+v to be extinguished
+x to perish
+y to collapse
+z to be vexed
+2v to be destroyed
+
+a chosen
+b sacred
+c holy
+d faithful
+e beloved
+f inviolate
+g worthy of reverence
+h worthy of honor
+i venerable
+k incorrupt
+l especially beloved
+m dear
+n sweet
+o pure
+p called
+q catholic
+r Christian
+s believing
+t assumed
+v most holy
+x most pure
+y most beloved
+z most beautiful
+2v predestined
+
+--- Page 191 ---
+a part
+b particle
+c portion
+d inheritance
+e possession
+f lover
+g worshiper
+h little people
+i little church
+k church
+l people
+m his crowd, which
+n his little sheep, which
+o sheep
+p ship
+q little ship
+r house
+s little house
+t soul
+v mind
+x tribe
+y plantation
+z institution
+2v convocation
+
+a by the nativity
+b by the ascension
+c by the preaching
+d by the humanity
+e by the incarnation
+f by the circumcision
+g by the resurrection
+h by the killing
+i by the slaying
+k by the passion
+l by the bloodshed
+m by the death of Jesus Christ
+n by the violent death of Christ Jesus
+o by the passing away
+p by the capture
+q by the captivity
+r by the blood
+s by the pains
+t by the sweats
+v by the labors
+x by the crucifixion
+y by the scourging
+z by the humility
+2v by the patience
+IP
+
+--- Page 192 ---
+a of the beloved
+b of the eternal
+c of the coeternal
+d of the sweet
+e of the holy
+f of the loved
+g of the very sweet
+h of the especially beloved
+i of the only-begotten
+k of the sole-begotten
+l of the dearest
+m of his dear Son
+n of his only Word
+o of the like
+p of the most holy
+q of the everlasting
+r of the consubstantial
+s of the co-omnipotent
+t of the consubstantial
+v of the most loved
+x of the most beloved
+y of the sweetest
+z of the very sweetest
+2v of the especially beloved
+
+a piously
+b sweetly
+c powerfully
+d kindly
+e virtuously
+f graciously
+g worthily
+h generously
+i most sweetly
+k mercifully
+l most generously
+m most piously
+n most virtuously
+o most kindly
+p most mercifully
+q most compassionately
+r most indulgently
+s compassionately
+t most graciously
+v most powerfully
+x kindly
+y gratefully
+z most piously
+2v freely
+
+--- Page 193 ---
+a he chose
+b he bought
+c he called
+d he saved
+e he restored
+f he acquired
+g he prepared
+h he restored
+i he renewed
+k he betrothed
+l he gathered
+m he cleansed
+n he reconciled
+o he exalted
+p he crowned
+q he redeemed
+r he rescued
+s he liberated
+t he built
+v he constructed
+x he renewed
+y he summoned
+z he recalled
+2v he purified
+
+a Let us cry out
+b Let us cry out to
+c Let us cry aloud
+d Let us proclaim
+e Let us cry up
+f Let us shout
+g Let us weep
+h Let us wail
+i Let us rise
+k Let us rise up
+l Let us rise together
+m Let us rise again; therefore let us return to
+n Let us now return to
+o Let us turn back
+p Let us pray
+q Let us beseech
+r Let us love
+s Let us proceed
+t Let us approach
+v Let us advance
+x Let us flee for refuge
+y Let us flee back
+z Let us adore
+2v Let us ask
+ij
+
+[segment 42]
+--- Page 194 ---
+a pious
+b good
+c holy
+d best
+e greatest
+f honey-sweet
+g most bountiful
+h most pious
+i most devout
+k kind
+l most gentle
+m sweetest
+n most merciful
+o most kind
+p most forgiving
+q most excellent
+r most loving
+s merciful
+t lovable
+v most bountiful
+x glorious
+y gracious
+z sweet
+2v gentle
+
+a creator
+b founder
+c savior
+d liberator
+e redeemer
+f fashioner
+g giver of life
+h maker
+i reformer
+k former
+l helper
+m author, our Jesus
+n God, our Christ
+o craftsman
+p king
+q judge
+r lord
+s creator
+t sustainer
+v preserver
+x governor
+y rewarder
+z illuminator
+2v enlightener
+
+--- Page 195 ---
+a devoutly
+b sincerely
+c daily
+d continually
+e most humbly
+f most devoutly
+g most ardently
+h most fervently
+i most urgently
+k trustfully
+l confidently
+m constantly saying
+n purely saying
+o rightly
+p piously
+q truly
+r truthfully
+s sincerely
+t most purely
+v humbly
+x ardently
+y fervently
+z affectionately
+2v cordially
+
+a O pious one
+b O sweet one
+c O merciful one
+d O greatest one
+e O most pious one
+f O sweetest one
+g O most dutiful one
+h O all-powerful one
+i O most powerful one
+k O most merciful one
+l O most kind one
+m O most loving one
+n O most forgiving one
+o O most merciful one
+p O most excellent one
+q O most glorious one
+r O most victorious one
+s O unconquered one
+t O strongest one
+v O gentlest one
+x O merciful one
+y O crucified one
+z O adorable one
+2v O venerable one
+P .ii.
+
+--- Page 196 ---
+a king
+b ruler
+c maker
+d author
+e creator
+f founder
+g prince
+h emperor
+i maker
+k fashioner
+l restorer
+m restorer
+n illuminator
+o enlightener
+p establisher
+q God
+r craftsman
+s savior
+t ruler
+v preserver
+x governor
+y sanctifier
+z moderator
+2v founder
+
+a of heaven
+b of the world
+c of earth
+d of the heavens
+e of the lands
+f of heavenly things
+g of earthly things
+h of worldly things
+i of mundane things
+k of things above the heavens
+l of the universe
+m of all things
+n of everything
+o of the world
+p of the universe
+q of the faithful
+r of human beings
+s of angels
+t of humanity
+v of invisible things
+x of visible things
+y of mortal beings
+z of living beings
+2v of bodily things
+
+--- Page 197 ---
+a have mercy on vain people
+b take pity on perishable people
+c be gracious to wretched people
+d have mercy on the abject
+e pity the desolate
+f be present to the poor wretches
+g be with the weak
+h assist the sluggish
+i come to the aid of the feeble
+k come to the aid of the most humble
+l hasten to help the slothful
+m run to help us, the unworthy
+n help us, the most vain
+o hasten to meet the humble
+p come to meet the frail
+q come to meet those deserving pity
+r attend to the miserable
+s be appeased toward the most abject
+t be fully appeased toward the most unworthy
+v bring aid to the poorest
+x do good to the most wretched
+y suffer with the poor
+z attend to the little poor
+2v watch over the unclean
+P iiij
+
+--- Page 198 ---
+a servants
+b attendants
+c little sheep
+d sheep
+e little servants
+f ministers
+g worshipers
+h petitioners
+i lovers
+k creatures
+l those called
+m your faithful
+n your followers
+o boys
+p those saved
+q those redeemed
+r those freed
+s those called together
+t those gathered together
+v servants
+x believers
+y worshipers of Christ
+z Christians
+2v baptized people
+
+a sacred
+b holy
+c consecrated
+d glorious
+e renowned
+f venerable
+g venerable
+h memorable
+i worthy of remembrance
+k most sacred
+l most blessed
+m most glorious
+n most excellent
+o most kind
+p sacrosanct
+q honorable
+r honorific
+s worthy of honor
+t health-giving
+v salutary
+x praiseworthy
+y most bright
+z renowned
+2v great
+
+--- Page 199 ---
+a death; give
+b passion; grant
+c teaching; provide
+d institution; bestow
+e preaching; grant
+f nativity; reveal
+g incarnation; display
+h humanity; give
+i annunciation; pour in
+k divinity; forgive
+l deity; forgive
+m your mercy; pour into us
+n your apparition; bestow upon us
+o conception; bestow
+p circumcision; bestow
+q baptism; grant
+r captivity; grant
+s scourging; inspire
+t crucifixion; inspire
+v resurrection; breathe upon
+x coronation; breathe upon
+y ascension; send in
+z condescension; send in
+20 mercy; lavish
+.938.
+
+--- Page 200 ---
+a true hope
+b pure faith
+c firm peace
+d charity
+e constant love
+f continuous holiness
+g perfect innocence
+h whole contrition
+i truest devotion
+k most upright conversion
+l purest cleanliness
+m chastity
+n concord, that your...
+o unceasing patience
+p unfailing chastity
+q due compunction
+r saving observance
+s sincere abstinence
+t necessary holiness
+u full temperance
+v obedience
+
+[segment 43]
+--- Page 201 ---
+
+a laudable
+b invisible
+c everlasting
+d inestimable
+e sacrosanct
+f most sacred
+g most unconquered
+h unchangeable
+i uncircumscribed
+k uncircumscribable
+l incomprehensible
+m most profound
+n most excellent
+o most radiant
+p most glorious
+q inscrutable
+r inconceivable
+s most serene
+t most illustrious
+v most holy
+x immortal
+y invariable
+z ineffable
+2v eternal
+
+a to piety
+b to goodness
+c to deity
+d to virtue
+e to majesty
+f to wisdom
+g to divinity
+h to kindness
+i to greatness
+k to magnificence
+l to omnipotence
+m to mercy
+n to lordship
+o to sublimity
+p to loftiness
+q to will
+r to providence
+s to gentleness
+t to blessedness
+v to brightness
+x to ordinance
+y to sweetness
+z to power
+2v to beauty.
+
+--- Page 202 ---
+
+a rightly
+b well
+c devoutly
+d worthily
+e fittingly
+f gratefully
+g steadfastly
+h unceasingly
+i most devoutly
+k incessantly
+l laudably
+m most steadfastly
+n most worthily
+o most peacefully
+p most rightly
+q sincerely
+r blamelessly
+s innocently
+t perpetually
+v continually
+x always
+y assiduously
+z continuously
+2v cheerfully
+
+a to serve
+b to obey
+c to be of service
+d to devote oneself in service
+e to serve under
+f to minister
+g to administer
+h to please
+i to be reconciled
+k to serve as a household servant
+l to serve as a soldier
+m to obey
+n to live
+o may we deserve to be joined, etc.
+p may we be able to be associated, etc.
+q to be united in fellowship
+r to be joined
+s to be presented
+t to communicate
+v to cling together
+x to adhere
+y to inhere
+z to share
+2v to be present
+
+--- Page 203 ---
+
+a life
+b peace
+c light
+d rest
+e quiet
+f glory
+g portion
+h enjoyment
+i sweetness
+k delight
+l brightness
+m vision with all
+n grace together with
+o dwelling
+p happiness
+q pleasantness
+r consolation
+s exultation
+t joy
+v habitation
+x jubilation
+y blessedness
+z reward
+2v gladness
+
+a the elect
+b the saints
+c the called
+d servants
+e little servants
+f household servants
+g archangels
+h servants
+i worshippers
+k friends
+l apostles
+m your beloved
+n your faithful
+o lovers
+p dearest ones
+q confessors
+r the predestined
+s the justified
+t martyrs
+v disciples
+x followers
+y dependents
+z household members
+2v the justified
+Q
+
+--- Page 204 ---
+
+a may we have
+b may we obtain
+c may we take
+d may we receive
+e may we accept
+f may we take up
+g may we perceive
+h may we attain
+i may we follow after
+k may we deserve
+l may we earn
+m may we acquire
+n may we gain
+o may we enter
+p may we go in
+q may we find
+r may we discover
+s may we behold
+t may we inspect
+v may we possess
+x may we gaze upon
+y may we taste
+z may we taste fully
+2v may we share
+
+a eternal
+b everlasting
+c perpetual
+d sempiternal
+e perennial
+f incorrupt
+g incorruptible
+h enduring
+i supernatural
+k inestimable
+l heavenly
+m infinite
+n endless
+o supercelestial
+p unfailing
+q spiritual
+r intellectual
+s above intellect
+t uncircumscribable
+v supereminent
+x superhuman
+y ever-enduring
+z ineffable
+2v unchangeable
+
+--- Page 205 ---
+
+a O life
+b O hope
+c O salvation
+d O ruler
+e O lover
+f O savior
+g O redeemer
+h O moderator
+i O consoler
+k O governor
+l O fashioner
+m O life-giver
+n O illuminator
+o O enlightener
+p O sweetness
+q O receiver
+r O preserver
+s O emperor
+t O reward
+v O prince
+x O father
+y O king
+z O defender
+w O rewarder
+
+a of all
+b of everyone
+c of the universe
+d of believers
+e of Christians
+f of Christ-worshippers
+g of churchmen
+h of Catholics
+i of the orthodox
+k of the faithful
+l of the poor
+m of the needy, Jesus Christ
+n of the pious, Christ Jesus
+o of men
+p of mortals
+q of the humble
+r of the devout
+s of the penitent
+t of the contrite
+v of those who groan
+x of the living
+y of those who weep
+z of the wretched
+w of those who trust
+Q ij
+
+--- Page 206 ---
+
+a crucified
+b weak
+c wretched
+d Nazarene
+e most just
+f strongest
+g most loving
+h most merciful
+i most kind
+k most excellent
+l most glorious
+m most pious
+n sweetest
+o most dutiful
+p gentlest
+q brightest
+r most holy
+s most delightful
+t most powerful
+u most worthy of reverence
+v wisest
+x most merciful
+y most indulgent
+z most unconquered
+2v most victorious
+3v most unworthy
+
+a unclean
+b pitiable
+c most wretched
+d miserable
+e frail
+f most vain
+g useless
+h unworthy
+i idle
+j wicked
+k most wandering
+l foolish
+m stupid
+n most wicked
+o poor
+P most foolish
+Q needy
+R stupid
+S needy
+T miserable
+V miserable
+X miserable
+Z miserable
+Y miserable
+U miserable
+W miserable
+C miserable
+D miserable
+E miserable
+F miserable
+G miserable
+H miserable
+I miserable
+K miserable
+L miserable
+M miserable
+N miserable
+O miserable
+P miserable
+Q miserable
+R miserable
+S miserable
+T miserable
+V miserable
+X miserable
+Y most wretched
+Z most wretched
+2V most unworthy
+3V miserable
+
+[segment 44]
+--- Page 207 ---
+a serving ones
+b little servants
+c servants
+d worshipers
+e servitors
+f priests
+g Christians
+h worshipers of Christ
+i lovers
+k adorers
+l hierophants
+m venerators
+n humble ones
+o attendants
+p preachers
+q ministers
+r invokers
+s debtors
+t petitioners
+v faithful ones
+x boys
+y exiles
+z confessors
+2v praisers
+
+a great
+b divine
+c greatest
+d glorious
+e superdivine
+f most worthy
+g venerable
+h worthy of reverence
+i honorable
+k praiseworthy
+l worthy of honor
+m sempiternal
+n everlasting
+o perennial
+p infinite
+q perpetual
+r sacred
+s holy
+t most holy
+v sacrosanct
+x most sacred
+y inexplicable
+z inestimable
+2v ineffable
+Q iiij
+
+--- Page 208 ---
+a virtue
+b perfection
+c majesty
+d clemency
+e sweetness
+f kindness
+g compassion
+h mercy
+i gentleness
+k blessedness
+l goodness
+m your grace
+n your piety
+o charity
+p love
+q serenity
+r humanity
+s munificence
+t generosity
+v mildness
+x sweetness
+y brightness
+z loftiness
+2v excellence
+
+a devoutly
+b more devoutly
+c as suppliants
+d ardently
+e suppliantly
+f fervently
+g insistently
+h more insistently
+i constantly
+k more constantly
+l most insistently
+m most constantly
+n most fervently
+o most ardently
+p most diligently
+q most devoutly
+r most humbly
+s humbly
+t trustfully
+v confidently
+x reverently
+y prostrate
+z bowed down
+2v assiduously
+
+--- Page 209 ---
+a we pray
+b we beseech
+c we seek
+d we earnestly seek
+e we adore
+f we request
+g we urgently request
+h we intercede
+i we implore
+k we invoke
+l we beg
+m we pray
+n we ask
+o we demand
+p we beseech
+q we urgently demand
+r we demand
+s we urgently ask
+t we earnestly entreat
+v we call to witness
+x we desire
+y we long for
+z we seek after
+2v we wish
+
+a may you forgive
+b may you remit
+c may you pardon
+d may you hide
+e may you forget
+f may you cleanse
+g may you purify
+h may you cleanse
+i may you purge
+k may you amend
+l may you wash away
+m may you wash out
+n may you delete
+o may you wash
+p may you release
+q may you relax
+r may you purge
+s may you take away
+t may you grant
+v may you postpone
+x may you pardon
+y may you correct
+z may you remove
+2v may you overlook
+Q iiij
+
+--- Page 210 ---
+a justice
+b piety
+c goodness
+d clemency
+e sweetness
+f rectitude
+g gentleness
+h long-suffering
+i ordering
+k justification
+l will
+m your majesty, wrongly
+n your teaching, unjustly
+o law
+p command
+q equity
+r patience
+s holiness
+t integrity
+v divinity
+x loftiness
+y institution
+z kindness
+2v preaching
+
+a we have done
+b we have carried out
+c we have completed
+d we have committed
+e we have perpetrated
+f we have desired
+g we have coveted
+h we have passed over
+i we have sought after
+k we have left undone
+l we have committed
+m we have omitted, amen
+n we have loved, amen
+o we have wished
+p we have loved
+q we have cared for
+r we have sinned
+s we have transgressed
+t we have offended
+v we have neglected
+x we have practiced
+y we have thought over again
+z we have thought
+2v we have admitted
+
+--- Page 211 ---
+We are glad that the end of the first book of our Polygraphia is at hand; having thereby been made readier for what remains, we judge that we must test what the powers of our talent are. Newly invented things sometimes trouble the beginner, because the man whom all follow has no one going before him. The first beginning of any invention is more difficult; afterward, when it has been made firm, it brings greater confidence to the author.
+
+Therefore, completing the first book of our invention with the favor and help of God, we have divided the whole into three hundred eighty-four minutiae, assigning to each, in order, as is seen, its proper degrees of periphrases. And these form a sufficiently beautiful Christian harmony: sixteen varied stations, with more than two hundred nine thousand phrases duly joined throughout in every respect. Nothing is lacking here for students of these inventions of ours, so that in mystical, secret, and hidden matters, even those to be reported more remotely with the greatest safety, they may have the fullest knowledge and capacity.
+
+All things that are contained in the circle of the art proceed from a point; their atoms form a circular line, straight by the multitude of light. Whatever is outside the line serves the day by common reckoning, not the night. For night, always enclosed within the limits of the minutiae of the periphrases, never goes out beyond them. Therefore, whenever you have crossed the straight line of the day and have not fulfilled the purpose of the nocturnal syntax, turn the head back to the tail, and, once a joining has been made, let there be a bond of each with the other.
+
+Arrange the shadow so that it does not confuse the sun by similarity of word. Do not be ashamed if, by the first calculation, the day has not comprehended the shadow; rather, carefully consider the minutiae of the lines of the day, and count one with the other until the necessary proportion follows according to your wish. You may also make a leap from the first to the second, knowing that in the first creation of days evening and morning were made one day. For this reason, at evening
+
+[segment 45]
+--- Page 212 ---
+
+when evening has been completed, bring the day back into the following one, and, when the sign has been given by a point, set down the mystery known at once to the binary and to the monad.
+
+But so that you may be able to avoid this difficulty, distinguish the great revolutions of our whole circle by arithmetical degrees; and where day is repeated in place of night, place the mark of Archimedes upon the flying one, lest an untimely ternary, by means of the binary, shut off the return to unity. For this reason we have set little divisions before the individual degrees by an artful invention, so that we might relieve the person working in them from the labor of counting the paraphrases. If you are industrious, diligent, and studious in the things that we have handed down as principles of the new art, believe us: you will find greater things hidden there than we have promised.
+
+Indeed, since many natural secrets are contained in these matters, know this one thing, not the least: that by the prudent operation of metathesis, whenever you wish, you will make even a person most skilled in this art ignorant, a seeing person blind, and a learned person unskilled. If the false opinion of the Hebrews were true, this invention of ours would give to every single person of eighteen thousand worlds individual methods of safely and secretly writing and very widely communicating, in Latin, whatever secret things they wished.
+
+THE END OF THE FIRST BOOK
+of the Polygraphia is here, by Johannes Trithemius, abbot of the monastery of Saint James the Apostle,
+of Wuerzburg,
+on the twelfth day of the month of February, in the year of the Lord's nativity one thousand five hundred eight.
+
+--- Page 213 ---
+
+THE SECOND BOOK OF THE POLYGRAPHIA OF JOHANNES TRITHEMIUS, ABBOT OF SPANHEIM, OF THE ORDER OF SAINT BENEDICT, BEGINS.
+
+The method of counting among mortals attempts to imitate nature, which admits no calculation for the monad. Hence, although the arrangement of the preceding book of the Polygraphia, through the extension and metathesis of particulars, may suffice, as it were, for the universals of this art in the infinite progressions of number, nevertheless a definite consideration has moved us to join one thing to the other. The condition of light is different in each, but night preserves the order of its course inviolate in both. A prudent reader, from these small inventions of ours, not sufficiently polished to the rule, will easily be able, if he flourishes with outstanding talent, to discover greater and more polished things.
+
+Whatever visible thing is set within the whole circuit of the world still gives ready support to the service of our new art. Air and fire, water and earth, springs and rivers, trees and shrubs, flowers and grasses, words and names, accident and substance, stones and sand, dung and manure, things and terms, honorable and modest matters, wood and metals, hard and liquid things, existing and non-existing things, history and fable, beasts and brutes, human beings and draft animals, particulars and universals, whatever either speech can express or the mind can think: all these provide a very broad field for our Polygraphia and promise that the art, so far as it can be established among mortals, will be enlarged to infinity.
+
+For just as from unity, through the binary, the ternary generates the perfect number in the quaternary, so the invention of this [unclear]
+
+[segment 46]
+--- Page 214 ---
+The completion of this invention, establishing its root through the quaternary in the twice-perfect binary, grants us an infinite number under the minute divisions of things and the paraphrases of polygraphy. For although among us all our things are capable of being bounded, nevertheless many things frequently occur which, because of the slowness of our understanding, seem infinite to us. Who will be able to number the drops of the sea? And who will penetrate the inscrutable heart of man? Just as a finite and circumscribable number can be led on by progression into infinity, so the institution of this art is enlarged immeasurably by varied metathesis. Whatever is seen anywhere in the whole world is in every respect conformed to our institution; nor is there anything known to us that is empty of mystery, if the method is understood from the master. But we, persuaded by reason, have taken our stand under the service of the binary, and briefly explain the smallest part of the whole. Nor is occasion given us to raise our attempt to weightier matters; if it is offered to us acceptably, we shall not refuse to make better things manifest to those who desire them. For it is written: Where there is no hearing, do not pour out speech. Therefore, adding the second book of Polygraphy to the first, we keep the same form and method, setting three hundred and eight paraphrases in the light of day by simple progression, in honorable memory of the most chaste Mother of God. If the time had been suitable, we could have given both more graceful things and, with sufficient broad diffusion, wider fields. But diligent posterity will easily provide both: it will add polish to the material and sufficient progress to the form. The first inventor of any art transmits greater things to posterity, because, since the beginnings of an art are hard and unfamiliar, no subtle invention is found perfected from its origin. From Peapolis, also called Herbipolis, a city of the eastern Franks, on the twelfth day of the month of February, in the year of the Lord 1508.
+
+--- Page 215 ---
+a The beginning
+b of the untouched
+c of the most blessed
+d of the undefiled
+e of the unstained
+f of the most innocent
+g of the most splendid
+h of the most radiant
+i of the most modest
+k of the most honorable
+l of the salvation-bearing
+m of the inviolate
+n of the Blessed Virgin Mary
+o of the holy Virgin Mary
+p of the holy
+q of the consecrated
+r of the most holy
+s of the most chaste
+t of the most pure
+v of the most beautiful
+x of the most pious
+y of the most kind
+z of the most serene
+2v of the sweetest
+2v of the gentlest
+
+--- Page 216 ---
+a of the mother                 a of the coequal
+b of the nurse                  b of the coessential
+c of the nursing mother         c of the consubstantial
+d of the parent                 d of the impassible
+e of the begetter               e of the immutable
+f of the conceiver              f of the unchangeable
+g of the bearer                 g of the incomprehensible
+h of the carrier                h of the inconceivable
+i of the bringer-forth          i of the inestimable
+k of the receiver               k of the unfailing
+l of the educator               l of the everlasting
+m of the bridal chamber         m of the ineffable end
+n of the treasury               n of the coeternal Word
+o of the sanctuary              o of the eternal
+p of the nourisher              p of the beloved
+q of the temple                 q of the perennial
+r of the citadel                r of the only-begotten
+s of the bride                  s of the sole-begotten
+t of the one nursing            t of the coexistent
+v of the shepherdess            v of the immortal
+x of the tabernacle             x of the most loving
+y of the workshop               y of the most dear
+z of the treasury               z of the sweetest
+2v of the chief steward’s room  2v of the strongest
+
+[segment 47]
+--- Page 217 ---
+
+a of the highest | a of the companion
+b of the best | b of the friend
+c of the greatest | c of the brothers
+d of the omnipotent | d of the fellow brothers
+e of the all-powerful | e of the fellow soldiers
+f of the most devoted | f of the fellow worshipers of Christ
+g of the most powerful | g of the fellow Christians
+h of the most robust | h of the fellow Catholics
+i of the most uncircumscribable | i of the fellow faithful
+k of the insuperable | k of the fellow associates
+l of the most blessed | l of the fellow companions
+m of the most high God the Father | m of my monks
+n of the most glorious God the Father | n of my cloister-brothers
+o of the excellent | o of the fellow monks
+p of the most merciful | p of the fellow cloister-brothers
+q of the most kindly | q of the fellow priests
+r of the supercelestial | r of the fellow presbyters
+s of the supereminent | s of the presbyters
+t of the supersubstantial | t of the fellow shepherds
+v of the superessential | v of the shepherds
+x of the most holy | x of the fellow mortals
+y of the supremely good | y of the tent-companions
+z of the supreme | z of the fellow believers
+2v of the heavenly | 2v of those living together
+
+r ij
+
+--- Page 218 ---
+
+a best | a devoutly
+b gentlest | b assiduously
+c sweetest | c gladly
+d strongest | d continually
+e most learned | e continuously
+f dearest | f fervently
+g most loving | g humbly
+h most studious | h most humbly
+i most erudite | i most devoutly
+k most watchful | k incessantly
+l most diligent | l without ceasing
+m most beloved | m most ardently
+n most pleasant | n most fervently
+o most cautious | o most constantly
+p humblest | p most joyfully
+q most devout | q most gladly
+r most honorable | r constantly
+s most virtuous | s more fervently
+t most excellent | t more ardently
+v most dear | v more joyfully
+x most laborious | x daily
+y most patient | y continually
+z most noble | z cheerfully
+2v most prudent | 2v always
+
+--- Page 219 ---
+
+a let us celebrate | a restoration
+b let us celebrate together | b she who restores
+c let us honor | c consolation
+d let us honor splendidly | d she who consoles
+e let us commemorate | e preservation
+f let us magnify | f she who preserves
+g let us announce | g recovery
+h let us glorify | h she who recovers
+i let us praise together | i restoration
+k let us exalt | k she who restores
+l let us sing | l renewal
+m let us declare | m renewer of all things
+n let us sing | n renovator of all things
+o let us recount | o renovation
+p let us consider | p renewal
+q let us keep festival | q she who renews
+r let us proclaim | r vivification
+s let us bring forth | s she who gives life
+t let us modulate | t sanctification
+v let us bless | v she who sanctifies
+x let us extol | x justification
+y let us venerate | y she who justifies
+z let us worship | z salvation
+2v let us worship anew | 2v she who saves
+
+r iij
+
+--- Page 220 ---
+
+a of us | a gate
+b of you | b approach
+c of the good | c access
+d of the holy | d return
+e of the just | e passage
+f of the elect | f entrance
+g of believers | g entry
+h of the orders | h return
+i of the faithful | i progress
+k of the humble | k ascent
+l of the upright | l ascent together
+m of the pious, through whom | m doorway for us to
+n of the devout, through whom | n road for us to
+o of minds | o way
+p of souls | p path
+q of those being saved | q footpath
+r of Christians | r ability
+s of Christ-worshipers | s guidance
+t of the penitent | t confidence
+v of the orthodox | v passage
+x of Catholics | x leading by the hand
+y of mortals | y transmigration
+z of the living | z emigration
+2v of human beings | 2v introduction
+
+--- Page 221 ---
+
+a life | a is given
+b light | b lies open
+c joy | c is made open
+d happiness | d opens
+e delight | e will lie open
+f consolation | f is opened
+g blessedness | g is prepared
+h gladness | h is restored
+i participation | i is granted
+k communion | k is bestowed
+l communication | l is contributed
+m tranquility | m is shown
+n recompense | n is ministered
+o dwelling | o is repaid
+p exultation | p is reformed
+q possession | q is bestowed
+r inheritance | r is returned
+s mansion | s is given
+t enjoyment | t is given back
+v brightness | v is referred
+x glory | x is displayed
+y rest | y is shown
+z vision | z is declared
+2v quiet | 2v is shown
+
+r iiij
+
+--- Page 222 ---
+
+a eternal | a O blessed
+b everlasting | b O holy
+c ever-enduring | c O untouched
+d sempiternal | d O luminous
+e apostolic | e O perpetual
+f supercelestial | f O inviolate
+g inaccessible | g O blessed
+h unchangeable | h O undefiled
+i unending | i O most blessed
+k [unclear] | k O most holy
+l unfading | l O most holy
+m supernatural | m O most luminous and
+n of heavenly things | n O venerable and
+o of the apostles | o O precious
+p of the angels | p O beautiful
+q of the martyrs | q O gracious
+r heavenly | r O remarkable
+s perpetual | s O venerable
+t of the saints | t O most gracious
+v of the elect | v O most glorious
+x celestial | x O most beautiful
+y everlasting | y O most pure
+z spiritual | z O most chaste
+2v perennial | 2v O most chaste
+
+[segment 48]
+--- Page 223 ---
+
+a most pious
+b splendid
+c most dutiful
+d sweetest
+e everlasting
+f most benign
+g most merciful
+h most splendid
+i most radiant
+k most honorable
+l most lovely
+m most happy virgin
+n most chaste virgin
+o most adorned
+p most serene
+q most illustrious
+r most noble
+s most beautiful
+t most modest
+v most powerful
+x most merciful
+y most innocent
+z most fruitful
+zv gentlest
+
+a mother
+b nurse
+c guide
+d lamp
+e light
+f patroness
+g advocate
+h helper
+i mediatrix
+k promoter
+l helper
+m defender
+n preserver
+o preserver
+p intercessor
+q restorer
+r consoler
+s savior
+t liberator
+v lover
+x lady
+y queen
+z protectress
+zv empress
+
+--- Page 224 ---
+
+a of the needy
+b of exiles
+c of those who weep
+d of the faithful
+e of the poor
+f of the destitute
+g of all
+h of everyone
+i of the humble
+k of believers
+l of all people
+m of Christ-worshipers
+n of Christians
+o of those who supplicate
+p of those who weep
+q of the infirm
+r of the contrite
+s of the penitent
+t of those who mourn
+v of the living
+x of mortals
+y of men
+z of human beings
+2v of the frail
+
+a to vice
+b to fault
+c to offense
+d to sin
+e to stain
+f to guilt
+g to excess
+h to crime
+i to crime
+k to sin
+l to wickedness
+m to the least harm
+n never to outrage
+o to disgrace
+p to malice
+q to displeasure
+r to negligence
+s to transgression
+t to indignation
+v to temptation
+x to vanity
+y to the wrath of God
+z to offense
+2v to pleasure
+
+--- Page 225 ---
+
+a subject
+b violated
+c entangled
+d corrupted
+e submerged
+f immersed
+g indebted
+h submissive
+i you consented
+k you yielded
+l you indulged
+m you assented
+n you deferred
+o you adhered
+p you clung
+q you became filthy
+r polluted
+s touched
+t defiled
+v contaminated
+x disfigured
+y blackened
+z stained
+w befouled
+
+a pure
+b clean
+c innocent
+d immune
+e harmless
+f unpolluted
+g most pure
+h most bright
+i most clean
+k most luminous
+l blameless
+m most just, and always
+n inviolate, and always
+o most holy
+p most innocent
+q immaculate
+r uncontaminated
+s most radiant
+t most beautiful
+v most beautiful
+x most splendid
+y beautiful
+z fair
+w bright
+
+--- Page 226 ---
+
+a fortified
+b defended beforehand
+c fortified together
+d preserved
+e most preserved
+f most reserved
+g most defended beforehand
+h most fortified together
+i most confirmed
+k immune
+l most remote
+m most alien
+n most free
+o most exempt
+p remote
+q alien
+r far away
+s guarded
+t free
+v defended
+x set apart
+y confirmed
+z privileged
+
+a you lived
+b you shone
+c you remained
+d you persisted
+e you stayed
+f you persevered
+g you shone brightly
+h you blossomed again
+i you shone
+k you flourished
+l you shone forth
+m you stood apart from every
+n you were apart from every
+o you endured
+p you gleamed
+q you flashed forth
+r you endured throughout
+s you glittered
+t you became bright
+v you advanced
+x you shone upon
+y you escaped
+z you shone
+2v you shone back
+
+--- Page 227 ---
+
+a from stain
+b from harm
+c from filth
+d from fault
+e from guilt
+f from excess
+g from stain
+h from corruption
+i from pollution
+k from vanity
+l from stench
+m from the vice of sin, we
+n from the blemish of sin, we
+o from burning
+p from befoulment
+q from displeasure
+r from contraction
+s from corruption
+t from uncleanness
+v from prevarication
+x from offense
+y from baseness
+z from incursion
+2v from commission
+
+a wretched
+b frail
+c most wretched
+d pitiable
+e miserable
+f deserving pity
+g most unworthy
+h corruptible
+i most corrupt
+k most wicked
+l most vain
+m most base
+n most unjust
+o most abject
+p most unhappy
+q most filthy
+r unclean
+s humble
+t infirm
+v poor
+x useless
+y perishable
+z unjust
+2v abject
+§
+
+--- Page 228 ---
+
+a men
+b little men
+c Christ-worshipers
+d Christians
+e Catholics
+f orthodox
+g faithful
+h worms
+i mortals
+k living
+l believers
+m credulous
+n debtors
+o sinners
+p little worms
+q ecclesiastics
+r cloistered persons
+s regulars
+t monks
+v canons
+x laypeople
+y common people
+z seculars
+vv carnal persons
+
+a of the almighty
+b of the all-powerful
+c of the all-sustaining
+d of the omniscient
+e of the superlucent
+f of the immortal
+g of the everlasting
+h of the inestimable
+i of the unfailing
+k of the ineffable
+l of the sweetest
+m of the most dutiful protecting Son
+n of the dearest
+o of the brightest
+p of the gentlest
+q of the most loving
+r of the beloved
+s of the most merciful
+t of the most benign
+v of the most excellent
+x of the unchangeable
+y of the incomprehensible
+z of the supercelestial
+vv of the most glorious
+
+--- Page 229 ---
+
+a of the creator
+b little servants
+c creatures
+d little clients
+e servants
+f priests
+g hierophants
+h ministers
+i preachers
+k attendants
+l hearers
+m servants
+n worshipers
+o disciples
+p heralds
+q lovers
+r adorers
+s venerators
+t dutiful servants
+v imitators
+x followers
+y suppliants
+z ministers
+2v attendants
+S ij
+
+[segment 49]
+--- Page 231 ---
+
+a devoutly
+b ardently
+c continually
+d humbly
+e most humbly
+f most devoutly
+g most ardently
+h most urgently
+i most fervently
+k most cordially
+l most desirously
+m most affectionately
+n tearfully
+o with tears
+p most reverently
+q desirously
+r cordially
+s fervently
+t confidently
+v reverently
+x suppliantly
+y as suppliants
+z humble
+2v trustfully
+
+a we pray
+b we ask
+c we beseech
+d we pray
+e we seek
+f we entreat
+g we invoke
+h we implore
+i we urgently request
+k we demand
+l we adore
+m we ask that you not
+n we beg that you not
+o we knock
+p we call upon
+q we ask repeatedly
+r we request
+s we demand
+t we intercede
+v we demand
+x we demand
+y we ask
+z we sigh for
+2v we seek
+S .iiij.
+
+--- Page 232 ---
+
+a that you not spurn
+b that you not reject
+c do not spurn
+d that you not despise
+e do not despise
+f that you not have despised
+g that you not contemn
+h do not contemn
+i that you not have contemned
+k that you not think little of
+l that you not have thought little of
+m that you not count us as worthless
+n that you not abominate us
+o that you not count us as worthless
+p that you not have held us vile
+q that you not forget
+r that you not hold vile
+s that you not have cast away
+t that you not cast away
+v that you not throw aside
+x that you not deny
+y that you not have denied
+z that you not abandon
+2v that you not confound
+
+a most infirm
+b most corrupt
+c corruptible
+d contemptible
+e mere little men
+f men
+g poor
+h unhappy
+i frail
+k transient
+l vain
+m slothful, because
+n vile, therefore each one
+o sluggish
+p needy
+q destitute
+r idle
+s wretched
+t poor wretches
+v most wretched
+x pitiable
+y miserable
+z lost
+2v desolate
+
+--- Page 233 ---
+
+a evil
+b polluted
+c unjust
+d wicked
+e criminal
+f carnal
+g guilty of crimes
+h sinning
+i sinners
+k imperfect
+l unclean
+m we are stained, but
+n we are judged malicious, [unclear]
+o depraved
+p dull
+q vicious
+r slothful
+s stained
+t culpable
+v negligent
+x delinquent
+y most wicked
+z most unjust
+2v frail
+
+a may you remember
+b remember
+c remember
+d may you be mindful
+e call to mind
+f be mindful
+g be mindful
+h remember
+i consider
+k think again
+l think
+m weigh, because unless
+n behold, because unless
+o call back to mind
+p look upon
+q inspect
+r behold
+s weigh carefully
+t attend
+v may you attend
+x attend
+y may you turn your attention
+z turn your attention
+2v observe
+S iiij
+
+--- Page 234 ---
+
+a had been
+b had existed
+c had fallen
+d had collapsed
+e had done wrong
+f had apostatized
+g had become
+h had sinned
+i had done
+k were
+l had erred
+m had strayed
+n had wandered
+o had gone astray
+p had wandered about
+q had wandered away
+r had wandered about
+s had wandered away
+t had offended
+v had fallen
+x had fallen away
+y had transgressed
+z had degenerated
+2v had degenerated
+
+a mortals
+b men
+c living beings
+d carnal persons
+e parents
+f first parents
+g sinners
+h worldly persons
+i worldly ones
+k earthly persons
+l earthbound ones
+m infirm in such things
+n wretched
+o unjust
+p wicked
+q harmful
+r guilty
+s frail
+t weak
+v pitiable
+x miserable
+y first parents
+z first-formed ones
+2v transgressors
+
+--- Page 235 ---
+
+a power
+b honor
+c majesty
+d dignity
+e eminence
+f preeminence
+g honorableness
+h magnificence
+i excellence
+k prerogative
+l principality
+m power, by no means
+n glory, not at all
+o estate
+p worship
+q brightness
+r loftiness
+s blessedness
+t beauty
+v sublimity
+x exaltation
+y veneration
+z dominion
+2v greatness
+
+a you would shine
+b you would reign
+c you would shine forth
+d you would glitter
+e you would gleam
+f you would shine
+g you would glow
+h you would radiate
+i you would reside
+k you would shine
+l you would gleam
+m you would shine out
+n you would exist
+o you would be
+p you would rejoice
+q you would be glad
+r you would exult
+s you would triumph
+t you would be held
+v you would rule
+x you would prevail
+y you would be honored
+z you would exult
+2v you would stand firm
+
+[segment 50]
+--- Page 236 ---
+
+a. weakness; b. health; c. frailty; d. insufficiency; e. deficiency; f. want; g. debility; h. failure; i. misery; k. need; l. destitution; m. cause; n. need; o. ruin; p. hurt; q. calamity; r. dejection; s. unhappiness; t. hardship; v. condition; x. ignorance; y. poverty; z. desolation; 2v. affliction
+
+a. our; b. our; c. of our people; d. of all; e. of all; f. of each one; g. of all; h. of men; i. of believers; k. of mortals; l. of the living; m. therefore of earthly people, O Mary; n. therefore of carnal people, O Mary; o. of exiles; p. of pilgrims; q. of those on pilgrimage; r. of those weeping; s. of the infirm; t. of those groaning; v. of those crying out; x. of those lamenting; y. of those supplicating; z. of those entreating; 2v. of those asking
+
+--- Page 237 ---
+
+a. most chaste; b. most blessed; c. most modest; d. most holy; e. most beautiful; f. fairest; g. most powerful; h. most glorious; i. most illustrious; k. most bright; l. most pure; m. venerable virgin; n. sweetest virgin; o. most pious; p. most sweet; q. most merciful; r. most kindly; s. most prosperous; t. most flourishing; v. most worthy of veneration; x. most innocent; y. most excellent; z. most radiant; vv. most gentle
+
+a. queen; b. mother; c. lady; d. princess; e. patroness; f. advocate; g. consolation; h. restoration; i. restorer; k. consoler; l. refuge; m. protection of all; n. help of all; o. assistance; p. helper; q. helper; r. mirror; s. refuge; t. confidence; v. trust; x. joy; y. hope; z. glory; vv. joy
+
+--- Page 238 ---
+
+a. our; b. of the faithful; c. of the good; d. of mortals; e. of the living; f. of believers; g. of Christians; h. of worshipers of Christ; i. of penitents; k. of earthly beings; l. of creatures; m. of all men; n. of angels and of the whole; o. of saints; p. of the just; q. of the pious; r. of the humble; s. of those hoping; t. of Catholics; v. of the orthodox; x. of the poor; y. of exiles; z. of the devout; vv. of the contrite
+
+a. fountain; b. urn; c. ark; d. well; e. stream; f. river; g. spring; h. dwelling; i. beginning; k. foundation; l. outflow; m. depth; n. shelter; o. dining room; p. habitation; q. dwelling; r. abode; s. garden; t. little garden; v. sanctuary; x. upper room; y. paradise; z. workshop; vv. storehouse
+
+--- Page 239 ---
+
+a. of peace; b. of grace; c. of piety; d. of purity; e. of charity; f. of love; g. of indulgence; h. of mercy; i. of compassion; k. of consolation; l. of beauty; m. of innocence; n. of loveliness; o. of virtue; p. of goodness; q. of salvation; r. of happiness; s. of holiness; t. of humility; v. of blessedness; x. of gentleness; y. of delight; z. of integrity; vv. of mercy
+
+a. piously; b. most piously; c. kindly; d. mercifully; e. more kindly; f. benignly; g. more mercifully; h. favorably; i. most kindly; k. most mercifully; l. compassionately; m. most graciously; n. most piously; o. graciously; p. unceasingly; q. continually; r. daily; s. constantly; t. perpetually; v. always; x. willingly; y. sympathetically; z. patiently; vv. compassionately
+
+Z
+
+--- Page 240 ---
+
+a. hear; b. hear favorably; c. behold; d. look upon; e. look back upon; f. look upon together; g. look ahead; h. behold; i. look upon; k. look back upon; l. look upon together; m. look ahead; n. look through and upon yourself; o. may you look ahead; p. may you look through; q. may you look upon together; r. may you look back upon; s. may you look upon; t. may you behold; v. look through; x. gaze upon; y. recognize; z. know; vv. recognize
+
+a. mother; b. nurse; c. patroness; d. advocate; e. helper; f. consoler; g. preserver; h. helper; i. defender; k. promoter; l. mediatrix; m. savior; n. receiver; o. healer; p. rescuer; q. spokeswoman; r. intercessor; s. reconciler; t. protection; v. refuge; x. refuge; y. compassionate helper; z. protectress; vv. liberator
+
+--- Page 241 ---
+
+a. of the weak; b. of the needy; c. of the poor; d. of the wretched; e. of the infirm; f. of the infirm; g. of Christians; h. of worshipers of Christ; i. of Nazarenes; k. of Catholics; l. of ecclesiastics; m. of the orthodox; n. of the desolate; o. of the compunct; p. of the contrite; q. of little ones; r. of the afflicted; s. of the devout; t. of the faithful; v. of the humble; x. of believers; y. of those mourning; z. of those deserving; vv. of penitents
+
+a. show; b. may you show; c. show; d. remember; e. may you remember; f. call to mind; g. demonstrate; h. demonstrate; i. show; k. show; l. declare; m. may you declare, and on behalf of; n. declare, and on behalf of; o. know; p. may you know; q. know; r. recognize; s. may you recognize; t. recognize; v. understand; x. know; y. may you know; z. may you have known; vv. exhibit
+
+T ij
+
+--- Page 242 ---
+
+a. from faults; b. from guilt; c. from stains; d. from sins; e. from impieties; f. from iniquities; g. from enormities; h. from transgressions; i. from imperfections; k. from impurities; l. from offenses; m. from depravities; n. from crimes; o. from wicked deeds; p. from wickednesses; q. from delicts; r. from offenses; s. from excesses; t. from negligences; v. from uncleannesses; z. from evil deeds; x. from faults
+
+y. of all; z. of the faithful; [unclear]. of the humble; e. of believers; f. of penitents; g. of Christians; h. of worshipers of Christ; i. of the predestined; k. of Catholics; l. of ecclesiastics; m. of the compunct; n. of the orthodox; o. of the contrite; p. of the afflicted; q. of those groaning; r. of those mourning; s. of the good; t. of the pious; u. of those praying; x. of those seeking; y. of those asking; z. of those hoping; 2v. of those desiring; a. our
+
+[segment 51]
+--- Page 243 ---
+
+a by holy
+b by very pleasing
+c by constant
+d by continuous
+e by ready
+f by salutary
+g by most holy
+h by most pleasing
+i by most acceptable
+k by saving
+l by most pleasing
+m by most powerful
+n by most efficacious
+o by most ready
+p by most devout
+q by most merciful
+r by most kindly
+s by most pious
+t by sweetest
+v by magnificent
+x by motherly
+y by most pious
+z by most worthy
+2v by greatest
+
+a intercessions
+b interventions
+c entreaties
+d petitions
+e prayers
+f invocations
+g supports
+h prayers
+i petitions
+k prayers
+l suffrages
+m your protections before
+n your helps before
+o merits
+p benefits
+q patronages
+r favors
+s aids
+t requests
+v requests
+x reliefs
+y alleviations
+z prayers
+2v supplications
+
+T iij
+
+--- Page 244 ---
+
+a to the best
+b to the highest
+c to the greatest
+d to the glorious
+e to the invisible
+f to the immortal
+g to the most holy
+h to the almighty
+i to the all-powerful
+k to the most powerful
+l to the most merciful
+m to the most kindly
+n to the everlasting
+o to the unchangeable
+p to the uncircumscribable
+q to the most compassionate
+r to the most excellent
+s to the sweetest
+t to the most pious
+v to the only
+x to the eternal
+y to the supreme
+z to the most bright
+2v to the most pious
+
+a maker
+b author
+c creator
+d founder
+e fabricator
+f fashioner
+g preserver
+h governor
+i illuminator
+k enlightener
+l redeemer
+m liberator
+n savior
+o emperor
+p maker
+q judge
+r king
+s ruler
+t lord
+v moderator
+x preserver
+y disposer
+z ordainer
+2v director
+
+--- Page 245 ---
+
+a of heaven
+b of the world
+c of earth
+d of the world
+e of the heavens
+f of the lands
+g of heavenly things
+h of earthly things
+i of things above
+k of things above the heavens
+l of Christians
+m of Christ-worshippers
+n of archangels
+o of dominions
+p of principalities
+q of powers
+r of angels
+s of creatures
+t of things
+v of ours
+x of human beings
+y of all
+z of all collectively
+2v of the universe
+
+a always
+b continually
+c more gently
+d constantly
+e daily
+f continuously
+g gladly
+h more gladly
+i willingly
+k graciously
+l cheerfully
+m sweetly intercede
+n freely appeal
+o swiftly
+p without interruption
+q more sweetly
+r mercifully
+s more mercifully
+t as soon as possible
+v with mercy
+x unceasingly
+y perpetually
+z fully
+2v more fully
+
+T iiij
+
+--- Page 246 ---
+
+a Eternal
+b Best
+c Greatest
+d Heavenly
+e Supreme
+f Immortal
+g Almighty
+h All-powerful
+i Most Strong
+k Holding All Things
+l All-knowing
+m Exalted
+n Glorious
+o Virtuous
+p Invisible
+q Most High
+r Everlasting
+s Sempiternal
+t Most Wise
+v Most Powerful
+x Most Praised
+y Most Prudent
+z Most Excellent
+2v Most Radiant
+
+a of heaven
+b of the world
+c of earth
+d of the heavens
+e of the lands
+f of the world
+g of human beings
+h of all
+i of all collectively
+k of humanity
+l of the universe
+m of worldly things
+n of things of the world
+o of things above the heavens
+p of intellectual things
+q of sensible things
+r of mortals
+s of heavenly things
+t of things
+v of the sea
+x of the abyss
+y of the universe
+z of universality
+2v of the elements
+
+--- Page 247 ---
+
+a author
+b maker
+c creator
+d founder
+e fabricator
+f moderator
+g institutor
+h restorer
+i renewer
+k producer
+l disposer
+m ordainer
+n preserver
+o governor
+p giver of life
+q reformer
+r illuminator
+s enlightener
+t emperor
+v ruler
+x prince
+y lord
+z worker
+2v maker
+
+a uncircumscribable
+b incomprehensible
+c most merciful
+d most merciful
+e unchangeable
+f most kindly
+g most perfect
+h most pious
+i most blessed
+k sweetest
+l gentlest
+m ineffable God, you, O
+n infinite God, you, O
+o most pious
+p most bright
+q inestimable
+r incorruptible
+s inconceivable
+t most gentle
+v most glorious
+x immovable
+y inaccessible
+z immutable
+2v above all things
+
+--- Page 248 ---
+
+a virgin
+b queen
+c lady
+d dove
+e empress
+f pearl
+g little virgin
+h Theotokos
+i little sheep
+k maiden
+l lamp
+m Mary
+n woman
+o root
+p rose
+q phoenix
+r violet
+s lady
+t daughter
+v star
+x woman
+y little virgin
+z childbearing woman
+2v Word-bearer
+
+a most pure
+b most chaste
+c most luminous
+d most noble
+e most bright
+f most modest
+g most illustrious
+h most beautiful
+i most lovely
+k most comely
+l most splendid
+m most radiant in
+n most adorned in
+o most pious
+p most blessed
+q most pious
+r gentlest
+s most powerful
+t most renowned
+v sweetest
+x most whole
+y most prudent
+z most illustrious
+2v most serene
+
+[segment 52]
+--- Page 249 ---
+
+a mother
+b parent
+c genitrix
+d childbearing mother
+e conceiver
+f educator
+g caretaker
+h dwelling
+i sanctuary
+k ark
+l nurse
+m fosterer of her son
+n nurse of her Word
+o suckler
+p temple
+q caretaker
+r dining chamber
+s dwelling place
+t feeder
+v habitation
+x receptacle
+y resting place
+z tabernacle
+2v shelter
+
+a of the beloved
+b of the coeternal
+c of the fore-beloved
+d of the only-begotten
+e of the only-born
+f of the ever-begotten
+g of the everlasting
+h of the sweetest
+i of the most loving
+k of the most beloved
+l of Jesus Christ
+m of Christ Jesus before
+n of the only one before
+o of the coeval
+p of the bright
+q of the dearest
+r of the coessential
+s of the sweetest
+t of the most pleasing
+v of the most holy
+x of the most powerful
+y of the most glorious
+z of the co-omnipotent
+2v of the consubstantial
+
+--- Page 250 ---
+
+a of heaven
+b of earth
+c of the world
+d of the heavens
+e of the world
+f of things
+g of the spheres
+h of the cosmos
+i of the creature
+k of creatures
+l of man
+m of human beings
+n of angels
+o of visible things
+p of sensible things
+q of mortals
+r of the universe
+s of all things
+t of the firmament
+v of the whole
+x of the stars
+y of the sun
+z of the moon
+2v of the sea
+
+a beginning
+b commencement
+c principle
+d origin
+e placement
+f operation
+g existence
+h creation
+i founding
+k institution
+l constitution
+m fabrication
+n production
+o ordering
+p inception
+q procreation
+r construction
+s institution
+t composition
+v disposition
+x appearance
+y formation
+z bringing forth
+2v placement
+
+--- Page 251 ---
+
+a piously
+b providently
+c most piously
+d perpetually
+e prudently
+f providently
+g infallibly
+h most prudently
+i most providently
+k most benignly
+l most wisely
+m most dutifully
+n most sweetly
+o mercifully
+p wisely
+q sweetly
+r calmly
+s willingly
+t graciously
+v benignly
+x most calmly
+y most graciously
+z mercifully
+2v most mercifully
+
+a chose
+b called
+c chose beforehand
+d prepared
+e prepared beforehand
+f ordained
+g preordained
+h predestined
+i named beforehand
+k precanonized
+l privileged
+m predisposed, so that through you
+n magnified from you
+o preconstituted
+p preplaced
+q reckoned beforehand
+r recognized
+s proposed
+t beheld
+v inspected
+x regarded
+y looked upon
+z saw
+2v foresaw
+A
+
+--- Page 252 ---
+
+a life
+b health
+c salvation
+d savior
+e deliverance
+f deliverer
+g redemption
+h restorer
+i restoration
+k repairer
+l giving of life
+m giver of life
+n sanctification
+o sanctifier
+p reconciler
+q reconciliation
+r purifier
+s purification
+t renewer
+v renewer
+x renewal
+y renewal
+z innocence
+2v liberty
+
+a might be given
+b might appear
+c might be bestowed
+d might come
+e might be born
+f might be rendered
+g might be restored
+h might be given back
+i might be forgiven
+k might be distributed
+l might draw near
+m might approach to us all
+n might draw near
+o might be ministered
+p might be presented
+q might be shown
+r might arise
+s might rise up
+t might come forth
+v might emerge
+x might burst forth
+y might assist
+z might arise
+2v might be raised up
+
+--- Page 253 ---
+
+a to the wretched
+b to the poor wretches
+c to the weak
+d to the pitiable
+e to the poor
+f to the miserable
+g to sinners
+h to human beings
+i to earth-born people
+k to exiles
+l to those who groan
+m to the needy
+n to the needy
+o to human beings
+p to the destitute
+q to the impious
+r to the unjust
+s to the wicked
+t to earthly people
+v to terrestrial people
+x to mortals
+y to those who hope
+z to penitents
+2v to the humble
+
+a by deceit
+b by fraud
+c by envy
+d by malice
+e by persuasion
+f by perfidy
+g by lying
+h by envy
+i by virulence
+k by fraudulence
+l by ill will
+m by malignance
+n by malignity
+o by perversity
+p by flattery
+q by fury
+r by cunning
+s by spite
+t by madness
+v by poison
+x by frenzy
+y by craftiness
+z by shrewdness
+2v by suggestion
+A ij
+
+--- Page 254 ---
+
+a of the evil
+b of the perverse
+c of the malignant
+d of the malicious
+e of the malevolent
+f of the most wicked
+g of the most criminal
+h of the most unspeakable
+i of the most malignant
+k of the most perverse
+l of the most lying
+m of the most base spirit
+n of the most cunning spirit
+o of the most worthless
+p of the most foul
+q of the most filthy
+r of the worst
+s of the wicked
+t of the blind
+v of the blinded
+x of the blinded
+y of the most foolish
+z of the most stupid
+2v of the most unclean
+
+a of Baal
+b of the Baals
+c of the devil
+d of Satan
+e of Astaroth
+f of Lucifer
+g of Beelzebub
+h of Leviathan
+i of Paymon
+k of Merhezin
+l of Amaymon
+m of Satan
+n of Barban
+o of Vulcan
+p of Pluto
+q of Misotheus
+r of Misanthropus
+s of Sachmach
+t of Asmodeus
+v of Acheron
+x of Belial
+y of Zagan
+z of Buffyn
+2v of Zabulus
+
+--- Page 255 ---
+
+a cunningly
+b overthrown
+c seduced
+d subverted
+e stripped
+f despoiled
+g supplanted
+h dishonored
+i defiled
+k laid low
+l cast down
+m conquered
+n killed
+o slain
+p defeated
+q captured
+r killed
+s slaughtered
+t slain
+v intercepted
+x taken captive
+y corrupted
+z depraved
+2v circumvented
+U iij
+
+[segment 53]
+--- Page 256 ---
+a true
+b sacred
+c truthful
+d holy
+e saving
+f mystical
+g veridical
+h divine
+i apostolic
+k evangelical
+l catholic
+m Christian, eternal
+n ecclesiastical
+o of the Lord
+p most sacred
+q most hallowed
+r salutary
+s most holy
+t orthodox
+v approved
+x most solid
+y firmest
+z most certain
+w solid
+
+a speaking forth
+b demonstrating
+c showing beforehand
+d warning beforehand
+e manifesting
+f protesting
+g intimating
+h declaring
+i confirming
+k affirming
+l crying out
+m scripture testifying
+n the page saying
+o teaching
+p reporting
+q asserting
+r instructing
+s showing
+t revealing
+v explaining
+x speaking between
+y bearing witness
+z attesting
+w confirming
+
+--- Page 257 ---
+a we read
+b we do
+c we know
+d we believe
+e we have understood
+f we understand
+g we have recognized
+h we have known
+i we know
+k we recognize
+l we have received
+m we have learned that thus
+n we learn that thus
+o we are taught
+p we confess
+q we are established
+r we profess
+s we are instructed
+t we are trained
+v we are made certain
+x we are informed
+y we have heard
+z we have perceived
+vv we are imbued
+
+a lord
+b father
+c creator
+d founder
+e author
+f maker
+g fashioner
+h monarch
+i governor
+k preserver
+l emperor
+m prince, our God
+n ruler, our God
+o king
+p maker
+q judge
+r craftsman
+s rectifier
+t confirmer
+v lord
+x distributor
+y disposer
+z ordainer
+vv moderator
+A iiij
+
+--- Page 258 ---
+a eternal
+b exalted
+c best
+d greatest
+e heavenly
+f highest
+g glorious
+h most gentle
+i omnipotent
+k all-powerful
+l most merciful
+m most excellent
+n most compassionate
+o uncircumscribable
+p unchangeable
+q most kindly
+r everlasting
+s most pious
+t most glorious
+v magnificent
+x most holy
+y sweetest
+z immeasurable
+vv most pious
+
+a loved
+b esteemed
+c weighed
+d valued
+e weighed carefully
+f magnifies
+g magnified
+h reckoned
+i accounted
+k was loving
+l had loved
+m loved
+n was loving
+o cares for
+p loves
+q loves
+r esteems
+s values
+t weighs
+v honors
+x accounts
+y had loved
+z had esteemed
+vv honored
+
+--- Page 259 ---
+a the world
+b worldly people
+c worldly ones
+d earth-born people
+e human beings
+f mortals
+g the wretched
+h exiles
+i the captured
+k captives
+l the lost
+m the abject as his sons
+n the deceived as his sons
+o those in exile
+p man
+q those supplanted
+r humanity
+s the first-formed
+t the foolish
+v the fallen
+x those led astray
+y the poor
+z the miserable
+vv earth-born people
+
+a only
+b beloved
+c coeternal
+d blessed
+e sweetest
+f only-begotten
+g only-born
+h most loving
+i dearest
+k most like
+l similar
+m Christ, from you
+n the fore-beloved, from you
+o loved
+p pre-loved
+q lovable
+r most pious
+s most dutiful
+t commensurate
+v coessential
+x well-begotten
+y everlasting
+z most beloved
+vv consubstantial
+
+--- Page 260 ---
+a mortal
+b man
+c visible
+d flesh
+e passible
+f human
+g fleshly
+h body
+i body
+k corporeal
+l sensible
+m mediator
+n savior
+o liberator
+p redeemer
+q reformer
+r like us
+s human
+t poor
+v suffering
+x humble
+y needy
+z destitute
+zv naked
+
+a to give
+b to offer
+c to grant
+d to send
+e to expose
+f to bestow
+g to destine
+h to expend
+i to sacrifice
+k to present
+l to transmit
+m to be put to death for
+n to be slaughtered for
+o to be killed
+p to be butchered
+q to be incarnate
+r to be scourged
+s to be sold
+t to be beaten
+v to contribute
+x to assign
+y to furnish
+z to die
+zv to suffer
+
+--- Page 261 ---
+a salvation
+b raising up
+c rescue
+d salvation
+e liberation
+f re-creation
+g repair
+h redemption
+i restoration
+k renewal
+l renewal
+m renewal
+n reformation
+o sanctification
+p rectification
+q justification
+r giving of life
+s cleansing
+t beatification
+v glorification
+x consolation
+y renewal
+z bringing back
+vv recovery
+
+a of the world
+b of man
+c of all
+d of all
+e of all
+f of men
+g of the penitent
+h of believers
+i of those desiring
+k of those trusting
+l of those confessing
+m of the humble, let him not doubt
+n of the poor, he would not refuse
+o of the frail
+p of the faithful
+q of exiles
+r of mortals
+s of those groaning
+t of the wretched
+v of those in exile
+x of the contrite
+y of the fallen
+z of those wandering
+vv of those returning
+
+--- Page 262 ---
+a dewy
+b most holy
+c most beautiful
+d most fair
+e most adorned
+f most fruitful
+g most precious
+h most kindly
+i most merciful
+k sweetest
+l happiest
+m of all sheep
+n most gentle, through whom
+o purest
+p most chaste
+q most dutiful
+r most modest
+s most virtuous
+t most innocent
+v most powerful
+x most serene
+y most illustrious
+z most noble
+vv most renowned
+
+[segment 54]
+--- Page 263 ---
+a life
+b hope
+c peace
+d salvation
+e virtue
+f goodness
+g happiness
+h security
+i concord
+k consolation
+l bringing to life
+m glorification
+n tranquillity
+o revival
+p resurrection
+q restoration
+r salvation
+s health
+t healing
+v rest
+x repose
+y grace
+z glory
+2v joy
+
+a for the wretched
+b for the poor wretches
+c for the faithful
+d for the humble
+e for those to be pitied
+f for the poor
+g for the miserable
+h for those in exile
+i for those who groan
+k for sinners
+l for penitents
+m for believers
+n for Christians
+o for worshipers of Christ
+p for the supplanted
+q for the despoiled
+r for the led astray
+s for the deceived
+t for the contrite
+v for the afflicted
+x for the desolate
+y for human beings
+z for mortals
+2v for the deserving
+X
+
+--- Page 264 ---
+a has come
+b has arrived
+c has proceeded
+d has arisen
+e has shone forth
+f has sprouted
+g has germinated
+h is communicated
+i has been restored
+k is restored
+l germinates
+m sprouts
+n has arisen
+o arises
+p has grown
+q grows
+r flourishes
+s flourished
+t has shone
+v flashed forth
+x proceeds
+y burst forth
+z is prepared
+2v has been prepared
+
+a most pleasant
+b most beautiful
+c most delightful
+d most sweet
+e sweetest
+f everlasting
+g most bright
+h perpetual
+i perennial
+k angelic
+l greatest
+m most luminous
+n most abundant
+o most renowned
+p most excellent
+q most abounding
+r most divine
+s exceedingly sweet
+t most gentle
+v highest
+x truest
+y safest
+z most joyful
+2v freest
+
+--- Page 265 ---
+a pray
+b entreat
+c plead
+d adore
+e supplicate
+f request
+g ask earnestly
+h implore
+i intercede
+k speak
+l pray
+m knock, we beseech you, for
+n ask, we beseech you, for
+o press on
+p stand by
+q cry out
+r cry aloud
+s beseech
+t intervene
+v intercede
+x may you intercede
+y may you intervene
+z may you come to aid
+2v come to aid
+
+a for faults
+b for offenses
+c for sins
+d for wicked deeds
+e for liabilities
+f for excesses
+g for iniquities
+h for crimes
+i for misdeeds
+k for negligences
+l for crimes
+m for our committed offenses, to
+n for our injustices, to
+o for evil deeds
+p for impieties
+q for inequities
+r for necessities
+s for impurities
+t for imperfections
+v for transgressions
+x for calamities
+y for adversities
+z for tribulations
+2v for sins
+X ij
+
+--- Page 266 ---
+a to God
+b to the king
+c to the judge
+d to the shepherd
+e to the prince
+f to the Lord
+g to the emperor
+h to the ruler
+i to the redeemer
+k to the governor
+l to the preserver
+m to the governor
+n to the giver of life
+o to the maker
+p to the restorer
+q to the restorer
+r to the reformer
+s to the inspector
+t to the consoler
+v to the defender
+x to the defender
+y to the savior
+z to the maker
+2v to the author
+
+a of all things
+b of all
+c of the universes
+d of the ages
+e of men
+f of angels
+g of humanity
+h of the universe
+i of things above
+k of supercelestial things
+l of the world
+m of mortals
+n of living beings
+o of the faithful
+p of the humble
+q of the heavens
+r of the universe
+s of creation
+t of souls
+v of spirits
+x of heavenly beings
+y of minds
+z of hearts
+2v of souls
+
+--- Page 267 ---
+a Jesus Christ | a chaste
+b sweetest | b pure
+c most powerful | c virgin
+d most benign | d bright
+e most pious | e untouched
+f most merciful | f most chaste
+g most indulgent | g most pure
+h most merciful | h undefiled
+i wisest | i most perfect
+k most shining | k most modest
+l most just | l most bright
+m most gentle, whom you | m beautiful
+n most pious, whom you | n beautiful
+o most bright | o modest
+p dearest | p whole
+q highest | q unstained
+r most equitable | r inviolate
+s most holy | s uncorrupted
+t unchangeable | t splendid
+v almighty | v most beautiful
+x all-powerful | x most beautiful
+y incomprehensible | y uncontaminated
+z uncircumscribable | z most innocent
+2v mother
+X iij
+
+--- Page 268 ---
+a you bore
+b you conceived
+c you gave birth
+d you brought forth
+e you were delivered
+f you were delivered
+g you begot
+h you nursed
+i you were delivered
+k you nursed
+l you cared for
+m you nourished him who, before
+n you cherished him who, before
+o you nourished
+p you cared for
+q you cared for
+r you embraced
+s you were kissing
+t you generated
+v you were generating
+x you had generated
+y you generated
+z you had borne
+2v you had conceived
+
+a the establishment
+b the fashioning
+c the preparation
+d the beginning
+e the institution
+f the production
+g the ordering
+h the condition
+i the inception
+k the disposition
+l the situation
+m the placement
+n the position
+o the procession
+p the progress
+q the appearance
+r the commencement
+s the beginning
+t the existence
+v the subsistence
+x the operation
+y the formation
+z the creation
+2v the beginning
+
+--- Page 269 ---
+a of the world
+b of the creature
+c of creatures
+d of man
+e of men
+f of humanity
+g of worldly things
+h of things of the world
+i of supercelestial things
+k of natures
+l of visible things
+m of sensible things
+n of lands
+o of angels
+p of principality
+q of principalities
+r of earthly things
+s of corruptible things
+t of material things
+v of spiritual things
+x of spirits
+y of waters
+z of mountains
+2v of hills
+
+a mother
+b parent
+c nurse
+d genetrix
+e receiver
+f conceiver
+g bather
+h consoler
+i caretaker
+k preserver
+l giving birth
+m bringing forth
+n conceiver of himself
+o bearer of himself
+p carrier
+q rearer
+r caretaker
+s nurse
+t cherisher
+v nourisher
+x washer
+y bride
+z friend
+2v woman in childbirth
+X iiij
+
+[segment 55]
+--- Page 270 ---
+a special; b proper; c fleshly; d bodily; e most holy; f most chaste; g sweetest; h dearest; i most beloved; k most celebrated; l most worthy; m most highly worthy; n most sacred; o most innocent; p most reverend; q most honorable; r most pleasing; s most modest; t most beautiful; v fairest; x purest; y most lovely; z most loving; 2v most illustrious.
+
+a he chose; b he provided; c he chose beforehand; d he ordained; e he prepared; f he disposed beforehand; g he predestined; h he named beforehand; i he assumed beforehand; k he raised up; l he set apart; m he arranged; n he foresaw; o he prepared; p he called; q he established; r he consecrated; s he established beforehand; t he consecrated; v he proclaimed; x he sanctified; y he preserved; z he privileged; 2v he endowed with privilege.
+
+--- Page 271 ---
+a happily; b gloriously; c most happily; d honorably; e graciously; f reverently; g most worthily; h most reverently; i most gloriously; k magnificently; l most powerfully; m mercifully; n joyfully; o most joyfully; p most honorably; q most radiantly; r most eminently; s most excellently; t munificently; v everlastingly; x perpetually; y most beautifully; z most calmly; 2v most pleasingly.
+
+a the heavens; b the angels; c heavenly things; d angelic things; e the stars; f the powers; g the principalities; h the archangels; i the dominions; k the universe; l every creature; m every virtue; n eternity; o powers; p virtues; q seraphim; r cherubim; s all things; t thrones; v the ether; x all things; y clouds; z the moon; 2v the sun.
+
+--- Page 272 ---
+a he placed; b he exalted; c he adorned; d he raised high; e he exalted above measure; f he established; g he advanced; h he set in place; i he lifted up; k he transferred; l he raised up; m he brought in; n he set over; o he crowned; p he illumined; q he assumed; r he brought to; s he appointed; t he reckoned; v he numbered; x he ascribed; y he enrolled; z he assigned; 2v he set apart.
+
+a more preeminent; b more eminent; c more excellent; d more glorious; e more sublime; f more powerful; g more renowned; h more illustrious; i greater; k better; l higher; m more blessed are you, so much you; n more fortunate are you, so much you; o freer; p more serene; q more illustrious; r more excellent; s more distinguished; t worthier; v more surpassing; x holier; y more exceptional; z more beautiful; 2v fairer.
+
+--- Page 273 ---
+a gentler; b sweeter; c more pleasant; d kinder; e milder; f more merciful; g more indulgent; h nearer; i more favorable; k more abundant; l readier; m more appeased toward us; n more peaceful toward us; o more cheerful; p nearer; q closer; r more inclined; s more gentle; t more humane; v more munificent; x more serviceable; y more familiar; z more frequent; 2v more beneficent.
+
+a to furnish; b to display; c to declare; d to show; e to demonstrate; f to present; g to manifest; h to recognize; i to acknowledge; k to know; l to provide; m do not refuse to show; n if you omit to intimate; o to reveal; p to esteem; q to judge; r to recognize again; s to think; t to remember; v to reckon; x to be remembered; y to bestow; z to understand; 2v to consign.
+
+--- Page 274 ---
+a Truly; b Certainly; c Surely; d Truthfully; e Faithfully; f Firmly; g Evidently; h Most truly; i For certain; k Most truthfully; l Most purely; m Perfectly; n Wholly; o Undoubtedly; p Most rightly; q Steadfastly; r Most certainly; s Most faithfully; t Most completely; v Most evidently; x Most steadfastly; y With certainty; z Most cordially; 2v Most affectionately.
+
+a we know; b we have known; c we believe; d we perceive; e we acknowledge; f we have acknowledged; g we have known; h we know; i we recognize; k we have recognized; l we understand; m we have understood; n we declare; o we affirm; p we attest; q we profess; r we confess; s we agree; t we trust; v we hope; x we acknowledge; y we hold; z we teach; 2v we are taught.
+
+--- Page 275 ---
+a mother; b parent; c begetter; d preparer; e discoverer; f restorer; g recoverer; h renewer; i restorer; k finder; l lady; m little garden; n ark; o fountain; p garden; q urn; r giver; s worker; t dwelling; u queen; x empress; y storehouse; z treasury; 2v storeroom.
+
+a of life; b of light; c of peace; d of salvation; e of piety; f of light; g of happiness; h of charity; i of sweetness; k of goodness; l of grace; m of gladness, and therefore that you are; n of justice, and therefore; p of virtue; q of wisdom; r of innocence; s of love; t of perfection; v of mercy; x of compassion; y of blessedness; z of pleasantness; 2v of purity.
+
+[segment 56]
+--- Page 276 ---
+a to all
+b to eternal
+c to constant
+d to continual
+e to the greatest
+f to universal
+g to distinguished
+h to all
+i to immense
+k to everlasting
+l to most devout
+m to humble
+n to immortal
+o to most abundant
+p to most plentiful
+q to perennial
+r to most humble
+s to perpetual
+t to mighty
+v to everlasting
+x to chief
+y to ample
+z to many
+2v to holy
+
+a worthy
+b to be sung
+c to be adorned
+d to be embellished
+e to be crowned
+f to be honored
+g to be celebrated
+h to be venerated
+i to be commended
+k to be celebrated together
+l to be canonized
+m to be commemorated
+n to be remembered again
+o to be remembered
+p to be solemnized
+q to be made festive
+r to be exalted
+s to be loved
+t to be cherished
+v to be prayed to
+x to be sung
+y to be proclaimed
+z to be raised on high
+2v to be adorned thoroughly
+
+--- Page 277 ---
+a by merits
+b by prayers
+c by praises
+d by proclamations
+e by services
+f by honors
+g by prayers
+h by laudations
+i by praises together
+k by supplications
+l by solemnities
+m by rejoicings
+n by songs
+o by favors
+p by voices
+q by joys
+r by feasts
+s by vows
+t by chants
+v by verses
+x by inmost hearts
+y by poems
+z by honors
+vv by festivities
+
+a life
+b peace
+c salvation
+d piety
+e justice
+f holiness
+g redemption
+h sanctification
+i justification
+k reconciliation
+l liberation
+m freedom
+n security
+o consolation
+p innocence
+q immortality
+r blessedness
+s glorification
+t happiness
+v health
+x goodness
+y virtue
+z light
+vv hope
+Y ii
+
+--- Page 278 ---
+a is given
+b is bestowed
+c is given back
+d is granted
+e is restored
+f is conferred
+g is consigned
+h is released
+i is assigned
+k is exhibited
+l is offered
+m is rendered
+n is added
+o is shown
+p is prepared
+q is repaired
+r is manifested
+s is shown
+t is demonstrated
+v is renewed
+x is restored
+y is reformed
+z is set forth
+vv is offered
+
+a to the infirm
+b to the wretched
+c to the poor wretches
+d to the gentle
+e to the poor
+f to the meek
+g to the humble
+h to mortals
+i to human beings
+k to earth-born men
+l to exiles
+m to penitents
+n to pilgrims
+o to believers
+p to worshipers of Christ
+q to Christians
+r to the faithful
+s to Catholics
+t to the orthodox
+v to the desolate
+x to the frail
+y to the guilty
+z to sinners
+vv to worldly people
+
+--- Page 279 ---
+a deceit
+b fraud
+c cunning
+d envy
+e savagery
+f wickedness
+g treachery
+h poison
+i envy
+k malignity
+l evil deed
+m fraudulence
+n perversity
+o deceitfulness
+p depravity
+q persuasion
+r enticement
+s cruelty
+t malice
+v flattery
+x fury
+y venom
+z invention
+2v contrivance
+
+a of the treacherous one
+b of the worst one
+c of the malignant one
+d of the lying one
+e of the basest one
+f of the filthiest one
+g of the most unclean one
+h of the most criminal one
+i of the most foolish one
+k of the most unspeakable one
+l of the most wicked one
+m of the most depraved one
+n of the most unjust one
+o of the most impious one
+p of the most stupid one
+q of the most foolish one
+r of the wicked one
+s of the falsest one
+t of the most envious one
+v of the most venomous one
+x of the most lying one
+y of the most treacherous one
+z of the dark one
+2v of the criminal one
+Y iii
+
+--- Page 280 ---
+a of the enemy; a of Zabulus
+b of the snake; b of the devil
+c of the serpent; c of Satan
+d of the adversary; d of Lucifer
+e of the one opposing; e of Asmodeus
+f of the accuser; f of Paymon
+g of the one accusing; g of Amaymon
+h of the incriminator; h of Rambans
+i of the one corrupting; i of Rhadamanthus
+k of the corrupter; k of Hamelon
+l of the plotter; l of Ammon
+m of the apostate; m of Alaphans
+n of the enemy; n of Astaroth
+o of the hater; o of Nergetis
+p of the wolf; p of Argeetis
+q of the lion; q Belial
+r of the robber; r Berich
+s of the spirit; s Egyn
+t of the murderer; t Orson
+v of the deceiver; v Urfur
+x of the one lying in wait; x Asans
+y of the transgressor; y Schuraym
+z of the supplanter; z Luthealis
+vv of the poisoner; vv of Misaleth
+
+--- Page 281 ---
+a wretchedly
+b basely
+c most wretchedly
+d most basely
+e most unjustly
+f most cruelly
+g miserably
+h fraudulently
+i most bitterly
+k most unspeakably
+l most unhappily
+m unhappily
+n powerfully
+o fiercely
+p unjustly
+q impiously
+r unjustly
+s wickedly
+t tyrannically
+v violently
+x hostilely
+y most fiercely
+z most furiously
+vv most wickedly
+
+a held
+b detained
+c had held
+d was detaining
+e had detained
+f had occupied
+g had preoccupied
+h was preoccupying
+i preoccupied
+k was occupying
+l occupied
+m was holding
+n had
+o was having
+p had had
+q was possessing
+r had possessed
+s was slaughtering
+t had slaughtered
+v had tortured
+x was torturing
+y was holding
+z possessed
+vv obtained
+Y iv
+
+--- Page 282 ---
+a captives
+b prisoners
+c shut in
+d enclosed
+e confined
+f oppressed
+g compressed
+h constrained
+i shackled
+k submerged
+l thrust down
+m thrust in
+n bound
+o shut
+p fettered
+q enslaved
+r lamenting
+s weeping
+t groaning
+v bound together
+x bound fast
+y desolate
+z afflicted
+2v bound
+
+a of Avernus
+b of hell
+c of death
+d of misery
+e of sadness
+f of grief
+g of miseries
+h of darkness
+i of bitterness
+k of sorrows
+l of desolation
+m of unhappiness
+n of damnation
+o of aversion
+p of poverty
+q of exile
+r of deviation
+s of error
+t of ignorance
+v of corruption
+x of anathema
+y of malignity
+z of curse
+2v of indignation
+
+[segment 57]
+--- Page 283 ---
+
+a He is born
+b He was born
+c He was being born
+d He appeared
+e He was appearing
+f He had appeared
+g He had become visible
+h He was visible
+i He became visible
+k He is conceived
+l He was conceived
+m He was being conceived
+n He will come
+o He had come
+p He came
+q He shone forth
+r He was shining
+s He had shone forth
+t He was growing bright
+v He had gleamed
+x He was gleaming
+y He gleamed
+z He proceeded
+vv He flourished
+
+a of the eternal
+b of the great
+c of the best
+d of the highest
+e of the greatest
+f of the ineffable
+g of the inestimable
+h of the omnipotent
+i of the all-powerful
+k of the unchangeable
+l of the incomprehensible
+m of the uncircumscribable
+n of the inscrutable
+o of the inconceivable
+p of the incorruptible
+q of the supremely powerful
+r of the most merciful
+s of the most kindly
+t of the most loving
+v of the everlasting
+x of the immortal
+y of the invisible
+z of the magnificent
+vv of the most pious
+
+--- Page 284 ---
+
+a of God
+b of the Father
+c of the King
+d of the Maker
+e of the Author
+f of the Fashioner
+g of the Creator
+h of the Founder
+i of the Fabricator
+k of the Molder
+l of the Moderator
+m of the Governor
+n of the One governing
+o of the Preserver
+p of the Ordainer
+q of the Commander
+r of the Ruler
+s of the One ruling
+t of the One commanding
+v of the Beholder
+x of the One directing
+y of the Rector
+z of the Judge
+vv of the Arbiter
+
+a ever-begotten
+b eternally begotten
+c consubstantial
+d only-begotten
+e coessential
+f uniquely begotten
+g well-begotten
+h coeternal
+i coequal
+k coeval
+l beloved
+m only son in
+n sole son in
+o eternal
+p pleasing
+q well-pleasing
+r promised
+s promised again
+t most gentle
+v sweetest
+x most loving
+y most beloved
+z most innocent
+vv incomprehensible
+
+--- Page 285 ---
+
+a Jacob
+b Israel
+c the land
+d the lands
+e Judea
+f the world
+g Palestine
+h Hieropolis
+i Jerusalem
+k the midst of the earth
+l humanity
+m human things
+n human beings
+o Heliopolis
+p Theopolis
+q Herenopolis
+r human beings
+s mortals
+t the Abrahamites
+v pilgrimage
+x the lower regions
+y Samaria
+z Nazareth
+vv Bethlehem
+
+a visible
+b tangible
+c palpable
+d bodily
+e sensible
+f touchable
+g passible
+h mortal
+i fleshly
+k audible
+l affable
+m walking abjectly
+n made needy
+o poor
+p needy
+q destitute
+r alone
+s despised
+t unknown
+v contemned
+x incarnate
+y made man
+z humanized
+vv made human
+
+--- Page 286 ---
+
+a form
+b shape
+c appearance
+d matter
+e little burden
+f participation
+g weakness
+h communion
+i participation
+k weakening
+l humiliation
+m humility
+n humanity
+o humanization
+p incarnation
+q little body
+r prison-house
+s form
+t man
+v flesh
+x body
+y soma
+z our
+zv sense
+
+a most noble
+b most holy
+c most beautiful
+d most fair
+e most splendid
+f most radiant
+g most glorious
+h most luminous
+i most modest
+k most chaste
+l most pure
+m most pious
+n greatest
+o most bright
+p most honorable
+q most merciful
+r most innocent
+s most compassionate
+t most excellent
+v most eminent
+x most excellent
+y most precious
+z most worthy of worship
+zv most loving
+
+--- Page 287 ---
+
+a taking
+b accepting
+c receiving
+d undertaking
+e perceiving
+f conceiving
+g assuming
+h resuming
+i taking from
+k putting on
+l undergoing
+m covering
+n choosing
+o choosing beforehand
+p carrying
+q having
+r bearing
+s carrying
+t preferring
+v carrying through
+x carrying with himself
+y carrying around
+z leading around
+vv fitting together
+
+a of flesh
+b of flesh
+c of weakness
+d of humanity
+e of frailty
+f of condition
+g of likeness
+h of mortality
+i of passibility
+k of generation
+l of humility
+m of our weakness
+n of our poverty
+o of abjection
+p of substance
+q of essence
+r of nature
+s of want
+t of need
+v of necessity
+x of poverty
+y of nakedness
+z of exile
+vv of feebleness
+Z
+
+--- Page 288 ---
+
+a impious
+b unjust
+c worst
+d lying
+e criminal
+f savage
+g most criminal
+h most lying
+i most savage
+k most malignant
+l most wicked
+m most treacherous
+n most wicked
+o most criminal
+p most proud
+q most impious
+r malignant
+s malicious
+t treacherous
+v ancient
+x envious
+y crooked
+z envious
+vz cruel
+
+a enemy
+b thief
+c wolf
+d lion
+e spirit
+f devil
+g demon
+h robber
+i murderer
+k apostate
+l deserter
+m plotter
+n accuser
+o slanderer
+p transgressor
+q misanthrope
+r hater of truth
+s tyrant
+t shape-shifter
+v snake
+x serpent
+y dragon
+z enemy
+vv adversary
+
+--- Page 289 ---
+
+a with great
+b justice
+c fairness
+d humility
+e courage
+f combat
+g struggle
+h contest
+i fighting together
+k perseverance
+l gentleness
+m encounter
+n conflict
+o fighting together
+p compassion
+q speed
+r ease
+s goodness
+t reason
+v piety
+x mercy
+y charity
+z love
+vv forbearance
+Z ij
+
+[segment 58]
+--- Page 290 ---
+a has overcome; a of the faithful
+b has surpassed; b of the humble
+c has enervated; c of the poor
+d has vanquished; d of the wretched
+e has stripped bare; e of captives
+f has despoiled; f of the deceived
+g has despoiled; g of the abject
+h has spoiled; h of the lost
+i has defeated; i of the frail
+k has crushed; k of men
+l has overthrown; l of mortals
+m has conquered; m of the penitent, unto
+n has overcome; n of the contrite, unto
+o chooses; o of those who groan
+p has bound; p of those in exile
+q has subverted; q of the desolate
+r confirms; r of those who cry out
+s has weakened; s of those who call upon
+t has enfeebled; t of believers
+v has laid low; v of Christians
+x has bound together; x of worshippers of Christ
+y has rebuked; y of Catholics
+z has cast down; z of the orthodox
+vv restrains
+
+--- Page 291 ---
+a life; a has repaired
+b light; b has recalled
+c quiet; c has renewed
+d rest; d has made new
+e homeland; e has restored
+f joy; f has restored
+g glory; g has reformed
+h liberty; h has fitted again
+i blessedness; i has reordered
+k enjoyment; k has restored
+l sweetness; l has led back
+m delight; m has received
+n innocence; n has forgiven
+o pleasantness; o has brought in
+p brightness; p has introduced
+q pleasure; q has established
+r dwelling; r has ordered
+s habitation; s has chosen again
+t loftiness; t has chosen beforehand
+v gladness; v has invited
+x jubilation; x has admitted
+y perfection; y has rehabilitated
+z exultation; z has sanctified
+vv happiness; vv has given life
+Z iij
+
+--- Page 292 ---
+a eternal; a Born
+b perennial; b Suffered
+c everlasting; c Captured
+d lost; d Slain
+e angelic; e Killed
+f heavenly; f Dead
+g perpetual; g Detained
+h sempiternal; h Struck
+i beatifying; i Crucified
+k most luminous; k Murdered
+l most beautiful; l Incarnate
+m most salutary; m Scourged, wounded
+n most honorable; n Pierced
+o inestimable; o [unclear]
+p supercelestial; p Made man
+q more than angelic; q Spat upon
+r unchangeable; r Crowned
+s endless; s Beaten
+t desirable; t Humiliated
+v perennial; v Struck with blows
+x health-bringing; x Humiliated
+y salutary; y Buffeted
+z deifying; z Blasphemed
+vv divine; vv Martyred
+
+--- Page 293 ---
+a by vices; a our
+b by faults; b of the fallen
+c by merits; c of those who have collapsed
+d by demerits; d of the wretched
+e by sins; e of the poor
+f by guilt; f of the infirm
+g by excesses; g of the needy
+h by malicious acts; h of men
+i by injustices; i of mortals
+k by things committed; k of the desolate
+l by iniquities; l of the dying
+m by enormities; m of the dead; by death, us
+n by depravities; n of earth-born people; by death, us
+o by transgressions; o of believers
+p by prevarications; p of all
+q by sinful acts; q of all collectively
+r by impieties; r of all
+s by crimes; s of others
+t by negligences; t of other people
+v by crimes; v of the globe
+x by wicked deeds; x of the world
+y by acts; y of the faithful
+z by offenses; z of the humble
+vv by harms; vv of the penitent
+Z iiij
+
+--- Page 294 ---
+a bitter; a to the best
+b harsh; b to the greatest
+c precious; c to the highest
+d holy; d to the most high
+e sorrowful; e to the gentlest
+f pitiable; f to the sweetest
+g pitiable; g to the almighty
+h worthy of compassion; h to the all-powerful
+i most virtuous; i to the holiest
+k most victorious; k to the most blessed
+l most innocent; l to the most sacred
+m most precious; m to the most clement
+n most bitter; n to the unchangeable
+o most atrocious; o to the incomprehensible
+p most harsh; p to the uncircumscribable
+q most wretched; q to the most merciful
+r most mournful; r to the most benign
+s most sorrowful; s to the most venerable
+t most savage; t to the most pious
+v dreadful; v to the most serene
+x health-bringing; x to the most pious
+y most shameful; y to the most bright
+z contemptible; z to the most placid
+vv most cruel; vv to the inaccessible
+
+--- Page 295 ---
+a to God; a our
+b to the Father; b of the globe
+c to the author; c of the world
+d to the maker; d of all
+e to the fashioner; e of all collectively
+f to the creator; f of all things
+g to the founder; g of the universe
+h to the ruler; h of worldly things
+i to the preserver; i of things of the world
+k to the moderator; k of heavenly things
+l to the governor; l of the heavens
+m to the fabricator; m of lands
+n to the shaper; n heaven reconciled
+o to the establisher; o earth reconciled
+p to the beginning; p of spirits
+q to the ruler; q of souls
+r to the judge; r of mortals
+s to the king; s of the living
+t to the monarch; t of angels
+v to the inspector; v of earthly things
+x to the knower; x of the faithful
+y to the consoler; y of those who breathe
+z to the searcher; z of those who breathe
+vv to the preserver; vv of individual persons
+20:16:17:18:19:20:21:22:23:24:25:26:27:28:29:30:31:32:33:34:35:36:37:38:39:40:41:42:43:44:45:46:47:48:49:50:51:52:53:54:55:56:57:58:59:60:61:62:63:64:65:66:67:68:69:70:71:72:73:74:75:76:77:78:79:80:81:82:83:84:85:86:87:88:89:90:91:92:93:94:95:96:97:98:99:100:101:102:103:104:105:106:107:108:109:110:111:112:113:114:115:116:117:118:119:120:121:122:123:124:125:126:127:128:129:130:131:132:133:134:135:136:137:138:139:140:141:142:143:144:145:146:147:148:149:150:151:152:153:154:155:156:157:158:159:160:161:162:163:164:165:166:167:168:169:170:171:172:173:174:175:176:177:178:179:180:181:182:183:184:185:186:187:188:189:190:191:192:193:194:195:196:197:198:199:200:201:202:203:204:205:206:207:208:209:210:211:212:213:214:215:216:217:218:219:220:221:222:223:224:225:226:227:228:229:230:231:232:233:234:235:236:237:238:239:240:241:242:243:244:245:246:247:248:249:250:251:252:253:254:255:256:257:258:259:260:261:262:263:264:265:266:267:268:269:270:271:272:273:274:275:296:297:298:299:300:301
+
+--- Page 296 ---
+a most diligently; a for us
+b most wisely; b for the wretched
+c most prudently; c for the poor wretches
+d most worthily; d for earthly ones
+e most humbly; e for the desolate
+f most faithfully; f for mortals
+g unceasingly; g for the living
+h most justly; h for earth-born people
+i most rightly; i for the poor
+k joyfully; k for those in exile
+l cheerfully; l for the frail
+m deservedly; n for all who are deficient
+n assiduously therefore; m for all the faithful
+o rightly; p for Christians
+p justly; q for worshippers of Christ
+q by right; r for sinners
+r always; s for Catholics
+s continually; t for the penitent
+v faithfully; v for the contrite
+x ardently; x for the crushed in spirit
+y fervently; z for those who groan
+z diligently; z for those who fall
+vv most fervently; vv for the afflicted
+
+[segment 59]
+--- Page 297 ---
+a great
+b fervent
+c highest
+d greatest
+e continual
+f unceasing
+g most fervent
+h most ardent
+i most burning
+k most honorable
+l most humble
+m purest with
+n gentlest with
+o sweetest
+p most pleasant
+q daily
+r most sincere
+s most beautiful
+t most delightful
+v heartfelt
+x inward
+y sincere
+z humble
+vv innermost
+
+a devotion
+b eagerness
+c charity
+d love
+e integrity
+f purity
+g innocence
+h exultation
+i jubilation
+k diligence
+l cheerfulness
+m holiness
+n affection
+o goodness
+p avidity
+q faith
+r reverence
+s uprightness
+t observance
+v goodwill
+x simplicity
+y chastity
+z sobriety
+vv chastity
+
+--- Page 298 ---
+a to be praised
+b to be honored
+c to be venerated
+d to be praised together
+e to be especially honored
+f to be proclaimed
+g to be preached
+h to be greatly loved
+i to be loved above all
+k to be loved
+l to be cherished
+m to be extolled, because through you
+n to be worshiped, because through you
+o to be remembered
+p to be wondered at
+q to be admired
+r to be invoked
+s to be adored
+t to be commemorated
+v to be called to mind
+x to be glorified
+y to be celebrated
+z to be sought after
+2v to be observed
+
+a salvation
+b salvation
+c freedom
+d liberation
+e redemption
+f renewal
+g renewal
+h resurrection
+i reconciliation
+k restoration
+l restoration
+m enlivening
+n blessing
+o grace
+p peace
+q life
+r light
+s rest
+t repose
+v security
+x tranquility
+y mercy
+z kindness
+2v clemency
+
+--- Page 299 ---
+a arisen
+b born
+c given
+d sprung forth
+e bestowed
+f restored
+g given back
+h restored
+i found
+k found again
+l devised
+m sprung up
+n handed down
+o conferred
+p furnished
+q shown
+r bestowed
+s granted
+t repaired
+v reformed
+x restored
+y restored
+z ministered
+vv supplied
+
+a to the faithful
+b to the humble
+c to the upright in heart
+d to believers
+e to the meek
+f to all
+g to all universally
+h to the predestined
+i to the justified
+k to the sanctified
+l to the penitent
+m to suppliants
+n to petitioners
+o to those entreating
+p to those seeking
+q to those praying
+r to those asking
+s to the compunct
+t to the contrite
+v to the wretched
+x to the poor wretches
+y to the pitiable
+z to exiles
+vv to mortals
+
+--- Page 300 ---
+a We ask
+b We request
+c We beseech
+d We seek
+e We believe
+f We hope
+g We trust
+h We desire
+i We long for
+k We wish for
+l We wish
+m Therefore we pray
+n Thus we entreat
+o We beg
+p We implore
+q We beseech
+r We petition
+s We demand
+t We await
+v We urgently ask
+x We wait for
+y We urgently demand
+z We supplicate
+w We desire
+
+a most pious
+b most gentle
+c most loving
+d most worthy
+e most beautiful
+f most beautiful
+g most kindly
+h most merciful
+i most reverend
+k most glorious
+l most precious
+m most innocent
+n most excellent
+o most eminent
+p most splendid
+q most shining
+r most renowned
+s most powerful
+t most noble
+v most modest
+x most chaste
+y most pure
+z most holy
+w most blessed
+
+--- Page 301 ---
+a virgin
+b queen
+c woman
+d lady
+e helper
+f patroness
+g advocate
+h repairer
+i helper
+k empress
+l mistress
+m preserver
+n defender
+o intercessor
+p reconciler
+q recoverer
+r refresher
+s restorer
+t restorer
+v reliever
+x supporter
+y mediator
+z refreshment
+w comforter
+
+a of all
+b of everyone
+c of all universally
+d of the poor
+e of the humble
+f of the faithful
+g of human beings
+h of mortals
+i of the wretched
+k of those groaning
+l of believers
+m Mary of Christians
+n Mary of Christ-worshipers
+o of the meek
+p of pilgrims
+q of Catholics
+r of the orthodox
+s of those imploring
+t of those invoking
+v of exiles
+x of those trusting
+y of those awaiting
+z of those waiting
+w of the living
+
+a ij
+
+--- Page 302 ---
+a to be saved
+b to be made alive
+c to be justified
+d to be set right
+e to be purified
+f to be cleansed
+g to be sanctified
+h to be formed
+i to be enlightened
+k to be illumined
+l to be glorified
+m to be preserved
+n to be reconciled
+o to be protected beforehand
+p to be made new
+q to be renewed
+r to be made blessed
+s to be gladdened
+t to be helped
+v to be corrected
+x to be cleansed
+y to be cherished
+z to be helped
+vv to be saved
+
+a by holy
+b assiduous
+c great
+d very great
+e continual
+f sweetest
+g frequent
+h most pious
+i magnificent
+k most holy
+l most pleasing
+m most efficacious
+n most powerful
+o most kindly
+p most glorious
+q most renowned
+r most merciful
+s most illustrious
+t daily
+v most gentle
+x most rich
+y most pious
+z glorious
+vv fruitful
+
+--- Page 303 ---
+a by merits
+b by helps
+c by suffrages
+d by prayers
+e by intercessions
+f by interventions
+g by supports
+h by reliefs
+i by alleviations
+k by patronages
+l by protections
+m by your aids before
+n by prayers
+o by entreaties
+p by favors
+q by helps
+r by prayers
+s by supplications
+t by petitions
+v by urgent requests
+x by supplications
+y by defenses
+z by requests
+rv by petitions
+
+a eternal
+b heavenly
+c most pious
+d highest
+e highest
+f everlasting
+g sweetest
+h most loving
+i almighty
+k all-powerful
+l most merciful
+m most kindly
+n most merciful
+o most indulgent
+p most excellent
+q most gentle
+r most tranquil
+s most glorious
+t most unconquered
+v strongest
+x most holy
+y highest
+z most powerful
+rv most outstanding
+
+a iii
+
+[segment 60]
+--- Page 304 ---
+
+a author
+b savior
+c creator
+d founder
+e ruler
+f maker
+g fashioner
+h restorer
+i renewer
+k reconciler
+l preserver
+m governor
+n strengthener
+o comforter
+p illuminator
+q enlightener
+r consoler
+s justifier
+t sanctifier
+v repairer
+x promoter
+y producer
+z liberator
+2v mediator
+
+a our
+b of the world
+c of the universe
+d of all
+e of everyone
+f of all things
+g of the whole
+h of the whole world
+i of the globe of the earth
+k of creatures
+l of worshippers of Christ
+m of Christians, Jesus Christ, whom
+n of the humble in Christ Jesus, whom
+o of the faithful
+p of the living
+q of those hoping
+r of mortals
+s of the frail
+t of lands
+v of human beings
+x of humanity
+y of believers
+z of Catholics
+2v of those trusting
+
+--- Page 305 ---
+
+a you conceived
+b you had conceived
+c you bore
+d you had borne
+e you gave birth
+f you had given birth
+g you brought forth
+h you had carried
+i you carried
+k you washed
+l you bore
+m you nourished
+n you cherished
+o you loved
+p you carried
+q you nourished
+r you had nourished
+s you were nourishing
+t you had carried
+v you took care of
+x you had washed
+y you had brought up
+z you brought up
+w you raised
+
+a hears
+b will hear
+c will hear graciously
+d hears graciously
+e receives
+f will receive
+g admits
+h will admit
+i honors
+k will honor
+l reveres
+m will revere in all things, who
+n hearkens in the heavens, who
+o kisses
+p will kiss
+q will hearken
+r comforts
+s will comfort
+t will not despise
+v does not despise
+x will look upon
+y looks upon
+z will behold
+w beholds
+
+a iiij
+
+--- Page 306 ---
+
+a you shall have asked
+b you shall have wished
+c you shall have desired
+d you shall have sought
+e you shall have demanded
+f you shall have requested
+g you shall have urgently requested
+h you shall have desired
+i you shall have longed for
+k you shall have longed for
+l you shall have greatly desired
+m you shall have prayed
+n you shall have prayed
+o you pray
+p you ask
+q you wish
+r you seek
+s you request
+t you desire
+v you urgently request
+x you shall have asked
+y you entreat
+z you pray
+vv you demand
+
+a made
+b brought about
+c established
+d constituted
+e placed
+f raised up
+g exalted
+h adorned
+i embellished
+k ordained
+l crowned
+m appointed
+n willed
+o instituted
+p chose
+q chose beforehand
+r promoted
+s declared
+t showed
+v demonstrated
+x set forth
+y set over
+z ordained beforehand
+vv honored
+
+--- Page 307 ---
+
+a powerful
+b great
+c glorious
+d greatest
+e honorable
+f worthy of honor
+g empress
+h moderator
+i prince
+k lady
+l queen
+m patroness
+n advocate
+o most renowned
+p preeminent
+q highest
+r excellent
+s omnipotent
+t all-powerful
+v most powerful
+x most glorious
+y most eminent
+z most preeminent
+vv most excellent
+
+a the elect
+b angels
+c archangels
+d principalities
+e powers
+f cherubim
+g seraphim
+h virtues
+i thrones
+k heavenly beings
+l saints
+m all the just:
+n all the heavens:
+o the blessed
+p the good
+q spirits
+r creatures
+s souls
+t human beings
+v the sanctified
+x the beatified
+y dominations
+z the glorified
+vv the predestined
+
+--- Page 308 ---
+
+a subjecting
+b handing over
+c granting
+d delivering over
+e contributing
+f submitting
+g permitting
+h committing
+i commending
+k promising
+l dismissing
+m giving as a gift
+n giving
+o furnishing
+p deferring
+q offering
+r providing
+s conferring
+t granting
+v assigning
+x consigning
+y administering
+z ministering
+2v presenting
+
+a to your vows
+b to your merits
+c to your prayers
+d to your commands
+e to your mandates
+f to your orders
+g to your wishes
+h to your precepts
+i to your supplications
+k to your prayers
+l to your desires
+m by your precepts, all things
+n by your nods, the whole universe
+o to your counsels
+p to your protections
+q to your aids
+r to your intercessions
+s to your good pleasure
+t to your petitions
+v to your intercessions
+x to your assistances
+y to your interventions
+z to your patronage
+2v to your petitions
+
+--- Page 309 ---
+
+a We ask
+b greatest, purest
+c holiest
+d most pious
+e most modest
+f noblest
+g most beautiful
+h fairest
+i most innocent
+k most precious
+l most chaste
+m mildest
+n most dutiful
+o truest Virgin Mary, and in every respect most adorned
+p most renowned
+r most glorious
+s most merciful
+t most excellent
+v most splendid
+x most compassionate
+y most powerful
+z most benign
+20 sweetest
+
+[segment 61]
+--- Page 310 ---
+a praise b joy c sweetness d sweetness e refreshment f pleasantness g delight h empress i glorification k glorifier l exultation m exaltation n lady o queen p glory q glorying r loving one s adornment t adornress v directress x consoler y consolation z crown-giver 2v coronation
+a of the just b of the pious c of the upright d of the good e of the saints f of the angels g of the blessed h of the elect i of the humble k of believers l of the faithful m of all virtues, and n of all the blessed, and o of heavenly beings p of the apostles q of the martyrs r of the virgins s of the innocents t of the confessors v of the prophets x of the patriarchs y of worshipers of Christ z of Christians 2v of the Principalities
+--- Page 311 ---
+a pious b powerful c ready d willing e most worthy f most ready g most powerful h most tenderly pious i most pious k merciful l sweet m gentle n true o sure p only q sole r solid s firm t best v greatest x surest y truest z most loving 2v kindest
+a mother b parent c supporter d patroness e advocate f mediatrix g helper h promoter i preserver k defender l helper m trust n nourisher o hope p peace q salvation r healer s savioress t confidence v restorer x renewer y pitier z provider 2v refreshment b
+--- Page 312 ---
+a of the faithful b of the weak c of the poor d of mortals e of the living f of those who groan g of those who merit h of those who mourn i of believers k of penitents l of those who hope m of those who grieve n of exiles o of the needy p of those in exile q of the innocent r of those who invoke s of those who cry out t of those who request v of those who supplicate x of those who sigh y of the infirm z of the wretched 2v of those who weep
+a may you pray b may you entreat c may you supplicate d may you plead e may you request f may you press your request g may you intercede h may you intervene i may you appeal k may you speak between l may you speak forth m may you implore for us n may you speak for us o may you ask insistently p may you demand q may you ask r may you ask s may you seek t may you seek earnestly v may you pray x may you beseech y may you demand z may you urgently demand 2v may you stand by
+--- Page 313 ---
+a for the wretched b for poor wretches c for the sick d for the most wretched e for the pitiable f for the miserable g for the afflicted h for the unclean i for the useless k for the frail l for the vainest m for the weakest n for the desolate o for the abject p for the perishable q for the vicious r for the unjust s for the hateful t for the depraved v for the needy x for the vain y for the most depraved z for the most unjust 2v for the most abject
+a for creatures b for human beings c for [unclear] d for mortals e for sinners f for earthly beings g for worldly beings h for earth-born beings i for earthly beings k for exiles l for servants m for believers n for the orthodox o for household servants p for little servants q for Catholics r for Christians s for worshipers of Christ t for ecclesiastics v for pilgrims x for the poor y for carnal persons z for cloistered persons 2v for those in ministry b ij
+--- Page 314 ---
+a pious b just c great d best e greatest f most pious g gentlest h most tenderly pious i sweetest k almighty l all-powerful m everlasting n kindest o most merciful p most glorious q most indulgent r most powerful s immutable t immortal v invisible x eternal y glorious z everlasting 2v kind
+a emperor b redeemer c savior d liberator e founder f creator g maker h rescuer i Lord k judge l king m God n craftsman o author p father q helper r ruler s mover t protector v ruler x preserver y giver of life z governor 2v sanctifier
+--- Page 315 ---
+a our b of all collectively c of all d of the faithful e of the humble f of believers g of all universally h of the universe i of visible things k of mortals l of spirits m of souls, and when n of minds, and when o of the good p of the just q of the pious r of the saints s of the elect t of the meek v of the poor x of human beings y of the orthodox z of the living 2v of Christians
+a hour b little hour c instant d time e point f instant g severity h necessity i cruelty k anguish l necessity m bitterness n moment o disturbance p sadness q calamity r tribulation s disturbance t violence v pressure x groaning y sorrow z fear 2v dread b iij
+--- Page 316 ---
+a of death b of passing away c of going d of going out e of going away f of migrating g of emigrating h of going forth i of returning k of going forward l of migrating together m of transmigrating n of dissolution o of decease p of departing life q of being dissolved r of dying s of dying away t of departing v of withdrawing x of going away y of being resolved z of flying out 2v of flying away
+a to be present b to come c to be imminent d to stand by e to arrive f to bear down g to emerge h to burst in i to burst forth k to hasten l to rush in m has begun to press, then O n has begun to prevail, then O o to hurry p to press hard q to rise up r to arise s to draw near t to approach v to come near x to come very near y to trouble z to leap forth 2v to stand by
+
+[segment 62]
+--- Page 317 ---
+a most pious
+b most chaste
+c most gentle
+d most blessed
+e most pure
+f most sweet
+g most devout
+h most noble
+i most holy
+k most celebrated
+l most powerful
+m most beautiful
+n most kind
+o most merciful
+p most glorious
+q most splendid
+r most compassionate
+s most prudent
+t most worthy of worship
+v most fair
+x most renowned
+y most modest
+z most unblemished
+vv most illustrious
+
+a virgin
+b mother
+c parent
+d lady
+e patroness
+f advocate
+g helper
+h empress
+i helper
+k succorer
+l intercessor
+m spokeswoman for us
+n mediatrix for us
+o preserver
+p pitier
+q mediatrix
+r procuratrix
+s savioress
+t promoter
+v childbearing woman
+x Theotokos
+y nurse
+z woman
+vv queen
+b iiij
+
+--- Page 318 ---
+a pious
+b gentle
+c sweet
+d gracious
+e merciful
+f maternally
+g most piously
+h devotedly
+i graciously
+k faithfully
+l sweetly
+m mercifully
+n most gently
+o most sweetly
+p most devotedly
+q most faithfully
+r most graciously
+s kindly
+t personally
+v most kindly
+x steadfastly
+y cheerfully
+z wholesomely
+2v powerfully
+
+a be present
+b appear
+c may you appear
+d come to aid
+e may you come to aid
+f may you succor
+g do succor
+h succor
+i show favor
+k may you show favor
+l favor
+m may you be present
+n stand by
+o may you stand by
+p be before us
+q be before us
+r be present
+s have mercy
+t may you have mercy
+v have compassion
+x have mercy
+y may you be present
+z be present
+2v shine forth
+
+--- Page 319 ---
+a may we be damned
+b may we be condemned
+c may we be tortured
+d may we perish
+e may we be destroyed
+f may we be judged
+g may we be tormented
+h may we be afflicted
+i may we be associated
+k may we be reckoned
+l may we be assigned
+m may we be counted with
+n may we be cast down with
+o may we be cast down
+p may we be joined
+q may we be conjoined
+r may we be enrolled
+s may we be ascribed
+t may we be inscribed
+v may we be recorded
+x may we be numbered
+y may we be counted together
+z may we be snatched away
+zv may we be scourged
+
+a the impious
+b the unjust
+c the reprobate
+d the wicked
+e the iniquitous
+f the worst
+g apostates
+h the faithless
+i the depraved
+k unbelievers
+l infidels
+m demons
+n the most impious
+o the most unjust
+p the most wicked
+q the most criminal
+r the most iniquitous
+s the most perverse
+t the perverse
+v the desperate
+x the obstinate
+y the damned
+z evildoers
+zv the evil
+
+--- Page 320 ---
+a fearsome
+b dreadful
+c fearful
+d horrible
+e terrifying
+f severe
+g most severe
+h most rigorous
+i most horrible
+k most dreadful
+l most equitable
+m most just
+n future
+o equitable
+p just
+q certain
+r imminent
+s ordained
+t coming
+v most certain
+x infallible
+y inevitable
+z open
+vv manifest
+
+a of God
+b of Christ
+c of the Lord
+d of the creator
+e of the maker
+f of the savior
+g of the fashioner
+h of the redeemer
+i of the sanctifier
+k of the giver of life
+l of the ruler
+m of the emperor
+n of the governor
+o of the preserver
+p of the fabricator
+q of the sustainer
+r of the moderator
+s of the denoter
+t of the inspector
+v of the maker
+x of the rector
+y of the craftsman
+z of the king
+vv of the judge
+
+--- Page 321 ---
+a our
+b of the world
+c of all
+d of all together
+e of the universe
+f of the whole universe
+g of the omnipotent
+h of the all-powerful
+i of the omniscient
+k of the most just
+l of the most upright
+m at the judgment of the greatest
+n at the judgment of the best
+o of the highest
+p of the powerful
+q of the most equitable
+r of the most powerful
+s of the most wise
+t of the unchangeable
+v of the incomprehensible
+x of the uncircumscribable
+y of the undeceptive
+z of the infallible
+zv of the terrible
+
+a life
+b joy
+c sweetness
+d rest
+e glory
+f graciousness
+g pleasantness
+h delight
+i blessedness
+k enjoyment
+l brightness
+m peace with all
+n light with all
+o quiet
+p dwelling
+q habitation
+r felicity
+s jubilation
+t pleasure
+v tranquility
+x exultation
+y sublimity
+z glorification
+zv liberty
+
+--- Page 322 ---
+a with the saints
+b with the elect
+c with the good
+d with the just
+e with the apostles
+f with the angels
+g with the blessed
+h with the upright
+i with the happy
+k with the justified
+l with the sanctified
+m with the heaven-dwellers
+n with the glorious
+o with the pious
+p with the pure
+q with the faithful
+r with Christians
+s with worshipers of Christ
+t with the virtuous
+v with martyrs
+x with archangels
+y with evangelists
+z with confessors
+w with the predestined
+
+a eternal
+b everlasting
+c perpetual
+d unending
+e sempiternal
+f joyous
+g most pleasant
+h interminable
+i incomparable
+k unfading
+l indescribable
+m inestimable
+n light-flowing
+o ineffable
+p most beautiful
+q unceasing
+r boundless
+s infinite
+t promised
+v promised again
+x angelic
+y heavenly
+z celestial
+w divine
+
+--- Page 323 ---
+a Father
+b our
+c of all
+d of all together
+e of the universe
+f of the whole universe
+g of Christians
+h of worshipers of Christ
+i of those predestined
+k of the supercelestial ones
+l of all universally
+m of all generally
+n who are of our race
+o of human beings
+p of the just
+r of the good
+s of the gentle
+t of the faithful
+u of the saints
+x of believers
+y of angels
+z of spirits
+20 of the orthodox
+C
+
+[segment 63]
+--- Page 324 ---
+
+a you are
+b you are present
+c you live
+d you stand forth
+e you exist
+f you remain
+g you abide
+h you shine forth
+i you rule
+k you hold sovereignty
+l you triumph
+m you glitter
+n you command
+o you reign
+p you shine again
+q you shine
+r you sit
+s you reside
+t you gleam
+v you dwell
+x you glow
+y you shine
+z you grow bright
+2v you are glorified
+
+a in the heavens
+b in heaven
+c in the heights
+d in the high place
+e in the exalted place
+f in the exalted places
+g in the highest place
+h in the highest places
+i in the heavenly places
+k in all things
+l in all things universally
+m in the regions above
+n in the heavenly places
+o in heaven
+p in eternity
+q eternal
+r everlasting
+s perpetual
+t sempiternal
+v in eternity
+x in the most eminent place
+y in the most eminent places
+z in the supreme places
+
+--- Page 325 ---
+
+a may it be sanctified
+b may it be magnified
+c may it be glorified
+d may it be blessed
+e may it be honored
+f may it be exalted above all
+g may it be honored
+h may it be exalted
+i may it be praised
+k may it be feared
+l may it be loved
+m may it be loved
+n may it be adored
+o may it be worshiped
+p may it be invoked
+q may it be celebrated
+r may it be celebrated together
+s may it be praised together
+t may it be made bright
+v may it be blessed
+x may it be manifested
+y may it be enlarged
+z may it be acknowledged
+2v may it be known
+
+a name
+b name
+c kingdom
+d dominion
+e designation
+f footstool
+g diadem
+h scepter
+i counsel
+k utterance
+l ordinance
+m your ordinance
+n your mystery
+o address
+p testimony
+q gospel
+r surname
+s hiding place
+t surname
+v additional name
+x forename
+y pronoun
+z temple
+2v will
+c ij
+
+--- Page 326 ---
+
+a may it come
+b may it come together
+c may it arrive
+d may it come forth
+e may it be united
+f may it be gathered together
+g may it be magnified
+h may it be multiplied
+i may it be sanctified
+k may it be enlarged
+l may it be gathered
+m may it prosper
+n may it be broadened
+o may it be extended
+p may it be made peaceful
+q may it prevail
+r may it gain strength
+s may it be exalted
+t may it be increased
+v may it be strengthened
+x may it be confirmed
+y may it be fortified
+z may it grow
+2v may it come
+
+a kingdom
+b empire
+c dominion
+d ordinance
+e teaching
+f good pleasure
+g thing promised
+h established decree
+i promise
+k utterance
+l counsel
+m your word
+n your doctrine
+o sheepfold
+p work
+q pleasure
+r good pleasure
+s reward
+t protection
+v remedy
+x aid
+y dwelling place
+z testament
+2v sanctifying gift
+
+--- Page 327 ---
+
+a may it be done
+b may it please
+c may it be loved
+d may it be cherished
+e may it be fulfilled
+f may it be completed
+g may it be fully accomplished
+h may it be brought to perfection
+i may it prevail
+k may it make progress
+l may it be formed
+m may it command
+n may it reign
+o may it overcome
+p may it work
+q may it be completed
+r may it be exercised
+s may it rule
+t may it be observed
+v may it be preserved
+x may it be guarded
+y may it be manifested
+z may it be pleasing
+2v may it remain
+
+a will
+b institution
+c constitution
+d command
+e disposition
+f ordinance
+g consultation
+h providence
+i predestination
+k compassion
+l mercy
+m your mercy
+n your thought
+o intention
+p volition
+q mind
+r justice
+s law
+t justice
+v reverence
+x consolation
+y justification
+z sanctification
+2v illumination
+c iij
+
+--- Page 328 ---
+
+a as
+b just as
+c as
+d just as
+e together
+f equally
+g equally
+h as though
+i just as
+k insofar as
+l in what manner
+m in the likeness of
+n always
+o continually
+p constantly
+q equally
+r but
+s as
+t as
+v and
+x perfectly
+y similarly
+z perpetually
+2v continually
+
+a in heaven
+b in the heavens
+c among the heaven-dwellers
+d in the exalted places
+e in the heavenly places
+f in the regions above
+g in the highest places
+h in the supreme places
+i in the supercelestial places
+k in the supreme place
+l in the place above
+m in the exalted place and in
+n in the heights and in
+o in the high place
+p among the just
+q among the good
+r in the homeland
+s among the angels
+t among the blessed
+v in blessedness
+x among the most blessed
+y among the archangels
+z among the principalities
+2v in prayers
+
+--- Page 329 ---
+
+a on earth
+b on the lands
+c among those born of earth
+d among earthly things
+e among terrestrial things
+f among human beings
+g in pilgrimage
+h in pilgrimages
+i among those in exile
+k among sinners
+l among mortals
+m among worldly people
+n among human things
+o in the world
+p in the lowest places
+q in the lowest place
+r in the depths
+s in the lowest place
+t to us
+v in exile
+x to the fragile
+y to the faithful
+z to the living
+2v to those below
+
+a bread
+b sustenance
+c clothing
+d drink
+e garment
+f covering
+g nourishment
+h increase
+i raiment
+k victual
+l support
+m food
+n food
+o drink
+p mixture
+q food
+r adornment
+s advancement
+t consolation
+v aid
+x refreshment
+y nourishment
+z provision
+2v means of sustenance
+c iiij
+
+--- Page 330 ---
+
+a our
+b of the just
+c of the good
+d of the elect
+e of the saints
+f of the angels
+g of those above
+h of the supercelestial ones
+i of blessedness
+k of the innocent
+l of innocence
+m of goodness
+n of purity
+o of piety
+p of salvation
+q of peace
+r of life
+s of light
+t of justice
+v of virtue
+x of charity
+y of happiness
+z of sincerity
+2v of perfection
+
+a daily
+b necessary
+c sempiternal
+d prepared
+e perpetual
+f everlasting
+g eternal
+h desired
+i holy
+k pure
+l luminous
+m heavenly
+n life-giving
+o most healthful
+p most strong
+q most solid
+r most mighty
+s most sweet
+t magnificent
+u best
+z bright
+2v desired
+
+[segment 64]
+--- Page 331 ---
+a give
+b grant
+c forgive
+d concede
+e may you concede
+f do concede
+g bestow
+h may you bestow
+i do bestow
+k may you distribute
+l distribute
+m give generously
+n grant generously
+o provide
+p confer
+q offer
+r bring in
+s may you offer
+t may you plant
+v may you supply
+x do supply
+y grant
+z may you grant
+2v minister
+
+a to us
+b to the wretched
+c to the poor little ones
+d to the needy
+e to the faithful
+f to those in need
+g to the poor
+h to believers
+i to those who ask
+k to those who supplicate
+l to those who demand
+m to those who wait
+n to those who entreat
+o to those who await
+p to penitents
+q to the indigent
+r to mortals
+s to those who pray
+t to those who seek
+v to those who desire
+x to those who beseech
+y to those who implore
+z to those who request
+2v to those who ask
+
+--- Page 332 ---
+a today
+b on this day
+c on this day
+d daily
+e every day
+f continually
+g without ceasing
+h unceasingly
+i abundantly
+k sufficiently
+l mercifully
+m everlastingly
+n with compassion
+o perpetually
+p constantly
+q always
+r assiduously
+s most dutifully
+t richly
+v plentifully
+x providently
+y most lovingly
+z graciously
+2v gratefully
+
+a forgive
+b may you forgive
+c do forgive
+d may you remit
+e do remit
+f remit
+g pardon
+h may you pardon
+i cleanse
+k may you cleanse
+l may you wipe away
+m do wipe away for us
+n wipe away for us
+o release
+p may you release
+q forgive
+r may you forgive
+s do dissolve
+t may you dissolve
+v dissolve
+x take away
+y may you take away
+z do take away
+2v dissolve
+
+--- Page 333 ---
+a debts
+b crimes
+c offenses
+d crimes
+e wicked deeds
+f demerits
+g evil deeds
+h wrongdoings
+i sins
+k shameful deeds
+l sins
+m our hidden things
+n our vices
+o evils
+p perverse things
+q neglected things
+r things admitted
+s things committed
+t things passed over
+v past things
+x imperfect things
+y more hidden things
+z things perpetrated
+2v transgressions
+
+a as
+b just as
+c like
+d just like
+e because
+f as much as
+g insofar as
+h in what manner
+i since
+k as often as
+l whenever
+m as often as also we
+n just as also we
+o provided that
+p as soon as
+q indeed
+r certainly
+s when
+t while
+v who
+x as
+y that
+z if
+2v for
+
+--- Page 334 ---
+a we forgive
+b we remit
+c we pardon
+d we are reconciled
+e we suffer with
+f we forgive
+g we concede
+h we grieve with
+i we have mercy
+k we release
+l we loosen
+m we spare
+n we do
+o we act
+p we grant
+q we grant generously
+r we pray against
+s we condescend
+t we aid
+v we come to help
+x we do good
+y we consent
+z we show
+2v we display
+
+a debtors
+b those owing
+c those injuring
+d wrongdoers
+e those doing wrong
+f those insulting
+g detractors
+h those detracting
+i injurers
+k adversaries
+l opponents
+m our enemies, and may you not
+n our foes, and may you not
+o rivals
+p those opposed
+q haters
+r those harming
+s those injuring
+t persecutors
+v those lying in wait
+x slanderers
+y slanderers
+z pursuers
+2v offenders
+
+--- Page 335 ---
+a us
+b the pious
+c the righteous
+d the good
+e the meek
+f the faithful
+g the frail
+h human beings
+i the weak
+k the wretched
+l mortals
+m believers
+n those to be pitied
+o the pitiable
+p Christians
+q Christians
+r the gentle
+s the simple
+t the little ones
+v the humble
+x the lowly
+y the contrite
+z the fearful
+2v the weak
+
+a may you lead
+b you will have led in
+c you will have led away
+d may you lead to
+e do lead in
+f do lead to
+g may you lead through
+h do lead through
+i you will have led through
+k you will have led forth
+l do lead forth
+m may you lead forth into
+n may you lead together into
+o you will have led together
+p do lead together
+q do lead away
+r may you lead away
+s may you cast down
+t you will have led back
+v do lead back
+x may you lead back
+y may you lead in
+z you will have led in
+2v may you lead down
+
+--- Page 336 ---
+a temptation
+b temptations
+c trial
+d trials
+e trials
+f trial
+g ill will
+h alienation
+i apostasy
+k aversion
+l calamity
+m perversity, but
+n malice, but
+o sin
+p destruction
+q death
+r vanity
+s perdition
+t obstinacy
+v impenitence
+x pride
+y obstinacy
+z displeasure
+2v desolation
+
+a deliver
+b may you deliver
+c do deliver
+d relieve
+e may you relieve
+f do relieve
+g reserve
+h may you reserve
+i do preserve
+k may you preserve
+l preserve
+m do preserve
+n may you preserve
+o preserve
+p may we be preserved
+q may we be preserved
+r may we be reserved
+s may we be kept
+t may you guard
+v guard
+x may you preserve
+y preserve
+z defend
+2v redeem
+
+--- Page 337 ---
+a us
+b from evils
+c from sin
+d from sins
+e from malice
+f from evil deeds
+g from an evil deed
+h from evil deeds
+i from danger
+k from dangers
+l from perdition
+m from guilt
+n from diseases
+o from death
+p from guilt
+q from vices
+r from vice
+s from fault
+t from faults
+v from an offense
+x from crime
+z from a curse
+2v from curses
+
+d ij Amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen amen
+
+[segment 65]
+--- Page 338 ---
+
+a Hail
+b Be greeted
+c Hail
+d Be greeted
+ e May you be well
+f Rejoice
+ g May you rejoice
+h Rejoice
+ i Be glad
+k Applaud
+l May you applaud
+m Applaud
+n Rejoice greatly
+o May you rejoice greatly
+p Be greatly rejoiced
+q May you be gladdened
+r Be glad
+s May you exult
+t Exult
+v May you be well
+x Farewell
+y Farewell
+z Live
+2v May you live
+
+a Mary
+b Virgin
+c Queen
+d Lady
+e Childbearer
+f Empress
+g little Virgin
+h Mistress
+i Bearer of the Word
+k Theotokos
+l Parent
+m Mother
+n violet
+o rose
+p untouched one
+q inviolate one
+r Patroness
+s God-bearer
+t God-bearer
+v Advocate
+x incorrupt one
+y undefiled one
+z unstained one
+2v most gracious one
+
+--- Page 339 ---
+
+a with grace
+b with joy
+c with justice
+d with piety
+e with modesty
+f with chastity
+g with purity
+h with innocence
+i with charity
+k with holiness
+l with sanctity
+m with beauty
+n with blessings
+o with holiness
+p with integrity
+q with chastity
+r with virtues
+s with Spirit
+t with purity
+v with divinity
+x with mercy
+y with sweetness
+z with pleasantness
+2v with the Holy Spirit
+
+a full
+b filled
+c filled up
+d replete
+e adorned
+f richly adorned
+g embellished
+h most full
+i most replete
+k heaped up
+l most richly supplied
+m most fully heaped up
+n most abundant
+o most overflowing
+p most adorned
+q surrounded
+r exalted
+s sublime
+t most richly endowed
+v richly supplied
+x abounding
+y overflowing
+z suffused
+2v rich
+
+d iij
+
+--- Page 340 ---
+
+a the Lord
+b the Ruler
+c the Almighty
+d the All-powerful
+e the Most High in power
+f the Star-ruling One
+g the Thunderer on high
+h the Most High
+i the Exalted One
+k the Founder
+l the Creator
+m the Author is with you
+n the Maker is with you
+o God
+p Salvation
+q the Savior
+r the Greatest
+s the Supreme One
+t the Redeemer
+v the Ineffable One
+x the Unchangeable One
+y the Most Excellent One
+z the Incomprehensible One
+2v the Uncircumscribable One
+
+a blessed
+b most blessed
+c praiseworthy
+d venerable
+e most praised
+f most glorious
+g most honored
+h most reverend
+i most preeminent
+k most eminent
+l most powerful
+m most renowned, your
+n greatest, your
+o most devoted
+p most noble
+q most holy
+r most chaste
+s most beautiful
+t fairest
+v most excellent
+x most pious
+y most chaste
+z most gentle
+2v most adorned
+
+--- Page 341 ---
+
+a among women
+b among ladies
+c among virgins
+d among mothers
+e among women giving birth
+f among parents
+g among the continent
+h among women in labor
+i among principalities
+k among the supercelestial ones
+l among dominations
+m among powers
+n among virtues
+o among human beings
+p among angels
+q among the dwellers in heaven
+r among maidens
+s among the heavens
+t among those above
+v among the supernal ones
+x among the highest ones
+y among creatures
+z among heavenly beings
+2v forever
+
+a blessed
+b most blessed
+c most exalted
+d most praised
+e most noble
+f most renowned
+g most distinguished
+h most lovely
+i most glorious
+k most praiseworthy
+l most excellent
+m most gracious
+n most surpassingly excellent
+o most preeminent
+p most eminent
+q most powerful above all
+r most powerful
+s most sweet
+t most beautiful
+v most sweet
+x worthy of veneration
+y worthy of adoration
+z worthy of worship
+2v noble
+
+d iiij
+
+--- Page 342 ---
+
+a the fruit
+b the one conceived
+c the only-begotten
+d the only-begotten
+e the firstborn
+f the God-begotten
+g the heaven-born
+h Theotokos
+i the little child
+k the Lord
+l the one born
+m the Son
+n the child
+o the offspring
+p the infant
+q the little infant
+r the indweller
+s the preparer
+t the sanctifier
+v the fecundator
+x the illuminator
+y the preserver
+z the consecrator
+2v the glorifier
+
+a of your womb
+b of your belly
+c of your navel
+d of your stomach
+e of your dwelling place
+f of your workshop
+g of your shelter
+h of your tabernacle
+i of your little body
+k of your body
+l of your body
+m of your uterus
+n of your breast
+o of your belly
+p of your sanctuary
+q of your prison-house
+r of your seed
+s of your blood
+t of your blood
+v of your innermost part
+x of [unclear]
+y of your work
+z of your milk
+2v of your breast
+
+--- Page 343 ---
+
+a Jesus
+b God
+c Lord
+d Ruler
+e Emperor
+f Redeemer
+g Life-giver
+h Sanctifier
+i Justifier
+k Preserver
+l Maker
+m Governor
+n Moderator
+o Mediator
+p Savior
+q Maker
+r King
+s Judge
+t Ruler
+v Author
+x Liberator
+y Physician
+z Shaper
+2v Ordainer
+
+a Christ
+b the Best
+c the Greatest
+d the Exalted
+e the Glorious
+f the Most High
+g the Most Pious
+h the Almighty
+i the All-powerful
+k the Sweetest
+l the Most Merciful
+m the Most Gracious, amen
+n the Unchangeable, amen
+o the Magnificent
+p the Merciful
+q the Most Gentle
+r the Thunderer on high
+s worthy of worship
+t pious
+v gracious
+x most pious
+y worthy of adoration
+z most merciful
+2v incomprehensible
+
+--- Page 344 ---
+
+a Hail
+b Be greeted
+c May you be well
+d May you rejoice
+e Rejoice
+f Rejoice
+g May you be well
+h Farewell
+i Farewell
+k Be greeted
+l Be glad
+m May you be glad
+n Exult
+o Be exalted
+p Rejoice greatly
+q May you rejoice greatly
+r Applaud
+s Applaud
+t Live
+u May you live
+v Live
+
+a Queen
+b little Virgin
+c little Virgin
+d Empress
+e receptacle
+f dwelling
+g tabernacle
+h treasury
+i architriclinium
+k repository
+l inventory
+m restorer
+n restorer
+o mistress
+p fullness
+q lady
+r storehouse
+s well
+t ark
+u urn
+x garden
+y mother
+z little garden
+2v Hertzog August Bibliothek Wolfenbüttel Kodak Gray Scale © HAB http://diglib.hab.de/drucke/fb-128/start.htm?image=00350 NDS
+
+[segment 66]
+--- Page 345 ---
+
+a of mercy
+b of compassion
+c of virginity
+d of love
+e of clemency
+f of virtues
+g of piety
+h of virtue
+i of justice
+k of peace
+l of light
+m of joy
+n of grace
+o of glory
+p of love
+q of sweetness
+r of charity
+s of holiness
+t of indulgence
+v of innocence
+x of sanctity
+y of chastity
+z of purity
+2v of happiness
+
+a life
+b salvation
+c virtue
+d confidence
+e strength
+f assurance
+g mercy
+h vivification
+i preservation
+k renewer
+l preserver
+m sanctifier
+n justifier
+o sanctification
+p justification
+q exultation
+r crown
+s joy
+t happiness
+v crowning
+x exaltation
+y blessing
+z glorification
+2v protectress
+
+--- Page 346 ---
+
+a sweetness
+b pleasantness
+c delight
+d cheerfulness
+e charm
+f beauty
+g care
+h caretaker
+i tranquility
+k renewer
+l reformer
+m restorer, and m lover
+n restoration, and n rest
+o reformation
+p consoler
+q consolation
+r protection
+s jubilation
+t festivity
+v gladness
+x charity
+y helper
+z assistant
+2v promoter
+
+a hope
+b praise
+c piety
+d praise-giving
+e patroness
+f advocate
+g gladdening
+h she who gladdens
+i praise together
+k strengthener
+l compassionate one
+m lover
+n rest
+o repose
+p peace
+q light
+r mother
+s parent
+t devotion
+v relief
+x she who relieves
+y savioress
+z mediatrix
+2v intercessor
+
+--- Page 347 ---
+
+a our
+b ours
+c of the faithful
+d of the devout
+e of the humble
+f of believers
+g of Christ-worshipers
+h of Christians
+i of the infirm
+k of the penitent
+l of Catholics
+m of the orthodox
+n of those invoking you
+o of the wretched
+p of the poor
+q of the saints
+r of the just
+s of the good
+t of the pious
+v of the meek
+x of all
+y of everyone
+z of the whole world
+vv of mortals
+
+a Hail
+b dear one
+c Hail
+d May you be well
+e Rejoice
+f May you rejoice
+g May you rejoice together
+h Rejoice together
+i Rejoice together
+k Rejoice
+l Be glad
+m Exult. To you
+n May you be glad. To you
+o Hail
+p Hail
+q Farewell
+r Live
+s May you live
+t Live
+v Farewell
+x May you be well
+y Applaud
+z Applaud
+vv May you applaud
+c
+
+--- Page 348 ---
+
+a we cry out
+b we call aloud
+c we declaim
+d we exclaim
+e we cry out together
+f we call upon
+g we call out from below
+h we proclaim
+i we cry back
+k we cry out insistently
+l we appeal
+m we summon
+n we flee for refuge
+o we take refuge
+p we flee
+q we run
+r we run back
+s we run together
+t we run to meet
+v we run through
+x we shout aloud
+y we hurry
+z we hasten
+vv we strive
+
+a exiles
+b wretched
+c fragile
+d poor
+e poor little ones
+f mortals
+g wandering in exile
+h sordid little ones
+i most wretched
+k pitiable
+l poorest
+m most unhappy
+n weakest
+o infirm
+p pilgrims
+q most unclean
+r most desolate
+s most abject
+t unclean
+v sorrowful
+x weak
+y unhappy
+z useless
+vv sordid
+
+--- Page 349 ---
+
+a children
+b offspring
+c boys
+d little sons
+e little boys
+f begotten ones
+g begotten ones
+h descendants
+i those brought forth
+k little branches
+l little men
+m human beings
+n followers
+o later-born ones
+p servants
+q branches
+r descendants
+s those left behind
+t little servants
+v infants
+x little infants
+y conceived ones
+z survivors
+vv generated ones
+
+a of Eve
+b of Adam
+c of earth
+d of the ground
+e of Adam
+f of death
+g of grief
+h of error
+i of sadness
+k of vanity
+l of the first-formed man
+m of Adam’s perdition
+n of Adam’s displeasure
+o of denial
+p of concupiscence
+q of curse
+r of indignation
+s of transgression
+t of wrath
+v of strife
+x of pride
+y of sin
+z of injustice
+vv of rejection
+e ij
+
+--- Page 350 ---
+
+a we sigh
+b we pant
+c we breathe again
+d we aspire
+e we rise up
+f we rise together
+g we long for
+h we rise again
+i we desire
+k we choose
+l we look upon
+m we look back
+n we behold
+o we look up
+p we greatly desire
+q we look ahead
+r we set out
+s we desire
+t we covet
+v we strive
+x we think
+y we keep watch
+z we hasten
+2v we are moved
+
+a groaning
+b groaning inwardly
+c groaning together
+d lamenting
+e groaning inwardly
+f groaning together
+g groaning deeply
+h weeping
+i lamenting
+k wailing
+l weeping
+m entreating, and
+n beseeching, and
+o praying
+p asking
+q adoring
+r asking earnestly
+s troubled
+t dismayed
+v disturbed
+x humbled
+y desolate
+z cast down
+2v afflicted
+
+--- Page 351 ---
+
+a weeping
+b thirsting
+c praying
+d beseeching
+e requesting
+f demanding
+g lamenting
+h mourning
+i imploring
+k waiting
+l awaiting
+m mourning
+n hungering
+o asking
+p demanding
+q requesting
+r grieving deeply
+s mourning greatly
+t wandering in exile
+u wailing
+x urgently demanding
+y importuning
+z wandering as pilgrims
+2v struggling
+
+a of tears
+b of weeping
+c of lamentations
+d of hardships
+e of calamities
+f of bitterness
+g of sorrows
+h of infirmities
+i of miseries
+k of mortality
+l of poverty
+m of corruption
+n of groans
+o of desolation
+p of weeping
+q of disturbance
+r of deception
+s of impiety
+t of vanity
+u of grief
+v of death
+z of depravity
+of disturbance
+of darkness
+e iij
+
+[segment 67]
+--- Page 352 ---
+
+a valley
+b hollow valley
+c cavern
+d little cavern
+e dwelling
+f habitation
+g obscurity
+h thickness
+i depth
+k roughness
+l density
+m exile
+n captivity
+o capture
+p shadow
+q delay
+r pit
+s way
+t land
+v house
+x little delay
+y brevity
+z path
+2v cave
+
+a Ah
+b Now
+c Now
+d Just now
+e Always
+f Continually
+g Constantly
+h Continuously
+i Cheerfully
+k Unceasingly
+l Without end
+m Therefore we ask
+n Therefore we seek
+o We ask
+p We pray
+q On account of this
+r For this reason
+s But
+t Yet
+v And
+x Ah
+y And so
+z We pray
+2v We beseech
+
+--- Page 353 ---
+
+a advocate
+b lady
+c patroness
+d parent
+e mother
+f nurse
+g fosterer
+h favorer
+i lover
+k consoler
+l pitier
+m defender
+n preserver
+o illuminator
+p intercessor
+q refresher
+r helper
+s confidence
+t empress
+v mistress
+x helper
+y promoter
+z protectress
+zv mediatrix
+
+a our
+b of the good
+c of the pious
+d of the just
+e of the faithful
+f of the saints
+g of the humble
+h of the wretched
+i of the frail
+k of the poor
+l of all
+m of the weak, those yours
+n of the needy, those yours
+o of mortals
+p of the orthodox
+q of penitents
+r of believers
+s of those deserving
+t of those groaning
+v of those mourning
+x of those lamenting
+y of those weeping
+z of Christians
+zv of Christ-worshippers
+
+e iiij
+
+--- Page 354 ---
+
+a merciful
+b dove-like
+c sweetest
+d beautiful
+e fair
+f modest
+g bright
+h ruddy
+i clear
+k gentle
+l chaste
+m pure
+n most excellent
+o placid
+p most chaste
+q most clear
+r fairest
+s most beautiful
+t most kind
+v most merciful
+x most simple
+y most modest
+z most pious
+2v most clement
+
+a eyes
+b little eyes
+c nods
+d gazes
+e looks
+f glances
+g fixed gazes
+h sights
+i eyes
+k supplications
+l interventions
+m embraces toward
+n supplications toward
+o embraces
+p inspections
+q thoughts
+r prayers
+s regards
+t steps
+v manners
+x movements
+y sights
+z addresses
+2v senses
+
+--- Page 355 ---
+
+a us
+b our own
+c the faithful
+d the weak
+e all
+f everyone
+g all without exception
+h human beings
+i believers
+k the orthodox
+l the feeble
+m those supplicating
+n those beseeching
+o the pitiable
+p those requesting
+q penitents
+r Christ-worshippers
+s Christians
+t the contrite
+v the wretched
+x the humble
+y those groaning
+z the frail
+2v mortals
+
+a turn
+b may you turn
+c do turn
+d turn
+e may you turn
+f turn
+g lead back
+h may you lead back
+i do lead back
+k incline
+l may you incline
+m incline
+n bend down
+o may you bend down
+p do bend down
+q bend
+r may you bend
+s turn back
+t may you turn back
+v may you raise up
+x raise up
+y spread out
+z may you offer
+2v may you confer
+
+--- Page 356 ---
+
+a Jesus
+b Christ
+c Lord
+d Savior
+e Redeemer
+f Life-giver
+g Sanctifier
+h Justifier
+i Mediator
+k Founder
+l Creator
+m Author
+n Maker
+o Judge
+p God
+q Ruler
+r Shepherd
+s Physician
+t Pitier
+v Consoler
+x Fashioner
+y Governor
+z Preserver
+vv Illuminator
+
+a blessed
+b best
+c greatest
+d venerable
+e praiseworthy
+f supercelestial
+g most highly blessed
+h most holy
+i most noble
+k sweetest
+l glorious
+m most pious
+n most gentle
+o noble
+p heavenly
+q saving
+r health-bringing
+s most sweet
+t most wholesome
+v most sacred
+x most excellent
+y most exalted
+z most glorious
+vv most merciful
+
+--- Page 357 ---
+
+a fruit
+b offspring
+c conception
+d begotten one
+e only-begotten one
+f sole-begotten one
+g firstborn
+h ever-begotten one
+i alone-begotten one
+k well-begotten one
+l heaven-begotten one
+m God-begotten one
+n ever-born one
+o sanctifier
+p inhabitant
+q preparer
+r little infant
+s little boy
+t little son
+v son
+x boy
+y infant
+z born one
+vv one received
+
+a of the womb
+b of the body
+c of the body
+d of the navel
+e of the belly
+f of the dwelling-place
+g of the little body
+h of the workshop
+i of the little workshop
+k of the race
+l of the belly
+m of your sanctuary
+n of your breast
+o of the uterus
+p of the belly
+q of the blood
+r of the [unclear]
+s of the little shade
+t of the tabernacle
+v of the blood
+x of nourishment
+y of childbirth
+z of seed
+vv of birth
+
+--- Page 358 ---
+
+a for us
+b for us wretched ones
+c for us poor little wretches
+d for us who pray
+e for us who desire
+f for us who entreat
+g for us who greatly desire
+h for us who demand
+i for us who request
+k for us who believe
+l for us who seek
+m for us who long
+n for us infirm ones
+o for us devout ones
+p for us just ones
+q for us good ones
+r for us pious ones
+s for us holy ones
+t for us afflicted ones
+v for us desolate ones
+x for us contrite ones
+y for us humble ones
+z for us penitent ones
+20 for us Christians
+
+a exile
+b span
+c struggle
+d sighing
+e breathing-space
+f disturbance
+g little prison
+h prison-workshop
+i exercise
+k interval
+l momentary thing
+m little shade
+n dwelling-place
+o little body
+p spectacle
+q moment
+r dream
+s age
+t a little while
+v time
+x instant
+y weariness
+z little interval
+20 dead little body
+
+[segment 68]
+--- Page 359 ---
+a show                 a clement
+b show                 b gentle
+c may you show         c most gentle
+d display              d most chaste
+e may you display      e chaste
+f display              f modest
+g demonstrate          g most modest
+h may you demonstrate  h most clement
+i demonstrate          i most beautiful
+k may you present      k most splendid
+l present              l merciful
+m present              m beautiful
+n give                 n fair
+o give                 o noble
+p give                 p most noble
+q grant                q most excellent
+r may you grant        r bright
+s grant                s most bright
+t bestow               t merciful
+v provide              v most celebrated
+x may you provide      x most beautiful
+y provide              y most powerful
+z bestow               z most mighty
+2v may you concede     2v mighty
+
+--- Page 360 ---
+a pious
+b bright
+c good
+d sacred
+e most pious
+f most dutiful
+g most bright
+h renowned
+i most renowned
+k most sacred
+l most holy
+m holy
+n blessed
+o illustrious
+p most lofty
+q lofty
+r excellent
+s most blessed
+t blessed
+v virtuous
+x most virtuous
+y most serene
+z most favorable
+2v sweetest
+
+a sweet
+b happy
+c pure
+d lovely
+e gracious
+f outstanding
+g excellent
+h glorious
+i sweetest
+k happiest
+l purest
+m most lofty, pray, Mary
+n illustrious, give, Mary
+o honey-flowing
+p fruitful
+q deifying
+r innocent
+s most innocent
+t venerable
+v honorable
+x inviolate
+y unstained
+z most glorious
+2v most kind
+
+--- Page 361 ---
+a Hail
+b Be hailed
+c May you be hailed
+d Be exalted
+e May you rejoice
+f Rejoice
+g Rejoice
+h Be glad
+i Farewell
+k May you fare well
+l Farewell
+m Hail
+n Ah
+o Live
+p May you live
+q Live
+r Exult
+s Applaud
+t Applaud
+v May you applaud
+x Rejoice long
+y May you rejoice long
+z Congratulate
+2v Rejoice long
+
+a of Christ
+b of the Lord
+c of the author
+d of the creator
+e of the founder
+f of the savior
+g of the redeemer
+h of the fashioner
+i of the life-giver
+k of the emperor
+l of the mediator
+m grandmother of Jesus Christ
+n grandmother of salvation
+o of virtue
+p of piety
+q of purity
+r of truth
+s of deity
+t of divinity
+v of the Thunderer on high
+x of the Almighty
+y of the All-powerful
+z of the highest king
+2v of the heavenly king
+f ij
+
+--- Page 362 ---
+a mother
+b parent
+c lady
+d patroness
+e advocate
+f promoter
+g consoler
+h preserver
+i intervener
+k helper
+l reconciler
+m procurer
+n refresher
+o reliever
+p lover
+q beloved
+r favorer
+s nurse
+t guardian
+v protectress
+x liberator
+y defender
+z helper
+2v assistant
+
+a of the faithful
+b of the humble
+c of believers
+d of the afflicted
+e of the desolate
+f of exiles
+g of the shipwrecked
+h of those weeping
+i of those lamenting
+k of those groaning
+l of those mourning
+m Anna of those weeping
+n Anna of the gentle
+o of exiles
+p of the needy
+q of the deserving
+r of those grieving
+s of the poor
+t of the wretched
+v of the pitiable
+x of the infirm
+y of Christians
+z of worshippers of Christ
+2v of mortals
+
+--- Page 363 ---
+a most holy: a God
+b most powerful: b light
+c most ready: c column
+d most kind: d exemplar
+e most clement: e protection
+f most excellent: f refuge
+g most merciful: g place of refuge
+h most excellent: h example
+i most glorious: i place of flight
+k most precious: k ornament
+l most dutiful: l mirror
+m sweetest: m consolation
+n gentlest: n asylum
+o most pious: o norm
+p best: p form
+q exceptional: q lamp
+r outstanding: r crown
+s greatest: s rule
+t most renowned: t institution
+v humblest: v teaching
+x most faithful: x edification
+y most just: y instructress
+z most renowned: z empress
+2v radiant: 2v guide
+f ij
+
+--- Page 364 ---
+a of brides
+b of women
+c of women
+d of ladies
+e of matrons
+f of married women
+g of married women
+h of those bearing children
+i of those in labor
+k of those giving birth
+l of parents
+m of all mothers
+n of all the pious
+o of the just
+p of widows
+q of the noble
+r of those nursing
+s of women in childbed
+t of those conceiving
+v of the continent
+x of those marrying
+y of mortals
+z of spouses
+2v of mistresses
+
+a pray
+b pray earnestly
+c supplicate
+d intercede
+e intervene
+f may you intervene
+g may you intercede
+h may you demand
+i demand
+k ask
+l ask
+m ask on behalf of
+n pray on behalf of
+o pray
+p beseech
+q demand
+r may you demand
+s implore
+t appeal
+v may you appeal
+x appeal
+y may you entreat
+z entreat
+2v request urgently
+
+--- Page 365 ---
+a for us                 b wretched
+b for the crowds          c poor wretches
+c for the peoples         d faithful
+d for the common people   e humble
+e for the nations         f orthodox
+f for the peoples         g Christians
+g for priests             h believers
+h for princes             i worshippers of Christ
+i for emperors            k ecclesiastics
+k for cloistered persons  l Catholics
+l for monastics           m Europeans
+m for ministers           n Germans
+n for little people       o Alemanni
+o for lordships           p Teutons
+p for rulers              q lovers of truth
+q lovers of the Lord
+r for pastors             s lovers of faith
+s for abbots              t penitents
+t for prelates            v all
+v for subjects            x everyone
+x for kings               z contrite persons
+z for monks               2v compunct persons
+f iiij
+
+[segment 69]
+--- Page 366 ---
+
+a God
+b king
+c judge
+d lord
+e ruler
+f creator
+g maker
+h fashioner
+i builder
+k governor
+l preserver
+m sanctifier
+n enlightener
+o glorifier
+p illuminator
+q life-giver
+r moderator
+s redeemer
+t monarch
+v savior
+x liberator
+y beatifier
+z maker
+2v author
+
+a of heaven
+b of the world
+c of the world
+d of the faithful
+e of the heavens
+f of spirits
+g of souls
+h of minds
+i of angels
+k of archangels
+l of the universe
+m of all things, who you
+n of Christ-worshippers, who you
+o of Christians
+p of principalities
+q of the supercelestial
+r of men
+s of the heavenly
+t of all
+v of all persons
+x of the humble
+y of believers
+z of the orthodox
+2v of mortals
+
+--- Page 367 ---
+
+a willed
+b made
+c brought about
+d established
+e placed
+f constituted
+g ordained
+h preordained
+i confirmed
+k foreknew
+l predisposed
+m disposed to be
+n appointed to be
+o consecrated
+p created
+q founded
+r preferred
+s brought forth
+t exalted
+v took up
+x assumed
+y foreknew
+z consented
+w predestined
+
+a powerful
+b great
+c greatest
+d sublime
+e glorious
+f distinguished
+g exalted
+h excellent
+i preeminent
+k surpassing
+l eminent
+m most renowned in
+n most radiant in
+o honorific
+p honorable
+q most powerful
+r most glorious
+s most excellent
+t most surpassing
+v most preeminent
+x most eminent
+y most noble
+z most worthy
+w most adorned
+
+--- Page 368 ---
+
+a in the kingdom
+b in the palace
+c in joy
+d in empire
+e in dominion
+f in the dwelling
+g in the tabernacle
+h in the habitation
+i in the receptacle
+k in the abode
+l in exultation
+m in the sanctuary
+n in the inheritance
+o in the mansion
+p in the principality
+q in the consistory
+r in solemnity
+s in pleasantness
+t in rejoicing
+v in the house
+x in gladness
+y in the hall
+z in the buildings
+2v in the midst
+
+a of the heavens
+b of the blessed
+c of the elect
+d of the just
+e of the heavenly
+f of the saints
+g of the angels
+h of divinity
+i of the things above
+k of blessedness
+l of delightfulness
+m of perpetuity. Amen.
+n of eternity. Let it be.
+o of felicity
+p of deity
+q of piety
+r of quiet
+s of peace
+t of light
+v of the heavenly realm
+x of the pious
+y of the good
+z of fruition
+2v of tranquility
+
+--- Page 369 ---
+
+With the help of our Lord Jesus Christ, savior of faithful souls, who lives in the sacred triad of unity with the Father and the Holy Spirit, threefold in persons and one God in substance, incomprehensible, almighty, and eternal; from whom, in whom, and through whom every good, beautiful, and true thing proceeds, we have brought this second book of the Polygraphia to its end. To him be praise, honor, virtue, and glory, who through the innocence of his death freed our race from the ruin of eternal perdition, and by perpetual mercy opened again the entrance to eternal life for all who believe in him with a pure conscience. We have set down, line by line, three hundred and eight paraphrasmata, deliberately avoiding a more extended wandering digression. For at the beginning of this work it seemed enough to us if we gave those who wished it a reason for seeking further things, since both time and method for them failed us.
+
+Farewell, friendly reader. From Peapoli, on the penultimate day of the month of February, in the year of the Lord one thousand five hundred and eight.
+
+THE SECOND BOOK OF THE POLYGRAPHIA OF JOHANNES TRITHEMIUS, ABBOT, IS BROUGHT TO ITS END.
+
+--- Page 370 ---
+
+THE THIRD BOOK OF THE POLYGRAPHIA OF JOHANNES TRITHEMIUS, ABBOT OF PEAPOLI, OF THE ORDER OF SAINT BENEDICT, BEGINS.
+
+What confused the unity of language at the beginning of human creation? Was it not the division of bodies and the variety of minds? For, as Truth declares in the Gospel: out of the abundance of the heart the mouth speaks. For the tongue is the instrument for bringing outward those conceptions which the mind has thought within itself. Yet there are several modes of this ministry of the soul’s secrets to the senses, and their properties vary both by usage and by art. Usage, introduced at pleasure, is common to many; art, however, to few. Finally, no one will quickly judge how varied even the unregulated usage of speech has become among the Teutons alone in six hundred years, unless he has often reread Otfrid, the monk of Weissenburg, in his poems in the German language. The sea ebbs and flows, but men, once dying, do not return again to the present life. Customs succeed customs, and the vigor of mortal minds always declines toward softer things. Who today among the Germans, those ancient imitators of the Greeks, retains knowledge of the old idioms? In chronicles and old histories of the Franks, Hunibald, Doracus, and the other writers who preceded us by a thousand years mixed into their compositions many sayings in the old poetry and prose of the Teutonic language, which today are understood by few. Why do I speak of ancient times, when our own idiom among the Eastern Franks, Swabians, Bavarians, Rhinelanders, Mosellans, Cologne people, Saxons, and Thuringians undergoes notable variation every day? Things are changed in time-
+
+[segment 70]
+--- Page 371 ---
+
+Over time people are changed, and customs are varied; minds are changed, and clothing too is varied. The simplicity of languages is altered, the old character of idioms is varied, and nothing stable is found in human affairs. For there is a succession of all things, and variety succeeds the simplicity of minds. Who will be able to bring this perpetual flowing away, so to speak, back to the harmony of unity? For, as Scripture says, many times pass away, and knowledge will be manifold.
+
+That we add a third book to the two preceding books of the *Polygraphia* has not lacked a special reason. For since human wills are varied, multiple methods are rightly given for honorable operations. In the former, day illuminates night; in the latter, however, day is empty of light. There light carries shadow around in light; here, however, a blind man illuminates the blind, and, existing and remaining without eyes, supplies to the darkness a sight which he does not have. Here night clouds day with perpetual mist, and, walking in darkness without light, gives guidance to the blind.
+
+These paraphrases serve all people throughout the world, and in every language they transmit any secret whatsoever safely, securely, and without danger to the cabalistic binary. Latinity provokes laughter among barbarians, and barbarism itself creates suspicion among Latin speakers. Yet it matters little or nothing, since, however great the suspicion may be, it will nevertheless contain every most secret mystery. Let the diligent operator recall to mind the rules and precepts that we have handed down, lest he labor uselessly and in vain for himself and for others. For understanding is needed, without which the usefulness of no art will stand. We have shown in a few words the path to the greatest things, and by finite things we have given a method for infinite things. From what has been given and received, greater things are easily prepared for friends. Reader, remember that the retrograde mark can be affixed in every place until you attain the rest you desire. Farewell. From Peapolis, on the first day of March, in the year of the Lord 1508.
+
+--- Page 372 ---
+
+| 1 |  |  |  |
+|---:|---|---|---|
+| a | Abra | a mada | a badar | 1 |
+| b | Abre | b made | b bader | 2 |
+| c | Abri | c medi | c badir | 3 |
+| d | Abro | d mado | d bador | 4 |
+| e | Abru | e madu | e badur | 5 |
+| f | Abras | f madas | f badan | 6 |
+| g | Abres | g mades | g baden | 7 |
+| h | Abris | h madis | h badin | 8 |
+| i | Abros | i mados | i badon | 9 |
+| k | Abrus | k madus | k badun | 10 |
+| l | Abran | l madan | l badas | 11 |
+| m | Abren | m maden | m bades | 12 |
+| n | Abrin | n madin | n badis | 13 |
+| o | Abron | o madon | o bados | 14 |
+| p | Abrun | p madun | p badus | 15 |
+| q | Abral | q madal | q badal | 16 |
+| r | Abrel | r madel | r badel | 17 |
+| s | Abril | s madil | s badil | 18 |
+| t | Abrol | t madol | t badol | 19 |
+| v | Abrul | v madul | v badul | 20 |
+| x | Abrax | x madax | x badax | 21 |
+| y | Abrex | y madex | y badex | 22 |
+| z | Abrix | z madix | z badix | 23 |
+| zv | Abrox | zv madox | zv badox | 24 |
+
+--- Page 373 ---
+
+|  |  |  |  |
+|---|---|---|---|
+| a cadalan | b cadeien | c cadilin | d cadolon |
+| e cadulun | f cadalas | g cadeles | h cadilis |
+| i cadolos | k cadulus | l cadalap | m cadelep |
+| n cadilip | o cadolop | p cadulup | q cadalar |
+| r cadeier | s cadilir | t cadolow | v cadulur |
+| x cadalax | y cadelex | z cadilix | 21 |
+
+|  |  |  |  |
+|---|---|---|---|
+| a pasa | b pase | c pasi | d paso |
+| e pasu | f pasan | g pasen | h pasin |
+| i pason | k pasun | l pasas | m pases |
+| n pasis | o pasos | p pasus | q pasal |
+| r pasel | s pasil | t pasol | u pasul |
+| v pasar | x pasir | y pasor | z pasor |
+| 24 |  |  |  |
+
+|  |  |  |  |
+|---|---|---|---|
+| a adam | b adem | c adim | d adom |
+| e adum | f adas | g ades | h adis |
+| i ados | k adus | l adan | m aden |
+| n adin | o adon | p adun | q adar |
+| r ader | s adir | t ador | v adur |
+| x adel | y adel | z adil | 26 |
+
+27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48
+
+G ij
+
+[segment 71]
+--- Page 374 ---
+
+a lora        a masara       a dama        49
+b lore        b masare       b dame        50
+c lori        c masari       c dami        51
+d loro        d masaro       d damo        52
+e loru        e masaru       e damu        53
+f loraff      f masarat      f damal       54
+g loreff      g masaret      g damel       55
+h loriff      h masarit      h damil       56
+i loroff      i masarot      i damol       57
+k loruff      k masarut      k damul       58
+l loras       l masaran      l daman       59
+m lores       m masaren      m damen       60
+n loris       n masarin      n damin       61
+o loros       o masaron      o damon       62
+p lorus       p masarun      p damun       63
+q loran       q masaras      q damas       64
+r loren       r masares      r dames       65
+s lorin       s masaris      s damis       66
+t loron       t masaros      t damos       67
+v lorun       v masarus      v damus       68
+x lorat       x masaral      x damar       69
+y loret       y masarel      y damer       70
+z lorit       z masaril      z damir       71
+2v lorot      2v masarol     2v damoz      72
+
+--- Page 375 ---
+
+1            2            3
+
+a boda       a oma        a droma      73
+b bode       b ome        b drome      74
+c bodi       c omi        c dromi      75
+d bodo       d omo        d dromo      76
+e bodu       e omu        e dromu      77
+f bodal      f omas       f dromas     78
+g bodel      g omes       g dromes     79
+h bodil      h omis       h dromis     80
+i bodol      i omos       i dromos     81
+k bodul      k omus       k dromus     82
+l bodar      l oman       l droman     83
+m boder      m omen       m dromen     84
+n bodir      n omin       n dromin     85
+o bodor      o omon       o dromon     86
+p bodur      p omun       p dromun     87
+q bodan      q omar       q dromat     88
+r boden      r omer       r dromet     89
+s bodin      s omir       s dromit     90
+t bodon      t omor       t dromot     91
+v bodun      v omur       v dromut     92
+x bodas      x omal       x dromal     93
+y bodes      y omel       y dromel     94
+z bodis      z omil       z dromil     95
+2v bodos     2v omol      2v dromol    96
+
+g iij
+
+--- Page 376 ---
+
+1            2            3
+
+a oza        a vara       a mastra     97
+b oze        b vare       b mastre     98
+c ozi        c vari       c mastri     99
+d ozo        d varo       d mastro     100
+e ozu        e varu       e mastru     101
+f ozan       f varan      f mastran    102
+g ozen       g varen      g mastren    103
+h ozin       h varin      h mastrin    104
+i ozon       i varon      i mastron    105
+k ozun       k varun      k mastrun    106
+l ozal       l varal      l mastral    107
+m ozel       m varel      m mastrel    108
+n ozil       n varil      n mastril    109
+o ozol       o varol      o mastrol    110
+p ozul       p varul      p mastrul    111
+q ozas       q varas      q mastras    112
+r ozes       r vares      r mastres    113
+s ozis       s varis      s mastris    114
+t ozos       t varos      t mastros    115
+v ozus       v varus      v mastrus    116
+x ozat       x varax      x mastraff   117
+y ozet       y varex      y mastref    118
+z ozit       z varix      z mastrif    119
+2v ozot      2v varox     2v mastrof   120
+
+--- Page 377 ---
+
+1            2            3
+
+a pha        a lara       a meda       121
+b phe        b lare       b mede       122
+c phi        c lari       c medi       123
+d pho        d laro       d medo       124
+e phu        e laru       e medu       125
+f phan       f laran      f medar      126
+g phen       g laren      g meder      127
+h phin       h larin      h medir      128
+i phon       i laron      i medor      129
+k phun       k larun      k medur      130
+l phal       l laras      l medan      131
+m phel       m lares      m meden      132
+n phil       n laris      n medin      133
+o phol       o laros      o medon      134
+p phul       p larus      p medun      135
+q phas       q larat      q medas      136
+r phes       r laret      r medes      137
+s phis       s larit      s medis      138
+t phos       t larot      t medos      139
+v phus       v larut      v medus      140
+x phar       x laral      x medal      141
+y pher       y larel      y medel      142
+z phir       z laril      z medil      143
+2v phor      2v larol     2v medol     144
+
+g iiij
+
+--- Page 378 ---
+
+a raffa      a madeba     a thara      145
+b raffe      b madebe     b thare      146
+c raffi      c madebi     c thari      147
+d raffo      d madebo     d tharo      148
+e raffu      e madebu     e tharu      149
+f raffan     f madebar    f tharal     150
+g raffen     g madeber    g tharel     151
+h raffin     h madebir    h tharil     152
+i raffon     i madebor    i tharol     153
+k raffun     k madebur    k tharul     154
+l raffal     l madebal    l tharan     155
+m raffel     m madebel    m tharen     156
+n raffil     n madebil    n tharin     157
+o raffol     o madebol    o tharon     158
+p rafful     p madebul    p tharun     159
+q raffat     q madebas    q tharas     160
+r raffet     r madebes    r thares     161
+s raffit     s madebis    s tharis     162
+t raffot     t madebos    t tharos     163
+v raffut     v madebus    v tharus     164
+x raffar     x madebam    x tharat     165
+y raffer     y madebem    y tharet     166
+z raffir     z madebin    z tharit     167
+2v raffor    2v madebo    2v tharot    168
+
+--- Page 379 ---
+
+a mesa       a baia       a phosa      169
+b mese       b baie       b phose      170
+c mesi       c baij       c phosi      171
+d meso       d baio       d phoso      172
+e mesu       e bau        e phosu      173
+f mesal      f baias      f phosan     174
+g mesel      g baies      g phosen     175
+h mesil      h baijs      h phosin     176
+i mesol      i baios      i phoson     177
+k mesul      k baius      k phosun     178
+l mesar      l baial      l phosar     179
+m meser      m baiel      m phoser     180
+n mesir      n bail       n phosir     181
+o mesor      o baiol      o phosor     182
+p mesur      p baiul      p phosur     183
+q mesan      q baian      q phosal     184
+r mesen      r baien      r phosel     185
+s mesin      s baijn      s phosil     186
+t meson      t baion      t phosol     187
+v mesun      v baiun      v phosul     188
+x mesas      x baiat      x phosat     189
+y meses      y baiet      y phoset     190
+z mesis      z baijt      z phosit     191
+2v mesos     2v baiot     2v phosot    192
+
+[segment 72]
+--- Page 380 ---
+
+a gala; a prosa; A fanax: 193
+b gale; b prose; B fanex: 194
+c gali; c prosi; C fanix: 195
+d galo; d proso; D fanox: 196
+e galu; e prosu; E fana: 197
+f galan; f prosal; F fane: 198
+g galen; g prosel; G fani: 199
+h galin; h prosil; H fano: 200
+i galon; i prosol; I fanu: 201
+k galun; k prosul; J fanat: 202
+l galar; l prosan; K fanit: 203
+m galer; m prosen; L fanot: 204
+n galir; n prosin; M fanut: 205
+o galor; o proson; N fanas: 206
+p galur; p prosim; O fanos: 207
+q galas; q prosar; P fanus: 208
+r gales; r proser; Q fanar: 209
+s galis; s prosir; R faner: 210
+t galos; t prosor; S fanir: 211
+v galus; v prosur; T fanor: 212
+x galex; x prosat; V fanur: 213
+y galix; y proset; X fanux: 214
+z gvgalox; z prosit; Y fanex: 215
+Z fanix: 216
+
+--- Page 381 ---
+
+a lemora; a aras; a cabar: 217
+b lemore; b ares; b caber: 218
+c lemori; c aris; c cabir: 219
+d lemoro; d aros; d cabo: 220
+e lemoru; e arus; e cabur: 221
+f lemoras; f arosa; f cabad: 222
+g lemores; g arose; g cabed: 223
+h lemoris; h arosi; h cabid: 224
+i lemoros; i aroso; i cabod: 225
+k lemorus; k arosu; k cabud: 226
+l lemox; l arosal; l cabal: 227
+m lemox; m arosel; m cabel: 228
+o lemox; o arosol; o cabol: 229
+p lemox; q arosul; p cabul: 230
+r lemox; s arosar; q cabas: 231
+s lemox; t arosor; r cabes: 232
+t lemox; u arosur; v cabus: 233
+x lemox; y arosat; x caba: 234
+z lemox; z arosit; z cabe: 235
+zo lemox; w arosot; zo cabo: 236
+
+--- Page 382 ---
+
+a nesa; a hama; a helia: 241
+b nese; b hame; b helie: 242
+c nesi; c hami; c helij: 243
+d neso; d hamo; d helio: 244
+e nesu; e hamu; e heliu: 245
+f nesar; f hamal; f heliat: 246
+g neser; g hamel; g heliet: 247
+h nesir; h hamil; h helijt: 248
+i nesor; i hamol; i heliot: 249
+k nesur; k hamul; k heliut: 250
+l nesal; l hamas; l helias: 251
+m nesel; m hames; m helies: 252
+n nesil; n hamis; n helijs: 253
+o nesol; o hamos; o helios: 254
+p nesul; p hamus; p helius: 255
+q nesan; q hamar; q helial: 256
+r nesen; r hamer; r heliel: 257
+s nesin; s hamir; s helijl: 258
+t neson; t hamor; t heliol: 259
+v nesun; v hamur; v heliul: 260
+x nesay; x hamat; x helian: 261
+z nesoy; z hamit; z helijn: 262
+rv nesuy; rv hamot; rv helion: 263
+
+--- Page 383 ---
+
+a rhama; a fesia; a doza: 265
+b rhame; b fesie; b doze: 266
+c rhami; c fesij; c dozi: 267
+d rhamo; d fesio; d dozo: 268
+e rhamu; e fesiu; e dozu: 269
+f rhaman; f fesial; f dozal: 270
+g rhamen; g fesiel; g dozel: 271
+h rhamin; h fesijl; h dozil: 272
+i rhamon; i fesiol; i dozol: 273
+k rhamun; k fesiul; k dozul: 274
+l rhamal; l fesian; l dozas: 275
+m rhamel; m fesien; m dozes: 276
+n rhamil; n fesijn; n dozis: 277
+o rhamol; o fesion; o dozos: 278
+p rhamul; p fesium; p dozus: 279
+q rhamas; q fesiar; q dozan: 280
+r rhames; r fesier; r dozen: 281
+s rhamis; s fesir; s dozin: 282
+t rhamos; t fesior; t dozon: 283
+v rhamus; v fesiur; v dozun: 284
+x rhamat; x fesias; x dozar: 285
+y rhamet; y fesies; y dozer: 286
+z rhamit; z fesijs; z dozir: 287
+2v rhamot; 2v fesios; 2v dozor: 288
+
+--- Page 384 ---
+
+a huba; a rodan; a medra: 289
+b hube; b roden; b medre: 290
+c hubi; c rodin; c medri: 291
+d hubo; d rodon; d medro: 292
+e hubu; e rodun; e medru: 293
+f hubal; f roda; f medrax: 294
+g hubel; g rode; g medrex: 295
+h hubil; h rodi; h medrix: 296
+i hubol; i rodo; i medrox: 297
+k hubul; k rodu; k medrux: 298
+l hubas; l rodas; l medral: 299
+m hubes; m rodes; m medrel: 300
+n hubis; n rodis; n medril: 301
+o hubos; o rodos; o medrol: 302
+p hubus; p rodus; p medrul: 303
+q hubar; q rodax; q medras: 304
+r huber; r rodex; r medres: 305
+s hubir; s rodix; s medris: 306
+t hubor; t rodox; t medros: 307
+v hubur; v rodux; v medrus: 308
+x huban; x rodal; x medran: 309
+y huben; y rodel; y medren: 310
+z hubin; z rodil; z medrin: 311
+rv hubon; rv rodol; rv medron: 312
+
+--- Page 385 ---
+
+a ophiran; b darech; c vana: 313
+b ophireu; c darich; d vane: 314
+c ophirin; d daroch; e vani: 315
+d ophiron; e daroch; f vano: 316
+e ophirun; f derach; g vanu: 317
+f ophira; g derech; h vanal: 318
+g ophire; i deroch; k vanil: 319
+h ophiri; l dirach; m vanol: 320
+i ophiro; n diruch; p vanul: 321
+k ophiru; q dorach; r vanay: 322
+l ophiras; s direch; t vaney: 323
+m ophires; u dirich; x vaniy: 324
+n ophiros; y diroch; z vanoy: 325
+o ophirus; p diruch; q vanar: 326
+p ophirus; r dozech; s vanir: 327
+q ophiral; t dorach; v vanur: 328
+r ophirel; u durach; x vanas: 329
+s ophiril; v duroch; y vanes: 330
+t ophirol; z durich; x vanis: 331
+u ophirus; y duroch; z vanos: 332
+v ophirul; z duroch; x vani: 333
+w ophirix; y duroch; z vans: 334
+x ophirax; z duroch; x vans: 335
+y ophirex; z duroch; y vans: 336
+z ophiriz; a duroch; x vans: ij
+
+[segment 73]
+--- Page 386 ---
+
+| 1 | 2 | 3 |
+|---:|---:|---:|
+| a comar | a hasacha | a allac | 337 |
+| b comer | b hasache | b allec | 338 |
+| c comir | c hasachi | c allic | 339 |
+| d comor | d hasacho | d alloc | 340 |
+| e comur | e hasachu | e alluc | 341 |
+| f coman | f hasachar | f allat | 342 |
+| g comen | g hasacher | g allet | 343 |
+| h comin | h hasachir | h allit | 344 |
+| i comon | i hasachor | i allot | 345 |
+| k comun | k hasachur | k allut | 346 |
+| l comal | l hasachal | l alla | 347 |
+| m comel | m hasachel | m alle | 348 |
+| n comil | n hasachil | n alli | 349 |
+| o comol | o hasachol | o allo | 350 |
+| p comul | p hasachul | p allu | 351 |
+| q comas | q hasachan | q allax | 352 |
+| r comes | r hasachen | r allex | 353 |
+| s comis | s hasachin | s allix | 354 |
+| t comos | t hasachon | t allox | 355 |
+| v comus | v hasachun | v allux | 356 |
+| x comax | x hasachay | x allan | 357 |
+| y comex | y hasachey | y allen | 358 |
+| z comix | z hasachoy | z allin | 359 |
+| rv comox | rv hasachuy | rv allon | 360 |
+
+--- Page 387 ---
+
+| 1 | 2 | 3 |
+|---:|---:|---:|
+| a pana | a meda | a iobas | 361 |
+| b pane | b mede | b iobes | 362 |
+| c pani | c medi | c iobis | 363 |
+| d pano | d medo | d iobos | 364 |
+| e panu | e medu | e iobus | 365 |
+| f panas | f medar | f ioba | 366 |
+| g panes | g meder | g iobe | 367 |
+| h panis | h medir | h iobi | 368 |
+| i panos | i medor | i iobo | 369 |
+| k panus | k medur | k iobu | 370 |
+| l panor | l medas | l iobar | 371 |
+| m paner | m medes | m iober | 372 |
+| n panir | n medis | n iobir | 373 |
+| o panor | o medos | o iobor | 374 |
+| p panur | p medus | p iobur | 375 |
+| q panax | q medal | q ioban | 376 |
+| r panex | r medel | r ioben | 377 |
+| s panix | s medil | s iobin | 378 |
+| t panox | t medol | t iobon | 379 |
+| v panux | v medul | v iobun | 380 |
+| x panel | x medan | x iobat | 381 |
+| y panil | y meden | y iobet | 382 |
+| z panol | z medin | z iobit | 383 |
+| 2v panol | 2v medon | 2v iobot | 384 |
+
+h iij
+
+--- Page 388 ---
+
+| 1 | 2 | 3 |
+|---:|---:|---:|
+| a rama | a pada | a gera | 385 |
+| b rame | b pade | b gere | 386 |
+| c rami | c padi | c geri | 387 |
+| d ramo | d pado | d gero | 388 |
+| e ramu | e padu | e geru | 389 |
+| f ramal | f padal | f geral | 390 |
+| g ramel | g padel | g gerel | 391 |
+| h ramil | h padil | h geril | 392 |
+| i ramol | i padol | i gerol | 393 |
+| k ramul | k padul | k gerul | 394 |
+| l ramas | l padas | l geras | 395 |
+| m rames | m pades | m geres | 396 |
+| n ramis | n padis | n geris | 397 |
+| o ramos | o pados | o geros | 398 |
+| p ramus | p padus | p gerus | 399 |
+| q ramax | q padan | q gerar | 400 |
+| r ramex | r paden | r gerer | 401 |
+| s ramix | s padin | s gerir | 402 |
+| t ramox | t padon | t geror | 403 |
+| v ramux | v padun | v gerur | 404 |
+| x ramai | x padar | x gerai | 405 |
+| y ramei | y pader | y gerei | 406 |
+| z ramij | z padir | z gerij | 407 |
+| rv ramoi | rv pador | rv geroi | 408 |
+
+--- Page 389 ---
+
+| 1 | 2 | 3 |
+|---:|---:|---:|
+| a moda | a ascha | a vasma | 409 |
+| b mode | b asche | b vasme | 410 |
+| c modi | c aschi | c vasmi | 411 |
+| d modo | d ascho | d vasmo | 412 |
+| e modu | e aschu | e vasmu | 413 |
+| f modal | f aschar | f vasmai | 414 |
+| g model | g ascher | g vasmei | 415 |
+| h modil | h aschir | h vasmij | 416 |
+| i modol | i aschor | i vasmoi | 417 |
+| k modul | k aschur | k vasmui | 418 |
+| l modas | l aschal | l vasmar | 419 |
+| m modes | m aschel | m vasmer | 420 |
+| n modis | n aschil | n vasmir | 421 |
+| o modos | o aschol | o vasmor | 422 |
+| p modus | p aschul | p vasmur | 423 |
+| q modan | q aschra | q vasmal | 424 |
+| r moden | r aschre | r vasmel | 425 |
+| s modin | s aschri | s vasmil | 426 |
+| t modon | t aschro | t vasmol | 427 |
+| v modun | v aschru | v vasmul | 428 |
+| x modax | x aschran | x vasman | 429 |
+| y modex | y aschren | y vasmen | 430 |
+| z modix | z aschrin | z vasmin | 431 |
+| 2v modox | 2v aschron | 2v vasmon | 432 |
+
+h iiij
+
+--- Page 390 ---
+
+| 1 | 2 | 3 |
+|---:|---:|---:|
+| a dolan | a merapa | a fanera | 433 |
+| b dolen | b merape | b fanere | 434 |
+| c dolin | c merapi | c faneri | 435 |
+| d dolon | d merapo | d fanero | 436 |
+| e dolun | e merapu | e faneru | 437 |
+| f dolar | f merapan | f faneral | 438 |
+| g dolor | g merapen | g fanerel | 439 |
+| h dolir | h merapin | h faneril | 440 |
+| i dolor | i merapon | i fanerol | 441 |
+| k dolur | k merapun | k fanerul | 442 |
+| l dolat | l merapas | l faneras | 443 |
+| m dolet | m merapes | m faneres | 444 |
+| n dolit | n merapis | n faneris | 445 |
+| o dolot | o merapos | o faneros | 446 |
+| p dolut | p merapus | p fanerus | 447 |
+| q dolax | q merapat | q fanerin | 448 |
+| r dolex | r merapet | r faneron | 449 |
+| s dolix | s merapit | s faneren | 450 |
+| t dolox | t merapot | t fanerat | 451 |
+| v dolux | v meraput | v fanerun | 452 |
+| x dolaf | x merapar | x faneret | 453 |
+| y dolef | y meraper | y fanerit | 454 |
+| z dolif | z merapir | z fanerot | 455 |
+| w dolof | w merapor | w fanerot | 456 |
+
+--- Page 391 ---
+
+| 1 | 2 | 3 |
+|---:|---:|---:|
+| a adra | a pesa | a mezana | 457 |
+| b adre | b pese | b mezane | 458 |
+| c adri | c pesi | c mezani | 459 |
+| d adro | d peso | d mezano | 460 |
+| e adru | e pesu | e mezamu | 461 |
+| f adral | f pesan | f mezanas | 462 |
+| g adrel | g pesen | g mezanes | 463 |
+| h adril | h pesin | h mezanis | 464 |
+| i adrol | i peson | i mezosan | 465 |
+| k adrul | k pesun | k mexanus | 466 |
+| l adran | l pesal | l mezanat | 467 |
+| m adren | m pesel | m mezanet | 468 |
+| n adrin | n pesil | n mezanit | 469 |
+| o adron | o pesol | o mezanot | 470 |
+| p adrun | p pesul | p mezanut | 471 |
+| q adras | q pesar | q mezanan | 472 |
+| r adres | r peser | r mezanen | 473 |
+| s adris | s pesir | s mezanin | 474 |
+| t adros | t pesor | t mezonon | 475 |
+| v adrus | v pesur | v mezanun | 476 |
+| x adrax | x pesas | x mezanar | 477 |
+| y adrex | y peses | y mezaner | 478 |
+| z adrix | z pesis | z mezanir | 479 |
+| 2v [unclear] | 2v [unclear] | 2v [unclear] | 480 |
+
+[segment 74]
+--- Page 392 ---
+
+a gomar    a tharsa    a fodral    481
+b gomer    b tharse    b fodrel    482
+c gomir    c tharsi    c fodril    483
+d gomor    d tharso    d fodrol    484
+e gomur    e tharsu    e fodrul    485
+f goman    f tharsal   f fodra     486
+g gomen    g tharsel   g fodre     487
+h gomin    h tharsil   h fodri     488
+i gomun    i tharsul   i fodro     489
+k gomal    k tharsat   k fodru     490
+l gomel    l tharset   l fodras    491
+m gomil    m tharsit   m fodres    492
+n gomol    n tharsot   n fodris    493
+o gomul    o tharsut   o fodros    494
+p gomas    p tharsan   p fodrus    495
+q gomes    q tharsen   q fodran    496
+r gomis    r tharsin   r fodren    497
+s gomos    s tharson   s fodrin    498
+t gomus    t tharsun   t fodron    499
+v gomay    v tharsay   v fodrun    500
+x gomey    x tharsey   x fodray    501
+y gomoy    y tharsoy   y fodrey    502
+z gomuy    z tharsuy   z fodroy    503
+2v [unclear]  2v [unclear]  2v fodruy  504
+
+--- Page 393 ---
+
+a meroham   a cama    a sebara    505
+b merohem   b came    b sebare    506
+c merohim   c cami    c sebari    507
+d merohom   d camo    d sebaro    508
+e merohum   e camu    e sebaru    509
+f meroha    f camal   f sebaras   510
+g merohe    g camel   g sebares   511
+h merohi    h camil   h sebaris   512
+i meroho    i camol   i sebaros   513
+k merohu    k camul   k sebarus   514
+l merohal   l camas   l sebaran   515
+m merohel   m comes   m sebaren   516
+n merohil   n camis   n sebarin   517
+o merohol   o camos   o sebaron   518
+p merohul   p camus   p sebarun   519
+q merohas   q camar   q sebarat   520
+r merohes   r camer   r sebarel   521
+s merohis   s camir   s sebaril   522
+t merohos   t camor   t sebarol   523
+v merohus   v camur   v sebarul   524
+x merohat   x caman   x sebarat   525
+y merohet   y camen   y sebaret   526
+z merohit   z camin   z sebarit   527
+2v merohot  2v camon  2v sebarot  528
+
+--- Page 394 ---
+
+a phal   a nomysa   a zabar   529
+b phel   b nomyse   b zaber   530
+c phil   c nomysi   c zabir   531
+d phol   d nomyso   d zabor   532
+e phul   e nomysu   e zabur   533
+f phat   f nomysar  f zabal   534
+g phet   g nomyser  g zabel   535
+h phit   h nomysir  h zabil   536
+i phot   i nomysor  i zabol   537
+k phut   k nomysur  k zabul   538
+l phas   l nomysal  l zabas   539
+m phes   m nomysel  m zabes   540
+n phis   n nomysil  n zabis   541
+o phos   o nomysol  o zabos   542
+p phus   p nomysul  p zabus   543
+q phar   q nomysas  q zaban   544
+r pher   r nomyses  r zaben   545
+s phir   s nomysis  s zabin   546
+t phor   t nomysos  t zabon   547
+v phur   v nomysus  v zabun   548
+x phay   x nomysan  x zabat   549
+y phey   y nomysen  y zabet   550
+z phoy   z nomysin  z zabit   551
+2v phuy  2v nomyson 2v zabot  552
+
+--- Page 395 ---
+
+a nemas   a hofan   a flagara   553
+b nemes   b hofen   b flagare   554
+c nemis   c hofin   c flagari   555
+d nemos   d hofon   d flagaro   556
+e nemus   e hofun   e flagaru   557
+f nemat   f hofar   f flagaran  558
+g nemet   g hofer   g flagaren  559
+h nemit   h hofir   h flagarin  560
+i nemot   i hofor   i flagaron  561
+k nemut   k hofur   k flagarun  562
+l nemal   l hofal   l flagaras  563
+m nemel   m hofel   m flagares  564
+n nemil   n hofil   n flagaris  565
+o nemol   o hofol   o flagaros  566
+p nemul   p hoful   p flagarus  567
+q nemar   q hofay   q flagaral  568
+r nemer   r hofey   r flagarel  569
+s nemir   s hofiy   s flagaril  570
+t nemor   t hofoy   t flagarol  571
+v nemur   v hofuy   v flagarul  572
+x nema    x hofas   x flagarat  573
+y neme    y hofes   y flagaret  574
+z nemi    z hofis   z flagarit  575
+2v nemo   2v hofos  2v flagarot 576
+
+i
+
+--- Page 396 ---
+
+a bedar   a nysan   a ramas   577
+b beder   b nysen   b rames   578
+c bedir   c nysin   c ramis   579
+d bedor   d nyson   d ramos   580
+e bedur   e nysun   e ramus   581
+f bedan   f nysar   f ramal   582
+g beden   g nyser   g ramel   583
+h bedin   h nysir   h ramil   584
+i bedon   i nysor   i ramol   585
+k bedun   k nysur   k ramul   586
+l bedal   l nysas   l raman   587
+m bedel   m nyses   m ramen   588
+n bedil   n nysis   n ramin   589
+o bedol   o nysos   o ramon   590
+p bedul   p nysus   p ramun   591
+q bedas   q nysal   q ramat   592
+r bedes   r nysel   r ramet   593
+s bedis   s nysil   s ramit   594
+t bedos   t nysol   t ramot   595
+v bedus   v nysul   v ramut   596
+x bedaf   x nysat   x ramay   597
+y bedef   y nyset   y ramey   598
+z bedif   z nysit   z ramoy   599
+2v bedof  2v nysot  2v ramuy  600
+
+--- Page 397 ---
+
+a astrofal   a guara   a lodan   601
+b astrofel   b guare   b loden   602
+c astrofil   c guari   c lodin   603
+d astrofol   d guaro   d lodon   604
+e astroful   e guaru   e lodun   605
+f astrofan   f guaras  f lodana  606
+g astrofen   g guares  g lodane  607
+h astrofin   h guaris  h lodani  608
+i astrofon   i guaros  i lodano  609
+k astrofun   k guarus  k lodanu  610
+l astrofas   l guaral  l lodar   611
+m astrofes   m guarel  m loder   612
+n astrofis   n guaril  n lodir   613
+o astrofos   o guarol  o lodor   614
+p astrofus   p guarul  p lodur   615
+q astrofax   q guaran  q lodas   616
+r astrofex   r guaren  r lodes   617
+s astrofix   s guarin  s lodis   618
+t astrofox   t guaron  t lodos   619
+v astrofux   v guarun  v lodus   620
+x astrofar   x guarat  x lodax   621
+y astrofer   y guaret  y lodex   622
+z astrofir   z guarit  z lodix   623
+2v astrofur  2v guarot 2v lodox  624
+
+i ij
+
+[segment 75]
+--- Page 398 ---
+625: a hamar; a charsal; a planas.
+626: b hamer; b charsel; b planes.
+627: c hamir; c charsil; c planis.
+628: d hamor; d charsol; d planos.
+629: e hamur; e charsul; e planus.
+630: f hamal; f charsa; f planat.
+631: g hamel; g charse; g planet.
+632: h hamil; h charsi; h planit.
+633: i hamol; i charso; i planot.
+634: k hamul; k charsu; k planut.
+635: l haman; l charsan; l planar.
+636: m hamen; m charsen; m planer.
+637: n hamin; n charsin; n planir.
+638: o hamon; o charson; o planor.
+639: p hamun; p charsum; p planur.
+640: q hamas; q charsat; q planan.
+641: r hames; r charset; r planen.
+642: s hamis; s charsit; s planin.
+643: t hamos; t charsot; t planon.
+644: v hamus; v charsut; v planun.
+645: x hamay; x charsay; x planay.
+646: y hamey; y charsey; y planey.
+647: z hamoy; z charsoy; z planoy.
+648: 2v hamuy; 2v charsuy; 2v planuy.
+
+--- Page 399 ---
+649: a merafa; a harmal; a pharam.
+650: b merafe; b harmel; b pharem.
+651: c merafi; c harmil; c pharim.
+652: d merafo; d harmol; d pharom.
+653: e merafu; e harmul; e pharum.
+654: f merafas; f harman; f pharal.
+655: g merafes; g harmen; g pharel.
+656: h merafis; h harmin; h pharil.
+657: i merafos; i harmon; i pharol.
+658: k merafus; k harmun; k pharul.
+659: l merafal; l harmat; l pharas.
+660: m merafel; m harmet; m phares.
+661: n merafil; n harmit; n pharis.
+662: o merafol; o harmot; o pharos.
+663: p meraful; p harmut; p pharus.
+664: q merafat; q harmas; q pharay.
+665: r merafet; r harmes; r pharey.
+666: s merafit; s harmis; s phariy.
+667: t merafot; t harmos; t pharoy.
+668: v merafut; v harmus; v pharuy.
+669: x merafar; x harmay; x pharar.
+670: y merafer; y harmey; y pharer.
+671: z merafir; z harmoy; z pharir.
+672: 2v merafoz; 2v harmoy; 2v pharoy.
+
+--- Page 400 ---
+673: a merapas; a holam; a derman.
+674: b merapes; b holem; b dermen.
+675: c merapis; c holim; c dermin.
+676: d merapos; d holom; d dermon.
+677: e merapus; e holum; e dermun.
+678: f merapan; f holas; f dermas.
+679: g merapen; g holes; g dermes.
+680: h merapin; h holis; h dermis.
+681: i merapon; i holos; i dermos.
+682: k merapun; k holus; k dermus.
+683: l merapat; l hola; l dermal.
+684: m merapet; m hole; m dermel.
+685: n merapit; n holi; n dermil.
+686: o merapot; o holo; o dermol.
+687: p meraput; p holu; p dermul.
+688: q merapal; q holat; q derma.
+689: r merapel; r holet; r derme.
+690: s merapil; s holit; s dermi.
+691: t merapol; t holot; t dermo.
+692: v merapul; v holut; v dermu.
+693: x merapar; x holay; x dermat.
+694: y meraper; y holey; y dermet.
+695: z merapiy; z holoy; z dermit.
+696: 2v merapoy; 2v holuy; 2v dermot.
+
+--- Page 401 ---
+697: a folama; a afara; a mefan.
+698: b folame; b afare; b mefen.
+699: c folami; c afari; c mefin.
+700: d folamo; d afor; d mefon.
+701: e folamu; e afur; e mefun.
+702: f folamar; f afara; f mefal.
+703: g folamer; g afare; g mefel.
+704: h folamir; h afari; h mefil.
+705: i folamor; i afaro; i mefol.
+706: k folamur; k afarv; k meful.
+707: l folamas; l afarat; l mefar.
+708: m folames; m afarel; m mefer.
+709: n folamis; n afaril; n mefir.
+710: o folamos; o afarol; o mefoz.
+711: p folamus; p afarul; p mefur.
+712: q folaman; q afaras; q mefas.
+713: r folamen; r afares; r mefes.
+714: s folamin; s afaris; s mefis.
+715: t folamon; t afaros; t mefos.
+716: v folamun; v afarus; v mefus.
+717: x folamat; x afarat; x mefay.
+718: y folamet; y afaret; y mefey.
+719: z folamit; z afarit; z mefoy.
+720: 2v folamot; 2v afarot; 2v mefuy.
+
+--- Page 402 ---
+721: a omena; a peroda; a baran.
+722: b omene; b perode; b baren.
+723: c omeni; c perodis; c barin.
+724: d omeno; d perodo; d baron.
+725: e omenu; e perodu; e barum.
+726: f omenas; f peroda; f barae.
+727: g omenes; g perode; g baree.
+728: h omenis; h perodi; h baris.
+729: i omenos; i perodo; i baros.
+730: k omenus; k perodu; k barus.
+731: l omenar; l perodan; l baral.
+732: m omener; m peroden; m barel.
+733: n omenir; n perodin; n baril.
+734: o omenor; o perodon; o barol.
+735: p omenur; p perodun; p barul.
+736: q omenat; q perodal; q bara.
+737: r omenet; r perodel; r bare.
+738: s omenit; s perodil; s bari.
+739: t omenot; t perodol; t baro.
+740: v omenut; v perodul; v baru.
+741: x omenal; x perodar; x barar.
+742: y omenel; y peroder; y bare.
+743: z omenil; z perodir; z barir.
+744: 2v omenol; 2v perodor; 2v baror.
+
+[segment 76]
+--- Page 403 ---
+
+a charas   a mofal   a nedria   745
+b chares   b mofel   b nedrie   746
+c charis   c mofit   c nedrij   747
+d charos   d mofol   d nedrio   748
+e charus   e moful   e nedriu   749
+f charal   f mofa    f nedrias  750
+g charel   g mofe    g nedries  751
+h charil   h mofi    h nedrijs  752
+i charol   i mofo    i nedrios  753
+k charul   k mofu    k nedrius  754
+l charat   l mofar   l nedrian  755
+m charet   m mofer   m nedrien  756
+n charit   n mofir   n nedrijn  757
+o charot   o mofor   o nedrion  758
+p charut   p mofur   p nedriun  759
+q chara    q mofan   q nedrial  760
+r chare    r mofen   r nedriel  761
+s chari    s mofin   s nedrijl  762
+t charo    t mofon   t nedriol  763
+v charu    v mofun   v nedriul  764
+x charan   x mofas   x nedray   765
+y charen   y mofes   y nedrex   766
+z charin   z mofis   z nedrix   767
+vv charon  vv mofos  vv nedrox  768
+
+--- Page 404 ---
+
+a meda   a cadas  a lorasan  769
+b mede   b cades  b lorasen  770
+c medi   c cadis  c lorasin  771
+d medo   d cados  d lorason  772
+e medu   e cadus  e lorasun  773
+f medas  f cada   f lorasas  774
+g medes  g cade   g lorases  775
+h medis  h cadi   h lorasis  776
+i medos  i cado   i lorasos  777
+k medus  k cadu   k lorasus  778
+l medar  l cadan  l lorasat  779
+m meder  m caden  m loraset  780
+n medir  n cadin  n lorasit  781
+o medor  o cadon  o lorasot  782
+p medur  p cadun  p lorasut  783
+q medal  q cadar  q lorasa   784
+r medel  r cader  r lorase   785
+s medil  s cadir  s lorasi   786
+t medol  t cador  t loraso   787
+v medul  v cadur  v lorasu   788
+x medan  x cadal  x lorasal  789
+y meden  y cadel  y lorasel  790
+z medin  z cadil  z lorasil  791
+vv medon vv cadol vv lorasol 792
+
+--- Page 405 ---
+
+a halmoda  a elamas  a dra   793
+b halmode  b elames  b dre   794
+c halmodi  c elamis  c dri   795
+d halmodo  d elamos  d dro   796
+e halmodu  e elamus  e dru   797
+f halmodal f elama   f dran  798
+g halmodel g elame   g dren  799
+h halmodil h elami   h drin  800
+i halmodol i elamo   i dron  801
+k halmodul k elamu   k drum  802
+l halmodan l elamar  l dras  803
+m halmoden m elamer  m dres  804
+n halmodin n elamin  n dris  805
+o halmodon o elamor  o dros  806
+p halmodun p elamur  p drus  807
+q halmodar q elamat  q dray  808
+r halmoder r elamet  r drey  809
+s halmodir s elamit  s driy  810
+t halmodor t elamot  t droy  811
+v halmodur v elamut  v druy  812
+x halmodas x elaman  x drat  813
+y halmodes y elamen  y dret  814
+z halmodis z elamin  z drit  815
+vv halmodos vv elamon vv drot 816
+
+--- Page 406 ---
+
+a cabala  a poderas  a husal  817
+b cabale  b poderes  b husel  818
+c cabali  c poderis  c husil  819
+d cabalo  d poderos  d husol  820
+e cabalu  e poderus  e husul  821
+f cabalas f podera   f husan  822
+g cabales g podere   g husen  823
+h cabalis h poderi   h husin  824
+i cabalos i podero   i huson  825
+k cabalus k poderu   k husun  826
+l cabalan l poderal  l husa   827
+m cabalen m poderel  m huse   828
+n cabalin n poderil  n husi   829
+o cabalon o poderol  o huso   830
+p cabalun p poderul  p husu   831
+q cabalar q poderan  q husar  832
+r cabaler r poderen  r huser  833
+s cabalir s poderin  s husir  834
+t cabalor t poderon  t husor  835
+v cabalur v poderun  v husur  836
+x cabalai x poderat  x husai  837
+y cabalei y poderet  y husei  838
+z cabalij z poderit  z husoi  839
+2v cabaloj 2v poderot 2v husui 840
+
+--- Page 407 ---
+
+a mera    a doras   a adrama   841
+b mere    b dores   b adrame   842
+c meri    c doris   c adrami   843
+d mero    d doros   d adramo   844
+e meru    e dorus   e adramu   845
+f meras   f dora    f adramas  846
+g meres   g dore    g adrames  847
+h meris   h dori    h adramis  848
+i meros   i doro    i adramos  849
+k merus   k doru    k adramus  850
+l meral   l doran   l adramal  851
+m merel   m doren   m adramel  852
+n meril   n dorin   n adramil  853
+o merol   o doron   o adramol  854
+p merul   p dorun   p adramul  855
+q meran   q doral   q adraman  856
+r meren   r dorel   r adramen  857
+s merin   s doril   s adramin  858
+t meron   t dorol   t adramon  859
+v merun   v dorul   v adramun  860
+x merai   x dorax   x adramat  861
+y merei   y dorex   y adramet  862
+z merij   z dorix   z adramit  863
+2v meroi  2v dorox  2v adramot 864
+
+k
+
+--- Page 408 ---
+
+a dobar    a eloham   a holam  865
+b dober    b elohem   b holem  866
+c dobir    c elohim   c holim  867
+d dobor    d elohom   d holom  868
+e dubur    e elohum   e holum  869
+f dobal    f elohas   f hola   870
+g dobel    g elohes   g hole   871
+h dobil    h elohis   h holi   872
+i dobol    i elohos   i holo   873
+k dobul    k elohus   k holu   874
+l doban    l elohat   l holas  875
+m doben    m elohet   m holes  876
+n dobin    n elohit   n holis  877
+o dobon    o elohot   o holos  878
+p dobun    p elohut   p holan  879
+q dobas    q elochar  q holen  880
+r dobes    r eloher   r holin  881
+s dobis    s elohir   s holon  882
+t dobos    t elohor   t holun  883
+v dobus    v elohar   v holai  884
+x dobelai  x elohur   x holei  885
+y dobelei  y eloha    y holij  886
+z dobelij  z elohaf   z holoi  887
+2v dobeloi 2v elohef  2v [unclear] 888
+
+z elohif
+3v elohoi
+
+Y Z V X T S R Q P O N M L K J I G F E D C B A
+
+[segment 77]
+--- Page 409 ---
+a atropas a megalas a lusanas 889
+b atropes b megales b lusanes 890
+c atropis c megalis c lusanis 891
+d atropos d megalos d lusanos 892
+e atropus e megalus e lusanus 893
+f atropa f megala f lusana 894
+g atrope g megale g lusane 895
+h atropi h megali h lusani 896
+i atropo i megalo i lusano 897
+k atropu k megalu k lusanu 898
+l atropai l megalan l lusanar 899
+m atropei m megalen m lusaner 900
+n atropij n megalin n lusanir 901
+o atropoi o megalon o lusanoz 902
+p atropui p megalun p lusanur 903
+q atropan q megalat q lusanal 904
+r atropen r megalet r lusanel 905
+s atropin s megalit s lusanil 906
+t atropon t megalot t lusanol 907
+v atropun v megalut v lusanul 908
+x atropax x megalar x lusanat 909
+y atropex y megaler y lusanet 910
+z atropix z megalir z lusanit 911
+ꝛv atropox ꝛv megalor ꝛv lusanot 912
+k ij
+
+--- Page 410 ---
+a helmat a thosara a bemas 913
+b helmet b thosare b bemes 914
+c helmit c thosari c bemis 915
+d helmot d thosaro d bemos 916
+e helmut e thosaru e bemus 917
+f helman f thosaras f bema 918
+g helmen g thosares g beme 919
+h helmin h thosaris h bemi 920
+i helmon i thosaros i bemo 921
+k helmun k thosarus k bemu 922
+l helmas l thosaran l bemal 923
+m helmes m thosaren m bemel 924
+n helmis n thosarin n bemil 925
+o helmos o thosaron o bemol 926
+p helmus p thosarun p bemul 927
+q helmar q thosarat q bemat 928
+r helmer r thosaret r bemet 929
+s helmir s thosarit s bemit 930
+t helmor t thosarot t bemot 931
+v helmur v thosarut v bemut 932
+x helmax x thosaral x bemar 933
+y helmex y thosarel y bemer 934
+z helmix z thosaril z bemir 935
+ꝛv helmox ꝛv thosarol ꝛv bemor 936
+
+--- Page 411 ---
+a ozomat a hozam a alapas 937
+b ozomet b hozem b alapes 938
+c ozomit c hozim c alapis 939
+d ozomot d hozom d alapos 940
+e ozomut e hozum e alapus 941
+f ozomas f hozas f alapat 942
+g ozomes g hozes g alapet 943
+h ozomis h hozis h alapit 944
+i ozomos i hozos i alapot 945
+k ozomus k hozus k alaput 946
+l ozoman l hozal l alapan 947
+m ozomen m hozel m alapen 948
+n ozomin n hozil n alapin 949
+o ozomon o hozol o alapon 950
+p ozomun p hozul p alapun 951
+q ozomal q hozar q alapay 952
+r ozomel r hozer r alapey 953
+s ozomil s hozir s alapiy 954
+t ozomol t hozor t alapoy 955
+v ozomul v hozur v alapuy 956
+x ozomay x hozat x alapar 957
+y ozomey y hozet y alaper 958
+z ozomoy z hozit z alapir 959
+ꝛv ozomuy ꝛv hozot ꝛv alapoz 960
+k ij
+
+--- Page 412 ---
+a damas a genedal a amena 961
+b dames b genedel b amene 962
+c damis c genedil c ameni 963
+d damos d genedol d ameno 964
+e damus e genedul e amenu 965
+f damar f geneda f amenas 966
+g damer g genede g amenes 967
+h damir h genedi h amenis 968
+i damor i genedo i amenos 969
+k damur k genedu k amenus 970
+l damal l genedar l amenal 971
+m damel m geneder m amenel 972
+n damil n genedir n amenil 973
+o damol o genedor o amenol 974
+p damul p genedur p amenul 975
+q daman q genedas q amenar 976
+r damen r genedes r amener 977
+s damin s genedis s amenir 978
+t damon t genedos t amenor 979
+v damun v genedus v amenur 980
+x damar x genedat x amenay 981
+y damer y genedet y ameney 982
+z damix z genedit z amenoy 983
+ꝛv damor ꝛv genedot ꝛv amenuy 984
+
+--- Page 413 ---
+a baschay a nas a caman 985
+b baschey b nes b camen 986
+c baschiy c nis c camin 987
+d baschoy d nos d camon 988
+e baschuy e nus e camun 989
+f baschar f nax f camas 990
+g bascher g nex g cames 991
+h baschir h nix h camis 992
+i baschor i nox i camos 993
+k baschur k nux k camus 994
+l baschal l nal l camal 995
+m baschel m nel m camel 996
+n baschil n nil n camil 997
+o baschol o nol o camol 998
+p baschul p nul p camul 999
+q baschata q nan q camar 1000
+r baschate r nen r camer 1001
+s baschati s nin s camir 1002
+t baschato t non t camor 1003
+v baschatu v nun v camur 1004
+x baschas x nay x camat 1005
+y basches y ney y camet 1006
+z baschis z noy z camit 1007
+ꝛv baschos ꝛv nuy ꝛv camot 1008
+K iiij
+
+[segment 78]
+--- Page 414 ---
+
+a maracha a cobar a fafan 1009
+b marache b cober b fafen 1010
+c marachi c cobir c fafin 1011
+d maracho d coboz d fafon 1012
+e marachu e cobur e fafun 1013
+f marachat f coban f fafal 1014
+g marachet g coben g fafel 1015
+h marachit h cobin h fafil 1016
+i marachot i cobon i fafol 1017
+k marachut k cobun k faful 1018
+l marachal l cobal l fafar 1019
+m marachel m cobel m faser 1020
+n marachil n cobil n fafir 1021
+o marachol o cobol o fafoz 1022
+p marachul p cobul p fafur 1023
+q marachas q cobas q fafat 1024
+r maraches r cobes r fafet 1025
+s marachis s cobis s fafit 1026
+t marachost t cobos t fafot 1027
+v marachus v cobus v fafut 1028
+x marachai x cobai x fafai 1029
+y marachei y cohei y fafei 1030
+z marachij z cobij z fafij 1031
+vv marachoi vv coboi vv fafoi 1032
+
+--- Page 415 ---
+
+a pasa
+b pase
+c pasi
+d pasa
+e pasu
+f pasan
+g pasin
+h pasun
+k pasum
+l pasal
+m pasel
+n pasil
+o pasol
+p paras
+q pars
+r passer
+s passir
+t pasor
+v pasur
+x pasai
+y pasci
+z pasij
+2 pafoi
+
+a gomar
+b gomer
+c gomir
+d gomor
+e gomur
+f gomasa
+g gomase
+h gomasi
+i gomaso
+k gomasu
+l gomal
+m gomel
+n gomil
+o gomol
+p gomul
+q gomat
+r gomet
+s gomit
+t gomot
+v gomut
+x gomai
+y gomei
+z gomij
+2 gomoi
+
+a vadan
+b vaden
+c vadin
+d vadon
+e vadun
+f vadar
+g vader
+h vadur
+i vadas
+j vades
+k vadus
+l vadus
+m vades
+n vadus
+o vadus
+p vadus
+q vadus
+r vadus
+s vadus
+t vadus
+v vadus
+x vadus
+y vadus
+z vadus
+2 vadol
+
+1033
+1034
+1035
+1036
+1037
+1038
+1039
+1040
+1041
+1042
+1043
+1044
+1045
+1046
+1047
+1048
+1049
+1050
+1051
+1052
+1053
+1054
+1055
+1056
+
+--- Page 416 ---
+
+What we promised at the beginning of the third book of our work Polygraphia, namely to provide the shadow and likeness of a new gloss before the inexperienced, we have sufficiently fulfilled by way of example, with an economy of labor. We have entrusted night, safely serving secrets, to be led by shadowy circumlocution, and we have inserted numbers in the order of four lines all the way to the end, adapted for the use of those who wish it. The places are fixed degrees of minutes, three thousand one hundred fifty in number, though, if you wish, the moments of the hours remain infinite, for concealing in every nation and language of the world whatever secret may occur. You will be able to bring back along the path by which you came the circle born linearly from a point, as often as night exceeds the image of light by as much as you wish and as the work requires. If much of the night is left over, bring back the tail of the dragon to the original tail-piece at the head. But let every binary be known to us as certified by the marks and signs of unity. He who hungers much should labor much, so that he may have something to eat. Nor is it a work of great labor to lead where you wish that which advances of its own accord. Here, therefore, we set the end to the third book of our Polygraphia, in the name of the Father and of the Son and of the Holy Spirit. Gentle reader, farewell. From Peapoli, on the seventh day of the month of March, in the year of our Lord Jesus Christ, our Savior, 1508, in the eleventh indiction.
+
+Here is the end of the third book of the Polygraphia of Johannes Trithemius, abbot of Peapoli, of the Order of Saint Benedict.
+
+--- Page 417 ---
+
+THE FOURTH BOOK OF THE POLYGRAPHIA OF JOHANNES TRITHEMIUS, ABBOT OF THE MONASTERY OF SAINT JAMES THE GREATER, APOSTLE, AT WUERZBURG, FORMERLY OF SPONHEIM, OF THE ORDER OF SAINT BENEDICT, BEGINS.
+
+The order of reason required that the fourth book of our Polygraphia be made unlike the preceding ones in quality, invention, and ease, so that those who wish to share in the secrets of our matters may attain this not by one way, but by various and different ways. We have extended a magpie comprehensible by the easiest invention, so that night, always joined through the minute to the monad, may be known in the light of day in any order. Here no difference is found between unity and binary, nor will the person who wishes to operate need to have the instrument of the art at hand, since, when the first succeeds without an intermediate, the hidden mystery reveals itself. Hence the prudent person, understanding and experienced in the science, will accomplish the operation at every time and place. The binary receives from unity that from which it produces the ternary. The first acquaintance with the outward form of this cryptology is easy, after the moon has been illuminated by the sun, even from a single point. And it may happen that the knowledgeable person becomes skillful without the guidance of a teacher. Yet I think this is to be understood only in this book, and in none of the preceding ones. Concerning the following books, judgment will be given in its proper place. Among all the cabalistic modes of secrets that we have given up to the present, the procedure of this fourth book is easier and can be extended to infinity. Therefore it is enough that I have handed down to those desiring fuller things both the form and the cause of the example. The light of understanding easily penetrates all these things. Written at Peapoli, on the ninth day of March, in the year of the Lord 1508.
+
+[segment 79]
+--- Page 418 ---
+
+a Baldach | a hanasar | a cathai
+b Abrach | b abasar | b abzai
+c Ecorach | c acamar | c achai
+d Adonach | d adamar | d adamai
+e Merach | e mesar | e lemai
+f Afalach | f afasar | f afrai
+g Agalach | g agasar | g aglai
+h Charach | h thamar | h cholai
+i Misach | i nibasar | i disari
+k Akarach | k akasar | k ekami
+l Elamach | l elasar | l elami
+m Amolach | m omasar | m emai
+n Anesach | n anefar | n gnosai
+o Morach | o bonefar | o comani
+p Eparach | p spenafar | p spadai
+q Aqualach | q aquasafar | q aquarsai
+r Cromach | r arosafar | r dramoi
+s Asarach | s isachar | s astrasai
+t stomalach | t stenafar | t athamar
+v Cusafach | v busafar | v dubari
+x Axiomach | x exulafar | x ixioman
+y Lynafach | y mynafar | y pyroman
+z Azarach | z azafar | z eziamer
+2v Evenalach | 2v sevadamar | 2v orvanifar
+
+--- Page 419 ---
+
+a malach | a daban | a caman
+b ebalach | b oban | b abzan
+c acalach | c icaban | c icaban
+d adobarach | d adelan | d odilan
+e melech | e sebalan | e melan
+f afalech | f ofelan | f afran
+g egelech | g agelan | g ogeran
+h chamelech | h chaba | h tharan
+i misalech | i nisan | i lifaran
+k akamech | k ekalan | k akabzan
+l elamech | l olafan | l elafan
+m amalech | m emalan | m omilan
+n enalech | n enean | n aneman
+o comalech | o losaban | o roman
+p apalech | p spilan | p apriman
+q equalech | q aquafan | q equilan
+r premalech | r areman | r ozman
+s asamech | s asafan | s osterman
+t stomalech | t stabulan | t stulman
+v busalech | v hurman | v durman
+x aximalech | x exulman | x aximer
+y rymalech | y ryman | y dylidelle
+z azelech | z azelman | z ezelfus
+2v orvameleh | 2v ervalti | 2v ezvalti
+
+--- Page 420 ---
+
+a manas | a baron | a sadiel
+b abdelas | b abaron | b abdiel
+c ocadas | c ocoron | c scoriel
+d adalas | d adelon | d adriel
+e semalas | e meron | e sebiel
+f ofelias | f ofilon | f ofiel
+g agaras | g agion | g agiel
+h choras | h chorion | h thoniel
+i rimasas | i libion | i misiel
+k akarias | k akyon | k akriel
+l cleopas | l elybon | l almiel
+m amasias | m amaron | m amiel
+n anobias | n enorion | n oniel
+o sodias | o morison | o sosiel
+p epynosas | p apozion | p apiel
+q aquisas | q aquilon | q aquiel
+r arabias | r armaon | r ariel
+s asyphas | s osarion | s osiel
+t atharas | t atharon | t othiel
+v quolas | v cuburon | v suriel
+x aximas | x axion | x axiel
+y syrihas | y tymeon | y aymiel
+z azarias | z azaron | z azariel
+2v tuuilas | 2v puualon | 2v ervariel
+
+--- Page 421 ---
+
+a nasor | a paranas | a nabat
+b abnasor | b abranatas | b abarat
+c acanasor | c scharabas | c scarafat
+d adamor | d adramas | d adrapat
+e pesanor | e demonas | e nesarat
+f afasor | f ofilamas | f afilat
+g agenor | g agilimas | g ogesarat
+h chabor | h thombas | h charisat
+i sichor | i lidomas | i libafat
+k ekamor | k akrofilas | k okobizat
+l almasor | l pliadas | l almonat
+m amasor | m amadias | m imefat
+n anephor | n antipas | n anozat
+o nobabor | o ponadas | o donesat
+p apalifor | p spartanbas | p apraxat
+q aquafor | q aquilas | q equarat
+r oraphor | r triphas | r broniat
+s asanaor | s asanapas | s asarat
+t ethymor | t athanas | t etomat
+v pusanor | v busaphas | v busarat
+x axisor | x aximaas | x axifolat
+y nycanor | y tymolas | y tyrazat
+z izachior | z azarias | z azifarat
+2v duuesor | 2v iuuaras | 2v vuebrat
+
+--- Page 422 ---
+
+a iaymalo | a cadon | a samelech
+b abraylo | b ibathon | b ebramelech
+c ochafilo | c echaton | c achalech
+d adymado | d adelon | d adelmech
+e vemalo | e merison | e nemelech
+f afemalo | f ifrason | f afemelech
+g agemalo | g agedion | g ageselech
+h chrysalo | h christion | h thomelech
+i vimalo | i siradon | i diralech
+k ekraso | k ekaton | k akaselech
+l alefalo | l pladion | l alanech
+m amefalo | m amedon | m amalech
+n anybalo | n anydion | n onamech
+o poymalo | o coridon | o somelech
+p spinasalo | p epadion | p aquifalech
+q aqualo | q aquilon | q tramelech
+r dramalo | r tropon | r asydon
+s asomelech
+t atymalo | t ethion | t s Tomelech
+v tusymalo | v durion | v axomelech
+x axifalo | x axion | x pymelech
+z ozycalo | z ozamion | z ozyselech
+2v ruuelo | 2v buuelon | 2v iuuemelech
+
+[segment 80]
+--- Page 423 ---
+a hasar    a mathan    a saday
+b abhasar  b obedan    b abray
+c achasar  c acharan   c achay
+d adomar   d adoran    d adonay
+e behasar  e medoran   e penay
+f ofehasar f afiosan   f effray
+g aganiar  g agian     g aglay
+h thomasar h choran    h chrisay
+i dipasar  i pidaran   i filosay
+k okriasar k alkastan  k akoy
+l eleasar  l alman     l almay
+m amasar   m amoran    m omelay
+n anthosar n gnocian   n antifoy
+o comasar  o comesan   o dolay
+p spanosar p sphanhan  p apenoy
+q aquosar  q equilan   q aquoy
+r arnosar  r arosan    r droy
+s asamar   s osaran    s asamay
+t athabar  t stayran   t athenoy
+v luphasar v musan     v cusay
+x axiomar  x exusian   x axosay
+y tymasar  y synaran   y symay
+z azomar   z ozialan   z ozimay
+2v huuosar 2v buuelan  2v duuelay
+l iij
+
+--- Page 424 ---
+a malochym   a basan   a hamal
+b abelochym  b abasan  b abamal
+c scomachym  c ocosan  c achitofal
+d adonachym  d adosan  d adramal
+e melochym   e mesan   e penefal
+f effrahym   f ofaran  f afaral
+g agelochym  g aglan   g agynial
+h thomachym  h chosan  h thorafal
+i milochoym  i piran   i firaphal
+k okriachym  k akran   k [unclear]
+l alexochym  l elisan  l alaphal
+m amelochym  m aman    m amosal
+n enochym    n anan    n enophal
+o molochym   o posan   o mosal
+p spanachym  p opian   p epaphal
+q equilachym q aquian  q aquial
+r dromechym  r orian   r bronefal
+s osiachym   s osian   s [unclear]
+t stolachym  t athian  t etipha
+v cusachym   v cusan   v busiphal
+x exolachym  x axian   x aximal
+y syrachym   y lysian  y [unclear]
+z ervalachym z ozian   z azahal
+2v [unclear] 2v iuufasan 2v buuasal
+
+--- Page 425 ---
+a dabri     a camelon    a vamear
+b abori     b abelon     b abamar
+c achori    c achryphon  c acamear
+d odari     d adylon     d adamare
+e medri     e merapon    e lehamar
+f afri      f ofilason   f ofamear
+g agri      g agelon     g agemar
+h chori     h churion    h chomar
+i piri      i pinelon    i pisamar
+k akri      k okalon     k okamar
+l elori     l alophion   l alamar
+m ambri     m emedion    m omahar
+n anatri    n anabion    n anemar
+o moari     o nobilon    o posamar
+p apenori   p aporion    p aporesar
+q aquari    q aqualon    q aquabar
+r trosari   r triphilon  r oremar
+s aschari   s asephilon  s asamar
+t athari    t atrifon    t ithamar
+v subari    v cubion     v busamar
+x oxiry     x axion      x axiomar
+y nysari    y tyrion     y synamar
+z azari     z azyrion    z azamar
+2v duuori   2v buuelion  2v buuesar
+liij
+
+--- Page 426 ---
+a damas    a harabot   a camaran
+b abaras   b abarot    b abadian
+c scheras  c achiot    c scholian
+d adamas   d adamot    d odissean
+e beormas  e lefarot   e merisan
+f afimas   f afanot    f aforisan
+g egeas    g agihot    g agesan
+h thomas   h chabot    h choresan
+i lisiamas i mirabot   i pinosan
+k akamas   k akarot    k okaran
+l plansias l elymot    l alioran
+m amasias  m amalot    m omeran
+n onysias  n anatot    n anasan
+o mohabas  o morot     o ioran
+p spanias  p [unclear] p [unclear]
+q aquinas  q aquirot   q aquiran
+r artabas  r aramot    r arosofan
+s asamas   s ofyarot   s asiaran
+t athalas  t athamot   t otherian
+v rupalas  v cusabot   v dubaran
+x aximas   x exilarot  x oxirian
+y tyronas  y hyracot   y pysoran
+z azarias  z azarot    z azarian
+zu tuuelas zu luuarot  zu huuorian
+
+--- Page 427 ---
+a nasalo    a madas    a cabor
+b abalo     b abadas   b abanoz
+c achalo    c ocadas   c achabor
+d odalo     d adonidas d odabor
+e pesalo    e melodas  e mesanor
+f afialo    f ofanas   f ofamor
+g agelo     g agedas   g agenor
+h charelo   h choridas h chabor
+i sigalo    i misanas  i sicanor
+k akastulo  k akriphas k ekastor
+l aluerno   l almodas  l alamor
+m amelio    m amalas   m omanor
+n anacalo   n anabilas n anator
+o cornelo   o norophas o ponyor
+p spareolo  p spanolas p epanor
+q aquilo    q equalias q equador
+r armalo    r arnobias r tronabor
+s aseualo   s asonydas s astropor
+t statulo   t atriphas t stanesor
+v cusaleo   v curidas  v musifor
+x axiolo    x axyanas  x [unclear]
+y tymolo    y syradas  y pysanor
+z azulo     z azaridas z oziamor
+2v cuualio  2v cuuelas 2v cuualor
+
+--- Page 428 ---
+a saregon     a panadox   a hasolam
+b abaragon    b abarax    b abalam
+c schoragon   c scanadox  c schoram
+d oderafon    d adrimax   d adulam
+e lemarson    e venelox   e heralam
+f afaregon    f affrodix  f afodilam
+g agiargon    g agiolox   g agesilam
+h charegon    h thorax    h chroalam
+i misargon    i pimanax   i hisolam
+k akyarson    k akarex    k akolam
+l elaregon    l alanax    l olaham
+m amelagon    m ameloxx   m omilam
+n anergon     n antrax    n analam
+o comoron     o coparax   o conesam
+p aparchon    p apanadox  p aporisam
+q aquilon     q aquilax   q equilam
+r trosechon   r tranpax   r fradolam
+s esaregon    s asanex    s osauiam
+t atagion     t othifax   t stirulam
+v cureregion  v cumerax   v hubalam
+y synarchon   y vymax     y fyculam
+z azanofon    z azarax    z azulam
+2v iuuarchon  2v ruuax    2v auulam
+
+[segment 81]
+--- Page 429 ---
+a machras
+b ebraphas
+c achamas
+d adamas
+e merapas
+f africhas
+g agenoras
+h thornas
+i siculas
+k okapulas
+l almodas
+m amulas
+n entolas
+o sorulas
+p sparolas
+q aquolas
+r dromadas
+s afandras
+t otymulas
+v fufulas
+x exupias
+y syrudas
+z azipulas
+2v buuelas
+
+a halmites
+b obethsames
+c schorades
+d adonydes
+e lemures
+f afronides
+g agathes
+h chareses
+i liburtes
+k akonites
+l aleothes
+m amenides
+n enomades
+o ioannes
+p spanodes
+q equinodes
+r drapetes
+s osiagetes
+t athenopes
+v cucuphates
+x aximades
+y dymonipes
+z azofanes
+2v iuuenides
+
+a calon
+b abdon
+c acaron
+d adonion
+e pelion
+f ofarion
+g agelon
+h chorion
+i siphilon
+k akaton
+l elyon
+m amelon
+n enopion
+o colafon
+p epimelon
+q aquilon
+r trasilon
+s asebon
+t athemon
+v museon
+x axion
+y symeon
+z azaron
+2v suuelon
+
+--- Page 430 ---
+a manas
+b abranas
+c scatanas
+d adonias
+e helianas
+f afranas
+g agonas
+h thorcas
+i pisanas
+k akaras
+l alnotas
+m omelias
+n antras
+o ionas
+p aponas
+q aquinas
+r tranapas
+s asaphas
+t storapas
+v cucufas
+x axiopas
+y tymonas
+z azarias
+2v puuelas
+
+a padony
+b abdony
+c schany
+d adony
+e melony
+f afanay
+g egelnoty
+h chalmy
+i dilonoy
+k akony
+l alciony
+m amoly
+n annay
+o comaty
+p apenoy
+q aquay
+r cratay
+s asony
+t atenoy
+v cudony
+x exuby
+y rypany
+z azapy
+2v cauualy
+
+a rachiel
+b abriel
+c scoriel
+d adoniel
+e sebaniel
+f ofymiel
+g agiriel
+h thomiel
+i michael
+k akastiel
+l alexiel
+m ambiel
+n anadiel
+o mosiel
+p aprutiel
+q aquiel
+r vriel
+s asifiel
+t athoniel
+v curiel
+x axiel
+y mysiel
+z azahel
+2v iuuiel
+
+--- Page 431 ---
+a pasan          a marat          a cafusa
+b abasan         b eborat         b abafusa
+c ocasfan        c scorat         c ocafusa
+d adosan         d adolat         d adonisa
+e mesan          e serafat        e pefusa
+f afusan         f aforat         f afenusa
+g agusan         g agorat         g agnonusa
+h chorsan        h thorat         h chorusa
+i dilusan        i micorat        i liparusa
+k ykosan         k akorat         k akanusa
+l alusan         l clapat         l alanesa
+m amasan         m emasat         m amasa
+n anosan         n ancorat        n anorsa
+o homesan        o iosaphat       o spanuusa
+p spanesan       p aporisat       q aquola
+q aquisan        q equipat
+r archisan       r dromat
+s asasan         s osaphat        s osiara
+t stenosan       t stanerat       v auensa
+v auesan         v cumat
+x axiosan        x exaphat
+y cyrusan        y tymat
+z azusan         z azarat
+zv tuuesan       zv cuuarat       zv iuuesa
+m .
+
+--- Page 432 ---
+a malochym    a naason     a mathan
+b abrachym    b abedon     b abaran
+c scalachym   c ocason     c acoran
+d adoniachyn  d adisaon    d odoran
+e lemarchym   e nebrion    e meran
+f effrahym    f afalon     f aferan
+g agiarchym   g agrion     g agian
+h cherubym    h chorion    h thoran
+i pinarchym   i pisaron    i hiran
+k akalochym   k akalon     k akrian
+l elachym     l olarion    l elalisan
+m amolchym    m ameon      m omilan
+n anarchym    n antron     n anoten
+o comarchym   o ponon      o soran
+p aparchym    p eparon     p spiran
+q aquarchym   q aquilon    q aquoran
+r armachym    r orphion    r araban
+s asarechym   s osyrion    s ostifan
+t stanarchym  t athenon    t atalan
+v dulachym    v busidion   v european
+x exarchym    x axylon     x exasan
+y synarchym   y tymaron    y nysan
+z aziarchym   z azurion    z azaran
+vv ezvarchym  vv buualon   vv iuualan
+
+--- Page 433 ---
+a ramatha
+b abratha
+c scarapa
+d adropa
+e meratha
+f afrona
+g agiopa
+h thara
+i siprana
+k akropa
+l alania
+m amana
+n anna
+o somata
+p spania
+q aquina
+r armea
+s astrapas
+t stanopa
+v cumana
+x axiomana
+y rymata
+z azamata
+2v cuualta
+
+a hamaym
+b abrohym
+c schamoym
+d adonaym
+e merohym
+f aforachym
+g agiarchym
+h choraym
+i pinarchym
+k akuarchym
+l elohym
+m amalchym
+n anarsym
+o molachym
+p sponaym
+q aquaym
+r armachym
+s osiachym
+t atrohym
+v burachym
+x axiachym
+y symaym
+z ozyarym
+2v huuarchym
+
+a caras
+b abras
+c acaras
+d adamas
+e merapas
+f efymeras
+g agenoras
+h tholas
+i pisaras
+k okonias
+l alophas
+m amalas
+n annas
+o ioannas
+p epaphras
+q aquilas
+r trophilas
+s osannas
+t atenoras
+v musas
+x aximas
+y symonas
+z azarias
+2v buuaras
+m ij
+
+--- Page 434 ---
+a hamosin
+b abasin
+c acarin
+d adorin
+e melosin
+f afrasin
+g agusin
+h tholin
+i dirosin
+k akusin
+l elapin
+m ematin
+n anasin
+o comin
+p spalin
+q aquin
+r arabin
+s psallin
+t atolin
+v hurin
+x axosin
+y tymin
+z ozerin
+2v duuerin
+
+a nabal
+b abral
+c scoribal
+d adronal
+e penadal
+f aforal
+g agifal
+h thoral
+i rifial
+k akural
+l elaphal
+m amaral
+n anatal
+o coriphal
+p spondal
+q aquial
+r trasapal
+s asephal
+t stanisal
+v curapal
+x aximal
+y syriphal
+z azadal
+2v iuueralos
+
+a panargos
+b abargos
+c scapagos
+d adlargos
+e gemargos
+f afemeros
+g agyrios
+h choridos
+i dionios
+k akuatos
+l alpharos
+m emathos
+n anarchos
+o monados
+p eparios
+q aquilos
+r arnoplos
+s asianos
+t steganos
+v populars
+x exaplos
+y myriados
+z azulos
+2v iiueralos
+
+[segment 82]
+--- Page 435 ---
+a barafan
+b abaran
+c scaran
+d odrafan
+e merisan
+f aforisan
+g agenesan
+h chorisan
+i mirosan
+k akorisan
+l alorisan
+m omaran
+n antisan
+o porasan
+p aporisan
+q aquasan
+r artofan
+s osaran
+t stefasan
+v euorsan
+x exarosan
+y tyrosan
+z azarian
+zv iuuarian
+
+a matos
+b abatos
+c scoyros
+d adrius
+e semiros
+f aforos
+g agaros
+h thoros
+i pisaros
+k ikalos
+l elisios
+m amalos
+n anatolos
+o comaros
+p epauros
+q equados
+r tritemios
+s aspidos
+t athomos
+v busyros
+x axiforos
+y synaxeos
+z azaros
+zv duuaros
+
+a cabarym
+b abarym
+c scaraym
+d odarym
+e mesarym
+f effraym
+g agorym
+h chatym
+i siphaym
+k akorym
+l alexym
+m amraym
+n entolym
+o soraym
+p spiritym
+q aquolym
+r armohym
+s asarym
+t athesym
+v cubalym
+x axarym
+y synthaïsim
+z oziarym
+zv cuuelym
+m iiij
+
+--- Page 436 ---
+a hemalach   a nadas    a bafaran
+b abzalach   b abonas   b abafaran
+c scolamach  c achoras  c icanozan
+d adonisach  d adamas   d odonias
+e mesalach   e bedamas  e nemias
+f afrilach   f eforas   f afrodian
+g ageldemach g egeas    g agelan
+h charolach  h thobias  h thilman
+i misarach   i micheas  i siropan
+k ekorach    k akanias  k ekafan
+l almanach   l alethias l olofan
+m emalach    m amalas   m emosan
+n antrofach  n andras   n anaban
+o romelech   o poniras  o mosan
+p sparamech  p epafrias p epalasan
+q aquilech   q aquilas  q aquiran
+r tramelech  r tracias  r arbafan
+s asterech   s asimas   s osiafan
+t stauronach t stonapas t stolan
+v ruselech   v bulcas   v musan
+x examerach  x axifaras x axiozan
+y tyronach   y hymaras  y pysaran
+z azach      z aziapas  z azaphan
+zv azvgelach zv ezvalas zv ozvelau
+
+--- Page 437 ---
+a hamar
+b abamar
+c acamar
+d odamar
+e nemar
+f efamar
+g agemar
+h choramar
+i fisamar
+k okanasar
+l almodar
+m omenasar
+n anasar
+o comasar
+p aponasar
+q aquosar
+r tranasar
+s astramar
+t ithamar
+v cubasar
+x examar
+y synamar
+z ezamar
+zv szvynamar
+
+a pariel
+b abriel
+c achriel
+d adriel
+e sebiel
+f afesiel
+g agiel
+h choriel
+i gimiel
+k akariel
+l almiel
+m emmanuel
+n andriel
+o mosiel
+p spiriel
+q aquiel
+r ariel
+s osiel
+t atriel
+v huriel
+x axiel
+y aymiel
+z azariel
+zv szvintiriam
+
+a masan
+b abrasan
+c acaran
+d adan
+e medan
+f afasan
+g ogisan
+h chorisan
+i miriasn
+k ekosan
+l alaman
+m omorisan
+n enafan
+o comasan
+p spanosan
+q squillan
+r armosan
+s astroman
+t atharan
+v cusan
+x axian
+y rypsn
+z azafan
+zv szvinistiria
+m iiij
+
+--- Page 438 ---
+a famero    a nader     a faram
+b abaro     b abner     b abram
+c acaro     c october   c acaram
+d adamo     d odacer    d oderam
+e neparo    e meser     e perasam
+f aframo    f afer      f afaram
+g agaro     g agener    g agaram
+h chorilo   h choramer  h thoram
+i hipaso    i pisamer   i sisaram
+k akralo    k akamer    k akarisam
+l elamo     l alaber    l alpharam
+m amelo     m emaser    m ameriam
+n anefalo   n onyder    n entropam
+o moraso    o somater   o coranesam
+p apenalo   p aponer    p sparoniam
+q aquilo    q aquefer   q aquilam
+r dromelo   r trapeser  r armonia
+s esaphyro  s asamer    s asamaram
+t athanato  t storamer  t athiram
+v hubanafo  v musander  v pusaram
+x aximaco   x exadamer  x exarasam
+y lyssimaco y rymser    y tymparia
+z azabulo   z azanaber  z azariam
+zv izvamalo zv arvalemer zv erzameram
+
+--- Page 439 ---
+a fabion
+b abion
+c achion
+d adion
+e medion
+f afion
+g agion
+h chorion
+i lirion
+k akrion
+l elion
+m amion
+n knobion
+o aodrin
+p spirion
+q sequilion
+r cranyon
+s osion
+t athirion
+v rusion
+x axion
+y tyrimon
+z azion
+zv arvimilon
+zv orvymora
+
+a fara
+b abra
+c acra
+d adra
+e fedra
+f afera
+g agara
+h choza
+i bifara
+k akoyra
+l eloza
+m amyra
+n ancyra
+o cofera
+p opira
+q aquyra
+r trafera
+s asyra
+t stymara
+v dubera
+x axioza
+y fymera
+z azara
+zv ezvenulas
+
+a nasas
+b abenasas
+c ocasas
+d edramas
+e penosas
+f afenosas
+g agenoras
+h chrysopas
+i piramas
+k akoras
+l elafas
+m amasas
+n enodrias
+o nosamas
+p spirosas
+q aquofas
+r arnosas
+s asiapas
+t stabulas
+v rusifas
+x aximas
+y rypidas
+z azarepas
+zv ervenulas
+
+--- Page 440 ---
+a hamalym   a marbas   a parason
+b abolym    b abaras   b abaron
+c scarolym  c scaras   c achion
+d adoalym   d adamas   d adonion
+e hemalym   e demas    e penason
+f afialym   f afimas   f efameron
+g agiolym   g agemas   g agirion
+h thorzym   h choras   h thobion
+i mirsalym  i pisaras  i biradion
+k akoalym   k akras    k akrion
+l eleosym   l plutas   l olarion
+m amalym    m amesas   m emason
+n anasym    n anaras   n antyrion
+o somalym   o cosmas   o dorion
+p eparolym  p aponas   p spodion
+q aquasym   q squillas q sequilon
+r archadym  r droypas  r triphon
+s ispalym   s astrolas s osiason
+t stanosym  t statulas t atheron
+v rumalym   v rupas    v nusaon
+x axiorym   x exusias  x axion
+y pymalym   y hyrmas   y symalon
+z azarym    z azamas   z azarion
+zv ruuarym  zv uuerulas zv cuualion
+
+[segment 83]
+--- Page 441 ---
+a camer
+b abner
+c achior
+d adoner
+e messer
+f offiaser
+g egymer
+h chomer
+i viraser
+k okamer
+l elamer
+m amaber
+n anoser
+o comer
+p spinser
+q squiser
+r araser
+s osthamer
+t sturmer
+v busafer
+x examiner
+y tytifer
+z azamer
+2v duuafer
+
+a halmodi
+b abrami
+c scalmodi
+d adelmi
+e hemuri
+f affemari
+g ageladi
+h choladi
+i hilmesi
+k akriali
+l alphai
+m amadi
+n onemadi
+o comari
+p apenati
+q aquiroti
+r armeni
+s astrophili
+t stanopoli
+v cumadi
+x axioni
+y symachy
+z oziafali
+2v huueni
+
+a passan
+b abassan
+c achasan
+d edosan
+e mesan
+f efaresan
+g agersan
+h chorizan
+i ripasan
+k ekasan
+l elysan
+m omesan
+n enosan
+o corsan
+p spirosan
+q squisan
+r cranesan
+s osturan
+t atrasan
+v cursan
+x axiosan
+y myrsan
+z azarsan
+2v huuolan
+
+--- Page 442 ---
+a vamelo a cadas a dorafyn
+b abymalo b abadas b brofyn
+c scamelo c ochas c echofyn
+d adonylo d adrias d edofyn
+e persalo e medas e perafyn
+f ofimalo f afiras f afefyn
+g agimelo g agias g agefyn
+h chorelo h thorcas h chrafyn
+i vibulo i hironas i nicafyn
+k ikastulo k okaphas k akafyn
+l almelo l alenas l clarofyn
+m omalo m emodas m ernolfyn
+n enmelo n antras n eneafyn
+o romulo o colonas o colafyn
+p epanilo p spiridas p aparfyn
+q squatilo q squurcas q aquolyn
+r tramelo r troadas r druyfyn
+s esatulo s esonidas s asothyn
+t athalo t atridas t thalyn
+v burello v busulas v gurefyn
+x exialo x axiodas x exufyn
+y tymelo y pyrolas y rynefyn
+z ezinalo z azimas z vazryn
+vz cuuestilo vz dunelas vz buualyn
+
+--- Page 443 ---
+a hamar a parulen a samas
+b abamar b abrulen b abaras
+c scomar c schalen c achias
+d adamar d aduren d adamas
+e lemar e pesilen e hermas
+f efamar f afesen f ofirmas
+g agamar g agusen g agamas
+h thama h chalen h thymas
+i pisamar i hilen i hilmas
+k akomar k akulen k ikomas
+l alemar l almen l elomas
+m amphar m omylen m amelas
+n anaphar n enafylen n antras
+o comar o hosalen o somas
+p epamar p spirafen p epatras
+q squifar q equalen q squillas
+r tramar r droyen r dronas
+s osamar s asuben s asomas
+t ithama t sturasen t stormas
+v husamar v cusalen v gurgas
+x axymar x examen x axymas
+y sysamar y pyramen y hyrpas
+z azacher z azalen z azaras
+rv huuasar rv puualas n
+
+--- Page 444 ---
+a cabalan
+b abalan
+c scalan
+d adulan
+e herman
+f ofilan
+g aglan
+h chrosian
+i bifalan
+k okalan
+l plorisan
+m omesan
+n annan
+o ioannan
+p eparan
+q aquilan
+r proylan
+s esalan
+t athoran
+v hulman
+x exusian
+y tyresan
+z azarian
+2v cuuelman
+
+a haroem
+b abroem
+c scaroem
+d adroem
+e meroem
+f effroem
+g agroem
+h throem
+i siroem
+k akroem
+l alroem
+m amram
+n antroem
+o coroem
+p spiroem
+q squiroem
+r troem
+s aschroem
+t sturoem
+v suroem
+x extroem
+y myroem
+z azaroem
+2v huueser
+
+a maraber
+b abaner
+c achaber
+d odoacer
+e geseber
+f affaner
+g eganer
+h haber
+i sicher
+k akaber
+l cleser
+m omaer
+n anaber
+o dosaber
+p spinter
+q squaler
+r arbaser
+s psaller
+t athner
+v hubaser
+x axamer
+y tymaser
+z azuber
+2v huueser
+II
+
+--- Page 445 ---
+a panas
+b aberas
+c icomas
+d adrias
+e selenas
+f afrodis
+g egeas
+h thoras
+i hiras
+k okadas
+l alphas
+m omeras
+n entholas
+o corydas
+p spurnas
+q aquinas
+r orcadas
+s asonias
+t stoicas
+v musas
+x exubias
+y lybidas
+z azaras
+2v puuenas
+
+a labana
+b abana
+c schiona
+d adonia
+e melona
+f afronia
+g agonia
+h thorna
+i liburna
+k akrania
+l alphona
+m amphenan
+n ancona
+o posena
+p aprona
+q squilina
+r troiana
+s asonia
+t athonia
+v cusana
+x axula
+y mytela
+z ezanula
+2v iuuenula
+
+a rabinu
+b abinu
+c achiu
+d odanu
+e sebau
+f offenu
+g agelau
+h choleu
+i cisseu
+k akolu
+l olenu
+m amalu
+n aneu
+o rosalu
+p aponu
+q squileu
+r aradu
+s asebiu
+t stratiu
+v burelu
+x axialu
+y ryfilu
+z azariu
+2v cuualu
+n ij
+
+--- Page 446 ---
+a cades a madan a samaym
+b ebales b abadan b abrayym
+c ichanes c scholan c scarzym
+d odipes d adilan d adoraym
+e nefeles e mesan e mezraym
+f afanes f efilan f afroym
+g agires g aglan g agorym
+h chares h choran h chorafym
+i pisares i sisaran i riphaym
+k akales k akaran k okarym
+l alores l eluran l aluarym
+m amoles m omysan m anorsym
+n andres n onysan n anarsym
+o dorpes o horisan o romulym
+p spintres p apasan p spirasym
+q aquiles q squillan q aquolym
+r orcades r arnan r ararym
+s esrades s asaran s ofyrym
+t atriles t stenosan t stasyrym
+v curades v europan v curasym
+x exarpes x exusian x axarym
+y myriades y hyaran y tynarym
+z azifanes z azarian z azarym
+ꝝ ruuares ꝝ huualan ꝝ buualym
+
+[segment 84]
+--- Page 447 ---
+
+a bason
+b abenoz
+c achioz
+d adason
+e mesioz
+f assason
+g egenoz
+h chryson
+i pinason
+k akuson
+l alphon
+m amadon
+n anthenoz
+o gomoz
+p epinason
+q equador
+r ozsamoz
+s asiphon
+t stephason
+v bupaton
+x eranoz
+y symetoz
+z azagoz
+2v cuualoz
+
+a masael
+b abadiel
+c sconiel
+d adoniel
+e mersiel
+f asrael
+g agiel
+h chosiel
+i michael
+k okariel
+l almiel
+m amesiel
+n anael
+o poniel
+p spudiel
+q squariel
+r archael
+s israel
+t statuel
+v eufeniel
+x axiel
+y aymiel
+z azael
+2v iuuiël
+
+a nason
+b abnason
+c achyon
+d adrion
+e penason
+f osirion
+g agedon
+h thobion
+i pigion
+k akaron
+l almon
+m emason
+n anason
+o cozofon
+p spirason
+q aquilon
+r arphon
+s asron
+t athion
+v musaron
+x aaron
+y symon
+z azabon
+2v hmulon
+
+n iij
+
+--- Page 448 ---
+
+a salaam
+b abraham
+c schroam
+d odaram
+e henozam
+f asumeram
+g agozisam
+h charesam
+i bidaram
+k akonesam
+l almozam
+m amasam
+n andrasam
+o cozasam
+p spartiam
+q aquitiam
+r archasam
+s asiphozam
+t athenosam
+v curianam
+x ariolam
+y vymosam
+z azaram
+2v ruueram
+
+a batros
+b abaros
+c acharos
+d adamos
+e seluros
+f asiaros
+g agiaros
+h thabzos
+i himaros
+k akuros
+l eluros
+m amelos
+n antyros
+o cotyros
+p apocapos
+q aquyros
+r ozcados
+s asyrios
+t styrios
+v tuberos
+x erameros
+y symeros
+z azaros
+2v cuitaros
+
+a balen
+b abauen
+c acharen
+d adalen
+e hearen
+f asrafen
+g egusen
+h chelen
+i ripen
+k ikosen
+l pleren
+m aman
+n anoben
+o nosiren
+p spalen
+q squylen
+r archen
+s esamen
+t aterosen
+v buralen
+x examen
+y tymen
+z oziairen
+2v buualen
+
+--- Page 449 ---
+
+a sanasar
+b abasar
+c schobar
+d odamar
+e penasar
+f asiamar
+g agathar
+h chzoasar
+i hiamar
+k akatar
+l alsamar
+m amasar
+n enodar
+o cosamar
+p apoysar
+q squosar
+r arasar
+s astrosar
+t ithamar
+v bunasar
+x axamar
+y rymasar
+z azamar
+2v buuaasar
+
+a manera
+b abomera
+c schoyra
+d ademera
+e hemara
+f asymera
+g agymera
+h chymera
+i ciparasa
+k akeomera
+l clusara
+m omesara
+n anafora
+o domara
+p spanyra
+q aquyra
+r treuira
+s asubera
+t stiburna
+v budoza
+x axifera
+y pynosara
+z azeofera
+2v tuuerala
+
+a tabani
+b abalam
+c acham
+d adam
+e gelam
+f esram
+g agozam
+h thozam
+i fibulam
+k okasam
+l alpam
+m amesam
+n anasam
+o ponesam
+p apozam
+q squillam
+r arosam
+s asaram
+t sturisam
+v curisam
+x axiosam
+y tyrosam
+z azaram
+2v buualra
+
+n iij
+
+--- Page 450 ---
+
+a marpas | a dabzai | a nameso
+b abzanas | b abzai | b abzaneso
+c achalas | c schozai | c achimeo
+d adonias | d adrai | d odaneso
+e nebrias | e seraphi | e menaso
+f afroas | f asrai | f asamero
+g agaras | g aglai | g aganeso
+h thomas | h cholai | h chozulo
+i biberas | i dilai | i pilarso
+k akronas | k akri | k okaro
+l alopas | l alcinoi | l elmaro
+m omylas | m amrai | m amesalo
+n andras | n anai | n anthropo
+o cozbas | o mozsai | o bonalo
+p spatas | p apotoi | p spiraso
+q aquilas | q squyli | q aquilo
+r archas | r tranai | r archado
+s aseras | s asiani | s asamelo
+t athenas | t stozapi | t stamelo
+v auatas | v cullani | v dusaralo
+x exameras | x axioli | x exaphilo
+y symeras | y ryniasi | y tyrialo
+z azurias | z azuli | z azuphilo
+2v cuuaras | 2v cuuali | 2v ruuero
+
+--- Page 451 ---
+
+a baron | a madel | a nasasoz | a parasan
+b abaron | b abanel | b abrazos | b abrazan
+c achzon | c achael | c achioz | c schoyran
+d adon | d adriel | d adomoz | d adrian
+e meron | e meroel | e penasoz | e perosan
+f asron | f asriel | f asrisoz | f asozisan
+g agion | g agiel | g agenoz | g agiosan
+h chozon | h choziel | h chamoz | h thomasan
+i sisaron | i riffiel | i piramoz | i nisan
+k akaron | k akiel | k akioz | k akusan
+l elyon | l alaliel | l alephioz | l aleman
+m amon | m amyel | m amasoz | m omasan
+n enason | n andriel | n anydoz | n anathan
+o dozion | o mosiel | o monoz | o poneran
+p apason | p spaniel | p apenoz | p spiritsan
+q equilon | q aquiel | q squisoz | q squisan
+r argadon | r ozfiel | r aramoz | r ozphiran
+s asebon | s osriel | s osanesoz | s aserasan
+t atheneon | t athesiel | t stonasoz | t sturistan
+v musaron | v cumael | v budaoz | v busalan
+x exameron | x axfiel | x axiosoz | x exusian
+y tymon | y aymiel | y synasoz | y hymozan
+z azaron | z azael | z azamoz | z azarian
+2v buueson | 2v cuuesiel | 2v tuuesoz | 2v luuonisa
+
+n v
+
+--- Page 452 ---
+
+a ramelech
+b abralech
+c achiolech
+d adiselech
+e merech
+f asalech
+g ageselech
+h chroserech
+i pimelech
+k akarech
+l aldonech
+m amalech
+n andrech
+o somelech
+p epimolech
+q aqualech
+r armalech
+s osiphalech
+t stamelech
+v sumarech
+x examelech
+y mysalech
+z azamelech
+2v cuuelech
+
+a cadon
+b abadon
+c icaron
+d adelon
+e peron
+f osarion
+g agaron
+h thosiron
+i mirason
+k akolon
+l oleron
+m ameron
+n andron
+o homeron
+p spodion
+q aquilon
+r cromason
+s astrofilon
+t stameon
+v purason
+x axilon
+y tyrolon
+z azarion
+2v tuuelon
+
+a vamelo
+b abramelo
+c schomalo
+d adremalo
+e vemalo
+f afrodilo
+g agymelo
+h chareso
+i misalo
+k akifalo
+l alpharo
+m omerilo
+n enopio
+o romeso
+p spanolo
+q equisaro
+r orchalo
+s asymero
+t athelo
+v cusario
+x examero
+y pynalo
+z azuro
+2v huualo
+
+[segment 85]
+--- Page 453 ---
+a maserat
+b abronisat
+c scharesat
+d adromat
+e mesauerat
+f eforsisat
+g agemerat
+h chorasat
+i pidonesat
+k okamerat
+l clonephat
+m amaresat
+n androsat
+o comerat
+p aporisat
+q squisarat
+r aranesat
+s astronesat
+t stromesat
+v hubanat
+x axiophat
+y symorat
+z azahelat
+2v iuuarat
+
+a naser
+b abner
+c achior
+d adamer
+e nemeser
+f afiaser
+g ogieser
+h thomer
+i dinamer
+k ikuser
+l eleeser
+m amaser
+n anther
+o moser
+p spatiser
+q aquoser
+r armaser
+s ostiaser
+t stenaser
+v cusamer
+x exuser
+y rynose
+z azame
+2v siualer
+
+a madian
+b abrasan
+c achasan
+d adonian
+e melchan
+f afasan
+g agathan
+h christan
+i milian
+k akosan
+l plerisan
+m omeran
+n anasan
+o mosan
+p spanian
+q aquilan
+r trapezan
+s asiphan
+t athenan
+v subulan
+x axulan
+y cytharan
+z ozian
+2v ruueran
+
+--- Page 454 ---
+a saday a malachym a harman
+b abray b abelohym b ebaran
+c scotay c ocreachym c acharan
+d adonay d adrohym d oderan
+e semey e melochym e herman
+f afrodey f effraym f afalian
+g agareny g agiachym g aglasan
+h chosay h cherubym h thozan
+i risany i hiarchym i hileman
+k akolay k akulym k okopan
+l alphoy l elemoym l pliasan
+m amary m ameloym m ameran
+n andrasy n anthiachym n andran
+o dobry o comarchym o poneran
+p sparalty p aparchym p apozian
+q squinoty q squilaym q squillan
+r archasy r arachym r tranesan
+s aschry s osiarchym s asaphan
+t stomay t stuparchym t atenosan
+v husany v eusarym v huran
+x axiosy x axiarym x axoran
+y cyprasy y synarchym y tyraran
+z azanay z azariargym z azaran
+2v iuualy 2v guuesym 2v huualan
+
+--- Page 455 ---
+a sarabar
+b abasar
+c achar
+d adabar
+e helmar
+f afamar
+g agiadar
+h chomar
+i pisamar
+k akamar
+l eleasar
+m amosar
+n anadar
+o mosar
+p spodar
+q aquinar
+r croasar
+s asamar
+t ithamar
+v auenosar
+x examar
+y hyamar
+z azamar
+2v suuelar
+
+a mason
+b abrason
+c icharon
+d adelon
+e meson
+f afirion
+g agiron
+h charon
+i pirason
+k okaron
+l olueon
+m ameron
+n onalon
+o cormon
+p spayron
+q aquilon
+r prosopon
+s psalmon
+t athenon
+v curaton
+x examon
+y tyrison
+z ezafilon
+2v duuelon
+
+a hamaym
+b abroym
+c achiozym
+d adoraym
+e heroym
+f afiarym
+g aglaym
+h chyroym
+i sibarym
+k akarym
+l almachym
+m emarchym
+n enarchym
+o comarchym
+p aponarym
+q aqualym
+r tritaym
+s osiachym
+t stenorym
+v cumachym
+x axiolym
+y synaxym
+z azarym
+2v cuuerulym
+
+--- Page 456 ---
+a damas
+b abdias
+c acras
+d edelas
+e menas
+f afrapas
+g agiras
+h choras
+i dimas
+k akias
+l alapas
+m omeras
+n anyras
+o poneras
+p vpupas
+q aquilas
+r atropas
+s asteras
+t athyras
+v cucufas
+x aximas
+y tyrifas
+z azarias
+2v ervanas
+
+a hara
+b abora
+c acora
+d adora
+e melora
+f efara
+g egera
+h theora
+i lipara
+k akomyra
+l glomera
+m ambra
+n andria
+o morendia
+p spanedria
+q equancia
+r dromancia
+s asara
+t ethyria
+v cularia
+x axioma
+y myparia
+z ezaphria
+2v orvepila
+
+a pai
+b abai
+c acelai
+d adonai
+e helai
+f efai
+g agai
+h thomai
+i rimai
+k akai
+l gladai
+m vmbrai
+n antai
+o morai
+p spatai
+q equai
+r aremai
+s asadai
+t athenai
+v culectai
+x axipani
+y rypai
+z azafai
+2v arvadai
+
+--- Page 457 ---
+With the demonstration of the possibility of our new invention now briefly, yet no less sufficiently, shown, I do not think that I should weary myself any longer on this same occasion, since the method offers a path onward without limit, if anyone should need an example for further matters. Nor do I think it at all necessary to recall to memory the things that have been recited above, since, if the keen reader is also studious, he will be able, with the Lord's help, to discover even the greater things hidden in these matters.
+
+We have handed over to the wise and studious man both the material and the cause; if he wishes to use them prudently, he will surpass our invention by his own ingenuity. But whoever desires this road to be more beautiful in the shade should join hand and mind to ingenuity, and should make a path for himself more beautifully adorned by paraphrase. If these things delight anyone, let him keep firmly in memory that he must always remain within the prescribed circle; once he has passed beyond it in any way, the whole operation vanishes uselessly.
+
+There are many names of men, and indeed almost infinite words for things, villages, cities, provinces, herbs, trees, stones, and verbs, all of which serve our purposes. From these it is clear that it is not impossible for a book and a method to be made, if diligence and ingenuity are at hand, which surpass our inventions without limit. But when will one who is of such dullness that he cannot understand these childish things of ours penetrate the subtler matters that remain?
+
+We place an end to the fourth book of the Polygraphy, to which we join a fifth in the name of our Lord Jesus Christ.
+
+Here is the end of the fourth book of the Polygraphy of Johannes Trithemius, abbot, on the fourteenth day of March, in the year 1508.
+
+[segment 86]
+--- Page 458 ---
+| 10 | ||||| ||||||||||||||||||||||||||||| ||||||||||||| ||||| ||| ||||| ||||| || ||||| ||||| ||
+| 9 | ||||| ||||||||| ||||||||||||||||| ||| ||| ||||| |||   ||    ||||| |||||
+| 8 | ||||| ||||||| ||||||||||||||| ||| |||      ||     |||||       ||||
+| 7 | ||||| ||||   ||||||||||||   ||| |||        ||      |||||         |
+| 6 | |||||          ||||||||||                 ||           ||            |
+| 5 |
+| 4 |
+| 3 |
+| 2 |
+| 1 |
+| 0 |
+| - |
+| . |
+| / |
+| \ |
+|   |
+|   |
+
+[segment 87]
+[unclear]
+
+[segment 88]
+--- Page 459 ---
+
+The fifth book of the Polygraphy of Johannes Trithemius, Abbot of Saint James the Apostle at Würzburg, begins its preface.
+
+Those things which, with the aid of our Lord Jesus Christ, we have arranged, however adequately, in the four preceding books for the completion of our Polygraphy, reasonably require that in this fifth book we briefly treat the remaining precepts and methods of this instruction that are still left. We shall therefore give in it a sufficiently concise method by metathesis, that is, by transposition of letters, by which a friend may safely, securely, and most secretly write to a friend whatever he wishes. We read that Caesar Augustus used this method of writing in secret matters. Although this method of communication is in many ways secure, it is nevertheless always regarded with suspicion by those who look at it, because as soon as a transposition of letters is seen, anyone who is curious at once suspects that something lies hidden beneath them.
+
+There are, moreover, almost infinite methods of this invention. From them, for the necessary introduction, we have marked out the following for the reader, reserving the rest to be investigated by his ingenuity. First, therefore, we have set before him the canonical table of this craft, to which we have joined another, reversed. In these two tables the root and foundation of the aforementioned transposition is entirely set down, upon which the structure of the whole edifice is placed. For when these two tables have been properly known and understood, no transposition of letters will be able to remain hidden from one who works diligently. To these we have joined twenty-four alphabets in order, so that we might provide the reader with an abundance of transposing letters. Their use, according to one’s wish, consists in individual alphabets, or, if you prefer, also in all of them. If you have secret correspondence with many people, distribute individual alphabets to your individual acquaintances, but commit to memory what you have given to each one.
+
+--- Page 460 ---
+
+Let the first alphabet be entrusted to the first person, the second to the second, the third to the third, and so let it be done in order with the rest. But if, because of the multitude of affairs or of one’s household, the alphabets which we have marked out should not suffice for everything, or if some of them seem too open and manifest, we shall be able to introduce various new transpositions, whose number may be very great, while the method of the secret always remains perpetually hidden. Let us give an example of this: let B be a, F be b, L be c, P be d, T be e, Z be f, C be g, M be h, and so let it be done consecutively through the whole usual alphabet, so that between any assumed letter three letters intervene idly and in transposed order. Afterward let there be four, then five, more or fewer, yet so that the whole alphabet, as if revolved in a circle, comes together, and no letter at all is omitted, but each is placed in the same series for another in its own order.
+
+In whatever way you write it, you must know that the method itself is to be entrusted firmly either to writing or to memory, lest, having slipped through forgetfulness, you can no longer read what you yourself had written. For the transposition of letters can be varied in so many ways that, according to the estimation of human understanding, which, enclosed in a mortal body by temporal operation, does not properly grasp infinite things, an innumerable number will arise for a mortal man. Hence whoever wishes to have more methods of writing by metathesis, and methods remote from our instruction, will easily achieve the result in his work if he is even a little ingenious and diligent. For the human mind can do very great things if it is aided by study and art. But he who despises small things will never attain to greater ones.
+
+I know that there will be many who will mock these studies of ours as empty and childish. To them we give as an answer that we shall be altogether content, provided they please those at whose request they have been composed by us.
+
+The direct table follows.
+
+--- Page 461 ---
+
+Direct table of transposition.
+
+abdefghiklmnopqrstuxywabcdefgbiklmnopqrs t u x y z w abcdefg b i k l m n o p q r s t u x y 3 w ab c def g h i k l m n o p qr s t u x y 3 wa bc d e f g h i k l m n opqr st u x y 3w ab cd ef g h i k l m nop qr s t u x y 2 w abcd ef g h i k lm nop qr s t u x yz w abc df gh i k l m nop qr s t u x y3w ab c de f g h i k l mn op qr s t u x y z w ab c d ef g h i k l mop qr s t u x y; w ab c d ef g h ik l m nop qr s t u xy ; w a b c d e f g h i K L M N O P Q R S T U X Y Z W A B C D E F G H I K L M N O P QRSTUXYZWABCD EF GH IKLMNOPQRS TUXYZWABCDEFGHIKL MNO PQRS TUXY3W ABCD EFGH IK LM NOPQR STU XY3W AB CD E FGHIKLMN OPQRSTUXY3WABCD EFGHIKLMPQRSTUXY3WA BC DEF GHI KL MNO PQRSTUXY3 WA BC DE FGHI KLM NOP QRSTUXY3 WAB CD EF G HI KLMNOP QRSTUXY3W AB CDE FGHI KLMNOP QRSTUX Y3WAB CDE FGHI KM NOP QRSTUXY 3WAB CD EFGHI KLMNOP QRST UX Y3WAB CD E FGHI KLMNOP QR STUX Y3WAB CD EF GHI KLMNOP QRSTUXX3WAB CD EFG HI KLMNOP QRSTUY3WAB CD EFG HIKLMNOP QRSTUXy z
+
+In this canonical or direct table of letters, from our one usual alphabet of Latin letters, by change or transposition of the letters themselves, you have as many alphabets as there are monograms throughout it, namely twenty-four times twenty-four, which make 576 in number; and when multiplied by the same number, they make a little less than fourteen thousand.
+
+O ij
+
+[segment 89]
+[letter table]
+
+[segment 90]
+--- Page 462 ---
+
+*Table of reversed transposition.*
+
+```text
+w z y x u t s r q p o n m l k i b g f e d c b a w 3
+y x u t s r q p o n m l k i b g f f e d c b a w 3
+x u t s r q p o n m l k i b g f e d c b a w z y
+u t s r q p o n m l k i b g f e d c b a w 3 y
+t s r q p o n m l k i b g f e d c b a w z y x
+s r q p o n m l k i b g f e d c b a w ; y x u t
+r q p o n m l k i b g f e d c b a w ; y x u t s
+q p o n m l k i b g f e d c b a w ; y x u t s r
+p o n m l k i b g f e d c b a w ; y x u t s r q
+n m l k i b g f e d c b a w ; y x u t s r q p o
+m l k i b g f e d c b a w ; y x u t s r q p o n
+k i b g f e d c b a w ; y x u t s q p o n m l
+b g f e d c b a w ; y x u t m s r q p o n m k
+b g f e d c b a w ; y x u t s r q p o n m l k
+g f e d c b a w ; y x u t s r q p o n m l k
+f e d c b a w ; y x u t s r q p o n m l k i b g
+d c b a w ; y x u t s r q p o n m l k i b g f e
+c b a w ; y x u t s r q p o n m l k i b g f e d
+a w z y u t s r q p o n m l k i b g f e d c b a w z y x u t s r q p o n m l k i b g f e d c b a w 3
+```
+
+In this reversed table, moreover, you have just as many alphabets by transposition of letters as we also set down in the preceding straight table. For, as you see, under metathesis there are twenty-four to the right; likewise the same number to the left; twenty-four downward, and twenty-four upward. These, multiplied twenty-four times through ninety-eight and reduced to the form of a cross on four sides, make no fewer than 112 alphabets.
+
+*The same table follows, expanded.*
+
+[segment 91]
+w 3 y x u t s r q p o n m l k i b g f e d c b a
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k i b g f e d c b a w
+3 y x u t s r q p o n m l k
+
+[segment 92]
+--- Page 463 ---
+The first figure of the expansion of the straight table:
+
+| a | b | c | d | e | f |
+| b | c | d | e | f | g |
+| c | d | e | f | g | h |
+| d | e | f | g | h | i |
+| e | f | g | h | i | k |
+| f | g | h | i | k | l |
+| g | h | i | k | l | m |
+| h | i | k | l | m | n |
+| i | k | l | m | n | o |
+| k | l | m | n | o | p |
+| l | m | n | o | p | q |
+| m | n | o | p | q | r |
+| n | o | p | q | r | s |
+| o | p | q | r | s | t |
+| p | q | r | s | t | u |
+| q | r | s | t | u | x |
+| r | s | t | u | x | y |
+| s | t | u | x | y | z |
+| t | u | x | y | z | w |
+| u | x | y | z | w | a |
+| x | y | z | w | a | b |
+| y | z | w | a | b | c |
+| z | w | a | b | c | d |
+| w | a | b | c | d | e |
+
+This is the first figure of the expansion of the straight table. You have five alphabets by metathesis, with the letters transposed as is seen. In the first alphabet, namely, b is taken for a, c is accepted for b, and so on in sequence, as is clearer to one who looks carefully. In the second alphabet c is taken for a; in the third, d; in the fourth, e; in the fifth, f, just as the placement of the order teaches.
+
+The expansion is continued.
+
+o iij
+
+--- Page 464 ---
+The second figure of the expansion of the straight table
+
+| ag | ab | af | ak | al |
+| bb | bi | bk | bl | bm |
+| ci | ck | cl | cm | cn |
+| dk | dl | dm | dn | do |
+| el | em | en | eo | ep |
+| fm | fn | fo | fp | fq |
+| gn | go | gp | gq | gr |
+| ho | hp | hq | hr | hs |
+| ip | iq | ir | is | it |
+| kq | kr | ks | kt | ku |
+| lr | ls | lt | lu | lx |
+| ms | mt | mu | mx | my |
+| nt | nu | nx | ny | nz |
+| ou | ox | oy | oz | ow |
+| px | py | pz | pw | pa |
+| qy | qz | qw | qa | qb |
+| rz | rw | ra | rb | rc |
+| sw | sa | sb | sc | sd |
+| ta | tb | tc | td | te |
+| ub | uc | ud | ue | uf |
+| xc | xd | xe | xf | xg |
+| yd | ye | yf | yg | yb |
+| ze | zf | zg | zb | zi |
+| wf | wg | wb | wi | wk |
+
+In this second figure of the expansion of the straight table there are likewise contained five alphabets, from which, by metathesis, many others can also be made; for the sake of brevity we have omitted their arrangement. Pugtliw, azpalspbw, gbhgw. The expansion is continued.
+
+--- Page 465 ---
+The third figure of the expansion of the straight table.
+
+| am | na | ao | ap | aa |
+| bn | bo | bp | bq | br |
+| co | cp | cq | cr | cs |
+| dp | dq | dr | ds | dt |
+| eq | er | es | et | eu |
+| fr | fs | ft | fu | fx |
+| gs | gt | gu | gx | gy |
+| ht | hu | hz | hy | bz |
+| iu | ix | iy | iz | iw |
+| kx | ky | kz | kw | ka |
+| ly | lz | lw | la | lb |
+| mz | mw | ma | mb | mc |
+| nw | na | nb | nc | nd |
+| oa | ob | oc | od | oe |
+| pb | pc | pd | pe | pf |
+| qc | qd | qe | qf | qg |
+| rd | re | rf | rg | rh |
+| se | sf | sg | sh | si |
+| tf | tg | th | ti | tk |
+| ug | uh | ui | uj | uk |
+| xb | xi | xk | xl | xm |
+| yi | yk | yl | yn | yo |
+| zk | zl | zm | zn | zo |
+| wl | wn | wo | wp | wz |
+
+In this expanded figure of the straight table too there are five alphabets, distributed in order as is seen. In the first of them, by the principle of metathesis, m is taken for a; in the second, n; in the third, o; in the fourth, p; in the fifth, q. Their number can be enlarged in many ways, as was said above.
+
+Continuation of the expansion. o iij
+
+[segment 93]
+--- Page 466 ---
+
+Fourth figure of the expansion of the straight table.
+
+[table of repeated cipher letters: a m a n a o a p a q a r a s a t a u a x a y a z ...]
+
+[segment 94]
+[page 467]
+
+The fifth figure of the expansion of the straight table.
+
+| a y | a 3 | a w | a c | a g |
+| b z | b w | b a | b c | b i |
+| c w | c a | c b | c g | c l |
+| d a | d b | d c | d i | d n |
+| e b | e c | e d | e l | e p |
+| f c | f d | f e | f l | f r |
+| g d | g e | g f | g l | g t |
+| h e | h f | h g | h l | h x |
+| i f | i g | i h | i l | i 3 |
+| k g | k h | k i | k l | k w |
+| l h | l i | l k | l l | l b |
+| m i | m k | m l | m l | m d |
+| n k | n l | n m | n l | n f |
+| o l | o m | o n | o l | o b |
+| p m | p n | p o | p l | p k |
+| q n | q o | q p | q l | q m |
+| r o | r p | r q | r l | r o |
+| s p | s q | s r | s l | s q |
+| t q | t r | t s | t l | t s |
+| u r | u s | u t | u l | u u |
+| x s | x t | x u | x l | x y |
+| y t | y u | y x | y l | y a |
+| z u | z x | z y | z l | z c |
+| w x | w y | w 3 | w l | w e |
+
+This is the fifth and last figure of the expansion of the straight table, containing three alphabets in itself, and it completes in itself the twenty-third number. If you add the usual alphabet to it, they will rise according to the number of the letters, twenty-four. The remaining two transfer the letter into the third and are set down as an example. The expansion of the reversed table,
+
+[page 468]
+
+The first figure of the expansion of the reversed table.
+
+| a w |
+| b z |
+| c y |
+| d x |
+| e u |
+| f t |
+| g s |
+| h r |
+| i q |
+| k p |
+| l o |
+| m n |
+| n m |
+| o l |
+| p k |
+| q i |
+| r b |
+| s g |
+| t f |
+| u e |
+| x d |
+| y c |
+| z b |
+| w a |
+| a z |
+| b y |
+| c x |
+| d u |
+| e t |
+| f s |
+| g r |
+| h q |
+| i p |
+| k o |
+| l n |
+| m m |
+| n l |
+| o k |
+| p i |
+| q b |
+| r g |
+| s f |
+| t e |
+| u d |
+| x c |
+| y b |
+| z a |
+| w w |
+| a y |
+| b x |
+| c u |
+| d t |
+| e s |
+| f r |
+| g q |
+| h p |
+| i o |
+| k n |
+| l m |
+| m l |
+| n k |
+| o i |
+| p b |
+| q g |
+| r f |
+| s e |
+| t d |
+| u c |
+| x b |
+| y a |
+| z w |
+| w z |
+| a z |
+| b y |
+| c w |
+| d w |
+| e w |
+| f w |
+| g w |
+| h w |
+| i w |
+| k w |
+| l w |
+| m w |
+| n w |
+| o w |
+| p w |
+| q w |
+| r w |
+| s w |
+| t w |
+| u w |
+| x w |
+| y w |
+| z w |
+| a u |
+| b t |
+| c s |
+| d r |
+| e q |
+| f p |
+| g o |
+| h n |
+| i m |
+| k l |
+| l k |
+| m i |
+| n b |
+| o g |
+| p f |
+| q e |
+| r d |
+| s c |
+| t b |
+| u a |
+| x w |
+| y z |
+| z y |
+| w x |
+
+This is the first figure of the expansion of the reversed table; since, proceeding from the opposite direction, it runs counter to the straight one, it is rightly called irregular. For, with the alphabets alternated in order, it introduces an error backward from the twelfth, varying neither m nor l. Since the rule produced this, it did not seem that it should be altered.
+
+Continuation.
+
+[page 469]
+
+The second figure of the expansion of the reversed table.
+
+| d | a | t | [unclear] | a | q | m | a p n | o |
+| b s | b r | b q | b p | b o | b n |
+| c r | c q | c p | c o | c n | c m |
+| d q | d p | d o | d n | d m | d l |
+| e p | e o | e n | e m | e l | e k |
+| f o | f n | f m | f l | f k | f i |
+| g n | g m | g l | g k | g i | g h |
+| h b | h i | h j | h k | h l | h s |
+| w i | w k | w l | w m | w n | w o |
+| k k | k i | k b | k g | k f | k e |
+| l i | l b | l g | l f | l e | l d |
+| x m | x b | x k | x l | x m | x n | x o | x p | x q | x y | x z |
+| n g | n f | n e | n d | n c | n b |
+| o f | o e | o c | o b | o a |
+| p e | p d | p c | p b | p a | p u | p v | p z |
+| q d | q c | q b | q a | q v | r t | r s | r u | r y |
+| r c | r b | r a | r w | r z | s t | s u | s v | s y | s x |
+| s b | s a | s w | s 3 | s y | t u | t v | t z |
+| t a | t w | t 3 | t y | t x | u t | u u | u v | u s | u z |
+| u w | u z | u y | u x | u t | x t | x u | x v | x s | x z |
+| m 3 | m x | m y | m z | m t | s q | s r | s s | s y | s z |
+| l y | l x | l z | l t | l 3 | q u | q v | q s | q y | q z |
+| z u | z t | z 3 | z r | z s | w i | w j | w k | w n | w o |
+
+In this second figure of the expansion of the reversed table there are six alphabets in number. In the first of them k, in the third i, and in the fifth h are not changed. Since the rule produced this, it makes no difference, because in so great a multitude of variation there will be no one, even the most skilled, who can weigh out the constancy of a single mark or character.
+
+Continuation.
+
+[segment 95]
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x y z
+
+a b c d e f g h i k l m n o p q r s t u v w x
+
+[segment 96]
+--- Page 470 ---
+
+The third figure of the expansion of the reversed table.
+
+| a n q | m p a l | a k a i | b b g e f d c h j o r u x t v w z y s q p o i k d b e c f g d e f b g h i k a b c d e f g h i k a b c |
+
+In this third figure of the expansion of the reversed table there is nothing new in its kind, apart from the transposition, which is common to all in almost infinite degrees. Six alphabets have been shifted. In the first, t is eclipsed; in the second, g; in the third, s; in c, r, etc.; the rule teaches the reason for this.
+
+Continuation of the table.
+
+[segment 97]
+a n a m a l a k a i a b a g
+b m l k b k b b b g b f
+c l k l k i c b c b c d
+d k l k l k b c b c d e
+e l k l k b c b c d f
+f k l k b c b c d f g
+g l k b c b c d f g f
+h k l b c b c d f g f
+i k l b c b c d f g f
+j k l b c b c d f g f
+k l k b c b c d f g f
+l k l b c b c d f g f
+m k l b c b c d f g f
+n k l b c b c d f g f
+o k l b c b c d f g f
+p k l b c b c d f g f
+q k l b c b c d f g f
+r k l b c b c d f g f
+s k l b c b c d f g f
+t k l b c b c d f g f
+u k l b c b c d f g f
+x k l b c b c d f g f
+y k l b c b c d f g f
+z k l b c b c d f g f
+P k l b c b c d f g f
+O k l b c b c d f g f
+n k l b c b c d f g f
+m k l b c b c d f g f
+l k l b c b c d f g f
+k k l b c b c d f g f
+i k l b c b c d f g f
+k k l b c b c d f g f
+l k l b c b c d f g f
+m k l b c b c d f g f
+n k l b c b c d f g f
+o k l b c b c d f g f
+p k l b c b c d f g f
+q k l b c b c d f g f
+r k l b c b c d f g f
+s k l b c b c d f g f
+t k l b c b c d f g f
+u k l b c b c d f g f
+x k l b c b c d f g f
+y k l b c b c d f g f
+z k l b c b c d f g f
+P k l b c b c d f g f
+O k l b c b c d f g f
+n k l b c b c d f g f
+m k l b c b c d f g f
+l k l b c b c d f g f
+k k l b c b c d f g f
+i k l b c b c d f g f
+k k l b c b c d f g f
+l k l b c b c d f g f
+m k l b c b c d f g f
+n k l b c b c d f g f
+o k l b c b c d f g f
+p k l b c b c d f g f
+q k l b c b c d f g f
+r k l b c b c d f g f
+s k l b c b c d f g f
+t k l b c b c d f g f
+u k l b c b c d f g f
+x k l b c b c d f g f
+y k l b c b c d f g f
+z k l b c b c d f g f
+P k l b c b c d f g f
+O k l b c b c d f g f
+n k l b c b c d f g f
+m k l b c b c d f g f
+l k l b c b c d f g f
+k k l b c b c d f g f
+i k l b c b c d f g f
+k k l b c b c d f g f
+l k l b c b c d f g f
+m k l b c b c d f g f
+n k l b c b c d f g f
+o k l b c b c d f g f
+p k l b c b c d f g f
+q k l b c b c d f g f
+r k l b c b c d f g f
+s k l b c b c d f g f
+t k l b c b c d f g f
+u k l b c b c d f g f
+x k l b c b c d f g f
+y k l b c b c d f g f
+z k l b c b c d f g f
+P k l b c b c d f g f
+O k l b c b c d f g f
+n k l b c b c d f g f
+m k l b c b c d f g f
+l k l b c b c d f g f
+k k l b c b c d f g f
+i k l b c b c d f g f
+k k l b c b c d f g f
+l k l b c b c d f g f
+m k l b c b c d f g f
+n k l b c b c d f g f
+o k l b c b c d f g f
+p k l b c b c d f g f
+q k l b c b c d f g f
+r k l b c b c d f g f
+s k l b c b c d f g f
+t k l b c b c d f g f
+u k l b c b c d f g f
+x k l b c b c d f g f
+y k l b c b c d f g f
+z k l b c b c d f g f
+P k l b c b c d f g f
+O k l b c b c d f g f
+n k l b c b c d f g f
+m k l b c b c d f g f
+l k l b c b c d f g f
+k k l b c b c d f g f
+i k l b c b c d f g f
+k k l b c b c d f g f
+l k l b c b c d f g f
+m k l b c b c d f g f
+n k l b c b c d f g f
+o k l b c b c d f g f
+p k l b c b c d f g f
+q k l b c b c d f g f
+r k l b c
+
+[segment 98]
+[Page 471]
+
+Fourth figure of the expansion of the reversed table.
+
+```text
+a g a f a e a d a e a b a b
+b f b e b d b c b d b a b a
+c e c d c e c d c e c w c w
+d d d e d b d a d b d y d y
+e c e b e a e w e a e x e x
+f b f a f w f y f x f y f u
+g a g w g y g x g y g u g u
+h w h y h x h u h x h u h s
+i x i x i u i u i x i u i s i s
+k y k u k x k u k x k s k t k t
+l x l x l u l x l u l t l q l q
+m u m u m x m u m x m q m p m p
+n s n s n p n p n p n p n o n o
+o r o p o p o p o p o n o n o n
+p q p q p o p o p o p o p m p m
+q r q s q s q s q s q s q l q l
+r s r t r t r t r t r t r k r k
+s t s u s u s u s u s u s i s i
+t u t x t x t x t x t x t b t b
+x l x y x y x y x y x y x g x g
+y k y b y a y w y x y y y f y f
+z b z g z f z y z x z y z e z e
+w g w f w e w x w y w y w d w d
+```
+
+In this fourth figure of the expansion of the reversed table, several errors of letter-omission occur according to the canonical computation. Since these can easily be corrected, I did not wish to depart from the rule of the arrangement. In the first, q and d; in the third, c; in the fifth, o and b are not changed.
+
+Continuation of the table.
+
+p
+
+[Page 472]
+
+Fifth figure of the expansion of the reversed table.
+
+```text
+a a a w a 3 a b a c a m a a
+b w b 3 b y b d b e b n b o
+c 3 c y c x c e c f c o c p
+d y d x d u d f d g d p d q
+e x e u e t e g e h e q e r
+f u f t f u f k f i f r f s
+g t g u g r g k g f g s g t
+h u h r h s h i h f h t h u
+i r i s i t i k i f i u i x
+k s k t k u k f k g k x k y
+l t l u l x l g l h l y l 3
+m u m x m y m h m k m 3 m w
+n x n y n 3 n k n m n w n l
+o y o 3 o w o m o n o l o k
+p 3 p w p l p n p o p m p i
+q w q l q m q o q p q n q k
+r l r m r n r p r q r o r b
+s m s n s o s q s r s p s g
+t n t o t p t q t r t s t f
+u o u p u q u r u s u t u d
+x p x q x r x s x t x u x c
+y q y r y s y t y u y x y b
+3 r 3 s 3 t 3 u 3 x 3 y 3 a
+w s w t w u w x w y w 3 w m
+```
+
+In this fifth figure of the expansion of the reversed table, there are only two alphabets, the first in order, that look toward it. In the first number of these, a is eclipsed. We have set down the remaining four as an example, so that anyone who wishes may have material for fashioning new ones according to his desire.
+
+[Page 473]
+
+ORCHEMA
+
+```text
+a c a y a e a q a p a o
+b e b s b f b r b q b p
+c g c o c g c s c r c q
+d i d k d i d u d s d r
+e l e f e l e x e u e s
+f n f a f m f y f x f u
+g p g x g m g 3 g y g x
+h x h r h m h w h 3 h x
+i z i i i o i a i b i z
+k a k e k n k b k c k a
+l b l u l p l c l d l b
+m c m x m o m d m e m c
+n d n m n p n e n f n d
+o e o b o q o f o g o e
+p f p c p r p g p h p f
+q g q d q s q h q i q g
+r i r e r u r i r k r i
+s k s f s x s k s l s k
+t l t g t y t l t m t l
+u m u h u x u m u n u m
+x n x i x y x n x o x n
+y o y k y z y o y p y o
+z p z l z a z p z q z p
+w q w m w b w q w r w q
+```
+
+In the present orchema a manifold alphabet is handed down by transposition and leap, both according to the rule of order and according to the position of the letters. All these things suffice as an example for those who cannot be content with the ones set down here, so that they may have a method and a form for discovering those that remain, since they can be varied without number.
+
+o ij
+
+[Page 474]
+
+Johannes Trithemius, abbot of Peapolis, to the reader, greetings.
+
+[segment 99]
+--- Page 475 ---
+
+Order of numerical letters.
+
+| a | 1 | ma | 31 | oa | 61 | ra | 91 | wd | 1004 |
+| b | 2 | mb | 32 | ob | 62 | rb | 92 | we | 1005 |
+| c | 3 | mc | 33 | oc | 63 | rc | 93 | wf | 1006 |
+| d | 4 | md | 34 | od | 64 | rd | 94 | wg | 1007 |
+| e | 5 | me | 35 | oe | 65 | re | 95 | wb | 1008 |
+| f | 6 | mf | 36 | of | 66 | rf | 96 | wi | 1009 |
+| g | 7 | mg | 37 | og | 67 | rg | 97 | bw | 2000 |
+| h | 8 | mh | 38 | oh | 68 | rh | 98 | cw | 3000 |
+| i | 9 | mi | 39 | oi | 69 | ri | 99 | dw | 4000 |
+| k | 10 | nj | 40 | p | 70 | q | 100 | ew | 5000 |
+| ka | 11 | nja | 41 | pa | 71 | r | 101 | fw | 6000 |
+| kb | 12 | njb | 42 | pb | 72 | s | 102 | gw | 7000 |
+| kc | 13 | njc | 43 | pc | 73 | t | 103 | hw | 8000 |
+| kd | 14 | njd | 44 | pd | 74 | u | 104 | iw | 9000 |
+| ke | 15 | nje | 45 | pe | 75 | v | 105 | kw | 10000 |
+| kf | 16 | njf | 46 | pf | 76 | w | 106 | lw | 20000 |
+| kg | 17 | ng | 47 | pg | 77 | x | 107 | mw | 30000 |
+| kh | 18 | nh | 48 | ph | 78 | y | 108 | nw | 40000 |
+| ki | 19 | nji | 49 | pi | 79 | z | 109 | ow | 50000 |
+| l | 20 | n | 50 | q | 80 | f | 200 | oow | 60000 |
+| la | 21 | na | 51 | qa | 81 | s | 300 | pw | 70000 |
+| lb | 22 | nb | 52 | qb | 82 | t | 400 | qw | 80000 |
+| lc | 23 | nc | 53 | qc | 83 | v | 500 | rw | 90000 |
+| ld | 24 | nd | 54 | qd | 84 | u | 600 | zw | 100000 |
+| le | 25 | ne | 55 | qe | 85 | x | 700 | fw | 200000 |
+| lf | 26 | nf | 56 | qf | 86 | y | 800 | sw | 300000 |
+| lg | 27 | ng | 57 | qg | 87 | z | 900 | tw | 400000 |
+| lh | 28 | nh | 58 | qh | 88 | w | 1000 | vw | 500000 |
+| li | 29 | ni | 59 | qi | 89 | wb | 1002 | uw | 600000 |
+| m | 30 | o | 60 | r | 90 | wc | 1003 | xw | 700000 |
+
+--- Page 476 ---
+
+Order of numerical letters.
+
+| yw | 800000 | o2w | 6000000 | t2w | 40000000 |
+| zw | 900000 | p2w | 7000000 | v2w | 50000000 |
+| k2w | 1000000 | q2w | 8000000 | u2w | 60000000 |
+| l2w | 2000000 | r2w | 9000000 | x2w | 70000000 |
+| m2w | 3000000 | s2w | 10000000 | y2w | 80000000 |
+| n2w | 4000000 | f2w | 20000000 | z2w | 90000000 |
+| n2w | 5000000 | S2w | 30000000 | k22w | 100000000 |
+
+Now, reader, you have the method by which you can sufficiently mark and write every writable number with few letters; their extension, as you see, proceeds to infinity. But as the proverb was once accustomed to be said, “The weary ox plants its foot firmly”: whoever wishes to be content with former things may follow the old method of numbering. So that those who do not know it may understand it more easily, it will not be tedious for me to give in the following pages the form used by Hunibald the Frankish historiographer, and also by Bede, Rabanus, Helpericus the monks, and many of the ancients in chronicles and ecclesiastical calculations, as follows.
+
+Method of numbering of Hunibald the Frank and others.
+
+| i | 1 | x | 10 | xviiij | 19 | c | 100 |
+| ii | 2 | xi | 11 | xx | 20 | cc | 200 |
+| iii | 3 | xij | 12 | xxx | 30 | ccc | 300 |
+| iv | 4 | xiiij | 13 | xxxx | 40 | cccc | 400 |
+| v | 5 | xiiij | 14 | L | 50 | D | 500 |
+| vi | 6 | xv | 15 | lx | 60 | dc | 600 |
+| vii | 7 | xvj | 16 | lxx | 70 | dcc | 700 |
+| viii | 8 | xvij | 17 | lxxx | 80 | dccc | 800 |
+| ix | 9 | xviiij | 18 | lxxxx | 90 | dcccc | 900 |
+
+--- Page 477 ---
+
+Ancient order of numerical letters:
+
+| M | 1000 | C | 100000 | c | 1700000 |
+| I | 1000 | CC | 200000 | c | 1800000 |
+| II | 2000 | CCC | 300000 | c | 1900000 |
+| III | 3000 | CCCC | 400000 | c | 2000000 |
+| V | 5000 | D | 500000 | c | 3000000 |
+| VI | 6000 | DC | 600000 | c | 4000000 |
+| VII | 7000 | DCC | 700000 | c | 5000000 |
+| VIII | 8000 | DCCC | 800000 | c | 6000000 |
+| IX | 9000 | DCCCC | 900000 | c | 7000000 |
+| X | 10000 | L | 1000000 | c | 8000000 |
+| XX | 20000 | Lx | 1100000 | c | 9000000 |
+| XXX | 30000 | LX | 1200000 | c | 10000000 |
+| XXXX | 40000 | LXX | 1300000 | c | 20000000 |
+| L | 50000 | LXXX | 1400000 | c | 30000000 |
+| LX | 60000 | LXXXI | 1500000 | c | 40000000 |
+| LXX | 70000 | LXXXII | 1600000 | c | 50000000 |
+| LXXX | 80000 | LXXXIII | 1700000 | c | 60000000 |
+| LXXXX | 90000 | LXXXIV | 1800000 | c | 70000000 |
+
+--- Page 478 ---
+
+Ancient order of numerical letters.
+
+[table of numerical signs: unclear]
+
+We have brought down to this point, for the sake of example, the method of the ancient Franks of Germany for writing numbers with Latin letters, so that we might provide knowledge of it also to those who do not know it. As for the fact that in the addition of the figures of algorism we have departed from the common rule of computation, this was done not by mistake but for a reasonable cause, namely so that we would not be burdened by excessive progression. There were also some who wrote larger numbers in this manner.
+
+| cm. | .ooo100000 | dcccm. | .oooo800000 | lxcm. | .oo0000 |
+| ccm. | .ooo20000 | dccccm. | .oooo900000 | lxxcm. | .oo0005 |
+| cccm. | .ooo40000 | xcm. | .oooooooo | lxxxcm. | .oo006 |
+| ccccm. | .ooo60000 | xxcm. | .oooooooo | lxxixcm. | .oo07 |
+| dm. | .ooo80000 | xxxcm. | .oooooooo | icm. | .o0000 |
+| dcm. | .oooA0000 | xxxxcm. | .oooooooo | xcm. | .o003 |
+| dccm. | .oooB0000 | lcm. | .oooooooo | xccm. | .o006 |
+
+With these matters concerning the system of numbers duly completed, we also end the fifth book of the Polygraphia. In the year of the Lord 1508.
+
+NDS
+
+[segment 100]
+--- Page 479 ---
+
+THE SIXTH BOOK OF THE POLYGRAPHY OF JOHANNES TRITHEMIUS, ABBOT OF SAINT JAMES THE GREATER APOSTLE AT WÜRZBURG, BEGINS.
+
+Before all invention and use of letters, at the beginning of the world, when human beings were still crude in understanding and uncultivated in their ways, there were, as some think, influences of the planets in the world, exercising their force in their own manner upon bodies on earth, under the rule of the shared alternation of three intelligences, succeeding one another in order over one thousand sixty-three years. The ancient speculators on this matter say that Saturn, from the beginning of the world, presided by influence over things sprouting and being born on earth, chiefly under the governance of his intelligence, whom they named Orifiel, that is, the vivifying one of God, for three hundred fifty-four lunar years, likewise four months, and just as many days and hours. We recount these things as poetic fictions; we do not affirm them.
+
+After Saturn, Venus is held to have taken up the dominion; after Venus, Jupiter. After Jupiter, however, Mercury, fourth in order, as ruler adorned the minds of human beings with various arts. Under the three intelligences just mentioned, namely while Saturn, Venus, and Jupiter were ruling, they assert that human beings had neither the use nor the knowledge of letters. Hence whenever one person wished to communicate some secret to another, he did this not by writings, since the function of letters was lacking, but symbolically, by certain likenesses of animals, trees, plants, or other sensible things, according as each had agreed among themselves.
+
+The time of Saturn, they say, gave human beings ways of life corresponding to his proper influence. For it made them farmers, hunters, founders of cities, crude, woodland-dwelling, gloomy, simple, uncultivated in life and manners, and living for a long time in the flesh. After Orifiel of Saturn, as those who hold such opinions themselves say, Anael, the mover of Venus, received the intelligence that governed the world by influence, and continued it for three hundred fifty-four years,
+
+--- Page 480 ---
+
+months, days, and four hours. Under him human beings began to be more cultivated, to build houses and cities more frequently, and also to discover various manual arts, namely the work of weaving, wool-working, and many other things similar to these. They also began to sink further into the pleasures of the flesh; taking beautiful wives and begetting many children from them, they notably fell away from natural simplicity. They invented games and songs, began to play the cithara, and whatever they maintain belongs to the influence of Venus, following the excessive motion of the flesh, they devised with greater eagerness.
+
+The third intelligence, that of Jupiter, they named Zachariel. Taking up the dominion of the world after Anael, it made human beings restless with desire for rule, practicing hunts, making tents, and adorning themselves with various garments. While he was ruling, in keeping with the quality of Jupiter, who deprived his father of the kingdom, a great division arose between the good and the wicked, the former calling upon God, the latter given over to the flesh and the world. Under that rule Adam, the first man, died, leaving to all posterity the testament of dying once.
+
+The fourth mover or angel of Mercury, Raphael, after Zachariel, began to exercise influence over worldly affairs in the one thousand fifty-fifth year of the world, at the end of the month of February, and lasted until the one thousand four hundred tenth year of the world. Under him the use of letters is first said to have been discovered. But the letters at that time, as they report, were very different from those which the world has today: they were devised according to the form and likeness of trees, plants, and animals. Yet afterward, with time, these were changed in many ways, and took on an easier manner of formation and a more cultivated ornament.
+
+For the poets’ fictions said that Mercury was the presiding power over all literature, promising that great mysteries of things lay hidden beneath fables. After this, when the human race had multiplied and had been spread everywhere over the whole earth, the unity of letters did not remain long; instead, the separation of bodies and minds far from one another discovered different and various modes of writing, about which there is a long account for us. Plato the philosopher, in the Phaedrus, says that the letters and the use of writing, together with the system of weights, numbers, and the game of dice, were discovered by a certain philosopher, Theoton.
+
+[segment 101]
+--- Page 481 ---
+by name first discovered them, and taught them to Thamus, king of the Egyptians. As for the other ancient men who are said to have handed down special letters to almost individual nations and peoples, letters which remain in use among them down to the present day, it is not my purpose on this occasion to set out or describe the account. For all our teachers know that Cadmus, son of Agenor, king of the Phoenicians, is said first to have brought sixteen letters into Greece: α β γ δ ε ζ θ κ λ μ ν ο π ρ σ τ υ φ ψ χ ω. Palamedes is said to have added four during the time of the Trojan War: ξ, θ, φ, χ. And Pythagoras afterward added the letter ω, so that there would be twenty-one. κ and ω were later discovered by others. Jordanes, bishop of the Goths, gave his people letters of their own. When the unity of language had been confounded, the simplicity of characters also was varied in many ways. Hence it came about that the use of letters, in the course of time, claimed such license for itself that not only individual peoples, but also particular men, fashioning new characters for letters according to their own judgment, prepared hiding places for their mysteries.
+
+Yet every writing in an unusual character will not be free from suspicion among those who see it. Notwithstanding this, many ancient kings, tyrants, and princes once devised for themselves a private mode of writing, set apart from the common one, caring little for the suspicion of others, provided that what they wished to remain secret was not perceived. Moved by their imitation, and wishing to bring this work of Polygraphy, so far as it can be done, to a perfect conclusion, in this sixth book, which is also the last, I have resolved to call back from the underworld certain old characters which have long since fallen out of human use, lest they perish altogether. And first we shall set down the ancient mode of writing of the Northmen.
+
+ON THE ALPHABET AND MODE OF WRITING
+of the marvelous Northmen, at the time when they were ravaging Gaul with their incursion.
+
+All the letters of the Greeks and Palestinians are numerical, as was said before, while among the Latin letters, which we Germans also use, only seven are referred to numbers:
+
+--- Page 482 ---
+namely c, d, i, l, m, v, and x. The Northmen, however, together with the Asiatic Dacians, having once come forth from the Scandinavian islands, which are now called Gothic, roamed through Gaul for more than forty years and devastated it most grievously. In order to look after their secret affairs, as Bede the English monk attests, they devised from Greek letters a new and handsome mode of writing like this. For they adapted the Greek numbers, comprised in twenty-four letters and ten signs, to Latin characters, and prudently concealed our letters under a foreign form: that is, in the way in which we use numbers in place of letters, when, for example, we put 1 for a, 2 for b, 3 for c, 4 for d, and so on to the end of the alphabet. A handsome invention indeed, and secure enough, which neither a Greek nor a Latin will easily comprehend. For the whole alphabet is not found in it, but only nine letters and one numerical sign, namely g, which among them signifies six and, in this mode of writing, the sixth letter of the Latins, f. Furthermore, deferring to our German tongue, in which we were born, we have placed double w at the very end as the twenty-fourth letter of our nation, which we have formed according to the Greek number thus: ꝟ. Now we shall set down this Northmen’s writing in imitation of the following order of Greek letters.
+
+| A | α | I | ι | T | t | G | γ | R | r |
+| b | β | K | κ | S | σ | Γ | υ | Θ | θ |
+| C | ψ | L | λ | F | φ | Δ | δ | X | x |
+| D | δ | M | μ | P | π | Κ | κ | Y | y |
+| E | ε | N | ν | Q | q | Λ | λ | Z | z |
+| F | τ | O | ο | Ω | ω | Μ | μ | Α | a |
+| G | g | P | p | Β | β | Ν | ν | B | b |
+| H | h | Q̄ | q̄ | Π | π | Ξ | ξ | C | c |
+| I | i | R | ρ | Σ | σ | Ψ | ψ | D | d |
+| J | j | T | τ | Τ | t | Φ | φ | E | e |
+| K | k | U | u | Υ | υ | Χ | χ | F | f |
+| L | l | V | v | Ζ | z | Ψ̄ | ψ̄ | G | g |
+| M | m | W | w | Θ̄ | th̄ | Ω̄ | ō | H | h |
+| N | n | X | x | Ῑ | ī | Κ | k | I | i |
+| O | o | Y | y | Ο̄ | ō | λ | λ | A | a |
+| P | p | Z | z | Ρ | r | Μ | m | S | s |
+| Q | q | | | Α | α | Β | β | T | t |
+| R | r | | | Κ | κ | Δ | δ | Π | π |
+| S | s | | | Λ | λ | Γ | γ | Ξ | ψ̃ |
+| T | t | | | Σ | σ | Δ | d | Θ | θ |
+| U | u | | | Φ | φ | Ε | ε | Τ | τ |
+| V | v | | | Χ | χ | Υ | υ | | |
+
+[segment 102]
+--- Page 483 ---
+
+represent Latin letters, they can be read neither by a Greek nor by a Latin, unless he has first acquired knowledge of this technique. This method of writing can also be varied in many ways, when the numbers and letters are changed by metathesis. This can also be done with full Greek letters, according to the wish and judgment of any industrious writer. Nor will the method of forming these characters be very difficult, especially for one who has had some little practice. The characters written above also suit the German language well enough; with them we can denote everything that occurs to us, in whatever speech we are skilled. Whenever iota is set by itself, so that it may be known to denote the letter k, the tenth of the alphabet, it is marked above thus: ī.
+
+ON THE ALPHABET AND METHOD OF WRITING OF THE ANCIENT FRANKS.
+
+Many hold the opinion that the Germans once had letters from the Greeks, and they steadfastly affirm that they also used the Greek language, especially in their sacred rites. For they say that there is great agreement between the Greek language and our own, although the long interval of time has wholly extinguished that correspondence. That most learned man, once my teacher, Johannes Camerarius Dalburgius, the most reverend bishop of the church of Worms, had collected several thousand Greek words which mean the same thing in both languages, Greek and German. And Caesar testifies in his Commentaries that the Druids, the ancient priests of sacred rites in Gaul, used the Greek language, especially in sacred matters. But when the Romans devastated the world, they at last violently imposed the use of their own letters, together with their dominion, upon many nations. Finally the remnant of the Trojans, who afterward were called Franks, in the four hundred and fortieth year before the incarnation of the Lord,
+
+--- Page 484 ---
+
+came out from the borders of the Scythians, with King Marcomer providing leadership, and entered Germany; and from the Saxons, their brothers, they received settlements at the mouths of the Rhine. Thereafter, for nine hundred and fifty years, they waged almost continual war with the Romans and the Gauls, as Hunibald is the authority, and finally brought almost all Europe under their empire or kingdom. Yet they did not abolish the letters of the Romans once they had received them; rather, being themselves mingled among the Germans and Gauls, they learned their language and preserved their letters and form of writing. Wastaldus, the writer of the histories of this people, wrote in his native language books of the deeds of kings, dukes, and princes over nearly seven hundred and fifty-eight years, appending, as Hunibald says, the following characters, which he mentions in his volume that he published in eighteen books on the origin of the Franks.
+
+| Λ a | Θ e | ɔ z | ϒ t |
+| ⏝ b | φ th | X x | λ y |
+| ∆ g | η i | o o | ph̄ |
+| Δ d | k K | P p | ch̄ |
+| ↥ c | l I | r T | pr̄ |
+| E Z | m C | F f | oo |
+
+Unless a fault in the writer has deceived me, I have, as I think, fittingly represented Wastaldus’s alphabet. In it some characters differ entirely from the Greek, while some also seem partly to resemble them. Yet I do not know what judgment to make: whoever their inventor was, although he did not keep the form of the Greek letters, he nevertheless observed the order of the letters. The codex, fragile from excessive age, could scarcely be read; hence I fear that I was deceived by some interpolator rather than that I found the true and certain meaning of Hunibald.
+
+[segment 103]
+--- Page 485 ---
+
+But let us pass on to what remains, since, if Hunibald's statement is true, it will have been well written by us; but if it is someone’s fiction, it will neither harm us nor do injury to the reader. There follows another fictitious alphabet, found in Hunibald’s codex, to which this was inscribed:
+
+The Alphabet of the Franks, which Doracus invented.
+
+A ɔ B D G P T U V K L M N S X Y Z
+Π Ρ ψ Q I H R Ψ α β γ δ ε φ χ ω
+
+Whoever wishes to use the characters written above should know that they are to be written beneath the lines, in the manner of the Greeks, not above them as the Latins do. Likewise it must be observed that, of the double letters, the first are written at the beginning and in the middle of words, but the second always at the end.
+
+From the grammars of Otfrid, monk of Weissenburg.
+
+We have read that Charles, king of the Franks, surnamed the Great, taking pity on the barbarous condition of his nation, with Nanno, Theobald, Albinus, and Berenger as helpers, attempted to regulate the German language. And although, as Turpin bears witness, he had begun so arduous a work, yet, delayed by frequent incursions of wars, he did not complete it, but, overtaken by death, left it unfinished; nor did another man arise after him who would recall care for this matter to mind. But the aforesaid Otfrid, monk, once hearer and disciple of Rabanus of Fulda,
+
+--- Page 486 ---
+
+under Louis the Pious, son of that Charles, having acquired that grammar, though imperfectly, wrote many things in our German language, which seem to sound with a remarkable gravity of regular instruction. For he composed many poems according to the same rule, in both heroic and elegiac meter; moreover he also composed some works in prose for Louis, king of Germany, son of Louis the Pious and brother of the emperor Lothar; and also for Otgar, archbishop of Mainz, for the monks of Saint Gall, and for others. Having obtained fragments of this grammar, I too have extracted these present alphabetic characters from among many, lest they perish utterly. It is established, with Otfrid as witness, that Charles devised several alphabets of his own, by which he might securely use his very extensive realm in secret dealings with individual prefects. From these, with Otfrid supplying the letters, we commit a few things here.
+
+Δ ϖ Γ η 7†
+⋆ b λ h Δ o 6v
+κ c m i V P 2x
+Π d φ k Λ q 30y
+ω e τ l ζ T ujz
+℞ F μ m ψ s ϒ ijw
+
+Charles, the great king and most Christian emperor, fought for no fewer than thirty years with the Saxons, whom at length, overcoming them by the sword, he converted to the Christian faith. But fearing lest they should again apostatize from the faith, as they had done many times, he appointed certain secret investigators, on whom he conferred judicial authority, so that, traveling through all Saxony, they should secretly and diligently inquire into the faith and morals of the people; and whomever they found to have apostatized from the faith, or to be robbers, adulterers, blasphemers, contemners of the church or of its priests and commandments, or men disturbing the Christian commonwealth by notorious crimes,
+
+--- Page 487 ---
+
+or recalling or soliciting the people to paganism, they should without delay, by imperial and royal authority and with impunity, hang by the noose, or otherwise kill as they could. And so that this institution might remain forever unshaken, he gave the same men the power of substituting also others, suitable under certain conditions, who, enjoying the aforesaid faculty, should with impunity exercise the office of inquiry and of death against the guilty. Finally he prescribed for them secret laws and hidden signs, together with the form of an oath, by which they should proceed justly in judging and punishing, and, known mutually to one another, should remain hidden from others, and should preserve forever, more secretly, the necessary judgment in the Saxon land. They also used certain alphabets among themselves for a time, which nevertheless at last fell entirely out of use. Yet the office of this kind of inquisition remains down to the present time, whose ministers are commonly called Feimeri.
+
+❧
+❧
+
+[segment 104]
+--- Page 488 ---
+
+For no one, however learned or educated, even if he is a good writer in any language, will be so unless by long habit of writing he has transformed practice into art. Another follows.
+
+[alphabet table]
+
+If anyone should wish to fashion a new alphabet for himself according to his own judgment, let him know first of all that two things must be observed, which nevertheless I do not always find preserved in what has gone before. The first is that he form characters of easy drawing; the simpler they are, the better they will be. The second is that he arrange the individual letters in such a way that, when joined into words, they present a beautiful and graceful appearance. I add a third thing, not promised: if you wish the writing to remain secret, make some letters of the alphabet double, in the manner of the Hebrews.
+
+THE ALPHABET OF HICHUS, AN ANCIENT SEER OF THE FRANKS.
+
+[alphabet table]
+
+This Frank Hichus came with Marcomer from the borders of Scythia to
+
+--- Page 489 ---
+
+the mouths of the Rhine in Germany, and he is said to have invented these characters to supplement the German language; and in many respects they seem to agree with it well enough. Pharamund too, king of the Franks in Germany, the forty-third after Marcomer, who had brought in the people, died in the 426th year of the Lord's nativity. When he had sent his scouts through Gaul for the sake of invading it, he ordered them to write in characters of this kind.
+
+[alphabet table]
+
+Besides the alphabet of the Northmen which we placed at the beginning of this sixth book, we have also found the following written out in Bede, and we commend it to letters.
+
+[alphabet table]
+
+From Latin letters also many alphabets are made, whether reduced to number according to the model which we handed down in the preceding fifth book, or otherwise, in imitation of the Northmen, when with Greek letters too they offer a very safe means of announcing whatever we wish. Let us accordingly set out the letters themselves, unusually altered, according to the number
+
+--- Page 490 ---
+
+and order of our usual alphabet, and we shall have a secret and mystical manner of writing, sufficiently beautiful and graceful when established by practice. This method of numbering, however, is different from the one we placed in the fifth book, and more suited to our purpose.
+
+[table of Latin letters assigned to numbers]
+
+When these principles of numbering with our letters have been rightly understood, it will now be easy to carry the number to any progression whatever, as has been shown clearly enough in the preceding book. Now let us arrange an alphabet from these.
+
+[alphabet table]
+
+You now have from Latin letters a foreign alphabet, such as,
+
+--- Page 491 ---
+
+as we said above, the Northmen once made for themselves from Greek letters. With it, if the necessary diligence is observed, you will safely write to a friend who knows the invention whatever you wish for the occasion. Let us also add another, which we judge to be safer.
+
+[alphabet table]
+
+Although in Latin speech we have no need of k, y, and w, nevertheless, because we use k and w in German, we have extended this alphabet also to the twenty-fourth number, so that it may be drawn out. This manner of writing too can be varied in many ways at pleasure. uigmgocgua et vqvacij xvmigogm3 m mrvqm3m3m vcuqiqiricmvpM? according to the will of every writer.
+
+There follows another alphabet of Honorius, surnamed the Theban, by whose service he concealed his follies in magic, as Peter of Abano testifies in his larger fourth book.
+
+--- Page 492 ---
+
+[alphabet table of Honorius the Theban]
+
+I have also found another alphabet, newly devised by a certain alchemist, which he was accustomed to use in concealing his secrets, making a great estimate of his art, though it contains little besides words. For alchemy is loved by many, and she is chaste.
+
+[alchemical alphabet table]
+
+Alchemy has many household attendants and familiars, who guard their mistress with perpetual vigilance and put themselves forward in her name, so that they may preserve her untouched forever from intercourse with so many importunate lovers. Vanity, fraud, deceitfulness, deception, sophisticating, greed, falsity, lying confidence, foolishness, want, poverty, despair, flight, proscription, and beggary are the maidservants of alchemy; pretending that their mistress is loved, they guard her inviolate, and freely offer themselves to her moneyed, avaricious, greedy, and foolish seekers.
+
+[segment 105]
+--- Page 493 ---
+
+*On the shorthand signs and the wondrous but excessively laborious method of writing of M. T. Cicero, and after him of Saint Cyprian, bishop and martyr.*
+
+Marcus Tullius Cicero, the eloquent orator of the Romans, wrote a book of shorthand signs, of no small extent. Saint Cyprian, bishop of Carthage and martyr, enlarged it with many signs and words, adding terms necessary for Christian usage, so that the work itself became useful not only to pagans but much more also to the faithful.
+
+The book is rare, and was found by me only once, and bought for a cheap price. For when, in the year of the Lord's nativity 1496, I was examining many libraries out of love of books, I found the aforesaid manuscript in a certain monastery of our order, neglected through extreme age, cast under the dust, and despised. I asked the abbot, a doctor of law, how much he valued it. He replied that he would prefer to it the small works of Saint Anselm, recently printed. I went off to the booksellers, since the matter happened in a metropolitan city, bought the requested small works of Anselm for the sixth part of a florin, handed them over to the delighted abbot and monks, and rescued a manuscript already nearly brought to destruction. For they had decided, out of desire for the parchment, that it should immediately be scraped clean.
+
+Almost two years after this, when I had ridden to Strasbourg on business of my order and had been admitted by Johann Keisersberg, the distinguished preacher of that place, into the library of the major church, I found a whole psalter written out in these same signs of Tully and Cyprian, and most handsomely written with golden capitals. But this title had been placed on the outside by someone ignorant of the mystery: *Psalter in the Armenian language*. I brought in a learned man, showed him the error, and advised that it be re-inscribed thus: *Psalter written in Ciceronian signs*. Whether he did it or not I do not know, since I did not afterward return to that library. So that you may see, reader, the form of Cicero's shorthand notation, we have decided to add a few signs below.
+
+--- Page 494 ---
+
+approves | modest | letter
+commends | immodest | letter-character
+improper | moderate | syllable
+proper | immoderate | time
+probity | fitting | through time
+improbity | unfitting | [unclear]
+probable | accommodates | temporal
+rejects | beyond measure | extratemporal
+measure | in what way | man
+
+You have called for a way of writing that requires great memory and, in reading, an altogether immense labor, where any character signifies either a whole word, or a final syllable, or some part of speech suitable for composing the whole. Therefore, omitting all the signs, let us draw an alphabet from a few of them.
+
+Vb a X c F k o q z Π ϖ
+V b A F N l Z P n sch qͣ z
+X b G H # m ṁ pp ℥ t x ph
+U e W g N m h q U th
+Λ cc Wy h V n ψ r z w φ fp
+Y d Y i L n X τ α x ox ft
+
+Many other new alphabets could also be formed from Cicero's signs; we leave their extraction to the judgment of the person who wishes to carry it out.
+
+[segment 106]
+[unknown]
+
+[unclear]
+
+[segment 107]
+[p. 495]
+
+For the book is indeed copious, and contains many signs notably differing from one another, all of which are of service to writers.
+
+```
+a b c d e f g h i k l m
+n o p q r s t u v w x y z
+α β γ δ ε ζ η θ ι κ λ μ
+ν ξ ο π ρ σ τ υ φ χ ψ ω
+α β γ δ ε ζ η θ ι κ λ μ ν
+o p q r s t u v w x y z α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ τ υ φ χ ψ ω
+```
+
+This was the alphabet of Iaimiel, great king of the Arctici, surnamed Megalopius, a most wise man, which he used for secret matters; and it too can be changed in multiple ways. To it, out of love for our prince, we have added the following, in which, if it is used more often over time, the writing will become easier.
+
+```
+a b c d e f g h i k l m
+n o p q r s t u v w x y z
+α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ τ υ φ χ ψ ω
+α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ τ υ φ χ ψ ω
+```
+
+HOW ALSO WITH NUMBERS AND IN MANY OTHER VARIOUS WAYS WE MAY SAFELY WRITE ANY SECRETS WHATEVER.
+
+These things are childish, I admit, since anyone, according to his capacity and judgment, could devise more alphabets, and more elegant ones, than we have recorded in this volume. Therefore we knowingly omit many things which, by a similar reckoning, we judge childish, common, and of little usefulness.
+
+[p. 496]
+
+We fear that someday we shall be ashamed to have directed our mind to these trifles, while more useful matters were left aside. But let the readers spare me, I pray: for my own inclination indeed drew me back from these childish studies, not to say studies in some part vain; but the insistence of certain friends compelled me to write these things, friends to whom I could not, and ought not, deny this without wronging the bond between us. Nevertheless, induced by their entreaty, I had also to connect the following chapter with what has been written above, and to put numbers in place of letters. For the ancients established various and manifold methods of writing by means of the figures of numbers, by which, through subtle invention, they safely transmitted their secrets to one another. Therefore, persuaded by the prayers of my friends, I have placed at the end of this sixth book a few methods out of many, by which a path to knowledge of the others may be opened to those who do not know them. For if anyone takes pleasure in knowing these things, he will easily be able, once these are known, to climb to higher things, and to vary the invented methods at his own discretion by manifold alternation. As the beginning of this matter, we have placed a table under the orchema, which, by varying the reading in the form of a cross, will contain in itself ninety-six alphabets.
+
+[p. 497]
+
+Numerical orchema for letters.
+
+```
+w 3 y x u t s r q p o n m l k i h g f e d c b A
+A b 3 d e f g b i k l m n o p q r s t u x y 3 w
+A 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 A w
+b 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 6 b 3
+c 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 6 7 c y
+d 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 6 7 8 d x
+e 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 6 7 8 9 e u
+f 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 6 7 8 9 10 f t
+g 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 6 7 8 9 10 11 g s
+h 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 6 7 8 9 10 11 12 h r
+i 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 6 7 8 9 10 11 12 13 i q
+k 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 6 7 8 9 10 11 12 13 14 k o
+l 16 17 18 19 20 21 22 23 24 25 26 27 28 29 6 7 8 9 10 11 12 13 14 15 l t
+m 17 18 19 20 21 22 23 24 25 26 27 28 29 6 7 8 9 10 11 12 13 14 15 16 m n
+n 18 19 20 21 22 23 24 25 26 27 28 29 6 7 8 9 10 11 12 13 14 15 16 17 n m
+o 19 20 21 22 23 24 25 26 27 28 29 6 7 8 9 10 11 12 13 14 15 16 17 o l
+p 20 21 22 23 24 25 26 27 28 29 6 7 8 9 10 11 12 13 14 15 16 17 18 p k
+q 21 22 23 24 25 26 27 28 29 6 7 8 9 10 11 12 13 14 15 16 17 18 19 q i
+r 22 23 24 25 26 27 28 29 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 r b
+s 23 24 25 26 27 28 29 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 s g
+t 24 25 26 27 28 29 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 t f
+u 25 26 27 28 29 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 u e
+x 26 27 28 29 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 x d
+y 27 28 29 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 y c
+z 28 29 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 z b
+w 29 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 w A
+
+A b c d e f g b i k l m n o p q r s t u x y 3 w
+w 3 y x u t s r q p o n m l k i h g f e d c b A
+```
+
+[segment 108]
+--- Page 498 ---
+
+First table of anomalous expansion.
+
+```text
+a w 25
+b z 26
+c y 27
+d x 28
+e u 29
+f t 30
+g s 31
+h r 32
+i q 33
+k p 34
+l o 35
+m n 36
+n m 37
+o l 38
+p k 39
+q i 40
+r h 41
+s g 42
+t f 43
+u e 44
+x d 45
+y c 46
+z b 47
+w a 48
+m 49
+a l 50
+b k 51
+c i 52
+d h 53
+e g 54
+f f 55
+g e 56
+h d 57
+i c 58
+k b 59
+l a 60
+m h 61
+n g 62
+o f 63
+p e 64
+q d 65
+r c 66
+s b 67
+t a 68
+u h 69
+x g 70
+y f 71
+z e 72
+w d 73
+x c 74
+y b 75
+z a 76
+u x 77
+t u 78
+s t 79
+r s 80
+q r 81
+p q 82
+o p 83
+n o 84
+m n 85
+l m 86
+k l 87
+i k 88
+h i 89
+g h 90
+f g 91
+e f 92
+d e 93
+c d 94
+b c 95
+a b 96
+b c 97
+c d 98
+d e 99
+e f 100
+f g 101
+g h 102
+h i 103
+i k 104
+k l 105
+l m 106
+m n 107
+n o 108
+o p 109
+p q 110
+q r 111
+r s 112
+s t 113
+t u 114
+u x 115
+x y 116
+y z 117
+z w 118
+w a 119
+a b 120
+c d 121
+d e 122
+e f 123
+f g 124
+g h 125
+h i 126
+i k 127
+k l 128
+l m 129
+m n 130
+n o 131
+o p 132
+p q 133
+q r 134
+r s 135
+s t 136
+t u 137
+u x 138
+x y 139
+y z 140
+z w 141
+w a 142
+a b 143
+b c 144
+```
+
+We have not expanded the orchemata, for a reason that moves us: because, when it ranges farther in its progression, the immense labor terrifies the mind. We have also deliberately passed over unity, not placing it, since we judge it rash to set it before our inventions in order. For from those things which we have already shown by way of example, anyone fit in understanding will easily attain greater things. All things serve secrets.
+
+--- Page 499 ---
+
+Second table of anomalous expansion.
+
+```text
+A 2 24  A 3 4   A 5 1   A 6 7   A 8 9   A 10 11
+b 3 23  b 4 5   b 6 3   b 7 8   b 9 10  b 11 12
+c 4 22  c 5 6   c 7 2   c 8 9   c 10 11 c 12 13
+d 5 21  d 6 7   d 8 4   d 9 10  d 11 12 d 13 14
+e 6 20  e 7 8   e 9 6   e 10 11 e 12 13 e 14 15
+f 7 19  f 8 9   f 10 5  f 11 12 f 13 14 f 15 16
+g 8 18  g 9 10  g 11 8  g 12 13 g 14 15 g 16 17
+h 9 17  h 10 11 h 12 7  h 13 14 h 15 16 h 17 18
+i 10 16 i 11 12 i 13 10 i 14 15 i 16 17 i 18 19
+k 11 15 k 12 13 k 14 9  k 15 16 k 17 18 k 19 20
+l 12 14 l 13 14 l 15 13 l 16 17 l 18 19 l 20 21
+m 13 13 m 14 15 m 16 11 m 17 18 m 19 20 m 21 22
+n 14 12 n 15 16 n 17 12 n 18 19 n 20 21 n 22 23
+o 15 11 o 16 17 o 18 14 o 19 20 o 21 22 o 23 24
+p 16 10 p 17 18 p 19 16 p 20 21 p 22 23 p 24 25
+q 17 9  q 18 19 q 20 15 q 21 22 q 23 24 q 25 26
+r 18 8  r 19 20 r 21 18 r 22 23 r 24 25 r 26 27
+s 19 7  s 20 21 s 22 17 s 23 24 s 25 26 s 27 28
+t 20 6  t 21 22 t 23 21 t 24 25 t 26 27 t 28 29
+u 21 5  u 22 23 u 24 20 u 25 26 u 27 28 u 29 30
+x 22 4  x 23 24 x 25 22 x 26 27 x 28 29 x 30 31
+y 23 3  y 24 25 y 26 22 y 27 28 y 29 30 y 31 32
+z 24 2  z 25 26 z 27 24 z 28 29 z 30 31 z 32 33
+w 25 1  w 26 27 w 28 25 w 29 30 w 31 32 w 33 34
+```
+
+Whoever wishes to observe the rule of the orchema will have an easy and ready method both of writing and of reading secret things. But whoever transgresses the norm of the art will have labor along with his wish.
+
+r iij
+
+--- Page 500 ---
+
+```text
+V V II S S S
+A 6:  a 7  a 8  a 9  a 10 a 11
+b 7:  b 8  b 9  b 10 b 11 b 12
+c 8:  c 9  c 10 c 11 c 12 c 13
+d 9:  d 10 d 11 d 12 d 13 d 14
+e 10: e 11 e 12 e 13 e 14 e 15
+f 11: f 12 f 13 f 14 f 15 f 16
+g 12: g 13 g 14 g 15 g 16 g 17
+h 13: h 14 h 15 h 16 h 17 h 18
+i 14: i 15 i 16 i 17 i 18 i 19
+k 15: k 16 k 17 k 18 k 19 k 20
+l 16: l 17 l 18 l 19 l 20 l 21
+m 17: m 18 m 19 m 20 m 21 m 22
+n 18: n 19 n 20 n 21 n 22 n 23
+o 19: o 20 o 21 o 22 o 23 o 24
+p 20: p 21 p 22 p 23 p 24 p 25
+q 21: q 22 q 23 q 24 q 25 q 26
+r 22: r 23 r 24 r 25 r 26 r 27
+s 23: s 24 s 25 s 26 s 27 s 28
+t 24: t 25 t 26 t 27 t 28 t 29
+u 25: u 26 u 27 u 28 u 29 u 30
+x 26: x 27 x 28 x 29 x 30 x 31
+y 27: y 28 y 29 y 30 y 31 y 32
+z 28: z 29 z 30 z 31 z 32 z 33
+w 29: w 30 w 31 w 32 w 33 w 34
+```
+
+To the several twelve divisions of the zodiac we have assigned separate alphabets by numbers, so that the sign of Aries, for a, has the numerical sign 6; and so on, 7, II, 8, Cancer, 9, a, 10, np, 11, and thus through the whole alphabet.
+
+--- Page 501 ---
+
+```text
+a 12 b 13 c 14 d 15 e 16 f 17 g 18 h 19 i 20 k 21 l 22 m 23 n 24 o 25 p 26 q 27 r 28 s 29 t 30 u 31 v 32 x 33 y 34 z 35
+A 36 B 37 C 38 D 39 E 40 F 41 G 42 H 43 I 44 J 45 K 46 L 47 M 48 N 49 O 50 P 51 Q 52 R 53 S 54 T 55 U 56 V 57 W 58 X 59 Y 60 Z 61
+a 16 b 17 c 18 d 19 e 20 f 21 g 22 h 23 i 24 j 25 k 26 l 27 m 28 n 29 o 30 p 31 q 32 r 33 s 34 t 35 u 36 v 37 w 38 x 39 y 40
+```
+
+In this figure we have placed, by numbers, the separate alphabets of the remaining six signs, just as they appear to be set beneath the letters of the Latins in order, so that anyone who wishes to veil his mysteries by them may be able to do so more safely.
+
+r iiij
+
+[segment 109]
+--- Page 502 ---
+K  ζ  ♀  ☉  ♂  ☋  ☌
+a 18   a 19   a 20   a 21   a 22   a 23   a 24
+b 19   b 20   b 21   b 22   b 23   b 24   b 25
+c 20   c 21   c 22   c 23   d 24   c 25   c 26
+d 21   d 22   d 23   e 24   d 25   d 26   d 27
+e 22   e 23   e 24   f 25   e 26   e 27   e 28
+f 23   g 24   g 25   g 26   f 27   f 28   f 29
+g 24   h 25   h 26   h 27   g 28   g 29   g 30
+h 25   i 26   i 27   i 28   h 29   h 30   h 31
+i 26   k 27   k 28   k 29   i 29   i 30   i 31
+k 27   l 28   l 29   l 30   k 31   k 32   k 33
+l 28   m 29   m 30   m 31   l 32   l 33   l 34
+m 29   n 30   n 31   n 32   m 33   m 34   m 35
+n 30   o 31   o 32   o 33   n 34   n 35   n 36
+o 31   p 32   p 33   p 34   o 35   o 36   o 37
+p 32   q 33   q 34   q 35   p 36   p 37   p 38
+q 33   r 34   r 35   r 36   q 37   q 38   q 39
+r 34   s 35   s 36   s 37   r 38   r 39   r 40
+s 35   t 36   t 37   t 38   s 39   s 40   s 41
+t 36   u 37   u 38   u 39   t 40   t 41   t 42
+u 37   v 38   v 39   v 40   u 41   u 42   u 43
+v 38   w 39   w 40   x 41   v 42   x 43   x 44
+w 39   y 40   y 41   y 42   w 43   z 44   z 45
+y 40   z 41   z 42   z 43   y 44   z 45   z 46
+z 41   a 42   a 43   a 44   z 45   a 46   a 47
+
+We have also assigned single alphabets to the seven planets from the numbers remaining after the twelve signs. And note: when a letter is doubled in speech, its number is not written twice, but once, and is marked with a point above.
+
+--- Page 503 ---
+We have brought the sixth and last book of our Polygraphy, by God’s mercy, to its close. In it, concluding our discourse with the wandering stars, we warn the reader beforehand on certain points.
+
+First, whenever he uses the alphabet of any sign or planet, he should prudently append the character or mark of that same sign or planet, for a double benefit. For by this means excessive labor will be removed for the friendly reader, and the mystery will remain secret, since anyone ignorant of the technique will suppose that a table written in numbers and marked beforehand with the characters of signs or planets pertains to astronomical calculation, and will suspect no mystery at all to lie hidden in it. For this reason we did not begin the material assigned to the letters from unity, but from an interval, so that we might not furnish anyone with a mark of suspicion. Nevertheless prudence must be applied by writers, since an astute reader who is touched by suspicion of something hidden, if he discovers the function of one number, will easily calculate the whole alphabet.
+
+Second, whoever desires to be a shrewd practitioner of this matter should remember that whenever any letter is doubled in a word, as very often happens, it should be written only once and marked above with a point. For example, I wish to write “Ioannes” from the alphabet of Aries: I do not double 18, which is n, but write thus: 14. 19. 6. 18. 10. 23.; or “abbas”: 6. 6. 23.; “ioanes,” “abas,” so that every mark of suspicion may be removed. In similar cases, similar caution must be used; for unless the practitioner is endowed with diligence and knows how to discover greater things from small ones, he will not be fit for these least matters of ours to be disclosed to him. Not everything is to be communicated indiscriminately to everyone, especially matters whose use can be turned to good and evil.
+
+Moved by that consideration, rationally weighed, we have openly handed down in these six books of the Polygraphy many things for those who wish to know, but have allowed far more secrets to lie hidden beneath things manifest. Finally, we have written a key that explains the whole work, showing how it is to be understood in each metaphor; yet, by the counsel of certain persons, we have ordered it to remain hidden at home, so that students may not lack material for exercising the memory, and so that wicked men may be deprived of the opportunity of knowing things that they are not willing to use well. In every passage there lie hidden
+
+--- Page 504 ---
+many mysteries; and the greater the things you discover from these, so much the greater are the things that remain to be discovered. A road is prepared for beginners, on which, for those setting out, it will not be difficult in the course of time to discover many rare and very great things. Here one who did not know how will learn to write Latin, and prudently to wrap all the mysteries of his will in foreign speech. But so that an unlearned man may be able not only to understand his own mysteries which he has wrapped up, but also the open discourse, of which up to that point he had always been ignorant, the business is not one of great labor, if the paraphrast has fully attained our intention in this volume. For beneath the bark lie the kernels of our Steganography, buried for a just reason, lest they lie open to unworthy babblers. Finally, it was worth the effort that one work should not prejudice the other, but that its own right should be distributed inviolate to each.
+
+We, wearied after a long voyage, here cast anchor in the deep under the name of Jesus Christ, savior of the faithful, on the twenty-first day of the month of March, in the year of the Lord’s Nativity 1508, in the eleventh indiction of the Romans, at the city of the eastern Franks, which they call both Würzburg and Herbipolis.
+
+The end of the sixth book of the Polygraphy of Johannes Trithemius, abbot at Saint James in Würzburg, formerly of Sponheim, of the order of the divine father Benedict, is here.
+
+PRINTED AT THE COST AND EXPENSE OF THE MOST UPRIGHT BOOKSELLER JOHANNES HASELBERG OF AIA, OF THE DIOCESE OF CONSTANCE, IN THE YEAR 1518, IN THE MONTH OF JULY.
+
+[segment 110]
+--- Page 505 ---
+Kodak Gray Scale 0 1 2 3 4
+Herzog August Bibliothek Wolfenbüttel
+© HAB http://diglib.hab.de/drucke/fb-128/start.htm?image=00511
+NDS
+
+--- Page 506 ---
+Herzog August Bibliothek Wolfenbüttel
+Kodak
+Gray Scale 0 1 2 3 4
+© HAB http://diglib.hab.de/drucke/fb-128/start.htm?image=00512
+Vol. I
+
+--- Page 507 ---
+THE KEY OF THE POLYGRAPHY OF JOHANNES TRITHEMIUS, Abbot of St. James at Würzburg, formerly of Sponheim, of the Order of Saint Benedict, of the observance of the Bursfeld fathers.
+
+With privilege prohibiting printing or selling by another for ten years, under penalty as set forth in the letters.
+
+Jo. Trithemius.
+
+--- Page 508 ---
+[Page intentionally blank]
+
+[segment 111]
+Key of the Polygraphy
+
+To the [unclear] of the free [unclear].
+
+[segment 112]
+[Page 509]
+
+Preface to the explanation of the whole work of the Polygraphia of Johannes Trithemius, abbot of the monastery of St. James at Peapolitan, that is, Würzburg.
+
+No one who reads these things, as I trust, will judge me either proud or superfluous because I myself have commented on the Polygraphia recently composed by me, especially if he has been able to weigh carefully what cause led us to speak obscurely. For whatever can do harm when made public had reasonably to be concealed in mystical language. The subject that we treat in the Polygraphia is, among good men, very good, useful, and honorable for the advantage of the commonwealth; and for that reason, persuaded by a reasonable cause, we wrote it, so that by its service we might make good men safe and secure from the investigation of the wicked when they announce their secrets to one another. But lest an opportunity be given to the wicked and perverse, who very often abuse even good inventions, to deceive the simpler and less cautious in their judgment of matters, we handed down in it mystical, or hidden, methods of writing, and covered the truth lying hidden in the core with certain coverings of figures. Yet we have no doubt that any industrious man, eager with desire for these things, will easily grasp everything, if he applies even a moderate persistence in searching them out. For what I have handed down is not so difficult, nor wrapped in such great mysteries, that it cannot be thoroughly penetrated by a studious man. For everywhere we have so moderated the riddles of our words that they are easily accessible to learned and studious men, while nevertheless they remain inaccessible to sluggish dwellers in darkness. But after it was pleasing to offer the work of the Polygraphia itself, dedicated to the most serene and unconquered Maximilian, Caesar of the Romans, ever august emperor of the world, I thought it would be worth the effort if I made it clear and open with brief and few interpretations,
+
+[Page 510]
+
+so that the mind of his sacred majesty, which is daily stretched by many affairs and cares, might not be drawn away from understanding it by the darkness of the mysteries. For unless my opinion deceives me, the work will be the more pleasing and useful to his majesty the briefer and clearer it is. First, therefore, with the Lord’s help, we shall briefly explain the meaning of our purpose, which is contained in the prologue wrapped under various riddles; then, through the individual books of the Polygraphia, we shall succinctly unfold, according to the order, the methods of operation, rules, cautions, and individual distinctions that remain necessary, as far as the strength of our ability allows. All these things, so that they may more quickly become accessible to those who desire to know them, we shall show in sequence through examples, and we shall be as brief as the subject and reason permit.
+
+The Key of the Explanation of the Polygraphia of Johannes Trithemius, Abbot of Peapolitan.
+
+Exposition on the prologue.
+
+Our whole intention in the entire work of the Polygraphia turns upon this purpose: that we might hand down certain methods of writing secretly, through which kings and princes, nobles and commoners, priests and laymen, the learned together with the unlearned, may, secretly, safely, and without any suspicion of a hidden secret, announce to one another and to any friends, even those far distant from one another, by the service of letters, whatever conception of their minds is needed, and as often as it is needed. And lest we seem to have presumed to do this either first or alone, we warn the reader that many of the ancients long ago, especially tyrants, princes, and kings, moved by a similar consideration, devised for themselves familiar and various methods and rules of writing, by which they themselves attempted in particular what we have promised universally in our Polygraphia. From their number, for the sake of an example of the proposed matter, we first introduced Caesar Augustus, whose hidden method of writing take plainly as follows:
+
+[Page 511]
+
+He changed the breathings of the conceived voice from bright things into dark ones; by a certain beautiful invention, namely the orchestration of metathesis, he makes their barbarousness, though resisting his wishes, obedient to his nod. That is: the great Caesar Augustus, so that he might write secretly and safely what he wished, changed the letters of the alphabet by various transposition, so that he put b for a, c for b, and so on with each letter. And so that the writing might remain more twisted and more secret, he transposed the letters at his own judgment breadthwise and lengthwise, to any distance of order, number, and place.
+
+Mystery. And this deceptive order, as if perpetual, subject to the will and reasoning of time, although it preserves messengers safe on the road from the attack of the babblers, nevertheless, because you do not have regulated boundaries, it makes all who encounter it anxious with suspicion of a hidden matter.
+
+Explanation. Although no one can easily comprehend to understanding the secret mystery hidden under the transposition of letters, nevertheless this writing makes those into whose hands it comes suspicious of the hiding place of the enclosed matter.
+
+Mystery. Archimedes, that Syracusan, easily the prince of mathematicians, a white bird, suitable to his own instructions, naked by head and feet, and so forth.
+
+Explanation. Archimedes had two rods of one length and thickness carved, round or square; one of them he kept for himself, and the other he entrusted to his absent friend. And whenever one wished to write something more secretly to the other, he wrapped a white bird, that is, a small sheet of papyrus, of little width but of the length of the doubled rod, around the wood, and fastened it below and above with wax. Then he wrote on the sheet whatever he wished, continuously from the sides upon the mass artfully joined together; then he loosened the sheet from the rod, and at once there appeared so great a distance between the letters that not even one word cohered with another. He turned the sheet over, and when he wished he wrote to himself on the other side. Nor was there anyone ignorant of this device who could have discovered how it was done. But the man who had the other rod, when he received the sheet, fastened it on and restored the letters to their former order.
+
+Mystery. Marcus Tullius Cicero, the eloquent Roman orator, using ingenuity and art, changed the small parts of speech into signs, and the rest.
+
+Explanation. He wrote a book of notes for his son, which the blessed martyr Cyprian later enlarged for the use of Christians, namely in the manner of a dictionary.
+
+[segment 113]
+--- Page 512 ---
+
+where, according to order, the characters or signs are first set down, and afterward the words designated by those same characters, so that each word is signified by the sign placed before it. In these signs or characters we once saw an entire Latin psalter, beautifully written, in the library of the greater church of Strasbourg. Some ignorant judge of such matters had put this title on the outside: A Psalter in the Armenian Language. But he was wrong, since it should rather have been written thus: A Latin Psalter Written in Tullian Characters. For each character represents one complete Latin word. Nor is my judgment mistaken, since I have in my possession, written in an old volume, Cicero’s own dictionary, corrected by Saint Cyprian, complete and uncorrupted; I have never seen it anywhere else. Indeed, there is such an abundance of signs or characters, with the words assigned to them, that they are altogether sufficient for writing whatever you wish in the Latin language.
+
+Mystery. Pharamund, the forty-third king of the Franks after Marcomer, when in the year of the Lord’s nativity 424 he powerfully entered the borders of the Gauls, etc.
+
+Explanation. From the time when the kings of the Franks, having gone out with their people from the Scythian borders in the year 430 before Christ’s birth, settled at the mouths of the Rhine, where Gelderland now is, they waged continuous war with the Gauls for almost nine hundred years, and at last violently made them subject to themselves, as we have written in the first volume of our Annals. Of these, the aforementioned King Pharamund, so that he might safely send messengers through the kingdom, devised new letters of his own, which no one could recognize without his voluntary instruction. Nor did he use only one, or a few, but many new alphabets.
+
+Mystery. Clodius Crinitus, son of Pharamund and after him king of the Franks, who subjugated all Gaul to himself after extinguishing the Romans whom he found in it, used his father’s inventions in secret writings.
+
+Explanation. This king devised alphabets of his own, new ones, and entrusted one to each of his dukes, while retaining the knowledge of them only with himself.
+
+Mystery. Charles, called the Great, the sixty-third king of the Franks, who first among the Franks bore the diadem of the Roman Empire, etc.
+
+Explanation. He, the elder son of King Pippin, is read to have been born in Brabant, in the county of Namur, bordering on Liege,
+
+--- Page 513 ---
+
+although some assert that he was born in the village of Ingelheim, not far from Mainz. He also invented various modes of writing, and, with the grammarian Nanno providing assistance, devised different alphabets, by which he communicated secrets to the individual prefects of the kingdom in a special manner.
+
+Mystery. The Northmen, who once went out from the borders of Gothia, when they were devastating Gaul with cruel assault, summoned owls from Greece and prepared a safe hiding place for their secrets, etc.
+
+Explanation. The Northmen, as they were ranging through Gaul, according to the testimony of Bede the monk in England, substituted Greek numerals for Latin letters, so that they might safely write their secrets among themselves: from a as first up to the twenty-fourth point, and w, or gu, according to the custom of the Gauls. This mode of writing is indeed very beautiful; in it all the letters are Greek, and according to the Pelasgian order of counting they designate our Latin letters, as a, 1; b, 2; c, 3; d, 4; e, 5; f, 6; g, 7; and so on up to w, which is 24. Neither a Greek nor a Latin will understand this writing unless he has first learned the method and art of the device.
+
+Mystery. Our Bede, a monk in England, not ignorant of what the Northmen had done, described many old inventions similar to these, by which they made a path, bright in its mysteries, dark. He himself committed artrology, etc.
+
+Explanation. This Bedean monk, in his little book On the Inventions of the Ancients, reviewed many and various modes of writing and noting secretly, by which they safely announced their secrets to friends and spoke without a voice to those present. He was the first of all to commit artrology and dactylology to letters; by their use one person most safely discloses to another whatever secret he wishes, while no one else who is present will notice it, much less understand it. Bede himself taught that this same thing could be done in many other ways; since we have written nothing about them in the Polygraphia, we rightly decline to speak of more of them here. We long ago assigned a proper place to these very difficult matters in the Steganographia, which we do not yet intend to publish. And who could express all the modes of secret writing used by the ancients? For some had as familiar servants in the service of the art previously described Philophot owls, others Misophot owls; others called both into practice by art. Again, some transposed the known letters of the common alphabet, while others devised for themselves their own characters under the appearance of barbarian letters.
+
+[segment 114]
+--- Page 514 ---
+
+Others used the service of visible letters, writing with red lead or common ink; others, by their own choice, formed invisible characters at will. The methods of visible characters for hidden writing are exceedingly many and altogether innumerable, and to mention them all is neither our intention nor within our power. Of invisible characters, however, there are three kinds more commonly used among mortals today. The first is called Dermatic, by which a certain artificial writing is made on the messenger’s back, visible only through the washing with a certain liquid; no one can penetrate it who does not know the secret of the art. The second is called Hyphasmatic, by which one writes on cloth with certain substances, and, when it is dry, it cannot be seen at all until, once moistened in cold water, it becomes visible. The third kind is named Alleotic, which is manifold and various both in form and in material, and it has almost innumerable methods of writing secretly. Its writing is made on paper or without paper, with *nemilua* and *cala*, with *raphocam*, *lapolce*, and other different things. Letters are also written in various ways and are hidden in places, such as under *race tabulata*, under *rofi rilacubior*, in *leopi*, in *necoflas*, in *ceocali*, *locubat*, in *ratera*, in *lispilia*, and in almost infinite other positions.
+
+But since nothing of these things serves our present purpose this time, we must therefore hasten to what the argument requires. There is also another kind, Dactiletron, not of writing, but of signs, by which, in very subtle ways, one person can disclose to another the conception of his mind. This too is varied by so many differences that there is no one in the world who could enumerate all the species of so great a mystery. By the principal method, together with many others derived from it, while sitting at table, or in any other place whatever, you will be able to convey securely, most safely, and without anyone’s suspicion whatever you wish to a person who knows the art. Finally, that you may communicate the secret of your mind without letters to someone absent, even while the very person who performs the office of messenger does not know it, remains written among the inventions of steganography. Indeed, since kings and princes encounter many affairs whose knowledge they do not always trust safely to ordinary letters for their deputies when they are far away, it will have been very useful for each of them to have some special methods of writing and announcing, by which they can most safely make their secrets known to friends, especially in these times, in which, with license for sin prevailing,
+
+--- Page 515 ---
+
+faith is nowhere found safe in the world. Messengers of princes are seized everywhere by savage robbers, stripped, beaten, and very often killed; nor do the impious plunderers spare even letters of kings sealed and closed with rings. Therefore it would be necessary for your commonwealth, most glorious Caesar Maximilian, that you put on the skin of Hercules and brandish the club in your hands, and purge the world entrusted to you by God of these savage monsters. There will never be peace in the kingdom unless these club-bearers are removed from the midst. Whoever disturbs the peace of the kingdom shows himself to be an enemy of the king. These are the robbers who beset the roads of travelers and steal others’ goods; the earth today is full of them, and nowhere is the road safe for those who walk.
+
+A Brief Explanation of Those Things Which Seem More Obscure in the First Book of the Polygraphy.
+
+Although nothing obscure is contained in the first book of the *Polygraphy*, nevertheless, lest its composition perhaps seem profound to the simpler sort, we shall briefly explain those things that are thought more difficult. We distributed more than nine thousand words of the Latin language in order under almost four hundred alphabets, arranged in series in such a way that, if from each alphabet one word only is taken after another, from the beginning to the end, the words, cohering with one another, will produce a suitable Latin discourse. For it will be a very fitting method of writing, most secretly, whatever we wish, since each word represents the letter placed before it at the head. Nor should it trouble you, reader, that the multitude of words in the open contains a brief meaning in secret, since in this childish arrangement of ours there lies hidden a higher method of writing whatever you wish much more broadly and secretly, which public reason has forbidden us to make open to everyone. But whoever is endowed with intelligence, and applies his powers and the things necessary for inquiry, will find subtler matters hidden in these teachings, previously unknown in a wonderful way, and will plainly understand marvels. Nevertheless, this method of writing will be suitable enough for everything, since the narrative so often repeated is varied. For, as we have said, from the first alphabet you take one word, and from the second likewise one, and so [unclear]
+
+[segment 115]
+--- Page 516 ---
+
+successively from each one, and also one from those inserted outside the ordered line, up to the period or the end of the book, a Latin and sufficiently coherent discourse will arise for you. But care must be taken that at one time, all at once, no more than one word be taken from one alphabet, and that the writer, through negligence or excessive haste, not skip over some alphabet and confuse the order of the narrative. By “day” understand the open narrative; by “night,” however, the hidden and secret one, which should not be too long but brief. The examples that follow in the text, concerning the invisible soul and the body that is seen, pertain to both narratives, the hidden and the manifest. At “As often as a leaf is moved by the wind,” and the rest, we advise that you count the secret narrative against the open one, so that both may end together at the close of each period. But if anything remains over from the secret matter, let it be extended with such moderation that both narratives end at one point, lest confusion from omission be produced. The other points that follow in the first explanatory lesson of the Polygraphia are all implicitly referred to what we have said.
+
+It should be noted, however, that under the order of the alphabets there is no empty word; rather, each one represents the letter placed before it at the head. So that the reader may not lack full knowledge of this matter, let us clarify the meaning by an example. Let us suppose a case in which a wicked man asks, through you, to be promoted before some friend of yours. But you, in order to cut off his importunate requests and yet not promote an unworthy man, decide to write more secretly to your friend through the very petitioner, so that he may not understand: “Beware of this man, because he is a thief and a very worthless scoundrel.” Go to the first alphabet and write the word Conditor, which signifies C; in the second, clemens, which denotes a; in the third, discernes, which represents v; in the fourth, mundana, which signifies e. Now in the hidden narrative you have “cave.” Proceed successively also through the other alphabets, and the discourse will come out as follows:
+
+“Kind Creator, you will discern worldly things; may he impart seraphic sweetness to those who seek it, with all his saints in heaven, amen. The meekness of the most glorious prince, everywhere reverently remembered by the saints, exhorts us, most abject and sleeping, by the best precepts, to abandon present things out of reverence for the director of good things, and with every affection, according to our
+
+--- Page 517 ---
+
+strength, to await the glory of perpetual rest. Therefore receive instruction, O vain scoffers, so that, most happily adorned, you may be able to enter the most blessed dances of the archangels of the rewarder of the orthodox. Flee, therefore, from the filthiest honors of this pilgrimage, since you are most holily about to enter the most blessed delights of the kindly savior of the ages.”
+
+In this public narrative written above there is contained, hidden in secret, this meaning, namely: “Beware of this man, because he is a thief and a very worthless scoundrel; but be silent, I beg you.” Proceed in the same order in all other cases whatsoever, and one must begin from the head as often as necessary, until you have enclosed the hidden narrative of your secret in the manifest one.
+
+The words that are placed outside the alphabetical order designate no letter and do not serve the hidden narrative, but have been inserted because of a lack of synonyms, so that the sequence of the Latin discourse might be completed. For we could not always have so many words with the same meaning, especially among pronouns, conjunctions, prepositions, and interjections, that we could make an alphabet for the twenty-four shifting letters, as is clearly evident after the eighth alphabet, where we placed two words outside the order so that we would not leave the discourse defective. For thus we wrote: “with all,” and likewise “with all collectively.” Of these the writer may take whichever two he wishes, so that the Latin discourse may be completed. Let him do the same in other cases, whenever he finds similar ones. We have adopted the double w on account of our native speech, since in our German language we frequently need it. For one who is ignorant of the Latin language may write his hidden secret in German beneath a Latin discourse without any difficulty.
+
+Now follow the rules or cautions to be observed in the operation of this book.
+
+The first rule or caution advises you that the secret of your mind which you wish to announce to an absent friend, one who knows the art and has the book of the Polygraphia, you should write as carefully as you can on a small sheet, in Latin or German, or in whatever other language you wish that can be comprehended in Roman letters. Then
+
+[segment 116]
+--- Page 518 ---
+
+Place the paper thus written before you, so that for each letter of the secret you may suitably fit a word. For, as we have shown in this practice of writing, a whole word is taken. We gave an example a little earlier in the foregoing material.
+
+II. The second caution instructs you, as has been said, not to take more than one word at a time from any alphabet in a single narrative of public Latin discourse; otherwise you would both confuse the open meaning and entirely draw away from understanding the mystery the friend to whom you had written.
+
+III. Third, great care must be taken not to skip any alphabet through negligence without taking from it one word suited to the secret. Likewise you must provide that, whenever one or more words occur outside the sequence of the alphabet, you take the whole upper line or the whole lower line, and not both.
+
+IV. Fourth, care must be taken that whenever the discourse of the open speech has been brought to a completed sentence, the next sentence should begin with a larger, bold letter, according to the form of the preceding example, in which, following the sense of the Latin discourse, we took capital letters at the beginning and small letters in the rest, according to common usage. When the secret of your mind is lengthy, so that it exceeds the narrative of the open discourse, if much remains you should begin again from the beginning; if little remains, let the discourse be recalled from any place you like at your pleasure. For no one even moderately skilled in this technique will be unable to know where you have begun again. Nor is there need to fear sameness of speech, since the manifest narrative will always vary along with the hidden one, and whenever it is begun from the beginning a new face of the discourse will follow. The continuation can also be made from the end of the first book through the second.
+
+V. Fifth, we advise that whenever you wish to write by this art about a difficult matter, prepare for yourself a small booklet in which you write your secret mystery under manifest discourse. Whoever sees or reads this booklet will think that no secret lies hidden; nor, even if he has a suspicion, will he be able to discover anything of what you write.
+
+VI. Sixth, it should be noted that if you transpose the order of the words throughout the whole Polygraphia, changing it in each alphabet by rearrangement, and if you write out two volumes according to that arrangement, one for yourself and the other for any friend, you will write between yourselves with the greatest security whatever you wish, and no one lives on earth who could
+
+--- Page 519 ---
+
+penetrate your secrets. Moreover, this transposition can be done in infinite ways.
+
+VII. Seventh, we warn you in advance that one must write polygraphically in one way to a man ignorant of the Latin language, and in another to one skilled in it. For the former, all words must be written out fully, without abbreviation, distinctly, completely, beautifully, and wholly legibly, without partition, division, or confusion, lest, deceived by error, he think one word to be two, or suppose two to be one. The things that are set down must be listened to carefully.
+
+VIII. Eighth, provision must be made that the person to whom you write mystically by this art should have a book exactly like yours in all respects; otherwise you would write in vain and fruitlessly to one who does not understand.
+
+IX. Ninth, if you wish this technique to remain forever secret and hidden, write out the Polygraphia anew, but do not place the letters of the alphabet before the words, and no one will easily suspect the principle of the secret. But so that no difficulty may arise for the writer and the reader regarding the mystery, let the letters of the alphabet be written on a slip in the order corresponding to the words, and let a movable marker be fitted to their heads. The letters can also be engraved on a copper plate, so that they may be moved from one order into another.
+
+X. Tenth, it should be known that although we do not use the Pythagorean y in German and Latin words, we have nevertheless admitted it on account of Greek speech, so that we might have the doubled twelvefold number. Likewise we have accepted the double w as the twenty-fourth letter, because it is altogether necessary for us in the German language.
+
+XI. Eleventh, let the person who receives letters written from the Polygraphia to be read know that understanding is needed in the reading. And therefore, whenever he receives a paper or booklet written polygraphically, let him go to a secret place; and, with the book of the Polygraphia opened, which he must have with him, let him examine each word through all the alphabets, and very carefully note, with chalk on a table or with ink on paper, what letter each one represents. And when he has gone through the whole letter in that way, let him put the letters together into words, and he will easily understand what lay hidden in secret.
+
+XII. Twelfth, let kings and princes take note, who have many deputies in different places, to all of whom it is not safe to write in one kind of hidden narrative. Therefore, so that they may have their own secret way of writing to each one, let them change the order of the words as many times as the ways they wish
+
+[segment 117]
+--- Page 520 ---
+
+...they wish to have separate. Thus they themselves will hold the methods of writing for all of them, and none of their subjects will understand another’s method. For the variable methods of writing more secretly in this art are infinite.
+
+XIII. Thirteenth, it should be noted that, to stop the mouths of those who speak unjust things, we have shown the truth of this new invention of ours to be possible, placing the words in the alphabets of the first book so that they cohere with one another, and so render a fitting and Latin prayer in the form of an exhortation and supplication offered to God. Under the cover of this discourse we can conceal whatever secrets occur to us, and write in such a way to a friend skilled in the art that, if all the people in the whole world were gathered into one place, they could never discover the secret lying beneath the open speech, provided it has been correctly arranged.
+
+XIIII. Fourteenth, it should be known that in this very invention of our Polygraphia there still lie hidden certain things far better than those described above: namely, how you will be able, in a few days, not to say hours, to instruct someone ignorant of the Latin language so that he may know how to write, read, speak, and understand Latin, not indeed universally in all things, but in a fixed manner, whatever necessary matter occurs to him in his affairs. Likewise, how you may safely, securely, and most secretly make known to your far-distant friend, who knows the practice of the art, all the conceptions of your mind, without writing and without the messenger’s knowing; and sometimes even without a messenger, naturally and without any superstition, danger, or fear.
+
+But reason has moved us to leave these things buried in their own hiding places with the rest, since it neither pleases me nor is at all useful to cast precious stones to the wind and to accomplish difficult things without the fruit of gratitude. Finally, beneath these matters there lie no small mysteries of subtlety concerning medicines, herbs, plants, precious stones, rivers, the members of the human body, brute animals, sacred things, nations, cosmography, astronomy, and the seven liberal arts; also concerning all those things that are held for human use, and concerning the universal world, both visible and invisible. And, lest we be more prolix than is proper: all things that exist in the world, through the application of the likeness already shown, serve the mystical teaching of the art of Polygraphia.
+
+XV. Fifteenth, note that all these inventions that we have handed down in the Polygraphia are only certain small introductions in comparison with those things
+
+--- Page 521 ---
+
+that still remain to be discovered and written in this same faculty; concerning them we pass over in silence, lest we seem to boast idly. For we have given those sufficiently gifted in intellect cause to discover greater things than we have either written or perhaps been able to discover. Let whoever can add for the completion of this invention those things he knows to be useful; but whoever cannot should not rashly judge what he does not understand.
+
+Explanation of those things which seemed rather obscure in the second book of the Polygraphia.
+
+In the second book of the Polygraphia, apart from the order and sequence of the words, nothing new is handed down beyond the first; and therefore the method of operation in both will be one and the same. We carefully admonish that everything we said must be observed in the first book is also to be observed in the second. A difference is seen to have arisen only in the narrative of the manifest prayer, since the former is composed concerning our Lord, the Son of God, whereas this one is raised to his mother, the ever-undefiled Virgin.
+
+In the second book, moreover, there are 308 alphabets set in order before the words, though under different subjects. For from the beginning the discourse is directed to that Lady of ours; afterward the Lord’s Prayer is expanded under twenty-four alphabets; then the Angelic Salutation is appended; next, the Salve Regina; and finally a brief prayer concerning Saint Anne, mother of the Virgin Mary, the Mother of God.
+
+In all the books of the Polygraphia one must take care that no word be repeated in any alphabetical order, that is, that it not be placed twice, and that none be omitted, because this would cause great confusion for the reader. Therefore the greatest care must be taken that the copies be corrected in every respect and amended exactly, lest the writer fall into error. But if, through the negligence of the scribe or the carelessness of the printer, you find some word duplicated under one alphabet, erase the last one and put in its place another suitable word that has not previously appeared in the same alphabet.
+
+Know also that these two books of our Polygraphia serve sufficiently for the promised operation; through them you may not only write at any time, most safely and securely, whatever you wish to your friends
+
+[segment 118]
+--- Page 522 ---
+You will be able to report it, but also, without any suspicion, to make a person utterly ignorant of the Latin language, provided only that he knows how to form letters, a participant in and a trained practitioner of this art, which we believe was previously unheard of in this manner. But because this method of writing secretly under a long narrative of open speech contains rather few meanings of the hidden intention, it will perhaps be usable only in great and difficult matters, especially among those who like leisure and dislike labor. We shall therefore give, in the four following books, easier methods of writing, although they are by no means wholly free from suspicion to those who look on, because they are very far removed from intelligibility. In steganography, however, there are richer methods of writing most secretly and without any suspicion, where a word does not represent a letter, but each word represents another whole word suited to the mystery.
+
+Let us set down an example of this. Suppose you wish to forewarn a friend of some imminent danger under such a narrative of words: “Melancius, Tyberius, Ioannes, and Petrus, servants of the count of Asotus, have conspired for your death, and on the fourth day after Lawrence’s day, at night, they will surround your house; consider what you should do.” Steganography conceals this secret in this way: “I beg you, dearest friend, to send me by the bearer of the present letter ten florins as a loan, because they are very necessary to me for the construction of a certain building; I shall faithfully restore them to you.” Who would seek or suspect that this secret lay hidden in the aforesaid speech? Let us also set down the same thing under another narrative: “Lord Jesus Christ, Son of the living God, who wished to become man, to suffer, and to die for us, have mercy on me, an unworthy sinner, now and in the terrible hour of my death.”
+
+Behold, now, you have one hidden meaning of your heart in a twofold narrative, veiled within the bounds of steganography in speech brief yet faithful, which the whole world could not even suspect, nor, if it sought for a hundred years, in any way discover, even if all the learned came together. Finally, steganography teaches how to hide this same secret meaning of your heart not only in one or two written narratives, but in almost infinitely many by the method already described, and to report it to whomever you wish most safely, most secretly, and most securely. All methods of this kind of invention can also be changed by metathesis in infinite turns,
+
+--- Page 523 ---
+and by them all things can be written and reported. Why the work of steganography remains buried in silence has been sufficiently stated at the beginning of our Polygraphy, and therefore it need not be repeated here. Let it lie hidden, then, lest it be seen by the ungrateful.
+
+Explanation of the obscure things contained in the third book of our Polygraphy.
+
+In the third book of the Polygraphy we have handed down a newly devised method of writing secretly: sufficiently secure and safe, to be sure, but suspect to all who look on because of the hidden secret. For no one, however learned, will discover the hidden mystery without knowledge of the tradition, since indeed he will not even be able to understand the open writing. We arrange fabricated words, representing nothing in themselves, but only the letters of the alphabet set before them, by which you will be able to write and make known all the secrets of your mind to a friend, however far away, with complete security. But those unskilled and ignorant of the art, when they see the writing, will think it is some foreign language and will be wholly ignorant of what it contains.
+
+But when you wish to write or report something to an absent person according to the method of this book, take care first of all that you distinguish each and every word properly from the others, so that each can be very clearly distinguished from another, lest the person to whom you write take one for two, or two for one, because that would produce a great error. Let us set down an example of this: Abrin madon badis, cadulur pasu, adin loroff masara damis, boda omo dromi drus mastron pha lares medas raffut ma debor tara, mesen baiu phofat, galos, prosol fane lemoros, aroso habilneso, hamol heliet rhamil fesia doron hubur rodex. In this narrative of fictitious speech there is contained this brief secret meaning, from a friend warning a friend of danger: “Do not come to court, because the king is angry with you.” You see how easy, safe, and secure this method of writing and reporting whatever you wish to a friend who understands it is. Yet in all things you should know that care must be taken, as was said earlier, that you do not again skip over any alphabet. Whenever the narrative
+
+[segment 119]
+--- Page 524 ---
+
+of the fabricated speech to the end of the book, while the secret of your mind is not yet complete, begin again from the beginning, and do this as often as will be necessary. Nevertheless, each person will be able, according to his own judgment, to change, alter, improve, and add more to these words of ours, provided that he avoids a consonance that breaks out disgracefully into sounds.
+
+A Brief Explanation of the Fourth Book of Our Polygraphy.
+
+In the fourth book of the Polygraphy, by a similar method, we have arranged words fabricated by us in alphabetical order, but in one point alone we deliberately differ from the preceding book. For in the preceding book the words contain nothing else of proper meaning in themselves, except that they represent the letters placed before them at the head. But in the fourth book, which we now have in hand, the individual words contain their own force, and nevertheless designate the letters placed before them. They have within what they display without, because the second letter of each word always serves the hidden mystery; we shall make this clear by the following example: Ecorach banafar dulay femalas, chorion furiel anephor schabarbas, busarat uimalo tropon tumelech amasar. To understand this mystery, take only the second letter from each word, and you will find this hidden meaning: “Beware this man.” For the second letter in Ecorach is c, in banafar a, in dulay u, in femalas e. Join these four letters and they will make this word: “Beware.” And so one proceeds in the rest up to the end of the book; and if anything remains of the hidden mystery to be written, one must return to the beginning as often as needed, until the secret has been completed in full. In this method of writing most secretly, if someone has been trained by long practice, he does not need the book, but will easily compose, on the spot, words suited to his purpose. But one who is less practiced in composing necessarily requires a copy of the book from which to write. A copy of the volume will not be necessary for the reader, since without the book he can easily discover the hidden secret everywhere through the second letters. Yet in great, difficult, or dangerous matters, one should not trust this method of writing with sufficient safety,
+
+--- Page 525 ---
+
+because through the diligence of a skilled person the hidden mystery could by chance be discovered. This method of writing can also be changed by an intelligent man, so that the meaningful letters are placed in the third or fourth position of the word, with the words altered.
+
+A Brief Explanation of the Fifth Book of Our Polygraphy.
+
+[unclear]
+
+In the fifth book of the Polygraphy we have handed down various methods of writing secretly through the transposition of ordinary letters, arranged with such coordination that under their covering we will be able safely to write and report everything to an absent friend. Now, to speak in our usual way, the progression of the transposition of letters is almost infinite, since from one alphabet, through metathesis, countless alphabets arise. First we set down a straight table containing twenty-four alphabets; through understanding it, as many alphabets can be composed as there are stars numbered in the firmament of heaven. For as many characters as there are in that table, so many times there arise from the art, in sequence, ten hundred thousand alphabets. After this we distributed a reversed table, which will arise into another as often as you change the first letter at the head. The first letter in the straight table is b, and in the reversed table z. As often as you replace these with any other varied letter, so often you will find a table entirely new in every respect, and so on to infinity. Then we expanded the first straight table, placing at the head of each transposed black letter, in red, the letter that it represents, so that we might provide the reader with an easier method of writing. This, then, is the method of writing: in the first black alphabet, take one letter of the hidden sentence; from the second, another; from the third, a third; and so in order to the end. When you have reached it, remember to return to the first order as often as necessary, until you have completed the secret mystery of your mind by concealing it. But so that you may see the order, let us set down an example: Hxpf gfbmcʒ fucib gmbt gxhsr ege rbd qopma uwu. wfxegk ak.tnr qxyx. The meaning of this mystical speech [unclear]
+
+[segment 120]
+--- Page 526 ---
+
+the meaning is: “Beware of this man, because he is evil: a thief, a deceiver, a liar, and unjust.” You see now, reader, what a remarkable transposition of the letters of the alphabet this table produces, since there is no one who, without knowledge of it, could penetrate this secret. For this method of writing surpasses every ordinary transposition of letters, since each letter is always changed from one alphabetic series into another. From the reversed table also, which we have expanded in similar distribution through its order, let us set down this example by way of introduction: Rdkt, stʒnyb, tevqj, sn3f, fdrgh, vfd. Its hidden meaning is this: “Beware of this man, because he is evil.”
+
+And note that, under the example of the straight table already set down, we carried the hidden series through the whole of it from the beginning; and then, continuing in the same way through the reversed table, we again make a circuit, as you see, to the beginning of the straight table. Hence it must be considered that a single series of writing can be carried through both tables, as we have already done in the demonstration of the first example, or, if you prefer, through one alone, as we have sufficiently shown in the reversed table. Nor will this create difficulty for the reader to whom you send the secret message; he will easily understand everything, if he has even a little practice in the art. The strongest lesson, however, and the one that increases knowledge, is frequent use in any art.
+
+After the expansion of the tables there follow certain orchemata, in which there is made not only a transposition of all the letters, but also an ordered leaping of one over another. For orchema is Greek; in Latin it is called transilitio. First, therefore, we marked the leap of the letters in expanded form; afterward we reduced it into an orchema. In the operation of this orchema a remarkable leap is made. There are twenty-four alphabets in it. In the first no letter intervenes; in the second, one; in the third, two; in the fourth, three; in the fifth, four; in the sixth, five; in the seventh, six; in the eighth, seven; in the ninth, eight; in the tenth, nine; finally in the eleventh, ten; and so consequently up to the twenty-fourth alphabet, in which twenty-three letters intervene. Afterward a return is made in like fashion to the beginning.
+
+The method in the orchemata for writing a secret is similar to that observed in the tables of letter-transposition: namely, when you are going to write according to the rule of the orchema, take only one black letter from each alphabet, the one which, written in red, it shows at the head. For understanding this,
+
+--- Page 527 ---
+
+let us set down an example: Prdh. ifyqyn. bdyen. zhkt. sxsol. inq. Its meaning is this: “Beware of this man, because he is evil.” When, in writing, you have reached the end of the orchemata, and the secret begun in your heart has not yet been completed, you should know that you must return to the beginning as many times as necessary, until the mystery has been completed in all respects. And you should know that from a single orchema of letters as many alphabets are composed as the more diligent investigator may wish to have. Finally, this method of writing by orchemata, that is, by transilitions and leaps, is the safest of all, because the transposition of the letters arises not uniformly, but varied in many ways.
+
+And it should be noted that true and perfect knowledge of the tables and orchemata, if you are industrious and diligent, will give you understanding of all writings that are written in any way by transposition of letters. And it is a great secret, known by few, that all meanings hidden in any transposition whatsoever of letters can be discovered.
+
+Brief Explanation of the Sixth and Last Book of the Polygraphia.
+
+[unclear]
+
+In the sixth and last book of the Polygraphia we have gathered certain characters of the ancients, which they used in place of letters, so that if anyone wishes to adopt for himself a private alphabet from it, he may do so, although a moderately skilled person, if he wishes, can devise more beautiful characters for himself. All the synthemata of this book are sufficiently open and clear, and therefore they need no explanation, or only a brief one. Yet those which have newly been invented by us require a definite explanation, lest perhaps they seem to have been set down without reason.
+
+First, we made all the letters of the Latins numerical, after the custom of the Hebrews and Greeks, thinking it shameful if we should be found inferior to them in this respect. Why, then, did we double certain letters so that they might suffice for an infinite number, when the Jews long ago did the very same thing, compelled by the same necessity? And the Greeks, because of a lack of letters, admitted certain signs into their numeration, since they could not double the letters. But we, because we are pressed by an equal lack of letters, [unclear] for et; nor does it matter whether it is written thus, ⁊, or thus, &, provided it represents six in number. We added another, 9, which our people, in abbreviation, [use for] C
+
+[segment 121]
+--- Page 528 ---
+They write it indifferently for con and com, and here, in the order of numbers, it represents six hundred. By the same necessity we have also doubled two letters, namely r/z and long s/closed s: r signifies ninety, but curved z one hundred, long s two hundred, and closed s three hundred. Moreover, double-born w, which we placed in the order of the alphabet on account of the German language, represents the last letter and, in the numerical sequence, one thousand. Let us set out in table form an example of this new invention of ours for the reckoning of numbers, so that anyone who wishes to know the method may have a sure demonstration before his eyes. For what has always been easy for the Hebrews and the Greeks will not be impossible for us. The table of numbers follows.
+
+[table of Latin numerical letters]
+
+--- Page 529 ---
+
+[continuation of the table of Latin numerical letters]
+
+We have sufficiently shown the method of numbering by Latin letters after the manner of the Hebrews and Greeks, which we have reasonably inserted here by way of digression, although it is also found earlier in the sixth book. But by the fact that, as we proceed, we have brought this number of ours to a close at thirty times one hundred thousand, we openly show that it can be extended to infinity. If this method of numbers displeases anyone, he will easily be able to devise a better one.
+
+Likewise, in imitation of the Northmen, from the numerical letters written above we have arranged a new alphabet, by which you will be able to write and report safely to an absent friend whatever secret you wish. This method of writing is indeed so secret, and so new, and never seen or heard before us, that it seems to me utterly impossible that it could be understood by anyone without the assistance of a teacher. But now let us set out its alphabet.
+
+[alphabet from Roman numerical letters, after the imitation of the Northmen]
+
+--- Page 530 ---
+Behold, you now have here an alphabet from Roman numerical letters in imitation of the Northmen, with which you will be able to write and report most safely to an absent friend whatever you wish; and no one will be able to penetrate your hidden secret except one who knows the secret of the art. For all who see the writing will think that the letters have been transposed, and they will labor in vain in counting them up.
+
+Let us set out an example:
+
+Iaaibid ifeib, ieifeigeiccbkib, cakcebhid, id&kahk, gidsbid, cigib, iceigihg ibkgig.&kif, iaiahibifid, ibeicdaka.eib.ieiei&kaib.
+
+The hidden meaning of this writing is as follows: Beware the bearer of the present letters, because the man is utterly wicked: a thief, robber, liar, and worthless fellow.
+
+From the demonstration of this example it is easily given to be understood how safe and secure this method of writing is universally, in every language known to the writer, and in every case or business, however difficult, secret, great, or lengthy. Nor do I think there is a man living in the world who, by his own ingenuity and without teaching, could read this very writing. For all who see it will think nothing other than that the letters have been transposed; and when they cannot attain an understanding of them, at last, wearied by despair, they will cease from investigation, and whatever you have written will remain hidden.
+
+For no one, as I think, will test this method of writing secretly by his own powers as it actually is, unless he has either the Polygraphia, or this key to it, at hand, or has been instructed by another. From these numerical letters many other alphabets can also be produced according to the order of numbering, when the alphabetic beginning for writing is taken not from unity but from any other following number. But you should know that, in that progression, care must be taken that no more than two numerable signs be taken to represent one letter. Therefore, when you have reached ww, that is, ten times one hundred thousand, stop your advance and do not wander farther, lest the multitude of characters corrupt and confuse the beauty of writing. For after unity has been set aside, ten times one hundred thousand characters, included together, suffice for almost thirty separate alphabets. Nevertheless, the method of the first alphabet, beginning with unity, is the more elegant for concealing secrets in writing, in proportion as it is shorter and simpler. It also renders the writing less tortuous.
+
+We have also arranged another alphabet in Latin letters in a confused order.
+
+[segment 122]
+--- Page 531 ---
+
+distributed in a confused order and transposed without any rule; in imitation of it, others too can be made almost without number. Its likeness is now set down:
+
+| o | a | t | g | c | n | p | t |
+| p | b | b | b | a | o | k | u |
+| q | c | u | i | b | p | n | x |
+| r | d | w | k | y | q | m | y |
+| i | e | x | l | d | r | l | z |
+| s | f | 3 | m | g | s | f | w |
+
+Let us also give an example of this alphabet, to prove that a secret can lie hidden in it:
+
+Gquog, oyuqi, ykar, din, uc, qacquxua, riqdiku9si, aqquirixrk3, lkti, idta, ykoc9aqukg, uc, coddotacuo3, ofoqui, fukg, ci, bidioq.
+
+This writing contains the following meaning within itself: Know, my friend, that the king has resolved in council that you are to be killed. Therefore flee as quickly as possible into Narragonia, away from his face, lest you perish.
+
+This mode of writing also is tortuous, and is subject to no regular rule, since at the writer’s pleasure, by chance transposition, it can be varied and changed as much as anyone wishes. Next it should be noted that at the end of the sixth book of the Polygraphia we have handed down another mode of writing by numerical signs, which are commonly called ciphers. Under its covering you will safely write to an absent friend whatever you wish, and no one unskilled in the art will be able either to discover or to suspect that a secret lies hidden there, especially if the rules we have given above concerning these things are observed with careful caution. That is, the sheet should be formed in the manner of an astronomical table, as though it contained something pertaining to the calculation of the stars, in such a way, namely, that characters of the signs or planets are inserted, so that anyone into whose hands it should perhaps fall by chance, led on by the likeness of a table, will think that no secret lies hidden in it, but will suppose that everything pertains to some astronomical computation.
+
+We have arranged twelve alphabets according to the number of the twelve signs of the zodiac, assigning to each the number twenty-four in place of letters. The first of these, belonging to Aries, begins from one and ends at twenty-four.
+
+--- Page 532 ---
+
+In great and difficult matters, however, we advise that beginning from one be avoided, because that mode of writing, on account of that very fact, can easily become suspect. But whoever wishes to use his own natural industry prudently will find subtler things from ours, and will easily make better what we have handed down not sufficiently polished.
+
+In the numerical dance great secrets lie hidden; if anyone properly understands it, he will penetrate many mysteries of numbers. For we had neither the time nor the reason on this occasion to pour everything forth into public view, but in our judgment what we have done will be enough for the instruction of those to whom our discoveries will one day be pleasing: that they may have many ways not only of writing secretly whatever they wish to absent sharers in the art, but also a way of bringing forth one method into many better and subtler ones, according to each person’s capacity of understanding.
+
+Likewise, since the dances of numbers have been sufficiently opened and made plain in their own places, and at the same time their tables set out, it was not necessary here to repeat what has once been said, lest excessive length create weariness for the reader. Nor did I think it necessary to set down an example of writing more secretly by means of figures of numbers, since there is no difficulty in knowing the method for all who possess even moderate ability.
+
+With similar ease the most ancient signs of numbering, which we have brought back into the light, can be understood and grasped; by them the knowledge of numbers is extended to infinity. For whenever a stroke is placed over a smaller number, a thousandfold value is indicated. Thus X with a stroke over it signifies ten thousand; C with a stroke over it, one hundred thousand; M with a stroke over it, a thousand thousand; X with the mark of a hundred, ten times a thousand thousand; C with the mark of a hundred, a hundred times a thousand thousand; M with the mark of a thousand signifies a thousand times a thousand thousand; and so consequently as far as you may wish to proceed in numbering, without limit.
+
+Here ends the key of the Polygraphia of Johannes Trithemius, abbot of Peapack, to Emperor Maximilian. Printed under the direction of Johannes Haselberg of Aia, bookseller, in the year from the birth of Christ 1518, in the month of July.
+
+[segment 123]
+--- Page 533 ---
+ORDER OF THE TERNIONS OF THE POLYGRAPHY.
+
+a have mercy / re / They obtain heaven always, earth bread. / l
+Polygraphy / F N V / d / malach da
+To the divine, ma; you have endured; most beautiful; wisely, el; lead us not; nafor para
+Chart or God; the slain; and the merciful; do; full of grace; hasar mat
+Through the years; minds; they care for God; shrewdly; deceive; for women; dabri cam
+b piety / Because of h.; we read e. / m
+For remembrance / G O X / our fal.; pasan ma
+wax, pure; vain; Europe sti.; life; wretched children of Eve; ramataba
+as often as from vẽ; we, our; snatch; pray for sins; silent tears; barafan
+Little index; dear life; we seem; Jesus Christ; advocate; hamar pa
+A ruler; riches fa.; of the world ma / f / n
+God / H P Y / show; hamar par
+let him bestow on those who demand; the part born; mother of life; Hail, Christ; panas laba
+for the saints; he chose many; Cla; by merits vi.; most holy; hasor mas
+of the creator; they afflict; devoutly; deceit through; have mercy on us; fanasar ma
+many; shepherd; have mercy; wretchedly hold; g; baron ma
+B / l / Q Z / concerning man / o
+wretched; wicked; chosen life; you will take flesh; cadalam; Ioan. Trit.
+banquets; of all; O life of all; great man; boda oma; straight transposition
+be introduced; usefully; for servants; great; restore life; ph a; First figure
+vain things; see; we pray; di; our lives; h; Third figure
+C / k / R a / rhama fes / p
+men; recommendation; rising in; faithful beginnings; ophiran; Fourth si.
+badly; of all; of the highest so.; O virgin; pana meda; Orchema
+will you fail; great; let us celebrate; by merits and; moda asch; order of letters
+Think; vices; deeds; life gives; you have conceived; i; Order of letters
+D / L S b / nemas ho / q
+in the kingdom; Suevi; stain; wretched; holy mother; astrofal; they present
+of the blessed; of the age; of the creator; mercy cre; merafa; But pass on
+deficiency; quibbles; devoutly pray; our; solama asa; public
+brothers; tormented; evil remi.; most pious; k; mouths of the Rhine
+E / M T c / mera doras / r
+your; vain; Christ; of peace due; Our Father; atropas; while; Book
+life; holy faith; of the weak; sanctified; dromat; Orchema
+our; of the impious tur.; among the saints; let your will be done; baschay; Second ta.
+
+CANON OF THE LEAVES, KEY OF THE POLYGRAPHY.
+A B C
+Key of the Polygraphy; to penetrate; po; let us set down from
+In the explanation; which still; sufficiently
+sti.; Spirami; foods; infinite; fo; distributed
+although certain
+
+--- Page 534 ---
+LATER VINDICATORY WORK
+OF THE INQUISITION OF HERBIGER
+VINDICATORY WORK
+MINDER'S SPARKS
+FAREWELL
+DICTATION
+NOTATIONS
+BILLETS
+PROPOSITIONS
+SCHEMES
+COMPOSITIONS
+FIGURES
+RECOMMENDATIONS
+EXECUTIONS
+GENORTIONS
+LICENSES
+KEYLERIES
+TRANSLATIONS
+HERZOG AUGUST LIBRARY, WOLFENBUETTEL
+Herzog August Library, Wolfenbüttel
+Gray Scale
+0 1 2 3 4
+© HAB http://diglib.hab.de/drucke/fb-128/start.htm?image=00540
+NDI
+
+[segment 124]
+--- Page 535 ---
+Kodak Gray Scale 0 1 2 3 4
+Herzog August Bibliothek Wolfenbuttel
+© HAB http://diglib.hab.de/drucke/fb-128/start.htm?image=00541
+NDS
+
+--- Page 536 ---
+Herzog August Bibliothek Wolfenbuttel
+Kodak Gray Scale 0 1 2 3 4
+© HAB http://diglib.hab.de/drucke/fb-128/start.htm?image=00542
+BDS
+
+--- Page 537 ---
+72
+Herzog August Bibliothek Wolfenbuttel
+Kodak Gray Scale 0 1 2 3 4
+© HAB http://diglib.hab.de/drucke/fb-128/start.htm?image=00543
+NDS
+
+--- Page 538 ---
+Herzog August Bibliothek Wolfenbuttel
+Kodak Gray Scale 0 1 2 3 4
+© HAB http://diglib.hab.de/drucke/fb-128/start.htm?image=00544
+BDS
+
+--- Page 539 ---
+...distributed in this way, and transposed without a rule; in imitation of this, other examples too can be made, almost without number. And its likeness is now set down.
+
+| o | a | t | g | c | n | ɔ | t |
+| p | b | b̾ | a | o | k | u |
+| q | c | u | i | h | p | n x |
+| r | d | w | k | y | q | m y |
+| i | e | x | l | d | r | l z |
+| s | f | ÷ | m | g | s | f w |
+
+Let us also set down an example of this alphabet, so that we may prove that a secret can be hidden in it.
+
+Gquog, oʒuqi, ykar, din, uc, qacquxua, riqdiku9 9i, aq q urixrk3, skti, idta, ykoc9aqukg. uc, coddotacuo3, ofoqui, iukg, ci, hidiog.
+
+This writing contains the following meaning within itself: Know, friend, that the king has decreed in council that you are to be killed. Therefore flee as quickly as possible into Tarragona from his presence, lest you perish.
+
+This mode of writing too is tortuous and is subject to no regular rule, since it can be varied and changed at the writer’s pleasure by random transposition as much as anyone wishes.
+
+Next it should be noted that at the end of the sixth book of the Polygraphia we handed down another method of writing by numerical signs, which are commonly called ciphers. Under its covering you may safely write to an absent friend whatever you wish, and no one unskilled in the art will be able either to discover or to suspect that a secret lies hidden there, especially if the rules that we have given on these matters are observed with careful diligence.
+
+This is that the sheet be formed in the manner of an astronomical table, as if it contained something pertaining to the reckoning of the stars, in such a way, namely, that the characters of the signs or planets are inserted, so that anyone into whose hands it might perhaps fall by chance, led by the resemblance to a table, would not think that any secret lay hidden in it, but would suppose that everything pertained to some astronomical computation.
+
+We have arranged twelve alphabets according to the number of the twelve signs of the zodiac, assigning to each one the number twenty-four in place of letters. The first of these, that of Aries, begins from one and ends at twenty-four.
+
+C iiij
+
+[segment 125]
+--- Page 540 ---
+
+in great and difficult matters one should avoid beginning from one, because that very method of writing can easily become suspect on account of it. But whoever wishes to use his own natural industry prudently will find subtler things from ours, and will easily make better what we have handed down as not sufficiently polished.
+
+In the numerical orchema great secrets lie hidden; if anyone properly understands it, he will penetrate many mysteries of numbers. For we had neither the time nor the reason on this occasion to pour everything out in public. In our judgment, it will have been enough that we have done this for the instruction of those to whom our inventions will someday be pleasing: so that they may have several methods, not only of writing secretly whatever they wish to absent partners in the art, but also one method of producing several better and subtler ones, according to each person’s capacity of understanding.
+
+Likewise, since the numerical orchemata have been sufficiently opened and made plain in their own places, together with their expanded tables, it was not necessary here to repeat what had once been said, lest too great length should create tedium for the reader. Nor did I think it necessary to set down an example of more secret writing by means of numerical figures, since there is no difficulty in knowing the method for all who possess even moderate ability.
+
+With similar ease the most ancient signs of numbering, which we have brought back into the light, will be able to be understood and comprehended; by them the knowledge of numbers is extended to infinity. For whenever a stroke is placed above a smaller number, a thousand is designated. Thus [sign] means ten thousand; [sign], one hundred thousand; [sign], one thousand thousand; [sign], ten times one thousand thousand; [sign], one hundred times one thousand thousand; [sign], one thousand times one thousand thousand; and so consequently as far and as much as you wish to advance in numbering, without limit.
+
+Here ends the Key of Polygraphy of Johannes Trithemius, abbot of Peapack, addressed to Emperor Maximilian. Printed under the direction of Johannes Haselberg of Aia, bookseller, in the year from the birth of Christ 1518, in the month of July.
+
+--- Page 541 ---
+
+[Table or index, heavily corrupt in the OCR witness. Clear isolated entries include:]
+
+a: have mercy
+b: mercy / piety
+c: wax, pure
+as often as a comes ...
+life, friend
+ruler
+H: when exigencies demand
+many afflict us
+shepherd
+wretched malignant men
+of all, usefully
+see C
+men
+Recommendation
+of all
+great
+faults
+acts
+L
+cruel
+[unclear]
+quarrels
+[unclear]
+M
+your
+life
+our
+B
+God
+may bestow
+holy ones
+of the creator
+many
+A
+Index
+ruler
+God
+wretched
+banquets
+introduced
+vain things
+Consider
+D
+kingdom
+of the blessed
+is lacking
+brothers
+E
+your life our
+F
+Additions to the Polygraphy, Pinax or [unclear]
+through the years
+b c d e m n o p q r A G O X Y Z k h i l m N V d
+malach
+give
+most beautiful
+wisely
+he / it
+lead us
+[unclear]
+prepare
+slain
+And to the wretched ...
+grace full
+hasar
+mother
+they care for God
+craftily
+[unclear]
+with women
+dabri
+cam
+On account of this
+we read
+our salvation
+pasan
+ma
+Europe
+fri
+life
+wretched sons of Eve
+ramataba
+we to be seen
+Jesus Christ
+advocate
+barasan
+riches
+fa
+of the world
+ma
+have mercy on us
+[unclear]
+hamar
+pa
+part
+born
+mother of life
+Hail, Christ
+panas
+laba
+he chose
+Cla
+by merits
+vi
+most holy
+hasor
+mas
+devoutly
+deceit
+through
+have mercy on us
+fanasar
+ma
+have compassion
+g baron ma
+because concerning man
+Johannes Trithemius
+R̄ a rhama fes
+straight translation
+Orchema of the highest ...
+virgin ...
+pana meda
+first figure
+let us celebrate
+by eternal merits
+moda asch
+T
+osti arheni istima
+public
+k mera doras
+because
+sabe
+wretched
+pious mother
+astrofal
+But pass over
+pleasant ...
+C
+of peace
+due
+Our Father
+atropas
+Orchema
+holy faith
+most weak
+sanctify thy ...
+[unclear]
+impious ...
+holy ones in ...
+thy will be done
+baschay
+
+[segment 126]
+--- Page 542 ---
+
+Vindicatory work on posterity
+of Herbig's inquisition
+
+Vindicatory work
+Minder's sparks
+Separated
+Dictatorial writings
+Notes
+Billets
+Propositions
+Schemes
+Compositions
+Figures
+Recommendations
+Executions
+[unclear]
+Licenses
+[unclear]
+Translations
+
+Herzog August Library, Wolfenbuettel
+Herzog August Library, Wolfenbuettel
+Gray Scale
+0 1 2 3 4
+© HAB http://diglib.hab.de/drucke/fb-128/start.htm?image=00540
+NDI
+
+[segment 127]
+--- Page 543 ---
+Kodak Gray Scale 0 1 2 3 4
+Duke August Library Wolfenbüttel
+© HAB http://diglib.hab.de/drucke/fb-128/start.htm?image=00541
+NDS
+
+--- Page 544 ---
+Duke August Library Wolfenbüttel
+Kodak Gray Scale 0 1 2 3 4
+© HAB http://diglib.hab.de/drucke/fb-128/start.htm?image=00542
+BDS
+
+--- Page 545 ---
+72
+Duke August Library Wolfenbüttel
+Kodak Gray Scale 0 1 2 3 4
+© HAB http://diglib.hab.de/drucke/fb-128/start.htm?image=00543
+NDS
+
+--- Page 546 ---
+Duke August Library Wolfenbüttel
+Kodak
+Gray Scale 0 1 2 3 4
+© HAB http://diglib.hab.de/drucke/fb-128/start.htm?image=00544
+BDS

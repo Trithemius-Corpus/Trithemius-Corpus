@@ -1,0 +1,49 @@
+{
+  "id": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+  "title": "Clavis Generalis Triplex in Libros Steganographicos",
+  "year": "1608",
+  "source_year": "1608",
+  "year_note": null,
+  "edition_info": "Francofurti : Johann Berner; Balthasar Hofmann, 1608 (HAB)",
+  "edition_info_raw": "( Francofurti : Johann Berner; Balthasar Hofmann, 1608 ) HAB",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 278,
+  "genre_cluster": "crypto-occult",
+  "tier": "S",
+  "faithful_adj": 4.55,
+  "fluent_adj": 4.55,
+  "coverage_pct": 100.0,
+  "chunks_graded": 132,
+  "chunks_total": 132,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "claude-cli",
+    "codex-sweep",
+    "minimax",
+    "minimax-v2",
+    "public"
+  ],
+  "source": {
+    "provider": "HAB",
+    "url": "http://diglib.hab.de/drucke/fb-243/start.htm",
+    "download_url": "http://diglib.hab.de/download.php?dir=drucke/fb-243&submit=start%20download&begin=drucke_fb-243_00001&end=drucke_fb-243_00276",
+    "prdl_id": "70281"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 132,
+    "n_missing_segments": 3,
+    "latin_source_file": "churro_full.txt",
+    "latin_fallback_sources": {
+      "_churro_fold_backup\\full_qwen.txt": 1
+    },
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_parallel.html"
+  }
+}

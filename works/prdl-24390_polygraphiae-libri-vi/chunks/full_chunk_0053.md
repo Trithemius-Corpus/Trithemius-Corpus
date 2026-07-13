@@ -1,0 +1,13 @@
+[unclear]
+
+A: our; B: your; C: of good men; D: of holy men; E: of just men; F: of the elect; G: of believers; H: of orders; I: of the faithful; K: of the humble; L: of the upright; M: of the pious; N: of the devout, through which; O: of minds; P: of souls; Q: of the saved; R: of Christians; S: of penitents; T: of the orthodox; V: of Catholics; X: of the living; Z: of human beings; [unclear]: introduction. A: gate; B: approach; C: access; D: return; E: passage; F: entrance; G: entry; H: return; I: progress; K: ascent; L: agreement; M: doorway; to us, to the roads; to us, to the way; path; track; means; guidance; confidence; passage; leading by the hand; departure; introduction.
+
+A: life; B: lies open; C: is made open; D: opens; E: will lie open; F: is opened; G: is restored; H: is granted; I: is bestowed; K: is contributed; L: is supplied; M: is repaid; N: is reformed; O: is returned; P: is given back; Q: is displayed; R: is shown; S: is declared; T: is pointed out; V: rest; X: fourteen; Y: [unclear]; Z: [unclear]; [unclear].
+
+A: eternal; B: blessed; C: O holy; D: O untouched; E: O bright; F: O perpetual; G: O inviolate; H: O blessed; I: O undefiled; K: O uncontaminated; L: O most blessed; M: O most holy; N: O most bright, and; O: O venerable, and; P: O glorious; Q: O most exalted; R: O beautiful; S: O gracious; T: O notable; V: O most glorious; X: O most glorious; Y: O most beautiful; Z: O most pure; [unclear]: O most pure.
+
+A: most pious; B: mother, nurse; C: most dutiful; D: guide; E: sweetest; F: lamp; G: most kindly; H: patroness; I: mercy, advocate; K: most shining; L: helper; M: most honorable; N: promoter; O: virgin, helper; P: most happy; Q: protectress; R: most chaste; S: preserver; T: most adorned; U: intercessor; V: most serene; X: restorer; Y: most noble; Z: comforter; Z: most beautiful, lover; T: most innocent; V: savior; Z: most fruitful; Y: empress; 20: most gentle.
+
+A: of the needy; B: to guilt; C: to fault; D: to sin; E: to stain; F: to liability; G: to excess; H: to crime; I: to offense; K: to sin; L: to wickedness; M: of Christ-worshippers, which; N: by no blemish, least of all, never; O: to disgrace; P: to malice; Q: to displeasure; R: to negligence; S: to transgression; T: to indignation; V: to temptation; X: to vanity; Y: to the wrath of God; Z: to offense; [unclear]: to pleasure.
+
+A: subject; B: clean; C: innocent; D: immune; E: harmless; F: unstained; G: most pure; H: most bright; I: most clean; K: most luminous; L: blameless; M: most just, and always; N: inviolate, and always; O: most holy; P: most innocent; Q: immaculate; R: uncontaminated; S: most shining; T: most beautiful; V: most beautiful; Y: beautiful; Z: beautiful; [unclear]: bright.

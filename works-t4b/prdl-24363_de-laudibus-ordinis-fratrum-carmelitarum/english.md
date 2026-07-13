@@ -1,0 +1,713 @@
+[segment 1]
+--- Page 001 ---
+
+Trithemius, Johannes
+
+On the Praises of the Order of the Carmelite Brothers, with the author's dedicatory letter to Johannes Wiricus, Sponheim, 23 April 1492. With a letter to Johannes Lapicida by Rutgerus Sycamber, 13 November 1494, and with poems on the work by Johannes Trithemius, Johannes Empolides, and Rutgerus Sycamber.
+
+Mainz [not before 13 November 1494]
+4 Inc.c.a. 1159
+urn:nbn:de:bvb:12-bsb00040383-8
+BSB-Ink T-447 - GW M47556
+
+--- Page 002 ---
+
+Inc. c. a.
+1159. 40
+
+--- Page 003 ---
+
+4° Inc. c. a.
+1159
+Trithemius
+ROYAL LIBRARY
+OF MUNICH.
+Hain 15628
+1130
+
+--- Page 004 ---
+
+1159. Inc.
+
+On the praises of the order of the Carmelite brothers, by the reverend father lord Johannes Trithemius, abbot of Sponheim. Two books.
+
+ROYAL LIBRARY
+OF MUNICH.
+VI. 6.
+
+--- Page 005 ---
+
+To the venerable and devout father, lord Johannes Lapicida of Cologne, prior of the Carmelites in Kreuznach: Brother Rutgerus Sycamber, regular of Heyn.
+
+First, I would wish perpetual health to abound for you. Since recently I had looked through a certain most elegant book of lord Johannes Trithemius, a man very celebrated in this age, I learned likewise that he, impelled by your frequent exhortations, had undertaken so salutary a task. Not only that, but I also understood that you are devoting effort to have it printed. I do indeed rejoice with you and congratulate your diligence, by which, as a true lover of the brothers, you are trying to make your order illustrious and to adorn it. Moreover, you make all the fathers of your order, provided they are not ungrateful, beholden and indebted to you. Let others praise whatever ornaments of virtues they wish in you; I place this ardent love and devout inclination toward the fathers of your order before all your virtues. For just as it is the deed of a most wicked crime if anyone befouls and disgraces his religion by words or deeds, so it belongs to most magnificent worthiness and goodness if someone, so far as he can, makes his order illustrious and adorns it. Because I have understood most truly that you are doing this, I could not fail to rejoice with you. Let one man praise here your eloquence, another your goodness, others your devotion, another your gravity; I shall always commend the diligence with which you desire to exalt your order. Not indeed because I think the remaining virtues are of little weight, but because I judge them to be overshadowed in comparison with this one. I know indeed that very many ornaments of virtues have been bestowed on you by the highest God; if I wished to pursue them one by one, and indeed the wish is in my desire, I would compose not a letter but a long volume. For who could worthily write with how much glory of talent you shine, with how much learning, and that divine, you are resplendent, and finally with how much courtesy and affability you are adorned? I pass over your illustrious and honorable manners; I leave aside your eloquence full of wit; I am silent about your most ardent charity toward the brothers. For no one would easily write down the virtues that adorn you. This one thing I cannot sufficiently admire: that you burn with so great a love and glow with so great a desire that you have striven not only to incite
+
+--- Page 006 ---
+
+and compel our Trithemius to write on the praises of the Carmelites, but have also taken the greatest vigilance to have it printed. And this is certainly not without reason. For that book gleams with such splendor, flourishes with such grace, and is strengthened by such gravity and truth that whoever thinks it unworthy is mad. The whole work proceeds clause by clause, and if you inspect it diligently and keenly, you will find that its unfettered, playful discourse is composed in certain feet. In those feet, I say, lest anyone gnaw at us with his tooth, which that most acute master prescribes should be observed by an orator. For it is not enough for a most diligent man to delight his readers with truth and the majesty of the subject matter, unless he also affects them with elegance of diction, a most eloquent style, and rhythm. And this indeed justly. For to commit one's thoughts to writing, but neither order them nor bring it about by a certain sweetness and charm that they soothe the hearers, belongs to a man abusing both leisure and letters. Therefore let rude and unlearned men at last cease speaking ill, men who mock what they cannot grasp. For they object to poetic and oratorical skill in an eloquent man, just as if the ancient teachers had not used the same style and manner of speaking. Nor do they themselves know what poetry is or what rhetoric is; since I have answered them about this in other places, it would seem both too long and superfluous to refute them here. But we shall not abandon our undertaking, on account of which we have all good men as friends. This, indeed, many men testify, but especially the reverend lord Johannes Lathomus, prior of Kreuznach, by words and deeds. Since he is worthy of true praise and does not seek human praises but tends toward the heavenly prize, it is not fitting for us to praise him.
+
+These things, observant father, I have written briefly to your charity, knowing that you are not delighted by fleeting praises, since you are wholly inwardly disposed, always turning over in your mind that saying from Persius: Do not seek yourself outside yourself. For the rest, I pray from my heart that, mindful of the purpose conceived and inspired by God, you pursue your intention, and that you bring your mind to love my paternity and to believe it. If you do this, as you ought to do, you will always find mutual charity. For nothing has ever been more pleasant to me than to be loved by those whom I could rightly and justly love in return.
+
+[segment 2]
+--- Page 007 ---
+to be loved by those whom I could rightly and justly love in return. For to displease the wicked is the highest praise. Farewell, most honored father. Written very hastily on the Ides of November, in the year of salvation 1493.
+
+Here follows the table of chapters.
+
+On the beginning of the order. Chapter 1.
+
+How Elijah, prophet of the Lord, was the founder of the order of Carmelites. Chapter 2.
+
+On the way of life of the sons of the prophets and of others before the birth of Christ on Mount Carmel. Chapter 3.
+
+When and how the rule was given to the brothers dwelling on Mount Carmel. Chapter 4.
+
+On the confirmation and approbation of the order of Carmelites. Chapter 5.
+
+On the change of the brothers' outer habit. Chapter 6.
+
+Why the Carmelite brothers are called the brothers of Blessed Mary ever Virgin of Mount Carmel. Chapter 7.
+
+On the migration of the brothers into Europe. Chapter 8.
+
+On the manifold persecution of this most holy order and its victory against its rivals. Chapter 9.
+
+On the first progress of the order of brothers in Europe, and on the multiplication of convents. Chapter 10.
+
+How useful and fruitful the Carmelite order is in the Church. Chapter 11.
+
+On the saints and canonized persons from this order. Chapter 12.
+
+--- Page 008 ---
+Letter of Lord Johannes Trithemius, Abbot of Sponheim, on the work below concerning the praises of the order of the Carmelite brothers.
+
+To the reverend father in Christ, Lord Johannes Virici of Nussia, provincial throughout Lower Germany of the order of the brothers of Blessed Mary ever Virgin of Mount Carmel, and to the other fathers gathered in chapter in the convent at Cologne: Johannes of Trittenheim, Abbot of Sponheim, sends greeting and charity.
+
+Report says that the kings of the ancient Parthians greeted no one without gifts. And I, most religious fathers, do indeed have it in mind to greet your college, but I lack gifts worthy of the office, by which the sincerity of my love toward you might be declared. What, then, shall I do? Shall the covenant of charity be broken because of the poverty of a gift? Far from it. Shall I therefore greet you empty-handed? Not at all. What, then, shall I bring? Gifts. What gifts, poor and needy as I am? Gifts of charity. Not gold, not silver, not precious stones, but words and letters, by which the order of piety may be nourished.
+
+Recently, therefore, moved by the prayers and insistence of the religious fathers Johannes Lapicida of Cologne, prior of Crutzenach, and Jacobus de Cuba, lector, I wrote a brief little work in praise of the Carmelite order, which I send to you for examination in place of a small gift. And although it was certainly embarrassing for me to have wished to praise the excellence of so great an order before men most learned in every branch of erudition and doctrine, since I know that there are many among you who are most eloquent and who could do this better than I, nevertheless I preferred to be judged unskilled in speech rather than fruitless in charity. For even if my little work falls far short of the praises of so great an order, it may nevertheless bring some usefulness, since the one who wished to be a praiser of your religion has acquired no suspicion of praise for himself. For I believe that the praises and honor of your most excellent religion, coming from another's mouth, are accepted more gratefully.
+
+[segment 3]
+--- Page 009 ---
+
+from outsiders rather than from your own. Receive now, therefore, best fathers, the little work sent from my smallness; in it weigh not what I have done, but how much I wished to do for the honor of the Carmelite order. But if you judge anything worthy of correction, correct it as you please, or, if it seems good, entrust it to me to be corrected. Various occupations of household affairs did not allow me to apply the file of every kind of elegance, nor to arrange each point according to my training. If there has been error anywhere, negligence, not will, gave the cause. But you, venerable fathers, will readily accept the apology, if you weigh my love toward you and the solicitude of pastoral care. I shall count it among the greatest delights if I learn that my affection toward the order has not displeased you. I desire you always to be well in the Lord and mindful of me. Given very hastily from our monastery of Sponheim, the ninth day before the Kalends of May, in the year of the Lord 1492.
+
+--- Page 010 ---
+
+Here begins the preface of Lord Johannes Trithemius, abbot of Sponheim, of the order of the divine father Benedict, to the book on the praises of the sacred order of the Carmelite friars.
+
+At the prayers and urging of certain fathers of the order of the friars of Blessed Mary ever Virgin of Mount Carmel, I undertook the work set below. In it I determined to describe briefly the praises of that most sacred religion, so far as the cares of household affairs and the very slight powers of my talent allowed, and I chose to show more compendiously how it has advanced from the beginning of its foundation down to this day. But since praise is not seemly in the mouth of sinners, I greatly fear lest the dignity of so excellent an order be obscured by my slowness, and there happen to me what is wont to happen to unskilled orators, who by their lack of skill are accustomed to disfigure splendid matters. Indeed, when I seem somewhere to have written too sparingly, I should not be thought to have failed in subject matter, but in words. For the excellence of the Carmelite order is very great, and seems to far exceed not only my fluency and eloquence, but even that of Demosthenes. There are various orders in the Church of God; nevertheless, to this one before all the rest so much is granted, that it is adorned with the title of the most blessed Mother of God and Virgin. Since, therefore, small talents do not suffice for praising the greatest matters, what wonder if I seem to fall short in celebrating a most splendid order? I have indeed satisfied my urging friends, although I have been able to do less than I wished. Still love of the Carmelite order flourishes in my breast; still the material for praising it overflows; but before the excellence of the matter words fail. The institution of this order has deserved great praise, which the Queen of Heaven distinguished by her own name. O truly blessed union, which, fortified by the protection of so great a Mother, stands firm forever. Under the protection of the Mother of God the Carmelite order rests, and for that reason it will never fear any adversities. Rejoice, glory of Carmel; the sower
+
+--- Page 011 ---
+
+of the world loves you on account of the Mother’s honor; Mary, the Virgin and Lady of the world, guards you as the pupil of her eye; the citizens of the heavenly homeland honor, love, and praise you, diligently venerating in you the name and honor of their Empress. The upright also love you, mindful of your beauty. No one truly loves you unless he is good; no one hates your institution unless he is perverse. How beautiful are your steps in the shoes of the Gospel of peace; how lovely your face, how elegant your form, how splendid your appearance. Blessed are your worshippers, who walk in the paths of truth, who, despising worldly things, keep your precepts with devout sincerity. You are greater, O sacred religion of Carmel, than can be proclaimed by my words. I cannot keep silent from your praises, since what the weakness of my powers denies, charity supplies.
+
+Now therefore, you friends, importunate demanders of the present work, receive from the hand of a poor lover of you and of the Carmelite order the gift long desired, and diligently entreat the greatest God for my errors. You have from me the little work you asked for; in it I have satisfied your petitions, but by no means my own will. For we desire more for the honor of your order than we are able to accomplish.
+
+Next I address you, brothers serving under the Virgin’s protecting mantle; I beg and beseech you that, if our devotion toward your order seems praiseworthy to you, you intercede with the Lord for our faults, and render the Mother of God, patroness of your religion, gentle and propitious to us. Do this, I say: let the reward of our work be brotherly love and the prayer of unity.
+
+[segment 4]
+--- Page 012 ---
+
+Here begins the first book of lord Johannes Trithemius, abbot of Spanheim, On the Praises of the Order of the Carmelites.
+
+On the beginning of the order. Chapter 1.
+
+Since, with the Lord’s help, we are about to treat of the order of the brothers of the most blessed Mother of God and Virgin Mary of Mount Carmel, let us take the beginning of our discourse from him who holds the chief place in that same religious order. For then the knowledge of this most sacred order will be able to be pleasing to the reader, if the eminence of the one who instituted it is not hidden from him. Indeed, individual orders have their own teachers and leaders, founders and governors of life under a rule. Some had Basil as the leader of their order; others Augustine; others Pachomius; we had Benedict; the Preachers had Saint Dominic; the Friars Minor had Francis. But Elijah, the greatest prophet, is said to have been the founder of this most sacred order; the sons of the prophets are remembered from the Old Testament as its leaders; and its propagator was the holy prophet Elisha. The most sacred Mother of God, the Virgin Mary, marked it with her own name and defended it from the envy of rivals.
+
+Let him who glories glory in the Lord. Let each person desire, as far as he can, to imitate the leaders of his own order; let each follow his own founders in conduct, not in frivolous speeches. Let no one in the Church of God contend over the excellence of his own order; let no one provoke another through zeal for rivalry; let no one disparage another; let no one corrupt another’s reputation by the evil of pride. It is foolish to seek glory from another’s holiness, and to expect reward from another’s virtue rather than from one’s own. There are some, envious of the pursuits of good men, who gnaw at and tear the sacred order of the Carmelites with an impious tooth, who are greatly indignant at the prerogative of the Virgin’s title, judging the Carmelites as though unworthy to be called brothers of the most blessed Mother of God and Mother. Others, ignorant of the antiquity of this most sacred religion, deny that prophets of that highest God were its founders and leaders, as though among the ancients there had been no
+
+--- Page 013 ---
+
+religious life which was transmitted to later generations under the name of an order.
+
+And first of all, with the favor of the Virgin Mary, the arguments of these men must be stopped up, and only then must our discourse be continued to the praise of the order. For unless at the beginning the false opinions of fools have been struck down, they will always be preparing ambushes for us like little robbers. Now then, foolish detractor, what do you object to us? What do you charge against the holy order? What do you have against this religious life, by which you can be moved? Bring it forth, so that we may hear. Do you think you are justly indignant at the Carmelite brothers, the servants of the Mother of God? What is it that displeases you in their order? Its kind or its form? Its name or its virtue? Its life or its merit?
+
+If it is its kind, hear Scripture. For we are also the offspring of God. The chief apostle says: “You are a chosen race, a royal priesthood, a holy nation, a people of acquisition, that you may proclaim the virtues of him who called you out of darkness into his marvelous light.” It is a planting of God; beware lest you speak harshly against the saints. God chose the order of the Carmelites for the honor of himself and of his Mother. If this displeases you, you are attacking the ordinance of the Almighty. If its form displeases you, hear what the Lord says: “The beauty of the field is with me.” This is the field which the Lord has blessed, in which the lilies of virtues and the flowers of piety grow. No blessed person can curse this field, so holy, so fruitful, and so beloved of God. If the name, splendid with the Virgin’s trophy, displeases you, you are all the more foolish, since, setting aside the majesty of the realities, you quarrel over a word. The Carmelites possess a blessed name, and whoever curses it will lie under curses. If the virtue of the brothers moves you to rivalry, you are envious, because you are tormented by another’s goodness. Finally, whoever hates virtue in his neighbor does injury to God, who bestows merits and rewards.
+
+But if the life of the Carmelites displeases you, say whose life you mean. That of some, or of all? You are rash if you condemn so many brothers with one sentence, from whose holy way of life you yourself still stand far apart. For to us who read the histories of the ancients it is clear that many most holy men have shone in this order. Nor is it doubtful
+
+[segment 5]
+--- Page 014 ---
+there are today very many devout brothers who most gloriously adorn this order with their virtues. But if the weakness of certain brothers scandalizes you, you are impious, for you spread the fault of a few over all, and you show that you yourself lie far from the perfection of the saints, while you bear the defects of others impatiently.
+
+But I know why you are stirred against the holy order of the Carmelites. There are two things in it that displease you: one is that they call themselves brothers of blessed Mary ever virgin; the other is that they proclaim Elijah and the sons of the prophets as the founders and princes of their order. These are the heads of the opposing party; these are the foundations of another’s disturbance.
+
+But, O foolish presumption of the human condition, which cannot remain tranquil in the consideration of its own humility, but always strives, through the evil zeal of rivalry, to surpass its equal. Why do you envy the Carmelite brothers the title of their order, which the queen of heaven conferred upon them? For truly, if the lady of the world wished to show herself a sister to the Carmelites, who can contradict her? Is she not permitted to do what she wishes? Or is your eye wicked because she is good? Do not be troubled; do not be angry; do not gnash your teeth. No one can prevent the queen of heaven from calling her Carmelites her brothers and sons.
+
+I do not speak frivolous things, nor false ones, since the supreme Roman pontiffs, the successors of Peter, have been accustomed to call the Carmelites nothing other than brothers of the Mother of God. Turn over the acts of general councils and the apostolic bulls, and you will never find the Carmelites named without the honor of the Marian title. Does this seem too little to you, and do you require greater testimony from me? There is no greater testimony than the Church of God, since whatever she has approved will no longer need the testimony of another.
+
+But if the excellence of this title also delights you, why are you indignant against the holy brothers? Take it up, display it, preach it: they, unharmed, will by no means forbid you. Nevertheless, know that whatever is taken up is not considered one’s own. Do the works of a sister, and you will be a brother. For the most holy mother of God, the Virgin Mary,
+
+--- Page 015 ---
+is the common mother of the faithful; she utterly despises no devoted person. Therefore do as you please: the Carmelite brothers alone have merited, by the authority of the universal Church, this title of the order’s virginal patronage, which they will never lose through any rivalry. But why they have been called brothers of blessed Mary ever virgin we shall treat in due course in its proper place. Now we must respond to the second proposition of the slanderer, by which he imprudently provokes the Carmelite brothers concerning their succession from Elijah and the prophets.
+
+How Elijah the prophet of the Lord was the founder of the order of the Carmelites. Chapter 2.
+
+Elijah, the distinguished prophet of the Lord, is rightly and in Catholic fashion called the founder of the Carmelite religious life, if his deeds are examined without envy from the books of Kings. For indeed he himself is read to have been the first to dwell on Mount Carmel, from which the Carmelite brothers are named. It is shown by threefold reasoning that Elijah is to be held the prince of this observance: namely from place, from habit, and from manner of life. Since, therefore, the name of the order is taken from the place, Elijah is deservedly remembered as prince of the Carmelites, because Mount Carmel, of which he was an inhabitant, gave this order its name.
+
+I do not speak empty things, but present claims proved by the testimonies of the Scriptures, when I say that Elijah the prophet inhabited that same place long before the birth of Christ, which gave the Carmelite brothers both the name and the beginning of their religious life. Finally, if the testimony of the ancients is to be believed, after Elijah’s rapture and the death of Elisha, the sons of the prophets, inhabiting Mount Carmel through the succession of generations, never allowed it to be without distinguished worshipers.
+
+Citations of testimonies on these matters are not necessary for learned men, and for the unlearned they are superfluous. For it is foolish to spend time on citations, since those who seek an evasion from what is said I call, though doubtful, as witnesses beneath. That most holy patriarch of Jerusalem, John,
+
+[segment 6]
+--- Page 016 ---
+
+who flourished in the times of Pope Adrian I. What else does he express in his book On the Origin and Progress of This Order, except that Elijah was its founder? Cyril the Greek, bishop of Alexandria; William of Sanvico; Sibert de Beka; Philip Ribot; John Baconthorpe, men most learned and wholly upright: what else do they write about this order than that it took its beginning from Elijah? If you pretend not to give credence to us in what we write about this order, turn to the writings of the aforesaid fathers, and you will not be able to accuse us of falsehood.
+
+The name of the place therefore agrees that Elijah is founder of the Carmelite order. Hence the brothers of this sacred religious life are not to be blamed because they assert that Elijah and the sons of the prophets are the founders and chiefs of their order.
+
+As for what pertains to the matter of habit, the order of Carmelites agrees with Elijah in a beautiful transformation. We read that he was clothed with a mantle; when it touched the Jordan, the river stood amazed and made itself passable, to be trodden by the feet of the one crossing. So Elisha, so the sons of the prophets, became imitators of Elijah, who remained faithful to him not only in place but also in habit. But if you think to bring a calumny against us over the color, though it is a paltry argument that disputes about detested colors, we call you back to the histories of the ancients, in which the Carmelite brothers in the primitive Church are read to have been clothed, like Elijah, in striped mantles. Nor should the change of color offend you, since it is not of the substance of the order. For the habit can be changed while the integrity of the order remains. So too the Cistercians, changing their gray habit, took up a black one, while their former religious life nevertheless persevered.
+
+By reason of manner of life, moreover, Elijah was founder of the order of Carmelites, since he went before them on Mount Carmel in most holy ways. What did Elijah do that the Carmelite brothers do not imitate as far as they are able? He dwelt in the wilderness, loved the vast places of solitude, and was free for God alone and for himself. But the Carmelite brothers, from the beginning of their institution, led a solitary life on Mount Carmel, choosing to be free for God alone through the secrecy of contemplation, until at last, in almost the most recent times, by the fate of
+
+--- Page 017 ---
+
+the persecution of the Saracens, they were driven from the wilderness and, at the command of the apostolic see, were settled in cities. Hence also in ancient times they were called hermits of Mount Carmel.
+
+Moreover, just as Elijah announced the will of God, rebuked tyrants, and slew the impious, so the Carmelite brothers, as far as pertains to them, preach the word of God to all, rebuke tyrants, and, through admonitions of salvation, kill in themselves and in others, by the power of God, the impious movements of carnal desires. Elijah, a virgin in mind and body, is found to have been mingled with no stain of bodily intercourse; rather, he shone with such purity before God and men that he deserved to defer death now for two thousand four hundred and thirty years. The Carmelite brothers, instructed by the example of their holy chief, bind themselves by the vow of religion to perpetual chastity: they neither marry nor are given in marriage; they build up the Church of God by life and doctrine; and, after driving away vices as far as human frailty permits, they plant virtues in themselves and in others. And although it is not possible for them to imitate Elijah in all things, nevertheless, if equality of manner of life is considered with right judgment, Elijah is proved to have been the first and best Carmelite.
+
+What, then, will wicked rivalry now object to us, so that you deny Elijah to have been a Carmelite? If you say that Elijah was not chief and founder of the order of Carmelites because he did not profess their rule, we do not give this great weight. For what if he did not have a rule, he who existed before the rule? Very well, you say: if he existed before the rule, how was he founder of the order of Carmelites? For he could not have been founder of the order if he did not give the rule. But the conclusion is not true, for contrary practice among many refutes it. Blessed Dominic established the order of Preachers, and yet he did not give the rule of Augustine, but received it. So too the Cistercian order, so the Carthusian, so almost innumerable others had some men as chiefs of their institution and others as givers of the rule. But lest you object that Elijah preceded the rule of the Carmelites and therefore could not have been founder of the order, know that in the Church of God there were once many orders without a fixed rule, which in the course of time assumed a rule.
+
+[segment 7]
+--- Page 018 ---
+
+For the order of Saint Jerome flourished in the Church of Christ for many years; yet it did not receive Jerome's rule until Brother Lupus of Oliveto, a Spaniard and general of the same order, at last under Pope Martin V compiled a new rule from various sayings of that same father. Finally, we know that many orders exist under the titles of certain saints, concerning whose rule we find nothing. But enough about these matters.
+
+The greatest argument for Elijah's institution is the testimony of antiquity, celebrated in many writings of the ancients. For the Carmelite brothers existed before the rule, because, by the example of Elijah and the prophets, they were a rule of life for themselves. Read the life of Elijah and of the sons of the prophets, and you will find that, before a rule, they lived regularly. Nor does it matter if you should say that other religious also do the things which we have said the Carmelites do by Elijah's example; for although others follow Elijah in morals as far as they can, nevertheless the Carmelites alone imitate him not only in morals, but also in habit and in the name of the place.
+
+We read in the histories that Sabacha, the father of Elijah, before Elijah had yet been born, saw in dreams men dressed in white greeting him. By these we rightly understand the Carmelite brothers, whom we know to be white in habit and in manner of life. These men greet Sabacha, Elijah's father, because, cleaving to Elijah's examples, they show themselves as if they were his brothers, while by white morals they preserve Sabacha, whose name is interpreted as “little net.” But what else is understood by Sabacha, Elijah's father, than the little net of the holy Carmelite religion, in which many who are to be saved are caught?
+
+Indeed, from the time of Elijah and Elisha, prophets of God, down to the birth of Christ, many inhabited Carmel for love of solitude, as is openly shown from the histories of the ancients. For after the Lord's passion, when the apostles were preaching the faith, among the many who were then converted the hermits of Mount Carmel also were converted. Then, as the number of the faithful increased, they built on the side of Mount Carmel a chapel in honor of the mother of God and the Virgin Mary. Nor should you wonder if I say that monks also existed in Israel before the birth of Christ,
+
+--- Page 019 ---
+
+who inhabited Mount Carmel and the deserts of solitude, since even among the Gentiles in our Belgian Gaul monastic life was famous, and antiquity called its professors Druids. Some of these lived in cities and small villages, while others inhabited mountains and forests. All philosophized concerning knowledge of natural things. They were held in the greatest authority among the people, at whose nod all things were carried out. Their life was withdrawn and most continent, so much so that no one presumed to say anything unfavorable about them. They had the power of excommunicating the rebellious, and again of absolving the obedient. They also enjoyed every kind of immunity. But, not to dwell at length on what their manner of life was like, Caesar expressed it in the Commentaries. For, apart from faith and knowledge of the one God, in their conduct they showed themselves to be monks.
+
+If the Druids, Gentiles before the birth of Christ, led a solitary and monastic life, what wonder is it if there were faithful hermits of Carmel from Judea? Finally, if you desire to know higher things concerning the monks who flourished in Judea before the birth of Christ, read the histories of Philo of Alexandria and Josephus of Jerusalem, Jews, and you will find what sort of men they were at that time.
+
+Chapter 3.
+
+On the manner of life of the sons of the prophets and of other hermits before the birth. Chapter 3.
+
+Eginus, in the histories of the ancients, says that Samuel first established a gathering of prophets, which they also called a band. Then, after Elijah had been carried through the air, his double spirit rested upon Elisha. Elisha himself, together with the sons of the prophets, inhabited Mount Carmel at fixed times, and took the greatest care to live according to the standard of Elijah. Of these, indeed, many are listed by the fathers under their own names; concerning them we not imprudently suspend our judgment, content with the testimony of those same fathers.
+
+Hence Jerome says concerning the institution of monks: “Our prince is Elijah, our leader Elisha, and the sons of the prophets, who, dwelling in the fields and in solitude...”
+
+Note: On the institution of monks P[unclear]
+
+[segment 8]
+--- Page 020 ---
+They built dwellings for themselves beside the streams of the Jordan. These were men of many virtues: greatest in charity, highest in devotion and integrity; suspended in the contemplation of God, they despised the world with its pleasures. Of them the Apostle truly says: “They went about in sheepskins and goatskins, needy, distressed, afflicted, of whom the world was not worthy; wandering in deserts, on mountains, in caves and in caverns of the earth; who through faith conquered kingdoms, worked righteousness, obtained promises.” These are the strong and prudent men who laid the foundations of the monastic way of life; after Elijah, inhabiting Mount Carmel, they showed themselves worthy of God in habit and conduct. From these the order of Carmelites took its beginning and its name. For they themselves preserved the way of life of the Carmelite order in the time of the Law; from them our Carmelites, under grace, received both their name and their order.
+
+In all these things nothing differs except the time. Therefore one order of Carmelites and hermits is rightly spoken of under the Law and under grace, joined together by faith in and worship of the one God. Nor does the title “Elian” belong to the other orders; even if their way of life accords with his, nevertheless the name of the place does not agree. Therefore the Carmelite order is the most ancient of all orders in the Church of God, from which the other orders received the beginning and form of their institution. Indeed, so far as concerns the authority of the ancient Scriptures, Elijah and his disciples were the first founders of the monastic purpose, who, having left the cities, built little huts for themselves in the desert around the streams of the Jordan. Under grace, the first founder of this purpose was John the Baptist, who from his tender years inhabited the solitude of the desert. Nor should you think that the holy prophets were ignorant of the greatness of the good of the Lord’s solitude, since he was not the least of them who said: “It is good for a man when he has borne the yoke of the Lord from his youth; he will sit alone and be silent, because he will lift himself above himself.” The most holy men, enlightened by the divine Spirit, knew the usefulness of the solitary life; and therefore before the legislation they devoted themselves in works to what, afterward, the Carmelites established under a rule imitate as far as they can. B iij
+
+--- Page 021 ---
+And although Elijah did not give the Carmelites a written rule, nevertheless by the example of his holy way of life he was for them the standard of living, to whom after himself he granted both the place and the habit.
+
+On when and in what manner the rule was given to the brothers dwelling on Mount Carmel.
+
+Chapter 4.
+
+The holy fathers who dwelt on Mount Carmel near the fountain of Elijah before the birth of Christ are not read to have had a written rule; rather they themselves were a standard and rule for themselves, living together harmoniously after Elijah’s example. Then, after the Lord’s passion, when the Christian faith had multiplied throughout Judea, those who on Mount Carmel were leading the eremitic life in imitation of Elijah began to live according to the Gospel of Christ, as it is written in the Acts of the Apostles: “They were persevering unanimously in prayer,” and “they had one heart and one soul,” nor did anyone among them have anything of his own, but all things were common to them.
+
+This is the apostolic life, which the Carmelite brothers in the primitive Church most zealously observed, having the evangelical rule written upon these things in their hearts. But in the course of time, when men gradually began to fall away from the apostolic life and each to possess something of his own, the zealous inhabitants of Mount Carmel, fearing that their own holy way of life too might fail through the passage of time, began to think about a remedy for the future. Therefore they sought a rule not for themselves, but for posterity, knowing that their order would no longer be sufficiently secure thereafter unless it were confirmed by a rule. And truly, unless the Carmelites today had an approved rule, I do not know whether they would still exist. For the rule alone is what commends the order of those who went before to posterity. In time of peace the expenses of war must be prepared, lest adversity strike the unprepared. For if the brothers of Mount Carmel had not received a rule in a time of peace, where could they at last have remained after being driven from Judea by the Saracens? Therefore in the year of the Lord 1122, under Henry and Pope Calixtus II, Brocard
+
+[segment 9]
+--- Page 022 ---
+
+Brocard, prior of Mount Carmel, obtained a rule from Albert, patriarch of Jerusalem, and commended it to his posterity to be observed. Nor should the Carmelite brothers be thought to have lived irregularly up to that point, since from their holy manner of life they transformed custom into a rule. For a rule is not necessary for the perfect, but for the weak.
+
+*On the confirmation and approval of the order of Carmelites. Chapter 5.*
+
+But the perverse man does not cease to tear good men with an envious tooth, since he cannot otherwise acquire for himself a reputation for uprightness except by lying in wait for another’s reputation. For the more the pursuits of good men increase, the more the envy of the wicked, ready to rage, increases too. Therefore, although antiquity itself has approved the sacred order of Carmelites, and although it was exalted from the beginning by the holiness of many brothers, nevertheless the persecution of the wicked against it never ceased.
+
+Thus wicked detractors said to the holy brothers: “Your order is not stable in the Church of God, because the holy apostolic see has not approved it.” From this scandals arose; from this seditions rose up among the people, while perverse men strove to destroy the holy order utterly. O foolish abuse among men, that they think what the Gospel of Christ approves needs human confirmation. Tell me, detractor of good men: have you read bulls approving the ancient orders? What pope confirmed the ancient orders of Pachomius, Basil, Augustine, and Benedict? You will by no means find that these orders were confirmed by letters from the beginning. Therefore, those whom the holiness of many approves, whom long antiquity confirms, who but a mindless and stupid man would invalidate? If holy antiquity confirms the aforesaid orders, the order of the Carmelite brothers, which is most ancient, has need of no confirmation. For it long preceded the Roman pontiffs, since it took its beginning from Elias the prophet. I have said this not because the order of Carmelites lacks apostolic protection, but so that
+
+--- Page 023 ---
+
+I might show that its rivals are moved by hatred, not by the reason of integrity.
+
+For after the brothers of this religion came into Europe, having been driven from Palestine, many supreme pontiffs confirmed the order itself; among them Alexander III was one, after whom Innocent did the same, and Honorius III, following in the footsteps of both, with many privileges added, approved anew both the order and the rule. But let enough have been said about these matters, since, although the privileges of the Carmelite order are not wholly unknown to us, nevertheless it is not our purpose to bring them into the light. I would have this suffice for rivals: that this order has always been approved from the beginning, and will henceforth remain stable.
+
+*On the change of the brothers’ outer habit. Chapter 6.*
+
+As we have already said above, the Carmelite brothers imitate their princes not only in morals but also, insofar as they can, in habit. Sacred history shows that Elias was clothed in a mantle: with it he covered his face when the Lord passed by, and, striking the Jordan with it, made it passable on foot. Finally, when he called Elisha, he is read to have cast his mantle over him; and he also gave him that same mantle when he himself was carried through the air.
+
+The mantle, if faith is to be given to the writings of the ancients, was round, covering the whole body from the neck down to the middle of the shins, narrow above and broad below, and open in the front. The color of that habit is said to have been white, by which the brothers’ inward cleanness and purity are signified. They report that Elias was clothed with such a mantle, and that Elisha and the sons of the prophets went about in such a habit. But if anyone should contend that this description of Elias’s habit is apocryphal, he will do us no injury thereby, since we are not writing our own opinion, but that of the preceding fathers. For the cowl does not make the order, but the observance of piety. Indeed, that the ancient monks, even of one order, were sometimes not uniform in the color of their habit, the holy father Benedict indicates in his rule, since he forbade monks
+
+[segment 10]
+--- Page 024 ---
+forbade monks to dispute over the color of their clothing. Nor do I see that I should deny that Elijah’s habit was white, but rather that the brothers have no occasion for murmuring against the order. After many years, however, when the Holy Land had fallen into the hands of unbelievers, the brothers were compelled to change their habit, at the insistence of the Saracens, who thought that only their satraps were allowed to display white clothing. Therefore, by a public edict of the king, the brothers of Mount Carmel were compelled to put off the white habit and to assume some other one. Thus, after the original habit had necessarily been laid aside, they took up striped cloaks, marked with stripes of two colors in seven sections: the first, around the opening in front, was white on both sides; the next was white on either side; and the last, in the middle of the back, was black. At length, after not a few years, when, as the malice of the unbelievers increased, the brothers were forced to withdraw from the Holy Land, they were again compelled to change their habit. For when, by divine ordering, they settled in Europe, lest they make themselves a laughingstock to the peoples by a foreign habit, they resumed the old habit, which they have used and still use in the order down to the present day. Finally, lest this change seem trivial to anyone, it is read to have soon been approved by the authority of the supreme pontiff.
+
+Why the Carmelite Brothers Are Called Brothers of Blessed Mary Ever-Virgin of Mount Carmel.
+
+Chapter 8.
+
+But now one may ask us why, when so many holy orders, new and old, have gone before, only the order of the Carmelites is adorned with the title of the blessed Mother of God, since she herself was not the founder of that cenobium, nor subject to it by any likeness of profession. What, then, was the reason that the Carmelite brothers were called brothers of Blessed Mary Ever-Virgin from the beginning? Was there some rather strong reason, or was it done from some empty bestowal? Far from it. For, as we judge from reading the ancients, this title is most fitting for the Carmelites, whom we do not doubt to have held the Mother of God, from the beginning of their institution, always in the greatest honor and reverence.
+
+--- Page 025 ---
+For not long after the Lord’s Passion, as the Christian faith grew throughout Judea, the brothers of Mount Carmel built a chapel on the slope of that same mountain in honor of the Mother of God; and they chose her as advocate and patroness of their order, and thereafter they were called her brothers. Therefore, just as they are called Carmelites from Carmel, so from the chapel that they built they are called, down to the present day, brothers of the most blessed Mother of God and Virgin.
+
+And this is indeed a fitting name for Carmelites: that those who always venerate the Mother of God with special love should also be made more renowned by her title. For just as the most blessed Virgin Mary first of all opened for us the entrance to paradise, so the Carmelite religious order gave the beginning and form to the other orders.
+
+Nor do I doubt that Mary, the Mother of God, follows this order with special favor, since she recognizes it as having arisen near her in place and first in time, in service to herself and her Son. The Carmelite brothers are surely worthy to be distinguished by the title of the most sacred Virgin, because from the beginning of their institution they became, in their own way, nearest to her through humility and innocence, and singularly devoted in service to her kinship. Read and turn over all the histories of past time, and nowhere will you find that the order of the Carmelite brothers ever stirred up a schism or scandal in the Church of God, or disturbed the faithful people by any novelty, or was ever suspected of any heresy. For it always served the Lord in humility and tranquility; it was always content with its own innocence. Therefore the order that, by humility, cleanliness, and holy morals, was always devoted to the most blessed Mother of God, was fittingly exalted under her title. The habit itself also indicates this by its cleanliness and purity, making clear that the Carmelite brothers ought above all to observe continence and chastity. And although the first place itself, which gave the order its name, is now desolate, the name of Carmel nevertheless remains with the brothers, together with the patronage of the Mother of God. Now, then, let enough have been said and proved concerning the author and place of the Carmelite order; and I would wish all to be persuaded that its worshippers are brothers of Blessed Mary ever
+
+[segment 11]
+--- Page 026 ---
+
+Virgin of Mount Carmel, and are deservedly so and are openly proclaimed as such.
+
+*On the Migration of the Brothers into Europe. Chapter 8.*
+
+When, because of the sins of the people, the Holy Land had been brought into the hands of the faithless Saracen nation, in the six hundred thirty-ninth year after the Lord's Passion, the Carmelite brothers, who had formerly been dwelling in the cities in growing numbers, were so greatly afflicted by the infidels that they were compelled to return to the hermitage of Mount Carmel. For they could no longer remain in the cities, since the Saracens oppressed them so severely that they left them no quiet time to serve God, and utterly denied them the necessities of life.
+
+And so the brothers remained on Mount Carmel, leading a solitary life in no small poverty, until, after many years had passed, the Holy Land was again recovered by Christians and the route for pilgrims to it was made peaceful. This recovery of the Holy Land was accomplished through Duke Godfrey, in the year of the Lord 1099. Then, after a few years, as pilgrims flowed in from every side, and especially from the regions of Europe, the number of brothers on Mount Carmel increased greatly, so much so that because of their multitude they filled mountains and cities. O, if you had then seen the beauty of the Carmelite order in its majesty, you would have cried out that there had never been another like it.
+
+It was a delight to see innumerable brothers dwelling around Mount Carmel in cells and caves of the rocks, wholly of one mind, serving the most high God by day and by night, and most devoutly; despising the world with its pleasures for love of Christ. At that time religion among them was supreme, and the perfection of regular life supreme, since the brothers, while remaining in the flesh, had strongly conquered the flesh itself with its vices. The order flourished in peace, though a little before, disturbed by the attacks of the faithless, it had been thought to be failing. Pilgrim brothers came from all Europe and humbly submitted their necks to monastic disciplines on Mount Carmel.
+
+--- Page 027 ---
+
+But that tranquillity did not last long in the Holy Land. For when John, king of Jerusalem, had died, the Holy Land could not have its customary assistance from the apostolic see, since Emperor Frederick, through his rebellion, was resisting the supreme pontiff, until it was again captured by the Saracens. Thereafter the Carmelite brothers were afflicted by the infidels with such great tribulation that nowhere in Judea did they any longer seem safe.
+
+Therefore, in the year of the Lord 1238, when a council of the whole order had been convened together on Mount Carmel, many, with the prior's permission and the brothers' counsel, departed from Palestine and returned to Europe, whence they had come, with their rule, their ordinal, and their statutes. Some came to Cyprus, others to France and England, and some to Germany, each to the place where they thought they could find a means of preserving the order. Many, however, remained on Mount Carmel, though they too were expelled by the Saracens shortly afterward.
+
+O lamentable calamity of a most holy order: it had lately rejoiced in almost countless sons, but now, with necessity pressing upon it, it is abandoned by its brothers. Who, unless he be made of stone, would not be softened by that desolation of Carmel, when the order was destroyed not only on one mountain, but in the monasteries of many throughout all Judea? But how could the place of Elijah and of the Carmelites remain safe, when that whole land, which our Lord, the king of heaven, sanctified by his bodily presence, is trampled by the nations?
+
+And so, when the Carmelites came into Europe, places to dwell in were arranged for them in different regions by the authority of the supreme pontiff, and immediately, though with difficulty, they established several convents. Great compassion for Christ's brothers held people, and those whom they grieved to see expelled from their own seats they supported with generous munificence. From this time, therefore, the order of the brothers greatly increased throughout all Europe, and by its way of life and teaching brought, and continues to bring down to this day, great fruits in the church of God.
+
+[segment 12]
+--- Page 028 ---
+
+On the manifold persecution of this most holy order, and its victory against its rivals. Chapter IX.
+
+And so, as the order was growing throughout Europe and the number of brothers was multiplied, the devil, envying their pursuit of good things, did not cease to persecute the brothers; and what he could not do by himself, he arranged through wicked men. He therefore stirred up against them priests, rectors of churches, who tried to bring them under their own power and to subject them, as if they were peasants, to parochial laws. This presumption became so strong that the Carmelites were publicly forbidden to bury their own dead in their convents unless they had first paid the dues of the parish churches.
+
+Moreover, the envious priests forbade anyone to relieve the poverty of the brothers, as if they had migrated not for the building up but for the destruction of the faithful. The afflicted brothers complained to the bishops of the dioceses, but in vain. For all sought their own interests; all were thinking of utterly destroying the order, keeping before their eyes their own advantages, not those of the commonwealth.
+
+What now were your brothers to do, Virgin, Lady of the world? Where were they to turn, afflicted on every side? Whom were they to invoke as advocate of their calamities, when each man was seeking his own? What great fear then held the brothers, when they saw that, expelled from Judea, they were hated among Christians? Desolate and abandoned by men, they invoked you, mother of mercy, placing their whole hope in you. Nor was it in vain. For how, since you are the fountain of loving-kindness, could you have forgotten your brothers, your sons, your own inward flesh?
+
+You therefore called one of them, whom the others followed as leader, and directed him to the apostolic see, promising good confidence concerning their affairs. Nor was the promise vain, but certain. You directed the way of your apostle; you came before him with blessings; you warned the vicar of your Son what he should do. O holy and truly worthy reconciliation, which received its origin not from men, but from the ordinance of God. When the supreme pontiff had heard of the brothers’ needs,
+
+--- Page 029 ---
+
+he restrained their rivals and detractors by apostolic majesty, and amply provided for the order’s peace thereafter.
+
+What do you say now, twisting serpent, who hoped that you could destroy the holy order of Carmel? Where is your presumption, by which you tried to overturn the religion consecrated to the Mother of God? You have been confounded, and all your counselors have been humbled by the power of God in their iniquities. Behold, the holy order has prevailed against all its adversaries and has been strengthened; and, made one of the four rivers of paradise, it waters the whole earth with the water of learning. But you, with your dogs, pay the punishments owed to you.
+
+Nor is this envy of the perverse something new, since from the beginning of the world the wicked have always persecuted the good, so that the elect may be proved through many tribulations. But while the good, afflicted by the adversity of the impious, make progress, the wicked always fall into the worst crimes.
+
+You, however, glory of Carmel, do not fail; do not cease from the purpose of your most holy institution, so that you may be able to arrive at the rewards prepared for you without end. If a mother could forget her beloved son, the queen of heaven could abandon you. But even if a mother should forget the fruit of her womb, nevertheless the Virgin Mary will not forget you, but will guard her beloved brothers and make them sharers in her joys.
+
+This, however, is necessarily required of you: that the brothers whom you cherish in your bosom with your name and habit, you should keep unstained in life and conduct. For it is of no profit to be marked by the name of the Mother of God if the conduct of life is defiled by contrary morals. Therefore, so that you may truly shine under the title of the Queen of Heaven, direct your professed members before all else to observe the three substantial points of religion, without whose keeping the monastic profession does not save, but condemns.
+
+The Lord is with you as long as you are with him. But if you despise the paths of your first institution, if you give entrance to vices, you will be subject to many evils and hardships. You will become a laughingstock to all people; and you who now shine in glory will be confounded under reproach and disgrace. Take care, therefore, that you do not transgress your first institution, nor, with the worship of God neglected, walk after vanity.
+
+[segment 13]
+--- Page 030 ---
+
+On the first advance of the order of the brothers in Europe, and on the multiplication of its convents. Chapter x.
+
+In the Gospel the Lord says: Unless a grain of wheat falls into the earth and dies, it remains alone. But if it dies, it will bear much fruit. This saying fits the Carmelite brothers beautifully, for it shows that they are the grain and seed of God. Indeed, this grain of Carmelite stock fell into the earth when it was expelled from Judea. It became dead when, worn down by many tribulations, it lamented the hardship of its migration. But it brought forth much fruit when, breaking free from the wickedness of its rivals, it was multiplied through various convents in Europe.
+
+Certainly the religion of the Carmelites bears much fruit: it devotes itself wholly to the service of God, it devoutly embraces the paths of the virtues, and by its examples many are converted to justice.
+
+Truly the Carmelite order is a dead grain: falling in Judea, it perished, but multiplied in Europe, it rose again. The Lord enlarged it by hammer and anvil, because while it was driven out of Palestine smaller in number, it grew and spread out in Europe.
+
+Nor do we believe that this happened without the ordinance of divine providence, since we see that the few brothers of this order increased beyond measure. For just as a few seeds cast into the earth, once mortified, bear much fruit, so the few brothers expelled from Carmel and afflicted for a time in the land of pilgrimage brought forth, in the course of time, a very great number of brothers in the order. This is the change wrought by the right hand of the Most High; this is the providence of the highest governor, who knows how to draw good things out of evils and to change the calamity of a few into the greatest joy. For just as iron is stretched by the hammer, so the order of the Carmelite brothers was stretched and multiplied by the iron of tribulation.
+
+--- Page 031 ---
+
+If it had been able to remain in its first little nest, it would not today have been so greatly multiplied in the church of the faithful. For after their happy arrival in Europe, and after their impious persecutors had been overcome by apostolic authority, they gradually multiplied greatly. For when nobles and faithful people saw that the brothers' way of life was most holy, they conferred many benefits upon them and built very many monasteries for them at their own expense. Hence it came about that the Carmelite brothers, who had lost a few monasteries in the Holy Land, received many more in Europe.
+
+And just as the apostles, preaching the faith of Christ, were driven out of Judea and converted a multitude of nations, so the Carmelite brothers, having lost the bounds of one province, received all Europe as a place of dwelling. Therefore the desolation of one mountain was the edification of many regions. Thus Carmel will by no means weep any longer that it has been deserted, since it is now known to have been spread throughout the whole world.
+
+When the number of brothers had been multiplied throughout Europe and many convents had been erected in various places, the Roman pontiffs, seeing that their life was praiseworthy, exalted their order with many privileges; and, exempting it entirely from the jurisdiction of ordinaries, they joined it to the other mendicant orders. And although it is older than all the orders, nevertheless in Europe it seemed to have been renewed as if through its own mortification. But now it has recovered from all its tribulation; made strong in battle, it has overcome and confounded all its adversaries. There is nothing that can harm it any further; there is no one who from now on presumes to touch it with his teeth, since it has been confirmed by the greatest power of God. Rejoice, happy one, triumphing over the enticements of the world and taking hold of the highest rewards of the kingdom, you who preserve the name of your origin and imitate the princes.
+
+How useful and fruitful the order of Carmelites is in the church. Chapter xi.
+
+How beautiful are your steps in sandals, daughter of the prince; how beautiful and lovely you are in delights.
+
+[segment 14]
+--- Page 032 ---
+
+...in your shoes: O beautiful religion of Carmel. You are a garden of spices, which the right hand of God planted on Mount Carmel, whose flowers give forth the sweetest fragrance, since you have brought forth men learned and most holy. You had Elijah, prince of the prophets; you are a school of seers, a rule of discipline, and a herald of monastic unity. Under the law you preach grace; under grace you preach devotion. Truly these are the camps of God, in which the apostolic life far surpassed the apostles themselves. Therefore the steps of this order have been most beautiful from the beginning, when the friars, loving God, advanced from virtue to virtue. O ancient glory of Carmel, O truly holy way of life beloved by God, which conquers the devil, overcomes the flesh, and despises the world and vices.
+
+Indeed, the holy way of life of the Carmelite friars, if it walks according to the purity of its institution, builds up the Church, instructs the ignorant, calls sinners to penance, fights against the adversaries of Christ, and chastises offenders. What is more beautiful than this religion, what order more useful, in which charity commands, humility obeys, good zeal keeps watch, voluntary poverty reigns, continence fights, and chastity triumphs? Religion is best preserved when prudence counsels, justice corrects, mercy raises up, kindness instructs, and wisdom guards.
+
+O how good and how pleasant it is for brothers so to dwell together in unity, who serve God in humility, keep the laws of brotherly charity, flee the world and vices, cultivate the virtues, love humility, and withdraw from all evils. These are the ones who receive the tottering Church upon their shoulders, and by word as well as by example instruct faithful peoples in Christian justice. Those who show themselves such in the order are worthy to be called brothers of the blessed Virgin Mary. But those who follow the vanities of this world, who, despising regular observance, are given over to vices and pleasures, I would not call brothers of the blessed Virgin Mary, but the most shameful slaves of the devil. For what is more shameful, or more damnable, than to live disorderly under a holy order? There is no fellowship for him in the honor of the Mother of God,
+
+--- Page 033 ---
+
+who is a slave of vices. Therefore, Carmelite friars, you must take great care not to lose, through evil conduct, the dignity of the name that you receive from the Queen of Heaven. For what will it profit you to be called brothers of the blessed Virgin Mary if you have been workers of iniquity? Indeed, unless you live religiously according to your rule and first institution, you usurp this title for damnation rather than for glory. Take care, therefore, my brothers, to drive every iniquity away from yourselves; take care to devote yourselves to good conduct, so that through holy exercises you may be able to come to her whom you call the sister of your order. For unless you live in common, without property, chastely and religiously, you will not come to the Queen of Heaven. If you take care to live in this way, you are useful in the Church of God.
+
+Indeed, just as we describe good Carmelites, living religiously according to the rule, as worthy of every praise, so we determine that bad Carmelites, deformed in their conduct, are to be kept far away from this volume. For we intend to praise none but the good. We believe, however, that many good and holy men have shone in this order from the beginning, and still shine today; and for that reason we warn the reader not to despise the whole order because of the deformity of a few, since there are many good men in it whom he certainly does not know. Let the reader consider no Carmelite worthy of contempt, since the one whom he sees today lying in deformity may perhaps tomorrow march first in the battle line of regular observance.
+
+On the saints and canonized persons from this order.
+
+Chapter 12.
+
+What abundant fruits, and what sweet fragrances, this field of the Carmelite order has brought forth in the Church of God, we believe no one who reads the histories of the ancients is ignorant. For, to pass over for the moment those who shone on Mount Carmel under the law, there have been so many holy brothers under grace in this order that they cannot be counted at all. Indeed, if someone should number the stars of heaven and the sand...
+
+[segment 15]
+--- Page 034 ---
+he will be able to count the saints of this order. But perhaps some rival of this order may say to me: “Why do you so greatly commend the Carmelites for a multitude of saints, when you know well that none of them is commemorated in the Roman Church? Show me how many saints from the order of Carmelites you have found in the calendar.” Whoever says such things shows himself to be either envious or wholly ignorant of the deeds that have been done. For what if the Church venerates few saints from the order of the Carmelite brothers? Are they therefore to be reckoned few because not many are entered in the calendar? Or did the order of the holy father Benedict therefore have few saints because it has received scarcely fifteen into the calendar? Indeed, fifteen thousand saints from it are listed by their own names. The ancient orders were not accustomed to boast vainly of the multitude of their saints, since each one studied rather to love holiness in himself than to exalt it in another for the display of his own religious order. For the devotees of the ancient orders preferred to be saints rather than to be called so. Hence they did not greatly concern themselves with raising up each of their most holy brothers to the applause of the people; nor was it their custom, for the sake of their canonization, to run about soliciting kings and princes; nor to weary the supreme pontiffs with importunate prayers. They believed it sufficient for themselves if their brothers had been placed with the saints in heaven, and therefore they did not trouble to have them canonized on earth. But the order of the Carmelite brothers is most ancient, and in this matter it never abandoned the paths of antiquity. It had many and very distinguished saints indeed, but after the manner of antiquity it received few into the calendar, since it was always content with its former humility. And because the Roman Church venerates few saints of this order, we believe this came about because, since the greater part of them shone in Judea before the migration of the order, their sanctity was unknown to the Roman Church. Nor at that time was there need to run to the Apostolic See for the canonization of saints, since in his own diocese any bishop could proclaim a saint on the testimony of miracles. But after the brothers migrated into Europe, and after various orders had multiplied in the Church, Roman authority decreed that no one should be held as a saint
+
+--- Page 035 ---
+unless thereafter he had been canonized with the consent of the supreme pontiff. Yet a very great number of saints preceded this decree, whom antiquity, moved by miracles, canonized. Which pope canonized the apostles and the ancient saints? Are they not venerated in the Church of God by antiquity alone, content with their own sanctity? And the order of the Carmelite brothers had many saints overseas, of whom in Europe there was formerly no remembrance. Finally, after the arrival of the order in Europe, they had several saints; if we wished to describe the names of them all, we would be forced to extend this volume to an immense length. But we know that the Carmelite brothers were not accustomed to set their saints before the people for admiration, and therefore it was not our purpose to review them one by one by name. Finally, if anyone desires to know by name the most holy men who shone in this order, let him read the histories and chronicles of the said order, and especially that one which Brother Johannes of Mechelen, called Oudenwater, of the said convent, composed with much labor and named The Three-Part Fascicle of the Carmelite Order. In it, indeed, he will find so many most holy men of this order that few of the other orders have had their equals. He also laid open the beginning of the order and its progress in a clear manner of reading, and described by name all the priors general from the first down to Pontius, who now presides over the order. But we, whom concern for the matter at hand compels to shorten our discourse, make an end here; and according to our strength we undertake to arrange the second volume on the praise of the Carmelites, in which we shall make mention, so far as we are able to know them, of the illustrious and learned men in it who wrote various works for the usefulness of the Church.
+
+Here ends the first book.
+
+[segment 16]
+--- Page 036 ---
+
+Here begins the second book of Lord Johannes Trithemius, abbot of Sponheim, on the illustrious men of the Carmelite order.
+
+Afterward, with the help of our Lord Jesus Christ, we completed the first little work of our intention, on the praise of the order of the Carmelite brothers. Now it is pleasing to begin the second, in which, with the Virgin Mary favoring us, we shall have discourse about the illustrious men who shone in it at various times. A twofold reason impelled us to undertake this task: one of them concerns the brothers, the other the detractors. For we believe that it contributes not a little to the edification of the younger brothers if we take care to recall to their knowledge the men distinguished for learning who preceded them in the order. For by this, very learned men receive among posterity the memory of immortality worthy of their labors, and the younger brothers of the same order are stirred to love of the Scriptures.
+
+The second reason for this catalogue is rivalry with detractors, who despise the Carmelite order as if it were unfruitful, since they believe that few ecclesiastical writers and teachers flourished in it. But we, grieving that injury is done through the ignorance of slanderers to so holy and most sacred an order, have arranged, with as much brevity as was possible, a catalogue of the learned men who wrote various works in it; in this catalogue we have set out all the writers who came to our knowledge. And although many very learned men of this order, flourishing in Palestine before the migration, wrote many works, nevertheless, since their little works are unknown to us, we have recorded a few out of many. Therefore, passing over those who shone in Judea from the beginning, we have resolved to mention only those whom we know to have given a clear splendor of their learning in Europe. Yet we could not mention all those who flourished after the migration, because we do not know their little works and their times. We leave that task to the cultivators of the same order, so that where we have failed through weakness, they themselves may strive to correct our deficiency. Now, therefore, let us take up the beginning of our proposed work.
+
+--- Page 037 ---
+
+Cyril, a monk of the Carmelite order and afterward bishop of Alexandria, Greek by nation, born from Constantinople, was a holy and most learned man, a renowned philosopher and an unsurpassable rhetorician. He shone with countless miracles and was illumined by the spirit of prophecy. In the time of the emperor Theodosius and of Pope Celestine I, he composed many works against Nestorius, and, presiding at the Council of Ephesus, refuted him. He wrote in the Greek language many very distinguished volumes, of which few are possessed among the Latins. He was the first to mingle Aristotelian philosophy with the Holy Scriptures, and he crushed all the errors of the heretics with very powerful arguments, as is found in the acts of the third synod of Ephesus. Among other things, he wrote against Julian the Apostate, two books. Also against Nestorius, one book. On the incarnation of the Lord, several homilies. Many letters to various persons, one book. Several opinions in the synod of Ephesus. We saw all these among the Greeks and read them in part, but nowhere among the Latins. He flourished under the emperor Theodosius the Great and Pope Celestine I, in the year of the Lord 430.
+
+Johannes, the forty-fourth patriarch of the church of Jerusalem after blessed James, comes forward to be placed first in the order of our narrative. For he was a man of upright and most holy conduct, who is said, both living and dead, to have shone with countless miracles. Pope Adrian I, on account of his exceptional learning and the excellence of his life, took him from the monastery of Mount Carmel and raised him to be patriarch of the aforesaid city. Since he was very skilled in the divine Scriptures, he produced some excellent treatises, by which he made his talent known to posterity. Of these there survives a notable volume, On the Beginning and Progress of the Carmelite Order, one book. He also wrote certain exhortatory letters to the brothers, and certain other things. He flourished
+
+[segment 17]
+--- Page 038 ---
+
+in the times of Pope Adrian I, in the year of the Lord’s most holy birth of Christ 770.
+
+Cyril, another priest of Mount Carmel, the third prior general in order, a learned and devout man and illuminated by the spirit of prophecy, wrote certain little works of his talent, among which are said to be several letters to various persons, and certain revelations to Abbot Joachim. Also the Angelic Table, which he is said to have received from the hands of an angel. He is said to have written some other things, which have not come to my knowledge. He flourished in the times of Emperor Henry VI and Pope Innocent III, in the year of the Lord 1200. Those who think these two Cyrils were one man are mistaken, since neither the time nor the order of events agrees for them. For it is certain that the first flourished under Theodosius at the Council of Ephesus, and this one under Henry VI, as we have said.
+
+Nicholas the Frenchman, the seventh prior general of the whole order, a learned and devout man and singularly beloved by God, after he had governed the order vigorously for some years, renounced his office and returned to the hermitage of monastic life. Among other things he wrote a distinguished volume which he entitled The Fiery Arrow, in which he laments with many groans the pitiable condition of his order. He flourished in the year of the Lord 1270.
+
+Libertus of Trapani, provincial prior of Sicily, a man devoted to and most learned in the divine Scriptures, also devout in life and conduct, and while still living shining with miracles, is said to have written many useful works for the edification of the brothers; yet these have not come into our hands. He died in the city of Messina in the year of the Lord 1292, indiction 5, on the seventh day before the Nones of August, glorious in signs.
+
+William of Sanvico, a singular ornament of the Carmelite order, a most learned man and distinguished professor of sacred theology, French by nation, wrote fine and suitable volumes for the edification of the simple brothers, among which the following are reported: On the Sentences, four books.
+
+--- Page 039 ---
+
+A Chronicle on the Multiplication of His Order, one book. Declarations of His Rule, one book. Decretals of Religious, one book. He is also said to have written some other things, which nevertheless have not come to my knowledge. He flourished in the times of Emperor Rudolf, in the year 1280.
+
+Gerard of Bologna, the eleventh prior general of the whole order, a Parisian doctor of sacred Scripture, subtle in intellect and a very celebrated lover and ruler of his order, wrote many excellent volumes, by which he commended his memory to posterity. On the Sentences, four books. Many and various quodlibets, one book. Also Questions, one book. Various Sermons, two books. He began a notable Summa of Theology, which, overtaken by death, he could not finish. At last he died and was buried at Avignon, in the year of the Lord 1317, indiction 15, and in the thirty-first year of his generalate.
+
+Albert of Beka, German by nation, a man very learned in the divine Scriptures, a doctor celebrated in the opinion and praise of all, and a most devout cultivator of his order, wrote certain excellent little works for the edification of the brothers, among which these are reported: On the Sentences, seven books. On the Censures of the New Law, one book. Considerations on the Rule of His Order, one book. He corrected the Ordinal of the Lord’s Sepulcher, which was decreed to be observed throughout the whole order. He also published some other things, which have not come to my knowledge. He flourished under Emperor Henry VII, in the year of the Lord 1310.
+
+Guy of Perpignan, Catalan by nation, the twelfth prior general, then bishop of Majorca and afterward of Elne, a man most learned in the divine Scriptures, acute in intellect, profound in knowledge, scholastic in speech, who was held in honor and reverence by Pope John XXII, wrote many excellent volumes, by which he commended his name to posterity. Among these the following are reported: to Pope John XXII, a distinguished tripartite work On the Perfection of the Catholic Life, three books. On the Sentences, seven books. Six Quodlibets, one book. Various ordinary disputed Questions, one book.
+
+[segment 18]
+--- Page 040 ---
+
+On the Harmony of the Evangelists, one book; Correctorium of the Decree, three books; On Heresies, addressed to the Cardinal of Albano, one book; On the books of the Physics, eight books; Questions on the Soul, one book. He also composed many other things, which have not come to my knowledge. He flourished in the year of the Lord 1320, and died on 21 August; he was buried at Avignon.
+
+Johannes de Alerio of Toulouse, the thirteenth prior general of the whole order, a man learned in the divine Scriptures, distinguished in intellect, knowledge, and eloquence, outstanding also in life and conduct, and an eminent preserver of regular discipline, wrote an excellent volume On the Sentences, four books; a notable lecture on Ecclesiasticus, one book; and certain other things which I have not yet found. He flourished in the year of the Lord 1330. He lies buried in his convent at Toulouse.
+
+Petrus de Casa, of the province of Aquitaine, after the resignation of Johannes Alerii the fourteenth prior general of the whole order, then bishop of Vaison, and finally patriarch of Jerusalem, a man most learned in the divine Scriptures and devout in life and conduct, left certain excellent volumes of his intellect. Of these the following are reported: On the Sentences, seven books; Sermons on the Temporal and Sanctoral cycles, two books; also a notable lecture on the book of the Politics; and certain other things, which are hidden from us. He flourished in the year of the Lord 1330. He died on the day before the Nones of August, radiant with miracles.
+
+Johannes Walsigram, provincial prior of England, a man most learned in the divine Scriptures, an acute philosopher, and a Parisian doctor of sacred theology, wrote notably on the Sentences, seven books; various questions and quodlibets. He also composed some other things, which have not come to my knowledge. He flourished under Pope Benedict XII, in the year of the Lord 1340.
+
+Simon of Speyer, a German by nation, provincial prior of all Germany, a Parisian doctor, a man learned in the divine Scriptures and not ignorant of secular letters, outstanding in intellect and distinguished in eloquence, wrote on the Sentences, seven books; also various sermons; and certain
+
+--- Page 041 ---
+
+lectures on the divine volumes. He is also said to have written some other things, but they have not come into our hands. He died under Pope Benedict XII, in the year of the Lord 1340, in the eighth indiction, on the eighth day before the Ides of January, and was buried at Cologne in his own convent.
+
+Petrus Raymundi de Graffa, a Gaul by nation, of the convent of Tarsac in the province of Narbonne, the fifteenth prior general, a learned and devout man, wrote many excellent volumes, by which he commended his memory to posterity. Of these the following are extant: On the Sentences, eight books. He also gathered the various statutes of his order into one volume, and divided those collections into sixty rubrics. But he also composed certain other things, which have not come to our knowledge. He died in the year of the Lord 1357, in the tenth indiction, under Pope Innocent VI, and was buried in Montpellier, in the sixteenth year of his office as general.
+
+Johannes de Bachone, an Englishman by nation, provincial prior of England, a Parisian doctor, a man most learned in every respect, a philosopher, jurist, and very celebrated theologian, subtle in intellect and distinguished in eloquence, wrote many excellent small works. Of these the following are reported: On the Sentences, seven books; On the Gospel of Matthew, one book; On the Gospel of Mark, one book; On the Gospel of Luke, one book; On the Gospel of John, one book; On the Epistles of Paul, fourteen books; On the Acts of the Apostles, one book; Various Disputed Questions, one book; Mirror of His Order, one book; Defense of His Order, one book; On Aristotle’s Metaphysics, in two volumes, twelve books; On the Soul, seven books; also On the books of the Ethics, one book. He also composed many other things, which have not come to my knowledge. He likewise published various explanations on the books of blessed Augustine On the Trinity and On the City of God, and on Anselm’s Why God Became Man and On the Incarnation of the Word; in all these he exercised his intellect magnificently. He flourished in the times of Emperor Charles IV and Pope Clement VI, in the year of the Lord 1345.
+
+[segment 19]
+--- Page 042 ---
+
+Paul of Perugia, a man studious and learned in the divine Scriptures, and excellently instructed in secular letters, subtle in talent and scholastic in speech, produced certain little works of great authority, by which he commended his name to posterity. Of these there is extant a distinguished volume On the Sentences, four books; also Various Questions, one book; and certain other things. He flourished at Paris under Pope Clement VI, in the year of the Lord 1343.
+
+John Ballistarii, a Catalan, sixteenth prior general of the whole order, a man most learned in the divine Scriptures and an acute investigator of secular philosophy, outstanding in talent and distinguished in eloquence, wrote certain splendid volumes, by which he destined his name for posterity. Of these the following are extant: On the Sentences, seven books; Constitutions of His Order, one book; On the Last Times, addressed to the pope, one book; and certain other things. He died in the year of the Lord 1377, in the twelfth indiction, on the seventh day before the Kalends of October, and was buried in the convent of Majorca.
+
+Peter Rimi of Perpignan, Catalan by homeland, a very learned man, doctor of sacred Scripture, profound in talent and distinguished in eloquence, wrote a distinguished volume On the Sentences, seven books; also On the Whole Psalter, one book. In addition he composed various elegant sermons, which have not come into our hands.
+
+Berenus of Boyo, a Briton by nation, a man most skilled in the divine Scriptures and not ignorant of secular philosophy, subtle in talent, scholastic in speech, an interpreter of sacred letters, and a profound doctor of Paris, is said to have produced several splendid volumes, by which he commended his memory to posterity. Of these there is extant a distinguished work On the Sentences, seven books; Various Questions; and other things which are hidden from us.
+
+John of Regno, a Gaul by nation, of the convent of Toulouse, a learned doctor in the sacred Scriptures, subtle in talent and ready in eloquence, wrote On the Sentences, eight books.
+
+--- Page 043 ---
+
+On the Gospel of Matthew, one book; Sermons for the season and on the saints, two books; also a Lenten Sermon-collection, one book; and certain other things.
+
+Peter Thomas, bishop of Patti and afterward patriarch of Constantinople, a man studious and learned in the divine Scriptures, most holy in life and conduct, since he shone forth with many miracles both living and dead, is said to have written several splendid little works, in which he usefully exercised his talent. Of these the following are reported: On the Sentences, seven books; On the Most Pure Conception of the Blessed Virgin Mary, one book; also Various Sermons, one book; and certain letters to various people. In 1366, in the third indiction, on the eighth day before the Ides of January, he was distinguished by miracles.
+
+Osbert, an Englishman by nation, a man most learned in divine writings, excellently instructed in secular philosophy, of acute and vigorous talent and scholastic eloquence, ready and subtle in debating and resolving questions of the Scriptures, wrote a most elegant volume On the Sentences, four books; Various Disputed Questions, one book; also Diverse Sermons, one book. In addition he is said to have written several other things, which we do not know.
+
+Tilmannus, of the convent of Aachen, a Teuton by nation, prior provincial of Lower Germany, a distinguished professor of sacred letters, outstanding in talent and distinguished in eloquence, an excellent preacher of sermons, wrote On the Sentences, four books; a notable lecture On the Gospel of Matthew, which he publicly read in the convent at Cologne, one book; also various sermons; and certain other things. He flourished in the year of the Lord 1370.
+
+Heinrich Dolendorp, a Teuton by nation, before Tilmannus prior provincial of Lower Germany, a learned and erudite man and a very celebrated preacher, outstanding in talent and scholastic in eloquence, a most acute disputant of questions, wrote a notable work On the Sentences, seven books; also various useful sermons; and certain other things. He died and was buried in the convent of Cologne, in the year of the Lord 1356.
+
+[segment 20]
+--- Page 044 ---
+
+In the third indiction, on the fourth day before the Ides of February.
+
+Philippus Riboti, provincial prior of Catalonia, a man studious and learned in the divine Scriptures, ready in intellect, open in eloquence, and a careful moderator of regular discipline, wrote, among other monuments of his intellect, an outstanding work on the origin and progress of his order, which he entitled On the Particular Deeds of the Carmelite Brothers, ten books. He is also said to have composed several other things, which have not come into our hands.
+
+Robertus de Monstrolo, a Gaul by nation, a man studious and learned in the divine Scriptures, subtle in intellect and distinguished in eloquence, once an ornament of the Parisian school, wrote on the Sentences, three books; a notable lecture on the Epistles of Paul, fourteen books; Various Questions, one book; also Sermons on the Season and on the Saints, two books. He is also said to have written several other things, which I have not yet seen.
+
+Johannes was lector of the convent of Kreuznach and afterward prior of Strasbourg, a German by nation, born from the county of Sponheim: a man studious and learned in the divine Scriptures, subtle in intellect and distinguished in eloquence, a very celebrated declaimer of sermons. Among other things he wrote elegant Sermons on the Season, two books; also On the Saints, two books; Sermons for Lent, two books; and other things which are hidden from us.
+
+Johannes of Hildesheim, born from the city of Saxony, lector of the convent there, studious and learned in the divine Scriptures and not ignorant of secular letters also, an outstanding philosopher and poet, practiced in verse and prose, a most famous declaimer of sermons to the people, wrote little works of no contemptible reading, of which the following are reported: To Florentius, Bishop of Münster in Westphalia, on the Translation of the Three Kings to the city of Cologne, one book; also a pleasing and useful Chronicle, one book; Defense of His Order, one book; On the Fountain of Life, one book; Against One Painting Shameful Things, one book.
+
+--- Page 045 ---
+
+A metrical work On Monsters in the Church, one book; Letters to Various Persons, one book; Sermons on the Season and on the Saints, two books. He also published several other things, which have not yet come to my knowledge. He flourished under Emperor Charles IV in the year of the Lord 1370, and composed various epigrams in verse.
+
+Johannes Golein, a Norman by nation, prior of Rouen, a man studious and learned in the divine Scriptures and sufficiently trained in secular letters, subtle in intellect and distinguished in eloquence, wrote little works of no negligible authority, by which he transmitted his name with glory to the knowledge of posterity. Of these there are extant: On the Sentences, four books; On the Office of the Mass, one book; also Various Questions; and, as is reported, certain other things.
+
+Johannes Taceffale, an Englishman by nation, of the convent of Norwich, a learned man and much erudite in the holy Scriptures as well as in law and philosophy, ready in intellect and suitable for declaiming sermons to the people, wrote on the Sentences, three books; a notable lecture on the Apocalypse, one book; also various Sermons to the people. In addition he published several other things which have not come to my knowledge. Finally he was sent to Rome and died there.
+
+Ronaldus de Bissalis, of Galtelli, a man studious and learned in the divine Scriptures, distinguished in eloquence, and not ignorant of rhetoric, profound in intellect and subtle in judgment.
+
+Johannes Hornby, an Englishman by nation, a copious and learned doctor in the holy Scriptures, subtle in intellect and a most acute debater of questions, is said to have composed several very notable little works, by which he made known to posterity the vein of his abundant intellect. Of these there is extant a defensive work on the antiquity of his order, one book; also various Sermons; and certain other things. He flourished in the school of Cambridge.
+
+[segment 21]
+--- Page 046 ---
+...bridge, in the year of the Lord 1373, where he composed various works.
+
+Francis Martini, Catalan by nationality, of the convent of Barcelona: a man devoted to and learned in the divine Scriptures. He was of excellent talent in preaching sermons to the people. He is said to have written some little works, in which his profound knowledge is demonstrated. Of these the following survive: On the Conception of Blessed Mary according to Phinis, in one book; a Compendium in Honor of His Order, in seven books; and certain other works. He flourished in the aforesaid convent in the year of the Lord 1380.
+
+Francis of Bachone, of the convent of Girona, a man learned in the divine Scriptures and not ignorant of secular philosophy, subtle in intellect and an acute disputant. He wrote a distinguished volume on the Sentences, in three books; also a Summa for Preachers, in one book. He is also said to have composed several other works, which have not come into our hands.
+
+John Deciminetho, lector of the convent of Metz, a Gaul by nationality: a man devoted to and very learned in the divine Scriptures, excellent in intellect and clear in speech, an outstanding preacher of sermons to the people. He wrote a Mirror of the Institution of His Order, in one book; Sermons on the Season, in one book; also Sermons on the Saints, in one book; Sermons for Lent, in one book. He is also said to have composed some other works, but they have not yet come to my knowledge.
+
+John Nobleth, a Gaul by nationality, of the Paris convent: a man devoted to and learned in the divine Scriptures, and excellently learned in secular letters, a distinguished philosopher and physician. He wrote certain splendid little works of his talent, by which he transmitted his name with glory to posterity. Of their number the following are reported: a distinguished work which he entitled Centilogium, in one book; On the Gospel of John, in one book. He is said to have compiled commentaries and lectures on many other books of the Bible also, which have not come to my knowledge.
+
+Nicholas Dorhm, English by nationality, an Oxford doctor, learned in the holy Scriptures and subtly trained in Aristotelian philosophy, acute and vigorous in intellect, a distinguished disputant of scholastic questions.
+
+--- Page 047 ---
+He wrote on the Sentences, in three books; also Determinations of Various Questions, in one book; a Table of the Originals. He is said to have written many other works besides, which have not come to me.
+
+John Marre, English by nationality, an Oxford doctor, devoted to and learned in the holy Scriptures, subtle and vigorous in intellect. Among other little works of his exercise, he wrote Determinations Against the Wycliffite Heretics, in one book. He is also said to have written many other works, but they have not yet come to my knowledge.
+
+John of Gluel, German by nationality, prior of the convent of Cologne: a man learned in the divine Scriptures and not ignorant of secular philosophy, clear in intellect, devout in life and conduct. He wrote Sermons on the Season, in one book; also Sermons on the Saints, in one book; Sermons for Lent, in one book. He also published some other works, which have not come to my knowledge. He flourished in his convent at Cologne, where he was also buried.
+
+Walter Disse, English by nationality, a man very learned in the divine Scriptures and a very celebrated preacher of sermons to the people, subtle in intellect and apt in speech. He wrote little works not to be spurned in reading, of which the following are reported: Against the Lollards, in one book; On the Schism, in one book; On Certain Psalms, in one book; Sermons on the Season, in one book; also Sermons on the Saints, in one book; and certain other works which have not come to my knowledge. He was nuncio and legate of Pope Boniface IX in the kingdoms of England, Spain, Portugal, Navarre, and Aragon, and in the regions of Gascony, preaching the cross against heretics and schismatics. He flourished under Emperor Wenceslaus, in the year of the Lord 1390, and was buried in the convent of Norwich.
+
+Philip of Ferrara, Sicilian by nationality, bishop, as some hold, of Patti, a very celebrated doctor of sacred theology, clear in intellect and profound in knowledge, an outstanding preacher of sermons.
+
+[segment 22]
+--- Page 048 ---
+
+notable Sermons on the Temporal Cycle, one book; also Sermons on the Saints, one book; and certain other things. He flourished in the kingdom of Sicily, preaching before the king and others, not without profit to all.
+
+Richardus Lauinham, an Englishman by nation, a doctor of sacred letters of Oxford, a man subtle and forceful in intellect, an acute disputant of questions, and an eminent declaimer of sermons, wrote certain distinguished little works by which he commended the memory of himself to posterity. Of these the following are extant: Determinations against the Lollards, one book; also notable Determinations on the Book of the Revelations of Saint Bridget, which he read publicly in the schools of Oxford and London, one book. He also began a distinguished work on the foundation of his order, which, overtaken by death, he did not complete. He also composed several things in logic and philosophy, which have not come into our hands.
+
+Richardus Maidescon, an Englishman by nation, doctor of sacred Scripture of the school of Oxford, outstanding in intellect and clear in eloquence, an eminent declaimer of sermons, is said to have fashioned certain distinguished little works, by which he made his name known to posterity. Of these there is extant Against the Lollards, one book; Sermons on the Temporal Cycle, one book; also Sermons on the Saints, one book; and various Questions. He also composed several other things, which have not come to my notice.
+
+Wilhelmus Talisfordie, an Englishman by nation, doctor of the holy Scriptures of the Cambridge school, a learned and studious man, subtle in intellect, devout in life and conduct, an eminent declaimer of sermons, wrote very notable Sermons on the Temporal Cycle, one book; also Sermons on the Saints, one book. He also composed various lectures on the Scriptures, which he read in the aforesaid school.
+
+Thomas Lombe, an Englishman by nation, a very celebrated doctor of sacred letters of the school of Oxford, a man distinguished in wisdom and learning, subtle in intellect and an acute disputant of scholastic questions, wrote Against the Lollards and Wycliffites, one book; On the Incarnation of the Word, one book.
+
+--- Page 049 ---
+
+He is said also to have written other little works, which I have not yet seen.
+
+Nicolaus Ritzonis, of the convent of Catania, a Sicilian by nation, and provincial prior of Sicily, doctor of theology of the school of Bologna, of excellent talent in delivering sermons to the people, wrote, while he was still devoting himself to letters at Bologna, elegant Sermons on the Temporal Cycle, one book; also Sermons on the Saints, one book. He is said besides to have composed two Lenten sermon-books, whose reading is judged useful for declaimers. He also published several other things, which have not come to my notice.
+
+Johannes Campscon, an Englishman by nation, a man zealous and learned in the divine Scriptures and not ignorant of secular philosophy, outstanding in intellect and clear in eloquence, a most excellent declaimer of popular sermons, wrote for the benefit of readers Sermons on the Temporal Cycle, one book; also Sermons on the Saints, one book. The rest that he composed have not come to my notice.
+
+Johannes Schonhoven, a German by nation, prior of the convent of Mechelen, a man zealous in the divine Scriptures and learned by long practice, subtle in intellect and ready in eloquence, of excellent talent in delivering sermons to the people, wrote a notable work in two volumes according to alphabetical order, which he entitled Polipodion, very suitable for preachers of the word of God, two books. He also published various Sermons on the Temporal Cycle and on the Saints, and certain other things.
+
+Lasius Andernarij, a Frenchman by nation, a man zealous and learned in the holy Scriptures and not ignorant of secular letters, wrote several distinguished volumes by which he made known the sharpness of his intellect also to posterity. Of these there is extant a celebrated work On the Sentences, four books; also various Questions disputed in the schools. But the remaining things that he composed have by no means come to our notice.
+
+Heinricus de Andernacho, a German by nation, of the diocese of Cologne, a man both in the divine Scriptures
+
+[segment 23]
+--- Page 050 ---
+
+as in secular sciences, studious and learned. Ready in talent and an acute disputant, he wrote a distinguished volume on the Sentences, four books; sermons on the season, one book; likewise sermons on the saints, one book; questions of philosophy. He also composed certain other things, which have not come to me.
+
+Stephen, English by nation, doctor of Oxford and provincial prior of England, a man learned in the divine Scriptures and not ignorant of secular philosophy, excellent in talent and renowned for eloquence, adorned no less by life than by learning, wrote Against the Lollards, one book; notable sermons, both on the season and on the saints, through the cycle of the year, two books; likewise various questions, one book; a repertory of his arguments, one book. He also published certain notable lectures on the books of the Bible, along with many other things that are unknown to me.
+
+Arnold of Austria, German by nation, of the convent of Vienna and doctor of the school of the same city, very learned in the divine Scriptures and notably instructed in secular philosophy, subtle in talent and an outstanding disputant of scholastic questions, is said to have written several excellent little works, by which he commended his memory to posterity. Of these there is extant a distinguished volume on the Sentences, four books; likewise sermons and various questions. He flourished in the aforesaid school of Vienna, where he also publicly lectured on his said reading of the book of the Sentences.
+
+John Brammart, German by nation, of the convent of Aachen, provincial prior of Lower Germany, doctor of Paris, studious and learned in the divine Scriptures, subtle in talent and composed in eloquence, devout in life and conduct, wrote a distinguished work on the Sentences containing four books, which he completed at Paris in the year of the Lord 1380, in the third indiction. It begins thus: The word of the Lord upon John. Likewise sermons and various questions. He died and was buried in the convent of Cologne, in the year of the Lord 1407, in the fifteenth indiction.
+
+--- Page 051 ---
+
+Michael of Bologna, Italian by nation, prior general, a man studious and learned in the divine Scriptures and not ignorant of secular letters, renowned in talent and eloquent in speech, wrote many excellent little works by which he commended his memory to posterity. Of these the following are reported: On the Sentences, three books; and questions on the Sentences, one book; a table of the Sentences, one book; a large work on the whole Psalter, one book; on the Gospel of Matthew, one book; on the Gospel of Luke, one book; a table of the Moralia of Pope Gregory on Job, one book; a table on the Decretum, one book; On the Most Pure Conception of Blessed Mary Ever Virgin, one book; various sermons, one book; a notable Lenten work, one book. He also commented on many books of Aristotle, and likewise on Valerius Maximus. He also wrote various works in philosophy, in canon law, and similarly in rhetoric, and many other things that have not come to me. He died at Bologna and was buried before the high altar of his convent, in the year of the Lord 1416, on the Kalends of December.
+
+John Grossi, by homeland a Toulousain, prior general of the order, a distinguished doctor of the divine Scriptures and a distinguished teacher, perfected several little works, of which the following are reported: a little work on the institution and advancement of his order, which he entitled Viridarium, three books; likewise sermons and various questions on the Scriptures. He died under Pope Martin V, in the year of the Lord 1424, in the second indiction.
+
+Thomas Walden, English by nation, provincial prior of England, a man studious and very learned in the divine Scriptures and outstandingly instructed in secular philosophy, an assailant [of heresy], wrote a distinguished work against the Wycliffites, which he entitled Doctrinale ecclesiae, one book. He also made commentaries on many books of Aristotle, which are held in esteem by many. Further works have not come to me. He died, not without a reputation for holiness, and was buried at Rouen, in the year of the Lord 1430.
+
+[segment 24]
+--- Page 052 ---
+
+In the eighth indiction, on the third day before the Nones of November.
+
+Johannes Bernegan, English by nation, a doctor very learned in the divine Scriptures and excellently instructed in secular letters, of excellent intellect in delivering sermons to the people and in debating questions of the Scriptures, wrote a distinguished work on the Sentences, four books, and certain other works. He flourished under Pope Eugenius IV, in the year of the Lord 1430.
+
+Michael Herbrant of Duren, German by nation, prior of the convent of Kreuznach, a man studious and learned in the holy Scriptures and distinguished by experience of many things, outstanding in intellect and an excellent preacher of the word of God, wrote certain little works of worthwhile reading, by which he made his name known to posterity. Of these there are extant many notable Sermons, one book; also many and various Collations delivered in chapters and synods, one book. The rest that he composed have not come to my knowledge. He flourished under Rupert the Bavarian, king of the Romans, in the year of the Lord 1410.
+
+Johannes Gauwer, German by nation, lector of the convent of Mainz, studious and learned in the divine Scriptures, was of excellent intellect in delivering sermons to the people. He wrote certain distinguished little works, of which I have found the following: On the Sentences, four books; On Exodus, one book; One Gospel from Four, one book; Sermons for the Season, one book; also Sermons on the Saints, one book; Lenten Sermons, one book. The rest that he composed have not come to my knowledge. He flourished under Emperor Sigismund, in the year of the Lord 1430, and was buried in his convent at Mainz.
+
+Jacobus of Reggio, Italian by nation, a man most learned in the divine Scriptures and magnificently imbued with secular letters, skilled in the three principal languages, Hebrew, Greek, and Latin, distinguished in intellect and eloquent in speech, excellent in verse and prose, wrote notable sermons for Lent, one book. He is also said to have written many things in verse, but they have not come to my knowledge. He flourished under
+
+--- Page 053 ---
+
+Emperor Frederick III, in the year of the Lord 1460.
+
+Johannes Soreth, Norman by nation, prior general of the whole order, a man learned and erudite in the divine Scriptures, subtle in intellect, composed in speech, devout and most holy in life and conduct, a very great and most fervent reformer of his order, for whose institution he endured many hard labors with the greatest patience, wrote certain distinguished volumes by which he made the vein of his talent known also to his posterity. Of these the following are reported: On the Sentences, seven books; Various Sermons, one book. On the rule of his order he published a twofold commentary, two books. He also compiled the constitutions of the same order. He died at Angers under Emperor Frederick III and Pope Sixtus IV, in the year of the Lord 1471, in the fourth indiction, on the eighth day before the Kalends of August, shining daily with many miracles.
+
+Oswinus Hex, by homeland a Brabanter, of the convent of Vlissingen, bishop of Hierapolis and vicar in pontifical matters of the bishop of Utrecht, a man excellently learned in the divine Scriptures, subtle in intellect and distinguished in eloquence, very learned in delivering sermons to the people, wrote On the Ten Commandments, one book; Directory of a Troubled Conscience, one book; Sermons for the Season, one book; Sermons on the Saints, one book; and certain other works. He died under Emperor Frederick III, in the year of the Lord 1475, in the seventh indiction, on the Kalends of April.
+
+Johannes Beets, German by nation, of the convent of Tienen, a very celebrated doctor of sacred letters and much learned in secular philosophy, subtle in intellect, distinguished in eloquence, an acute disputant, and an excellent preacher of the word, venerable no less for his conduct than for his learning, wrote for the edification of the brothers certain distinguished volumes, of which the following are reported: On the Epistle of Paul to the Romans, one book; Preceptorium of the Divine Law, ten books; On the Sacrament of the Altar, one book; Sermons for the Season, one book; also Sermons on the Saints, one book; Various Disputed Questions, one book; and certain other works. He died in the year of the Lord 1486.
+
+[segment 25]
+--- Page 054 ---
+
+On the sixteenth day before the Kalends of August.
+
+Walter Hont, English by nation, a man very learned in the divine Scriptures and not ignorant of secular letters, subtle in talent, profound in learning, constant in the study and practice of reading, is said to have written several distinguished little works, by which he commended his memory to posterity. Among these there survives a notable work On the Sentences, three books; On the Poverty of Christ, one book. He is said besides to have composed many other things, which have not come to my knowledge. He flourished under Pope Sixtus IV, in the year of the Lord 1480. And I do not know whether he is still alive.
+
+Aulus Biscontus, formerly confessor of Pope Nicholas V, a man trained and learned in the divine Scriptures by constant study, subtle in talent and renowned in eloquence, is said to have written many little works on various subjects, by which he made his name known to posterity. I, however, up to the present day have been able to find none of them. He flourished in the year of the Lord 1440.
+
+John of Dusseldorf, German by nation, of the convent of Mainz and prior of Strasbourg, a man zealous in the divine Scriptures and a very learned doctor, ready in talent and renowned in eloquence, fluent and highly capable in delivering sermons to the people, devout in life and conduct, and an outstanding guardian and lover of regular discipline, wrote On the Observance of Feast Days, one book; An Itinerary of the Holy Land, which he visited in person, one book; Various Sermons on the season and on the saints, two books; and several other things. He died in his own convent and was buried at Strasbourg, in the year of the Lord 1493, in the twelfth indiction.
+
+John Consobrinus, Portuguese by homeland, a man most learned in the divine Scriptures and not ignorant of secular letters, a very celebrated theologian, philosopher, and jurist, subtle in talent and renowned in eloquence, an excellent declaimer of sermons, who for love of Christ vigorously did many things against heretics,
+
+--- Page 055 ---
+
+wrote, at the request of the provost of the royal college of Saint Mary of Eton in England, a notable work in three parts on contracts and exchanges, which he entitled On Commutative Justice, seven books; also various sermons, and certain other things. He abridged the Concordance of Franciscus Maronis in a pleasing compendium. He flourished in the year of the Lord 1475, and under Pope Sixtus IV he died at Lisbon, not without suspicion that poison had been drunk.
+
+John of Arundine, German by nation, of the convent of Bruges, bishop of Osbitense, a man learned in the divine Scriptures and exceptionally trained in secular philosophy, a very celebrated declaimer of sermons, subtle in talent, renowned in eloquence and conduct, wrote many very distinguished little works by which he made his name widely known. Of these the following are preserved: A Notable Lecture on the Book of Wisdom, one book; On Paul’s Epistle to the Romans, one book; Sermons on the season, one book; Sermons on the saints, one book. He is also said to have written many other things, which have not come to my knowledge. He is still alive in the city of Utrecht, serving there as the bishop’s vicar in pontificals.
+
+Baptista of Ferrara, a man learned in the divine Scriptures and exceptionally trained in secular letters, excelling in verse and prose, skilled in both languages, of outstanding talent in delivering sermons to the people, wrote many well-arranged volumes by which he spread his name far and wide: a most brilliant work of histories from Christ’s birth down to our own times, which he entitled the Floridum; also a Chronicle of his order, one book; On the Fall of the Roman Empire, one book; The Life of Mechtilde, two books; A Chronicle of the Ferrarese, one book; Various Sermons, three books. He composed many epigrams in different kinds of meter. He translated from Greek into Latin several sermons of blessed John Chrysostom, and many other things unknown to us. He is still alive today at Ferrara and is writing various works.
+
+[segment 26]
+--- Page 056 ---
+
+Johannes Wiric of Nussia, German by nation, of the convent of Cologne, provincial prior of Lower Germany, a man studious and learned in the divine Scriptures and excellently taught in secular philosophy, ready in intellect and clear in speech, a famous preacher of the divine word, is reported by those who knew him to have written On the Sentences, four books; and various sermons and collations, which in due time will come to light. He is still living in his own convent of Cologne and writing various works.
+
+Johannes Placentinus, a man most learned on every side, a very celebrated theologian and rhetorician, ready in intellect and fluent in speech, most skilled in the Greek and Latin languages, since he translated many things elegantly, is said to have written several little works, by which he consecrated his name to immortality. Of these I have seen only the following: a Greek Vocabulary, a work certainly useful and necessary, one book. There is also another smaller volume of his, in which he sets Latin before Greek, one book. For Ludovicus Donatus, bishop of Bergamo, he translated the Psalter from Greek word for word with the greatest exactness, a work which no one could praise worthily enough; in it he set the Greek translation first in Greek letters, and added his own in Latin. He composed many elegant letters to various persons. He is also said to have written many other things, which have not come to my knowledge. He flourished under Pope Innocent VIII, and I believe that he is still alive.
+
+Johannes Scandeberi, bishop of Erfurt in England, a man most learned in the divine Scriptures and not ignorant of secular letters, subtle in intellect and clear in speech, devout also in life and conduct, is said to have written many excellent little works, by which he made his name known far and wide. But I do not recall that any of them have come to my knowledge. He flourished in England under Pope Sixtus IV, in the year of the Lord 1480. I do not know whether he is still alive.
+
+Baptista Mantuanus, a man most learned in the divine Scriptures, and in knowledge of secular letters second to no one in this age, an outstanding doctor of sacred theology, philosopher, orator, and very celebrated poet,
+
+--- Page 057 ---
+
+subtle in intellect, fluent in speech, renowned in life and conduct, skilled in both languages, namely Greek and Latin, who equals Virgil in verse and Cicero in prose, not to say surpasses them, wrote many distinguished volumes in both kinds of style, by which he gained for his name celebrated fame throughout the whole Christian world. Of these the following are reported: Dialogue on the Blessed Life, to his father, one book; Suburbanus, in verse, on bucolic matters, one book; On the Praises of Saint Mary, Parthenices, three books; On Saint Catherine the Martyr, one book; On the Life of Saint Albert of his order, in Sapphic verse, one book; On the Calamity of These Times, or On the Capital Sins, in heroic verse, a very elegant work, one book; Panegyric of Robert, one book; A Dream on the same, one book; To Falco, a varied work of epigrams which he entitled Falco, one book; Consolation on Death, one book; On Contempt of Death, one book; Against Poets Who Write Shameful Things, one book; To Pope Innocent VIII, On the Conquest of Granada, four books; On Patience, one book; On the Origin and Diversity of Religions, one book; Apology for Brother Peter, two books; Introduction to the Subtle Scotus, one book; elegant and varied orations, one book. He wrote almost innumerable letters to various persons. He also produced countless and very elegant poems of different kinds, which in due time will come to light. Indeed he is so ready and elegant a versifier that he has never had an equal, if you attend to the majesty of his poetry and to his knowledge of all philosophy and learning. He is living to this day in Italy, the unique glory of the Carmelite order and prince of the learned, and he is composing many works to be published day by day.
+
+Arnoldus Bostius, German by nation, of the convent of Ghent in Flanders, a man very studious and deeply learned in the divine Scriptures, and excellently taught in secular letters, ready in intellect and clear in speech, an outstanding theologian, philosopher, and poet, practiced in verse and prose, devout in life and conduct, and a chief lover and guardian of regular discipline, wrote certain excellent little works in verse and prose, by which he became known.
+
+[segment 27]
+[Page 058]
+
+became known. Among these the following are reported: a volume in prose mixed with verses inserted here and there, which he entitled On the Patronage of the Mother of God, one book; On the Illustrious Men of His Order, one book; On the Illustrious Men of the Carthusian Order, one book; On the Most Pure Conception of the Mother of God and Virgin Mary, against Vincentius de Novo Castro, one book; On the Four Last Things, one book; also various sermons. He published many letters, both to me and to others, the number of which is uncertain. He also published numerous poems on various subjects. He composed some other works as well, which have not come to our knowledge. He is still living at Ghent, composing various works and urging many on to the study of letters.
+
+Johannes de Aqua Veteri, a German by nation, a Brabanter by homeland, of the convent of Mechelen, a man zealous in the divine Scriptures and skilled through long practice; of excellent talent in delivering sermons to the people, and a devoted lover of his order: at the urgent request and for the edification of many brothers he wrote a commendable work on the beginning, progress, and state of his order, which he entitled A Little Bundle of Times, in Three Parts, of the Order of the Brothers of Blessed Mary Ever Virgin of Mount Carmel, three books. In the first of these he proves that Elijah and the prophets were the founders of his order; in the second he enumerates the saints and canonized men from the same order; in the third he sets out, according to their times, the succession of the priors general of his whole order. The other works that he is said to have composed have not come to my knowledge. He is still living in the convent at Aachen and persists vigorously in the study he has begun, in the year of the Lord in which we wrote these things, 1492, the tenth indiction.
+
+Apology of the Author for the Fact That Not All the Doctors and Writers of This Order Who Wrote Are Inserted Here
+
+From these most learned men, then, whose mention we have made, reader, you can recognize how highly you ought to esteem the fruits of Carmel. We have selected only a few
+
+[Page 059]
+
+out of many, whose talents and writings we have known. Nor do we doubt that there remain very many most learned men of this order, who, flourishing at various times, magnificently adorned it by their talents and writings, but whose memory has not reached us. For the Carmelite religious order is older than all orders, and its very great antiquity has easily brought the bright lights of its own past into oblivion. Finally, whoever desires to know more fruitful shoots of Mount Carmel should read the deeds and histories of the same order, and he will be able to find most learned men of whom no mention has been made in this catalogue. For since we obtained neither the time nor the leisure to search out the others who are missing, we have therefore arranged these men in order, so that we might offer the reader an opportunity to investigate the rest. At last we turn our mind to you, brothers, cultivators of the Carmelite order; we offer this present gift to your charities, and earnestly beseech you, in return for our love, to pray to God for us.
+
+Elegiac Poem of Lord Johannes Trithemius, Abbot, Addressing His Carmelite Book
+
+Go now, dear book; present yourself to the venerable
+Fathers, in whose praise you have been created.
+Do not fear to see learned men, upright in character,
+and distinguished by a devout mind.
+There is no reason for you to tremble: they are courteous and gentle
+and mild; you may boldly approach these men.
+To such men, first of all, remember to carry
+our greeting, and do not hesitate; I promise you will be welcome.
+If anyone is pricked by the stings of envy, do not listen.
+If anyone seeks to gnaw you with his tooth, flee.
+Always in adversity the patient man obtains
+splendid trophies; the impatient man brings back shameful disgrace.
+The impious and wicked man speaks evils shut up in his heart;
+such things, my little book, I pray you, do not fear.
+
+[segment 28]
+--- Page 060 ---
+
+For the fathers of the kindly order will defend you, the order which the Mother of the Lord, the Virgin Mary, cherishes.
+Mount Carmel, distinguished, gave to these fathers a fitting name from its own religion.
+O holy mountain, now you rightly behold your followers, and the sacred order stands firm continually.
+Whoever shall honor you with reverence, cultivate him gratefully with special love.
+If anyone looks upon you with a bitter, harsh face, flee his hands of your own accord, indignant.
+The press calls; readily give yourself to be pressed, so that you may be sweet and useful to men.
+Yet take care that you are not changed, nor ever disagree with my pen and my meaning.
+As payment I ask your fathers’ prayers, poured out to the Lord, that he may cleanse away every sin.
+
+Poem of Johannes Empolides, canon of Saint Peter of Mainz, on the book of Lord Johannes Trithemius, Abbot of Sponheim, *On the Praise of the Carmelite Order*.
+
+In the present book the lights of the sacred order are praised, which the kindly mother holds and cherishes.
+Mount Carmel gave its name to these fathers, whence all the glory of the Carmelites flows forth.
+Renowned antiquity has brought distinguished titles to the brothers of this order, and so has holy life.
+The Trithemian pen adorns these brothers with worthy praises, and does not allow them to remain in dark places.
+For the increase of praise of so illustrious a religion, with marvelous talent he gathers all ancient things,
+and urges the new men to continue on the path of the old.
+Nor does he spare the ancient, reverend morals of the fathers, but strikes such men fiercely with the sword of the word.
+Thus he approves the honorable by their merits or kindly deeds, so that by his writings he may call the weak to better things.
+
+--- Page 061 ---
+
+Thus it is usual for the inexperienced to have tested masters, so that the rest of the cohort may learn by the praise of one.
+With this disposition, kindly reader, receive my poem, and read the approved beginnings of a celebrated book.
+
+Poem of Rutger Venray, a Sicambrian regular in Heyna, on the book of Lord Johannes Trithemius, Abbot, *On the Praise of the Carmelite Order*.
+
+The ancient poets were accustomed to praise the gods in verses, with the lyre sounding and resounding.
+But what thing not rejected, not empty, not wicked, did they not compose with their eager talents?
+Turn over the books, reader, and the great volumes of the ancient bards; you will find many frivolous things sung.
+Look into Virgil: often you will see there the spirited goddesses Juno and Venus at war.
+The famous book of Homer recounts many fictions; there is nothing sincere, nothing grave, and nothing pious.
+The excellent Plautus, and also sharp Terence, approve shameful things with indecent games.
+Let Pamphilus be silent; let Maximianus yield; let Naso too cease playing in unequal meters.
+These men rekindle fire in tuneful halls, and do not allow young people to be of chaste morals.
+Our Trithemius, not pursuing empty trifles, strives to raise up men with distinguished praise:
+not just any men, but men renowned for gracious morals, various arts, and weighty probity,
+and rightly called fellow-brothers of the kindly Virgin, who have stood forth by their life and merits.
+The fathers, above all others, deserved outstanding praise from fate for their ancient religion.
+Now bright learning has joined itself to ancient morals, and wages war alongside probity.
+Not because it surpasses that ancient religion; rather, it is surpassed by it, and that which was ancient remains unviolated.
+
+--- Page 062 ---
+
+For one may see some men of this order no less skilled in learning than upright in goodness.
+Seeing this, Lord Trithemius, the renowned abbot, has now published two distinguished books.
+He has touched upon the excellent fathers, the praises of the kindly order, and the morals both old and new.
+Carmelite, now give thanks to your poet, for he has made you shine out from the shadows.
+
+Sapphic Poem of the same man on the same subject.
+
+Behold Carmel, which is shown to have supplied the name, and the Mother of the Lord: in this book the praises of the ancient religious are contained.
+
+A distinguished man, Johannes, Abbot of Sponheim, issued this with a fair pen, skilled in Latin, Hebrew, and Greek letters.
+
+He approves the brothers and masters of the duly consecrated order, men renowned in morals, beautiful in probity, bright with the shining light of teaching.
+
+Therefore the venerable abbot confirms the brothers of Mary with great praises, so that, mindful of their ancient honor, they may avoid shameful things.
+
+He determined that the weak and modest should always be reproved more sparingly, but that the just should be more strongly approved, as this little book bears witness.
+
+In thanks for this, I judge that the fathers of the sacred order will be favorable, now shining out from black neglect and blind darkness.
+
+Printed at Mainz.
+
+[segment 29]
+--- Page 063 ---
+ROYAL LIBRARY
+OF MUNICH
+
+--- Page 064 ---
+[blank page]
+
+--- Page 065 ---
+[blank page]
+
+--- Page 066 ---
+[Digitization calibration target; no translatable text.]

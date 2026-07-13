@@ -1,0 +1,47 @@
+{
+  "id": "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis",
+  "title": "Polygraphiae libri sex",
+  "year": "1518",
+  "source_year": "1550",
+  "year_note": "Polygraphia first printed 1518; this source witness is the 1550 Frankfurt/BSB edition.",
+  "edition_info": "Francofurti, 1550 (BSB)",
+  "edition_info_raw": "( Francofurti , 1550 ) BSB",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 563,
+  "genre_cluster": "crypto-occult",
+  "tier": "S",
+  "faithful_adj": 4.69,
+  "fluent_adj": 4.69,
+  "coverage_pct": 100.0,
+  "chunks_graded": 124,
+  "chunks_total": 124,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "claude-cli",
+    "codex-sweep",
+    "minimax",
+    "minimax-v2",
+    "public"
+  ],
+  "source": {
+    "provider": "BSB",
+    "url": "http://daten.digitale-sammlungen.de/bsb00026190/image_1",
+    "download_url": "http://download.digitale-sammlungen.de/BOOKS/pdf_download.pl?id=bsb00026190",
+    "prdl_id": "24389"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 122,
+    "n_missing_segments": 0,
+    "latin_source_file": "full.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis_parallel.html"
+  }
+}

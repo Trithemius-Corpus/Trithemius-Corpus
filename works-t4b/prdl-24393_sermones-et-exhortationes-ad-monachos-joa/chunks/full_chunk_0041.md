@@ -1,0 +1,23 @@
+--- Page 050 ---
+
+All things. IX. Fol. XXII.
+
+...generates the necessity of sinning. Here is the hardest dominion of death; here is the utmost depth of evils. Whoever has once entered this abyss of sins rarely, indeed not easily, rises again to purity of heart without the special grace of God and the very great labor of repentance. By his own will the sinner has fallen into this pit of death; but without God’s mercy he will not be able to rise again. Most harsh is the yoke of evil habit: if anyone has once submitted his neck to it, he rarely recovers his former liberty of spirit.
+
+All these things are worked by perverse thought when it is admitted into the mind, and through delight is changed into consent and action. For no thought is so small that it does not gradually grow if it is not driven from the mind. Blessed, therefore, is that monk who casts all his thought upon the Lord; who always and everywhere denies a place to depraved thoughts; who despises all the perishing riches of the world; who scorns all bodily comforts. He prepares the purity of his heart for his Lord; he loves nothing in this world except the Lord; he directs all his thoughts to the glory of the Savior, and observes his commandments most diligently.
+
+What monk is happier than he who shows himself to the world not as a citizen, but as a pilgrim? He lives in the world as though he were not in the world; indeed, he is greater than the world, whose whole conversation is in heaven.
+
+Consider now, therefore, dearest brothers, the brevity of this time, and always remember that you are mortal and will soon pass away. For here we have no abiding city, but we seek the one to come; and since we know that so many thousands of men have gone before us through death, let us consider how soon we too must necessarily die. Now indeed a short time, but a very acceptable one, is granted to us, in which we may work the fruits of eternal life. For now is the time for labor; now is the hour for sowing good, because after death each person will receive the reward of his labors, when no further opportunity for labor is granted.
+
+Therefore, my brothers, anticipate this hour of death with holy works, and do not be willing now to fail in the sowing of labor, so that in eternal recompense you may be able to rejoice without end. Let no day pass in which each one of you has not become better, and has not added something new to the good works he has already set before him. Always think on the value of the future harvest, and no greatness of labor will terrify you.
+
+On the Daily Struggle of Temptation: All things, tenth.
+
+In yesterday’s sermon, most beloved brothers, I admonished your charities to resist the beginnings of evil thoughts, and to prepare yourselves with all your strength, by good and holy works, for the prize of the future reward. But since, as Scripture bears witness, the life of man upon earth is a temptation, I have thought it necessary to discuss this very matter in your hearing, as much as the Lord grants, so that, having been forewarned, you may be able to fight more strongly against the invisible adversary.
+
+You are not ignorant of the words of the wise man, who says in Ecclesiasticus: “Son, when you come to the service of God, stand in justice, and prepare your soul for temptation.” Let no one think himself free from temptation, brothers, as long as he walks in this mortal way of life; but the more anyone advances in the fear of God, the more cautiously he should know that he must live. For holy Pope Gregory says: “The more our enemy sees that rebellion is being made against him, the more fully he strives to attack. For he neglects to strike those whom he feels he possesses by undisturbed right.” The devil pursues the one fleeing from him, and tries to overthrow the one who rebels against his rule.
+
+You, men, the more you advance in spiritual way of life, the more urgently you must keep watch against the adversary of your salvation. For, as Saint John Chrysostom says, our adversary never sleeps, but is always watchful for the destruction of the human race; and none of us can resist him except one who has learned to keep watch at all times in the fear of the Lord.
+
+And Saint Leo, pope of the city of Rome, says in a certain sermon: “The ancient enemy does not cease to spread the snares of temptations everywhere, so that in whatever way he can, by corrupting the faith of believers, he may darken it. He knows to whom he should bring the enticements of the flesh; into whom he should pour the poison of envy; before whom he should set the incitements of lust. He knows whom he should disturb with grief, whom he should deceive with joy, whom he should oppress with fear, whom he should seduce with admiration.”

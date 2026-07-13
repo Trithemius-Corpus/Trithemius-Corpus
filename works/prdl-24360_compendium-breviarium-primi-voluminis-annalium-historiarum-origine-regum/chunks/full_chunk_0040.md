@@ -1,0 +1,15 @@
+[Unclear] laid waste to the Gauls, and, after the region round about had been plundered, enriched with spoils, he returned victorious. But the remaining things which he magnificently accomplished in peace and in war, Hildegast, philosopher of the Franks and an eminent seer, described after him in a German poem, and Hunibald in prose in the Latin tongue; concerning these matters we have spoken in the first book of the Annals.
+
+Sunno, king of the Franks, died in the twenty-eighth year of his reign, and in the year 213 of the Lord’s Nativity, in the sixth Roman indiction.
+
+Hilderic, the elder son of King Sunno, reigned after his father for forty years, a magnanimous, prudent, bold, warlike man, who at all times defended his people bravely no less by prudence than by arms, and powerfully extended the boundaries of the kingdom far and wide. For he was of such great virtue and power that he was a considerable object of fear not only to the Gauls but also to the Romans; to them the Frankish name was so hateful and odious that they were accustomed never to write or name that people otherwise than as German.
+
+The Franks gloried in their name; but the Romans, troubled by hatred of them, begrudged them the word. Nor did the writers of histories among the neighboring peoples, especially the Romans and Gauls, by common agreement grant the Frankish name to the people of Sicambria before, by Frankish arms and virtues, they had subjected almost all Europe to their dominion. For earlier, as we have said, the Romans, the Gauls, and the remaining nations hostile to the Franks, as Hunibald bears witness, moved by envy, called them by no other name than Germans. For thus says the author already mentioned:
+
+“Our ancestors had no less common concern for the name of their people, which they had once received from Franco their king, than for the kingdom, because they thought it would be glorious for them not thereafter to change the Frankish name into another, once it had been taken up by their forebears with the highest honor.”
+
+In these times Hildegast, philosopher, counselor, seer, kinsman of kings, and elder, most learned of all, flourished in great esteem among King Hilderic, the nobles, and also the whole multitude of the Frankish people. In his own age he said, did, and wrote marvelous things. And he was of such great estimation and authority among his people that all always obeyed his command.
+
+On the birthday of Hilderic, king of the Franks, while standing in the temple of Jupiter at Neopagus before the image of that god, after prayers had been poured out for the obtaining of a prophecy, he suddenly began to rage, as is the custom in madness, with a song of the alrunae; and, shaking his head and with his hands bent back, he prophesied thus, not using verses composed by the rule of meters, but rhythms without measure, uttered in fury and in great confusion. Hunibald made their interpretation thus:
+
+“Victory will come to the Franks from the western god, whom the ancient Dardanian ancestors worshiped.”

@@ -1,0 +1,21 @@
+were appointed by the council concerning the order and province aforesaid, as above.
+
+*Concerning the old statutes. C. 9, at the end.* With the consent of all the fathers residing in chapter, we approve and renew all and every one of the decrees and statutes issued in the provincial chapters held hitherto, insofar as they do not run counter to the reform.
+
+*Concerning the power of the presidents.* We will that each of the presidents, jointly and severally, have full and complete power and authority to carry out execution and to proceed, according to the form and tenor of the constitutions of lord Pope Benedict XII and the provision of the common law, against all and each persons of either sex who shall have presumed to oppose the visitors, or shall not have admitted them for visitation, or shall have impeded them in any way, or shall have been found opposed to the reform agreed upon, and who shall have harmed those monasteries in goods or in persons. The presidents shall personally visit the royal monasteries, taking the visitors with them.
+
+The sacred chapter decreed that each one of the presidents ought personally to visit the exempt and royal monasteries assigned to him, together with the visitors of those monasteries, or one of them. Let the same be done in the other monasteries where and as often as it shall be necessary. *Concerning the visitors, as above.* The statutes issued in the preceding four chapters were again set down in this form and inserted in the recess: concerning the visitors, that within the year they begin their office with the word of God and report as soon as possible to the nearest president the condition of those monasteries visited by them; all of which matters are contained more fully above, chapters 6, 7, and following.
+
+*Concerning the bull of the Council of Basel.* To the fathers residing in the sacred chapter there was exhibited and read the lead-sealed bull of the Council of Basel concerning the reform of our order throughout the province of Mainz and the diocese of Bamberg. Because of its length I did not wish to place it here, but it is set down separately, fol. 34. Given on 20 February, in the year of the Lord 1439. The fathers unanimously accept this bull.
+
+By harmonious and unanimous vote, [no one?] dissenting, and with mature deliberation, we accept and, so far as lies in us, approve the bull of the sacred general Council of Basel; and concerning the reform of our monasteries subject to the chapter, we will and command that it be observed in all our monasteries not yet more strictly reformed, nevertheless enjoining all and each prelates throughout the aforesaid province of our order that they apply themselves to reforming those subject to them who have not yet been more strictly reformed according to the same form.
+
+*That the bull of the aforesaid reform be read publicly in each monastery and once in every quarter in community.* We also will and command that the form of the aforesaid reform, carefully copied word for word, be kept in every monastery in good and legible writing, and that once in every quarter it be read publicly in daily chapter; and that it be explained in the vernacular to the brothers by the president, or by whomever he himself shall have ordered, lest anyone be able to excuse himself under pretext of ignorance.
+
+*Those coming to the provincial chapter shall live communally.* Those coming to the chapter shall likewise take their meals during that three-day period in one refectory, and there shall be served to them two dishes of fish only, and one of eggs or fried dishes, and two good dishes of pottage, with cheese and some fruits added.
+
+*The eleventh provincial chapter was held at Nuremberg for the second time, in the year of the Lord 1441.*
+
+In the year of the Lord 1441, on the last day of the month of April, which was the Sunday Misericordia Domini, the eleventh provincial chapter was held at St. Giles in Nuremberg. In it presided the venerable fathers, the abbots of St. Giles there, of St. Peter of Erfurt, of St. Blaise, and at Amorbach.
+
+*We accept anew the bull of the Council of Basel for reform.* With the common assent of all the fathers present and of the proctors of those absent, we receive and accept anew the bull of the Council of Basel for initiating the reform and

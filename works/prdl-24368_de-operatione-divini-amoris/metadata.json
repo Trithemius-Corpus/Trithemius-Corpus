@@ -1,0 +1,46 @@
+{
+  "id": "prdl-24368_de-operatione-divini-amoris",
+  "title": "De Operatione Divini Amoris",
+  "year": "1497",
+  "source_year": "1497",
+  "year_note": null,
+  "edition_info": "[Mainz] [not before 1497 (BSB)",
+  "edition_info_raw": "( [Mainz] [nicht vor , 1497 ) BSB",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 40,
+  "genre_cluster": "devotional",
+  "tier": "S",
+  "faithful_adj": 4.94,
+  "fluent_adj": 4.94,
+  "coverage_pct": 100.0,
+  "chunks_graded": 16,
+  "chunks_total": 16,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "minimax",
+    "minimax-v2",
+    "opus-sweep",
+    "public"
+  ],
+  "source": {
+    "provider": "BSB",
+    "url": "http://daten.digitale-sammlungen.de/bsb00040419/image_1",
+    "download_url": "http://download.digitale-sammlungen.de/BOOKS/pdf_download.pl?id=bsb00040419",
+    "prdl_id": "24368"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 16,
+    "n_missing_segments": 0,
+    "latin_source_file": "churro_full.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24368_de-operatione-divini-amoris_parallel.html"
+  }
+}

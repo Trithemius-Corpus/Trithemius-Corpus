@@ -1,0 +1,25 @@
+*Of Johannes Trithemius.*
+
+*IX.*
+
+To Lady Elisabeth de Longovico, his most honorable and sweetest mother, Johannes Trithemius, her son, abbot of St. James at Würzburg, formerly indeed of Sponheim, with all honor and reverence, offers in all things a son’s affection, ready with due service.
+
+[unclear]
+
+I know, mother (for I cannot doubt it), that since our affairs have now been disturbed for more than a year, you are on that account not a little troubled. For although we have passed beyond childhood, yet so long as your sons survive you do not cease to show yourself a faithful mother. I have sent to you with this letter master Jacob, my only brother, so that through one son you may learn everything that has happened to the other son, and, through the presence of the one, grow accustomed to bear more lightly the absence of the other.
+
+I do not wish you to have any anxiety for me, nor to think me wretched because rumor has perhaps spread that I was expelled from Sponheim. Rather believe me, who write the truth: that I departed not by force, not from fear, not under compulsion, but of my own free will; after mature deliberation beforehand, I resolved to remain outside, and I resigned the abbey. I accepted this one in which I now live in peace, for many reasonable causes inducing me to this; if you wish to know some of them, you will learn them from my brother’s report.
+
+I trust in the Lord Jesus, who permits nothing without cause, that this change will have given me material for progress toward the salvation of both man’s parts, since I have been freed from many useless occupations and have obtained good peace with tranquility. For no one knows better than I how ungrateful the men are whom I have served until now at Sponheim. On that account I am not saddened, but rather rejoice that an occasion has been given me to withdraw from those whom I had often before considered leaving.
+
+But there is one thing which, as I think, may seem able to torment your mind somewhat: that henceforth you will see me living in this flesh either more rarely or never, because of the greater distance between the places in which we dwell apart from one another. Remember that you are the mother of a necessarily mortal man, from whom, whether you wish it or not, you must at some time be separated, even if he should live with you for many years, whichever of you dies first. For what consolation can the very brief human sight of the flesh contain in itself, when at last it is necessarily extinguished by death with greater bitterness than it ever seemed before to be possessed with sweetness?
+
+Let us therefore refer these desires of our vanity to that vision of eternal blessedness, in which sweetness will endure without end, and when once it has shone upon us, it will never be extinguished for ever. Let us hasten to that, O mother, for participation in which we were created, and which then without doubt we shall be able to attain, when, meditating day and night on the Lord’s commandments, we shall always have loved the Lord God himself, our Christ, with a pure mind, a whole heart, and the desire of eternity burning within us.
+
+What need have we of fleshly sight, who ought to seek the spiritual? I have vowed that I shall serve God; it is not permitted me henceforth to take delight in the comfort of parents. I have despised everything for the love of Christ; I have already begun to be like Melchizedek, without father, without mother, without genealogy. I acknowledge God alone as father; I have no mother except the Church. Nor am I now any longer my own, nor am I your son, since I have been solemnly offered to God and enrolled forever in his service; therefore I have no need of your anxiety.
+
+Take care of what is yours; almighty God will without doubt take care of what is his, and will not despise what has been offered to him by free will. I thank you, because when I was yours, you nourished me with pious solicitude; but now, after I have offered myself to God’s service, he who created me will nourish me, and he does not need your care, nor will he any longer entrust to you what is his. Be therefore tranquil in mind; bear no anxiety for me, since the Most High has so provided for my affairs that here in Würzburg I am much better and more gladly situated than I ever was at Sponheim.
+
+For God, who has ordered all things well, has mercifully bestowed upon me such grace that, through the favor of many princes, if I had wished, sufficient provision would have existed for me, so that there is no need to implore the assistance of parents. I have made God my helper; therefore the whole world is my fatherland, in which I shall pass through all adversities. Thus must we live, mother, so that after death we may enjoy the eternal vision of God in heaven.
+
+Farewell. Pray to God for me; nor do I wish you to be mindful of me otherwise, since I am accustomed to have no remembrance of you except in my prayers. Farewell again. From my monastery at Würzburg, on the eighth day of the month of November, in the year of the Christians 1506.

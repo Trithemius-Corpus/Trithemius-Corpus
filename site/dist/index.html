@@ -1,0 +1,998 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Trithemius Corpus &mdash; the Latin works of Johannes Trithemius in English</title>
+<meta name="description" content="Open English translations of the Latin works of Johannes Trithemius (1462–1516): 29 texts across 47 printed editions, each beside its Latin source, with cipher tables shown against the original page scans.">
+<link rel="canonical" href="https://trithemius-corpus.github.io/Trithemius-Corpus/index.html"><meta property="og:type" content="website">
+<meta property="og:site_name" content="Trithemius Corpus">
+<meta property="og:title" content="Trithemius Corpus &mdash; the Latin works of Johannes Trithemius in English">
+<meta property="og:description" content="Open English translations of the Latin works of Johannes Trithemius (1462–1516): 29 texts across 47 printed editions, each beside its Latin source, with cipher tables shown against the original page scans.">
+<meta property="og:url" content="https://trithemius-corpus.github.io/Trithemius-Corpus/index.html"><meta property="og:image" content="https://trithemius-corpus.github.io/Trithemius-Corpus/static/images/hero-steganographia-wheel.webp"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@trithemius_corpus">
+<meta name="twitter:title" content="Trithemius Corpus &mdash; the Latin works of Johannes Trithemius in English">
+<meta name="twitter:description" content="Open English translations of the Latin works of Johannes Trithemius (1462–1516): 29 texts across 47 printed editions, each beside its Latin source, with cipher tables shown against the original page scans.">
+<meta name="twitter:image" content="https://trithemius-corpus.github.io/Trithemius-Corpus/static/images/hero-steganographia-wheel.webp"><link rel="icon" type="image/svg+xml" href="static/favicon.svg">
+<meta name="theme-color" content="#100d12">
+<link rel="stylesheet" href="static/fonts.css">
+<link rel="stylesheet" href="static/style.css">
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Dataset", "name": "Trithemius Corpus", "description": "Open English translations of the Latin works of Johannes Trithemius (1462–1516): 29 texts across 47 printed editions, each beside its Latin source, with cipher tables shown against the original page scans.", "url": "https://trithemius-corpus.github.io/Trithemius-Corpus/", "license": "https://creativecommons.org/licenses/by/4.0/", "creator": {"@type": "Person", "name": "Ian Carlos Fabin", "url": "https://github.com/agentcarlosian"}, "about": {"@type": "Person", "name": "Johannes Trithemius", "birthDate": "1462", "deathDate": "1516"}, "distribution": {"@type": "DataDownload", "contentUrl": "https://github.com/Trithemius-Corpus/Trithemius-Corpus"}}</script><script>
+  // Apply the saved theme before first paint to avoid a flash of the wrong theme.
+  // 'auto' resolves from the OS colour-scheme preference (light→parchment,
+  // dark→steganographia) and is stored on a distinct attribute so the switcher
+  // can highlight 'auto' as active while the concrete theme paints immediately.
+  (function () {
+    function resolveAuto() {
+      try {
+        return window.matchMedia &&
+               window.matchMedia('(prefers-color-scheme: light)').matches
+               ? 'parchment' : 'steganographia';
+      } catch (e) { return 'steganographia'; }
+    }
+    try {
+      var t = localStorage.getItem('tc-theme');
+      if (t === 'auto') {
+        var r = resolveAuto();
+        document.documentElement.setAttribute('data-tc-theme', 'auto');
+        if (r !== 'steganographia') document.documentElement.setAttribute('data-theme', r);
+      } else if (t && t !== 'steganographia') {
+        document.documentElement.setAttribute('data-theme', t);
+      }
+    } catch (e) {}
+  })();
+</script>
+</head>
+<body class="parchment">
+<a class="skip-link" href="#main">Skip to content</a>
+<div class="read-progress" id="readProgress" aria-hidden="true"><span class="read-progress-pct" id="readProgressPct"></span></div>
+<header class="site-header">
+  <div class="container">
+    <h1 class="site-title"><a href="index.html">Trithemius Corpus</a></h1>
+    <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="siteNav">
+      <span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span>
+    </button>
+    <nav class="site-nav" id="siteNav" aria-label="Site">
+      <a href="works.html">Works</a>
+      <a href="ciphers.html">The Ciphers</a>
+      <a href="tools.html">Cipher Lab</a>
+      <a href="scoreboard.html">Quality</a>
+      <a href="methodology.html">Methodology</a>
+      <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus">GitHub</a>
+      <a href="search.html" class="nav-search" title="Search the corpus">&#128269; Search</a>
+      <span class="theme-switcher" role="group" aria-label="Theme">
+        <span class="theme-label" aria-hidden="true">Theme</span>
+        <button type="button" data-set="steganographia" title="Steganographia (celestial night)" aria-label="Steganographia theme"></button>
+        <button type="button" data-set="candlelight" title="Candlelight (warm dark)" aria-label="Candlelight theme"></button>
+        <button type="button" data-set="parchment" title="Parchment (light scholarly)" aria-label="Parchment theme"></button>
+        <button type="button" data-set="ink" title="Ink (high-contrast facsimile)" aria-label="Ink theme"></button>
+      </span>
+    </nav>
+  </div>
+</header>
+
+<main class="container" id="main">
+
+<section class="hero-edition">
+  <div class="hero-text">
+    <svg class="hero-seal-emblem" viewBox="0 0 110 110" width="92" height="92" aria-hidden="true" role="presentation">
+      <circle class="ring" cx="55" cy="55" r="52" stroke-width="0.8"/>
+      <circle class="ring" cx="55" cy="55" r="44" stroke-width="1.4"/>
+      <circle class="ring-faint" cx="55" cy="55" r="30" stroke-width="0.8" stroke-dasharray="2 3"/>
+      <g font-size="9" text-anchor="middle" class="glyph-ring">
+        <text x="55"   y="20.5">&#9737;</text>
+        <text x="84.7" y="34.3">&#9792;</text>
+        <text x="92.1" y="66.4">&#9791;</text>
+        <text x="71.5" y="92.2">&#9794;</text>
+        <text x="38.5" y="92.2">&#9795;</text>
+        <text x="17.9" y="66.4">&#9793;</text>
+        <text x="25.3" y="34.3">&#9790;</text>
+      </g>
+      <circle class="spark" cx="55" cy="55" r="2.6"/>
+      <circle class="ring" cx="55" cy="55" r="6.5" stroke-width="0.8"/>
+    </svg>
+    <p class="eyebrow">An English edition</p>
+    <h2 class="hero-title">Trithemius Corpus</h2>
+    <p class="hero-lede">
+      <strong>Johannes Trithemius</strong> (1462&ndash;1516) &mdash;
+      Benedictine abbot, bibliographer, and the first author of a printed book on
+      cryptography &mdash; has sat in early-modern print for five centuries with no
+      English edition. This project gives a readable English of
+      <strong>29 of his works</strong>, across 47 printed
+      editions, 23 of them in English for the first time &mdash;
+      each set beside its Latin source, with the cipher tables shown against the
+      original page scans.
+    </p>
+    <p class="hero-byline muted">
+      Assembled by <a href="https://github.com/agentcarlosian">Ian Carlos Fabin</a>, with every
+      translation machine-made, independently audited against the Latin, and free
+      to use under CC&nbsp;BY.
+    </p>
+    <div class="hero-actions">
+      <a class="button primary" href="works.html">Browse the works</a>
+      <a class="button secondary" href="ciphers.html">The ciphers</a>
+    </div>
+    <form class="hero-search" action="search.html" method="get">
+      <input type="text" name="q" placeholder="Search the corpus&hellip;" aria-label="Search">
+      <button type="submit">&#128269;</button>
+    </form>
+  </div>
+  <figure class="hero-figure">
+    <a href="works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam_style-c-cipher-key.html"
+       title="Read the Steganographia's cipher tables beside their facsimiles">
+      <img src="static/images/hero-steganographia-wheel.webp" width="1106" height="960"
+           alt="Ad sciendum spirituum loca: a circular diagram placing the principal spirits of the Steganographia by celestial quarter — Oriens, Subsolanus and the rest — around the winds and directions">
+    </a>
+    <figcaption>
+      &ldquo;Ad sciendum spirituum loca&rdquo; &mdash; the circle of principal
+      spirits by celestial quarter, from the <em>Steganographia</em>, Book&nbsp;I
+      (Darmstadt, 1621). Biblioth&egrave;que nationale de France.
+      <a href="works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam_style-c-cipher-key.html">Read its cipher tables&nbsp;&rarr;</a>
+    </figcaption>
+  </figure>
+</section>
+
+<div id="continue-reading" class="continue-wrap" hidden></div>
+
+<figure class="portrait-band">
+  <img src="static/images/trithemius-portrait.webp"
+       alt="Portrait of Johannes Trithemius (1462&ndash;1516), Benedictine abbot of Sponheim">
+</figure>
+
+<section class="quick-reads">
+  <h3>Start here: first in English</h3>
+  <ul class="featured-list">
+    <li class="featured-item">
+<div class="featured-thumb-cover"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400"
+     role="img" aria-label="Cover: Trithemius, Vindicator of Himself"
+     class="work-cover" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="cv-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1610"/>
+      <stop offset="1" stop-color="#120d08"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="400" fill="url(#cv-bg)"/>
+  <!-- double gilt rule frame -->
+  <rect x="22" y="22" width="256" height="356" fill="none"
+        stroke="#c9a24a" stroke-width="1.4" opacity="0.85"/>
+  <rect x="30" y="30" width="240" height="340" fill="none"
+        stroke="#c9a24a" stroke-width="0.6" opacity="0.6"/>
+  <!-- corner accents -->
+  <g fill="#c9a24a" opacity="0.7">
+    <circle cx="30" cy="30" r="2.4"/><circle cx="270" cy="30" r="2.4"/>
+    <circle cx="30" cy="370" r="2.4"/><circle cx="270" cy="370" r="2.4"/>
+  </g>
+  <!-- corpus attribution (top) -->
+  <text x="50%" y="78" class="brand" text-anchor="middle" fill="#8a7a4a">
+    JOHANNES TRITHEMIUS
+  </text>
+  <!-- ornament -->
+  <g transform="translate(150, 92)" style="color:#c9a24a">
+    <g class="orn" fill="none" stroke="currentColor" stroke-width="0.9"><circle cx="0" cy="0" r="6.5"/><circle cx="0" cy="0" r="2.4" fill="currentColor" stroke="none"/><path d="M -13 0 L -7 0 M 13 0 L 7 0 M 0 -13 L 0 -7 M 0 13 L 0 7"/><path d="M -9.2 -9.2 L -5 -5 M 9.2 -9.2 L 5 -5 M -9.2 9.2 L -5 5 M 9.2 9.2 L 5 5" stroke-width="0.7"/></g>
+  </g>
+  <!-- title -->
+  <text x="50%" y="168" class="t" text-anchor="middle">Trithemius, Vindicator</text><text x="50%" y="220" class="t" text-anchor="middle">of Himself</text><text x="50%" y="302" class="lat" text-anchor="middle">Trithemius Sui Ipsius Vindex</text>
+  <!-- footer: year + edition -->
+  <text x="50%" y="342" class="foot" text-anchor="middle" fill="#9a8456">
+    Ingolstadii, 1616
+  </text>
+  <text x="50%" y="342" class="brand2" text-anchor="middle" fill="#6a5c3a">
+    TRITHEMIUS CORPUS
+  </text>
+  <style>
+    .t { font: 600 34px Georgia, "Iowan Old Style", "Palatino Linotype", serif; fill: #e8dcc0; letter-spacing: 0.01em; }
+    .lat { font: italic 15px Georgia, "Palatino Linotype", serif; fill: #9a8456; }
+    .foot { font: 500 15px Georgia, serif; letter-spacing: 0.06em; }
+    .brand, .brand2 { font: 600 13px Georgia, serif; letter-spacing: 0.22em; }
+  </style>
+</svg></div>      <div class="featured-content">
+        <p class="featured-head">
+          <a href="works/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive.html"><em>Trithemius Sui Ipsius Vindex</em></a>
+          <span class="muted">&mdash; Trithemius, Vindicator of Himself, 1616</span>
+<span class="badge first-en">first English</span>        </p>
+        <p class="featured-pitch">Trithemius Sui Ipsius Vindex — &#34;Trithemius, Vindicator of Himself&#34; — is the abbot&#39;s apologetic answer to the accusations of demonic magic that dogged his last decade. His Steganographia, circulated in manuscript from the late 1490s and reaching readers it was not meant to reach — Carolus Bovillus among them — had been read at face value as a manual of necromancy, and the charge clung to him; the Vindex, printed posthumously in 1616, gathers his own protestations of orthodoxy alongside the testimony of allies, insisting that the Steganographia is cryptography dressed as conjuration, not magic at all. It is the apologetic counterpart to the Steganographia (prdl-24395) and the Clavis Generalis Triplex (prdl-70281) elsewhere in this corpus.</p>
+      </div>
+    </li>
+    <li class="featured-item">
+<div class="featured-thumb-cover"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400"
+     role="img" aria-label="Cover: On Ecclesiastical Writers"
+     class="work-cover" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="cv-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1610"/>
+      <stop offset="1" stop-color="#120d08"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="400" fill="url(#cv-bg)"/>
+  <!-- double gilt rule frame -->
+  <rect x="22" y="22" width="256" height="356" fill="none"
+        stroke="#c9a24a" stroke-width="1.4" opacity="0.85"/>
+  <rect x="30" y="30" width="240" height="340" fill="none"
+        stroke="#c9a24a" stroke-width="0.6" opacity="0.6"/>
+  <!-- corner accents -->
+  <g fill="#c9a24a" opacity="0.7">
+    <circle cx="30" cy="30" r="2.4"/><circle cx="270" cy="30" r="2.4"/>
+    <circle cx="30" cy="370" r="2.4"/><circle cx="270" cy="370" r="2.4"/>
+  </g>
+  <!-- corpus attribution (top) -->
+  <text x="50%" y="78" class="brand" text-anchor="middle" fill="#8a7a4a">
+    JOHANNES TRITHEMIUS
+  </text>
+  <!-- ornament -->
+  <g transform="translate(150, 92)" style="color:#c9a24a">
+    <g class="orn" fill="none" stroke="currentColor" stroke-width="0.9"><circle cx="0" cy="0" r="6.5"/><circle cx="0" cy="0" r="2.4" fill="currentColor" stroke="none"/><path d="M -13 0 L -7 0 M 13 0 L 7 0 M 0 -13 L 0 -7 M 0 13 L 0 7"/><path d="M -9.2 -9.2 L -5 -5 M 9.2 -9.2 L 5 -5 M -9.2 9.2 L -5 5 M 9.2 9.2 L 5 5" stroke-width="0.7"/></g>
+  </g>
+  <!-- title -->
+  <text x="50%" y="168" class="t" text-anchor="middle">On Ecclesiastical</text><text x="50%" y="220" class="t" text-anchor="middle">Writers</text><text x="50%" y="302" class="lat" text-anchor="middle">Liber de Scriptoribus Ecclesiasticis</text>
+  <!-- footer: year + edition -->
+  <text x="50%" y="342" class="foot" text-anchor="middle" fill="#9a8456">
+    Printed 1494
+  </text>
+  <text x="50%" y="342" class="brand2" text-anchor="middle" fill="#6a5c3a">
+    TRITHEMIUS CORPUS
+  </text>
+  <style>
+    .t { font: 600 34px Georgia, "Iowan Old Style", "Palatino Linotype", serif; fill: #e8dcc0; letter-spacing: 0.01em; }
+    .lat { font: italic 15px Georgia, "Palatino Linotype", serif; fill: #9a8456; }
+    .foot { font: 500 15px Georgia, serif; letter-spacing: 0.06em; }
+    .brand, .brand2 { font: 600 13px Georgia, serif; letter-spacing: 0.22em; }
+  </style>
+</svg></div>      <div class="featured-content">
+        <p class="featured-head">
+          <a href="works/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius.html"><em>Liber de Scriptoribus Ecclesiasticis</em></a>
+          <span class="muted">&mdash; On Ecclesiastical Writers, 1494</span>
+<span class="badge first-en">first English</span>        </p>
+        <p class="featured-pitch">Liber de Scriptoribus Ecclesiasticis — &#34;On Ecclesiastical Writers&#34; — is Trithemius&#39;s pioneering bio-bibliography of Christian authors, from the apostolic age to his own century, in roughly a thousand numbered entries: each author given a short biography and a list of writings. Completed at Sponheim in 1494 and printed at Basel by Johann Amerbach in the same year, it continues the catalogue tradition of Jerome, Gennadius, and Isidore on a far larger scale, and it stands as a founding text in the history of bibliography — the first large-scale alphabetical bio-bibliography of Christian literature, and the work for which Trithemius was best known in his lifetime.</p>
+      </div>
+    </li>
+    <li class="featured-item">
+<div class="featured-thumb-cover"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400"
+     role="img" aria-label="Cover: On the Commonwealth of the Church and the Order of Monks"
+     class="work-cover" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="cv-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1610"/>
+      <stop offset="1" stop-color="#120d08"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="400" fill="url(#cv-bg)"/>
+  <!-- double gilt rule frame -->
+  <rect x="22" y="22" width="256" height="356" fill="none"
+        stroke="#c9a24a" stroke-width="1.4" opacity="0.85"/>
+  <rect x="30" y="30" width="240" height="340" fill="none"
+        stroke="#c9a24a" stroke-width="0.6" opacity="0.6"/>
+  <!-- corner accents -->
+  <g fill="#c9a24a" opacity="0.7">
+    <circle cx="30" cy="30" r="2.4"/><circle cx="270" cy="30" r="2.4"/>
+    <circle cx="30" cy="370" r="2.4"/><circle cx="270" cy="370" r="2.4"/>
+  </g>
+  <!-- corpus attribution (top) -->
+  <text x="50%" y="78" class="brand" text-anchor="middle" fill="#8a7a4a">
+    JOHANNES TRITHEMIUS
+  </text>
+  <!-- ornament -->
+  <g transform="translate(150, 66)" style="color:#c9a24a">
+    <g class="orn" fill="none" stroke="currentColor" stroke-width="0.9"><circle cx="0" cy="0" r="6.5"/><circle cx="0" cy="0" r="2.4" fill="currentColor" stroke="none"/><path d="M -13 0 L -7 0 M 13 0 L 7 0 M 0 -13 L 0 -7 M 0 13 L 0 7"/><path d="M -9.2 -9.2 L -5 -5 M 9.2 -9.2 L 5 -5 M -9.2 9.2 L -5 5 M 9.2 9.2 L 5 5" stroke-width="0.7"/></g>
+  </g>
+  <!-- title -->
+  <text x="50%" y="142" class="t" text-anchor="middle">On the Commonwealth of</text><text x="50%" y="194" class="t" text-anchor="middle">the Church and the</text><text x="50%" y="246" class="t" text-anchor="middle">Order of Monks</text><text x="50%" y="328" class="lat" text-anchor="middle">De Republica Ecclesiae et Monachorum Ordinis</text>
+  <!-- footer: year + edition -->
+  <text x="50%" y="368" class="foot" text-anchor="middle" fill="#9a8456">
+    Printed 1493
+  </text>
+  <text x="50%" y="342" class="brand2" text-anchor="middle" fill="#6a5c3a">
+    TRITHEMIUS CORPUS
+  </text>
+  <style>
+    .t { font: 600 34px Georgia, "Iowan Old Style", "Palatino Linotype", serif; fill: #e8dcc0; letter-spacing: 0.01em; }
+    .lat { font: italic 15px Georgia, "Palatino Linotype", serif; fill: #9a8456; }
+    .foot { font: 500 15px Georgia, serif; letter-spacing: 0.06em; }
+    .brand, .brand2 { font: 600 13px Georgia, serif; letter-spacing: 0.22em; }
+  </style>
+</svg></div>      <div class="featured-content">
+        <p class="featured-head">
+          <a href="works/prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis.html"><em>De Republica Ecclesiae et Monachorum Ordinis</em></a>
+          <span class="muted">&mdash; On the Commonwealth of the Church and the Order of Monks, 1493</span>
+<span class="badge first-en">first English</span>        </p>
+        <p class="featured-pitch">De Republica Ecclesiae et Monachorum Ordinis — &#34;On the Commonwealth of the Church and the Order of Monks&#34; — is one of Trithemius&#39;s monastic-reform tracts, treating the right ordering of the religious life within the wider body of the Church. It belongs to the cluster of reform writings he produced as abbot of Sponheim in the 1490s — alongside De Statu et Ruina Monastici Ordinis and De Triplici Regione Claustralium — pressing for the restoration of strict Benedictine observance against the lax monasticism of his day. Its scope is wider than the purely cloistral: it sets the monastery within the commonwealth of the Church and the duties of the religious life within it.</p>
+      </div>
+    </li>
+    <li class="featured-item">
+<div class="featured-thumb-cover"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400"
+     role="img" aria-label="Cover: On Pastoral Care"
+     class="work-cover" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="cv-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1610"/>
+      <stop offset="1" stop-color="#120d08"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="400" fill="url(#cv-bg)"/>
+  <!-- double gilt rule frame -->
+  <rect x="22" y="22" width="256" height="356" fill="none"
+        stroke="#c9a24a" stroke-width="1.4" opacity="0.85"/>
+  <rect x="30" y="30" width="240" height="340" fill="none"
+        stroke="#c9a24a" stroke-width="0.6" opacity="0.6"/>
+  <!-- corner accents -->
+  <g fill="#c9a24a" opacity="0.7">
+    <circle cx="30" cy="30" r="2.4"/><circle cx="270" cy="30" r="2.4"/>
+    <circle cx="30" cy="370" r="2.4"/><circle cx="270" cy="370" r="2.4"/>
+  </g>
+  <!-- corpus attribution (top) -->
+  <text x="50%" y="78" class="brand" text-anchor="middle" fill="#8a7a4a">
+    JOHANNES TRITHEMIUS
+  </text>
+  <!-- ornament -->
+  <g transform="translate(150, 118)" style="color:#c9a24a">
+    <g class="orn" fill="none" stroke="currentColor" stroke-width="0.9"><circle cx="0" cy="0" r="6.5"/><circle cx="0" cy="0" r="2.4" fill="currentColor" stroke="none"/><path d="M -13 0 L -7 0 M 13 0 L 7 0 M 0 -13 L 0 -7 M 0 13 L 0 7"/><path d="M -9.2 -9.2 L -5 -5 M 9.2 -9.2 L 5 -5 M -9.2 9.2 L -5 5 M 9.2 9.2 L 5 5" stroke-width="0.7"/></g>
+  </g>
+  <!-- title -->
+  <text x="50%" y="194" class="t" text-anchor="middle">On Pastoral Care</text><text x="50%" y="276" class="lat" text-anchor="middle">De Cura Pastorali</text>
+  <!-- footer: year + edition -->
+  <text x="50%" y="316" class="foot" text-anchor="middle" fill="#9a8456">
+    Mainz
+  </text>
+  <text x="50%" y="342" class="brand2" text-anchor="middle" fill="#6a5c3a">
+    TRITHEMIUS CORPUS
+  </text>
+  <style>
+    .t { font: 600 34px Georgia, "Iowan Old Style", "Palatino Linotype", serif; fill: #e8dcc0; letter-spacing: 0.01em; }
+    .lat { font: italic 15px Georgia, "Palatino Linotype", serif; fill: #9a8456; }
+    .foot { font: 500 15px Georgia, serif; letter-spacing: 0.06em; }
+    .brand, .brand2 { font: 600 13px Georgia, serif; letter-spacing: 0.22em; }
+  </style>
+</svg></div>      <div class="featured-content">
+        <p class="featured-head">
+          <a href="works/prdl-24361_de-cura-pastorali.html"><em>De Cura Pastorali</em></a>
+          <span class="muted">&mdash; On Pastoral Care, 1496</span>
+<span class="badge first-en">first English</span>        </p>
+        <p class="featured-pitch">De Cura Pastorali — &#34;On Pastoral Care&#34; — is Trithemius&#39;s treatise on the duties of those charged with the care of souls, in the long tradition of clerical-formation literature descending from Gregory the Great&#39;s Regula Pastoralis. It sits among his writings on the priestly and clerical life — alongside Institutio Vitae Sacerdotalis and De Sacerdotum Vita Instituenda — rather than his strictly monastic-reform tracts, though the two strands overlap in his work. Its concern is the rector&#39;s responsibility for those under his cure: preaching, correction, the example of life, and the burden of office.</p>
+      </div>
+    </li>
+    <li class="featured-item">
+<div class="featured-thumb-cover"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400"
+     role="img" aria-label="Cover: On the State and Ruin of the Monastic Order"
+     class="work-cover" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="cv-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1610"/>
+      <stop offset="1" stop-color="#120d08"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="400" fill="url(#cv-bg)"/>
+  <!-- double gilt rule frame -->
+  <rect x="22" y="22" width="256" height="356" fill="none"
+        stroke="#c9a24a" stroke-width="1.4" opacity="0.85"/>
+  <rect x="30" y="30" width="240" height="340" fill="none"
+        stroke="#c9a24a" stroke-width="0.6" opacity="0.6"/>
+  <!-- corner accents -->
+  <g fill="#c9a24a" opacity="0.7">
+    <circle cx="30" cy="30" r="2.4"/><circle cx="270" cy="30" r="2.4"/>
+    <circle cx="30" cy="370" r="2.4"/><circle cx="270" cy="370" r="2.4"/>
+  </g>
+  <!-- corpus attribution (top) -->
+  <text x="50%" y="78" class="brand" text-anchor="middle" fill="#8a7a4a">
+    JOHANNES TRITHEMIUS
+  </text>
+  <!-- ornament -->
+  <g transform="translate(150, 92)" style="color:#c9a24a">
+    <g class="orn" fill="none" stroke="currentColor" stroke-width="0.9"><circle cx="0" cy="0" r="6.5"/><circle cx="0" cy="0" r="2.4" fill="currentColor" stroke="none"/><path d="M -13 0 L -7 0 M 13 0 L 7 0 M 0 -13 L 0 -7 M 0 13 L 0 7"/><path d="M -9.2 -9.2 L -5 -5 M 9.2 -9.2 L 5 -5 M -9.2 9.2 L -5 5 M 9.2 9.2 L 5 5" stroke-width="0.7"/></g>
+  </g>
+  <!-- title -->
+  <text x="50%" y="168" class="t" text-anchor="middle">On the State and Ruin</text><text x="50%" y="220" class="t" text-anchor="middle">of the Monastic Order</text><text x="50%" y="302" class="lat" text-anchor="middle">De Statu et Ruina Monastici Ordinis</text>
+  <!-- footer: year + edition -->
+  <text x="50%" y="342" class="foot" text-anchor="middle" fill="#9a8456">
+    Printed 1493
+  </text>
+  <text x="50%" y="342" class="brand2" text-anchor="middle" fill="#6a5c3a">
+    TRITHEMIUS CORPUS
+  </text>
+  <style>
+    .t { font: 600 34px Georgia, "Iowan Old Style", "Palatino Linotype", serif; fill: #e8dcc0; letter-spacing: 0.01em; }
+    .lat { font: italic 15px Georgia, "Palatino Linotype", serif; fill: #9a8456; }
+    .foot { font: 500 15px Georgia, serif; letter-spacing: 0.06em; }
+    .brand, .brand2 { font: 600 13px Georgia, serif; letter-spacing: 0.22em; }
+  </style>
+</svg></div>      <div class="featured-content">
+        <p class="featured-head">
+          <a href="works/prdl-24373_de-statu-et-ruina-monastici-ordinis.html"><em>De Statu et Ruina Monastici Ordinis</em></a>
+          <span class="muted">&mdash; On the State and Ruin of the Monastic Order, 1493</span>
+<span class="badge first-en">first English</span>        </p>
+        <p class="featured-pitch">De Statu et Ruina Monastici Ordinis — &#34;On the State and Ruin of the Monastic Order&#34; — is Trithemius&#39;s diagnostic of what had gone wrong with fifteenth-century Benedictine life. He wrote it as abbot of Sponheim in the mid-1490s, at the height of his reform programme: a generation after the Bursfelde Congregation had begun reorganising German monasticism around strict observance, he surveys the decay — property-holding, absenteeism, the collapse of the common life — and prescribes the return to the Rule. It is the sharpest of his reform tracts, and the one in which his disappointment is least concealed; it cost him goodwill among the abbots he had hoped to lead.</p>
+      </div>
+    </li>
+    <li class="featured-item">
+<div class="featured-thumb-cover"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400"
+     role="img" aria-label="Cover: A Compendium or Breviary of the First Volume of the Annals or Histories, on the Origin…"
+     class="work-cover" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="cv-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1610"/>
+      <stop offset="1" stop-color="#120d08"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="400" fill="url(#cv-bg)"/>
+  <!-- double gilt rule frame -->
+  <rect x="22" y="22" width="256" height="356" fill="none"
+        stroke="#c9a24a" stroke-width="1.4" opacity="0.85"/>
+  <rect x="30" y="30" width="240" height="340" fill="none"
+        stroke="#c9a24a" stroke-width="0.6" opacity="0.6"/>
+  <!-- corner accents -->
+  <g fill="#c9a24a" opacity="0.7">
+    <circle cx="30" cy="30" r="2.4"/><circle cx="270" cy="30" r="2.4"/>
+    <circle cx="30" cy="370" r="2.4"/><circle cx="270" cy="370" r="2.4"/>
+  </g>
+  <!-- corpus attribution (top) -->
+  <text x="50%" y="78" class="brand" text-anchor="middle" fill="#8a7a4a">
+    JOHANNES TRITHEMIUS
+  </text>
+  <!-- ornament -->
+  <g transform="translate(150, 40)" style="color:#c9a24a">
+    <g class="orn" fill="none" stroke="currentColor" stroke-width="0.9"><circle cx="0" cy="0" r="6.5"/><circle cx="0" cy="0" r="2.4" fill="currentColor" stroke="none"/><path d="M -13 0 L -7 0 M 13 0 L 7 0 M 0 -13 L 0 -7 M 0 13 L 0 7"/><path d="M -9.2 -9.2 L -5 -5 M 9.2 -9.2 L 5 -5 M -9.2 9.2 L -5 5 M 9.2 9.2 L 5 5" stroke-width="0.7"/></g>
+  </g>
+  <!-- title -->
+  <text x="50%" y="116" class="t" text-anchor="middle">A Compendium or Breviary of</text><text x="50%" y="168" class="t" text-anchor="middle">the First Volume of the</text><text x="50%" y="220" class="t" text-anchor="middle">Annals or Histories, on the</text><text x="50%" y="272" class="t" text-anchor="middle">Origin…</text><text x="50%" y="354" class="lat" text-anchor="middle">Compendium sive Breviarium primi voluminis Annalium sive Historiarum de origine regum et gentis Francorum</text>
+  <!-- footer: year + edition -->
+  <text x="50%" y="394" class="foot" text-anchor="middle" fill="#9a8456">
+    Printed 1515
+  </text>
+  <text x="50%" y="342" class="brand2" text-anchor="middle" fill="#6a5c3a">
+    TRITHEMIUS CORPUS
+  </text>
+  <style>
+    .t { font: 600 34px Georgia, "Iowan Old Style", "Palatino Linotype", serif; fill: #e8dcc0; letter-spacing: 0.01em; }
+    .lat { font: italic 15px Georgia, "Palatino Linotype", serif; fill: #9a8456; }
+    .foot { font: 500 15px Georgia, serif; letter-spacing: 0.06em; }
+    .brand, .brand2 { font: 600 13px Georgia, serif; letter-spacing: 0.22em; }
+  </style>
+</svg></div>      <div class="featured-content">
+        <p class="featured-head">
+          <a href="works/prdl-24360_compendium-breviarium-primi-voluminis-annalium-historiarum-origine-regum.html"><em>Compendium sive Breviarium primi voluminis Annalium sive Historiarum de origine regum et gentis Francorum</em></a>
+          <span class="muted">&mdash; A Compendium or Breviary of the First Volume of the Annals or Histories, on the Origin of the Kings and People of the Franks, 1515</span>
+<span class="badge first-en">first English</span>        </p>
+        <p class="featured-pitch">Compendium sive Breviarium primi voluminis Annalium sive Historiarum de origine regum et gentis Francorum — &#34;A Compendium of the First Volume of the Annals on the Origin of the Kings and People of the Franks&#34; — is Trithemius&#39;s condensed history of Frankish origins, dedicated to Lorenz von Bibra, Bishop of Würzburg. It is an abridgment of the larger annalistic project of his Würzburg years, and it shares the legendary-genealogical method characteristic of his historiography: a Trojan / Sicambrian descent for the Franks that later scholarship has treated with considerable caution. The compendium form makes it the most readable entry point into his Frankish history, set out year by year from the origins to the Carolingians.</p>
+      </div>
+    </li>
+    <li class="featured-item">
+<div class="featured-thumb-cover"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400"
+     role="img" aria-label="Cover: On the Origin, Progress, and Praises of the Order of Carmelite Brothers"
+     class="work-cover" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="cv-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1610"/>
+      <stop offset="1" stop-color="#120d08"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="400" fill="url(#cv-bg)"/>
+  <!-- double gilt rule frame -->
+  <rect x="22" y="22" width="256" height="356" fill="none"
+        stroke="#c9a24a" stroke-width="1.4" opacity="0.85"/>
+  <rect x="30" y="30" width="240" height="340" fill="none"
+        stroke="#c9a24a" stroke-width="0.6" opacity="0.6"/>
+  <!-- corner accents -->
+  <g fill="#c9a24a" opacity="0.7">
+    <circle cx="30" cy="30" r="2.4"/><circle cx="270" cy="30" r="2.4"/>
+    <circle cx="30" cy="370" r="2.4"/><circle cx="270" cy="370" r="2.4"/>
+  </g>
+  <!-- corpus attribution (top) -->
+  <text x="50%" y="78" class="brand" text-anchor="middle" fill="#8a7a4a">
+    JOHANNES TRITHEMIUS
+  </text>
+  <!-- ornament -->
+  <g transform="translate(150, 40)" style="color:#c9a24a">
+    <g class="orn" fill="none" stroke="currentColor" stroke-width="0.9"><circle cx="0" cy="0" r="6.5"/><circle cx="0" cy="0" r="2.4" fill="currentColor" stroke="none"/><path d="M -13 0 L -7 0 M 13 0 L 7 0 M 0 -13 L 0 -7 M 0 13 L 0 7"/><path d="M -9.2 -9.2 L -5 -5 M 9.2 -9.2 L 5 -5 M -9.2 9.2 L -5 5 M 9.2 9.2 L 5 5" stroke-width="0.7"/></g>
+  </g>
+  <!-- title -->
+  <text x="50%" y="116" class="t" text-anchor="middle">On the Origin,</text><text x="50%" y="168" class="t" text-anchor="middle">Progress, and Praises</text><text x="50%" y="220" class="t" text-anchor="middle">of the Order of</text><text x="50%" y="272" class="t" text-anchor="middle">Carmelite Brothers</text><text x="50%" y="354" class="lat" text-anchor="middle">De Origine, Progressu et Laudibus Ordinis Fratrum Carmelitarum</text>
+  <!-- footer: year + edition -->
+  <text x="50%" y="394" class="foot" text-anchor="middle" fill="#9a8456">
+    Mainz
+  </text>
+  <text x="50%" y="342" class="brand2" text-anchor="middle" fill="#6a5c3a">
+    TRITHEMIUS CORPUS
+  </text>
+  <style>
+    .t { font: 600 34px Georgia, "Iowan Old Style", "Palatino Linotype", serif; fill: #e8dcc0; letter-spacing: 0.01em; }
+    .lat { font: italic 15px Georgia, "Palatino Linotype", serif; fill: #9a8456; }
+    .foot { font: 500 15px Georgia, serif; letter-spacing: 0.06em; }
+    .brand, .brand2 { font: 600 13px Georgia, serif; letter-spacing: 0.22em; }
+  </style>
+</svg></div>      <div class="featured-content">
+        <p class="featured-head">
+          <a href="works/prdl-24363_de-laudibus-ordinis-fratrum-carmelitarum.html"><em>De Origine, Progressu et Laudibus Ordinis Fratrum Carmelitarum</em></a>
+          <span class="muted">&mdash; On the Origin, Progress, and Praises of the Order of Carmelite Brothers, 1494</span>
+<span class="badge first-en">first English</span>        </p>
+        <p class="featured-pitch">De Origine, Progressu et Laudibus Ordinis Fratrum Carmelitarum — &#34;On the Origin, Progress, and Praises of the Order of Carmelite Brothers&#34; — is Trithemius&#39;s defence of the Carmelite order, written in 1492. It rehearses the order&#39;s claimed descent from the prophet Elijah on Mount Carmel — a foundation legend the mendicant orders pressed hard in the fifteenth century against humanist and conciliar scepticism — and catalogues its worthies in the bio-bibliographical manner Trithemius would soon make his own in the De Scriptoribus Ecclesiasticis. It belongs to the hagiographic-defensive side of his early output, and shows the historian of orders already at work a decade before the great chronicles.</p>
+      </div>
+    </li>
+    <li class="featured-item">
+<div class="featured-thumb-cover"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400"
+     role="img" aria-label="Cover: In Praise of the Most Holy Mother Anne"
+     class="work-cover" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="cv-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1610"/>
+      <stop offset="1" stop-color="#120d08"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="400" fill="url(#cv-bg)"/>
+  <!-- double gilt rule frame -->
+  <rect x="22" y="22" width="256" height="356" fill="none"
+        stroke="#c9a24a" stroke-width="1.4" opacity="0.85"/>
+  <rect x="30" y="30" width="240" height="340" fill="none"
+        stroke="#c9a24a" stroke-width="0.6" opacity="0.6"/>
+  <!-- corner accents -->
+  <g fill="#c9a24a" opacity="0.7">
+    <circle cx="30" cy="30" r="2.4"/><circle cx="270" cy="30" r="2.4"/>
+    <circle cx="30" cy="370" r="2.4"/><circle cx="270" cy="370" r="2.4"/>
+  </g>
+  <!-- corpus attribution (top) -->
+  <text x="50%" y="78" class="brand" text-anchor="middle" fill="#8a7a4a">
+    JOHANNES TRITHEMIUS
+  </text>
+  <!-- ornament -->
+  <g transform="translate(150, 92)" style="color:#c9a24a">
+    <g class="orn" fill="none" stroke="currentColor" stroke-width="0.9"><circle cx="0" cy="0" r="6.5"/><circle cx="0" cy="0" r="2.4" fill="currentColor" stroke="none"/><path d="M -13 0 L -7 0 M 13 0 L 7 0 M 0 -13 L 0 -7 M 0 13 L 0 7"/><path d="M -9.2 -9.2 L -5 -5 M 9.2 -9.2 L 5 -5 M -9.2 9.2 L -5 5 M 9.2 9.2 L 5 5" stroke-width="0.7"/></g>
+  </g>
+  <!-- title -->
+  <text x="50%" y="168" class="t" text-anchor="middle">In Praise of the Most</text><text x="50%" y="220" class="t" text-anchor="middle">Holy Mother Anne</text><text x="50%" y="302" class="lat" text-anchor="middle">De Laudibus Sanctissimae Matris Annae</text>
+  <!-- footer: year + edition -->
+  <text x="50%" y="342" class="foot" text-anchor="middle" fill="#9a8456">
+    Mainz, 1494
+  </text>
+  <text x="50%" y="342" class="brand2" text-anchor="middle" fill="#6a5c3a">
+    TRITHEMIUS CORPUS
+  </text>
+  <style>
+    .t { font: 600 34px Georgia, "Iowan Old Style", "Palatino Linotype", serif; fill: #e8dcc0; letter-spacing: 0.01em; }
+    .lat { font: italic 15px Georgia, "Palatino Linotype", serif; fill: #9a8456; }
+    .foot { font: 500 15px Georgia, serif; letter-spacing: 0.06em; }
+    .brand, .brand2 { font: 600 13px Georgia, serif; letter-spacing: 0.22em; }
+  </style>
+</svg></div>      <div class="featured-content">
+        <p class="featured-head">
+          <a href="works/prdl-24364_de-laudibus-sanctissimae-matris-annae.html"><em>De Laudibus Sanctissimae Matris Annae</em></a>
+          <span class="muted">&mdash; In Praise of the Most Holy Mother Anne, 1494</span>
+<span class="badge first-en">first English</span>        </p>
+        <p class="featured-pitch">De Laudibus Sanctissimae Matris Annae — &#34;In Praise of the Most Holy Mother Anne&#34; — is Trithemius&#39;s treatise honouring St Anne, the mother of the Virgin Mary and a focus of intense late-medieval devotion. He wrote it at Sponheim with a dedicatory letter to Rumold Laupach dated 1 July 1494, and it appeared with a cluster of commendatory poems on the Holy Kindred — the extended family of Christ that Anne, thrice-married in the apocryphal tradition, was held to have matriarched. It is a characteristic piece of his early Sponheim Marian-hagiographic output, leaning on the legendary material the Reformation would soon sweep away.</p>
+      </div>
+    </li>
+    <li class="featured-item">
+<div class="featured-thumb-cover"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400"
+     role="img" aria-label="Cover: On the Threefold Region of Cloister-dwellers and the Spiritual Exercise of Monks"
+     class="work-cover" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="cv-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1610"/>
+      <stop offset="1" stop-color="#120d08"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="400" fill="url(#cv-bg)"/>
+  <!-- double gilt rule frame -->
+  <rect x="22" y="22" width="256" height="356" fill="none"
+        stroke="#c9a24a" stroke-width="1.4" opacity="0.85"/>
+  <rect x="30" y="30" width="240" height="340" fill="none"
+        stroke="#c9a24a" stroke-width="0.6" opacity="0.6"/>
+  <!-- corner accents -->
+  <g fill="#c9a24a" opacity="0.7">
+    <circle cx="30" cy="30" r="2.4"/><circle cx="270" cy="30" r="2.4"/>
+    <circle cx="30" cy="370" r="2.4"/><circle cx="270" cy="370" r="2.4"/>
+  </g>
+  <!-- corpus attribution (top) -->
+  <text x="50%" y="78" class="brand" text-anchor="middle" fill="#8a7a4a">
+    JOHANNES TRITHEMIUS
+  </text>
+  <!-- ornament -->
+  <g transform="translate(150, 66)" style="color:#c9a24a">
+    <g class="orn" fill="none" stroke="currentColor" stroke-width="0.9"><circle cx="0" cy="0" r="6.5"/><circle cx="0" cy="0" r="2.4" fill="currentColor" stroke="none"/><path d="M -13 0 L -7 0 M 13 0 L 7 0 M 0 -13 L 0 -7 M 0 13 L 0 7"/><path d="M -9.2 -9.2 L -5 -5 M 9.2 -9.2 L 5 -5 M -9.2 9.2 L -5 5 M 9.2 9.2 L 5 5" stroke-width="0.7"/></g>
+  </g>
+  <!-- title -->
+  <text x="50%" y="142" class="t" text-anchor="middle">On the Threefold Region of</text><text x="50%" y="194" class="t" text-anchor="middle">Cloister-dwellers and the</text><text x="50%" y="246" class="t" text-anchor="middle">Spiritual Exercise of Monks</text><text x="50%" y="328" class="lat" text-anchor="middle">Liber de Triplici Regione Claustralium et Spirituali Exercitio Monachorum</text>
+  <!-- footer: year + edition -->
+  <text x="50%" y="368" class="foot" text-anchor="middle" fill="#9a8456">
+    nobili vrbe Maguntina, 1498
+  </text>
+  <text x="50%" y="342" class="brand2" text-anchor="middle" fill="#6a5c3a">
+    TRITHEMIUS CORPUS
+  </text>
+  <style>
+    .t { font: 600 34px Georgia, "Iowan Old Style", "Palatino Linotype", serif; fill: #e8dcc0; letter-spacing: 0.01em; }
+    .lat { font: italic 15px Georgia, "Palatino Linotype", serif; fill: #9a8456; }
+    .foot { font: 500 15px Georgia, serif; letter-spacing: 0.06em; }
+    .brand, .brand2 { font: 600 13px Georgia, serif; letter-spacing: 0.22em; }
+  </style>
+</svg></div>      <div class="featured-content">
+        <p class="featured-head">
+          <a href="works/prdl-24385_liber-de-triplici-regione-claustralium-et.html"><em>Liber de Triplici Regione Claustralium et Spirituali Exercitio Monachorum</em></a>
+          <span class="muted">&mdash; On the Threefold Region of Cloister-dwellers and the Spiritual Exercise of Monks, 1498</span>
+<span class="badge first-en">first English</span>        </p>
+        <p class="featured-pitch">Liber de Triplici Regione Claustralium et Spirituali Exercitio Monachorum — &#34;On the Threefold Region of Cloister-dwellers and the Spiritual Exercise of Monks&#34; — is Trithemius&#39;s ascetic guide to the monastic life, mapping the monk&#39;s progress through three &#34;regions&#34; or stages of interior discipline: purification for beginners, illumination for the proficient, and union with God for the perfect — a scheme drawn from Pseudo-Dionysius and the Victorines and adapted to Benedictine observance. He completed it in manuscript in 1497; it is one of the central texts of his Sponheim reform programme, alongside the Sermones ad Monachos and De Statu et Ruina Monastici Ordinis.</p>
+      </div>
+    </li>
+    <li class="featured-item">
+<div class="featured-thumb-cover"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400"
+     role="img" aria-label="Cover: On the Institution of the Priestly Life"
+     class="work-cover" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="cv-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1610"/>
+      <stop offset="1" stop-color="#120d08"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="400" fill="url(#cv-bg)"/>
+  <!-- double gilt rule frame -->
+  <rect x="22" y="22" width="256" height="356" fill="none"
+        stroke="#c9a24a" stroke-width="1.4" opacity="0.85"/>
+  <rect x="30" y="30" width="240" height="340" fill="none"
+        stroke="#c9a24a" stroke-width="0.6" opacity="0.6"/>
+  <!-- corner accents -->
+  <g fill="#c9a24a" opacity="0.7">
+    <circle cx="30" cy="30" r="2.4"/><circle cx="270" cy="30" r="2.4"/>
+    <circle cx="30" cy="370" r="2.4"/><circle cx="270" cy="370" r="2.4"/>
+  </g>
+  <!-- corpus attribution (top) -->
+  <text x="50%" y="78" class="brand" text-anchor="middle" fill="#8a7a4a">
+    JOHANNES TRITHEMIUS
+  </text>
+  <!-- ornament -->
+  <g transform="translate(150, 92)" style="color:#c9a24a">
+    <g class="orn" fill="none" stroke="currentColor" stroke-width="0.9"><circle cx="0" cy="0" r="6.5"/><circle cx="0" cy="0" r="2.4" fill="currentColor" stroke="none"/><path d="M -13 0 L -7 0 M 13 0 L 7 0 M 0 -13 L 0 -7 M 0 13 L 0 7"/><path d="M -9.2 -9.2 L -5 -5 M 9.2 -9.2 L 5 -5 M -9.2 9.2 L -5 5 M 9.2 9.2 L 5 5" stroke-width="0.7"/></g>
+  </g>
+  <!-- title -->
+  <text x="50%" y="168" class="t" text-anchor="middle">On the Institution of</text><text x="50%" y="220" class="t" text-anchor="middle">the Priestly Life</text><text x="50%" y="302" class="lat" text-anchor="middle">Institutio Vitae Sacerdotalis</text>
+  <!-- footer: year + edition -->
+  <text x="50%" y="342" class="foot" text-anchor="middle" fill="#9a8456">
+    Printed 1494
+  </text>
+  <text x="50%" y="342" class="brand2" text-anchor="middle" fill="#6a5c3a">
+    TRITHEMIUS CORPUS
+  </text>
+  <style>
+    .t { font: 600 34px Georgia, "Iowan Old Style", "Palatino Linotype", serif; fill: #e8dcc0; letter-spacing: 0.01em; }
+    .lat { font: italic 15px Georgia, "Palatino Linotype", serif; fill: #9a8456; }
+    .foot { font: 500 15px Georgia, serif; letter-spacing: 0.06em; }
+    .brand, .brand2 { font: 600 13px Georgia, serif; letter-spacing: 0.22em; }
+  </style>
+</svg></div>      <div class="featured-content">
+        <p class="featured-head">
+          <a href="works/prdl-24378_institutio-vitae-sacerdotalis.html"><em>Institutio Vitae Sacerdotalis (Mainz, 1499)</em></a>
+          <span class="muted">&mdash; On the Institution of the Priestly Life (Mainz, 1499), 1494</span>
+<span class="badge first-en">first English</span>        </p>
+        <p class="featured-pitch">Institutio Vitae Sacerdotalis — &#34;The Formation of the Priestly Life&#34; — is Trithemius&#39;s treatise on the discipline, study, and conduct proper to priests. It is part of the clerical-formation strand of his work — alongside De Cura Pastorali and De Sacerdotum Vita Instituenda — that runs parallel to the Benedictine reform writings. Its concern is the secular and regular clergy&#39;s interior and moral preparation rather than monastic observance as such: how a priest is to live, read, pray, and conduct himself in office.</p>
+      </div>
+    </li>
+    <li class="featured-item">
+<div class="featured-thumb-cover"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400"
+     role="img" aria-label="Cover: Admonitions and Exhortations to Monks"
+     class="work-cover" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="cv-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1610"/>
+      <stop offset="1" stop-color="#120d08"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="400" fill="url(#cv-bg)"/>
+  <!-- double gilt rule frame -->
+  <rect x="22" y="22" width="256" height="356" fill="none"
+        stroke="#c9a24a" stroke-width="1.4" opacity="0.85"/>
+  <rect x="30" y="30" width="240" height="340" fill="none"
+        stroke="#c9a24a" stroke-width="0.6" opacity="0.6"/>
+  <!-- corner accents -->
+  <g fill="#c9a24a" opacity="0.7">
+    <circle cx="30" cy="30" r="2.4"/><circle cx="270" cy="30" r="2.4"/>
+    <circle cx="30" cy="370" r="2.4"/><circle cx="270" cy="370" r="2.4"/>
+  </g>
+  <!-- corpus attribution (top) -->
+  <text x="50%" y="78" class="brand" text-anchor="middle" fill="#8a7a4a">
+    JOHANNES TRITHEMIUS
+  </text>
+  <!-- ornament -->
+  <g transform="translate(150, 92)" style="color:#c9a24a">
+    <g class="orn" fill="none" stroke="currentColor" stroke-width="0.9"><circle cx="0" cy="0" r="6.5"/><circle cx="0" cy="0" r="2.4" fill="currentColor" stroke="none"/><path d="M -13 0 L -7 0 M 13 0 L 7 0 M 0 -13 L 0 -7 M 0 13 L 0 7"/><path d="M -9.2 -9.2 L -5 -5 M 9.2 -9.2 L 5 -5 M -9.2 9.2 L -5 5 M 9.2 9.2 L 5 5" stroke-width="0.7"/></g>
+  </g>
+  <!-- title -->
+  <text x="50%" y="168" class="t" text-anchor="middle">Admonitions and</text><text x="50%" y="220" class="t" text-anchor="middle">Exhortations to Monks</text><text x="50%" y="302" class="lat" text-anchor="middle">Admonitiones / Exhortationes ad Monachos</text>
+  <!-- footer: year + edition -->
+  <text x="50%" y="342" class="foot" text-anchor="middle" fill="#9a8456">
+    Romae : Typis Vaticanis, 1898
+  </text>
+  <text x="50%" y="342" class="brand2" text-anchor="middle" fill="#6a5c3a">
+    TRITHEMIUS CORPUS
+  </text>
+  <style>
+    .t { font: 600 34px Georgia, "Iowan Old Style", "Palatino Linotype", serif; fill: #e8dcc0; letter-spacing: 0.01em; }
+    .lat { font: italic 15px Georgia, "Palatino Linotype", serif; fill: #9a8456; }
+    .foot { font: 500 15px Georgia, serif; letter-spacing: 0.06em; }
+    .brand, .brand2 { font: 600 13px Georgia, serif; letter-spacing: 0.22em; }
+  </style>
+</svg></div>      <div class="featured-content">
+        <p class="featured-head">
+          <a href="works/prdl-24380_admonitiones-exhortationes-monachos.html"><em>Admonitiones / Exhortationes ad Monachos</em></a>
+          <span class="muted">&mdash; Admonitions and Exhortations to Monks (later collected reprint), original date uncertain</span>
+<span class="badge first-en">first English</span>        </p>
+        <p class="featured-pitch">Admonitiones / Exhortationes ad Monachos — &#34;Admonitions and Exhortations to Monks&#34; — gathers Trithemius&#39;s monastic-reform addresses: calls to stricter observance of the Benedictine Rule, to the interior life of the cloister, and to the duties of the professed monk. They belong to the reforming side of his abbacy — of a piece with the Sermones et Exhortationes ad Monachos and De Triplici Regione Claustralium — and they show the abbot as pastor rather than polymath, urging his monks toward the discipline that his historical and cryptographic works were sometimes thought to have distracted him from.</p>
+      </div>
+    </li>
+    <li class="featured-item">
+<div class="featured-thumb-cover"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400"
+     role="img" aria-label="Cover: A Book of Eight Questions to Emperor Maximilian"
+     class="work-cover" preserveAspectRatio="xMidYMid meet">
+  <defs>
+    <linearGradient id="cv-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1c1610"/>
+      <stop offset="1" stop-color="#120d08"/>
+    </linearGradient>
+  </defs>
+  <rect width="300" height="400" fill="url(#cv-bg)"/>
+  <!-- double gilt rule frame -->
+  <rect x="22" y="22" width="256" height="356" fill="none"
+        stroke="#c9a24a" stroke-width="1.4" opacity="0.85"/>
+  <rect x="30" y="30" width="240" height="340" fill="none"
+        stroke="#c9a24a" stroke-width="0.6" opacity="0.6"/>
+  <!-- corner accents -->
+  <g fill="#c9a24a" opacity="0.7">
+    <circle cx="30" cy="30" r="2.4"/><circle cx="270" cy="30" r="2.4"/>
+    <circle cx="30" cy="370" r="2.4"/><circle cx="270" cy="370" r="2.4"/>
+  </g>
+  <!-- corpus attribution (top) -->
+  <text x="50%" y="78" class="brand" text-anchor="middle" fill="#8a7a4a">
+    JOHANNES TRITHEMIUS
+  </text>
+  <!-- ornament -->
+  <g transform="translate(150, 66)" style="color:#c9a24a">
+    <g class="orn" fill="none" stroke="currentColor" stroke-width="0.9"><circle cx="0" cy="0" r="6.5"/><circle cx="0" cy="0" r="2.4" fill="currentColor" stroke="none"/><path d="M -13 0 L -7 0 M 13 0 L 7 0 M 0 -13 L 0 -7 M 0 13 L 0 7"/><path d="M -9.2 -9.2 L -5 -5 M 9.2 -9.2 L 5 -5 M -9.2 9.2 L -5 5 M 9.2 9.2 L 5 5" stroke-width="0.7"/></g>
+  </g>
+  <!-- title -->
+  <text x="50%" y="142" class="t" text-anchor="middle">A Book of Eight</text><text x="50%" y="194" class="t" text-anchor="middle">Questions to Emperor</text><text x="50%" y="246" class="t" text-anchor="middle">Maximilian</text><text x="50%" y="328" class="lat" text-anchor="middle">Liber Octo Quaestionum ad Maximilianum Caesarem</text>
+  <!-- footer: year + edition -->
+  <text x="50%" y="368" class="foot" text-anchor="middle" fill="#9a8456">
+    Oppenheym, 1515
+  </text>
+  <text x="50%" y="342" class="brand2" text-anchor="middle" fill="#6a5c3a">
+    TRITHEMIUS CORPUS
+  </text>
+  <style>
+    .t { font: 600 34px Georgia, "Iowan Old Style", "Palatino Linotype", serif; fill: #e8dcc0; letter-spacing: 0.01em; }
+    .lat { font: italic 15px Georgia, "Palatino Linotype", serif; fill: #9a8456; }
+    .foot { font: 500 15px Georgia, serif; letter-spacing: 0.06em; }
+    .brand, .brand2 { font: 600 13px Georgia, serif; letter-spacing: 0.22em; }
+  </style>
+</svg></div>      <div class="featured-content">
+        <p class="featured-head">
+          <a href="works/prdl-24382_octo-quaestionum-maximilianum-caesarem.html"><em>Liber Octo Quaestionum ad Maximilianum Caesarem</em></a>
+          <span class="muted">&mdash; A Book of Eight Questions to Emperor Maximilian, 1515</span>
+<span class="badge first-en">first English</span>        </p>
+        <p class="featured-pitch">Liber Octo Quaestionum ad Maximilianum Caesarem — &#34;A Book of Eight Questions to Emperor Maximilian&#34; — is Trithemius&#39;s reply to the eight questions Maximilian put to him at Boppard: on faith and understanding, on the faith necessary for salvation, on the miracles of unbelievers, on witches and harmful magic, and on related matters. Composed in 1508, it is his central statement on witchcraft and the source from which later demonological writers drew heavily. The questions are set out in an enumerated table and answered in sequence, in the blend of scholastic authority and pastoral caution that marks his shorter treatises.</p>
+      </div>
+    </li>
+  </ul>
+</section>
+
+<p class="fleuron" aria-hidden="true">&#10086;</p>
+
+<section class="genre-overview">
+  <h3>The corpus by genre</h3>
+  <ul class="genre-cards">
+    <li>
+      <a class="genre-card-link" href="genres/crypto-occult.html"><strong>Cryptography &amp; the Occult</strong></a>
+      <span class="muted genre-count">6 texts</span>
+      <p class="muted genre-blurb">Cryptographic, hermetic, demonological, and angelological works. Includes the Polygraphia treatises, the Clavis works, the Sigilla, and the Liber Octo Quaestionum (responses to Maximilian on witchcraft).</p>
+    </li>
+    <li>
+      <a class="genre-card-link" href="genres/monastic-reform.html"><strong>Monastic Reform</strong></a>
+      <span class="muted genre-count">8 texts</span>
+      <p class="muted genre-blurb">Works on monastic observance, the state of the orders, claustral life, exhortations to monks, and chapter resolutions. Includes De Laude Scriptorum Manualium (manuscript culture is a monastic register).</p>
+    </li>
+    <li>
+      <a class="genre-card-link" href="genres/marian-hagiographic.html"><strong>Marian &amp; Hagiographic</strong></a>
+      <span class="muted genre-count">3 texts</span>
+      <p class="muted genre-blurb">Marian devotion (especially the Anne / immaculate-conception tradition), Carmelite hagiography.</p>
+    </li>
+    <li>
+      <a class="genre-card-link" href="genres/bibliographic.html"><strong>Bibliography &amp; History</strong></a>
+      <span class="muted genre-count">4 texts</span>
+      <p class="muted genre-blurb">Catalog and biographical works — De Scriptoribus Ecclesiasticis and the Spanheim/Würzburg collected-works compilations and chronicles.</p>
+    </li>
+    <li>
+      <a class="genre-card-link" href="genres/sacerdotal.html"><strong>The Priestly Life</strong></a>
+      <span class="muted genre-count">3 texts</span>
+      <p class="muted genre-blurb">Pastoral and priestly works — pastoral care, the formation of priests, the priestly vocation.</p>
+    </li>
+    <li>
+      <a class="genre-card-link" href="genres/devotional.html"><strong>Devotional</strong></a>
+      <span class="muted genre-count">3 texts</span>
+      <p class="muted genre-blurb">Contemplative and ascetic works — divine love, the vanity of human life, conversion of the mind to God.</p>
+    </li>
+    <li>
+      <a class="genre-card-link" href="genres/apologetic.html"><strong>Apologetic</strong></a>
+      <span class="muted genre-count">1 text</span>
+      <p class="muted genre-blurb">Self-defense / apologetic works (one work: Sui Ipsius Vindex).</p>
+    </li>
+    <li>
+      <a class="genre-card-link" href="genres/verse.html"><strong>Verse</strong></a>
+      <span class="muted genre-count">1 text</span>
+      <p class="muted genre-blurb">Occasional Latin verse (one work: the bald-men ecloga to Maximilian).</p>
+    </li>
+  </ul>
+</section>
+
+<section class="honesty-note">
+  <p class="muted">
+    Every translation here is machine-produced and was independently audited,
+    chunk by chunk, against the Latin &mdash; the per-edition grades are on the
+    <a href="scoreboard.html">quality page</a> and the method is documented in the
+    <a href="methodology.html">methodology</a>. The grades triage, they do not certify:
+    for any passage you intend to quote, <a href="methodology.html#12-what-this-corpus-is-good-for-and-what-it-is-not">check the Latin</a>.
+  </p>
+</section>
+
+<script src="static/reader.js"></script>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-cols">
+      <div>
+        <h4>Browse</h4>
+        <a href="works.html">The works</a>
+        <a href="works-trithemius-4b.html">Trithemius 4B editions</a>
+        <a href="ciphers.html">The ciphers</a>
+        <a href="scoreboard.html">Quality tiers</a>
+      </div>
+      <div>
+        <h4>About</h4>
+        <a href="methodology.html">Methodology &amp; limitations</a>
+        <a href="LICENSE.html">License &amp; rights</a>
+      </div>
+      <div>
+        <h4>Project</h4>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus">Source on GitHub</a>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/blob/main/CONTRIBUTING.md">Contribute corrections</a>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/blob/main/CITATION.cff">How to cite</a>
+      </div>
+    </div>
+    <p class="footer-byline muted">
+      Machine-assisted English translations of the Latin works of Johannes Trithemius (1462&ndash;1516).
+      Every translation is machine-produced and independently audited; for scholarly quotation, check the Latin.
+      Translations &amp; generated data: public domain (CC0). Methodology, docs &amp; code: CC BY 4.0. Compiled 2026 by Ian Carlos Fabin.
+    </p>
+  </div>
+</footer>
+<script>
+  // Mobile nav toggle — collapses the site-nav into a hamburger menu on
+  // narrow viewports. ARIA-expanded reflects state; clicking a link or
+  // outside closes it.
+  (function () {
+    var toggle = document.querySelector('.nav-toggle');
+    var nav = document.getElementById('siteNav');
+    if (!toggle || !nav) return;
+    function setOpen(open) {
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+      nav.classList.toggle('is-open', open);
+    }
+    toggle.addEventListener('click', function () {
+      setOpen(toggle.getAttribute('aria-expanded') !== 'true');
+    });
+    // close on link click (mobile) and on Escape
+    nav.addEventListener('click', function (e) { if (e.target.tagName === 'A') setOpen(false); });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && toggle.getAttribute('aria-expanded') === 'true') setOpen(false);
+    });
+    // reset on resize back to desktop
+    window.addEventListener('resize', function () {
+      if (window.innerWidth > 760) setOpen(false);
+    });
+  })();
+
+  // Theme switcher — persists choice in localStorage under 'tc-theme'.
+  // Theme switcher — steganographia (default dark), parchment (light), ink
+  // (high-contrast), candlelight (warm dark), and auto (follow OS preference).
+  (function () {
+    var root = document.documentElement;
+    function resolveAuto() {
+      try {
+        return window.matchMedia &&
+               window.matchMedia('(prefers-color-scheme: light)').matches
+               ? 'parchment' : 'steganographia';
+      } catch (e) { return 'steganographia'; }
+    }
+    function applyTheme(t) {
+      // track the chosen theme (incl. auto) on data-tc-theme; paint the
+      // concrete theme on data-theme.
+      if (t === 'auto') {
+        root.setAttribute('data-tc-theme', 'auto');
+        var r = resolveAuto();
+        if (r === 'steganographia') root.removeAttribute('data-theme');
+        else root.setAttribute('data-theme', r);
+      } else {
+        root.removeAttribute('data-tc-theme');
+        if (t === 'steganographia') root.removeAttribute('data-theme');
+        else root.setAttribute('data-theme', t);
+      }
+    }
+    var current = 'steganographia';
+    try { current = localStorage.getItem('tc-theme') || 'steganographia'; } catch (e) {}
+    applyTheme(current);
+    // if OS preference changes while 'auto' is selected, re-resolve live
+    try {
+      window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', function () {
+        if ((localStorage.getItem('tc-theme') || '') === 'auto') applyTheme('auto');
+      });
+    } catch (e) {}
+    document.querySelectorAll('.theme-switcher button[data-set]').forEach(function (btn) {
+      var pressed = btn.getAttribute('data-set') === current;
+      btn.setAttribute('aria-pressed', pressed ? 'true' : 'false');
+      btn.addEventListener('click', function () {
+        var t = btn.getAttribute('data-set');
+        try { localStorage.setItem('tc-theme', t); } catch (e) {}
+        applyTheme(t);
+        document.querySelectorAll('.theme-switcher button[data-set]').forEach(function (b) {
+          b.setAttribute('aria-pressed', b.getAttribute('data-set') === t ? 'true' : 'false');
+        });
+      });
+    });
+  })();
+  // Reading progress bar (overall page scroll) + percentage indicator
+  (function(){
+    var bar=document.getElementById('readProgress');
+    var pct=document.getElementById('readProgressPct');
+    if(!bar)return;
+    var ticking=false;
+    function onScroll(){
+      if(ticking)return; ticking=true;
+      requestAnimationFrame(function(){
+        var h=document.documentElement.scrollHeight-window.innerHeight;
+        var p=h>0?Math.min(1,window.scrollY/h):0;
+        bar.style.transform='scaleX('+p.toFixed(3)+')';
+        bar.classList.toggle('is-active', p>0.02);
+        if(pct){
+          var n=Math.round(p*100);
+          pct.textContent=n<1?'':n+'%';
+          pct.setAttribute('aria-hidden', (n<3).toString());
+        }
+        ticking=false;
+      });
+    }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    onScroll();
+  })();
+  // Random work button — uses the work-ID list baked in at build time (no
+  // fetch() needed, so it works on file://, HTTP, and GitHub Pages).
+  (function(){
+    var btn=document.getElementById('randomWorkBtn');
+    if(!btn)return;
+    var workIds=window.TC_WORK_IDS||[];
+    btn.addEventListener('click',function(e){
+      e.preventDefault();
+      if(!workIds.length){
+        // graceful fallback: go to the works listing
+        window.location.href=btn.href;
+        return;
+      }
+      var pick=workIds[Math.floor(Math.random()*workIds.length)];
+      // resolve relative to this page (works/<id>.html)
+      var base=btn.href.replace(/works\.html.*$/,'');
+      window.location.href=base+'works/'+pick+'.html';
+    });
+  })();
+  // Cipher substitution tables: tag each .table-scroll that overflows
+  // horizontally so the CSS right-edge scroll affordance (the ::after fade)
+  // only appears when there is actually more to scroll sideways.
+  (function () {
+    function tagScroll() {
+      document.querySelectorAll('.table-scroll').forEach(function (ts) {
+        if (ts.scrollWidth > ts.clientWidth + 2) ts.classList.add('scrollable-x');
+        else ts.classList.remove('scrollable-x');
+      });
+    }
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(tagScroll);
+    window.addEventListener('load', tagScroll);
+    var t; window.addEventListener('resize', function () { clearTimeout(t); t = setTimeout(tagScroll, 150); });
+  })();
+</script>
+</body>
+</html>

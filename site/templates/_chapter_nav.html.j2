@@ -1,0 +1,237 @@
+{# Chapter navigation v4: fixed floating panel, always visible.
+   - position:fixed (bottom-left corner) — never scrolls away, no parent-context issues
+   - Native hash links for navigation (browser handles scroll + scroll-margin-top)
+   - IntersectionObserver for display-only position tracking (never scrolls)
+   - Collapsible: click the chapter title to expand the full list
+   `chapter_anchor` = "ch" (work page) or "seg" (parallel page). #}
+{% if chapters and chapters.entries and chapters.entries|length > 1 %}
+<aside class="chnav" data-anchor="{{ chapter_anchor|default('ch') }}"
+       data-total="{{ chapters.entries|length }}"
+       data-source="{{ chapters.source }}">
+  <div class="chnav-head">
+    <button class="chnav-toggle" type="button" aria-expanded="false" title="Show all {{ chapters.entries|length }} chapters">
+      <span class="chnav-pos">1/{{ chapters.entries|length }}</span>
+      <span class="chnav-title">{{ chapters.entries[0].label }}</span>
+      <span class="chnav-hint">{{ chapters.entries|length }} chapters</span>
+      <span class="chnav-caret" aria-hidden="true">&#9650;</span>
+    </button>
+  </div>
+  <div class="chnav-bar-track"><div class="chnav-bar-fill"></div></div>
+  <ol class="chnav-list">
+    {% for c in chapters.entries %}
+    <li><a href="#{{ chapter_anchor|default('ch') }}-{{ c.n }}"
+           class="chnav-link"
+           data-idx="{{ loop.index0 }}"
+           data-seg="{{ c.n }}"
+           title="{{ c.label }}">{{ loop.index }}. {{ c.label }}</a></li>
+    {% endfor %}
+  </ol>
+  <div class="chnav-arrows">
+    <a class="chnav-prev" href="#" title="Previous">&#8249; Prev</a>
+    <a class="chnav-next" href="#" title="Next">Next &#8250;</a>
+  </div>
+</aside>
+
+<style>
+/* Fixed floating chapter panel — bottom-left corner, always visible */
+.chnav{
+  position:fixed;bottom:1rem;left:1rem;z-index:100;
+  width:13rem;max-width:calc(100vw - 2rem);
+  background:var(--paper,#f4ecd8);
+  border:1px solid var(--gilt-deep,#c9b896);
+  border-radius:8px;
+  box-shadow:0 4px 18px rgba(0,0,0,.18);
+  font-family:inherit;
+  display:flex;flex-direction:column;
+  max-height:58vh;
+  opacity:.92;
+  transition:opacity .2s;
+}
+.chnav:hover{opacity:1}
+
+/* Header: position + title + caret */
+.chnav-head{padding:.35rem .45rem 0}
+.chnav-toggle{
+  width:100%;border:none;background:transparent;cursor:pointer;
+  display:flex;align-items:center;gap:.4rem;
+  font:inherit;text-align:left;padding:.2rem 0;
+  color:var(--ink,#2a2420);
+}
+.chnav-pos{
+  font-size:.72rem;font-weight:700;color:var(--vermilion,#7a1f1f);
+  background:rgba(122,31,31,.08);padding:.05rem .35rem;border-radius:3px;
+  white-space:nowrap;flex-shrink:0;
+}
+.chnav-title{
+  flex:1;font-size:.76rem;font-weight:500;
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
+}
+/* discoverability hint: "N chapters" — visible when collapsed, fades on open */
+.chnav-hint{
+  font-size:.6rem;font-weight:600;letter-spacing:.03em;
+  color:var(--gilt,#b89b5e);background:rgba(201,162,74,.12);
+  padding:.04rem .32rem;border-radius:3px;white-space:nowrap;flex-shrink:0;
+  opacity:.9;transition:opacity .2s;
+}
+.chnav.is-open .chnav-hint{opacity:0;width:0;padding:0;overflow:hidden}
+/* caret animates so the toggle reads as expandable */
+.chnav-caret{font-size:.6rem;color:var(--ink-muted,#6a5f54);transition:transform .25s ease}
+.chnav:not(.is-open) .chnav-caret{animation:chnavNudge 2.4s ease-in-out infinite}
+.chnav.is-open .chnav-caret{transform:rotate(180deg)}
+@keyframes chnavNudge{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px)}}
+@media (prefers-reduced-motion: reduce){
+  .chnav:not(.is-open) .chnav-caret{animation:none}
+}
+
+/* Progress bar */
+.chnav-bar-track{height:2px;margin:.35rem .6rem 0;background:var(--gilt-deep,#e0d5bc);border-radius:1px;overflow:hidden}
+.chnav-bar-fill{height:100%;width:0;background:var(--vermilion,#7a1f1f);transition:width .2s;opacity:.7}
+
+/* Chapter list (collapsible) */
+.chnav-list{
+  list-style:none;margin:0;padding:0;
+  overflow-y:auto;flex:1;
+  display:none;  /* hidden by default */
+}
+.chnav.is-open .chnav-list{display:block}
+.chnav-link{
+  display:block;padding:.24rem .5rem;
+  font-size:.74rem;line-height:1.2;
+  color:var(--ink,#2a2420);text-decoration:none;
+  border-left:3px solid transparent;
+  transition:background .1s,border-color .1s;
+}
+.chnav-link:hover{background:var(--gilt-deep,#e8dcc0)}
+.chnav-link.is-active{
+  background:rgba(122,31,31,.06);
+  border-left-color:var(--vermilion,#7a1f1f);
+  font-weight:600;
+}
+
+/* Prev/next arrows */
+.chnav-arrows{
+  display:flex;justify-content:space-between;
+  padding:.35rem .6rem;border-top:1px solid var(--gilt-deep,#e0d5bc);
+}
+.chnav-prev,.chnav-next{
+  font-size:.78rem;color:var(--vermilion,#7a1f1f);text-decoration:none;
+  padding:.15rem .3rem;border-radius:3px;
+}
+.chnav-prev:hover,.chnav-next:hover{background:rgba(122,31,31,.08)}
+.chnav-prev[style*="opacity:.3"],.chnav-next[style*="opacity:.3"]{pointer-events:none}
+
+/* Anchor targets clear the fixed site header by a small, tight margin so the
+   chapter begins just under the header — no overshoot into the next chapter. */
+[id^="ch-"],[id^="seg-"]{scroll-margin-top:5.5rem}
+
+/* On narrow screens, dock to bottom-full-width */
+@media (max-width:48rem){
+  .chnav{left:0;right:0;top:auto;bottom:0;width:auto;max-width:none;border-radius:8px 8px 0 0;max-height:40vh}
+  body:has(.chnav){padding-bottom:4.5rem}
+}
+</style>
+
+<script>
+(function(){
+  var panel = document.querySelector('.chnav');
+  if (!panel) return;
+  var anchor  = panel.dataset.anchor || 'ch';
+  var total   = parseInt(panel.dataset.total, 10);
+  var source  = panel.dataset.source;
+  var toggle  = panel.querySelector('.chnav-toggle');
+  var posEl   = panel.querySelector('.chnav-pos');
+  var titleEl = panel.querySelector('.chnav-title');
+  var barFill = panel.querySelector('.chnav-bar-fill');
+  var prev    = panel.querySelector('.chnav-prev');
+  var next    = panel.querySelector('.chnav-next');
+  var links   = Array.prototype.slice.call(panel.querySelectorAll('.chnav-link'));
+
+  // Build section lookup
+  var secs = [];
+  links.forEach(function(a){
+    var seg = a.dataset.seg;
+    var el = document.getElementById(anchor + '-' + seg) ||
+             document.querySelector('[data-seg="' + seg + '"]');
+    if (el) secs.push({ idx: parseInt(a.dataset.idx,10), el: el, label: a.title || a.textContent.trim(), seg: seg, link: a });
+  });
+  if (!secs.length) return;
+
+  var currentIdx = 0;
+
+  // ── Expand/collapse ──
+  toggle.addEventListener('click', function(){
+    panel.classList.toggle('is-open');
+    toggle.setAttribute('aria-expanded', panel.classList.contains('is-open'));
+  });
+
+  // ── Navigation: native hash change + explicit offset scroll ──
+  function goTo(idx){
+    if (idx < 0 || idx >= secs.length) return;
+    currentIdx = idx;
+    var target = document.getElementById(anchor + '-' + secs[idx].seg);
+    if (target) {
+      // Update the hash without the browser's default jump, then scroll so the
+      // target's TOP sits just below the fixed header — tight, no overshoot.
+      history.replaceState(null, '', '#' + anchor + '-' + secs[idx].seg);
+      var headerH = (document.querySelector('.site-header')||{}).offsetHeight || 86;
+      var y = target.getBoundingClientRect().top + window.scrollY - headerH - 8;
+      window.scrollTo({ top: y, behavior: 'smooth' });
+    } else {
+      location.hash = anchor + '-' + secs[idx].seg;
+    }
+    updateDisplay();
+    // collapse after picking
+    panel.classList.remove('is-open');
+    toggle.setAttribute('aria-expanded', 'false');
+  }
+  prev.addEventListener('click', function(e){ e.preventDefault(); goTo(currentIdx - 1); });
+  next.addEventListener('click', function(e){ e.preventDefault(); goTo(currentIdx + 1); });
+  links.forEach(function(a){
+    a.addEventListener('click', function(e){
+      e.preventDefault();
+      goTo(parseInt(a.dataset.idx, 10));
+    });
+  });
+
+  // ── Display update (position, title, bar, active link, prev/next) ──
+  function updateDisplay(){
+    var c = secs[currentIdx];
+    if (!c) return;
+    posEl.textContent = (currentIdx + 1) + '/' + total;
+    titleEl.textContent = c.label;
+    var pct = total > 1 ? (currentIdx / (total - 1)) * 100 : 0;
+    barFill.style.width = pct.toFixed(0) + '%';
+    links.forEach(function(l){ l.classList.toggle('is-active', parseInt(l.dataset.idx,10) === currentIdx); });
+    prev.style.opacity = currentIdx > 0 ? '' : '.3';
+    next.style.opacity = currentIdx < secs.length - 1 ? '' : '.3';
+  }
+
+  // ── Scroll-position tracking (display-only, never scrolls) ──
+  if ('IntersectionObserver' in window) {
+    var io = new IntersectionObserver(function(entries){
+      entries.forEach(function(entry){
+        if (entry.isIntersecting) {
+          for (var i = 0; i < secs.length; i++) {
+            if (secs[i].el === entry.target) {
+              currentIdx = i;
+              updateDisplay();
+              break;
+            }
+          }
+        }
+      });
+    }, { rootMargin: '-72px 0px -55% 0px', threshold: 0 });
+    secs.forEach(function(s){ io.observe(s.el); });
+  }
+
+  // ── Initial: respect URL hash if present ──
+  var h = location.hash;
+  if (h) {
+    for (var i = 0; i < secs.length; i++) {
+      if (h === '#' + anchor + '-' + secs[i].seg) { currentIdx = i; break; }
+    }
+  }
+  updateDisplay();
+})();
+</script>
+{% endif %}

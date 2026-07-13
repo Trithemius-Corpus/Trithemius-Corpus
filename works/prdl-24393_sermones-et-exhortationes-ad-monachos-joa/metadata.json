@@ -1,0 +1,48 @@
+{
+  "id": "prdl-24393_sermones-et-exhortationes-ad-monachos-joa",
+  "title": "Sermones et Exhortationes ad Monachos",
+  "year": "1516",
+  "source_year": "1516",
+  "year_note": null,
+  "edition_info": "Argentine, 1516 (BSB)",
+  "edition_info_raw": "( Argentine , 1516 ) BSB",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 161,
+  "genre_cluster": "monastic-reform",
+  "tier": "S",
+  "faithful_adj": 4.69,
+  "fluent_adj": 4.69,
+  "coverage_pct": 93.9,
+  "chunks_graded": 138,
+  "chunks_total": 147,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "minimax",
+    "minimax-v2",
+    "opus-sweep",
+    "public"
+  ],
+  "source": {
+    "provider": "BSB",
+    "url": "http://daten.digitale-sammlungen.de/bsb00015470/image_1",
+    "download_url": "http://download.digitale-sammlungen.de/BOOKS/pdf_download.pl?id=bsb00015470",
+    "prdl_id": "24393"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 147,
+    "n_missing_segments": 0,
+    "latin_source_file": "full.txt",
+    "latin_fallback_sources": {
+      "_full_preocr.txt": 1
+    },
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24393_sermones-et-exhortationes-ad-monachos-joa_parallel.html"
+  }
+}

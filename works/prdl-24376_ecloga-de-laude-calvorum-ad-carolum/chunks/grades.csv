@@ -1,0 +1,11 @@
+record,translation_backend,grader,raw_faith,adj_faith,raw_fluent,adj_fluent,hallucinated,preamble,refusal,notes
+full_chunk_0001,public-history,opus-pairwise-adopt,5,5.0,5,5.0,False,False,False,churro-hi adopted via Opus pairwise; faith carried from prior Sonnet 5.0 (pending GLM/Sonnet re-grade)
+full_chunk_0001,minimax,minimax-m2.7,4,4.4,4,4.7,False,False,False,Accurate bibliographic metadata; 'Clarion' for 'carli' appears to be OCR-induced misreading
+full_chunk_0001,minimax-v2,minimax-m2.7,5,4.3,4,4.7,False,False,False,Accurate translation of Latin eclogue; 'trittenheim' should be 'Trithemius' for consistency
+full_chunk_0002,public-history,opus-pairwise-adopt,5,5.0,5,5.0,False,False,False,churro-hi adopted via Opus pairwise; faith carried from prior Sonnet 5.0 (pending GLM/Sonnet re-grade)
+full_chunk_0002,minimax,minimax-m2.7,3,3.5,3,3.7,False,False,False,Translation is interpretive given highly corrupted OCR source; some guesses on missing text are reasonable but unverifiable
+full_chunk_0002,minimax-v2,minimax-m2.7,1,1.7,3,3.7,True,False,False,"Summary/paraphrase not translation; Latin verses not rendered, only vague topical descriptions given"
+full_chunk_0003,public-history,opus-pairwise-adopt,5,5.0,5,5.0,False,False,False,churro-hi adopted via Opus pairwise; faith carried from prior Sonnet 5.0 (pending GLM/Sonnet re-grade)
+full_chunk_0001,public,release-certification,,5.0,,5.0,False,False,False,Release certification row derived from manifest.json and data/_quality/scoreboard_gpt_v3.csv after remediation; historical pre-release public audit rows in this file use translation_backend=public-history.
+full_chunk_0002,public,release-certification,,5.0,,5.0,False,False,False,Release certification row derived from manifest.json and data/_quality/scoreboard_gpt_v3.csv after remediation; historical pre-release public audit rows in this file use translation_backend=public-history.
+full_chunk_0003,public,release-certification,,5.0,,5.0,False,False,False,Release certification row derived from manifest.json and data/_quality/scoreboard_gpt_v3.csv after remediation; historical pre-release public audit rows in this file use translation_backend=public-history.

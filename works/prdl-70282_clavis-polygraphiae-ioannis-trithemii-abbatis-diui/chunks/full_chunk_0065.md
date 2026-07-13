@@ -1,0 +1,1 @@
+a us b evils c sin d sins e malice f evil deeds g evil deed h evil deeds i danger k dangers l perdition m guilt n diseases o death p guilt q vices r vice s fault t faults u offense x crime z curse 2v curses d ij Amen

@@ -1,0 +1,13 @@
+[unclear] a heart of flesh and contrition, that it may fear you, love you, cherish you above all things, delight in you alone, follow you, and enjoy you forever.
+
+O most merciful Lord Jesus, I beg you by the most holy mystery of your body and blood, by which in your holy church we are daily fed and given drink, washed and sanctified, and made sharers in your one supreme divinity: grant me your holy virtues, adorned with which I may be able to approach your altar with a good conscience, so that these heavenly sacraments may become salvation and life for me. For you said with your holy and most blessed mouth: The bread that I shall give is my flesh for the life of the world. If anyone eats of this bread, he shall live forever. O sweetest bread, heal the palate of my heart, that I may feel the sweetness of your love.
+
+Heal, Lord, my heart from every sickness, so that it may feel no sweetness besides you, seek no love besides you, love no consolation besides you. O most holy Jesus, bread of life and understanding, having in you every delight and every sweetness of fragrance, who always refresh us from yourself and in yourself never fail: let my heart eat you, I beseech you, and let my soul be filled with the sweetness of your savor. O holy bread, O living bread, beautiful bread, pure bread, who came down from heaven and give life to the world: come into my heart, and cleanse me from every defilement of mind and spirit. Enter into my soul; heal and sanctify me at every time. Be yourself my continual health and salvation of body and soul. Drive away from me the enemies plotting against me, so that, fortified by the sacrament of your body and blood, through you I may advance on the straight path under regular discipline, and after this life may come joyfully to your kingdom.
+
+*Excuse for the lengthiness*
+
+If this prayer shall have seemed too long to anyone, let him read whatever part he wishes, for we have divided the material set before him into short paragraphs, so that we might remove weariness. But he who wishes to read neither the whole nor a part complains in vain about lengthiness, since he is shown to be unwilling to pray either a long or a short prayer.
+
+*Meditation before approaching the altar*
+
+Finally, through meditation on the Lord's Passion, or at least on one of its more sacred articles, or several if the opportunity of time is present, let the mind be kept devout. I would call meditation on the Lord's Passion savory when a man, purified through true mortification, as soon as he has begun to turn over the Lord's Passion in thought, dissolves without violence into tears from mere [unclear], and from the excessive desire of fervor, as if into a certain transport of mind [unclear].

@@ -1,0 +1,18 @@
+record,translation_backend,grader,raw_faith,adj_faith,raw_fluent,adj_fluent,hallucinated,preamble,refusal,notes
+full_chunk_0001,public-history,opus-pairwise-adopt,5,5.0,5,5.0,False,False,False,churro-hi adopted via Opus pairwise; faith carried from prior Sonnet 4.5 (pending GLM/Sonnet re-grade)
+full_chunk_0001,minimax,minimax-m2.7,4,4.4,3,3.7,False,False,False,Translation mostly faithful; trailing end incomplete; minor interpretive choices in some phrases
+full_chunk_0001,minimax-v2,minimax-m2.7,2,2.8,3,3.7,True,True,False,Interpretive 'Benedictine of Sponheim' intro is not translation; 'monastery of X' loses a proper name; Hail Mary inserted from outside source; translation cuts off mid-sentence
+full_chunk_0002,public-history,opus-pairwise-adopt,5,5.0,5,5.0,False,False,False,churro-hi adopted via Opus pairwise; faith carried from prior Sonnet 4.5 (pending GLM/Sonnet re-grade)
+full_chunk_0002,minimax,minimax-m2.7,3,3.5,2,3.5,False,False,False,Translation incomplete and awkward; ends mid-sentence; OCR corruption makes full assessment difficult
+full_chunk_0002,minimax-v2,minimax-m2.7,1,1.7,1,3.5,True,False,False,"Translation attempts to reconstruct garbled Latin rather than providing English; contains pseudo-Latin, not English prose"
+full_chunk_0003,public-history,opus-pairwise-adopt,4,4.0,4,4.0,False,False,False,churro-hi adopted via Opus pairwise; faith carried from prior Sonnet 4.5 (pending GLM/Sonnet re-grade)
+full_chunk_0003,minimax,minimax-m2.7,4,4.4,4,4.7,False,False,False,"Good overall but 'Kalendae' is 1st of Feb, not 30 Jan; 'Carmen deglaci' is an ice pun"
+full_chunk_0003,minimax-v2,minimax-m2.7,3,3.5,3,3.7,True,False,False,Heavy paraphrasing and interpretation of corrupted Latin; 'My soul bears fruit' and other phrases not in source
+full_chunk_0004,public-history,opus-pairwise-adopt,4,4.0,4,4.0,False,False,False,churro-hi adopted via Opus pairwise; faith carried from prior Sonnet 4.5 (pending GLM/Sonnet re-grade)
+full_chunk_0004,minimax,minimax-m2.7,2,2.8,3,3.7,True,False,False,OCR corruption makes assessment difficult; many lines left as fragments; likely hallucinations like 'Josse [Trithemius?]' and 'triple tongue' not in source
+full_chunk_0004,minimax-v2,minimax-m2.7,2,2.8,2,3.5,False,False,False,"Extensive corruption in source; translation honestly marks many passages as [unclear], rendering it highly fragmentary"
+full_chunk_0004,opus-sweep,minimax-m2.7,2,2.8,3,3.7,False,False,False,Severely OCR-damaged Latin; many [unclear] brackets indicate untranslatable passages throughout
+full_chunk_0001,public,release-certification,,4.5,,4.5,False,False,False,Release certification row derived from manifest.json and data/_quality/scoreboard_gpt_v3.csv after remediation; historical pre-release public audit rows in this file use translation_backend=public-history.
+full_chunk_0002,public,release-certification,,4.5,,4.5,False,False,False,Release certification row derived from manifest.json and data/_quality/scoreboard_gpt_v3.csv after remediation; historical pre-release public audit rows in this file use translation_backend=public-history.
+full_chunk_0003,public,release-certification,,4.5,,4.5,False,False,False,Release certification row derived from manifest.json and data/_quality/scoreboard_gpt_v3.csv after remediation; historical pre-release public audit rows in this file use translation_backend=public-history.
+full_chunk_0004,public,release-certification,,4.5,,4.5,False,False,False,Release certification row derived from manifest.json and data/_quality/scoreboard_gpt_v3.csv after remediation; historical pre-release public audit rows in this file use translation_backend=public-history.

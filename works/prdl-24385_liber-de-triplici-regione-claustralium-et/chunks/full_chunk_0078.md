@@ -1,0 +1,19 @@
+After celebration, careful custody of the mind is to be kept.
+
+After the celebration, or after communion of the Lord’s body and blood, let the devout monk offer thanksgiving to almighty God, and throughout the whole day let him keep himself, by spiritual exercise, in the purity and devotion of mind he has conceived. Let him direct his affections to God with fiery rays, and not grow lukewarm from his holy purpose. Above all, let him strive to love nothing in this world, but to raise his heart continually, stripped completely of all earthly affections, toward the fire of divine love. Let him always consider how from now on he may order his life as though anew, in the holy fervor of his way of life, and let him humbly dispose himself for the more frequently repeated reception of so great a Guest. Then, during the day, in the labors enjoined on him, let him quite often offer some prayer to God the Father in the power and union of that sacrament, so that through the exercise of holy communion and regular obedience he may kindle himself more fully in divine love. And we attain this divine love especially through the power of this venerable sacrament, if, in memory of the Lord’s passion, we are renewed by the grace of union through communicating in it more often. For truly the devout mind of a person is kindled, through communion of this most sacred sacrament, into the fervor of divine love by its effective working; and, having utterly denied itself, it is transformed, united by grace into Christ. Therefore the more each person, denied to himself through true resignation, has offered himself to the Lord as a living sacrifice in memory of the Lord’s passion, the more disposed he will be to celebrate worthily.
+
+After private Masses. Returning to the cell.
+
+When the celebration of Masses has been finished, and the thanksgivings have been completed according to custom, let the monk return to his cell; and, after first saying the customary prayer as above at Matins, let him recollect himself for a little while, and kindle himself more fully from his holy purpose toward perseverance. Then, turned toward the Lord, let him say:
+
+Prayer.
+
+I beseech you, sweetest Lord Jesus, through the power of your most holy body and blood which I have received, though unworthy: grant me the sweetness of your love, sincerity of brotherly affection, strength in temptation, purity in heart, and discipline in conduct, so that, by your bounty, I may satisfy my profession, and make vigorous progress in your most holy love. Then, until the first signal for choir, let him read something good, meditate, or pray, or certainly write, and let him fervently apply himself to the work enjoined on him by obedience.
+
+At the first signal before choir, before High Mass.
+
+When the first signal has sounded for the hour which, according to custom, precedes High Mass, let the monk at once put aside everything he has in his hands and read the preparatory prayers for choir, just as they are set out above before Matins. Afterward let him go to choir with reverence and maturity, bowing and praying according to the rite set down above.
+
+At High Mass.
+
+At the ringing for High Mass you may read the proper hour of the Holy Cross, and afterward, as time permits, recall to mind something from the preface set before the private Masses. For the sum of our salvation is placed in the merit of the passion of our Lord Jesus Christ, nor is any good work of ours believed meritorious unless it is offered in his power. The memory of this passion is carried out in the celebration of Masses, where the innocent Lamb, slain for us, is offered to God the Father in an ineffable mystery. Therefore from our Savior alone, the Lord Christ, whom we believe to have suffered for us, do we truly hope for salvation. And so whatever the Church asks in the collects, she humbly asks God the Father that it be given to her through him. This regard

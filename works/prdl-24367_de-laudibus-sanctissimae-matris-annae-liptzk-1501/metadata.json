@@ -1,0 +1,47 @@
+{
+  "id": "prdl-24367_de-laudibus-sanctissimae-matris-annae-liptzk-1501",
+  "title": "De Laudibus Sanctissimae Matris Annae",
+  "year": "1501",
+  "source_year": "1501",
+  "year_note": null,
+  "edition_info": "Liptzk [ca. 1501 (BSB)",
+  "edition_info_raw": "( Liptzk [um , 1501 ) BSB",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 50,
+  "genre_cluster": "marian-hagiographic",
+  "tier": "S",
+  "faithful_adj": 4.78,
+  "fluent_adj": 4.78,
+  "coverage_pct": 100.0,
+  "chunks_graded": 37,
+  "chunks_total": 37,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "claude-cli",
+    "minimax",
+    "minimax-v2",
+    "opus-sweep",
+    "public"
+  ],
+  "source": {
+    "provider": "BSB",
+    "url": "http://daten.digitale-sammlungen.de/bsb00011308/image_1",
+    "download_url": "http://download.digitale-sammlungen.de/BOOKS/pdf_download.pl?id=bsb00011308",
+    "prdl_id": "24367"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 37,
+    "n_missing_segments": 0,
+    "latin_source_file": "churro_full.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24367_de-laudibus-sanctissimae-matris-annae-liptzk-1501_parallel.html"
+  }
+}

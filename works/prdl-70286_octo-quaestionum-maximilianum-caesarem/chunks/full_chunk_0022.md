@@ -1,0 +1,17 @@
+[unclear]
+
+*To Emperor Maximilian.*
+
+But let us defer the discussion to another time. For we do not believe that these things are wonders to wise men, who have understood very well the power and nobility of the human mind, since, hindered only by the interposition of the body, it is in some respect reckoned equal to the angels. Finally, I pass over the various modes and kinds of fascinations, by which a frenzied person produces very wondrous effects upon external things. The very strong imagination of a confident person can also do much toward producing wonderful effects, whether upon a true object or upon one merely supposed.
+
+Therefore, since there are so many kinds and modes of working wonders, it is no wonder if Jews, Saracens, pagans, gentiles, and all other unbelievers established outside the faith of Christ, who cannot perform miracles through public justice, enact wonders either by the support of demons or by artful industry. Nor does it escape me that, by the same reasoning, the miracles of the saints are attacked by the impious, as if they were not done by the power of the Creator, but rather by the entanglement or substitution of the devil. Whoever truly believes that the Christian faith alone is true does not doubt that the miracles of all unbelievers have been accomplished by the cooperation of demons. But if anyone rashly and stubbornly thinks the contrary, he shows himself to be an unbeliever, not a Christian.
+
+*On Sacred Scripture.*
+
+*Question Four.*
+
+The fourth question of your Most Serene Majesty was this: why almighty God did not give Holy Scripture, containing the mysteries of our faith, of both the New and the Old Testament, as open and manifest, uniform in all things, and plainly sufficient for all things, but rather as wrapped up and, in many places, full of riddles. For many things necessary for the perfection of faith are not found sufficiently expressed in the divine Scriptures.
+
+*Johannes Trithemius, Eight Questions.*
+
+To this question of your Most Sacred Majesty it seems that one must answer: every Scripture divinely inspired is a perfect work of divinity, ordered and preordained before all time, written in time in no other way than God willed, who inspired men that it should be written. For all the works of God are perfect. And therefore, since the Scripture of which we speak is the work of God, it is necessary to confess that it is perfect in all things. For God, the supreme judge, whose works are all perfect, gave to his Scriptures the order he willed and the one he willed, and without doubt infused into those receiving them how they should write. For almighty God bestowed such authority and majesty upon Sacred Scripture that, in comparison with it, all the words of this world fail, since divine things cannot properly be comprehended in human speech. Therefore divine Scripture, which on the surface of its words appears confused to the ignorant, seems manifest to those who know it, because unless it is read in that spirit by which it is believed to have been infused into men, one by no means arrives at its understanding. The learned man who burns with the embrace of the flesh and with vain desires reads it in one way, and the understanding man, whom the love of God truly inflames after he has been stripped of pleasures, reads it in another. Hence it is no wonder if men wise according to the flesh do not understand the divine Scriptures, who, blinded by the pleasures of the flesh, the sweetness of the Spirit of God [unclear].

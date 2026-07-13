@@ -1,0 +1,19 @@
+--- Page 099 ---
+
+Let those now see and shudder who deny the providence of God, when they behold that the end of their opinion is the worst despair of all. Therefore let no one, led on by the empty talk of secular philosophers, train himself to contempt of God; let no one abolish the providence of the highest and unchangeable good; let no one corrupt the dignity of the Creator of all things. For all who deny divine providence show themselves both unworthy of and ungrateful for the benefits of the most merciful Savior.
+
+For it must be firmly believed, and in no way doubted, that this whole world, both visible and invisible, and all things individually and collectively that are either in heaven, on earth, or in the sea, are ruled and governed by divine providence, and that nothing at all in the whole universe is alien to his care. For crops, too, and all the other things that the earth brings forth, and likewise storms, the variations of seasons, and the changes of the sky, by which all the things that the earth produces naturally ripen, divine providence supplies to the human race; and it provides for all things, individually and collectively, not only the great but also every least thing, to such a degree that not even the thinnest leaf of a tree falls to the ground without the will of almighty God the Father, who created it and rules and cares for it.
+
+But if anyone thinks that this so great magnitude of the whole universe cannot be ruled and governed by one God, who alone is, he is greatly mistaken, and is proved not to know how great the power of divine might is. For in truth, he who was able to bring the whole world from nothing into being is also able to govern forever, with supreme wisdom, what he made. For he knows all things, understands all things, and can do all things, who alone, omnipotent, created all things.
+
+Therefore, believing in the holy Gospel, let us venerate divine providence above all; and let us also raise our minds upward, with what strength we can,
+
+--- Page 100 ---
+
+from those things that are perishable, and, brought back to ourselves, let us be united, so that we may faithfully understand the majesty of God, present everywhere. Since it is altogether uncircumscribable, it holds all things, fills all things, embraces all things, surpasses all things, and sustains all things. It does not sustain from one side and surpass from another, nor fill from one side and encompass from another; rather, by encompassing it fills, and by filling it encompasses; by sustaining it surpasses, and by surpassing it sustains all things. Through the bulk of a body he is nowhere; through his uncircumscribable substance he is nowhere absent. He is not perceived by the eyes of flesh; through faith he is seen in purity of heart.
+
+O inexplicable power, O incomprehensible goodness, O ineffable wisdom, O uncircumscribable divinity: you do not consist of parts like a body; you are not distinguished by affections like a soul; you do not stand beneath forms like all other things that were made through you. You are in all things, and above all things, ruling and governing the universe with the highest wisdom.
+
+And so, by these testimonies, most sacred Caesar Maximilian, it has been sufficiently proved, as I think, that this whole world is governed by the providence of God. Since he is pure intellect, simple, uncreated, and eternal, he knows all things, understands all things, foreknows all things; and since he is omnipotent in nature, he can do all things, for whom nothing is difficult, nothing impossible. He created such wondrous things by his power, established them in truth, perfected them by reason, sustains them by strength, and illumines them by goodness. To him be praise, to him honor, to him glory, who lives and reigns, glorious and exalted God, forever and ever. Amen.
+
+AUTHOR-

@@ -1,0 +1,24 @@
+--- Page 108 ---
+
+EXPOSITION. 103
+
+without invocation or the ministry of any spirits whatsoever. I have said this so that, if perhaps at some time a rumor should reach you that I either know or can do marvelous things, you would not, I say, think me a magician, but a philosopher. For what happened to Albert the Great, that most profound investigator of natural things, namely that because of the marvelous things he accomplished by the hidden power of nature he was considered a magician by the common people, I am certain could happen similarly to me. If you ask whence I have these things, which no one else knows, listen. I learned them not from a man nor through a man, but by the revelation of I know not whom. For in the present year, on a certain occasion, when I was thinking what new thing I might discover that would be hidden from everyone, I began to consider whether I could devise those marvelous things that I have mentioned. After long imagining, when I had entirely despaired of it as an impossible matter, I went to sleep, and during the night I lay at rest, laughing to myself at my folly, because I had attempted to seek things so impossible. That same night someone stood by me, saying: “The things you have thought, O Trithemius, are not vain, although they are impossible for you, and neither you nor anyone with you will be able to discover them.” And I said to him: “If, then, they are possible, tell me, I beg you, how they may be done.” And opening his mouth, he taught me about each point in order, showing how the things I had vainly pondered for many days could easily be done. Behold, before God, I do not lie but speak the truth: I have so far taught these things to no one, although many, promising great rewards, have often asked me, except one prince to whom I am writing, whom I have made more certain, by clear proof, of the possibility of the art.
+
+--- Page 109 ---
+
+104 EXPOSITION.
+
+Nor is it fitting that others know these things except princes; otherwise many evils would be done through them: betrayals, deceptions, fornications, and whatever else evil men might wish. But those who use the art well could accomplish much good for the commonwealth through it. Moreover, I can teach all these things in every language of the whole world, even one I have never heard. These things, Bostius, I wished to tell you so that you would not believe me idle.
+
+Thus far the words of Trithemius. Finally, there are other very great uses of these books of the Polygraphy, which we shall discuss in our own books On the Method of Teaching and Learning. For whatever these things may seem to be, they contain more in reserve than they promise on the surface. On Steganography, whose principles lie hidden and concealed in these books, God willing, we shall treat separately.
+
+THE FIRST BOOK
+of the Polygraphy.
+
+There are twenty-four letters among the signs of the Latin language. When these are placed in order before the same number of significant words, they serve most abundantly in every respect, according to the wish of each person working in this art, for secrets. Now these paraphrastic sets are artificially arranged in such a way that they produce an entirely Latin discourse, if only one word is taken from each order. And it should be noted that, by reason of our German speech, the twenty-fourth letter, w, is assumed at the end of the alphabet, since all the remaining letters perform the service of both languages.
+
+--- Page 110 ---
+
+EXPOSITION.
+
+We have placed the designating words in order with such skill that, whichever one you take from any single line, once the whole deduction has been made, agreement will remain. Care is needed, however, so that from any line of the syntax you take only one, and so that no monad does injury to the binary. It must also be provided that, whenever you approach the cabalistic operation, you first count each minute of the night, and join them in due proportion to the degrees of the following day. But if the minutes, by the secret arrangement, do not suffice all the way to the degrees of the day, then the windy lot must be brought back, with counsel, to the prudent arch-measurer. Nor is it an obstacle if by chance the night falls back upon the head of the day, since the prudent practitioner in the art can depart from the front by a voluntary addition by as much as he sees the night exceed the light of day. And this is to be understood throughout the whole work of the Polygraphy concerning the individual chapters. Yet we call that consideration unity, by which the binary is made certain by the known little sign of reversal, lest it happen to go astray. From the monad, by the established rule, the binary will stand, and it is made a monad. Nothing is placed here in vain; nothing is adduced without cause or idly.

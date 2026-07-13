@@ -1,0 +1,5 @@
+they write it for *con* and *com* indifferently; here, in the order of numbers, it represents six hundred. Moreover, by the same necessity we have doubled two letters, namely r, z, s, s; of these, r signifies ninety, while curved z signifies one hundred, long s two hundred, and closed s three hundred. Further, w, born as a double letter, which for this reason, by the usage of the German tongue, we have placed in the order of the alphabet, represents the last letter, in the series of numbers, one thousand.
+
+Let us set down a tabular example of this new invention of ours for the reckoning of numbers, so that anyone who wishes to know the method may have a definite proof before his eyes. For what has always been easy for the Hebrews and Greeks will not be impossible for us. The table of numbers follows.
+
+[unclear table of numbers: A, b, c, d, e, f, g, &, vj; j, tij, iij, iiij, r, s, wiij, x, y, z, lxx; xxx, wz, xxx, dcccc, vij; cccc, wx, xxx, dccc, vij; dcc, xl, xl, dcccc, vij; wz, xx; dccc, L ...]

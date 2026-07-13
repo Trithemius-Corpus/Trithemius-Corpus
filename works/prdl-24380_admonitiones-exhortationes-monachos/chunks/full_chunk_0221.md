@@ -1,0 +1,15 @@
+The Pentichus Book of Johannes Trithemius.
+
+...which I earnestly exhort you to do: Attend, fathers, to the miserable state of our religion, and, so far as you are able, come to the aid of its calamity, if you desire it to endure to the end. You know well the wickedness of many who strive to sever themselves from it so that they may escape the discipline of the order. Their rashness must be firmly opposed, lest the unpunished malice of a few give many boldness to offend; for the wickedness of a few always grows when it is deferred.
+
+Although public reputation ought not to be corrupted by one man’s evil, nevertheless the unskilled crowd blames all for the offense of a few. Therefore superiors who do not punish the bad, who by their deformity cloud the reputation of the good, strengthen them. It belongs to you, then, fathers, to correct deformed monks as far as you can. It is the duty of your office to preserve the order in its vigor. And because a fool is not corrected by speech, whatever our hierophant can do against the incorrigible, as it were in monastic fashion, should generally be brought to bear upon these men [unclear].
+
+Rise now, fathers, for it is time. Arm yourselves with zeal for regular discipline. Defend, I beg you, the inheritance of holy Father Benedict. Drive out the proud; correct the rebellious; rebuke the hard; fight bravely for the preservation of our order. Arm yourselves with the armor of God and with love of the order, about to fight not so much by your own labors as by the help of Christ. His grace will provide you help, if in purity of heart you pour out diligent prayers to him.
+
+Why, then, do you dissemble? Why do you not defend the portion of Saint Benedict? How long will the efforts of the wicked prevail against the holy order? Truly, fathers, truly, the great necessity of our order demands a swift remedy. Consider the conduct of irregular abbots and monks, and weigh how unjustly they kick against the discipline of the order. Apart from the habit, and that itself disordered in many, they show nothing of honesty or religion. But reserving these matters for their proper places, let us hasten to what we intended.
+
+On the Most Holy Primitive State of Our Order. Chapter II.
+
+Whether I shall be doing something pleasing to all if I commend in a few words the former state of our order, I somewhat doubt, since I may perhaps be judged, by praising the old monks, to have paid too little honor to those of our own time. For there are some who either think themselves the best of monks, or dare to compare themselves with those best fathers who went before us.
+
+However they measure themselves, let them not be angry with me if I do not dare to equate our observance with that of the ancients. For if we contemplate their life with a right light, we shall scarcely be able to compare the best man among us with a good monk of that time. For their holy way of life, radiant with virtues, approved by signs, and illustrious with learning in all the Scriptures, won favor with God and men. Hearing the Lord’s voice, “If anyone wishes to come after me, let him deny himself and take up...”

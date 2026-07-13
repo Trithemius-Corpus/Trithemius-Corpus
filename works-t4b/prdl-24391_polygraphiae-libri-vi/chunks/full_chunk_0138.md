@@ -1,0 +1,17 @@
+--- Page 645 ---
+
+26 ON THE SEVEN SECONDARY INTELLIGENCES
+
+Many wars.
+
+At this time they waged very grave wars among themselves in Gaul, England, Westphalia, Prussia, Flanders, Swabia, and other places. In these times the art of printing was newly invented at Mainz, the metropolis of Germany, by marvelous industry, as a gift of divine favor. In the year of Christians 1456, the Turks were overthrown in Hungary, and many of the faithless perished. The pilgrimage of boys to Saint Michael was remarkable. There were earthquakes in the kingdom of Naples, and more than 40,000 people perished. In the year of the Lord 1462, Mainz, the metropolis of the Franks, was captured and plundered. Charles, duke of Burgundy, defeated the French in the year 1465. Later, in the year 67, he destroyed Dinant and Liege. In the year 1473 he entered Guelders and powerfully took possession of it, and likewise the whole duchy of Lorraine. A comet appeared throughout the month of January in the year of the Lord 1472. Charles, duke of Burgundy, afterward besieged the town of Neuss for the space of a year, in the year 74; later, in the year 1477, he was killed in battle, a great-hearted prince. In these times the Turks captured many cities of the Christians: Negroponte in Euboea, also the kingdom of Bosnia, the duchy of Spetis, Achaea, Mitylene, and many kingdoms in the East. In the year 1476 a gathering of fools, full of errors, took place in German Franconia at Niklashausen. In the year 1480 the Turks besieged the Rhodians with a great army, but they did not prevail. In the same year, departing from Rhodes, they captured Otranto, with more than 12,000 Christians killed.
+
+--- Page 646 ---
+
+LIBELLUS. 27
+
+Only 22 escaped by flight. And in the following year Mehmed, emperor of the Turks, died; Bayezid, his firstborn, succeeded him in the kingdom, now ruling in his twenty-seventh year. In the year of Christians 1486, Maximilian, son of Frederick, was made King of the Romans at Frankfurt, and in the year 1508 was saluted as Caesar by Pope Julius. He founded the order of the knighthood of Saint George against heretics and Turks; he subdued the Swiss in war; he has attacked the rebellious Sicambri in war down to this day, and he will be fortunate against all treaty-breakers. The king of the French, in his usual fashion a persecutor of the empire, has been found to be contriving new plots. May the Almighty protect those assigned to the rule of Samael in the year 1508. The Venetians, rebels against the rule of Caesar, have been marked by ban and war. There will be punishment for obstinacy, and a reward for considered satisfaction.
+
+Notable.
+
+Around the end of this third revolution of Samael, the image of alteration will pass over to the first, and there will be the destruction of many. For unless T., with God ministering, is brought back to Algos, there will be the transfer of some monarchy, or of some great kingdom. A great sect of religion will arise, the destruction of old religions. It is to be feared that the fourth beast may lose one head. In Samael, Mars in the first place foretold the flood; in the second, the destruction of Troy; in the third, around the end, there will be a great loss of unity. From what has gone before, therefore, let the future things that follow be judged. This third revolution of Mars will not be completed without prophecy and without the institution of some new religion. From this point, the year of Christians 1508.

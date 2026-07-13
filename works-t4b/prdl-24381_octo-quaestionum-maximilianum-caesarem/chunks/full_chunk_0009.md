@@ -1,0 +1,31 @@
+--- Page 036 ---
+
+15
+
+upon everyone who does not believe in his only-begotten Son, because of the original sin of the first man, from which no one is justified except through faith and the baptism of our Lord and Savior Jesus Christ. But if original sin is in a person alone, as in little children, unless it is removed through Christ it condemns the one who has it only to the punishment of loss, namely, by which he is shut out from the vision of God and from the enjoyment of the blessedness of the saints forever. But an adult who sins mortally will be punished after death with a double punishment, namely of loss and of sense, so that he does not see God, and, feeling the pains of the fire of Gehenna without end, never escapes. Jews, Saracens, and all the rest who, hearing the faith of Christ, despise it are without doubt damned to both punishments, of loss and of sense, whether otherwise they live innocently according to the law of nature or the contrary. But among those who have never had any hearing of Christ, if any lived innocently according to the law of nature until death, I do not think they have provided cause for being said or believed to be damned to the punishment of sense, although they are deprived forever of the vision of God, which theologians have called the punishment of loss.
+
+--- Page 037 ---
+
+For no one will behold the face of God the almighty Father unless he has been reborn through faith in Christ. Now let us settle the judgment against those who, while we assert these things according to the catholic doctrine of Christ, are prompted by foolish reflection to object: Why did almighty God, since he is supremely good, will to create so many thousands of human beings whom he foreknew from eternity were to be damned? For if Christians are compared with unbelievers, scarcely a twentieth part of the people of the whole world today believes in our Lord Jesus Christ.
+
+The boundless curiosity of this question has often troubled many people; if their faith in Christ were firm, and devotion fervent in them with love, they would not ask such unusual and difficult things. For what man of such learning or holiness is found among mortals that, apart from God himself, he could disclose to us the cause of the divine will? For the cause of God’s will is incomprehensible, since he himself is the cause of his most righteous will. The eternal order is inviolable; and, as I said above, God does injury to no one. When God brought the universal flood upon the earth, were not only eight people saved in the ark?
+
+--- Page 038 ---
+
+16
+
+All the rest perished by the inundation of the waters. The cause of their perishing was sin; but that they were created had no other cause than the uncircumscribable goodness of God. Because few are saved while many perish, the figure preceded the mystery: the ark of Noah was the sacrament of the Christian faith. For just as all outside Noah’s ark perished in the flood, so now all who are outside the unity of the catholic Church of Christians will without doubt perish forever in their sins: Jews as well as pagans, heretics together with schismatics. The justice of God damns those whom goodness created. Mercy, however, saves those whom grace has confirmed, because, as the holy Apostle says, “It is not of him who wills, nor of him who runs, but of God who shows mercy,” since “he has mercy on whom he wills, and whom he wills he hardens.” Let us weigh rightly the freedom of the human will, and we shall know the just will of God.
+
+Concerning the Miracles of Unbelievers. Third Question.
+
+The third question of your most serene Majesty was: If no one is saved outside the faith, whence come miracles among unbelievers, since we have learned by the report of many that astonishing things are done even among unbelievers?
+
+--- Page 039 ---
+
+The solution of this question, as it seems to me, will not be difficult if we apply faith to the Scriptures and the necessary consideration to the natural powers of the soul. A miracle is a new and unusual event, which happens outside customary practice and draws human beings into wonder. Hence good Christians, bad Christians, and unbelievers work miracles in different ways. Good Christians indeed work miracles through public justice; bad Christians through the signs of public justice; but unbelievers through private contracts with demons, whether implicit or explicit. Concerning the good, the Lord said in the holy Gospel: “These signs will follow those who have believed: in my name they will cast out demons; they will speak with new tongues; they will take up serpents; and if they drink anything deadly, it will not harm them. They will lay hands upon the sick, and they will be well.” But concerning bad Christians who work miracles in the name of Jesus Christ, we read written thus in the Gospel: “Many will say to me on that day: Lord, Lord, did we not prophesy in your name, and in your name cast out demons? And in your name did we not do many mighty works?”
+
+--- Page 040 ---
+
+17
+
+“And then I will confess to them: I never knew you; depart from me, you who work iniquity.” But outside the Church of God, where the name of our Lord Jesus Christ is not invoked, if any wonders are done beyond the custom of nature or human art, no good Christian doubts that they are done by the cooperation of demons. And your Caesar’s serenity, with discernment of virtue, judges works of this kind as deserving to be called wonders rather than miracles. Nor does this judgment of truth depart from reason, insofar as a necessary distinction should be maintained between prodigies of light and of darkness. I find four agents of wonders; but I recognize one only who truly works miracles, God, principally as the cause of all good things. Therefore the first and greatest agent of all marvelous things is God, who filled and illuminated the whole world with signs, miracles, and powers. None of the others is to be compared with him: he created heaven and earth, the sea and all things that are in them; he alone is omnipotent, just, holy and upright, good, incomprehensible, greatest, glorious, immense, and eternal. All other things are beneath him, since whatever in this world is marvelously able

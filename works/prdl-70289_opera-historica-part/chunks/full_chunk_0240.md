@@ -1,0 +1,7 @@
+*156. JOHANNES TRITHEMIUS.* [page 187]
+
+…[he wrote], of which I have seen a volume which he entitled On definitive votes in a general council, in which he concludes that all who have had a place in the council ought also to have definitive votes. Item, On the authority of the pope and of the council, 1 book; also On the nature of schism, 1 book; On neutrality, 1 book; of the rest (although he wrote much) nothing has come to me. He flourished in the time of the Council of Basel, in the year of the Lord 1440, under the beginning of the reign of Frederick III.
+
+[Johannes Gower.] Item, On the concord of the Evangelists—which work he entitled "One out of four"—1 book; sermons on the [seasons of the] year and on the saints, 2 books; also triple sermons through Lent, [several] books. But he is said to have written also several others, which have not come into our hands. He flourished in the times of the Council of Basel, in the year of the Lord 1461.
+
+[Margin: Gerard de Stredam.] GERARD DE STREDAM, monk of the Carthusian order, Prior of the house of the Apostles near Liège, a man exercised and erudite by long study in the divine Scriptures, mild in talent and sweet in eloquence, venerable no less for conversation than for knowledge. He wrote, for the edification of [his] readers, certain illustrious volumes, of which the following are reported. To a certain abbot of our order, of the monastery of Saint Adrian of Geraldsberg, on the care…

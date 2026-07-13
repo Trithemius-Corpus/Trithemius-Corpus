@@ -1,0 +1,315 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cipher Lab &mdash; Trithemius Corpus</title>
+<meta name="description" content="Interactive cipher tools — encode and decode with Trithemius&#39;s own tables, explore the tabula recta, and consult the Steganographia spirits.">
+<link rel="canonical" href="https://trithemius-corpus.github.io/Trithemius-Corpus/tools.html"><meta property="og:type" content="website">
+<meta property="og:site_name" content="Trithemius Corpus">
+<meta property="og:title" content="Cipher Lab &mdash; Trithemius Corpus">
+<meta property="og:description" content="Interactive cipher tools — encode and decode with Trithemius&#39;s own tables, explore the tabula recta, and consult the Steganographia spirits.">
+<meta property="og:url" content="https://trithemius-corpus.github.io/Trithemius-Corpus/tools.html"><meta property="og:image" content="https://trithemius-corpus.github.io/Trithemius-Corpus/static/images/hero-steganographia-wheel.webp"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@trithemius_corpus">
+<meta name="twitter:title" content="Cipher Lab &mdash; Trithemius Corpus">
+<meta name="twitter:description" content="Interactive cipher tools — encode and decode with Trithemius&#39;s own tables, explore the tabula recta, and consult the Steganographia spirits.">
+<meta name="twitter:image" content="https://trithemius-corpus.github.io/Trithemius-Corpus/static/images/hero-steganographia-wheel.webp"><link rel="icon" type="image/svg+xml" href="static/favicon.svg">
+<meta name="theme-color" content="#100d12">
+<link rel="stylesheet" href="static/fonts.css">
+<link rel="stylesheet" href="static/style.css">
+<script>
+  // Apply the saved theme before first paint to avoid a flash of the wrong theme.
+  // 'auto' resolves from the OS colour-scheme preference (light→parchment,
+  // dark→steganographia) and is stored on a distinct attribute so the switcher
+  // can highlight 'auto' as active while the concrete theme paints immediately.
+  (function () {
+    function resolveAuto() {
+      try {
+        return window.matchMedia &&
+               window.matchMedia('(prefers-color-scheme: light)').matches
+               ? 'parchment' : 'steganographia';
+      } catch (e) { return 'steganographia'; }
+    }
+    try {
+      var t = localStorage.getItem('tc-theme');
+      if (t === 'auto') {
+        var r = resolveAuto();
+        document.documentElement.setAttribute('data-tc-theme', 'auto');
+        if (r !== 'steganographia') document.documentElement.setAttribute('data-theme', r);
+      } else if (t && t !== 'steganographia') {
+        document.documentElement.setAttribute('data-theme', t);
+      }
+    } catch (e) {}
+  })();
+</script>
+</head>
+<body class="parchment">
+<a class="skip-link" href="#main">Skip to content</a>
+<div class="read-progress" id="readProgress" aria-hidden="true"><span class="read-progress-pct" id="readProgressPct"></span></div>
+<header class="site-header">
+  <div class="container">
+    <h1 class="site-title"><a href="index.html">Trithemius Corpus</a></h1>
+    <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="siteNav">
+      <span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span>
+    </button>
+    <nav class="site-nav" id="siteNav" aria-label="Site">
+      <a href="works.html">Works</a>
+      <a href="ciphers.html">The Ciphers</a>
+      <a href="tools.html" class="is-active" aria-current="page">Cipher Lab</a>
+      <a href="scoreboard.html">Quality</a>
+      <a href="methodology.html">Methodology</a>
+      <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus">GitHub</a>
+      <a href="search.html" class="nav-search" title="Search the corpus">&#128269; Search</a>
+      <span class="theme-switcher" role="group" aria-label="Theme">
+        <span class="theme-label" aria-hidden="true">Theme</span>
+        <button type="button" data-set="steganographia" title="Steganographia (celestial night)" aria-label="Steganographia theme"></button>
+        <button type="button" data-set="candlelight" title="Candlelight (warm dark)" aria-label="Candlelight theme"></button>
+        <button type="button" data-set="parchment" title="Parchment (light scholarly)" aria-label="Parchment theme"></button>
+        <button type="button" data-set="ink" title="Ink (high-contrast facsimile)" aria-label="Ink theme"></button>
+      </span>
+    </nav>
+  </div>
+</header>
+
+<main class="container" id="main">
+<section class="cipher-lab" data-asset="">
+  <h2>The Cipher Lab</h2>
+  <p class="lede">Interactive tools built on Trithemius&rsquo;s actual tables &mdash; encode and decode
+  messages through the <em>Polygraphia</em>&rsquo;s verbal-substitution ciphers, explore the
+  <em>tabula recta</em>, and consult the <em>Steganographia</em>&rsquo;s catalogue of spirits.</p>
+
+  <nav class="lab-toc" aria-label="Cipher Lab sections">
+    <a href="#encoder">Encoder / Decoder</a>
+    <a href="#tabula">Tabula Recta</a>
+    <a href="#compare">Side-by-side Comparison</a>
+    <a href="#numbers">Numerical Letters</a>
+    <a href="#spirits">Spirit Index</a>
+  </nav>
+
+  <div id="encoder" class="lab-panel">
+    <h3>Encoder &amp; Decoder</h3>
+    <p class="lab-caption">Type a message and watch it become a pious Latin sentence through the
+    <em>Ave Maria</em> cipher &mdash; each plaintext letter is replaced by a real word from the
+    <em>Polygraphia</em>&rsquo;s substitution columns, rotating by position.</p>
+    <div class="lab-controls">
+      <label>Mode
+        <select id="enc-mode">
+          <option value="ave-maria">Ave Maria (verbal substitution)</option>
+          <option value="mono">Simple substitution (one column)</option>
+          <option value="decode">Decode cipher words</option>
+        </select>
+      </label>
+    </div>
+    <div class="lab-io">
+      <textarea id="enc-input" rows="3" placeholder="Type plaintext here (a&ndash;z)&hellip;"
+        aria-label="Plaintext or ciphertext input"></textarea>
+      <div class="lab-arrow" aria-hidden="true">&darr;</div>
+      <output id="enc-output" class="lab-output" aria-live="polite"></output>
+    </div>
+    <p id="enc-note" class="lab-note"></p>
+  </div>
+
+  <div id="tabula" class="lab-panel">
+    <h3>Tabula Recta</h3>
+    <p class="lab-caption">The 24&times;24 alphabet-rotation grid &mdash; the polyalphabetic table that
+    prefigures the Vigen&egrave;re cipher. Click a row and column to highlight the cipher letter.</p>
+    <div id="tabula-grid" class="tabula-grid"></div>
+    <p id="tabula-readout" class="lab-readout"></p>
+  </div>
+
+  <div id="compare" class="lab-panel">
+    <h3>Side-by-side Comparison</h3>
+    <p class="lab-caption">One plaintext, encoded four ways &mdash; to see why Trithemius escalated
+    the complexity across his books.</p>
+    <input id="cmp-input" type="text" placeholder="e.g. hidethegold" aria-label="Text to compare across ciphers">
+    <div id="cmp-output" class="cmp-grid"></div>
+  </div>
+
+  <div id="numbers" class="lab-panel">
+    <h3>Numerical Letters</h3>
+    <p class="lab-caption">Trithemius&rsquo;s positional letter-codes for numbers
+    (units <em>a&ndash;i</em>, tens <em>k&ndash;r</em>, hundreds, and <em>w</em>-suffixed magnitudes).</p>
+    <div class="lab-controls">
+      <label>Number <input id="num-in" type="number" min="1" value="42" aria-label="Number to convert"></label>
+    </div>
+    <output id="num-out" class="lab-output" aria-live="polite"></output>
+    <p class="lab-note">Some codes collide in the OCR&rsquo;d source (e.g. <code>cw</code>, <code>bw</code>);
+    ambiguous results are flagged.</p>
+  </div>
+
+  <div id="spirits" class="lab-panel">
+    <h3>Spirit Index &mdash; <em>Steganographia</em></h3>
+    <p class="lab-caption">The sixteen cardinal princes of the winds, from the Table of Direction.</p>
+    <input id="spirit-search" type="text" placeholder="Filter by name or wind&hellip;" aria-label="Filter spirits">
+    <div id="spirit-list" class="spirit-grid"></div>
+  </div>
+</section>
+<script>window.CIPHER_DATA={"source": "Parsed from the Trithemius Corpus Style C tables (Polygraphia VI cipher-key chunks; Steganographia Table of Direction).", "alphabet_24": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "v", "x", "y", "z", "w"], "ave_maria": {"alphabet": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "v", "x", "y", "z", "w"], "columns": [{"name": "full_chunk_0018 · col A", "chunk": "full_chunk_0018", "words": {"a": "vitam", "b": "amenitatem", "c": "iocunditatem", "d": "consolationem", "e": "leticiam", "f": "gloriam", "g": "felicitatem", "h": "beatitudinem", "i": "visionem", "k": "jubilationem", "l": "quietem", "m": "requiem", "n": "mansionem", "o": "habitationem", "p": "recreationem", "q": "fruitionem", "r": "lucem", "s": "exultationem", "t": "claritatem", "v": "pacem", "x": "tranquillitatem", "y": "glorificationem", "z": "contemplationem", "w": "securitatem"}}, {"name": "full_chunk_0019 · col A", "chunk": "full_chunk_0019", "words": {"a": "imbuit", "b": "docet", "c": "visitat", "d": "monet", "e": "admonet", "f": "premonet", "g": "instruit", "h": "iubet", "i": "hortatur", "k": "exhortatur", "l": "adhortatur", "m": "dehortatur", "n": "cohortatur", "o": "commonet", "p": "docuit", "q": "erudit", "r": "commonefacit", "s": "incitat", "t": "concitat", "v": "avisat", "x": "provocat", "y": "illuminat", "z": "illustrat", "w": "invitat"}}, {"name": "full_chunk_0020 · col A", "chunk": "full_chunk_0020", "words": {"a": "accipite", "b": "recipite", "c": "excipite", "d": "suscipite", "e": "incipite", "f": "inchoate", "g": "assumite", "h": "reassumite", "i": "addiscite", "k": "discite", "l": "capite", "m": "amate", "n": "feruate", "o": "obferuate", "p": "custodite", "q": "accelerate", "r": "induite", "s": "conservate", "t": "practicate", "v": "frequentate", "x": "celebrate", "y": "operamini", "z": "inquirite", "w": "perquirite"}}, {"name": "full_chunk_0021 · col C", "chunk": "full_chunk_0021", "words": {"a": "celi", "b": "terre", "c": "orbis", "d": "mundi", "e": "seculorum", "f": "celestium", "g": "terrenorum", "h": "terrestrium", "i": "universorum", "k": "cunctorum", "l": "omnium", "m": "hominum", "n": "angelorum", "o": "seculi", "p": "spirituum", "q": "fidelium", "r": "credentium", "s": "invisibilium", "t": "visibilium", "v": "animarum", "x": "animorum", "y": "mentium", "z": "humilium", "w": "supercelestium"}}, {"name": "full_chunk_0022 · col A", "chunk": "full_chunk_0022", "words": {"a": "tenetis", "b": "retinetis", "c": "habetis", "d": "amatis", "e": "diligitis", "f": "possidetis", "g": "concupiscitis", "h": "conspicitis", "i": "ambitis", "k": "cupitis", "l": "videtis", "m": "cernitis", "n": "aspicitis", "o": "inquiritis", "p": "requiritis", "q": "magnificatiris", "r": "grandifacitiris", "s": "amplectimini", "t": "congregatis", "v": "detinetis", "x": "occupatis", "y": "colligitis", "z": "comportatis", "w": "desideratis"}}, {"name": "full_chunk_0023 · col A", "chunk": "full_chunk_0023", "words": {"a": "faciem", "b": "vultum", "c": "aspectum", "d": "conspectum", "e": "maiestatem", "f": "pulchritudinem", "g": "fulgentiam", "h": "venustatem", "i": "gloriam", "k": "decorum", "l": "speciem", "m": "ornatum", "n": "regnum", "o": "imperium", "p": "pietatem", "q": "dulcedinem", "r": "mansuetudinem", "s": "benignitatem", "t": "magnitudinem", "v": "honorificentiam", "x": "magnificentiam", "y": "claritatem", "z": "potentiam", "w": "bonitatem"}}, {"name": "full_chunk_0024 · col A", "chunk": "full_chunk_0024", "words": {"a": "secula", "b": "evum", "c": "seculum", "d": "eternum", "e": "secula cuncta", "f": "secula eterna", "g": "sempiternum", "h": "secula seculorum", "i": "sempiterna secula", "k": "seculorum secula", "l": "secula perpetua", "m": "perpetua secula", "n": "tempus eternum", "o": "infinita secula", "p": "omnia secula", "q": "eviternum", "r": "perpetuum", "s": "omne tempus", "t": "omne eium", "v": "infinitum", "x": "tempus omne", "y": "secula eviterna", "z": "omnia tempora", "w": "omne seculum"}}, {"name": "full_chunk_0025 · col A", "chunk": "full_chunk_0025", "words": {"a": "vestrvm", "b": "nostrvm", "c": "omnium", "d": "cunctorvm", "e": "vniversorum", "f": "credentium", "g": "supercelestium", "h": "celestium", "i": "celozum", "k": "celi", "l": "mundi", "m": "hominvm", "n": "fidelvm", "o": "mundalium", "p": "mundanorum", "q": "invisibilium", "r": "visibilium", "s": "terrestrivm", "t": "terrarum", "v": "terre", "x": "orbis", "y": "viventium", "z": "mortalium", "w": "angelorum"}}, {"name": "full_chunk_0026 · col C", "chunk": "full_chunk_0026", "words": {"a": "pius", "b": "mitis", "c": "dulcis", "d": "clemens", "e": "patiens", "f": "benignus", "g": "mitissimus", "h": "longanimis", "i": "sanctissimus", "k": "optimus", "l": "bonus", "m": "largus", "n": "magnus", "o": "piissimus", "p": "pientissimus", "q": "misericors", "r": "dulcissimus", "s": "patientissimus", "t": "mansuetissimus", "v": "clementissimus", "x": "benignissimus", "y": "mansuetus", "z": "prestabilis", "w": "potens"}}, {"name": "full_chunk_0027 · col A", "chunk": "full_chunk_0027", "words": {"a": "deus", "b": "pater", "c": "creato", "d": "condito", "e": "fabricato", "f": "imperato", "g": "dominato", "h": "redempto", "i": "gubernato", "k": "dominus", "l": "princeps", "m": "opifex", "n": "factor", "o": "rex", "p": "iudex", "q": "amator", "r": "adiutor", "s": "salvato", "t": "viunificato", "v": "consolato", "x": "conservato", "y": "preservato", "z": "moderato", "w": "beatificato"}}, {"name": "full_chunk_0028 · col A", "chunk": "full_chunk_0028", "words": {"a": "spes", "b": "salus", "c": "quies", "d": "fiducia", "e": "requies", "f": "consolatio", "g": "confidentia", "h": "refrigeratio", "i": "recreatio", "k": "beatitudo", "l": "felicitas", "m": "merces", "n": "vita", "o": "dulcedo", "p": "suavitas", "q": "sustentatio", "r": "retributio", "s": "sanctificatio", "t": "iustificatio", "v": "libertas", "x": "fruitio", "y": "amenitas", "z": "exultatio", "w": "laus"}}, {"name": "full_chunk_0029 · col A", "chunk": "full_chunk_0029", "words": {"a": "vitam", "b": "pacem", "c": "leticiam", "d": "felicitatem", "e": "fruitionem", "f": "dulcedinem", "g": "amenitatem", "h": "communionem", "i": "exultationem", "k": "iocunditatem", "l": "securitatem", "m": "claritate", "n": "mercede", "o": "quietem", "p": "requiem", "q": "gloriam", "r": "beatitudinem", "s": "jubilationem", "t": "voluptatem", "v": "serenitatem", "x": "lucem", "y": "mansionem", "z": "remunerationem", "w": "tranquillitatem"}}, {"name": "full_chunk_0030 · col E", "chunk": "full_chunk_0030", "words": {"a": "miserōs", "b": "misello", "c": "miserrimos", "d": "miserandos", "e": "miserabiles", "f": "moribundos", "g": "infelicissimos", "h": "fragilissimos", "i": "infirmissimos", "k": "desolatissimos", "l": "vanissimos", "m": "infirmos", "n": "desolatos", "o": "abiectos", "p": "caducos", "q": "inutiles", "r": "vanos", "s": "debiles", "t": "imbecilles", "v": "abiectissimos", "x": "indignissimos", "y": "corruptibiles", "z": "ignauos", "w": "pauperes"}}, {"name": "full_chunk_0031 · col A", "chunk": "full_chunk_0031", "words": {"a": "eruente", "b": "eripiente", "c": "curante", "d": "salvante", "e": "adiuvante", "f": "auxiliante", "g": "prohibente", "h": "compaciente", "i": "defendente", "k": "redimente", "l": "contradicente", "m": "interueniête", "n": "subueniête", "o": "condolente", "p": "cogitante", "q": "recogitante", "r": "consolante", "s": "sustentante", "t": "refrigerante", "v": "succurrente", "x": "suscipiente", "y": "resistente", "z": "opponente", "w": "repugnante"}}, {"name": "full_chunk_0032 · col A", "chunk": "full_chunk_0032", "words": {"a": "maligni", "b": "iniqui", "c": "perfidi", "d": "pessimi", "e": "perfidissimi", "f": "iniquissimi", "g": "malignissimi", "h": "sceleratissimi", "i": "scelestissimi", "k": "mendacis", "l": "impiissimi", "m": "fallacissimi", "n": "furiosissimi", "o": "immundissimi", "p": "spurcissimi", "q": "infidissimi", "r": "callidissimi", "s": "superbissimi", "t": "mendacissimi", "v": "fraudulenti", "x": "impii", "y": "infidi", "z": "dolosi", "w": "scelerati"}}, {"name": "full_chunk_0033 · col C", "chunk": "full_chunk_0033", "words": {"a": "solum", "b": "verum", "c": "optimum", "d": "maximum", "e": "piissimum", "f": "pientissimum", "g": "ineffabilem", "h": "inestimabilem", "i": "immortalem", "k": "inuisibilem", "l": "pium", "m": "unicum", "n": "mitem", "o": "potentem", "p": "omnipotentem", "q": "cunctipotentem", "r": "incircumscriptu", "s": "inaccessibilem", "t": "incommutabilem", "v": "incorruptibilem", "x": "potentissimum", "y": "fortissimum", "z": "mitissimum", "w": "sapientissimum"}}, {"name": "full_chunk_0034 · col A", "chunk": "full_chunk_0034", "words": {"a": "omnium", "b": "cunctorum", "c": "vniuersorum", "d": "inuisibilium", "e": "visibilium", "f": "mortalium", "g": "celorum", "h": "mundi", "i": "orbis", "k": "celi", "l": "terre", "m": "bois", "n": "hominu", "o": "humanitatis", "p": "vniuerfitatis", "q": "supernozum", "r": "mundanozum", "s": "mundialium", "t": "christicolarum", "v": "christianozum", "x": "dominationum", "y": "principatum", "z": "potestatum", "w": "angelozum"}}, {"name": "full_chunk_0035 · col A", "chunk": "full_chunk_0035", "words": {"a": "Omiseri", "b": "Omiselli", "c": "Omiserandi", "d": "Omiserrimi", "e": "Omiserabiles", "f": "O infelicissimi", "g": "O stultissimi", "h": "O perditi", "i": "O infelices", "k": "O vos", "l": "Sed vos", "m": "O vani", "n": "O boni", "o": "O perituri", "p": "O perditissimi", "q": "Ideo vos", "r": "Vos igitur", "s": "Vos itaqz", "t": "O vanissimi", "v": "O increduli", "x": "O negligentes", "y": "O pauperrimi", "z": "O abjectissimi", "w": "O insipientes"}}, {"name": "full_chunk_0036 · col A", "chunk": "full_chunk_0036", "words": {"a": "cauillones", "b": "occosates", "c": "ceuimagni", "d": "caninephates", "e": "cyranores", "f": "gammani", "g": "cerocates", "h": "diablinthres", "i": "eburonices", "k": "flustates", "l": "garocelli", "m": "hedui", "n": "harudes", "o": "helveceti", "p": "heluij", "q": "iceni", "r": "lingones", "s": "lentij", "t": "leonii", "v": "leonienes", "x": "leuaci", "y": "mandubii", "z": "marcomanni", "w": "morini"}}, {"name": "full_chunk_0037 · col A", "chunk": "full_chunk_0037", "words": {"a": "putatis", "b": "reputatis", "c": "metuitis", "d": "cogitatis", "e": "putabitis", "f": "reputabitis", "g": "cogitabitis", "h": "recogitabitis", "i": "recogitatis", "k": "estimabitis", "l": "estimatis", "m": "reputaueritis", "n": "pauebitis", "o": "expauescitis", "p": "pauescitis", "q": "pauetis", "r": "existimatis", "s": "existimabitis", "t": "precauebitis", "v": "precauetis", "x": "cauebitis", "y": "cauetis", "z": "formidatís", "w": "consideratis"}}, {"name": "full_chunk_0038 · col G", "chunk": "full_chunk_0038", "words": {"a": "bosnam", "b": "misiam", "c": "achaiam", "d": "moream", "e": "gedrosiam", "f": "paradenam", "g": "drangianam", "h": "omodagastaram", "i": "aramagatam", "k": "callensnanam", "l": "basachatam", "m": "arochosiam", "n": "paropaniam", "o": "zamzibaram", "p": "daradre", "q": "vrsanam", "r": "indioscites", "s": "parsiatam", "t": "caspiriam", "v": "cilindinam", "x": "condalim", "y": "adisatri", "z": "aricam", "w": "ionam"}}, {"name": "full_chunk_0039 · col A", "chunk": "full_chunk_0039", "words": {"a": "incolis", "b": "civibus", "c": "christianis", "d": "christicolis", "e": "credentibus", "f": "fidelibus", "g": "nostris", "h": "viris", "i": "iustis", "k": "sanctis", "l": "bonis", "m": "pueris", "n": "fratrib", "o": "repertis", "p": "inuentis", "q": "credulis", "r": "religiosis", "s": "hominibus", "t": "habitatoribus", "v": "viuentibus", "x": "ortodoris", "y": "ecclesiasticis", "z": "catholicis", "w": "discipulis"}}, {"name": "full_chunk_0040 · col A", "chunk": "full_chunk_0040", "words": {"a": "intenti", "b": "dediti", "c": "occupati", "d": "preoccupati", "e": "implicati", "f": "vacantes", "g": "servientes", "h": "inferuientes", "i": "deservientes", "k": "subseruientes", "l": "indulgentes", "m": "famulantes", "n": "insudantes", "o": "mancipati", "p": "studentes", "q": "immersi", "r": "inuoluti", "s": "polluti", "t": "assueti", "v": "consueti", "x": "suffocati", "y": "innodati", "z": "concedentes", "w": "consentientes"}}, {"name": "full_chunk_0041 · col A", "chunk": "full_chunk_0041", "words": {"a": "necantes", "b": "enecantes", "c": "occidentes", "d": "prefocantes", "e": "suffocantes", "f": "perimentes", "g": "extinguentes", "h": "interimentes", "i": "interficientes", "k": "mortificantes", "l": "submergentes", "m": "exterminantes", "n": "euiscerantes", "o": "detruncantes", "p": "crucifigentes", "q": "suspendentes", "r": "excoriantes", "s": "cruciantes", "t": "torquentes", "v": "punientes", "x": "mactantes", "y": "truncantes", "z": "perdentes", "w": "trucidantes"}}], "chunk_count": 64}, "tabula_recta": {"alphabet": ["a", "b", "c", "d", "e", "f", "g", "h", "i", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "v", "x", "y", "z", "w"], "note": "Caesar-rotation over the 24-letter Latin alphabet (no j; v/u and w at the end). Generated algorithmically — the OCR'd grid is partially corrupt."}, "numerical_letters": {"by_number": {"1": "a", "2": "b", "3": "c", "4": "d", "5": "e", "6": "f", "7": "g", "8": "h", "9": "i", "10": "k", "11": "ka", "12": "kb", "13": "kc", "14": "kd", "15": "ke", "16": "kf", "17": "kg", "18": "kh", "19": "ki", "20": "l", "21": "la", "22": "lb", "23": "lc", "24": "ld", "25": "le", "26": "lf", "27": "lg", "28": "lh", "29": "li", "31": "ma", "32": "mb", "33": "mc", "34": "md", "35": "me", "36": "mf", "37": "mg", "38": "mh", "39": "mi", "40": "nj", "41": "nja", "42": "njb", "43": "njc", "44": "njd", "45": "nje", "46": "njf", "47": "njg", "48": "njh", "49": "i", "50": "n", "51": "na", "52": "nb", "53": "nc", "54": "nd", "55": "ne", "56": "nf", "57": "ng", "58": "nh", "59": "ni", "61": "oa", "62": "ob", "63": "oc", "64": "od", "65": "oe", "66": "of", "67": "og", "68": "oh", "69": "oi", "70": "p", "71": "pa", "72": "pb", "73": "pc", "74": "pd", "75": "pe", "76": "pf", "77": "pg", "78": "ph", "79": "pi", "80": "q", "81": "qa", "82": "qb", "83": "qc", "84": "qd", "85": "qe", "86": "qf", "87": "qg", "88": "qb", "89": "qi", "91": "ra", "92": "rb", "93": "rc", "94": "rd", "95": "re", "96": "rf", "97": "rg", "98": "rh", "99": "ri", "100": "q", "101": "r", "102": "s", "103": "t", "104": "u", "105": "v", "106": "w", "107": "x", "108": "y", "109": "z", "200": "a", "300": "b", "400": "c", "500": "d", "600": "e", "700": "f", "800": "g", "900": "h", "1002": "i", "1003": "z", "1004": "wd", "1005": "we", "1006": "wf", "1007": "wg", "1008": "wh", "1009": "wi", "2000": "bw", "3000": "cw", "4000": "dw", "5000": "cw", "6000": "fw", "7000": "gw", "8000": "bw", "9000": "iw", "10000": "kw", "20000": "lw", "30000": "mw", "40000": "nw", "50000": "ow", "60000": "pw", "80000": "qw", "90000": "rw", "100000": "sw", "200000": "tw", "300000": "vw", "400000": "uw", "500000": "xw", "600000": "yw"}, "ambiguous": [], "note": "Trithemius's positional letter-codes. Some codes collide in the OCR'd source; codes mapping to multiple numbers are flagged in 'ambiguous_codes'.", "ambiguous_codes": {"a": [1, 200], "b": [2, 300], "c": [3, 400], "d": [4, 500], "e": [5, 600], "f": [6, 700], "g": [7, 800], "h": [8, 900], "i": [9, 49, 1002], "q": [80, 100], "qb": [82, 88], "z": [109, 1003], "bw": [2000, 8000], "cw": [3000, 5000]}}, "spirits": [{"name": "Pamerfiel", "direction": "East", "glyphs": "T", "numbers": ["1000.", "10000.", "10.", "0.0."], "segment": 6, "work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"}, {"name": "Padiel", "direction": "Subsolanus", "glyphs": ";", "numbers": ["10000.", "200000.", "10.", "0.0."], "segment": 7, "work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"}, {"name": "Camuel", "direction": "Eurus", "glyphs": "♈", "numbers": ["10.", "10.", "10.", "10.0."], "segment": 7, "work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"}, {"name": "Aseliel", "direction": "Euroauster", "glyphs": "☉", "numbers": ["10.", "20.", "10.", "0.10."], "segment": 7, "work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"}, {"name": "Barmiel", "direction": "South", "glyphs": "☞", "numbers": ["10.", "20.", "10.", "20.0."], "segment": 7, "work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"}, {"name": "Gediel", "direction": "Austricus", "glyphs": "☯", "numbers": ["20.", "20.", "19.0.", "30.0."], "segment": 7, "work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"}, {"name": "Asyriel", "direction": "Africus", "glyphs": "☐ ☝   ", "numbers": ["20.", "20.", "120.", "10."], "segment": 7, "work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"}, {"name": "Maseriel", "direction": "Favonius", "glyphs": "☿", "numbers": ["30.", "30.", "10.0.", "0.10."], "segment": 7, "work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"}, {"name": "Malgaras", "direction": "West", "glyphs": "☒ ☓", "numbers": ["30.", "30.", "0.30.", "210."], "segment": 7, "work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"}, {"name": "Dorothiel", "direction": "Chorus", "glyphs": "☽", "numbers": ["40.", "40.", "0.40.", "30.0."], "segment": 7, "work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"}, {"name": "Usiel", "direction": "Subcircius", "glyphs": "☾ ☾", "numbers": ["40.", "40.", "0.30.", "0.0."], "segment": 7, "work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"}, {"name": "Cabariel", "direction": "Circius", "glyphs": "☶ ☸", "numbers": ["50.", "50.", "80.0.", "80.0."], "segment": 7, "work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"}, {"name": "Rayfiel", "direction": "North", "glyphs": "♋", "numbers": ["50.", "50.", "80.0.", "0.50."], "segment": 7, "work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"}, {"name": "Symiel", "direction": "Aquilo", "glyphs": "♌ ♍", "numbers": ["10.", "1000.", "19.", "100."], "segment": 7, "work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"}, {"name": "Armadiel", "direction": "Boreas", "glyphs": "♎ ♏", "numbers": ["1000.", "180.", "810.", "69."], "segment": 7, "work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"}, {"name": "Baruchas", "direction": "Vulturnus", "glyphs": "♐ ♑", "numbers": ["10.", "180.", "810.", "00."], "segment": 7, "work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"}]};</script>
+<script src="static/cipher-lab.js"></script>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-cols">
+      <div>
+        <h4>Browse</h4>
+        <a href="works.html">The works</a>
+        <a href="works-trithemius-4b.html">Trithemius 4B editions</a>
+        <a href="ciphers.html">The ciphers</a>
+        <a href="scoreboard.html">Quality tiers</a>
+      </div>
+      <div>
+        <h4>About</h4>
+        <a href="methodology.html">Methodology &amp; limitations</a>
+        <a href="LICENSE.html">License &amp; rights</a>
+      </div>
+      <div>
+        <h4>Project</h4>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus">Source on GitHub</a>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/blob/main/CONTRIBUTING.md">Contribute corrections</a>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/blob/main/CITATION.cff">How to cite</a>
+      </div>
+    </div>
+    <p class="footer-byline muted">
+      Machine-assisted English translations of the Latin works of Johannes Trithemius (1462&ndash;1516).
+      Every translation is machine-produced and independently audited; for scholarly quotation, check the Latin.
+      Translations &amp; generated data: public domain (CC0). Methodology, docs &amp; code: CC BY 4.0. Compiled 2026 by Ian Carlos Fabin.
+    </p>
+  </div>
+</footer>
+<script>
+  // Mobile nav toggle — collapses the site-nav into a hamburger menu on
+  // narrow viewports. ARIA-expanded reflects state; clicking a link or
+  // outside closes it.
+  (function () {
+    var toggle = document.querySelector('.nav-toggle');
+    var nav = document.getElementById('siteNav');
+    if (!toggle || !nav) return;
+    function setOpen(open) {
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+      nav.classList.toggle('is-open', open);
+    }
+    toggle.addEventListener('click', function () {
+      setOpen(toggle.getAttribute('aria-expanded') !== 'true');
+    });
+    // close on link click (mobile) and on Escape
+    nav.addEventListener('click', function (e) { if (e.target.tagName === 'A') setOpen(false); });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && toggle.getAttribute('aria-expanded') === 'true') setOpen(false);
+    });
+    // reset on resize back to desktop
+    window.addEventListener('resize', function () {
+      if (window.innerWidth > 760) setOpen(false);
+    });
+  })();
+
+  // Theme switcher — persists choice in localStorage under 'tc-theme'.
+  // Theme switcher — steganographia (default dark), parchment (light), ink
+  // (high-contrast), candlelight (warm dark), and auto (follow OS preference).
+  (function () {
+    var root = document.documentElement;
+    function resolveAuto() {
+      try {
+        return window.matchMedia &&
+               window.matchMedia('(prefers-color-scheme: light)').matches
+               ? 'parchment' : 'steganographia';
+      } catch (e) { return 'steganographia'; }
+    }
+    function applyTheme(t) {
+      // track the chosen theme (incl. auto) on data-tc-theme; paint the
+      // concrete theme on data-theme.
+      if (t === 'auto') {
+        root.setAttribute('data-tc-theme', 'auto');
+        var r = resolveAuto();
+        if (r === 'steganographia') root.removeAttribute('data-theme');
+        else root.setAttribute('data-theme', r);
+      } else {
+        root.removeAttribute('data-tc-theme');
+        if (t === 'steganographia') root.removeAttribute('data-theme');
+        else root.setAttribute('data-theme', t);
+      }
+    }
+    var current = 'steganographia';
+    try { current = localStorage.getItem('tc-theme') || 'steganographia'; } catch (e) {}
+    applyTheme(current);
+    // if OS preference changes while 'auto' is selected, re-resolve live
+    try {
+      window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', function () {
+        if ((localStorage.getItem('tc-theme') || '') === 'auto') applyTheme('auto');
+      });
+    } catch (e) {}
+    document.querySelectorAll('.theme-switcher button[data-set]').forEach(function (btn) {
+      var pressed = btn.getAttribute('data-set') === current;
+      btn.setAttribute('aria-pressed', pressed ? 'true' : 'false');
+      btn.addEventListener('click', function () {
+        var t = btn.getAttribute('data-set');
+        try { localStorage.setItem('tc-theme', t); } catch (e) {}
+        applyTheme(t);
+        document.querySelectorAll('.theme-switcher button[data-set]').forEach(function (b) {
+          b.setAttribute('aria-pressed', b.getAttribute('data-set') === t ? 'true' : 'false');
+        });
+      });
+    });
+  })();
+  // Reading progress bar (overall page scroll) + percentage indicator
+  (function(){
+    var bar=document.getElementById('readProgress');
+    var pct=document.getElementById('readProgressPct');
+    if(!bar)return;
+    var ticking=false;
+    function onScroll(){
+      if(ticking)return; ticking=true;
+      requestAnimationFrame(function(){
+        var h=document.documentElement.scrollHeight-window.innerHeight;
+        var p=h>0?Math.min(1,window.scrollY/h):0;
+        bar.style.transform='scaleX('+p.toFixed(3)+')';
+        bar.classList.toggle('is-active', p>0.02);
+        if(pct){
+          var n=Math.round(p*100);
+          pct.textContent=n<1?'':n+'%';
+          pct.setAttribute('aria-hidden', (n<3).toString());
+        }
+        ticking=false;
+      });
+    }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    onScroll();
+  })();
+  // Random work button — uses the work-ID list baked in at build time (no
+  // fetch() needed, so it works on file://, HTTP, and GitHub Pages).
+  (function(){
+    var btn=document.getElementById('randomWorkBtn');
+    if(!btn)return;
+    var workIds=window.TC_WORK_IDS||[];
+    btn.addEventListener('click',function(e){
+      e.preventDefault();
+      if(!workIds.length){
+        // graceful fallback: go to the works listing
+        window.location.href=btn.href;
+        return;
+      }
+      var pick=workIds[Math.floor(Math.random()*workIds.length)];
+      // resolve relative to this page (works/<id>.html)
+      var base=btn.href.replace(/works\.html.*$/,'');
+      window.location.href=base+'works/'+pick+'.html';
+    });
+  })();
+  // Cipher substitution tables: tag each .table-scroll that overflows
+  // horizontally so the CSS right-edge scroll affordance (the ::after fade)
+  // only appears when there is actually more to scroll sideways.
+  (function () {
+    function tagScroll() {
+      document.querySelectorAll('.table-scroll').forEach(function (ts) {
+        if (ts.scrollWidth > ts.clientWidth + 2) ts.classList.add('scrollable-x');
+        else ts.classList.remove('scrollable-x');
+      });
+    }
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(tagScroll);
+    window.addEventListener('load', tagScroll);
+    var t; window.addEventListener('resize', function () { clearTimeout(t); t = setTimeout(tagScroll, 150); });
+  })();
+</script>
+</body>
+</html>

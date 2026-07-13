@@ -1,0 +1,21 @@
+they were accustomed daily to [unclear] the fervor of the spirit. One, through the study of sacred reading, impelled his mind to the compunction of devotion; another, through meditation, stirred up the sweet remembrance of the Passion; another, through continuance in holy purpose, set before his inner eyes each day the image of death close at hand; another, by a fixed manner in prayers, daily offered himself to the Lord with tears. None among them is believed to have been without a daily spiritual exercise of the mind; none is found to have been given to idleness, because the kingdom of God is promised to those who labor in the vineyard of the Lord, but denied to the idle.
+
+Considering this, the devout fathers of the annual chapter unanimously decreed to take up the present exercise and to present it for practice to their subjects who do not have better things. And although so great a multitude of monks subject to the aforesaid chapter neither can nor should be restricted to the formula of a single exercise, nevertheless it is proposed to all in common, so that anyone who does not have a better exercise may use it. It is especially fitting that those newly converted to the order should exercise themselves in the manner set forth below, until, founded in humility, they may grow through compunction to better things. But those who think that they have already for a long time been dwelling in higher things through accustomed devotion should at least allow these things to the little ones without envy. For I do not doubt that many live in the order devoted to better modes of spiritual exercise, who have learned by long habit to remain in the highest region of the spirit through the ray of divine love. On these we in no way force our childish things, since we know that they are higher than the steps of the present exercise. For we, imperfect as we are, write for beginners who are starting to make progress; we are humbly prepared not to teach the perfect, but rather to hear them as teachers.
+
+*Here begins the second principal part of the little work on the threefold region of cloistered persons, which contains the manner and form of the daily exercise of monks.*
+
+One who is to serve as a soldier for our true king Jesus Christ according to the monastic rule should first strive humbly and perseveringly to take up the strongest weapons of holy obedience; then he should accustom himself to be continually exercised in holy works, to persist in prayers without ceasing and with devotion, and to love God above all things. Whatever he does, let him place the honor of God alone before it; whatever he begins, let him always first send prayer to the Lord. For indeed, he speaks with the Lord God who is always occupied in devout prayers. But so that a good cenobite may continually have at hand a manner of praying with elevation of mind, he should not fail to read the present little work more frequently and with attention. For in it we have arranged for the several hours and offices certain brief little prayers, through which the mind more often raises itself to the love of heavenly things and more frequently renews the fervor of holy purpose.
+
+*At Matins.*
+
+When the devout cenobite, awakened, rises for Matins, he should at once shake from himself all the sluggishness of sleepiness and believe that he has been called to serve as a soldier for his Lord, to whom he has made profession. Therefore let him strive to meet his king with cheerfulness, and humbly to prepare himself with fervor of spirit for his immortal service. Immediately let him raise himself from his bed with the greatest propriety, and, sitting on his bed, fortifying himself with the sign of the cross, let him say:
+
+*Prayer.*
+
+In the name of the Father, and of the Son, and of the Holy Spirit. Amen.
+
+Blessed be the name of the Lord, from this time forth and forever.
+
+Then, descending from his bed, with knees bent, let him say:
+
+I give thanks to you, almighty God, who have deigned to guard me, an unworthy sinner, during this night. I ask you, through your mercy, to direct me during this day and at every time in your praise, to keep me clean from sin, and sweetly to enkindle me in your most holy love. Or let him say:

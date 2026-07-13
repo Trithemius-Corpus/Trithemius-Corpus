@@ -1,0 +1,15 @@
+Homily XVI.
+
+When he thinks of dwelling there, he weeps over his exile prolonged on earth. He loves nothing in this world except Jesus; he seeks nothing other than him crucified. If riches are present, he utterly refuses to set his heart on them; but if they are lacking, he does not seek to find them. For since he knows himself to be a disciple of the poor Jesus, he understands very well that the riches of this world are a great obstacle to Christian perfection. Having scant food and a poor covering for his body, he is content with his Lord, who became poor for us and foretold that those who hunger for righteousness are blessed.
+
+Happy, I say, is that monk who can truly say with the holy martyr of Christ, Theophorus: “My love is crucified, and therefore my heart receives no consolation of this world.” And that saying of the Christ-loving Paul: “The world is crucified to me, and I to the world.”
+
+Now therefore, my dearest brothers, hear my counsel, and sanctify the fast you have begun by continual remembrance of the Lord’s Passion. For I tell you that, among all the exercises of monks, none can be holier, none more acceptable to God, none more wholesome for you, than that which is practiced in meditation on the Passion of our Lord Jesus Christ with daily diligence and with the compunction of inward love. For this exercise of the saving Passion suddenly makes a penitent out of a sinner, a devout man by wondrous compunction out of one who is lukewarm and dry, and a just man out of an impious one. It covers a multitude of sins; it gives strength to the spirit against demons; it sets an end to all vices; and it gives strong increase to the holy virtues of the soul.
+
+Devout and continual remembrance of the Lord’s Passion purifies the conscience of the one who meditates, enlightens the understanding in every knowledge of truth, and sweetly inflames the affection in the love of God. Devout meditation on Christ’s Passion makes one despise all the delights of this world and fear nothing, however hard or contrary. It destroys lust; subdues luxury of both mind and body; drives away envy; restrains gluttony; calms avarice; sets sloth aflame; softens anger; and roots out pride. Moreover, no passion for any carnal thing wearies the mind of the man whom the Passion of Christ truly occupies.
+
+O how sweetly he burns whom the memory of Jesus’ Passion gently inflames; and how happily that mind grows fervent which embraces continual meditation on Christ’s death. O good Jesus, my crucified love, who are the salvation and savior of faithful souls, grant us to keep continual remembrance of your Passion; grant your servants always to commend the fasts they have begun with good works, because then our abstinence will be most pleasing to your uncircumscribable majesty, when it has been adorned by meditation on your precious blood; you who live and reign with God the Father in the unity of the Holy Spirit, God, for ever and ever.
+
+On the sleep and waking of monks.
+
+On the sleep and waking of monks. Homily XVII.

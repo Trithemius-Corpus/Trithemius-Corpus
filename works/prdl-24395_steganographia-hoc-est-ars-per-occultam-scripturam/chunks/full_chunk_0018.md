@@ -1,0 +1,13 @@
+*Book One.*
+
+Write whatever prayer you wish, or any letters containing nothing secret.
+
+[unclear] 27 Kostli
+
+O almighty, everlasting God, most just rewarder of good things, who willed your Son to share in our race, that he might redeem us most wretched ones from the devil’s envy; who by goodness alone [unclear] took on our [form?], incorrupt from the flower of the virginal womb, as the holy archangel Gabriel made known, so that the Virgin, about to conceive by your most blessed Spirit, would remain a perpetual Virgin, immaculate, [unclear], more eminent than men and angelic spirits. The most holy and most reverend Virgin Mary, wholly knowing nothing of male union, bore the omnipotent King, God and man, giving birth without pain, receiving without sadness the wailing God and man, always remaining immaculate, most chaste, most innocent, higher than men by the virtue of humility, full of charity, most worthy of all praise, and to be venerated by all: most blessed and always to be praised by the angels, most resplendent empress, noble, renowned, and truly most splendid. Whatever she asks, your Son admits in all things with most holy condescension, and reverently venerates her as his mother, more excellent than all creatures. He has never been accustomed to deny her anything when she asks it; but reverently consents to your most holy will, granting all things for her honor, she who will stand for us on the last day, helping us who venerate the Virgin’s kindly and illustrious merits. O God, light of truth, we most devoutly beseech you: pour into us, O God, grace and mercy, and grant pardon to all who call upon you and humbly ask remission of their faults; and do not despise us wretched ones, but mercifully receive us, trusting in your goodness, for love of the Virgin Mary, who rejoices in God, and of all your elect. Amen. I, Johannes Trithemius, abbot of Sponheim, wrote this in the year of the Lord’s incarnation or birth 1500, on the fourth day before the Ides of March.
+
+When the person to whom the letters are sent receives them, once the sign of Materiel has been recognized, let him turn toward Favonius; and, after the things secretly required for the art have been set forth, let him call the very spirit that was sent, adding the conjuration.
+
+*Conjuration.*
+
+Maseriel oneat Camersin, Cohodor lyrno balnaon greal, lamedon odiel, pedarnoy nador ianozauy chamyrin. When the conjuration has been completed as is proper, the spirit that has been sent will appear veiled in mist. And when the mystical word has been spoken, he will speak the truth into the ear, and will faithfully disclose everything that had been entrusted to him. No one, however, [unclear] circum-

@@ -1,0 +1,132 @@
+--- Page 409 ---
+a atropas a megalas a lusanas 889
+b atropes b megales b lusanes 890
+c atropis c megalis c lusanis 891
+d atropos d megalos d lusanos 892
+e atropus e megalus e lusanus 893
+f atropa f megala f lusana 894
+g atrope g megale g lusane 895
+h atropi h megali h lusani 896
+i atropo i megalo i lusano 897
+k atropu k megalu k lusanu 898
+l atropai l megalan l lusanar 899
+m atropei m megalen m lusaner 900
+n atropij n megalin n lusanir 901
+o atropoi o megalon o lusanoz 902
+p atropui p megalun p lusanur 903
+q atropan q megalat q lusanal 904
+r atropen r megalet r lusanel 905
+s atropin s megalit s lusanil 906
+t atropon t megalot t lusanol 907
+v atropun v megalut v lusanul 908
+x atropax x megalar x lusanat 909
+y atropex y megaler y lusanet 910
+z atropix z megalir z lusanit 911
+ꝛv atropox ꝛv megalor ꝛv lusanot 912
+k ij
+
+--- Page 410 ---
+a helmat a thosara a bemas 913
+b helmet b thosare b bemes 914
+c helmit c thosari c bemis 915
+d helmot d thosaro d bemos 916
+e helmut e thosaru e bemus 917
+f helman f thosaras f bema 918
+g helmen g thosares g beme 919
+h helmin h thosaris h bemi 920
+i helmon i thosaros i bemo 921
+k helmun k thosarus k bemu 922
+l helmas l thosaran l bemal 923
+m helmes m thosaren m bemel 924
+n helmis n thosarin n bemil 925
+o helmos o thosaron o bemol 926
+p helmus p thosarun p bemul 927
+q helmar q thosarat q bemat 928
+r helmer r thosaret r bemet 929
+s helmir s thosarit s bemit 930
+t helmor t thosarot t bemot 931
+v helmur v thosarut v bemut 932
+x helmax x thosaral x bemar 933
+y helmex y thosarel y bemer 934
+z helmix z thosaril z bemir 935
+ꝛv helmox ꝛv thosarol ꝛv bemor 936
+
+--- Page 411 ---
+a ozomat a hozam a alapas 937
+b ozomet b hozem b alapes 938
+c ozomit c hozim c alapis 939
+d ozomot d hozom d alapos 940
+e ozomut e hozum e alapus 941
+f ozomas f hozas f alapat 942
+g ozomes g hozes g alapet 943
+h ozomis h hozis h alapit 944
+i ozomos i hozos i alapot 945
+k ozomus k hozus k alaput 946
+l ozoman l hozal l alapan 947
+m ozomen m hozel m alapen 948
+n ozomin n hozil n alapin 949
+o ozomon o hozol o alapon 950
+p ozomun p hozul p alapun 951
+q ozomal q hozar q alapay 952
+r ozomel r hozer r alapey 953
+s ozomil s hozir s alapiy 954
+t ozomol t hozor t alapoy 955
+v ozomul v hozur v alapuy 956
+x ozomay x hozat x alapar 957
+y ozomey y hozet y alaper 958
+z ozomoy z hozit z alapir 959
+ꝛv ozomuy ꝛv hozot ꝛv alapoz 960
+k ij
+
+--- Page 412 ---
+a damas a genedal a amena 961
+b dames b genedel b amene 962
+c damis c genedil c ameni 963
+d damos d genedol d ameno 964
+e damus e genedul e amenu 965
+f damar f geneda f amenas 966
+g damer g genede g amenes 967
+h damir h genedi h amenis 968
+i damor i genedo i amenos 969
+k damur k genedu k amenus 970
+l damal l genedar l amenal 971
+m damel m geneder m amenel 972
+n damil n genedir n amenil 973
+o damol o genedor o amenol 974
+p damul p genedur p amenul 975
+q daman q genedas q amenar 976
+r damen r genedes r amener 977
+s damin s genedis s amenir 978
+t damon t genedos t amenor 979
+v damun v genedus v amenur 980
+x damar x genedat x amenay 981
+y damer y genedet y ameney 982
+z damix z genedit z amenoy 983
+ꝛv damor ꝛv genedot ꝛv amenuy 984
+
+--- Page 413 ---
+a baschay a nas a caman 985
+b baschey b nes b camen 986
+c baschiy c nis c camin 987
+d baschoy d nos d camon 988
+e baschuy e nus e camun 989
+f baschar f nax f camas 990
+g bascher g nex g cames 991
+h baschir h nix h camis 992
+i baschor i nox i camos 993
+k baschur k nux k camus 994
+l baschal l nal l camal 995
+m baschel m nel m camel 996
+n baschil n nil n camil 997
+o baschol o nol o camol 998
+p baschul p nul p camul 999
+q baschata q nan q camar 1000
+r baschate r nen r camer 1001
+s baschati s nin s camir 1002
+t baschato t non t camor 1003
+v baschatu v nun v camur 1004
+x baschas x nay x camat 1005
+y basches y ney y camet 1006
+z baschis z noy z camit 1007
+ꝛv baschos ꝛv nuy ꝛv camot 1008
+K iiij

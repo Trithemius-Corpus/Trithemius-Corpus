@@ -1,0 +1,201 @@
+{% extends "base.html.j2" %}
+{% from "_macros.html.j2" import breadcrumb with context %}
+{% block title %}{{ work.title }} &mdash; Trithemius Corpus{% endblock %}
+{% block body %}
+
+<article class="work{% if work.edition == 'trithemius-4b' %} work-t4b{% endif %}">
+{{ breadcrumb([("index.html", "Home"), ("works.html", "Works"),
+               ("genres/" + work.genre + ".html", work.genre_label) if work.genre else None,
+               (None, work.title)]|select|list) }}
+
+<header class="work-header">
+  <h2 class="work-title">{{ work.title }}</h2>
+  {% if work.title_en %}<p class="work-subtitle">{{ work.title_en }}</p>{% endif %}
+  <p class="work-id"><code>{{ work.id }}</code></p>
+  {% if work.edition == 'trithemius-4b' %}<p class="work-edition"><strong>{{ work.edition_label }}</strong> &middot; <span class="primary-tag">recommended edition</span></p>{% elif work.edition_label %}<p class="work-edition">Edition {{ work.edition_index }} of {{ work.edition_count }} of this text in the corpus &middot; <strong>{{ work.edition_label }}</strong>{% if work.is_primary %} &middot; <span class="primary-tag">recommended source witness</span>{% endif %}</p>{% endif %}
+  <div class="badges">
+    {% if work.tier %}
+    <span class="badge tier-{{ work.tier|lower }}">Tier {{ work.tier }}</span>
+    <span class="badge">faith {{ '%.2f'|format(work.faithful_adj) }}</span>
+    <span class="badge">fluent {{ '%.2f'|format(work.fluent_adj) }}</span>
+    {% endif %}
+    {% if work.genre %}<a class="badge badge-link" href="{{ url('genres/' + work.genre + '.html') }}">{{ work.genre_label }}</a>{% endif %}
+    {% if work.edition == 'trithemius-4b' %}<span class="badge badge-primary" title="The recommended English reading edition">&#9733;&nbsp;recommended edition</span>{% elif work.is_primary %}<span class="badge badge-primary" title="The cleanest Latin source among this text's scanned witnesses">recommended source witness</span>{% endif %}
+    {% if work.first_english %}<span class="badge first-en" title="{{ work.first_english_note }}">first English</span>{% endif %}
+    {% if work.page_count %}<span class="badge">{{ work.page_count }}&nbsp;pp</span>{% endif %}
+    {% if work.unclear_count and work.unclear_count > 0 %}<span class="badge" title="{{ work.unclear_count }} [unclear] markers remaining">{{ work.unclear_count }}&nbsp;gaps</span>{% endif %}
+    {% if has_errata %}<span class="badge badge-link" title="Editorial corrections recorded"><a href="#errata" style="color:inherit;text-decoration:none">&#9998;&nbsp;errata</a></span>{% endif %}
+    {% if has_parallel %}<a class="badge badge-link" href="{{ url('works/' + work.id + '_parallel.html') }}">Latin&thinsp;/&thinsp;English&nbsp;viewer</a>{% endif %}
+    {% if solve %}<a class="badge badge-solved" href="{{ url('cipher-solutions.html') }}">&#128274;&nbsp;ciphers&nbsp;solved</a>{% endif %}
+  </div>
+</header>
+
+<section class="work-meta">
+  <table class="meta-table">
+    <tbody>
+      {% if work.source.provider %}
+      <tr>
+        <th>Source</th>
+        <td>
+          {{ work.source.provider }}
+          {% if work.source.url %} &middot; <a href="{{ work.source.url }}">catalogue record</a>{% endif %}
+          {% if work.source.download_url %} &middot; <a href="{{ work.source.download_url }}">PDF</a>{% endif %}
+        </td>
+      </tr>
+      {% endif %}
+      {% if work.year %}<tr><th>Composed</th><td>{{ work.year }}</td></tr>{% endif %}
+      {% if work.source_year and work.source_year != work.year %}<tr><th>Edition (this witness)</th><td>{{ work.source_year }}</td></tr>{% endif %}
+      {% if work.year_note %}<tr><th>Date note</th><td>{{ work.year_note }}</td></tr>{% endif %}
+      {% if work.edition_info %}<tr><th>Source witness</th><td>{{ work.edition_info }}</td></tr>{% endif %}
+      {% if work.edition_siblings %}
+      <tr>
+        <th>Other editions</th>
+        <td>
+          This text survives in {{ work.edition_count }} editions in this corpus, each OCR&rsquo;d and translated independently from a different source scan:
+          {% for sib in work.edition_siblings %}<a href="{{ url('works/' + sib.id + '.html') }}">{{ sib.label }}</a>{% if sib.is_primary %} <span class="primary-tag">cleanest source witness</span>{% endif %}{% if not loop.last %} &middot; {% endif %}{% endfor %}.
+        </td>
+      </tr>
+      {% endif %}
+      {% if work.duplicate_source_note %}<tr><th>Source note</th><td>{{ work.duplicate_source_note }}</td></tr>{% endif %}
+      {% if work.chunks_graded %}<tr><th>Audited chunks</th><td>{{ work.chunks_graded }} graded / {{ work.chunks_total }} total ({{ '%.0f'|format(work.coverage_pct) }}%)</td></tr>{% endif %}
+      {% if reading_time %}<tr><th>Reading time</th><td>~{{ reading_time }}</td></tr>{% endif %}
+      {% if work.hallucinated_pct is not none %}<tr><th>Hallucinated</th><td>{{ '%.0f'|format(work.hallucinated_pct) }}%</td></tr>{% endif %}
+      {% if work.low_pct is not none %}<tr><th>Low-faith</th><td>{{ '%.0f'|format(work.low_pct) }}% of chunks</td></tr>{% endif %}
+    </tbody>
+  </table>
+</section>
+
+{% if solve %}
+<aside class="solve-callout">
+  <div class="solve-callout-head">
+    <span class="solve-icon">&#128274;</span>
+    <h3>{{ solve.title }}</h3>
+  </div>
+  <p>{{ solve.blurb|safe }}</p>
+  <div class="solve-callout-foot">
+    <span class="solve-modi">Modi solved: {{ solve.modi|join(", ") }}</span>
+    <a class="solve-link" href="{{ url('cipher-solutions.html') }}">See the char-aligned decodes &rarr;</a>
+  </div>
+</aside>
+{% endif %}
+
+{% if work_cover %}<div class="work-cover-wrap">{{ work_cover|safe }}</div>{% endif %}
+
+<section class="work-intro">
+  <h3>About this work</h3>
+  {% if intro %}
+  {{ intro|safe }}
+  {% else %}
+  <p class="placeholder muted">
+    Per-work introductory essay pending. The translation and source metadata below remain available.
+  </p>
+  {% endif %}
+</section>
+
+<section class="work-translation">
+  <h3>English translation</h3>
+  {% if english %}
+  {% include "_chapter_nav.html.j2" %}
+  <div class="reader-toolbar" role="toolbar" aria-label="Reading controls">
+    <button type="button" class="rt-toggle" id="rt-type-toggle"
+            aria-expanded="false" aria-controls="rt-type-panel" title="Type controls">&#9881;<span class="rt-label"> Type</span></button>
+    <span class="rt-spacer"></span>
+    <button type="button" class="rt-toggle" id="rt-read"
+            title="Read this page aloud">&#9655;<span class="rt-label"> Read aloud</span></button>
+  </div>
+  <div class="rt-type-panel" id="rt-type-panel" hidden>
+    <label>Size <input type="range" id="rt-font" min="90" max="135" step="5" value="100"><output for="rt-font">100%</output></label>
+    <label>Line height <input type="range" id="rt-line" min="140" max="200" step="5" value="162"><output for="rt-line">1.62</output></label>
+    <label>Width <input type="range" id="rt-width" min="32" max="60" step="2" value="44"><output for="rt-width">44rem</output></label>
+    <label class="rt-check"><input type="checkbox" id="rt-justify" checked> Justified</label>
+    <button type="button" id="rt-reset" class="rt-reset">Reset</button>
+  </div>
+  <div class="english-body">{{ english|safe }}</div>
+  {% else %}
+  <p class="placeholder muted">
+    No stitched English is available for this work (every translation segment
+    is a flagged placeholder). See <a href="{{ url('methodology.html') }}#11-limitations-known-failure-modes">Limitations</a>.
+  </p>
+  {% endif %}
+</section>
+
+{% if style_c %}
+<section class="work-style-c" id="special-renderings">
+  <h3>Special scholarly renderings</h3>
+  <p class="muted">
+    Parallel presentations for cipher tables, grids, untranslated passages,
+    and damaged prose. They keep uncertainty visible and should be read
+    alongside the Latin. See
+    <a href="{{ url('methodology.html') }}#10-special-scholarly-renderings-style-c">Methodology &sect;10</a>.
+  </p>
+  <ul class="style-c-list">
+    {% for ct_key, ct in style_c.items() %}
+    <li>
+      <a href="{{ url('works/' + work.id + '_style-c-' + ct_key + '.html') }}"><strong>{{ ct.label }}</strong></a>
+      &nbsp;<span class="badge">{{ ct.n }}&nbsp;{{ 'chunk' if ct.n == 1 else 'chunks' }}</span>
+      <div class="muted">{{ ct.blurb }}</div>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+<section class="work-cite">
+  <h3>Cite this translation</h3>
+  <p class="muted">
+    A machine translation should be cited as one, and checked against the Latin
+    before quotation (see <a href="{{ url('methodology.html') }}#12-what-this-corpus-is-good-for-and-what-it-is-not">the limitations</a>).
+    A repository-level <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/blob/main/CITATION.cff">CITATION.cff</a>
+    is also available; a Zenodo DOI will be added at the v1.0 release.
+  </p>
+  <pre class="cite-block">{{ citation }}</pre>
+</section>
+
+<section class="work-links">
+  <h3>Artifacts</h3>
+  <ul>
+    {% if has_parallel %}<li><a href="{{ url('works/' + work.id + '_parallel.html') }}">Side-by-side Latin&nbsp;/&nbsp;English viewer</a></li>{% endif %}
+    {% if style_c %}<li><a href="#special-renderings">Special scholarly renderings</a> (cipher tables and damaged passages, beside their facsimiles)</li>{% endif %}
+    <li><a href="#" onclick="window.print();return false;">Download as PDF</a> (typeset via your browser&rsquo;s print dialog)</li>
+    {% if work.source.url %}<li><a href="{{ work.source.url }}">Original source record</a>{% if work.source.download_url %} / <a href="{{ work.source.download_url }}">PDF</a>{% endif %} ({{ work.source.provider or 'provider' }})</li>{% endif %}
+    <li><a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/tree/main/works/{{ work.id }}">Repository folder</a></li>
+  </ul>
+</section>
+
+{% if related %}
+<section class="work-related">
+  <h3>More in {{ work.genre_label }}</h3>
+  <ul class="related-list">
+    {% for r in related %}
+    <li><a href="{{ url('works/' + r.id + '.html') }}"><em>{{ r.title }}</em></a>
+        <span class="muted">{{ r.title_en }}{% if r.year %}, {{ r.year }}{% endif %}</span></li>
+    {% endfor %}
+  </ul>
+  <p class="muted"><a href="{{ url('genres/' + work.genre + '.html') }}">All {{ work.genre_label }} texts &rarr;</a></p>
+</section>
+{% endif %}
+
+{% if has_errata %}
+<section class="work-errata" id="errata">
+  <h3>Editorial corrections</h3>
+  <details>
+    <summary>This work has recorded editorial corrections. Click to view.</summary>
+    {{ errata_html|safe }}
+  </details>
+</section>
+{% endif %}
+
+<nav class="work-prevnext" aria-label="Work navigation">
+  {% if prev_work %}<a class="prev" href="{{ url('works/' + prev_work + '.html') }}">&larr; Previous work</a>{% else %}<span class="prev muted">&larr;</span>{% endif %}
+  <a class="random" href="{{ url('works.html') }}" id="randomWorkBtn">&#127922; Random work</a>
+  {% if next_work %}<a class="next" href="{{ url('works/' + next_work + '.html') }}">Next work &rarr;</a>{% else %}<span class="next muted">&rarr;</span>{% endif %}
+</nav>
+
+</article>
+{# Bake the work-ID list so the random-work button needs no fetch() (which
+   is blocked on file://). Defined before base.html.j2's end-of-body script. #}
+<script>window.TC_WORK_IDS={{ all_work_ids|tojson }};</script>
+<script>window.TC_WORK={{ { 'id': work_id, 'title': work_title }|tojson }};</script>
+<script src="{{ asset('reader.js') }}"></script>
+
+{% endblock %}

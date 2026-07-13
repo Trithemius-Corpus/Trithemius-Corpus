@@ -1,0 +1,15 @@
+our adversary [unclear], who is never overcome more quickly than if he is choked off at once from the beginning. Constant practice is needed, brothers, because a mind always occupied in holy studies is like a very high tower of strength, in which the most watchful soldier of Jesus Christ, once stationed, fears no hostile ambushes.
+
+Therefore I beseech you, my dearest brothers, do not waste your time in idleness; do not increase within yourselves the material of vices, since you are not ignorant of the cunning of the evil spirit. Preserve continence in all things, and apply temperance, the guide of the virtues, to all your works. Always consider how you ought to walk before the Lord God in all religion and holiness, into whose words you have sworn, and live in such a way that you do not fear to appear at his judgment.
+
+You are monks, separated from the world by voluntary promise for the service of our Lord Jesus Christ; therefore, under the necessity of salvation, you must lead a higher and holier life than the rest of your fellow Christians, and overcome every depravity of flesh and soul. For you must always be most chaste in mind and body alike, and stained by no filth of corruptible flesh. An incontinent monk is an apostate; and one who defiles his flesh with the filth of women is like one who violates an oath. Lust is a pit of hell, and despair is always very near to incontinence.
+
+A monk who once slips into the pit of the flesh is rarely kindled to true compunction of heart. For the vice of fornication, growing strong through long habit, is not easily overcome unless it is corrected by force with contrary remedies. It is more difficult after a fall of the flesh to rise again to true chastity than to remain in continence once possessed. It is easier to fall from the state of uprightness into any vice than to correct a sin strengthened by habit. For, as a certain pagan truly says:
+
+Easy is the descent to Avernus;
+but to recall the step and escape to the upper airs,
+this is the task, this is the labor.
+
+Let us consider those who have fallen into this most foul pit and afterward, by the authority of their superiors, have been compelled to do penance: how do they live among the brothers? They do not have the signs of true compunction, but pass an unquiet life in dryness of heart. No devotion of mind is seen in them, but everywhere they follow the accustomed ways of the flesh. How rarely is anyone converted to the sweetness of inward love who has once plunged into the pit of fornication. For unless, before he comes into this misery, he has been grounded in the fear of the Lord, once fallen he returns with the greatest difficulty to true compunction.
+
+Therefore live soberly, dearest brothers, and always keep watch in holy prayers, because unless you walk most cautiously in all things, you will by no means be able to escape the snares of demons. Love abstinence; guard humility above all things. For no one can suppress the impulses of his flesh who has neglected to tame gluttony and pride.

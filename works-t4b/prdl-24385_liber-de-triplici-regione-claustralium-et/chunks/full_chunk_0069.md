@@ -1,0 +1,33 @@
+--- Page 148 ---
+
+Therefore whoever attempts to proclaim another must take care that he not be moved against his brother by the zeal of bitterness, because if the charity of the one proclaiming does not intervene, resentment does not amend the one proclaimed. Nor does the admonition of the one proclaiming bear fruit in the delinquent when the love of God and fraternal charity do not commend it. For since almighty God is supremely good, he will not give the fruit of compunction to your proclamation in your brother’s heart when he finds that you have been moved to proclaim not by charity but by displeasure. For where he finds the root of his charity, he will not deny good fruit. But if you perceive yourself to be moved by some indignation against your brother, it is better to defer the proclamation for a time than to heal another’s wound so cruelly.
+
+The third chapter is that of private humiliation.
+
+The third chapter is called that of private humiliation, whenever a brother is rebuked by a senior for his negligences. For our most holy father Benedict commands in chapter 71 of the Rule that a monk, when proclaimed in any place or at any time, as soon as he perceives the spirit of his senior to be even gently moved, ought to prostrate himself at that senior’s feet, and there humbly lie until his command. Here he is in no way permitted to excuse himself or to lay the fault on another; rather the monk is commanded to be silent and humbly acknowledge himself. For he who is a true monk neither murmurs when justly corrected nor excuses himself when unjustly proclaimed. Likewise in the divine offices and in the other conventual places, as soon as a devout cloistered monk offends in anything through negligence, by humbling himself there according to custom he makes satisfaction; and he chooses rather to act with greater penance in doubtful matters than to injure his conscience with less, or to procure scandal for others. But he who still understands this humiliation, to be undergone at every time and place, as burdensome and difficult, does not walk in the spirit but still lives carnally; and unless he has made this sense tributary to himself by subjugating it, he will never be a true and devout cloistered monk.
+
+K iii
+
+--- Page 149 ---
+
+The fourth chapter is that of deliberations and counsels.
+
+We call the fourth chapter deliberative, when we call the brothers to counsel for some difficult matter. Saint Benedict makes clear in the Rule how this chapter ought to be celebrated, concerning the brothers to be brought into counsel. Therefore the humble and true cloistered monk, when he has been called to counsel, approaches humbly, with reverence and modesty; when asked what he thinks, he speaks few words; he is not at all indignant that his counsel is despised and another’s approved. For he says humbly what he thinks, but always preferring the counsels of others to his own, and in true subjection he commits both himself and his judgment to the presider for examination. For he annihilates himself so deeply in humility that he always believes others more than himself, and trusts that good counsel is divinely inspired in those better than himself; and in his mind he is accustomed to set his prelate before all as the vicar of his Christ. Above all, the monk who in giving counsel submits his own opinion to the abbot at all times with cheerful humility clearly makes progress toward the mortification of his own will. But when the devout cloistered monk perceives that his counsel is despised or rejected, let him give thanks to almighty God out of true humility, and recognize that the occasion for growing proud has been taken from him.
+
+After the daily chapter.
+
+If after the chapter of faults one must return to the church for Terce, let the manner of the ordered prayer above be observed in each particular. But if you go from chapter to your cell, then again, with knees bent as after Matins, and afterward, as the hour permits, you will pray anew to God. Let him recollect himself for a little while, and recall to memory the debt of his profession. Afterward let the cloistered monk pray thus.
+
+Prayer.
+
+Grant me, I beseech you, O God, to advance in the observance of your commandments according to the good pleasure of your most holy will, and to fulfill the debt of my profession according to the rule set before me.
+
+--- Page 150 ---
+
+At private Masses.
+
+Since human nature by its own strength cannot attain entrance into the kingdom of heaven, it pleased God the most merciful Father to come mercifully to our aid through the death of our Lord Jesus Christ, his only-begotten Son, so that we, who because of our weakness cannot approach the invisible majesty, might have a mediator approaching on our behalf, one who is both God and man. For the merit of the most holy passion of our mediator has opened for us the entrance to the kingdom of heaven, has given the nourishment of the spiritual life, and just as the branch draws nourishment from the vine, so our mind truly lives in Christ. Now we receive this spiritual nourishment with special sweetness in the sacrament of the body and blood of this same mediator of ours, whenever we devoutly offer him to God the Father as an odor of sweetness. And this most sacred offering of the body and blood of the Lord not only benefits us for the forgiveness of sins, but also wonderfully assists the souls of the dead who are set in purgatory. Therefore so noble a sacrifice must be offered with great and continual devotion, since all our good works, which of themselves are altogether too worthless, are made most pleasing to God the Father through this most holy offering. Therefore, so that our devout cloistered monk may be able to attend fervently to the offering of this precious sacrifice, let him be willing to note four things in order.
+
+Concerning the one ministering at Mass.
+
+The devout brother who is going to minister at Mass ought to come with the greatest cheerfulness and fervor, and prepare himself most diligently to minister to the priest. For Saint Hugh says: “Gladly minister at Masses, because it is the office of angels; and when you minister at that sacrifice, you make familiar to yourself those whose co-worker you stand as.” If, according to the Savior’s promise, one who receives a just man in the name of a just man receives the reward of a just man, who will deny the reward of the celebrant to one who devoutly ministers at Mass? For whoever with the fervor of divine love has always been accustomed devoutly to assist those celebrating by ministering to them, divine kindness will also reward him in this life with some special grace.

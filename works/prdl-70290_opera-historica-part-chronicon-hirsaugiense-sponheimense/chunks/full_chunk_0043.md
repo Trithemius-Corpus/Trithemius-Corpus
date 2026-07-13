@@ -1,0 +1,1 @@
+<!-- removed: OCR double-scan duplicate; partial-overlap pair resolved eyes-on — segment 43 = segment 42 plus OCR damage-gap tags only; 42 is the cleaner capture; the translation is retained at chunk 0042 -->

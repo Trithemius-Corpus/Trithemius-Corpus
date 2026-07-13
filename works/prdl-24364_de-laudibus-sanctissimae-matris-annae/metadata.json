@@ -1,0 +1,49 @@
+{
+  "id": "prdl-24364_de-laudibus-sanctissimae-matris-annae",
+  "title": "De Laudibus Sanctissimae Matris Annae",
+  "year": "1494",
+  "source_year": "1494",
+  "year_note": null,
+  "edition_info": "Mainz, 1494 (BSB)",
+  "edition_info_raw": "Mainz , 1494 Copies » BSB BSB",
+  "duplicate_source_group": [
+    "prdl-24364_de-laudibus-sanctissimae-matris-annae",
+    "prdl-70284_de-laudibus-sanctissimae-matris-annae"
+  ],
+  "duplicate_source_note": "This record shares the same source scan as prdl-70284_de-laudibus-sanctissimae-matris-annae. It is retained as a PRDL/source-alias record, not a separate physical witness.",
+  "page_count": 17,
+  "genre_cluster": "marian-hagiographic",
+  "tier": "S",
+  "faithful_adj": 4.5,
+  "fluent_adj": 4.5,
+  "coverage_pct": 100.0,
+  "chunks_graded": 4,
+  "chunks_total": 4,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "claude-cli",
+    "minimax",
+    "minimax-v2",
+    "public"
+  ],
+  "source": {
+    "provider": "BSB",
+    "url": "http://daten.digitale-sammlungen.de/bsb00008347/image_1",
+    "download_url": "http://download.digitale-sammlungen.de/BOOKS/pdf_download.pl?id=bsb00008347",
+    "prdl_id": "24364"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 4,
+    "n_missing_segments": 0,
+    "latin_source_file": "churro_full.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24364_de-laudibus-sanctissimae-matris-annae_parallel.html"
+  }
+}

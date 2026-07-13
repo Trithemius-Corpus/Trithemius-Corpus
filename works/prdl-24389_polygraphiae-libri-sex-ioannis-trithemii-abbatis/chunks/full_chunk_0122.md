@@ -1,0 +1,21 @@
+We have brought the sixth and last book of our *Polygraphy* to its conclusion, by God’s mercy. In it, as we end our discourse with the wandering stars, we give the reader warning on certain points.
+
+First, whenever he uses an alphabet, let him prudently add the character or mark of whatever sign or planet it is, for the sake of a double utility. For by this a great deal of labor is spared the friendly reader, and the mystery will remain secret, since anyone ignorant of the art will think that a table written with numbers and marked beforehand with the characters of signs or planets pertains to the science of astronomy, and will suspect that no mystery at all lies hidden. For this reason we have not taken the official matter for the letters from unity, but from a distance, lest we furnish anyone with a mark of suspicion. Prudence, nevertheless, must be used by writers, since a shrewd reader who is touched by suspicion of something hidden, if he detects the function of one number, will easily calculate the whole alphabet.
+
+Second, remember, whoever you are who desire to be a skilled practitioner of this matter, that whenever in any word a letter is doubled, as very often happens, it is to be written only once and marked above with a point. For example, I wish to write from the alphabet of Aries “Ioannes,” not doubling the letter which is n, but I write thus: 14. 16. 7. 18. 10. 23. Or “abbas”: 6. 7. 6. 23. “Ioannes, abbas,” so that every mark of suspicion may be removed. In similar cases one must proceed with similar caution, because unless the practitioner is endowed with skill and knows how to discover greater things from small ones, he will not be fit for these least matters of ours to be disclosed to him. Not all things are to be communicated everywhere to everyone, especially those whose use is capable of being turned to good and to evil.
+
+Moved with reason by that consideration, we have plainly handed down many things in these six books of the *Polygraphy* for those who wish to know, but we have allowed far more secret things to lie hidden beneath what is plain. Finally, we have written a key that lays open the whole work, explaining how it is to be understood in each metaphor; yet by the advice of certain persons we have ordered it to remain hidden at home, so that students may not lack material for exercising the memory, and that the cause of knowing it may be taken away from the wicked, who are not willing to use it well. In every passage many mysteries lie hidden, and the greater things you discover from them, the greater remain to be discovered.
+
+A way is prepared for beginners; for those setting out upon it, it will not be difficult in the course of time to discover many things, both [unclear] and very great. Here one who did not know will learn to write Latin, and prudently to wrap all the mysteries of his will in foreign speech. But that the unlearned man may be able to understand not only his own mysteries which he wraps up, but also open speech of which until now he has always been ignorant, is not a task of great labor, if the interpreter has fully grasped our intention in this volume. For beneath the bark lie the kernels of our *Steganography*, buried for a just reason, lest they lie open to unworthy babblers. It was worth the labor, finally, that one work should not prejudice another, but that its own right should be distributed to each unimpaired.
+
+Wearied after a long voyage, we here cast anchor in the sea, under the name of JESUS CHRIST, the Savior of the faithful, on the twenty-first day of the month of March, in the year of the Lord’s nativity 1508, in the eleventh indiction of the Romans, at [Paeapolis?], a city of the eastern Franks, which they call both Würzburg and Herbipolis.
+
+*End of the Polygraphy of Johannes Trithemius, abbot at Saint James in Würzburg, formerly of Sponheim, of the order of the divine father Benedict.*
+
+*Correction.*
+
+The fair reader must be warned that the order of the books of this *Polygraphy* is especially to be observed, lest the division of the signature which occurred in the first alphabet perhaps give rise to error. For there the Key of the *Polygraphy* ends at c; after the remaining books, however, the fifth book begins again at d.
+
+At Frankfurt, from the workshop of Cyriacus Jacobus.
+
+In the year 1550.

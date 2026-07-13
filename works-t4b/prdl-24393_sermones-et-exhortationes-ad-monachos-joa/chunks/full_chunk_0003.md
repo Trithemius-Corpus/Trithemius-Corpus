@@ -1,0 +1,18 @@
+--- Page 011 ---
+
+Letter
+
+John Trithemius, called abbot of Sponheim, to the reverend father and his teacher, Lord John of Colenhausen, abbot of the monastery of Saints Marcellinus and Peter, martyrs, in Seligenstadt, and formerly my predecessor at Sponheim: reverence and honor.
+
+I do not know, teacher ever venerable to me, under what unlucky star that monastery of Sponheim was built, for rarely does an abbot die in it; rather, almost all, overcome by weariness, have for nearly seventy years now, as I have found from the annals, resigned of their own accord. Nor are we entirely ignorant why you too, following the example of your predecessors, deserted us poor men before the proper time: we rightly blame both our poverty and the rebellious rashness of certain men. Now, alas, I myself experience the cause that moved your mind to leave the abbacy of Sponheim, altogether barren and unfruitful, over which you presided for thirteen years after the reform, not without continual anxiety of mind and infinite labors. I pass over the injuries of very many brothers that you endured; all these, indeed, are daily doubled upon me.
+
+The book of my exhortations to the brothers, which you instructed me to send to your paternity, and which I recently composed by lamplight amid the raging occupations of worldly affairs, is unworthy of your reading; nevertheless, I was unwilling to resist the command of a father. Therefore I ask your gentleness kindly to apply the file of correction: if anything is lacking, add it; cut away what is superfluous; and what is unsuitable either hand over to the flames or at least set in order. Farewell, sweetest father, mindful of me. From Sponheim, the sixth day of the month of August, in the year of the Christians 1386.
+
+--- Page 012 ---
+
+All Things. I.
+Folio III.
+
+It belongs to Christian warfare, brothers, and especially to that of monks, to be subject to the varied calamities of this world and, like gold in the furnace, to be continually exercised and tested by tribulations. For it is the task of monks, and of Christian soldiers, to transcend the common little rule by a higher manner of living, and to obey not only the Lord’s precepts but also his counsels. It is the task of monks utterly to despise riches, honors, and all the pleasures of the present world for love of God, and, having overcome carnal desires, to be constantly free for God alone. For a monk is so called as one solitary, from unity; even by the very word of his name he is admonished to contempt of the world. Therefore the office of a monk is to stand with himself in solitude, clean and purified of vices, and sweetly to love Christ above all things.
+
+For the goal of monks, to which regular discipline is directed, is Christ; whoever refuses to imitate him is neither truly a monk nor a Christian. Therefore, my brothers, we ought to know that whoever does not follow our Lord and Savior in true patience and humility gains nothing for salvation from being called Christian or monk. For he himself says in the holy Gospel: “Not everyone who says to me, Lord, Lord, shall enter the kingdom of heaven, but he who does the will of my Father who is in heaven, he shall enter the kingdom of heaven.” And what the will of God is, the holy Apostle has disclosed, saying: “This is the will of God, your sanctification.” But since the necessary consummation of this sanctification commanded for us requires great endurance of evils in all things and humility, because no one is holy by his own powers, we must, my brothers, keep continual consideration of our calling within ourselves, so that we may never grow sluggish in idleness...

@@ -1,0 +1,19 @@
+--- Page 588 ---
+
+under a foreign scheme they prudently concealed our letters: that is, in the same way in which we use numbers in place of letters, when, for example, we put 1 for a, 2 for b, 3 for c, 4 for d, and so on in sequence to the end of the alphabet. A fine invention indeed, and sufficiently secure, which neither a Greek nor a Latin will easily understand. For the whole alphabet is not found in it, but only nine letters and one numerical sign, namely g, which among them signifies six; and in this mode of writing it signifies f, the sixth letter of the Latins. Furthermore, yielding to our German language, in which we were born, we have placed double w throughout as the twenty-fourth letter of our nation, which, according to the Greek number, we have formed thus: [unclear]. Now let us set down this writing of the Northmen in imitation of them, from the following order of Greek letters.
+
+[unclear alphabet table]
+
+--- Page 589 ---
+
+By the service of this alphabet the Northmen wrote by secure transmission whatever they wished to keep hidden among themselves. No Greek could understand this manner of writing, since, although all these characters are Greek, nevertheless, because they represent Latin letters according to numerical order, they could be read neither by a Greek nor by a Latin who had not previously attained knowledge of this device. This mode of writing can also be varied in many ways, when the numbers and the letters are changed by transposition. And this can be done with the customary Greek letters, according to the wish and judgment of each industrious writer. Nor will the manner of forming these characters be very difficult, especially for one who has had a little practice. The characters described above are also sufficiently suited to the German language; with them we can denote everything that comes before us, whatever language we may know. Whenever iota is set by itself, so that it may be known to denote the letter k, the tenth letter of the alphabet, it is marked above.
+
+ON THE ALPHABET
+AND METHOD OF WRITING
+OF THE ANCIENT FRANKS.
+
+Many hold the opinion that the Germans once had letters from the Greeks, and they steadfastly affirm that they also used the Greek language, especially in their sacred rites. They say
+
+--- Page 590 ---
+
+that there is a great agreement between the Greek language and our own, although the long interval of time has wholly extinguished that correspondence. That most learned man, once my teacher, Johannes Camerarius Dalburgius, most reverend bishop of the church of Worms, had collected some thousands of Greek words which signify the same thing in both languages, Greek and German. And Caesar testifies in the Commentaries that the ancient Druids, priests of the sacred rites in Gaul, used the Greek language, especially in sacred matters. But when the Romans were laying waste the world, they at last violently imposed the use of their own letters, together with their dominion, upon many nations. Finally, the remnants of the Trojans, who were afterward called Franks, in the four hundred and fortieth year before the incarnation of the Lord, left the borders of the Scythians under the leadership of King Marcomer, came into Germany, and received settlements from their brothers the Saxons at the mouths of the Rhine. Thereafter, for nine hundred and fifty years and more, waging almost continual war with the Romans and Gauls, as Hunibald is the authority, they at last subjected nearly all Europe to their empire or kingdom. Yet they did not abolish the letters of the Romans once they had accepted them; rather, mingled among Germans and Gauls, they learned their language and preserved their letters and their form of writing. Wastbald, the writer of the histories of this people, wrote in his native language books on the deeds of the kings, dukes, and

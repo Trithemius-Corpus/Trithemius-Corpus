@@ -1,0 +1,387 @@
+/* Reader features for work pages: reading-progress sync (continue-reading),
+ * keyboard navigation, and footnote popovers. Vanilla JS, no dependencies.
+ * Loaded only on work pages (and the homepage for the continue card). */
+(function () {
+  "use strict";
+  var WORK_ID = window.TC_WORK && window.TC_WORK.id;
+  var WORK_TITLE = window.TC_WORK && window.TC_WORK.title;
+
+  function $(sel, ctx) { return (ctx || document).querySelector(sel); }
+  function $all(sel, ctx) { return Array.prototype.slice.call((ctx || document).querySelectorAll(sel)); }
+
+  // ── 1. Reading-progress sync ──────────────────────────────────────────────
+  // Store scroll fraction per work; the homepage surfaces the most-recent.
+  function progressKey(id) { return "tc-progress-" + id; }
+
+  if (WORK_ID) {
+    var body = $(".english-body") || document.body;
+    var ticking = false;
+    function recordProgress() {
+      ticking = false;
+      var h = document.documentElement;
+      var max = h.scrollHeight - h.clientHeight;
+      var frac = max > 0 ? Math.min(1, Math.max(0, h.scrollTop / max)) : 0;
+      try {
+        var entry = { id: WORK_ID, title: WORK_TITLE, frac: frac, t: Date.now(),
+                      ch: currentChapterLabel() };
+        localStorage.setItem(progressKey(WORK_ID), JSON.stringify(entry));
+        // index of works read, for the continue card
+        var idx = JSON.parse(localStorage.getItem("tc-progress-idx") || "[]");
+        idx = idx.filter(function (x) { return x !== WORK_ID; });
+        idx.unshift(WORK_ID);
+        try { localStorage.setItem("tc-progress-idx", JSON.stringify(idx.slice(0, 20))); } catch (e) {}
+      } catch (e) {}
+    }
+    window.addEventListener("scroll", function () {
+      if (!ticking) { window.requestAnimationFrame(recordProgress); ticking = true; }
+    }, { passive: true });
+    window.addEventListener("load", recordProgress);
+  }
+
+  function currentChapterLabel() {
+    var ch = chapterAtScroll();
+    return ch ? ch.label : null;
+  }
+
+  // ── 2. Keyboard navigation ────────────────────────────────────────────────
+  // j/k = next/prev paragraph;  [ / ] = prev/next chapter;  / = focus search;
+  // g = prompt for a work jump. Only when not typing in a field.
+  function isTyping(e) {
+    var t = e.target;
+    return t && (t.tagName === "INPUT" || t.tagName === "TEXTAREA" || t.isContentEditable);
+  }
+
+  function paragraphs() {
+    return $all(".english-body p, .english-body li, .english-body h2, .english-body h3")
+      .filter(function (p) { return p.offsetParent !== null; });
+  }
+
+  function nearestIndex(list, bias) {
+    var mid = window.innerHeight * (bias || 0.35);
+    var best = 0, bestDist = Infinity;
+    list.forEach(function (el, i) {
+      var r = el.getBoundingClientRect();
+      var center = r.top + r.height / 2;
+      var d = Math.abs(center - mid);
+      if (d < bestDist) { bestDist = d; best = i; }
+    });
+    return best;
+  }
+
+  function scrollToEl(el) {
+    if (!el) return;
+    var r = el.getBoundingClientRect();
+    var top = window.pageYOffset + r.top - window.innerHeight * 0.3;
+    window.scrollTo({ top: Math.max(0, top), behavior: "smooth" });
+  }
+
+  function chapters() {
+    return $all(".english-body .chapter, section.chapter").map(function (sec) {
+      var seg = sec.getAttribute("data-seg");
+      var head = sec.querySelector("h2, h3, .chapter-title");
+      return { el: sec, id: sec.id, seg: seg,
+               label: head ? head.textContent.trim().slice(0, 60) : ("Part " + seg) };
+    });
+  }
+
+  function chapterAtScroll() {
+    var list = chapters();
+    if (!list.length) return null;
+    var mid = window.innerHeight * 0.35;
+    var cur = list[0];
+    list.forEach(function (c) {
+      if (c.el.getBoundingClientRect().top <= mid + 2) cur = c;
+    });
+    return cur;
+  }
+
+  function gotoChapter(delta) {
+    var list = chapters();
+    if (!list.length) return;
+    var cur = chapterAtScroll() || list[0];
+    var i = list.indexOf(cur);
+    var tgt = list[Math.max(0, Math.min(list.length - 1, i + delta))];
+    if (tgt) scrollToEl(tgt.el);
+  }
+
+  function gotoParagraph(delta) {
+    var list = paragraphs();
+    if (!list.length) return;
+    var i = nearestIndex(list) + delta;
+    i = Math.max(0, Math.min(list.length - 1, i));
+    scrollToEl(list[i]);
+    flash(list[i]);
+  }
+
+  function flash(el) {
+    if (!el) return;
+    el.classList.add("tc-flash");
+    setTimeout(function () { el.classList.remove("tc-flash"); }, 700);
+  }
+
+  document.addEventListener("keydown", function (e) {
+    if (isTyping(e)) return;
+    if (e.metaKey || e.ctrlKey || e.altKey) return;
+    var k = e.key;
+    if (k === "j") { e.preventDefault(); gotoParagraph(1); }
+    else if (k === "k") { e.preventDefault(); gotoParagraph(-1); }
+    else if (k === "]") { e.preventDefault(); gotoChapter(1); }
+    else if (k === "[") { e.preventDefault(); gotoChapter(-1); }
+    else if (k === "/") {
+      var s = $("#pagefind-input, input[type=search], .nav-search");
+      if (s && s.tagName === "A") { window.location = s.href; }
+      else if (s) { e.preventDefault(); s.focus(); }
+    }
+  });
+
+  // ── 3. Footnote / errata popovers ─────────────────────────────────────────
+  // Any link to an in-page anchor (#fn-*, #errata-*, #note-*) shows its target
+  // as a hover/focus popover instead of jumping.
+  var popover = null;
+  function ensurePopover() {
+    if (popover) return popover;
+    popover = document.createElement("div");
+    popover.className = "tc-popover";
+    popover.setAttribute("role", "tooltip");
+    popover.hidden = true;
+    document.body.appendChild(popover);
+    return popover;
+  }
+  function showPopover(target, href) {
+    var p = ensurePopover();
+    var dest = href.charAt(0) === "#" ? document.getElementById(href.slice(1)) : null;
+    if (!dest) return false;
+    // use the footnote's own content (or its parent li/aside)
+    var src = dest;
+    if (dest.tagName === "A" && dest.parentElement) src = dest.parentElement;
+    p.innerHTML = "";
+    // clone text content (strip back-links)
+    var clone = src.cloneNode(true);
+    $all("a[href^='#']", clone).forEach(function (a) { a.remove(); });
+    p.appendChild(clone);
+    p.hidden = false;
+    var r = target.getBoundingClientRect();
+    var pw = p.offsetWidth, ph = p.offsetHeight;
+    var left = Math.max(8, Math.min(r.left, window.innerWidth - pw - 8));
+    var top = r.bottom + window.pageYOffset + 6;
+    if (top + ph > window.pageYOffset + window.innerHeight - 8)
+      top = r.top + window.pageYOffset - ph - 6;
+    p.style.left = left + "px";
+    p.style.top = top + "px";
+    return true;
+  }
+  function hidePopover() { if (popover) popover.hidden = true; }
+
+  document.addEventListener("mouseover", function (e) {
+    var a = e.target.closest && e.target.closest("a[href^='#fn-'], a[href^='#errata-'], a[href^='#note-']");
+    if (a && showPopover(a, a.getAttribute("href"))) e.preventDefault();
+  });
+  document.addEventListener("mouseout", function (e) {
+    var a = e.target.closest && e.target.closest("a[href^='#fn-'], a[href^='#errata-'], a[href^='#note-']");
+    if (a) hidePopover();
+  });
+  document.addEventListener("click", function (e) {
+    var a = e.target.closest && e.target.closest("a[href^='#fn-'], a[href^='#errata-'], a[href^='#note-']");
+    if (a && showPopover(a, a.getAttribute("href"))) { e.preventDefault(); }
+  });
+
+  // ── 4. Homepage continue-reading card ─────────────────────────────────────
+  function renderContinueCard() {
+    var host = $("#continue-reading");
+    if (!host) return;
+    var idx = [];
+    try { idx = JSON.parse(localStorage.getItem("tc-progress-idx") || "[]"); } catch (e) {}
+    var best = null;
+    for (var i = 0; i < idx.length; i++) {
+      try {
+        var entry = JSON.parse(localStorage.getItem(progressKey(idx[i])) || "null");
+        if (entry && entry.id) { best = entry; break; }
+      } catch (e) {}
+    }
+    if (!best) { host.hidden = true; return; }
+    host.hidden = false;
+    var pct = Math.round((best.frac || 0) * 100);
+    host.innerHTML = '<a class="continue-card" href="works/' + best.id + '.html">' +
+      '<span class="continue-label">Continue reading</span>' +
+      '<span class="continue-title">' + escapeHTML(best.title || "") + '</span>' +
+      (best.ch ? '<span class="continue-ch">' + escapeHTML(best.ch) + '</span>' : "") +
+      '<span class="continue-pct">' + pct + '% &mdash; ' + relTime(best.t) + "</span>" +
+      '<span class="continue-bar"><span style="width:' + pct + '%"></span></span>' +
+      "</a>";
+  }
+  function escapeHTML(s) {
+    return String(s).replace(/[&<>"]/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
+    });
+  }
+  function relTime(t) {
+    if (!t) return "";
+    var d = (Date.now() - t) / 1000;
+    if (d < 60) return "just now";
+    if (d < 3600) return Math.floor(d / 60) + "m ago";
+    if (d < 86400) return Math.floor(d / 3600) + "h ago";
+    return Math.floor(d / 86400) + "d ago";
+  }
+
+  renderContinueCard();
+
+  // ── 5. Adjustable type controls ───────────────────────────────────────────
+  // CSS custom properties on .english-body drive size/line/width/justify so the
+  // reader can resize without reflowing the whole layout. Persisted per-reader.
+  (function typeControls() {
+    var body = $(".english-body");
+    var panel = $("#rt-type-panel");
+    if (!body || !panel) return;
+    var KEY = "tc-type";
+    var defaults = { font: 100, line: 162, width: 44, justify: true };
+    var saved = {};
+    try { saved = JSON.parse(localStorage.getItem(KEY) || "{}"); } catch (e) {}
+    var cfg = { font: num(saved.font, defaults.font), line: num(saved.line, defaults.line),
+                width: num(saved.width, defaults.width),
+                justify: saved.justify === undefined ? defaults.justify : !!saved.justify };
+
+    function num(v, d) { v = parseInt(v, 10); return isNaN(v) ? d : v; }
+
+    function apply() {
+      body.style.fontSize = cfg.font + "%";
+      body.style.lineHeight = (cfg.line / 100).toFixed(2);
+      body.style.setProperty("--body-max", cfg.width + "rem");
+      body.style.maxWidth = cfg.width + "rem";
+      body.classList.toggle("rt-ragged", !cfg.justify);
+    }
+    function save() { try { localStorage.setItem(KEY, JSON.stringify(cfg)); } catch (e) {} }
+    function wire(id, key, fmt, isCheck) {
+      var el = $(id); if (!el) return;
+      var out = $('output[for="' + id.replace("#", "") + '"]');
+      if (isCheck) el.checked = cfg[key];
+      else el.value = cfg[key];
+      if (out) out.textContent = fmt(cfg[key]);
+      el.addEventListener("input", function () {
+        cfg[key] = isCheck ? el.checked : parseInt(el.value, 10);
+        if (out) out.textContent = fmt(cfg[key]);
+        apply(); save();
+      });
+    }
+    apply();
+    wire("#rt-font", "font", function (v) { return v + "%"; });
+    wire("#rt-line", "line", function (v) { return (v / 100).toFixed(2); });
+    wire("#rt-width", "width", function (v) { return v + "rem"; });
+    wire("#rt-justify", "justify", null, true);
+    var tog = $("#rt-type-toggle");
+    if (tog) tog.addEventListener("click", function () {
+      var open = panel.hidden;
+      panel.hidden = !open;
+      tog.setAttribute("aria-expanded", open ? "true" : "false");
+    });
+    var reset = $("#rt-reset");
+    if (reset) reset.addEventListener("click", function () {
+      cfg = { font: defaults.font, line: defaults.line, width: defaults.width, justify: defaults.justify };
+      apply(); save(); location.reload();
+    });
+  })();
+
+  // ── 6. Scholarly-view toggle ──────────────────────────────────────────────
+  // Reveals [unclear] / OCR-variant / translator-note spans (hidden by default
+  // in clean reading mode). The spans are wrapped at build time; the toggle just
+  // flips a class on the body.
+  (function scholarlyToggle() {
+    var body = $(".english-body");
+    var btn = $("#rt-scholar-toggle");
+    if (!body || !btn) return;
+    var KEY = "tc-scholarly";
+    var on = false;
+    try { on = localStorage.getItem(KEY) === "1"; } catch (e) {}
+    function apply() {
+      body.classList.toggle("scholarly", on);
+      btn.setAttribute("aria-pressed", on ? "true" : "false");
+    }
+    apply();
+    btn.addEventListener("click", function () {
+      on = !on;
+      try { localStorage.setItem(KEY, on ? "1" : "0"); } catch (e) {}
+      apply();
+    });
+  })();
+
+  // ── 7. "What is this?" cipher explainer (first visit) ─────────────────────
+  // First-time visitors get a one-paragraph popover anchored to the first
+  // inline cipher table on a work page. Dismissible; remembered per browser.
+  (function cipherIntro() {
+    var KEY = "tc-seen-cipher-intro";
+    var seen = false;
+    try { seen = localStorage.getItem(KEY) === "1"; } catch (e) {}
+    if (seen) return;
+    var target = $(".inline-apparatus, .style-c-rendering table");
+    if (!target) return;
+    var host = $(".english-body") || document.body;
+    function reveal() {
+      var tip = document.createElement("div");
+      tip.className = "tc-cipher-intro";
+      tip.innerHTML = "<strong>What is this?</strong> A Trithemius cipher " +
+        "substitution table: each plaintext letter (a, b, c&hellip;) maps to a " +
+        "Latin word in each column, so a message becomes a pious-looking sentence. " +
+        "The facsimile sits beside it for comparison. " +
+        "<button type=\"button\" class=\"tc-cipher-intro-close\">Got it</button>";
+      host.appendChild(tip);
+      var close = $(".tc-cipher-intro-close", tip);
+      if (close) close.addEventListener("click", function () {
+        tip.remove();
+        try { localStorage.setItem(KEY, "1"); } catch (e) {}
+      });
+    }
+    setTimeout(reveal, 1200);
+  })();
+
+  // ── 8. Audio narration (SpeechSynthesis proof of concept) ─────────────────
+  // Reads the work's English aloud, highlighting the current sentence. Play /
+  // pause / stop. Pure client-side via the Web Speech API.
+  (function audioNarration() {
+    var btn = $("#rt-read");
+    var body = $(".english-body");
+    if (!btn || !body || !("speechSynthesis" in window)) { if (btn) btn.hidden = true; return; }
+    var utter = null;
+    var sentences = [];
+    var idx = 0;
+    var playing = false;
+
+    function gather() {
+      sentences = [];
+      $all("p, li", body).forEach(function (p) {
+        // split into sentences on . ; ? ! followed by space/end
+        var text = p.textContent.replace(/\s+/g, " ").trim();
+        if (!text) return;
+        var parts = text.match(/[^.!?;]+[.!?;]+(\s|$)|[^.!?;]+$/g) || [text];
+        parts.forEach(function (s) { sentences.push({ el: p, text: s.trim() }); });
+      });
+    }
+    function clearHL() { $all(".tc-read-hl", body).forEach(function (s) { s.classList.remove("tc-read-hl"); }); }
+    function highlight(i) {
+      clearHL();
+      if (sentences[i]) sentences[i].el.classList.add("tc-read-hl");
+      var r = sentences[i] && sentences[i].el.getBoundingClientRect();
+      if (r && (r.bottom < 0 || r.top > window.innerHeight))
+        sentences[i].el.scrollIntoView({ block: "center", behavior: "smooth" });
+    }
+    function speak(i) {
+      if (i >= sentences.length) { stop(); return; }
+      idx = i;
+      highlight(i);
+      utter = new SpeechSynthesisUtterance(sentences[i].text);
+      utter.rate = 0.95;
+      utter.onend = function () { if (playing) speak(idx + 1); };
+      utter.onerror = function () { stop(); };
+      window.speechSynthesis.speak(utter);
+    }
+    function play() { gather(); if (!sentences.length) return; playing = true; btn.classList.add("rt-reading"); speak(idx); }
+    function pause() { playing = false; window.speechSynthesis.cancel(); btn.classList.remove("rt-reading"); }
+    function stop() { playing = false; window.speechSynthesis.cancel(); idx = 0; clearHL(); btn.classList.remove("rt-reading"); }
+    btn.addEventListener("click", function () {
+      if (playing) pause();
+      else if (window.speechSynthesis.speaking) { playing = true; window.speechSynthesis.resume(); btn.classList.add("rt-reading"); }
+      else play();
+    });
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && playing) pause();
+    });
+  })();
+})();

@@ -1,0 +1,1 @@
+<!-- removed: post-FINIS duplicate reprint (the work ends at chunk 0135 '*END.*' / 'Laus Deo omnipotenti. FINIS.'); this segment reprinted closing prophecy material already translated in chunk 0135) -->

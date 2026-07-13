@@ -1,0 +1,94 @@
+cff-version: 1.2.0
+message: "If you use this corpus in research or publication, please cite as below."
+title: "Trithemius Corpus: machine-assisted English translations of a 47-work Latin corpus by Johannes Trithemius"
+abstract: >
+  A machine-assisted English translation of a 47-work Latin corpus by Johannes
+  Trithemius (Benedictine abbot of Sponheim, 1462-1516), produced via a
+  retrieval-augmented LLM translation pipeline, re-OCR, independent grading,
+  targeted remediation, and keep-better revision. The current public release
+  covers 4,400 published chunks across 47 translatable printed editions
+  (29 distinct texts), with 4,353 graded chunks, a chunk-weighted mean
+  faithfulness of 4.63/5, 0.0% confirmed hallucination, and an all-S public
+  tier distribution (S=47 / A=0 / B=0 / C=0 / F=0). The corpus covers
+  Trithemius's monastic, devotional, hagiographic, bibliographic, and
+  cryptographic writings, including 23 of its 29 distinct texts (39 of
+  47 editions) with no located prior published English translation.
+type: dataset
+authors:
+  - family-names: Fabin
+    given-names: Ian Carlos
+    alias: Carlosian
+    website: "https://github.com/agentcarlosian"
+keywords:
+  - Trithemius
+  - Latin
+  - English translation
+  - digital humanities
+  - LLM translation
+  - early modern
+  - monastic literature
+  - cryptography
+  - Renaissance
+license: CC-BY-4.0
+repository-code: "https://github.com/Trithemius-Corpus/Trithemius-Corpus"
+url: "https://trithemius-corpus.github.io/Trithemius-Corpus/"
+date-released: 2026-07-12
+references:
+  - type: book
+    authors:
+      - family-names: Behrendt
+        given-names: Roland
+    title: "In Praise of Scribes: De Laude Scriptorum"
+    year: 1974
+    publisher:
+      name: Coronado Press
+    location: Lawrence, Kansas
+    notes: >
+      Prior published English translation of De Laude Scriptorum Manualium
+      (manifest entry prdl-24362). The present corpus's rendering of that work
+      is an independent machine-assisted translation; users seeking a scholarly
+      English edition of that single work should prefer Behrendt's translation.
+  - type: book
+    authors:
+      - family-names: Bongie
+        given-names: Elizabeth
+    title: "In Praise of Scribes (De Laude Scriptorum)"
+    year: 1977
+    publisher:
+      name: Alcuin Society
+    location: Vancouver
+    notes: >
+      A second prior published English translation of De Laude Scriptorum
+      Manualium (prdl-24362), alongside Behrendt 1974.
+  - type: generic
+    authors:
+      - family-names: Lilly
+        given-names: William
+    title: "The World's Catastrophe"
+    year: 1647
+    notes: >
+      Early English version/adaptation of Trithemius's De Septem Secundeis
+      (manifest entry prdl-24383).
+  - type: generic
+    authors:
+      - family-names: Neal
+        given-names: Philip
+    title: "Partial English translation of the preface to Trithemius's Polygraphia"
+    notes: >
+      The only located prior English of any part of the Polygraphia
+      (prdl-24389/prdl-24390/prdl-24391); covers the prefatory matter only.
+      This corpus supplies the first located continuous English of the body.
+  - type: book
+    authors:
+      - family-names: Skinner
+        given-names: Stephen
+      - family-names: Clark
+        given-names: Daniel
+    title: "Steganographia: Books I-IV"
+    year: 2024
+    publisher:
+      name: Llewellyn
+    notes: >
+      Comprehensive modern English edition of Trithemius's Steganographia.
+      The clavis works in this corpus (prdl-70281, prdl-70282) cover different
+      source editions but treat overlapping subject matter.

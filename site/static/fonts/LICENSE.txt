@@ -1,0 +1,19 @@
+Font licensing
+==============
+
+The woff2 files in this directory are latin subsets obtained from Google
+Fonts and are self-hosted here so the site has no third-party dependency.
+
+EB Garamond
+  Designers: Georg Mayr-Duffner and Octavio Pardo
+  License:   SIL Open Font License 1.1 (OFL-1.1)
+  Source:    https://fonts.google.com/specimen/EB+Garamond
+
+Cormorant SC
+  Designer:  Christian Thalmann
+  License:   SIL Open Font License 1.1 (OFL-1.1)
+  Source:    https://fonts.google.com/specimen/Cormorant+SC
+
+The SIL Open Font License 1.1 permits use, redistribution, and bundling of
+these fonts with this site. Full license text:
+https://openfontlicense.org/open-font-license-official-text/

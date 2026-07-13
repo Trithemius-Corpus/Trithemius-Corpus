@@ -1,0 +1,2158 @@
+# Steganographia, hoc est: Ars per occultam scripturam
+
+> Machine-assisted English translation. Work `prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam`. Tier S · faithful 4.56 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.
+
+---
+
+[Source page illegible in the scan; the page image is the authoritative witness.]
+
+*Steganography:*
+
+That is:
+A sure art of disclosing the will of one's mind to those absent by means of hidden writing;
+by the author,
+the most reverend and most distinguished man,
+Johannes Trithemius, Abbot of Spanheim, and most perfect master of natural magic.
+
+Prefixed to this work is its key, or true introduction, composed by the author himself; until now indeed much desired by many, but seen by very few. Now, however, for the sake of students of the more secret philosophy, it has been made public.
+
+With privilege, by consent of superiors.
+
+Darmstadt.
+From the printing office of Balthasar [Aulaeandt?], at the expense of Johannes Berner, bookseller of Frankfurt.
+In the year 1621.
+
+*To [unclear], reader.*
+
+You must be advised, candid reader, that of the letters R. and S. in this work, written sometimes with numbers, sometimes with characters, sometimes with words, either above the page or added in the margin, the former is the mark of rubric, or red color, while the latter is the mark of ink, or black color. Moreover you will also observe this: that the individual titles of the individual chapters are likewise to be painted and adorned in rubric. The importance of this matter you may seek from the Key prefixed to the work. Farewell.
+
+*Here begins the first book of the Steganography of Johannes Trithemius, Abbot of Spanheim, of the Order of Saint Benedict, of the Diocese of Mainz, addressed to the most serene prince, Lord Philip, Count Palatine of the Rhine, Duke of Bavaria, Prince Elector of the Holy Roman Empire, etc.*
+
+It is the opinion of the learned that the most ancient sages, whom in Greek speech we call philosophers, if they discovered any secrets either of nature or of art, concealed them in various ways and figures, lest they should come to the knowledge of wicked men. The more learned among the Jews also affirm that Moses, the most famous leader of the Israelite nation, in his description of the creation of heaven and earth, covered the secrets of ineffable mysteries with simple words. Saint Jerome too, most learned among our own, affirms that there lie hidden in the Apocalypse of John almost as many mysteries as words. I pass over the sages of the Greeks, who were not held in slight esteem among their own people, and I leave aside our own most learned philosophers and poets, who, devoting their labor to the writing of fables, handed down one thing to the unlearned and another to learned men within the course of a single narrative, by sagacious invention.
+
+Although I cannot perfectly imitate these most devoted lovers of wisdom because of the slowness of my mind, nevertheless I do not cease to admire them and to read them with all the diligence I can. Since they, by their own zeal, [unclear] great things for men of former times [unclear] devised
+
+*Preface.*
+
+to have thought it out, I consider; and, stirring myself with a certain force, so that I may grow warm, I impel myself toward some imitation, even among the latest, of those who have gone before. Nor, as I think, has my opinion wholly deceived me, since by continual study in reading I have learned many things that I had not known before, and by my reflections I have opened an approach to investigating more secret and more deeply hidden matters than the rest.
+
+For although I am not of such great learning or industry that I would dare to profess that I have in every respect grasped that method of the ancient wise men for concealing mysteries, nevertheless I have discovered certain varied methods, not wholly to be despised, as it seems to me, by which I can safely, and without deception, suspicion, or detection by anyone, communicate the most secret intention of my mind to another who knows this art, as widely as I may wish, through open messengers or letters. And this new invention of a most secret art, at the urgent request of the most serene prince, Lord Philip, Count Palatine of the Rhine, Duke of Bavaria, and ever most invincible Prince-Elector of the Holy Roman Empire, the wisest patron of all philosophers, than whom no one seemed to me more worthy to have this great secret revealed to him, I committed to writing and, not without very great labors, brought together into the following volume.
+
+But lest this great secret come to the ears of common, unlearned, or depraved men, I considered it no small part of the duty of my office to wrap it, since it teaches mysteries, in mysteries unintelligible to one who does not know, so that no one from the number of the unlearned, no one unless most studious, will be able by his own power perfectly and fully to penetrate the secret of this science according to our intention, except through reception from a teacher, which the Hebrews call Cabala, set forth in most hidden mysteries. Nor would the knowledge of this most secret art, if spread among the wicked and reprobate, harm the commonwealth less than it would benefit the good. For just as good men and those devoted to virtues use every aid for good and for common utility, so evil and reprobate men hunt out occasions for themselves, not only from evil things but even from good and most holy institutions, by which they may become worse. The like can happen to this most secret aid of ours, otherwise useful to the commonwealth and most honorable: just as it offers itself to good and most holy men as an instrument for the best things, so perversely [unclear].
+
+[Preceding page illegible in the source.]
+
+*PREFACE.*
+
+…[as far as] I am able, and before Jesus Christ his Son, who is to judge the living [and] the dead, in truth I say, I swear, I protest: that all and singular [things] which I have said, or am about to say, in this work, and all the properties, modes, figures, operations, traditions, receptions, formations, inventions, institutions, mutations, [and] alterations of this science or art—everything which pertains to its speculation, invention, attainment, [and] practical operation, whether in part or in whole—are all contained in this our volume, rest upon true, catholic, natural principles, and are all and singular done with God, with a good conscience, without injury to the Christian faith, with the integrity of ecclesiastical tradition, without any superstition whatsoever, without idolatry, without any pact—explicit or implicit—with malign spirits; without suffumigation, adoration, veneration, worship, sacrifice, [or] oblation to demons; without any fault or sin, whether venial or mortal: and all and singular are done with truth, rectitude, sincerity, [and] purity—so that the knowledge of this invention, [its] practice to a good use, may not misbecome a wise man, a good and faithful Christian. For I am a Christian, voluntarily devoted to the monastic way of life, and I desire to live and converse no otherwise than befits a true Christian monk professed under the rule of the Divine father Benedict. And the Catholic faith itself, according to the tradition of the holy Roman Church, I received from the cradle, baptized in the name of the Father [and] of the Holy Spirit; which [faith], together with the universal Church of Christians itself, I hold and believe; and as long as I shall live, with God's help ever keeping it firmly inviolate, I will hold [it] in heart, mouth, and work, nor do I ever intend to deviate from it on any occasion. Far therefore be it from me either to learn or to teach anything that is contrary to the purity of the Christian faith, harmful to the saints, or in any way adverse to my regular purpose. I fear God, and have sworn unto his worship—from whom neither living, nor (as I trust) dead, shall I be separated. This
+
+*Preface.*
+
+I have placed this protestation of mine at the head of this whole work of ours not without cause, because I know that there will be many who, since they cannot understand the things we have written, will turn to insults and will attribute our good and holy studies to evil arts or superstitious inventions. To all these, since they will exist, and to whoever will read this syntagma of ours, we earnestly beseech that, if they understand this secret tradition of ours, they keep it hidden forever, and not pour forth into public view mysteries so wondrous. But if they do not understand it, as we know will happen to many, let them learn before they criticize. For indeed he shows himself a rash judge who pronounces sentence on a matter before he has recognized the truth. First learn this art, then judge; but if you are unable to understand it, condemn not the art itself, because it is good, but your own dull wits. For I know and am certain that no one of sound mind can criticize this work of ours, unless he happens to be wholly ignorant of it. But those for whom it is more familiar to despise wisdom than to have learned it, I neither desire nor would wish to penetrate these mystical matters of ours.
+
+*Chapter.*
+
+*I*
+
+*Chapter I.*
+
+*Whose Key and Operation Is Held by the Principal Spirit Pamersyel, Anoyr Madriel, through the Ministry of Ebrasothean, Abrulges i Trasbiel. And Nadres Ormennitules Rablion Hamorphiel. To these the commission of all things is made with an exorcism.*
+
+The operation of this first chapter is very difficult and full of dangers, because of the pride and rebellion of its spirits, who obey no one unless he has become most experienced in this art. For they not only do not obey novices and those less tested in the art, but even, if they are pressed too hard, they frequently injure them and afflict them with various illusions. They are malicious and faithless above all aerial spirits, and obey absolutely no one unless compelled by the greatest sacraments; and the secret entrusted to them they often faithlessly show to others. For as soon as they have been sent out with letters, they fly away and, breaking in without order toward the one to whom they are sent, like a people fleeing from battle without a leader, they hurry furiously and, filling the air with their shouting, often reveal the sender's secrets to everyone nearby. We therefore advise that no one who is going to work in this art compel them, nor anxiously seek their services. For they are insolent and faithless, when he can find many among those whom we shall mention subsequently who are sufficiently well-disposed, who of their own accord offer themselves ready for obedience. But if anyone should absolutely wish to experience their insolence and to test that the things we have said are true, let him know that the following manner must be observed. Let him prepare the paper on which he is going to write with an invocation of the divine name, in the name of the Father and of the Son
+
+*Of Steganography*
+
+[unclear] and of the Son, the Holy Spirit. Then, however, let him write in it whatever simple, open narrative he wishes, which all who read it may understand, in Latin, in his native tongue, or in any other language. But when he has sat down to write facing the East, let him compel the spirits thus: Pamerfiel oshurmy delmuson Thaftoyn peano charustea melany, lyaminto colchan, paroys, madyn, moerlay, bulre† atloor don melcoue peloin, ibutsyl meon mysbreath alini driaco person. Crisolnay, lemon asosle mydar, icoriel pean thalmō, asophiel il notreon banyel ocrimos esteuor naelma besro, nathaomor fronian beldodrayn bon otalmesgo mero fas el-nathyn bosramoth. When he has said these things, and the spirits seem to him to be present for obedience, let him continue the work begun. But if they have not yet appeared, let him repeat what has now been said so many times until they appear; or let him break off entirely, lest, being too greatly compelled, they harm the operator. But when you have completed the letters, send them as intended with a messenger to a friend approved in the art; when he has received them, let him say this conjuration: Lamarton anoyr bulon madriel traschon ebrasothea panthenon nabrułges Camery itras-bier rubanthy nadres Calmosi ormenulan, ytules demyrabion hamorphyn. When these things have been said, he will soon understand your mind perfectly, the spirits now offering themselves of their own accord to those calling, so that very often others who are present are able to perceive the secret of the sender. But observe that in all letters which you send written by this art you imprint your own sign, so that the one to whom you write may know through which spirits you have operated. For if he himself were to operate through some spirits for understanding, but through others for sending, they would never obey him for all eternity, but for the improper operation would injure him and would by no means reveal your secret. For all the spirits whom we use in this art keep only the ranks and duties committed to them; they by no means meddle with others. Consider carefully all that we have said in this chapter; you will more easily be able to understand what we are going to say in the following ones. And so that
+
+*The Second Book.*
+
+And so that we may prove by example the things which we have said, let us set out our intention in the vernacular language, which we shall accordingly make known to a friend in the manner stated before.
+
+*Let this be the secret intention of mind of some prince, which he desires his absent vassal to know.*
+
+Roth.
+
+Dear faithful one, we intend, for proper cause, to make war on those of Strasbourg and to attack them with our whole force on the next Wednesday after Vitus and Modestus. Therefore it is our earnest desire of you, as you are bound to us by oath and vow and obligated to faithful services, that on that same day, well equipped according to your ability, you appear at four after midday near Strauffenburg in the forest. (Here the letters were placed thus.) You would find further instruction there, to follow and not fail to appear. We will acknowledge this graciously toward you, and keep this plan of ours with you in high secrecy.
+
+*For making this secret known*
+
+To the vassal, with the fuller intention of the sender, let it be written thus, or in another manner: Roth.
+
+Almighty, everlasting God, who created all things out of nothing, have mercy on us through the most bitter passion on the cross of your only-begotten Son as he died, who, conceived of the Holy Spirit without male intercourse, was born of the most pure ever-Virgin Mary, and, handing himself over voluntarily to death for us, by his most holy blood, dying, freed our souls from death. Hear us wretches, O most merciful Father, and through the outpouring of the most sacred blood of the same your sweetest Son, our Lord Jesus Christ, forgive us our sins and pour your grace into our hearts, so that, loving you in all things and above all things with sincere fervor, henceforth we may love nothing earthly against your commandments, and seek nothing perishable. For you are the Lord our God, who from the beginning created us in your image and likeness when we did not exist; and through your beloved Son
+
+*Of the Steganographia*
+
+your [unclear] you redeemed when we had perished; whom, dead for our sins and buried, you raised from the dead on the third day, and showed him alive to his rejoicing disciples for forty days, with much consolation. By a pure and most firm confession we believe that he, true God and man, reigning with you in your uncircumscribed majesty without end, will come again at the end of the world to judge the living and the dead, and will render to each one of us according to his works. Through him we ask you, O most merciful Father: hear us and have mercy on us now and in that terrible hour in which we are to be judged through that same Son of yours. Look upon us, most merciful God; for we are frail and pitiable sinners, naked of good works, who by sinning have in many ways offended your most holy Majesty. But, turned by your mercy to repentance, humbly beseeching for our sins that you turn your indignation away from us and mercifully pardon us the crimes of the past, bring us, when this present exile is ended, to the delight of the heavenly fatherland. Johannes Trithemius wrote this.
+
+A simple and open narrative of this sort, or any other you wish, which all may read and understand and which contains nothing secret, which we have said is suitable for the visible text, you should write on the aforesaid sheet, which we have said [unclear] the secret intention [unclear]. Facing east, when it has been written, whoever you wish to know your secret intention, once it is known, should say, with his face turned to the East, the conjuration which we set forth above: Lamarton, anoyr; and immediately he will understand for certain your secret intention, which you entrusted to the spirits.
+
+*To*
+
+*Book One*
+
+*For Knowing the Places of the Spirits, Roth., Their Names, Signs, Marks, and Subjects*
+
+But since it is necessary for everyone working in this science to know the places and the names of the principal spirits, and their signs, lest through ignorance he summon from the North one who dwells in the South, which would not only impede the intended result but could also harm the operator, I shall next set before you in a circle the quarters in which the principal spirits dwell, together with their names and signs.
+
+Rub.
+
+In this figure, through the sculptor's fault, there is read Podiel, Cimuel, instead of Camnel.
+
+Behold, you now have all the quarters of the world, knowledge of which, in the operation of this art in the present book, is necessary first of all before everything else; without knowledge of them no effect will follow in the art.
+
+Again, you must know the first deputies of each of the principal spirits, how many they are in number, to whom the secret mysteries are entrusted, so that you may know their orders, how they are to be summoned, and how in turn they are to be sent back to their offices, and how many illuminators they have by day, and how many light-fleeing ones by night, and which and how many friends, and which enemies they are accustomed to fear. Concerning all these things I shall teach you in the present table, which is called the table of direction.
+
+Schw. Roth. S. R. G. S.
+East. Pamerfiel. T 1000. 10000. 10. 0.0.
+Subsolanus. Padiel. ; 10000. 200000. 10. 0.0.
+Eurus. Camuel. ♈ 10. 10. 10. 10.0.
+Euroauster. Aseliel. ☉ 10. 20. 10. 0.10.
+South. Barmiel ☞ 10. 20. 10. 20.0.
+Austricus. Gediel. ☯ 20. 20. 19.0. 30.0.
+Africus. Asyriel. ☐ ☝ 20. 20. .120. 10.
+Favonius. Maseriel. ☿ 30. 30. 10.0. 0.10.
+West. Malgaras ☒ ☓ 30. 30. 0.30. 210.
+Chorus. Dorothiel. ☽ 40. 40. 0.40. 30.0.
+Subcircius. Usiel. ☾ ☾ 40. 40. 0.30. 0.0.
+Circius. Cabariel. ☶ ☸ 50. 50. 80.0. 80.0.
+North. Rayfiel ♋ 50. 50. 80.0. 0.50.
+Aquilo. Symiel. ♌ ♍ 10. 1000. 19. 100.
+Boreas. Armadiel. ♎ ♏ 1000. 180. 810. 69.
+Vulturnus. Baruchas. ♐ ♑ 10. 180. 810. 00.
+
+Here I want you to understand by East not the place where the Sun rises on any given day, but the place in which it was created at the beginning, which we call the equinoctial place. For unless you observe this consideration most diligently, you will not be able to make progress in this art. But now I shall also teach you the sequence of that table, so that from one spirit you may understand all. Therefore let us take Malgaras as an example, through whom the operation of this art is performed in the ninth chapter of the present first book. He is western; his sign is thus: ☒ ☓. He has beneath him thirty who preside over the day and have the power of putting to flight the spirits of darkness. Subject to these are another thirty, who preside over the night and always dwell in darkness, nor do they come to the light except by command of their princes, to whom they are subject at all times. And these in turn have under themselves, as it were, guardians
+
+*BOOK ONE.*
+
+Rodes, and ministers subject by full right, sometimes thirty, sometimes twenty, sometimes ten, and sometimes all of them, go forth together with all their attendants at the command of their princes, in this order: so that, however many of their number have been summoned by the operator, at the command of the great Virtues, from the second or third order, just as many servants and guards also come with them to the principal one, who is Malgaras. Again, under these are others, as messengers and doorkeepers, without a fixed number, who often assemble mingled with them. We do not possess the names of all these spirits. But those which it is necessary for the operator to know we shall set forth in each chapter. And note that all these Spirits are with their chief emperor, each in the quarter of the world assigned to him, as is clear in the table.
+
+*CHAPTER II.*
+
+*WHOSE PRINCE IS CALLED PADIEL Roth. Subsolanus, having under him 10,000 daytime ministers, 200,000 nighttime ministers, and many other subordinate servants, whose number is uncertain.*
+
+Since, as we said in the preceding chapter, Pamersiel, with his aforesaid Spirits, is implacable and untrustworthy, and does not readily obey all who desire to work in this art, but scarcely even those most experienced in it, we wish in the present chapter to make the art safer, and to show the manner of working in it through better Spirits, who are well-disposed, ready, and cheerful in obeying the one who summons them, and who, when summoned in the proper manner and at the proper time, come without delay, and faithfully carry out what has been entrusted to them without any deceit. The first chief emperor and president of this operation is called by the name Padiel, Subsolanus, with a circular dwelling, which is the first dwelling after the east. He has under himself ten thousand who preside over the day and over all the daytime operations of this art; they command and lead forth the nighttime Spirits lurking in darkness, who are two hundred thousand in number. All flee light and day, [unclear]
+
+*8 STEGANOGRAPHY* and day except one, who is the messenger to the presiding Spirits. All are good and well-disposed, and they do not harm the operator unless he is malicious or less skilled in the art. It is not necessary to summon all of them at once, but a few suffice, and sometimes one can satisfy the operator, whether the operation is by night or by day. For since they are well-disposed, quiet, and peaceful, they are more often solitary wanderers than tumultuous in a crowd. Therefore, when you wish to work through them and to communicate the secret of your mind through them to someone, however absent he may be, do this. Write on paper previously prepared in the proper manner, as you know, whatever narrative you wish and in whatever language, because it makes no difference, since he will perceive your mind not from the paper, but from the Spirits. While writing, turn yourself toward the subsolanus; when this is completed, say this conjuration: Padiel aporsy mesarpon omeuas peludyn malpreaxo. Condusen, vlearo thersephi bayl merphon, paroys gebuly mailthomyon iltheartamarson acrimy lon peatha Casmy Chertiel, medony reabdo, lafontriaciel mal arti bulomeon abry pathulmon theoma pathormyn. When you have completed these words, you will see two, or at least one, of the Spirits present most peacefully and ready to obey your will. And to him you shall entrust your secret, and he will faithfully carry out what you have ordered. But when the letter has come by the messenger to the person to whom it is sent, if he is alone, well; if he is with others, let him withdraw apart if he can, or, if he can, turned toward the subsolanus, let him say this conjuration in silence: Padiel ariel vanerhon chio tarson phymatto merphon amcorsy, paneryn atle pachungel thearan vtrul vt solubito beslonty las gomadyne metarnothy. When these words have been duly spoken, the Spirit sent will immediately appear, revealing to him perfectly, with no one else perceiving it, whatever you entrusted to be revealed to him, without deceit and without any danger. No one malicious and wicked can easily work in this art, but the better and purer someone has been, the more willingly and cheerfully the Spirits
+
+*BOOK ONE.*
+
+...they obey with greater cheerfulness. And the more each person conceals this knowledge, the more easily he will operate. And note that this Padiel, with his spirits, is appointed to announce secret notifications for the correction, imprisonment, and punishment of evildoers, as we have shown by the example set out below.
+
+*The Secret of the Intention, Which Is to Be Entrusted Not to [unclear] Letters, but to the Spirits of the Second Mansion.*
+
+Someone has been denounced before a prince, and some crime is laid against him, whether of injured majesty or any other kind. The prince wishes him to be punished by his official, from whom he is far separated; but he does not wish to write this very thing to him, lest, if the letters are disclosed by any chance, the accused man be warned and flee, or resist with the joined forces of his friends, or contrive something hostile against the prince or the laws of the fatherland. He writes this or any other narrative to his prefect, one which he need not fear being read by everyone; but he entrusts the secret to the spirit, in the manner that we have said before, who will faithfully tell his secret to the person to whom he is sent, provided that he has first been instructed in this art.
+
+Sincere charity. I send you a prayer for the devotion of penitents, composed rather beautifully and briefly, which [unclear] of my goodwill did not wish [unclear] to possess alone; and it is as follows. Deliver us, Jesus Christ, eternal savior of all the good, and pardon the offenses of the guilty; hear our groans, calming the storms of vices and renewing the oldness of conscience; lead us back to the eternal paradise. Good Jesus, remit our sins to us as we pray, for we have gravely offended and have often relapsed. Sweetest savior, heal our infirmities, we ask. Be kind to those who beg you, most pious Jesus, and hear us, your servants, as we supplicate. We are men wrapped in continual miseries and plunged into the greatest storms. Rescue us, most victorious consoler of the troubled, for our life is continually corrupted, buried in happiness. Have mercy only, most merciful Jesus, savior; look upon the humility of those who love you, and do not allow us exiles to be drowned in the flood and foulness of vices, in the love of the world. Until now we have lain sluggish, and bound fast by vices we have esteemed our salvation little, and have scarcely remembered the examination to come. Most kindly Creator, be propitious to your servants, and save those weeping ones whom the most wretched vanity of the world has deceived. Alas, we have all neglected the way of Truth; but deliver us, fixed in the mud and exiles, for you are our Savior, Jesus, who despise no one. You are the unfailing joy and everlasting happiness of the saints, our hope, the glory of Christians, the light of angels, the rewarder of unconquered martyrs, the crown of virgins, the honor of widows. Good Jesus, hear us humble ones crying to you; deliver us from the present exile, granting us grace, that we may live without end. Give life, we ask, to us, your wretched servant-exiles, whom you have redeemed, that we may attain the true zeal of justice. Preserve us, almighty God, infinite majesty, boundless mercy, eternal salvation of noble souls. Amen. End of the prayer of Johannes Trithemius, abbot.
+
+*Another Prayer, Whose Conjuration Is Padiel Melion, Parme, Camiel Busayr, Ilnoma, Venoga, Pamelochyn.*
+
+Z Z ♦ Receive also this not unbecoming prayer. The lover of human salvation, the greatest creator of all things, imposed on us obedience to the commandments, which we are all bound to obey out of love; and to those who obey he promised the reward of possessing the tabernacle of eternal happiness. Let us look upon the obedience of Christ, which we should take care to imitate, so that we may deserve to enter into the eternal happiness promised to us, and to be joined to the everlasting mansions of the angels. Let us do penance while we can, spending precious time fruitfully. Let us beware lest death snatch us unprepared, which refuses to grant delay to anyone. Therefore, brothers, do not delay doing penance. For death will come swiftly to you, which none of you can long escape. Therefore behold your days passing by, beginning penance while you have time. The hour of departing from here is approaching. O death, most terrible of terrible things, how swiftly you consume us wretches, and make our very brief sojourn, full of many injuries, cruel for the miserable. Let us wake up, wretches, with Jesus our most pious Savior exhorting and bearing witness to us, so that we may accuse our shameful negligences, and with good works...
+
+let us carefully keep the ways of justice. Kindly redeemer of the human race, hear us, and grant us forgiveness of sins. O father of mercy, be gracious to us in all our adversities. Heal, Lord, our infirm souls, since we are yours; grant to us afflicted little worms the rest of everlasting pleasantness, so that, by ever beholding you, we may praise you. Amen. I, Johannes Trithemius of Sponheim, published this, 1500.
+
+*Chapter III.*
+
+*Whose prince is Camuel, having under himself ten spirits presiding over daytime operations, and likewise ten over nighttime operations, with as many sub-servitors, whose office is to announce to the sender arrival, way, and journey.*
+
+Of the third mansion toward Eurus, the first and highest spirit of all is called Camuel, very benevolent and ready to send his substitutes to him who works in this science as is proper. He has few ministers indeed, but all are good, willing, and faithful: namely ten who preside over the day, and as many who preside over the night. They are always sent two by two to the operator from each order, since those who preside over the day do not flee darkness, nor do those who preside over the night flee light. Always, where necessity requires it, in every commission of the operator one is helped by the other; and when they appear visibly, then one is usually seen standing by in a beautiful garment of mixed color, and the other in the form of shining splendor. Yet often they appear only by a perceptible effect, and are not seen, unless it has so pleased the operator. That Camuel, with his ministers and sub-servitors, has the authority and power of announcing to an absent friend the state, will, condition, way, journeys, arrival, and departure of the sender, whenever he who works in this art wishes. Therefore, when you wish, and operate according to your will through the angels of this mansion, you must know first who the ten angels of Camuel are who preside over the day, and how many substitutes each of them has, and likewise concerning the nocturnal ones. To know this perfectly, you will consider the present table.
+
+Schw. Roth. S. R. R. R. X. R. R.
+
+*Rather, see Orpeniel 10. Citgara 100. Daniel 10. Dobiel 100. Azimo 10.*
+
+*It was to be read Noctar.* Camuel 100. Pariel 10. Omyel 10. *Nodar 10.* Tediel 0.
+
+Budiel 10. Cariel 10. Asiniel 100. Phaniel 10. Moriel 0.
+
+Elcar 10. Neriel 10. Calym 100. Meras 100. Tugaros 0.
+
+Here in the table you have the ten angels of Camuel who preside over the day, with their substitutes in number, and as many who preside over the night, also with their own sub-servitors. The last, however, as you see, have no substitute, since 0, as you know, signifies absolutely nothing in number. Therefore, when you wish to operate through these angels, prepare your paper, as is customary; and, turned toward Eurus, write any narrative whatever, and in whatever language you wish, which need not be hidden. When it is completed, read the following conjuration silently: Camuel a eralti bufaco aeli lum ar photyrion theor besamys, aneal Cabelonyr thiamo vesonthy. When this conjuration has been completed in silence, make your commission to the spirits who are present, as you know; and send them forth, doing everything in silence and without disturbance, if possible. Afterwards give the letters, open as you please, to be carried by whatever messenger you wish, and let him go, because the spirits will not neglect their office, whether the messenger comes quickly or slowly. Of this let there be no doubt for you, since they are faithful. But you must know which spirit you wish to send from the aforesaid, so that in the conjuration you may express his name immediately after the principal one; and this is so in all operations in which the names of the angels to be sent are set down in the chapter itself. But now let us set forth a likeness of the things spoken of by us concerning those matters which pertain to the office of Camuel and of his subject spirits.
+
+*Let*
+
+*The Second Book.*
+
+*Let this be the most secret intention of my mind, which I wish an absent person to know through the aforesaid spirits.*
+
+[unclear]
+
+Roth.
+
+If I am stationed at Rome, I learn from the most secret council of the supreme pontiff that he himself wishes to transfer the Roman Empire to the Franks. I desire to warn the princes of Germany: I cannot do it by messengers, whom I do not trust; I cannot do it by letters, because in all the cities of Italy there are men appointed at the gates who most carefully search those passing through. Therefore I write a single devout prayer, which I send openly by a messenger, together with other closed familiar letters to those same princes. I summon the spirits of the third mansion and command them to follow the letters that are to be sent. And when they have been called by the recipient, they must not omit to reveal to him my secret intention, which I did not dare entrust to letters. They come, they go, they obey.
+
+We all die, because we have all contracted the hereditary guilt of original fault; and no one lives who is not to die in a very short time. We contracted original sin in Adam and Eve. But all human beings die the death of the body because of the wretched rashness of mother Eve. Yet Jesus, the conqueror of death, by freeing us, drove away the death of the soul. O Jesus Christ crucified, look upon our humility, for we are most wretched, unhappy, and afflicted by many tribulations. Therefore, most merciful King of heaven, we ask: grant us contrition and forgiveness of all sins, on account of your surpassing humility by which you redeemed us from the distressing darkness of hell and from harmful passions. O our blessedness, most merciful Jesus, O sweetest lover of innocence, what shall I repay you? You, holy and innocent, suffer for us. Whither shall we flee when you come to the examination of judgment? You will come with power to render reward to each person according to his conscience. And all things will be naked before you; nor will anything be hidden from you of which you do not have knowledge. Therefore, while you live, brothers, do penance, and anticipate the strict examination of almighty God by works of mercy. Wipe away crimes with tears, and, relieving the labors of the poor, make God placable toward you. For he is kind to those who call upon him. Therefore, while there is time, seek his mercy. Always give thanks to him who redeemed you, Jesus Christ crucified for the salvation of human beings who fear the Lord.
+
+*Let this be another form of secrets, which is entrusted to the spirits.*
+
+*The secret remains stored in my mind, concerning my coming soon in secret to a male friend or female friend.* I do not dare write this very thing, lest it become public, which a difficult cause forbids; nor entrust it through a messenger, because there is the same danger. I call a spirit, entrust the matter; it comes, goes, carries the secret most secretly. I am safe in the form of the letters which I send; it becomes as familiar as one likes, so that the occasion may not be lacking.
+
+Greetings in the Lord. The bearer of the present letter, brother Arnoldus Bostius, has composed many admirable volumes on various subjects, as, among many other things, you will find written at the end, where mention is made of the living, in our book that I sent you some time ago, which is entitled *On Ecclesiastical Writers*. I commend so great a man, notable for religion and the grace of the arts, to your sincerity, dearest supporter, and I ask very much that you receive him with that familiarity with which you have been accustomed to receive all those joined to us in friendship. He will unlock for you many secrets of nature, and will be able to delight you with the sweetest conversation, if you wish. As for the codex on magical experiments which you have from me, I ask that you take care to send it back to me as soon as possible. I shall soon send you the volume of Sinesis on the power of spirits, when you have sent back my experiments to me. Take care of yourself so that you may be well. And write back to me often. Given at Spanheim, on the sixth day before the Ides of March, in the year of the Lord’s incarnation 1501. Johannes Trithemius, abbot.
+
+But the recipient of the letter, the one to whom you sent the spirit, should do what he knows must be done in this art; and, once the circular sign is recognized, let him turn toward the east wind and in silence say this imprecation: Camuel Busarcha, menaton enatiel, meran sayr abatremon, naculi pefum nadru lasmon enotichamabet vsear lesponty a brulmy pen sayr thubarym, gonayr afmon friachar ynon otry hamerfon, buccurmy pedauellon.
+
+When these words have been said, let him take the letters again into his hand, looking toward the east wind, as you know. But it must be noted that all these spirits, with their prince, are toward the east wind, and for that reason everyone who works through them must turn himself in that direction; or, if he cannot, at least when he has received the letters he should set them down facing that direction. Observe and understand what we have said to you.
+
+*Chapter [unclear]*
+
+[Source page illegible in the scan; the page image is the authoritative witness.]
+
+*Book One.*
+
+[unclear] in the greatest anxiety, mindful of the judgment to come, whose inestimable horror is in no way inferior to the punishments of hell. In the year of the Lord’s Nativity 1500, on the sixth day before the Ides of March. When the person to whom letters of this or a similar kind are sent has received them, being skilled in the art, let him do what he knows is to be done according to its rules, and let him turn himself toward the aspect of the southeast wind. Its sign is this: ? And let him read the contestation of the spirits, which is as follows: Asiel murnea casmodym bularcha vadusyn aty belron diuel arsephonti si pa normys orleuo cadon Venoti basramyn. Having made this contestation, let him continue the operation of the art, and he will hear the sender’s secret.
+
+*Chapter V.*
+
+*Whose supreme prince, by the name of Barmiel Roth., dwells in the South, having under him ten princes who preside over the day, and twenty who preside over the night, with their servants; and they are over the announcing of secrets that pertain to the surrender of camps.*
+
+The great prince of the fifth mansion in the South, toward midday, is called Barmiel, having in his dominion ten principal dukes, who preside over the day with their sub-servants, and twenty in number who preside over nocturnal operations with their attendants. These are more numerous than the diurnal ones because the operation of this mansion is performed more often at night than by day. For their office is to announce secret surrenders of camps and cities, especially at night. But when you wish to operate in this art through Barmiel, call one of his princes, whichever you wish; he will immediately come to you with twenty servants, because none of the princes of this mansion is ever accustomed to go alone or with fewer. Commit your secret, however, not to the attendants, since they are proud and malicious, but to the prince, because he is good, gentle, faithful, and very benevolent. But now I shall name for you eight from the diurnal princes themselves and likewise eight from the nocturnal ones, who are better and readier to obey; we have no need of more.
+
+Schw. Roth. R. S. G. R. R. S.
+Sochas 20. Aclerar 20. Barbis 20. Marcaiz 0.
+Roth. Schw. S. R. R. G.S. R.
+Tigarà 20. Barbil 20. Marquus 20. Baabab 0.
+C Schw.
+Schw. R. S. G. R. S.
+Chansi 20. Carpiel 20. Caniel 20. Gabir 0.
+Roth. Schw. S. R. S. Ri
+Keriel 20. Mansi 20. Acreba 20. Astib 0.
+
+You have sixteen spirits, of whom twelve each have twenty ministers, with whom they are accustomed to appear to one who calls them. The remaining four, to whom 0 has been placed beneath, which signifies nothing, have no sub-servant, but always come alone, and in their ministry are most faithful and tireless in all things whatsoever you command them. Therefore, wishing to operate through one of them, after first performing those things that must first be performed in the art, say this conjuration toward the South: Barmiel buras melo charnotel malapos veno masphian albryon, chasmia peluo morophon apluer charmya noty Mesron alraco caspiel hoalno chorben ouear aserea cralnoty carephon elcsor bumely nesitan a̾rmy tu faron. After you have completed the command, entrust the secret to the appearing spirit whom you called; send the letters, however, through whomever you wish, and of whatever kind you wish. But let us use an example.
+
+*Let Us Suppose a Secret of a King, Which Is Not To Be Entrusted To Anyone In Any Way.*
+
+*Roth.*
+
+If any prince is unable by arms to obtain a city or fortification that he desires, he attempts the matter by art; he corrupts the guards with payment. They entrust the plan to no one, not even to letters, lest, if that man is detected, he fail to achieve his purpose and they lose the payment together with their life. The prince turns himself to the mansion of Barmiel; he calls the messenger-spirit; he entrusts the hidden matter. That spirit comes, carries the message; it is captured by night, no one knows how. For these things, if it pleases, let us invent letters, in no way at all fearing the reader.
+
+By living justly one will attain happiness; for the humble alone are to be exalted, the rash alone to be condemned. If you seek happiness, hold fast to eternal justice, and you will attain the highest glory. Be a most fervent zealot of truths, and do not love falsehood, which corrupts honor and dissolves the mind of one who is temperate. Flee the vanity of the world, since it is very brief. Be a lover of Justice and wrong no one unjustly. Cultivate virtues; flee vices; guard freedom with justice; beware all insolence; always be humble. Love the Savior of our souls: whoever loves him will by no means die unhappily. Contemn glory that suddenly passes away; love the blessedness of the saints, which is not to be corrupted eternally,
+
+*Roth.*
+
+... flee anxiously the snares of our ancient enemy, whom the humility of devotion, not to be interrupted, will conquer. Be watchful, so that you are not overcome by the heat of the flesh; manfully defend the paths of justice, and remember that zeal for uprightness must be held with fearless perseverance. Always flee empty glory as poison; always contemplate the loveliness of God’s Paradise, [unclear]. The joys of the world quickly pass away: today glad, tomorrow stripped of all things, he dies. Flee the vicious zeal of bitterness; flee the swelling of pride, since [you are?] not ignorant that guilt for either is liable to everlasting evils. Every proud man is hateful to God; dying, to be tormented without cessation, he will never be comforted. What, finally, will the proud expect except lamentation? Therefore woe to you, exalted ones, worthy of eternal punishment and reserved for everlasting darkness and horrors. O vanity of the vanities of the world, destroyer of the light, deceiver of souls, [unclear], most pernicious opener of hell. Johannes Trithemius, Abbot of Spanheim, wrote this on 10 March 1520.
+
+Receiving the letters, once he has learned Barmiel’s [name], let him at once turn toward the south, or as soon as he can. For no danger will be able to arise from delay, as regards the obedience of the spirit, even if much time has intervened. For when they call, he is accustomed always to come, whether soon or late, even if they call after many days. This is his conjuration, after those things have first been done which the art requires.
+
+Barmiel any casleon archoi bulefan eris, Cafray molaer pessaro duys anale goerno mesrue greal cusere drelnoz, parle cufureti bafriel aflymaraphe naslo, carnoserneo, damerafenotis anycarpodyn.
+
+When he has said this conjuration as he ought, facing south, he will hear and understand your mind, which you have entrusted not to letters but to the spirit; if he turns himself to another quarter, he will never understand.
+
+*Chapter VI*
+
+*Whose supreme prince is Gediel, dwelling in the south-southwest, having under him twenty by day and as many by night, with their servants, whose office is to announce those things which contain dangers to be guarded against.*
+
+Over the sixth mansion, which is in the south-southwest, there presides the great prince Gediel, who has under his dominion twenty other principal dukes by day, and as many by night, with many of their servants. Their office is to announce all things that pertain to advising a friend concerning any imminent future danger whatever, and especially to princes for the defense of the country, castles, and cities; to announce all things that are advantageous for friends, for those whom we favor, toward safety; and also, contrariwise, against enemies and adversaries of every kind. For all these things it is not necessary to summon the twenty princes, but two with their servants; so that you may call them by name, I shall accordingly enumerate some of them, namely eight for the day and eight for the night.
+
+Schw. Roth. S. R. S. Reciel R. S. Aroan Cirecas Naras 20 Sariel 20 Sadiel 20 Aglas Roth. Sabas 20 Mashel G. R. S. Agra 20 Vriel Assibs 20 Baniel Anael First, before we proceed to the operation, you should know that at least two spirits must always be called, together with their twenty attendants, without whom they proceed nowhere, although they do not always all appear visibly. But this is not to be cared about, provided that through their invisible ministry you obtain what you intend. Therefore, when you wish to perform anything in steganography through their ministry, turn yourself to the south-southwest, since all of them abide there at all times with their prince Gediel; do what you know must be done according to the order. This is the conjuration: Gediel asiel modebar mopiel, casmoyn, rochamurenu proys nasaron atido casmear vearsy maludym velachain demosar otiel masdurym sodiuiel mestray seor amarlum, laueur pealo netus fabelron.
+
+When these things have been completed, the two named princes who have been called will be present, good, kindly, and secure; you must not fear them, but confidently entrust to them whatever you wish. They will faithfully fulfill your command. This sign will be red.
+
+*You have in your mind such a secret as you do not dare to commit to letters.*
+
+I am bound to my prince for many things; secretly, because of his adversaries...
+
+*BOOK ONE.*
+
+I have secretly learned of a plan, through treachery and betrayal, to [unclear] the castle tonight. I wish to warn my prince; I cannot by letters, since a search of those passing is being made by the enemies on the road; I cannot by messengers, because I know that my danger is to be entrusted to absolutely no one. I shall call a spirit, commit the secret to him, send whatever letters I wish merely for form's sake, so that the prince may know who is to be called; and from the number of the spirits, because otherwise without letters he would not know that the spirit had been sent by me, that one goes, announces it; the prince forestalls and occupies the castle.
+
+*LET THE FORM OF THE LETTERS BE THIS, OR Roth. another; when he has read it, let him forbid him to go.*
+
+The highest nobility of the human race and the highest virtue is to love God purely, to seek his glory, and to adore him with uprightness of mind. For the humility of a pure heart shall reign in heaven; patience shall exalt; only the mind of a naked man, fearing and loving God, shall be established in true nobility. Love God, despise the world, flee the age of iniquities; love religion, brotherly charity, the bond of peace, and the unity of those who live rightly. Christ warns in the Gospel that we ought not to be anxious about superfluous human cares. Having, says the holy Apostle, only what is necessary, let us be content. Therefore let us have the love of God and zeal for justice, since the truly solid riches are purity of soul, simplicity of heart, disregard of earthly honor, [unclear] cleansing, and the formation of holy morals. Let us be intent on good works, lest vices overwhelm us; let us live innocent in all uprightness, as though we were to die tomorrow. Let us love God with a most pure heart, carefully keeping his commandments; with humility let us at all times grieve for sins, beseeching the most loving Savior that he remit our vices. To defend [unclear] of his love and of the heart, to rebuke the vices of the wicked, to persist in prayers, to despise the glory of the world, and to devote oneself to reading are the treasures of Christians. For the vain glory of the world is about to fall suddenly; riches too are false, which, when we shortly expire, we leave unwillingly behind. Justice alone is our happiness; in our humility is boasting and the possession of riches that will remain with us for all time: the memory of death, fear of judgment, and recollection of our sins.
+
+When my prince has received these or any other letters containing no secret, by the sign of Gediel he knows where it is to be turned, and which spirit is to be called.
+
+*Conjuration.*
+
+Gediel aprois camorety moschoyn diuial palorfan, fermel, asparlon Crisphe Lamedon ediur cabosyn arsythamerosyn. When these words have been said, as is proper, and when certain other things necessary in the art have been added, with the spirit revealing not the letter but the secret of my mind, he will know the hidden matter and forestall the enemy.
+
+*CHAPTER VII.*
+
+*WHOSE SUPREME PRINCE IS ASIRIEL, whose dwelling is toward the southwest, having under his dominion 20 dukes who preside over the day, and as many who preside over the night; their office is to announce the plans of princes to their friends.*
+
+The first and supreme prince of the seventh mansion is called Asiriel, and he dwells in that region of the world which we call toward the southwest, having under him 20 princes who preside over the day, and as many who preside over the night; all of them have many servants under them. If two dukes from the diurnal ones are called by the operator to the ministry of the art, they always have 10 servants serving them; similarly it is so with the nocturnal ones. Therefore if you call only one from the princes, especially the nocturnal ones, he is proved to have not 20 but only 10 servants. You shall not call the diurnal ones unless at least two, because they are not accustomed to come alone; from the nocturnal ones you will be able to summon one or two, as you please. If you call two, you should know that 20 servants are to be added in the conjuration according to custom; if one, 10. And so that you may know who are to be called alone and with a companion, consider the table.
+
+Roth S. R. S. X. G.
+
+Astor Buniel Arcisat Cusiel Carga Rabas Adriel Malqueel Schw.
+
+20——20——20——20——20 S. Schw.
+
+20——20——20——20——20
+
+*G.*
+
+*Book One.*
+Schw. R. S. R. G. X. S.
+Amiel, Maroth. Budar 10. Fassua 10.
+R. } 20. 20.
+{ Cusiel, Omiel, Aspiel 10. Hamas 10.
+
+Of these spirits, who are princes among forty, their office is to announce the secret counsels of princes to their subjects and friends; from the daytime ones you have eight, and just as many from the nighttime ones, with their many servants, who suffice for everything; there is no need of the others. Carefully observe that, when you summon one or two princes from those already named, you express in the verse the number of their servants; for they are proud, and it pleases them wonderfully to be said to preside over many clienteles. Therefore, when you wish to operate through them in Steganography, turn your face toward Africa, and do with diligence what you know must be done, so that you omit absolutely nothing of those things that pertain to the art.
+
+*Conjuration:* Asriel aphorsy Lamodyn to Carmephyn drubal asutroy Sody batuchon vsefer palormy thulnear asmeron chornemaduslyn coleny busarethon duys marphelitubra nasaron venear fabelronty.
+
+When these things have been completed, those who were summoned will stand by there. In order that you may distinguish them, know that the princes commonly tend to appear in an airy habit, that is, sapphire-colored; the servants, however, in white. Commit your secret to the princes themselves, because they are faithful. All the leaders have this custom among themselves beforehand, that when the operator addresses them, then immediately they send the servants away; indeed, they withdraw of themselves, lest they hear the commission. When he ceases speaking to the princes, the servants are seen standing by again. Let the secret of the prince be such that he entrusts it to no one to be carried through.
+
+*A prince’s counsel, great and most secret, concerning difficult and very important matters, is [this].* He wishes some other friendly prince to know it, because he has cause; but he fears that it may come into public view, with very great danger to himself and his people: if, however, it is announced, lest [unclear], or by letters, lest they be read by someone. Therefore he summons a spirit who will not reveal the secret; he entrusts it, sends him forth, accomplishes it; it has been spoken. He entrusts letters [unclear], suspected by no one, and fearing nothing in any respect for the commonwealth.
+
+Jesus
+Roth
+Roth
+
+*Steganographia, 34*
+[unclear]
+
+Jesus Christ, unfailing light, eternal blessedness of all the saints, creator and ruler of the universe, have mercy on us. We, weak, groaning and weeping, beg your mercy. Grant us the power of overcoming the temptations of the devil, so that, when the present evils have been conquered, they may obtain rest. O sweetest Savior Jesus, forgive the sins of us who pray. For we are your humble creatures, most merciful Father: look upon us, your wretched and useless servants, since we desire to serve you with all our strength. Make us have the fervor of your love, always adorned in us with good works. Give us true works of the virtues, the observance of justice and uprightness, and inseparable love; make us truly humble and vigorous despisers of worldly things, so that, always burning with your love, we may love nothing earthly and esteem nothing temporal as pleasant to us. O teacher of humility, Jesus Christ, teach us to imitate your doctrine. We are, alas, most much loosened by vices, naked of good works. Save us, Jesus Christ, lest we perish. O highest truth, give us life, most refreshing refuge of souls: be for us a tower of strength. For you are our giver of life, you are the salvation of souls and the sweetest renewer of the mind. You are the ineffable joy of the angels and the most healthful rest of faithful souls. You are the blessedness of the saints who love you. You are the inextinguishable light of the citizens above. You, giver of life to the dead, look upon our frailty. Sweetest Jesus Christ, help us, your frail servants, so that, walking without offense along the way of truth, we may obtain eternal rest. O most loving Lord Jesus, soften the labors of our exile. And when the end of this life begins to draw near, then may you deign mercifully to come to our aid, so that before the face of your power the adversary may fall down terrified, and all devils who provoke evils, princes of eternal death and our most savage persecutors, may flee far away. We ask, through the power of your most noble death, sweetest Jesus: do not despise us, useless servants, on the day of our departure, whom you willed to redeem with your blood. Wash away our transgressions, so that, while the angels await us, we may deserve to enter the joys of the heavenly homeland. Amen.
+
+I, Johannes Trithemius, abbot, wrote this on the Ides of March, 1500.
+
+[unclear]
+
+For this reason we send letters to him to whom the spirit too is to be sent, because none of the princes or servants from those spirits comes unless he is summoned, nor [unclear] the one to whom he is to be sent
+
+*Book One.*
+
+is to be sent. Therefore, so that you may know from which quarter of the mansion and which spirit he ought to call, letters are sent sealed with the prince’s sign, and so written that they delight the Spirit, and that he desires to be refreshed by their encouragement. But of these things we shall speak in the last chapter.
+
+*This is the conjuration of the spirits for the recipient.*
+
+A SIRIEL onear Laueuiel gamerfothin ianoz alnay bulumer palorson, irgiel lamedon, ludiel Caparosyn nauyasparlon nadicl bulephorianos pesonty tresloty Camon elyr, mearsu nosythamerosyn. When these words have been spoken, facing Africa most secretly, and the other things having been added which are required by the art, the Spirit will appear to him, visible with his servants, with none of the others seeing him or hearing him; and he will reveal the sender’s secret into his ear.
+
+*Chapter VIII.*
+
+*Whose supreme prince Masierel dwells toward that quarter which we call Favonius, having under him sixty principal dukes, with many servants of theirs.*
+
+The eighth mansion is toward the West, in that place from which the wind is called Favonius; and there dwells the great prince who is called Masriel, with an infinite multitude of dukes, princes, and attendants. Of these, for this art there are appointed thirty princes who preside over operations by day, and as many who preside by night, with many servants. All these have been appointed to announce and report the secrets of human arts, of philosophy, magic, necromancy, and of all wondrous and most secret operations, which are known to very few men; and in these matters they are ready and very faithful, nor do they return unless they have completed everything that had been entrusted to them. They are quiet and come without noise, as they are commanded, by themselves, with many or with few, or even without servants, at least visibly. They frighten no one except him who, not instructed in the art, has presumed to call them by the true principles of the art, to which no one easily attains by instruction. But so that you may have readily at hand those whom you are to call for the operation of the spirit, know that not all are necessary for you, but some; and therefore twelve are sufficient for you for actions which are done by day, and as many for those which are done by night, with their servants.
+
+Roth. Schw. R. S. R. S. Roth. Schw. R. S. Azimel 30 Alsuel 30 Rouiel 30 Athiel 30 Chasor 30 Aliel 30 Roth. Schw. R. S. Potiel 30 Espoel 30 Fariel 20 Vessur 30 Roth. Schw. R. R. S. S. Arach 30 Sarmiel 30 Baros 30 Rabiel 30 Maras 30 Amoyr 30 Eliel 30 Atriel 30 Noquiel 30 Badiel 30 Paras 30 Saluar 30 You have, then, from the thirty principal spirits of Maseriel, twenty-four with seven hundred and twenty servants, of whom the first twelve preside over operations by day, and the remaining twelve over those by night. Therefore, when you wish to work something in Steganography through them, turn yourself toward Favonius, and, after first performing the necessary things which are required by the art, call one of the aforementioned, whichever you wish, as is proper, and he will come without delay. The conjuration: Mafriel bulan lamodyn charnoty Carmephin iabrum earesathroyn afulroy beuesy Cadumyn turiel Seuear; almos lycadufel ernoty panier iethar eare pheory bulan thorty paron Venio Fabelronthusy. When the spirit whom you have called has appeared, entrust to him your secret to be carried safely, hesitating in nothing at all, speaking silently to him if you are in the midst of others, as you know.
+
+Let the secret of your mind be such.
+
+[unclear]
+
+You have secrets in the sciences of philosophy, of the stars, magic, Cabala, arithmetic, or in any arts whatsoever, which it is not safe to entrust either to letters or to messengers; or certainly let him send secrets to you, [unclear]; or even to commend one who is philosophizing, so that he nevertheless does not know of the others. Call one or two of the spirits named above; set out the secret; he undertakes the burden. He will carry it to the friend, and will report back to you what was entrusted by him. Write Roth
+
+*Book One.*
+
+Write whatever prayer you wish, or any letters containing nothing secret.
+
+[unclear] 27 Kostli
+
+O almighty, everlasting God, most just rewarder of good things, who willed your Son to share in our race, that he might redeem us most wretched ones from the devil’s envy; who by goodness alone [unclear] took on our [form?], incorrupt from the flower of the virginal womb, as the holy archangel Gabriel made known, so that the Virgin, about to conceive by your most blessed Spirit, would remain a perpetual Virgin, immaculate, [unclear], more eminent than men and angelic spirits. The most holy and most reverend Virgin Mary, wholly knowing nothing of male union, bore the omnipotent King, God and man, giving birth without pain, receiving without sadness the wailing God and man, always remaining immaculate, most chaste, most innocent, higher than men by the virtue of humility, full of charity, most worthy of all praise, and to be venerated by all: most blessed and always to be praised by the angels, most resplendent empress, noble, renowned, and truly most splendid. Whatever she asks, your Son admits in all things with most holy condescension, and reverently venerates her as his mother, more excellent than all creatures. He has never been accustomed to deny her anything when she asks it; but reverently consents to your most holy will, granting all things for her honor, she who will stand for us on the last day, helping us who venerate the Virgin’s kindly and illustrious merits. O God, light of truth, we most devoutly beseech you: pour into us, O God, grace and mercy, and grant pardon to all who call upon you and humbly ask remission of their faults; and do not despise us wretched ones, but mercifully receive us, trusting in your goodness, for love of the Virgin Mary, who rejoices in God, and of all your elect. Amen. I, Johannes Trithemius, abbot of Sponheim, wrote this in the year of the Lord’s incarnation or birth 1500, on the fourth day before the Ides of March.
+
+When the person to whom the letters are sent receives them, once the sign of Materiel has been recognized, let him turn toward Favonius; and, after the things secretly required for the art have been set forth, let him call the very spirit that was sent, adding the conjuration.
+
+*Conjuration.*
+
+Maseriel oneat Camersin, Cohodor lyrno balnaon greal, lamedon odiel, pedarnoy nador ianozauy chamyrin. When the conjuration has been completed as is proper, the spirit that has been sent will appear veiled in mist. And when the mystical word has been spoken, he will speak the truth into the ear, and will faithfully disclose everything that had been entrusted to him. No one, however, [unclear] circum-
+
+*Steganographia*
+
+...none of those sitting around will perceive anything, provided only that you persevere steadfast and undismayed, as is necessary.
+
+*Chapter IX*
+
+*Whose prince is called Malgaras, who dwells in the west, having under him thirty dukes for the diurnal [unclear], and as many for the nocturnal; their office is to announce the private secrets of friends.*
+
+*Roth.*
+
+The inhabitant of the ninth mansion, which is in the equinoctial west, is Malgaras, prince of the west. He has under him thirty dukes who preside over the day, and thirty others who preside over the night, with their servants. The office of all these is to announce the secrets and hidden matters of intimate friends to friends. They are good; they are more accustomed to associate among human beings. For the nocturnal ones, although they are good, nevertheless do not willingly associate with human beings, but flee and detest the light above all, wishing to lie hidden in darkness; and for this reason they frequently appear, to one summoning them by conjurations, like bats. From all these we shall place twenty-four by their names in the table; of these twelve in the day, and as many in the night, are sufficient.
+
+*Table*
+
+*Roth.* S. R. G. R. S. Mifiel 20; Aroiz 10.
+Carmiel 30.
+*Schw.* R. G. R.
+Mielel 30; Casiel 30; Udiel 30; Barfas 20.
+*Roth.* G. R. S. R. G. {30.20.
+Borass 30; Rabiel 20; Oriel 30; Si /30.20.10.
+*Roth.* G. R. S. G. R. S.
+Aroc 30; Libiel 30; Caron 30.
+S. R. G. R. S. G.
+Dobiel 30; Raboc 30; Zamor 30; Aspor 20.
+R. G. R. G. R. S. G.
+Cubi 30; Aspiel 30; Amiel You now have, concerning the Malgaret princes, twelve for daytime actions and just as many for nocturnal ones, with their six hundred and forty servants; and note that Aroyz and Basiel are always solitary wanderers. Miniel-Basas and Afpor delias can be summoned two by two, but the rest three by three. When you wish to have three or two or one, beware lest [unclear] by their unnamed [unclear]. As the table teaches you, so do, without alteration, lest you fall into danger.
+
+*Song of Conjuration.*
+
+MALGARAS ador chamteso buluetiny mareso bodyr Cadumir auiel cafmyo tedy pleoryn viordi eare viorba, chameron vesy thuriel vl nauy, beuesy meuo chasmiron ty naor ernyso, chorny barmo caleuodyn batso thubra fol. When the conjuration has been spoken, be a strong and steadfast man: those whom you have summoned will at once appear to you visibly. But if those summoned from the nocturnal ones do not come at once, do not on that account interrupt your work; instead press them with repeated conjuration until they obey. For they are somewhat sluggish and do not willingly come among men, as we said before.
+
+Let it be a secret of the mind, which it is not pleasing to commit either to man or to letters.
+
+Roth: In those matters which pertain to household affairs, money, a deposit, trust, or to any business of human intercourse, you have a secret which you wish a friend far absent to know; but it is such that, with the greatest danger or loss to each of you, it would undergo public examination; for that reason it must be entrusted neither to letters nor to men. Therefore, so that you may be secure and fear no one’s knowledge, you turn yourself to the west, summon the duke, entrust the secret: he goes, faithfully carries everything through; if anything has been entrusted to him for you, he reports it. Write whatever letters you wish, in which you need fear no one’s inspection.
+
+V. 13.
+
+Greetings and love, most beloved and most singular friend. The bearer of the present letter, born at Roermond, very beneficial toward our friends, more glorious [unclear], whom I ask you to receive kindly, will explain his necessity to you. Since he has always been joined to me by an old obligation, I would judge it sweetest, according to my powers, to relieve him and heap him with benefits. And would that I could
+
+*Of Steganography*
+
+I could offer consolation for his misfortunes. But since I am exhausted by heavy losses, as is clearer to you than daylight, I cannot satisfy my zeal as I would wish. But you, who abound in necessary temporal means, should show yourself [generous?] to a friend, and, as you have been accustomed, show yourself a humane patron of friends in need. I therefore ask you to lend him, for a fixed term, two hundred florins, because he is placed in the greatest necessity, as he will inform you. I trust that he will restore everything in full when the term fixed for him has arrived. If you do this, I shall give thanks that will never die, and I shall stand by you in [unclear] greater matters. Act, so that we may prove sincere love in its actual effect. What you do for him I want you to know is done for me; nor, firmly believe me, will you bind him to yourself any less gratefully, and when the term has elapsed he will restore everything most completely. For he is accustomed to keep promises inviolably and to show himself constant to all men. Besides, since you enjoy hearing new reports, I should like to write something. I have raised a little dog, rightly called by a Greek word, vigorous in such learning, training, and memory of all things that to some he seems to have put off the beast and put on the man. He understands Greek and Latin words; he knows how to ask pardon for his offenses. Whatever I order, he does; and, when I nod by gestures, he reveals men’s secrets. You would see him imbued with such discipline of manners that you would judge him [unclear] many learned men. Ordered to open a window, he opens it, and, surpassing nature by intelligence, when forbidden he puts back food. He carries a burden placed on him; he shows himself a zealous defender of me, loves me, plays excellently, and does wonderful things, altogether incredible to those unaccustomed to them. Farewell. Johannes Trithemius, Abbot of Saint Martin in Sponheim, wrote this on the third Ides of March, in the year 1500.
+
+When the friend to whom they are sent has received these, or any others, he understands the sign to be that of the prince of the West. Therefore, after first performing the things customarily to be set before it, he turns himself toward the West, calls the Spirit, adjuring the invisible one who was sent to become visible and not to tell anyone. *The Chant of the Spirit.* MALGARADAS apro chameron asoty methroesZamedo sogreal paredonadre Caphoron onatyr tirno beofy. Chameron phorsy mellon tedrumarsy dumaso duife Casmiel elthurnpesonalproys fabelronty Sturno panalmonador.
+
+When the chant has been completed, the Spirit himself, called in his own manner, will be present, faithfully revealing to you the things that he has received in his instructions; with him you will be able to send back to your friend whatever hidden thing you wish him to know.
+
+*Chapter.*
+
+*Book One. Chapter X. Whose supreme prince is called Dorothiel, dwelling in the [unclear] quarter of the world, which is called Chorus from the wind; and he has under him many dukes as servants.*
+
+The tenth mansion is called Chorus from the wind. In it dwells the great prince Dorothiel, who has under his power and dominion forty dukes who preside over operations by day, and as many who preside by night, apart from almost infinite attendants and servants. Their office is to announce all secrets that pertain to spiritual affairs, to ecclesiastical gifts, benefices, prelacies, dignities, and the like. In the operation of Steganography, however, there is no need to bring forward the names of all Dorothiel’s dukes, but a few from each order suffice. We shall set out the names of the rest, with the others, in their own place. And concerning these, consider the table.
+
+Roth.
+Mugael o.
+Choriel o.
+Artinc o.
+Efiel o.
+
+P S.R.    F S.R.    P S.R.    F S.R.
+Mugael 40    Gudiel 400    Nachiel 40    Phutiel 400
+Choriel 40    Asphor 400    Ofisiel 40    Cayros 400
+Artinc 40    Emuel 400    Bulis 40    Narsyel 400
+Efiel 40    Souiel 400    Moniel 40    Moziel 400
+Maniel 40    Cabron 400    Pasiel 40    Aroziel 400
+Suriel 40    Diuiel 400    Gariel 40    Cusync 400
+Carsiel 40    Abriel 400    Soriel 40    Vraniel 400
+Fubiel 40    Danael 400    Darbori 40    Pelusar 400
+Carba 40    Lomor 400    Paniel 40    Abael 400
+Merach 40    Cesael 400    Curfas 40    Meroth 400
+Althor 40    Busiel 400    Aliel 40    Cadriel 400
+Omael 40    Larfos 400    Maziel 40    Lobiel 400 Behold, you have from the princes of Dorothiel from each order, namely the daytime one namely, twenty-four leaders, of day and night, with the number of servants ten thousand one hundred sixty. And note that the operation through these is very different from the others, as we shall speak at length concerning the lord. For in this dwelling one must operate according to the twelve hours of day and night, and four princes always preside over two hours, both by day and by night, so that it is not permitted to you, when summoning, to call another except from the order which the hour concerns. Thus, if the operation is done in the first or second hour of the day, call whichever you wish from the first four who preside over the day; and in the third or fourth, know that a leader must be called from the second four. And so accordingly it is to be done through all the orders and the twenty-four hours, both by day and by night. But when you wish to operate in steganography through the spirits of Dorothiel himself, after the general matters customarily set forth beforehand in the art have been set forth, write whatever letters you wish, and, turning yourself toward that quarter of the world which from the wind we commonly call Corus, call one or more of the four who preside over the hour in which you are operating. Dorothiel casi feor mady! on busar pamersy chear ianonthym baony Camery vlymeot peathãadial cadumyr rencar thubra Cohagier marlon Lodie: no sabeirusyn Els [unclear] you will see the appearing spirit whom you have called, ready and cheerful to obey; entrust your secret to him securely and faithfully. Look first at the table.
+
+*Let us suppose mentally how a secret is to be committed to letters.*
+
+There is for you some business, in any matter whatever, [unclear] spirit to a prince, very [unclear], difficult, and secret, which you think should be entrusted to no mortal, nor indeed to letters. Do you wish the prince to know it? You compose letters to him, supplicatory ones on behalf of a poor cleric, or any others whatsoever; you call the spirit, entrust the secret to him; he carries out everything faithfully.
+
+*You will give whatever letters you wish, in which you need fear nothing.*
+
+I make known to Your Grace, most illustrious Prince, that Conrad Hummel, beneficed at the altar of Saint John the Evangelist, died last night. But lest Your Grace grant the said altar without deliberation either to one of the unskilled or to the unworthy, of whom I think a great number will be present, waiting for the said altar, as is usual, rather than reserve it for a more useful man, I pray: although I am far too unworthy for my prayers to seem to obtain any favor in the sight of the greatest and most noble prince, that Your Grace may deign to grant the aforesaid altar, with the more unworthy rejected, to the bearer of these presents, whom I have known to be worthy of the best benefices, since he is adorned with beauty of morals, learned in every way in knowledge and letters,
+
+*Book One.*
+
+The twelfth dwelling of the described world, which is toward that quarter from which the Circius wind blows, is inhabited by Cabariel, the great emperor, with countless spirits. Among them, fifty are appointed at all times for the daytime operations of Steganography, and the same number for the nighttime, who preside over many very powerful servants. Their secret office is to warn friends, disclose plots, and admonish the absent from whom one must especially be on guard. From all these we shall name a few.
+
+Schw. R. S. R. G. R. Si R.
+Satiefel 50 Etymel 50 Mador 50 Ladiel 50
+Parius 50 Clyssan 50 Peniel 50 Morias 50
+Godiel 50 Elitel 50 Cugiel 50 Pandor 50
+Taros 50 Aniel 50 Thalbos 50 Cazul 50
+Asoriel 50 Cuphar 50 Orym 50 Dubiel 50 You now have, out of the hundred princes of the great Cabariel, twenty, and they are sufficient for you at present. The first ten of them are appointed for daytime operations with 500 servants, and the other ten likewise for nighttime operations with their 500 servants. And know that the spirits presiding over daytime operations are much more benevolent and readier to obey, so that it is often necessary to compel the nocturnal ones with a certain violence, and rather often to repeat the conjuration. When commanded, they bring their servants with them; if they have not been commanded, they hide them. When you wish to operate by the ministry of these spirits, turn yourself toward that quarter which we have mentioned, and, after first performing the customary preliminaries, say the mixed conjuration: Cabariel onear chameron fruani, parnaton fo fiel bryosi nagreal fabelrontyn adiel thortay nofruau pena afefiel chusy. When the song has been completed, if it is by day, the spirit called will at once be present without delay. But if it is by night and the spirit whom you have called delays in coming, press him as often as necessary, until he comes, by repeating the song, which they are accustomed to reverence greatly.
+
+Let us set down as an example a certain secret to be entrusted to absolutely no one.
+
+*Steganography*
+
+You have a faithful friend, whom you favor as yourself, but absent far away, and you know that when he returns traps are to be set for him on the road by someone more powerful, or in any other place or manner. You wish to warn him, since he does not know; but great danger would threaten you as the one warning him, if it became open. Therefore it must neither be entrusted to letters, lest they be read by someone, nor confided to a man, lest it happen to be revealed. Therefore, so that you may remain safe and your friend be warned, you call the spirit, entrust the secret: it is done.
+
+You send to your friend familiar letters, or a devout prayer, such as may bear being seen.
+
+I had lent you my codex on the deeds of the Lombards, Bede's volume on times, which I beg you to send back. For it befits a wise man, especially a Christian, everywhere to keep the faith he has promised. To forget benefits, according to our divine and human ordinances, is accounted a very great crime. Do not incur so sinful a guilt. I sent you my volumes so that you might someday restore them. But the Greek books I freely gave to you; in view of them, you should rightly show yourself more faithful to us in gratitude. Farewell, from Spanheim, on the Ides of March, in the year of the Lord 1500.
+
+When your friend has received these letters, or any others sent by you, and has recognized the sign of Cabariel, let him turn himself toward that quarter of the world from which the Circius wind comes forth; after first performing the customary preliminaries, let him read this prayer in silence.
+
+*Song of Conjuration.*
+
+Cabariel afiar paremon chiltan amedyn sayr pemadon chulty mouayr sauepor peatha mal frimaston dayr pean cothuruo fabelrusyn elsoty chelmodyn. When this song has been said toward the Circius, the angel will at once appear visibly, disclosing to him the secret entrusted; and he will report back to you if that man has entrusted anything.
+
+*Chapter XIII.*
+
+*Whose prince is called Raysiel, dwelling directly to the north, under whom there are 50 princes who preside over our daytime operations, and the same number over the nighttime ones; their office is to announce betrayals.*
+
+Third
+
+*BOOK ONE.*
+
+Do the other things that the art itself requires, and entrust to the spirit, now appearing, the secret with the seal of a profound mystery, doubting nothing, since all those guides are good and faithful.
+
+Let us suppose that you have such a secret of mind, to be entrusted to absolutely no one.
+
+*YOU HAVE FOUND* a very great treasure in the coffers of the dead, or in some other place in the earth, or you know for certain that one is hidden secretly; alone you are not able to carry it away, and yet you do not trust anyone among those dwelling nearby. You have a faithful friend, but absent far away, to whom you wish to reveal the mystery, but you trust neither letters nor messenger, lest through him you fall into publicity and danger, and lose the profit. Therefore you call a spirit. The spirit comes; he carries the message; he calls the friend. He comes, helps, shares.
+
+Write letters as you wish, in which there is absolutely nothing to be feared.
+
+I send you the speech which I composed at the wedding of a certain friend of mine. God, Creator of all things and Redeemer of the human race, and Savior of all, lest the human race perish, also instituted the sacrament of marriage. For we read that he joined Eve as wife to the first man, and said: *INCREASE AND MULTIPLY*, establishing the law for preserving humanity. Afterwards God incarnate deigned to sanctify marriages by a miracle. Those who observe the things established deserve well of God; but those who undertake chaste marriage with zeal for offspring confer more upon human beings. Therefore you who undertake honorable marriage I shall rightly praise by the example of our Savior. For he by miracles, but I by words, shall duly commend the necessary sacrament of the established rite of marriage. Although I am unmarried, I shall nevertheless rightly praise marriages. Indeed, if marriage were removed, the whole human race would fail and collapse. For through the use of marriages the human race exists, although ruinous, weak, and corruptible; yet without marriages it would not endure. But do this, that the fruitfulness of your marriages may be adorned with morals and holy conduct, and may place scandal before no one. First of all, love God, continually devoting yourselves to works of mercy with justice; flee impiety, cultivate uprightness, love the good, always speak praises to God, aid the poor with alms, obey God’s commandments. Do not abandon truth; honor God’s ministers in the churches; pay tithes; receive pilgrims as guests; free the innocent; feed the hungry; obey your elders;
+
+*Of the Steganographia*
+
+Love your neighbors honorably; though they inflict injury, cultivate the Christian religion most devoutly. Abhor the empty, harmful, and superstitious customs of the gentiles. Keep the teachings of the Gospel, and live according to the commandments of God. Flee the pleasures of the flesh, and show yourselves honorable and good; carefully guarding the purity of the mind, do not defile it. Remember, I beseech you, what Christ our Lord cried out in the holy Gospel: Blessed are the clean of heart, that is, those who preserve cleanness of soul in a muddy body for God’s sake. And let the cleanness of the heart not lack continual and most humble prayers, since prayer purifies the mind, cools those who burn, and drives the temptations of the devil far away. Hence the holy Apostle Paul teaches you to persist in diligent and devout prayers, so that you may be able to overcome harmful temptations. We join you in marriage, so that your race, propagated by the decree of law, may be built up, not so that you ought to overflow with harmful pleasures. For the pleasures of the flesh kill the soul, and corrupt the noblest dignity of human substance [unclear]. Therefore, mindful of these things, know that you are travelers, destined to return to the homeland to which you have been called back. The present life is very short, and the delight of the world comes very swiftly to an end. Therefore live in marriage in such a way that, after death, when [unclear], you may come to the kingdom of heaven. Johannes Trithemius, Abbot of Sponheim, of the order of the divine Father Benedict, published this on the day before the Ides of March, in the year of the nativity of our Lord Jesus Christ 1500.
+
+When he to whom these or any other letters are sent has received them, once the sign of the great Usiel is known, let him secretly do as he knows from the art must be done; then let him turn toward the Subcircius and say the charm: Usielafoyr paremon cruato madufyn sauepy mauayr realdo chameron ilco paneras thurmo peã elsoty fabelrusyn iltras charson frymasto chelmodyn. When this charm has been spoken, the spirit will show himself visibly and will reveal the matters entrusted to him; if anything has been entrusted to him by that man, he will report it to the one admitting him.
+
+*Chapter XII*
+
+*Of the spirit and supreme emperor Cabariel, who dwells in the [unclear] quarter of the world, which is called Circius from the wind; he has under him 70 princes by day, and the same number by night.*
+
+*Book One*
+
+The twelfth dwelling of the described world, which is toward that quarter from which the wind Circius blows, is inhabited by Cabariel, the great emperor, with infinite spirits, among whom, for the operation of Steganography, 50 are deputed for daytime and the same number for nighttime at all times; they command many servants, and very powerful ones. Their secret office is to help friends, reveal treacheries, and warn an absent person about those against whom he must especially be on guard. From all these we shall name a few.
+
+Schw. R. S. R. G. R. Si R.
+Satiefel 50; Etymel 50; Mador 50; Ladiel 50
+Parius 50; Clyssan 50; Peniel 50; Morias 50
+Godiel 50; Elitel 50; Cugiel 50; Pandor 50
+Taros 50; Aniel 50; Thalbos 50; Cazul 50
+Asoriel 50; Cuphar 50; Orym 50; Dubiel 50 You now have, from the hundred princes of great Cabariel, twenty, and they suffice for you at present; of these the first ten are deputed for daytime operations with 500 attendants, and the other ten likewise for nighttime operations with their 500 servants. And know that the spirits presiding over daytime operations are much more benevolent, and readier to obey, so that it is often necessary to compel the nighttime ones with a certain violence, and rather often to repeat the conjuration. When ordered, they bring their attendants with them; if they have not been ordered, they keep them hidden. When you wish to operate through the ministry of these spirits, turn yourself toward the quarter which we have named, and, after first doing what must customarily be done beforehand, speak the following conjuration: Cabariel onear chameron fruani, parnaton fo fiel bryosi nagreal fabelrontyn adiel thortay nofruau pena afefiel chusy.
+
+When the charm has been completed, if it is daytime, the spirit called will be present at once without delay. But if it is nighttime and the spirit whom you have called delays in coming, press him as often as necessary, until he comes, by repeating the charm, which they are accustomed to revere greatly.
+
+Let us set down, as an example, a certain secret to be entrusted to absolutely no one.
+
+*Of the Steganography*
+
+You have a faithful friend, whom you favor as yourself, but he is far away, and you know that traps are to be laid for him on the road by someone more powerful, when he returns, or in any other place or manner whatever. You wish to warn him, though he knows nothing; but great danger would threaten you in warning him, if it became public. Therefore it must not be entrusted to letters, lest they be read by someone; nor must it be entrusted to a man, lest it happen to be revealed. Therefore, so that you may remain safe and your friend be warned: you call the spirit, entrust the secret: it is done.
+
+You send familiar letters to your friend, or a devout prayer, which may bear being seen.
+
+I had lent you my codex on the deeds of the Lombards, and Bede’s volume on times, which I ask you to send back. For it befits a wise man, especially a Christian, to keep everywhere the faith he has promised. To forget benefits [unclear] is declared by our divine human institutions to be a very great crime. Do not incur so sinful a guilt. I sent you my volumes so that you might at some time restore them. But the Greek books I gave you freely, in consideration of which you would rightly show yourself more faithfully grateful to us. Farewell, from Sponheim, on the Ides of March, in the year of the Lord 1500.
+
+When your friend has received these or any other letters sent by you, once the sign of Cabariel is recognized, let him turn himself toward that quarter of the world from which the north-northwest wind proceeds; after first performing, in the customary way, the things that must be performed beforehand, let him read this prayer silently.
+
+*Song of Conjuration.*
+
+Cabariel afiar paremon chiltan amedyn sayr pemadon chulty mouayr sauepor peatha mal frimaston dayr pean cothuruo fabelrusyn elsoty chelmodyn. When this song has been spoken facing the north-northwest, the angel will at once appear visibly, revealing to him the secret entrusted; and he will report back to you if that man has entrusted anything.
+
+*Chapter XIII.*
+
+*Whose prince is called Raysiel, dwelling directly toward the North, under whom there are 50 princes who preside over our daytime operations, and the same number over the nighttime ones; whose office is to announce traditions.*
+
+*Book One.*
+
+The thirteenth mansion is in the North, whose spirit and supreme commander is Raysiel, who has under his dominion 50 dukes who preside over daytime operations, with many servants, and the same number who preside over nighttime operations, with their attendants. Their office is, in these causes and traditions which pertain to death, to [unclear] the friends of the operator, and to announce the secret. The dukes who preside over daytime operations gladly obey the one who calls them, and they come cheerful, pleasant, and very ready to obey; but those who preside over nighttime operations are somewhat insolent, because they greatly hate and detest the light, and they do not obey easily, especially novices in the art who have been less tested, whom they often laugh at to their faces, unless they are so bound by the conjurations of the operator that they cannot prevail in resisting. For they greatly fear conjuration, and as [unclear] they are given to being conjured more than the daytime spirits, and yet they obey unwillingly. But now from the whole number of all these let us set down the names of a few, and the number of servants, as many as suffice us for the accustomed operation.
+
+S. ♀ R. ♂ S. ♀ R. ♀
+Baciar 50 Astael 50 Chanael 30 Melcha 30
+Thoac 50 Ramica 50 Fursiel 30 Tharas 30
+Sequiel 50 Dubarus 50 Betasiel 30 Vuiel 30
+Sadar 50 Armena 50
+Terath 50 Albhadur 50
+Roth. S. R. S. R. S.
+Thariel 40 Lazaba 40 Lam.as 10 Thurcal 10
+Paras 40 Aleaß 40 Belsay 20 Sarah 20
+Arayl 40 Sebach 40 Morael 20 Arepach 20
+Culmar 40 Quibda 40 You now have, excellent reader, from the 50 daytime princes, sixteen with their 670 servants, and from the 50 nighttime princes, fourteen with their 420 servants in number, who will suffice you for all operations, both nighttime and daytime. But when you wish to operate through them according to the intended hours, choose from the arranged order whichever one you wish, and call him from the North, since they all remain there, by this song.
+
+*Song*
+
+40. *Steganography.*
+
+*Song of Conjuration.*
+
+Raysiel afruano chameron sofiel Vemabi parnothon fruano Caspiel fufre bedatym bulifeor pean Curmaby Layr Vaymeor pelarym adorcus odiel Vernabi pcatha darsum laspheno deuior Camedonton phorsylasbenay to charmon druson olnays, Venouym lulefon, peorfo fabelrontos thurno. Calophoy Vem,nabelron bural thorasyn charnoty Capelron.
+
+When the song has been duly completed and in silence, the spirit that has been summoned will be present. Entrust the secret safely, and he will carry what is to be entrusted.
+
+But if you see that those who preside over nocturnal operations are delaying, as they very often are accustomed to do, compel them by repeating the song manfully, fearing nothing; for they will be forced to revere you as their lord.
+
+I have a secret which I entrust to no one to convey, of this sort.
+
+Let me set out a case. I have a certain noble and learned friend, whom I know is to be killed secretly by certain assassins hired for pay. I do not dare warn him openly, because it is dangerous for me. In a private and rather secret matter I fear lest letters come into the hands of others. I do not presume to trust a man to speak by word of mouth, because he who is with me today will perhaps stand against me tomorrow. And so I take refuge in my accustomed art; whatever I entrust to it, I do not fear will become public, even if it should happen to be tried by an enemy.
+
+I send familiar letters to my friend, in which I fear no danger.
+
+The ancients define the greatest ornament of nobility as Justice and Philosophy, and its disgrace as Impiety and Ignorance. For what is more beautiful than to adorn with letters and virtues a noble race that serves as a soldier? In this respect especially we find many other most noble men who served as soldiers to have labored night and day, so that they might vanquish barbarians by arms and instruct their people in uprightness and letters. Following their example, most learned Bumavy, adorned with arms and letters, you do not cease to unfold the letters of humanity and the good arts; and once the wisest princes of old were accustomed not to shut up their wealth in their treasuries, but rather to devote it to literary use, judging the pursuit of wisdom to be a most honorable support for those tending toward happiness, whereby the blessedness of eternal recompense may be acquired. Indeed, knowledge of the Scriptures renders princes venerable to all and especially to be feared. Ignorance of the Scriptures, called the burial of a living man, has been accustomed to bring dreadful disgrace and calamity upon princes.
+
+*Book One.*
+
+[unclear]. A man without letters is a two-footed ass, fit to be buried alive, indeed [already buried?]. It is especially fitting that nobles and those who govern the commonwealth be wise and distinguished by knowledge of letters, ignorance of which brings on tyranny. The love of letters also commends to perpetuity the famous deeds of princes and nobles. For we see that the ancient philosophers have held a place in memory and have obtained immortality of name among all men, eternal through letters more than through arms; for letters, more than arms, have made the ancients glorious, excellent, wise, and princes, and have bestowed upon the titles of their praise immortality of memory. Add that for Christians literary study provides the highest and most honorable aid for flying to heaven. For from the Scriptures we begin to contemplate the flashing and honorable majesty of divine illuminations, otherwise inaccessible to us. Thus, Henry, most learned knight, favor letters, so that, adorned with uprightness, you may always live. Farewell, from Spanheim, [day] of March, in the year 1500.
+
+After the friend has opened these letters, or any others whatsoever, being skilled in the art, once the sign of Raysiel has been recognized and the customary things have first been performed in the usual manner, let him turn to the north and use the spirit with this song.
+
+*Song of Conjuration.*
+
+Raysiel myltran, fruano fiar chasmy clymarfo peanS pultho chulthusamedon veplusandly tusan axeyr afflon. When these words have been said, the spirit sent will at once appear visibly and will report each and every thing that I have commanded into the ear. And I would have you know also that some spirits presiding over nocturnal operations do not willingly come to the operation at night unless they are compelled by the greatest sacraments and conjurations; yet after they have come and have been sent to the friend, they are accustomed to appear quickly and to obey the one calling, unless perhaps he himself, deceived by some occasion, should neglect something prescribed in the art.
+
+*Chapter XIV.*
+
+*Whose supreme prince is called Symiel, who dwells toward the north, having under him princes who preside over diurnal operations, with many servants, whose familiar office it is to convey a secret.*
+
+*Steganography.*
+
+The fourteenth mansion is toward the north, distant from the beginning of the north by 21 degrees and a little more; its supreme emperor is Symiel, who has under him ten dukes who preside over diurnal operations, with many servants of their operations. Many dukes preside over nocturnal operations, whose certain number I have not been able to discover; they also have many servants under them. Their office is to announce among friends the most secret mysteries, which are to be made manifest to no men forever. But so that you may be able to work through them, if it should be necessary, I shall set out for you ten from the diurnal spirits and the same number from the nocturnal spirits, and they will suffice for the present.
+
+Schw. Roth. S.R.S.R.S.
+Asmyel 60 L.arael 60 Mafrus 70 Marianu 100
+Chrihas 100 Achot 60 Apiel 30 Narzael 20r
+Vastos 40 Banier 90 Curiel 40 Murahe 30
+Malgron 20 Dagiel 100 Molael 10 Richel 120
+Romiel 80 Musor 110 Arafos 50 Nalael 130 You now have ten named princes for diurnal operations, with many subordinate servants, and ten for nocturnal operations also with many substitutes, through whom you will be able to operate securely and without danger, provided you are well instructed in Steganography. For whoever, not well instructed, presumes to approach the operation of this art in its precepts will either accomplish nothing or will scarcely escape danger. For the princes do not obey everyone. But when you wish to operate with this very knowledge, once the things that must first be performed have duly been performed, turn yourself to the north, and in the manner I have handed down to you conjure the duke to come by this song.
+
+*Song to the Spirits.*
+
+Symiel myrno chamery theor pastron adiueal fanerosthi sofear Carmedon Charnothiel peasor sositrans fabelrusy thyrno pamerosy trelno chabelron chymo churmabon, 'asiel' peasor carmes nabeyros toys Camalthonty. When these words have been said in the manner necessary, the spirit called by you will be present to obey you in all your commands, if the operation is to be performed by nocturnal spirits; and if they have not quickly appeared.
+
+*BOOK ONE.*
+
+if they have obeyed, do not desist on that account, but press them by repeating the song; and, compelled, they will obey.
+
+For an example let us posit any secret whatever that is to be entrusted to absolutely no one.
+
+*YOU HAVE* some very secret business for a friend, which concerns you and him, the disclosure of which would bring perpetual loss or confusion upon you and him. Certainly it is not safely entrusted to letters, lest they be read by someone, nor is it entrusted to a messenger, who will divulge it to several people. You will use our art; thus both you will be safe and your friend will know the secret. For this purpose let us compose whatever little letter you like, in no way at all suspect.
+
+Johannes Trithemius, Abbot of Sponheim, of the Order of Saint Benedict, to the excellent young man Jacobus Trithemius, his dearest brother, greetings.
+
+*While devoting yourself to letters*, preserve humility of heart. Good morals adorn young men and make them more renowned than nobles. Knowledge of letters adorns a young man who loves holiness; without the morals of justice, knowledge will lack honor. A young man immersed in vanities and vices, a despiser of wisdom, does not love true wisdom, which you should remember must be sought by means of virtues. The instruction of young men to be educated is adorned by morals, since honor is conferred upon the sacred arts by the heavenly; unfruitful knowledge will be tortured with eternal torments. He advances in virtues and letters of knowledge; both fail when stained by vice. Spurn pleasures, so that by experience you may understand the truth of wisdom. Farewell.
+
+The recipient of these letters, skilled in the art of Steganography, as soon as he has seen from the character of the prince Symiel what must be done by him, perceives it by understanding; and, turning, after first doing what must first be done, toward the North, he says the conjuration:
+
+*Conjuration.*
+
+Symiel marlos chameron pyrcohi pean fruary fabelronti gaelto siargoti melastor hialbra penor olesy Aiulbrani ordu Casmeron omer vemabon. When the song has been completed, the spirit sent appears and faithfully carries out the office entrusted to him.
+
+*CHAPTER XV.*
+
+*WHOSE SUPREME COMMANDER IS AR-*madiel, who dwells in that part of the world from which the north wind is wont to blow, having under him many princes.
+
+MAN-
+
+*Of Steganography*
+
+*The fifteenth mansion.*
+
+Toward the northern region dwells Armadiel, a great emperor, having under his rule many dukes and princes with their servants, from whom one hundred have been appointed over operations by day and by night without distinction, so that all alike preside over our nocturnal as well as diurnal actions in Steganography, according to the will of the operator. Their office is to announce the most secret mysteries of the operator to princes and great men with the utmost fidelity and secrecy. From these we shall name some of the more important, who suffice for our purpose.
+
+R. R. S. R. S. R. S.
+Massar 50 Orariel Pandiel 10 10 60 60 50
+Parabiel 40 Oryn Carasiba 20 20 70 70 40
+Laiel 30 Samiel Asbibiel 30 30 80 80 30
+Caluarnya 20 Asmael Mafayr 40 40 70 70 20
+Alferiel 10 Iaziel Oeniel 50 50 60 60 10 You now have, from the spirits of Armadiel, fifteen in number, with their subservants, 1,260, who, according to the division of the twenty-four hours into six parts, are accustomed to come with their dukes, when summoned, to the operator, if he himself wishes it, preserving their order in coming. Therefore, when you wish to operate anything in Steganography through them, you must observe most diligently the division of time according to this art, without which you will accomplish nothing at all; and when this has been understood as it ought, you will turn yourself toward the north, doing what the art requires.
+
+*Conjuration.*
+
+Armadiel marbeuo pelrusan neor chamyn aldron pemarson Cathornaor pean lyburmy Caueron tharty abesmeron veat larso charnoty theor Caueos myat drupas Cameortys lypa ruffes ernoty mesoryn elthichaor atiel, lamesayn rouemu fabel rusin, friatochasalon pheorthamorny mesardiel peluly madiel baseroty sarreon prolsoyr asenosy cameltruson. When you have completed this conjuration in the manner required, the spirit will soon be present, ready for your command.
+
+Let us form, [unclear]
+[unclear] I[unclear]
+[unclear]X [unclear]
+[unclear] [unclear] [unclear] [unclear] [unclear] [unclear] [unclear] [unclear] [unclear] [unclear] [unclear] [unclear] [unclear] [unclear] [unclear] [unclear] [unclear] [unclear]
+[unclear]X [unclear]
+[unclear]X
+
+*Of Steganography, 15:*
+
+*Let us form for ourselves, by way of example, such a secret as must be entrusted to no one.*
+
+I have a certain secret for my prince, which must be communicated to absolutely no one. I do not dare commit it to letters, lest through negligence or forgetfulness, if they are scattered, they be read; much less do I wish to announce it through a man, lest it also happen to be revealed in some way to others through him. Therefore it pleases me to try the mystery of this art, by which my secret will remain hidden at all times.
+
+*Let us write letters, of whatever sort one pleases, which need fear the sight of no one.*
+
+To the most serene Prince, Lord Philip, Count Palatine of the Rhine, Duke of Bavaria, Arch-Steward of the Holy Roman Empire, Prince-Elector, Johannes Trithemius, Abbot of Sponheim, with prayers offers service.
+
+Most illustrious prince, with humble submission, service. The kindness of your renowned dukedom has commanded me to commit to letters certain very hidden matters set forth in words. I would rejoice, not without devout exultation, if powers equal to my will were present, to assign the most honorable benefit shown to a more fitting place, and to render the obedience owed by favor. The novelty of the work, to be undertaken without the path of a predecessor, holds back the weakness of my heart; I know myself to be far unequal to it. For it will have an immense and great labor, and it imposes very great dullness upon my efforts. Yet I shall try my powers, in order to obey Your Grace, without doubt approaching a most kindly judge, if the suitable possibility of completing it has not supported my good will: where, with most abundant humanity, I perceive, he says, a glorious and most munificent prince, lover and defender of letters, under whose most humane protection the University of Heidelberg, adorned with many most learned and most erudite men, most fresh in talent, surpasses all the schools throughout Germany. And so, most distinguished and most humane Prince, if I have anything or am anything, I know it all to be bound to your kindness; and this I shall always take care to display most readily with humble submission. And although there are others wiser, who could render this work better, or more usefully and more elegantly, not moderately.
+
+[Preceding page illegible in the source.]
+
+*48. STEGANOGRAPHIA.*
+
+Since I know, dearest brother, that you are a lover of the good arts, it delights me greatly to exhort you that you would persevere in inquiring into and continually unrolling the secrets of books, which show us the way of felicity—to return by an open path to the homeland which by sinning we lost, to which the love of our most mild and most merciful Savior, hidden for us in the Scriptures, may lead us back, burning [with desire]. For what to those wandering in wretched exile can be a more wholesome [and] sweeter health than to apply oneself diligently to letters?—by whose study our eyes are raised to seek the truth, [and] our mind is lifted up to the desire of future blessedness; without which the soul, submerged in worldly temporal affairs, is given over as a victim, never to attain to the knowledge of God. Do you therefore, despising the pleasures and tumults of the world, give your leisure to letters day and night; since religion is [adorned] by virtues, and virtues are tempered [and] illumined by the commerce of letters—so that neither letters without the adornment of noble virtues, nor good virtues without the knowledge of the Scriptures, can prevail. And so I exhort you: always give your effort to the study of letters. Farewell, from Sponheim, the 16th [day before] the Kalends of April, in the year of the Lord 1500.
+
+After he to whom they are sent has received the letters, the sign of Baruchus being recognized, and the things to be premised premised, toward the quarter of the south-east, which is nearest before the East, let him say in silence this Conjuration.
+
+*Conjuration of the Spirit.* Baruchas, Mularchas, chameron, notiel, pedarfy, phorsythel, rontho, theras, capean, Vear, almonym, lierno, medusan, therfiel, peatha, thumar, nerosyn, cral, nothiel, peson, segalry, madon, scoha, bulayr. The Conjuration said according to the precept of the art, the spirit will appear, [and] will produce into the ear the secret committed to him, without deception.
+
+*CHAPTER XVII.* Whose prince and supreme spirit is called Carnesiel, and dwells in the East, having under him many dukes [and] princes with their servitors, whose office is to announce all things which are sent toward the East. WHO—
+
+Since the affairs of men are so many, and still more can arise, for communicating which to distant friends no prince or spirit has been specially appointed in the aforesaid mansions: lest any difficulty occur to those working in this art of Steganography in bringing their work to perfection, after we have made mention of certain special ones who preside over special secrets, we also wish to set forth certain general princes of spirits for general announcements, so that if perhaps something should occur to anyone that must be announced, concerning which no commission is found in the aforesaid matters, it may be referred to those who, in their own way, have commission over all things; yet so that the generality does not derogate from the speciality, nor the speciality, if not expressed clearly enough, reject the office of the generality. There are therefore four great princes who, with their dukes and subordinate servants, preside over all secrets to be announced which have not been expressed above. The first of these, Camesiel, presides over all things that we wish to announce toward the East; Caspiel, toward the South; Amenadiel, toward the West; and Demoriel over those things that are sent generally toward the North. Therefore, when you wish to announce some secret by means of a spirit to a friend absent far away toward the East, call one or more, as many as you wish, from the princes of Camesiel, turning yourself throughout the whole operation toward the eastern region, as you know according to the art. I shall describe for you the names of the princes, with the number of servants, as many as suffice for the present business; and beware lest you err in anything.
+
+R.S.R.S.
+Myrefyn Benoham Armany 600000000000 R. S. R.
+Ornich Arisiel Capriel 10 30 100 300
+Zabriel Cumeriel Bedarys 10 30 100 300
+Bucafaes Vadriel Laphor 10 30 100 300 You have twelve of the princes of Camesiel, with a very great multitude of servants, where, note, that great number 600000000000 belongs to other dukes and princes who generally preside over all daytime matters. A certain number of them is called, as the operator wishes, with the named duke.
+
+*Steganography*
+
+The others, however, are servants of the twelve princes in a fourfold order, and they always come with them in their orders. Therefore, when you wish to operate through these, after the things that must first be sent have been sent before, this is the conjuration.
+
+*Charm.*
+
+*CAMESIEL* aphroys chemeryn mear aposyn. Layr pean noema ouear ma fere calty caleuo thorteam chametonianoar pe lyn Layr, baduson iesy melios ionatiel delassar rodiual meron fauean fabelion clumarsy preos throen benarys sauean demosyon laernoty chamedonton. When these things have been duly completed, the general messenger of secrets whom you have called will be present, ready, faithful, and wholly secret.
+
+*I have wished to warn a friend secretly about an evil man.*
+
+There is a certain man, evil under an appearance of honesty, a chatterer; knowing that I have influence with a friend, he asks from me letters of recommendation to him; nor do I wish my friend to be deceived fraudulently by him. I write letters; I praise the vagabond in a wonderful manner. He reads, rejoices, and promises himself that an open path for plotting has been offered to him. I give the letters; he goes away happy. I call the spirit; I send him to my friend, so that he may warn him and reveal my secret.
+
+*I send letters of recommendation pleasing to the one who is recommended.*
+
+*Johannes Trithemius, Abbot of Sponheim, sends greeting to Johann Vigilius, lord Wackor, most distinguished doctor of both laws.*
+
+I send the bearer of the present letters to you, my most beloved Vigilius: a man indeed adorned with every virtue, most learned in all writings, polished, and embellished with such grace of manners that I scarcely remember ever having seen with these eyes anyone like him; an excellent mathematician, a most acute philosopher, surpassing the most learned men, whence he has seemed worthy to us to be received with praises from the letters of all good men; indeed noble and most learned, one who can be useful to all in handing down various doctrines of wonderful things. Farewell, from Sponheim, on the fifteenth day before the Kalends of April, in the year 1500. + Since
+
+*BOOK ONE.*
+
+When a friend approved in the art of Steganography has received these or any similar letters, once he has recognized the sign of Cernesiel, let him turn toward the East and, after first doing what must first be done, let him say this conjuration:
+
+*Conjuration.*
+
+[unclear]
+
+Carnefiel aproysi chamero to pemalroyn phroys Cadur mearmol benadron Vioniel saviron army pean arnotiel fabelronthusynthroe chabelron sauenar medaloys vear olmenadab eralty sayr. When the charm has been spoken, the spirit sent will now appear visibly and will faithfully reveal the secret entrusted.
+
+North *R*
+Demoriel [unclear]
+East [unclear]
+Carnefiel [unclear]
+Greater dukes 400
+Subdukes 600
+Numbers 300
+Generals [unclear]
+Greater dukes 800
+Subdukes 500
+Of the [servants?] who are [unclear]
+[unclear]
+Of the West [unclear] R. [unclear]
+Cassiel [unclear] You have in this circle 4 principal emperors, and the position of each one’s dwelling, of the subdukes [unclear] and of the servants [unclear] In the hollow of the second circle, above the number 400, placed twice, and also above the number 1000, the letter R is missing. And in the hollow of the sixth circle, instead of “generalis” one must read “eiligenerales.”
+
+51 *Of Steganography* and of almost innumerable servants. Know therefore how one must operate through these.
+
+*Chapter XVIII.*
+
+*Whose supreme prince is called Caspiel, whose dwelling is in the south, and who has under him many princes, dukes, and innumerable servants.*
+
+In the south dwells the great prince Caspiel, who has under his dominion 200 principal princes or dukes, and 400 counts or sub-dukes, with a huge multitude of servants, whose office is to announce in general all and every thing not contained above, toward the south. Since, however, in this art it is necessary to know certain dukes by name, and since they are many, we shall take care to give the names of a few out of many, who are sufficient for us in all things.
+
+R. S. R. S. R. R.
+Ursiel Budirym Geriol 200 40 2000 450 20
+Chariel Camory Ambri 200 40 2000 400 20
+Maras Larmol Camer 200 40 2000 [1987?] 400 20
+Femol Aridiel Otiel 200 40 3000 400 20 You now have, from among the more principal dukes of Caspiel, 12, with counts, sub-dukes, and servants, 100,640, through whom is accomplished every general operation of announcing toward the south. But when you wish to announce some hidden matter to a friend dwelling toward the south, do what is required according to the art, and say the conjuration.
+
+*Conjuration of the Spirit.*
+
+Caspiel aloyr chameron noeres padyr diuiel prolsyn vear maduson cralnoti fruon phorsy latsonthon thiano pematson theor. Caueos adeueos friato briosi panyeldrubon madiel sayr fabeltrusyn gonear pean noty nabusran.
+
+When the conjuration has been completed in due manner, you will see present the one whom you have called, and ready to obey your commands in all things. All the dukes of this Caspiel are very benevolent and willing, but their sub-dukes are somewhat harsher; nevertheless they yield to conjurations, if the operator has been steadfast and undaunted, speaking to him harshly, as if with the greatest authority. For none of them is so harsh that he does not grow tame, compelled and adjured by the virtue of authoritative power.
+
+Let us suppose any secret whatever, which is to be entrusted to no one.
+
+I have business with a friend, which, if it were to become public, great danger would arise for both of us. All messengers are watched, so that letters may be read by those lying in wait for us. Therefore, that we may be secure and our business may remain secret, I write letters which need fear the sight of no one, and I send them to the aforesaid friend with an invisible spirit accompanying them.
+
+It does not matter what sort the letters are, if they have been entrusted to the spirit.
+
+Behold, mortals, the brevity and misery of the present life, and do salutary penance while you have time. Woe to you, most senseless lovers of worldly glory, rashly despising almighty God and eternal joy. Why do you not love those heavenly banquets which have been promised to those who humbly seek God? For you, having cast away humility, seek the very brief joys of the world; you do not love the excellence of eternal blessedness; with contention [unclear], you stain honesty with wicked actions, and you do not know the praises of the Most High God. Day and night you attend to worldly actions and temporal profits; always stretched toward hunting out novelties, you sharpen the memory; you neglect to hear readings. You do not care for the time of grace granted to you, nor for the expectation of eternal blessedness. Behold, the Judge, terrible to all criminals, draws near. Behold, almighty Majesty in severity hastens. Behold, the last Judgment is appointed. Behold, eternal laments are set forth; everlasting goods will be withdrawn from us.
+
+In the year 1515, on the sixth day before the Kalends of April.
+
+When he to whom these letters are sent has received them, let him first send ahead the things that must be sent ahead according to the art, and turning himself toward the south, let him say the chant: Caspiel asbyr Chameronty churto freueon dayr fabelron Cathurmymeresyn elso peano tailtran Caspio fuar Medon clibarsy Caberosyn vlty'pean Vearches pemasy natolbyr meldary noe Cardenopen
+
+[unclear]. When the verse has been spoken, and the other things appended according to custom, the invisible messenger will appear, faithfully and secretly reporting in the friend’s ear everything that I have commanded.
+
+*Chapter XIX.*
+
+*Whose supreme prince is called Amenadiel, dwelling in the West; he has under him 300 dukes, 500 counts, and almost innumerable servants.*
+
+Amenadiel, emperor, supreme spirit of the West, has under his dominion 300 more powerful princes or dukes, no fewer than five hundred sub-dukes or counts, and servants, under-servants, and attendants out of innumerable hosts, of whose names I have found fewer than 30,000, besides countless others whose names I have not yet found. For these suffice for communicating all secret matters to friends toward the West. But I shall give the names of the dukes, which are sufficient.
+
+Roth. Schw. R. S. R. S. G. X. R. S.
+Vadros, Rapsiel, Almesiel: 30, 50, 300, 500, 3000
+Camiel, Lamael, Codriel: 30, 50, 300, 500, 3000
+Luziel, Zoeniel, Balsur: 30, 50, 300, 500, 3000
+Musiriel, Curifas, Nadroc: 30, 50, 200, 100, 200 Through these twelve dukes and princes, whatever has to be done under the command of Amenadiel in steganography toward the West, you will be able to accomplish entirely. But observe carefully, so that you know one of the dukes, and know how many counts, servants, and attendants he has under him according to the twenty-four hours of day and night, which those 1550 keep assigned to themselves in their order by equal division. If you make a mistake in these matters, you will accomplish nothing, and perhaps you would incur some danger. For one who wishes to operate in steganography must be not only skilled in our art, but also most diligent in all things, because through a small [unclear] in the operation [unclear] danger [unclear] toward the West; and after the things to be sent ahead have been sent ahead, say this conjuration:
+
+*Conjuration.*
+
+Amenadiel aprolsy chametonta nostoy throen mestro salayr chemaros noe pean larsy freueon ionatiel peltroyn rathtroy Caser malusan pedon Cranochyrn daboy seor marchofyn lauo pedar venoti gestoy phernotiel Cabron.
+
+When the conjuration has been duly completed, the spirit whom you have called will be present, ready and eager to accomplish everything you have commanded him.
+
+*The secret for me is very secret and necessary for a friend.*
+
+There is a certain secret of mine for a friend, which I entrust neither to a man nor to letters by [unclear], because if it came into public knowledge, it would create great danger and loss for me. Therefore I call a spirit; I write letters in no way at all suspicious, and which not even he himself would be thought to understand, since he is ignorant of the Latin language. I send the spirit; he reveals the secret.
+
+*I send any sort of letters, which an invisible spirit is to accompany.*
+
+Johannes Trithemius, Abbot of Sponheim, to the noble and valiant knight Albert Goeler of Ravensburg, prefect of Kreuznach, greetings.
+
+We believe that our Savior, the Lord Jesus Christ, is going to come for judgment, who will render to each one according to his works. We believe this, and, wretched as we are, we neglect ourselves. Therefore let us strive to anticipate his face with constant tears, correcting our negligences which we have committed, lest that terrible coming of our Redeemer find us unprepared; we all must necessarily meet him, to receive the reward of our deeds. Why, then, do we now despise the opportune time of salvation granted to us? Why [unclear] so useful to us, so acceptable, has the Almighty granted? Why do we not emulate men distinguished in morals, who have sought for us the honorable things of just conduct, humility, [unclear], and of all the virtues? [unclear] emulating their name, penitence, because the limit of life presses upon us. Horrible death will come, which knows not how to spare, but will devour young men and maidens, and the old together with the younger. Let us live in mourning, washing away our transgressions with continual tears, lest sudden death seize us and subject us to horrible judgment. Let us amend our past life, beseeching God that after the present
+
+*Steganography*
+
+may grant us eternal blessedness after the brevity of this present sojourn. Amen. Farewell. Given from Spanheim, the 14th day before the Kalends of April, in the year 1500.
+
+When you have received these letters, or any others entrusted by me to a spirit, the friend to whom they are sent, being proved in the art, after recognizing the sign of the prince of this region and after first doing what must be done, should say the conjuration.
+
+*Conjuration.*
+
+Menadiel bulurym chameroy eriscoha pedarmon flusto pean truarbiel fabelrom greos malgoty nabarym stilco melros fuar pelatyso chitron amanacason. When this conjuration has been duly completed, the spirit, otherwise invisible, will appear visibly and reveal the secret.
+
+*Chapter 20.*
+
+*Whose prince Demoriel dwells toward the North, having under his dominion 400 greater dukes, with deputy dukes or counts and many subordinate servants and attendants, whose number is uncertain.*
+
+Toward the North dwells the great prince Demoriel, having under his dominion 400 chief princes and dukes, whom he sends in the service of this art according to their orders, with deputy dukes and counts, whose number is not less than 600, to announce all secrets that we wish to send toward the North to friends skilled in this art. From all those mentioned above let us set down only as many names as are necessary for us at present, with the number of counts and servants according to their orders in the hours.
+
+R. S. R. S. R. S.
+Arnibiel Doriel Medar 40 600 400 60 40
+Cabarym Mador Churibal 40 600 100 60 100
+Menador Carnel Dabrynos 40 600 [unclear] 60 40
+Burisiel Dubilon Chomiel 40 600 400 60 40 Now you have, out of the 400 dukes of Demoriel, 12 named, and out of the deputy dukes, counts, and servants, 4560 in number, who with those dukes, according to the order assigned in the 24 hours of day and night, which you must know before all else, perform their offices. Therefore when you wish to work in Steganography through any of these dukes, turn yourself toward the North, as is customary, and after first doing what is required for the art, say the conjuration.
+
+*Book One.*
+
+*Song of Conjuration.*
+
+Demoriel onear daburfoy Cohyne chamerson ymeor pean olayr chelrusys noeles schemlatyn venodru patron myfelro chadarbon veuaon maferos ratigiel personay lodiol camedon nafiel fabelmerusin fosiel chamarchoysyn. When the song has been completed, the spirit, obedient in all things, ready and most prepared, will appear to you visibly; to him you may safely entrust the secret to be conveyed.
+
+*Let such a secret, or any other, be made known to me.*
+
+I have a very close friend, absent far away at this time, to whom I have a most secret matter, which cannot safely be entrusted to anyone at all, not even to letters. Therefore, so that it may remain secret, I always choose to call some spirit familiar to me from the art. I entrust the secret: he comes, he goes, he acts faithfully, he carries what I have entrusted to my friend; we both are safe, and he himself also brings back to me from my friend the secret reply, which he will tell to no other mortal. But so that the friend himself may understand that a spirit has been sent to him, it is necessary that any sort of letters be devised, fearing nothing, in which he may recognize the sign of the spirit sent. For the spirit does not appear unless compelled.
+
+*Let us first send letters of whatever sort one pleases, which need fear no one’s sight.*
+
+Johannes Trithemius, abbot of Spanheim, to Jakob Wimpfeling of Schlettstadt, theologian, poet, and most eloquent orator, greetings.
+
+I should very much like, Jakob Wimpfeling, for you at last, even if late, to satisfy your promise and my expectation of you. You know what you promised; and you are not ignorant of what I expect. I desire you to live not as a monk, but with monks. Make haste; let us live together. Behold, the hour of our passage, greatly to be feared, is at hand. Why then do we delay? Why do we prolong the brief and wretched state of our sojourn
+
+*Steganography*
+
+Why do we, unhappy men, neglect our condition? Why do we refuse to do penance, in the saving time, for the excesses of our offenses? Let us prepare ourselves for death, since it hastens terribly by the fates, calls all the reprobate, spares no one, reveres no one; it denies audience to those who pray; it scorns the tears of those lamenting; it despises the threats of princes, and destroys kingdom, names, and glory; it brings to nothing the pride of tyrants, hateful to all. Therefore, brother, diligently considering the benefits of the Redeemer shown to us, very useful to us, [unclear], amended in respect of our many [unclear], constantly shining with good morals, so that by penance and tears we may be able to appease the strict examination of the judge hastening to the seat of judgment, who will show himself terrible to the [unclear], pleasant to the elect. Farewell from Spanheim, on the fifteenth day before the Kalends of April, in the year of the Lord 1500.
+
+When the man to whom the letters are sent has received them, being skilled in the art, let him first do what the art itself requires; then, turned toward the north, as is customary, let him utter the conjuration.
+
+*Song of Conjuration.*
+
+Demoriel ofayr chameron chulty lusin dayr pean cathurmo fomarson ersoty lamedon iothar bufraym fuar, menadroy chilarfofabelmerusyn. When the song has been completed, as is prescribed in the art, the spirit sent will be present, and will appear visibly to you alone, and to absolutely no other; and he speaks the secret into your ear.
+
+*Chapter XXI.*
+
+*Whose supreme emperor and prince is called Geradiel, dwelling in no quarter of the world, but wandering, he is accustomed to be present everywhere.*
+
+[unclear] Besides those emperors, princes, and leaders of spirits whom we have named in the preceding chapters, who abide in fixed places throughout the visible world, there have also been appointed very many others who are wandering, unstable, and abiding nowhere in any fixed place; the ancient sages and magi called them *aerial*, that is, unstable, because they fly in the air like flies, without order, without habitation, and without restriction. Among these there are some not useless to us for Steganography, because they do not require observance of places, but can be summoned by conjuration in every place. The first
+
+*Book One.*
+
+The first of these is called Geradiel. He has under him no leader or prince, but only many, and almost innumerable, servants, whom he takes with him into service according to the orders that they have among themselves, and according to the twenty-four hours of day and night. Their general office is to announce all secrets, whatever they may be and to whatever quarter you wish.
+
+{ R.S.G.R.S.R.S.
+Hours } 2 2 200 100 40 30 50 60
+of day and } 2 2 80 70 100 90 120 110
+night. X. 2 140 G. X. 150 180 170
+{ 2 2 X. 130 160
+2 2 2 200 1000 400 300 60 500
+2 2 800 700 10000 900 1200 110 In this table you have, numbered according to the hours and arranged in their own order, 1S150 ministers and servants of Geradiel, the great prince. You should know their disposition and reckoning to be altogether necessary for the operation, so that you may know at any given hour with how many servants they are accustomed to come, or when he himself is not accustomed to come, but only the servants assigned to the hour. I advise you, however, to take care to observe in your operations the hour in which the prince himself comes personally with the servants of that same hour, because otherwise, when their emperor is absent, they are not always willing to obey the operator in all things. Therefore, when you wish to operate through this prince, after the necessary preliminaries have first been performed, say the conjuration.
+
+*Song of Conjuration.*
+
+Geradiel onayr bulesar modran pedarbon sazeuo vielis proyn therdial masre reneal Chemarion cuhadiam almona saelry penoyr satodial chramel nadiarsi thorays Vayr pean efridiel cubaldraony myar dearsy colludarsy menador atotiel Cumalym drasnodiar parmy sosiel almenarys satiel chulty dealny peson duarsy cuber fruony maroy futiel, fabel merusi venodran pralso lusiorlamedõ fyuaro larboys theory malrosyn. When the song has been completed, the spirit will be present, either the principal one with his servants, or servants from the number of the hour without the prince, just as you wish according to the hours, as we have said above.
+
+H 2 Arca-
+
+*STEGANOGRAPHY*
+
+*We shall entrust whatever secret we please: it will always be hidden.*
+
+Let me have any secret whatever, however secret it may be, which is to be conveyed by spirits to one or to several friends perfectly instructed in the art of Steganography. I call the aforesaid prince at an hour suitable to me, I entrust the mystery; he receives it, goes, and carries it out altogether faithfully. I send letters only for form’s sake, so that men may be deceived, and so that the one to whom I send may know from the sign written below what spirit he ought to summon, because not compelled.
+
+*I send letters of any sort, not secret ones.*
+
+Johannes Trithemius, Abbot of Spanheim, to all learned and curious persons reading in this art without a teacher: labor.
+
+Radically amend your life. The strict examination of judgment will suddenly seize all, no one safe, in its bitterness, and will fill the vicious with eternal sorrows; it will not dare to sadden the saints. Lament, with wailing, your guilty deeds, most wretched and most foolish ones. Behold, without good exercises you refuse the name of religion. Do you not know that examination will come upon the guilty? The last hour approaches: we shall not live long, but unexpectedly we shall all be compelled horribly to pass over. Therefore do not neglect the time; honor the grace granted with works. From Spanheim, 13 Kalends of April, in the year 1500. X.
+
+When these letters, or any others that have been marked with the character of Geradiel, have been received, there will be no need to turn anywhere; but after the things customary in the art have first been performed, the Song of Conjuration is to be said.
+
+*Song of Conjuration.*
+
+Geradiel osayl chamerusin chault pemarsoniel dayr chaturmo les bornatyn ersoty camylor sayr fabelmerodan cosry damerson maltey nabelmerusyn. When this conjuration has been completed, the spirits sent will appear to you visibly, and will reveal all secrets to you, speaking secretly in your ear.
+
+*CHAP.*
+
+*BOOK ONE.*
+
+*CHAP. XXII.*
+
+*Whose prince is Buriel, nocturnal, light-fleeing, and dwelling in lakes and holes of the earth; and no operation is performed through him except at night.*
+
+After Geradiel follows Buriel, a great prince indeed, but perverse and worthless, who hates, persecutes, and detests all other spirits, and especially princes; but he is no less hated by them. He fears and flees the light with all his leaders and servants, nor is he ever accustomed to come except at night, this often with great horror and fear for the operator, especially if he has not been made perfect in the art, steadfast and strong in mind. And he frequently appears in the form of a serpent, having a maiden’s head, with tail and whole body serpentine, hissing terribly. When adjured in the proper manner, he speaks in human words. He has under him leaders, princes, whom he is accustomed to send into service with their attendants and servants, whose multitude is almost innumerable. From these let us set down the names of some, who may suffice for us for the operation.
+
+Roth S. R. S. R. S. R.
+Merosiel Casbriel Drusiel 100 10 10 100.
+Almadiel Nedriel Carniel 100 10 10 100.
+Cupriel Busiel Drubiel 100 10 10 100.
+Sarniel Futiel Nastros 100 10 10 100.
+
+We have in this description of the table twelve of the princes of Buriel, with 880 attendants, who proceed according to the twelve unequal hours of the night, which we call those of the planets, with the individual leaders in their own order, when they have been called in the proper manner by the operator. The leader is accustomed to appear in the form which we have described; but the attendants often tend to appear like actors or jesters, playing and leaping from on high to the ground, with marvelous illusion. When through these princes [unclear] your operation, because they do not obey except at night. There is no need to observe the quarter of the world; but looking at the ground beneath your feet, say this conjuration:
+
+*Conjuration.*
+
+*Conjuration.*
+
+Buriel mastfoyt chamerusyn, noel pean Ionachym mardusan philarfij, pedarym eftlis carmoyboys charontiphroys fabelronti, mear Laphany vearchas, clarefon, notiel, pador aslotiel, marbno reneas, Capedon, thifinasion melro, lauair carpentor, thurneam camelrosyn.
+
+When you have spoken this song in silence, always looking upon the ground, the spirits called will be present. But see that you are not terrified, for they will not be able to harm you if you are strong and constant in spirit. And note that these princes or spirits, although deputed generally to announce all nocturnal secrets in the night, are nevertheless most apt and willing to carry a message into prisons and pits to captives, and likewise in those things which pertain to carnal love and the hidden practices of lovers, and to all things that are done at night, whether they be good or evil, because they hold the light in hatred.
+
+Let us set down a secret which is to be confided to no one at all, thus:
+
+Let me have a secret concerning a friend established in this city, which I can signify to him neither by letter nor by messenger, lest it become public. Many things hinder me from approaching the friend myself. I call one of the aforesaid spirits and commit the mystery to him: he goes, and faithfully announces what I entrusted: I am safe.
+
+I shall compose letters, of whatever kind I wish, which need fear no one — such, for instance, as these:
+
+Our Savior Jesus Christ, who dying on the Cross redeemed the human race with his blood, is to be praised by us earnestly and without intermission: he will put death to flight, and has promised to deliver eternal life to those who fear and love him. Now therefore let us arise, dearest brothers, from our sins, trimming our lamps with good works, that we may run to meet the Redeemer with joy in the hour of the dreaded passage, when death shall seize our souls. We now have an abundant [text breaks off at the foot of the page].
+
+[unclear]
+
+*Book One.*
+
+...with the general matters to be set forth beforehand in the art, according to custom, I say the following.
+
+*Conjuration.*
+
+Hydriel omar, penadon epyrma narsoy greol fabelrusin adiel pedrusij nozeui melrays vremy peã larfoy naes chemerotyn.
+
+When this conjuration has been spoken in the proper manner, according to the instruction of the art, the spirit sent will appear to you visibly, revealing into your ear the secret committed to him.
+
+*Chapter XXIV.*
+
+*Whose prince is called Pyrichiel, having under him many dukes, princes, counts, and servants, whose number is uncertain.*
+
+Pyrichiel, a certain supreme prince of spirits, does not seem to us to be wholly rejected by our art, because he is said to be quite well disposed.
+
+He does not have under him dukes or princes in the manner of the others, but only counts and sub-servants, whose number is uncertain. There are those who say that he has dukes and princes under him, who seem to us not to understand his property and custom sufficiently, since they have fancied counts and servants as dukes. The name of Pyrichiel, moreover, drew its designation from fire, because he is accustomed often to spend time around fire.
+
+R. R.
+
+Damarsiel, Menariel: 200, 200, 100, 80, 80 Cardiel, Demediel: 100, 600, 60, 50, 50 Almasor, Hursiel Nemariel, Cuprisiel: 400, 30, 30, 10, 10 You now have eight of Pyrichiel’s counts, with the servants assigned to attendance according to the order of the hours. Therefore, when you wish to operate through these aforesaid spirits, call one of them, whichever you wish; and when you operate again on another occasion, then you will call the other immediately following; and remember that the same is to be done with the rest. Therefore, after those things that are customarily to be set forth beforehand in the art generally have been set forth, say this conjuration.
+
+*Of the Steganography* 10
+
+*Conjuration.*
+
+[unclear]
+
+PYrichiel marfoys chameron, nael peanos pury lames iameno famerusyn mearlo canorson theory torsa, nealthis dilumeris maphroy carfulameot thubra phorsotiel chrebonos aray pemalon layr toysi vadiniel nemor rofeuarsy cabti phroys amenada machyr fabelronthis, poyl carepon vemj naslotyn.
+
+When these things have been completed, you will see the spirits whom you have called present; and the principal one is always accustomed to appear in the form of a serpent, having a beautiful head like that of a virgin, with hair spread out. There follows:
+
+*Let us suppose any secret whatsoever.*
+
+I have a secret for a friend far absent, which I cannot safely send by letters, lest, if they are scattered, they be read, or indeed intercepted on the way. I have less trust in its being carried by a man, since I know that fidelity among men changes with fortune. Therefore, so that everything may be safe, I call upon the friendly spirit of secrecy: he comes at once, when he has heard the song, and faithfully carries what has been entrusted to him.
+
+*Let us form the letter as one pleases.*
+
+Johannes Trithemius, Abbot of Sponheim, to Jacobus Draco, canon of the Premonstratensian order, greetings and charity.
+
+There is with us a distinguished mathematician and an excellent rhetorician, constantly fervent in zeal for a most tranquil life. He has with him almost countless books, and a remarkable treasure of diverse exemplars: a pleasant and kindly teacher of upright and good life and of honorable society; most experienced in resolving doubts. Great matters are expounded; his name is Orophanius, Burggrave of the kingdom of Bosnia. Farewell, 12 Kalends of April.
+
+When the person to whom they are sent, skilled in the art of Steganography, has received these or any similar letters marked with the character of Pyrichiel, let him do, as he knows according to the art must be done; then, from the consolation, let him say this conjuration.
+
+*Conjuration.*
+
+[unclear]
+
+PYrichiel osayr Chamerosy culty melano dayr fabelron cathuro pean ersoty meor iathor cabon Frilastro melrusy. When the song has been said;
+
+*The First Book.*
+
+when it has been said, the invisible messenger will make himself visible, and will faithfully reveal into the ear the secret entrusted to him.
+
+*Chapter XXV.*
+
+*Whose emperor and prince is called Emoniel, having under him 100 leading dukes, many subordinate count-servants, who have general office over all things.*
+
+R. [unclear] The prince of the chapter, Emoniel, with his leading dukes, is wandering and unstable; he often dwells in woods; he does not flee the light; kindly and ready for all things whatsoever you command him, he gladly appears when called, both by day and by night. He has under his dominion 100 leading dukes, counts or subordinate dukes no fewer than 20, and servant-slaves without any fixed number. From these we shall name some who may suffice for us for working, reserving the rest in their place to be named with the others, if there should be need.
+
+|X.| |X.| |X.| R. Ermoniel X. Dramiel Cruhiel 10 20 100 20. Edriel Pandiel Armestel 10 20 100 20 Carnodiel Vasenel Caspaniel 10 20 100 20 Phanuel Nasiniel Musiniel 10 20 100 20.
+
+You now have 12 from the dukes of Emoniel, with the subordinate dukes who are their servants, 1320, who according to the order of the hours suffice for us for every operation of our intention, whether the operation be nocturnal or by day. And know that the prince Emoniel, with his dukes, is accustomed to appear with a maidenly head and body, but with a serpentine tail. Therefore, when you wish to perform anything in Steganography through the spirits of Emoniel, do those things which you know, according to the art, must generally be done; and afterwards read this conjuration, silently, in silence, naming the spirit to be called.
+
+*Song of the Conjuration.*
+
+EMoniel aproisi chamerusyn thulnear peanos meuear, pandroy cralnotiel narboy mauy fabelrontos, atliel chemorsyn nety pransobyr diuiel malros ruelty person roab chrumelrusyn. This
+
+68.
+*Steganography*
+
+When the conjuration has been spoken in the manner that the art itself requires, the spirit whom you have called will appear, ready to obey in all things whatsoever you command him, because he is kindly and faithful.
+
+A secret, of whatever kind you wish.
+
+I have a friend who everywhere trusts everyone; for the sake of friends he favors enemies, from whom he often receives ill repute and loss. He is credulous toward the flatteries of those who adulate him, especially one who clings to his side, whom he does not know to be opposed to him in secret, because you see him agreeable in public. I wish to accuse him, yet in such a way that the counsel becomes known to the friend alone; to the rest it will remain hidden.
+
+Let the tenor of the letters be formed at pleasure.
+
+John Trithemius, Abbot of Spanheim, sends many greetings to the Reverend Father Lord Nicholas, Bishop of Irbursiensis, vicar of the Archbishop of Pantomoranus.
+
+When I call to mind your character and the uprightness of your life, Reverend and most excellent Father, I am strongly compelled to declare you most worthy of all bishops. Indeed, whether I should speak of the innocence of your life, or call you most just, most learned in all letters, and venerable for your most holy morals? You adorn your conduct with works of righteousness, and you always show yourself an excellent shepherd of souls; and in letters you continually exercise yourself by study, so that you may confer benefit on yourself and others in both respects. Farewell. Given at Spanheim, 11 Kalends of April, in the year of the Lord’s Nativity 1500.
+
+After he to whom the letters are sent has received them, being perfectly instructed in the art of steganography, let him do as he knows must be done according to the art; when these things have been performed, let him add the conjuration.
+
+*Song of Conjuration.*
+
+Emoniel lebos chamerothy meor pemorsy dyor medulorsyn fray pean, Crymarsy melrosyne vari chabaryn dayr. Aschre cathurmo fabelron ersotus marduse.
+
+When the song has been duly completed, the spirit called will be present in the form customary to him, and will faithfully reveal to you each and every secret that had been entrusted to him.
+
+*Chap.* [unclear]
+
+*Book One.*
+*Chap. XXVI.*
+
+*Whose supreme emperor is called Icosiel, having under him 100 dukes, 300 counts or subdukes; the number of his servants is not yet certain to me.*
+
+Icosiel, among the aerial spirits, is one of the more powerful, a great and mighty emperor in the secrets of steganography, having under him 100 princes of ducal order, and 300 counts. I have not yet found the certain number of his servants. He is called Icosiel for this reason: because he likes to spend time with human beings in houses. For after you have once duly conjured and called to yourself any one of his dukes with his counts, if you wish him to remain with you all the days of your life, assign him one secret and hidden place in your house, and firmly command him, under conjuration, to remain there; and he will gladly obey you, and will always be ready at your command.
+
+R. R. R. R.
+
+Machariel Larphiel Athesiel 10 300 100 30
+Psichiel Amediel Vrbaniel 10 300 100 30
+Thanatiel Cambriel Cumariel 10 300 100 30
+Zosiel Zachriel Heresiel 10 300 100 30
+Agapiel Nathriel Munefiel 10 300 100 30 Here, out of the 100 dukes of Icosiel, we have 15 named, and 50 subdukes, 2,150 servants, who, with their dukes, according to the order assigned to them in the 24 hours of day and night, are accustomed to come when called by the operator into the ministry of steganography. They are fit for all things that you wish, and fearless in operation, because they come in the form and likeness of serpents, having maidenly heads. Therefore, when you wish to operate through any of them, do the things that are to be done according to the art, and add this conjuration:
+
+*Conjuration.*
+
+Icosiel aphorsi chamersyn thulneas ianotiel menear peanos erasnotiel medursan matory fabelron ersonial cathurnos laernoty noty besraym alphayr lamedonti nael cabelron. When the conjuration has been duly completed, the spirits summoned will be present without delay; to them you will safely be able to entrust your secret for your friend.
+
+Make the letters to be sent as you please. Let the secret be whatever you wish.
+
+There is a friend of mine, far absent, skilled in the art of Steganography, for whom I have a great secret and mystery, which must not be entrusted to anyone, even by letters, nor even hinted at. Therefore, so that everything may remain secret, I send a spirit as messenger, who may reveal the secret to my friend and keep my business secret.
+
+Let us amend our life, humbling ourselves before the supreme author of the universe. Humility obtains heaven, annihilates the harmful temptations of demons, breaks down the pernicious swelling of the mind, and powerfully drives out all fires of vices. The path of humility deserves to receive a crown and to possess a noble kingdom. I have set the path for you: innocence, uprightness of morals; by guarding it constantly, you will not sin. This alone is the way for us to heap up the merit of blessedness: that, giving thanks to God, we may fear him with a most upright heart, fleeing the tumult of the age; let us never grow weary of the exercise of humility, seeking the life above. Johannes Trithemius, Abbot of Sponheim, wrote this on the 10th day before the Kalends of April, 1500.
+
+When the person to whom the letters are sent has received them, being skilled in the art, and has recognized the sign of the prince, let him do what he knows must be done; then let him say the conjuration.
+
+*Conjuration.*
+
+Icosiel osayr penarizo chulti meradym phrael melchusy dayr pean cathurmo fabelron erfoti chamerus an iltham pedaly fuer melrossn crymarsy phroylon. When this conjuration has been completed, the spirit will be present to the one summoning him, revealing the secret.
+
+*Chapter.*
+
+*Book One.*
+*Chapter XXVII.*
+*Whose supreme spirit and prince is called Soleuiel, having under his dominion 200 principal dukes, 200 subdukes and counts, and innumerable servants.*
+
+Among those spirits who gladly converse with men skilled in the art of Steganography and having experienced manners, there is one named Soleuel, not the least among the princes of this art. He has under himself 200 principal dukes, and likewise 200 subdukes or counts, who unfailingly observe this order among themselves: those who are dukes in this year are counts in the following year, and in alternating turns counts are made from dukes, and likewise dukes from counts. But I have not yet found the fixed number of the servants, who also keep their own ranks among themselves according to the disposition of the hours.
+
+R. R. R.
+Inachiel Nadrusiel Axosiel 20 20 20 280 200
+Praxeel Cobusiel Charoel 20 20 26 200 200
+Morucha Amriel Mursiel 20 29 20 200 209
+Almodar Prasiel Penador 20 20 30 200 260 Here you have 12 of the princes of Solouiel, of whom the first six are dukes in this year, and the remaining six counts; in the following year these will be dukes, and those counts, and so consequently, always in alternating turns. I have collected the number of the subservants as 1840, although there are more whom I have not yet been able to count. But when you wish to work through these spirits, be constant and strong in spirit, and do not be terrified by their appearance, when you see them appear in the form of serpents with a maiden's head. Then do what must be done according to the art; when these things have been set forth, add this conjuration.
+
+*Song of Conjuration.*
+
+Soleuel marfoy chamensyn oniel dabry pean veat, lasmyn cialmoty pedaros drumes, pean veat chameton loes madur noty basray erxo nadrus peliel thabren thyso ianothin veat petasyloes pean nothyr fabelton bauesy deameron est hiran pumelon meor dabrion crimorsiel peny veat nameroy lyernoti praisoner. When the song has been duly completed, the spirits summoned will be present in their customary form; to them you may entrust the secret.
+
+Let us set the secret as we please, A friend far absent, previously skilled in the art of Steganography,
+
+*STEGANOGRAPHY*
+
+then I think notice should be given concerning certain imminent dangers. But I fear making it public, since I would be making another’s danger my own. In order to be able to avoid this, I entrust the secret neither to letters nor to men, but to the Spirit, whom I know will be most faithful in all things.
+
+Let us compose the letters as we please.
+
+Johannes Trithemius, abbot of Sponheim of the Order of Saint Benedict, sends many greetings to the Reverend Father Lord Rutger Sycamber, Archbishop of Narva.
+
+*Nicholas, the most reverend and most zealous bishop, will explain to you that the general governor of your ecclesiastical affairs has conducted the matter badly, by subjecting the vicar of our lord King Desiderius, a kindly man, bound in chains, and by killing him after tormenting him with hunger.* Every day we expect King Desiderius, the enemy, as he breaks into the diocese. But we beg you: come to our aid soon, so that you do not fall into the enemy’s hands. Farewell. The ninth day before the Kalends, A.D. 1503.
+
+When the person to whom these letters are sent has received them, provided he has previously been imbued with the general art, let him do what is to be done, adding this conjuration with steadfast mind and fearing nothing.
+
+*Conjuration.*
+
+Soleiel curtiel chamereyn faty pemalros dayr ianothy cathurmo parmoy iotran laudon frascu penoy ilthon fabelmerusyn. When the spell has been spoken, the spirit sent by the operator will appear visibly, faithfully revealing everything entrusted to him; and if he wishes to send anything back to the operator, let him entrust it to the same Spirit.
+
+*CHAPTER XXVIII, WHOSE SUPREME SPIRIT AND COMMANDER is Menachiel, who has under him 20 princes or dukes, 100 counts, and servants of uncertain number, who obey their dukes.*
+
+Although the things we have said seem to us abundantly sufficient for every operation of Steganography, nevertheless, lest we hand over to oblivion the things we have experienced, it has pleased us still to add certain things which, by the revelation of the aforesaid spirits, we have learned to be excellent for the perfection of this art, and have experienced quite fully.
+
+*BOOK ONE.*
+
+There is, therefore, among the other spirits who favor this art, one who has obtained the name Menadiel by reason of his office. He has under him 20 princes or dukes, 100 counts, and many servants, whose number is uncertain to me; all of them, in matters entrusted to them, are faithful and excellent messengers in great affairs of kings and princes, through whom we shall work wonders.
+
+R. R. R.
+
+Larmol Benodiel 20 10 100 Barchiel Nedriel
+Draffiel Charfiel 20 10 Amasiel Curafyn
+Clamor Samyel 20 10 Baruch Tharfon We now have six named from the dukes, the same number from the counts, and also, from the servants assigned to them by turns in their orders, 390 in number. They have this order among themselves: at the first turn two dukes and one count are called; he who is called again at the second turn now comes into the order of the dukes. At the third turn he becomes count who had been the first duke of the first order, and so on in sequence. Therefore, when you wish to work something through the spirits of Menadiel, consider carefully which duke and which count is to be called by you according to the time and the hours; and, after the preliminaries that must be sent ahead have been sent ahead, say the conjuration.
+
+*Conjuration.*
+
+Menadiel marfoy peanos onael chamersyn theorianothy ofayr melros tudayr penorsyn sachul tarno rofeuas peatham afiel morfoy maplear casmyron storeal marpenu nosayr pelno dan layr thubraelnodion carsephy drumos fabelmersyn andu pean, purays calbyn nachirloes philuemy casaner. When this conjuration has been duly completed, the spirit called will be present, namely, first one count, two dukes, with servants.
+
+*[Let] the secret be whatever occurs.*
+
+[If] a secret occurs to you for a friend or [enemy?], according to the time or the variety of circumstances, which you do not wish to become common to anyone else, call the spirit, entrust the business to him, fear nothing; he is the most faithful of all and will duly carry out what has been entrusted to him.
+
+74 *Steganography.* You will be able to compose letters on these matters, of whatever kind you wish, according to your pleasure.
+
+Great and eternal are the future advantages of those who observe innocence: for men rejoicing to take part in angelic praises; to behold that lofty light, the splendor of eternal blessedness, and to see the face of majesty with its own light. Pay attention, all of you, and wipe away with tears your exact negligences; cast off useless and harmful cares, the deceits of unstable things. O men of clay, shudder; at last seek the profit of souls. Be honorable in good morals and virtues; despise vanities; humbly call upon God; do not desire the world, which pours in bitterness. In the year 1500, on the ninth day before the Kalends of April. S.
+
+When the person to whom these letters are sent has received them, if he is skilled in the art, once the character of the supreme prince Menadiel has been recognized, and after those things have first been performed which are customarily to be performed first, let him say the conjuration.
+
+*Conjuration.*
+
+Menadyel murty chamero le dayr pean cathurmo phameron etsoti pray saruepo, fabel merij rean, charonietlas Meduse fayrlamerosyn alty merchahon. When the charm has been said, the spirit sent will appear visibly to the one calling, and will faithfully report everything to him secretly in his ear that he has in his counsels.
+
+*Chapter XXIX.*
+
+*Whose supreme prince is called Macariel, having under his command many dukes, princes, counts, and servants appointed to various ministries.*
+
+Macariel also, one of the supreme spirits who preside over the operations of Steganography, is not to be omitted by us, together with his servant-princes, because he is sufficiently useful, prompt, and faithful for whatever things we may wish. He has forty princes; of these, never fewer than four are sent on a ministry, namely three dukes and one count, with no few servants. They observe this order among themselves: that, in their turns, one of the dukes always performs the office of count, according to the four parts of the year. And concerning all these it is necessary for the operator to have full knowledge. But now from these princes let us name some who may abundantly suffice us for the operation of our Steganography.
+
+*Book One.*
+
+R. R. R. R.
+
+Claniel Asmadiel Gremiel 40 30 20 10 Drusiel Romyel Thuriel 40 30 26 10 Andros Nastuel Brufiel 40 30 19 10 Charoel Varpiel Lemodac 40 30 70 10 We now have twelve named from the princes of Macariel, with 400 servants counted, according to their turns and orders. Therefore, when you wish to operate through them in Steganography, beware lest you call fewer than at least four from the aforesaid; after first performing the things that are customarily to be performed first, say this conjuration.
+
+*Charm.*
+
+Macriel myrno chamerosy purmy maresyn amos peanam olradu, chaberianoes fabelron dearsychadon vljses Almos rutiel pedaron deabry madero neas lamero dearsythubra dorpilto melrosyne draorchalmea near, parmon dearsy charon alnodiel parsaradean, maroy reneas charsognole, melrosin te dranso casmar ebrolet. Landtys masfayr therafonte noel amalan. When this charm has been said, the spirits called will be present, appearing in various forms, and frequently indeed with a maiden's head, ending with body and tail in the form of a dragon, winding and unwinding themselves in a fourfold order.
+
+*A secret matter is sent to the prince.*
+
+The prefect of a king or prince, stationed in a land or province, has learned by a very secret report that enemies have the intention of breaking into the province shortly. He wishes to notify the prince, but cannot do so by messengers, because they are to be tortured by the adversaries on the road so that they betray the secret; nor by letters, since all are opened by them. Therefore he calls a spirit, entrusts the secret, and invents letters that concern something else.
+
+*Let us invent letters that are of no relevance.*
+
+We ask you, sweetest of friends, that in view of our old friendship you would quickly send back to us your copy of Tertullian, that most noble and most wise man,
+
+*Steganographia*
+
+or to send swiftly, [Bernardig], a letter to the Templars. We all know that to Tertullian there was shown among our people in ancient times the glorious name of Catholic sanctity, and we know that he did not remain the last noble light of the sacred faith. In his actions he was eminent, a glorious teacher of the divine law, a most devoted defender of our liberty. Although he is criticized in some matters, nevertheless, in setting forth our faith, he wrote volumes worthy of honor. He had as wife Zelosaw, a lover of our religion, noble in humility and innocence, glorious in chastity. There survive some praiseworthy lucubrations of his sound instruction, sweet and overflowing, of much learning: brief letters, not useless, honorably and graciously exhorting us to seek eternal glory. 25 March, in the year 1500. Johannes Trithemius wrote this.
+
+When you have received these letters, or any others whatsoever, to whom they are sent, being previously skilled in the art of Steganography, once the sign of Macariel has been recognized, let him do what according to custom must be done, adding the song.
+
+*Song of Conjuration*
+
+Macariel osayr chamerose chulti pesano dayr fameron cathurmo pean ersoty lamedon souapor casrea mafyr. lanos thatfia, peathan non acri pean etion matramy. When the song has been duly completed, the spirit sent will appear visible to him alone.
+
+*Chapter 30*
+
+*Whose supreme emperor is called Uriel, having under his dominion 10 dukes, and 100 counts or sub-dukes; the number of servants is uncertain.*
+
+Nor is it fitting for us to omit Uriel, the great prince, whom, as experience teaches us, we know to hold no last place of usefulness among the supporters of this art. He has under his dominion and command 10 dukes and princes assigned to this art of Steganography; counts or sub-dukes, who always accompany those dukes, each in his own order, 100; and many servants, whose certain number is still not known to me.
+
+R.R.R.a.c
+Chabri 10 Dragon 10 a 20 Drabor
+
+*Book One*
+
+Drobos 10 Curmas 10 80 40 v a n
+Narmiel 10 Drapios 10 60 60 *A T A*
+Frasmiel 10 Hermon 10 40 80 m a + These letters [unclear] sense below.
+Brymiel 10 Aldrusy 10 20 100 ss i s Here we have the dukes named, with their counts and sub-servants, whose service suffices for us for the completion of this our art at present. And note that those first in order are dukes and princes. The second are counts; and they have two orders among themselves, which you must know before all else. Those who are in the first order, both dukes and counts, whenever they are called, always appear monstrous, namely with a maiden’s head, and with body and tail in the form of a serpent. Those who are in the second order are accustomed to appear to us in a familiar and usual likeness. Nor are fewer accustomed to come than one duke and one count, following him in each order. But when you wish to work through these spirits, first do according to what you know from the art must be done; afterward add this conjuration.
+
+*Conjuration*
+
+Uriel marfoys lamedonti noes, chameron, anducharpean phusciel arsmony tuerchoy iam ersyn nairiel penos raseon loes vear fabelruso cralty layr parlis meraij mea; thubra aslotiel dubyr reanu nauosti masliel pedonyto chemarphin. When the conjuration has been completed, the spirits called will be present, each in his order, ready and cheerful to obey in all things. :Q A very great secret is made.
+
+Let there be some secret of mine for a prince, or for a friend, the disclosure of which would bring danger to me and no small loss to him. Therefore, so that all things may remain secret between me and him, I entrust the secret not to a man, not to letters, but to a spirit.
+
+Let the letters be as desired, fearing nothing.
+
+Begin, most beloved brothers, to amend your negligences, wiping away past sins with continual tears, beseeching the savior of all the living for the remaining time. Hear, O Lord, the groans of those continually weeping: pardon
+
+*Steganographia*
+
+concerning vices: lover of the innocent. Illustrious [winemaker?]; you will not despise exiled men. Have mercy on the very wretched, O Christ Jesus, best creator of men, our most noble Savior; free the weak souls of the exiles, O most kindly [Jesus?]; save the wretched and grant us pardon. Hear us, humble and most weak: in the dreadful hour of death grant a joyous light, consoler of all and rule of the humble.
+
+In the year 1507, on the Kalends of April. I, Johannes Trithemius, Abbot of Sponheim, wrote this.
+
+After you have received these or any other letters, sealed at the end with the sign of Prince Uriel, let the one to whom they are sent, if he is skilled in the art, first do what he knows must be done according to the art, and let him say the conjuration.
+
+Conjuration.
+
+Uriel Aflan pemason cosayr chameron, cathurm omerosyn ersoti chalmon sauepo Meduse reanalermosyn.
+
+When the charm has been spoken, the invisible spirit who has been sent will appear in the form customary to him, and will faithfully and most secretly reveal everything entrusted to him by the operator or sender, so that none of those sitting around can perceive or hear anything; and the secret will always remain hidden.
+
+*Chapter 21. Whose supreme prince is called Bydiel, having under his dominion 20 dukes and 200 counts; the number of servants is uncertain: they are very many.*
+
+There still remains one of the supreme spirits, assigned to us for the operation of Steganography: the last indeed in order, but among the first in dignity. By the reckoning of his office he is called Bydiel, having under his command 20 dukes, 200 counts or sub-dukes, and many attendants and servants. These dukes, together with the counts, have a fixed order among themselves; and whenever they have been called by the operator, two dukes come with 20 counts and appear in human form, gentle and ready for all things,
+
+*Book One.*
+
+all things. They change places with one another in turn, so that when in the first year the dukes have been called, afterward the counts are called; in the second, the counts are called in place of the dukes.
+
+R. R. R. R.
+
+Mudriel 20 20 200 20 Charobiel 20
+Cruchan 20 20 200 20 Andrucha 20
+Bramfiel 20 20 200 20 Merafiel 20
+Armoniel 20 20 200 20 Parfifiel 20
+Lameniel 20 20 200 20 Chremas 20 We have now here ten of the princes and counts of Bydiel, marked with their own names, who for the present suffice for us for every operation of ours in the art of Steganography, together with many servants, who know how to observe their order according to the command of the dukes and princes. But when you wish to work in this art through these, after first performing what must be performed beforehand, say the conjuration.
+
+*Charm of Conjuration.*
+
+Bydiel marchan chamerosi philtres maduse veat casmyron cralnoti: pean deuoon fabeltros eltida camean veor. Oniel veat thyrso liernory: ianos prolsato chanos elasty peanon elsathas melros notiel pen soes probys chyras lesbroy mauear iothan liernotj chrymarson.
+
+When the charm has been spoken as is proper, the spirits who have been called will at once appear visibly, walking beautifully and, as friends, leading one another in mutual embrace, and then willingly obeying you in all things.
+
+A secret, whatever it may be, is made for me.
+
+secret: A secret is mine, which I wish an absent friend far away to know; it greatly concerns a hidden matter which must be lost if the mystery should in any way happen to be made public. Therefore I entrust it for delivery not to a man, not to letters, but to spirits alone, whom I know to be both secure and faithful.
+
+Johannes Trithemius, Abbot of Sponheim, sends greetings to Rutger the Sicambrian. And say the present little prayer of great Basil.
+
+The glory of ineffable eternal blessedness is acquired by good practices and humble ones. Now with diligent tears wipe away your errors, mortals: love God, 80
+
+*Steganography*
+
+[unclear], adoring his holy name. Learn humbly to imitate the path of Jesus Christ, humble and crucified, always rendering honor to him, sweetly burning with love for our most gracious savior. Glorify and exalt his praiseworthy goodness; bless his holy name, zealously pursuing the fire of goodness. Despise vain honors; learn to render praise in adversities; love the exercise of devotion; cultivate most noble humility; exalt Jesus, who rescues and saves us from death. Farewell, 7 Kalends of April, in the year of the Lord's Nativity 1500.
+
+But when the friend, sufficiently skilled in the art of Steganography, receives the letters, after recognizing Bidiel's character, and after first doing those things which customarily must be done beforehand, let him say the conjuration generally.
+
+*Song.*
+
+BY del maslo chameron theory madias near fabelron thiamy marfoy vear pean liernoty calmea drules: Thubra pleory malresa teorty melchoy vemo chosray. When the song has been said, the spirit will stand present, visible only to the one who summoned him; he will report to you the things entrusted to him completely and faithfully.
+
+*Chapter XXXII.*
+
+*In which a certain necessary recapitulation is made of the things prescribed above. Several cautions are inserted which must be observed by those wishing to practice the art of Steganography.*
+
+After, with praise to God the greatest and most supremely blessed, we have described, not without great and continuous labor, the offices of the supreme spirits who favor our Steganography above the rest, lest those wishing to operate through them should happen to err in the order, names, characters, leaders, or companions, we have thought it necessary to arrange in this chapter a general table for memory. The table follows on this and the following page.
+
+R. R. R. K
+1 Pamerfiel 7 1000 10000 100 10
+2 Pachiel 3 1000 200000 10 10
+3 Camuel 8— 16 10 9 100
+Aschel
+
+*Book One.*
+
+R. R. R. R.
+1 Pamersiel T 1000 10000 100 10 K
+2 Pachiel h 1000 200000 100 . 10 K
+3 Camuel :~: 10 10 0 100 K
+4 Aseliel w 10 20 0 200 K
+5 Barmiel e 10 20 . 10 200 K
+6 Gediel p 20 20 10 100 K
+7 Asyriel ~ — 20 20 . 00 300 K
+8 Maseriel +i~ 30 30 00 300 K
+9 Malgaras ::e 30 30 . 10 . 200 K
+10 Dorothiel z 40 40 . o. 400 K
+11 Vsiel d 40 40 30 300 K
+12 Cabariel :-b 50 50 50 . 500 K
+13 Rayfiel W 50 50 40 400 K
+14 Symiel mW 10 1000 . 0 . 4 K
+15 Armadiel N 1000 180 10 800 K
+16 Baruchas ow 10 180 . 0 . 100 K
+17 Carnesiel I✓ 1000 300 1000 300 . 1000
+18 Caspiel b 200 400 200 400 . 200
+19 Amenadiel ~ 300 500 300 500 . 300
+20 Demoriel w~ 400 600 400 600 . 400
+21 Geradiel + 200 100 40 30 . 60
+22 Buriel M 100 10 10 . 100 . o
+23 Hydriel l—. 10 20 100 200 . 0
+24 Pyrichiel :~: 40 30 200 10 . o
+25 Emoniel J 10 300 10 30 . o
+26 Icosiel f̄ 20 20 20 2oo . o
+27 Soleuiel j̃ 100 20 30 10 . Oͦr.
+28 Menadiel J 40 30 40 10 . OS
+29 Macariel z 20 10 40 30 , θx
+30 Vriel dż 30 40 20 nß
+31 Bidiel dz 30 40 00 20 K In this table we have placed thirty-one principal spirits, each of whom presides, in his own office and order, over all operations …[the spirits and powers] of our Steganography, of which we have spoken in this our first [book]: supplying to each one a character appropriated to it, and subjoining also the number and order of the princes, dukes, counts, servants, and under-servants in their proper degrees—lest anyone desiring to study in this art should, on account of the diversity of operations, fall into error. The great mysteries of this art can be penetrated only by the most studious men—those, namely, whom the love of secrets and [their] nature impels to investigate, and who, in the desire of attaining knowledge, refuse to undergo no honest and possible labor. But men slothful and dull of wit, whom neither love kindles to the study of the secrets of wisdom nor nature helps—when they have not been able to understand this most secret art of our invention—[this] is not to be imputed to us, but rather is to be ascribed, understand, to their own sloth, laziness, and malice: namely those who, having their wit immersed in the pleasures of the flesh and worldly cares, cannot with diligence be at leisure to survey these things; or who, deeming themselves already wise or most learned, despise our compositions as unworthy of their reading. There will be also some so accustomed to rest in old and alien traditions that they deem whatever they have not learned in them either impossible or superstitious. Nothing is more inept for the knowledge of this profound art than these, who either will not or cannot contemplate its loftiest [matters]. But those who are both apt and willing to study in this art (if any there shall be)—that they may be able to make progress—we have determined to admonish in a few [words] at the end of this book. First of all they are to be admonished that they always keep the art itself hidden, lest it penetrate the hand and notice of the wicked, who would do many and execrable crimes through it. For although the art itself is truly good in itself, yet its practice would conduce no less to evil through the impious than to good through the good. Let the secret therefore remain among the good, which, published among the wicked, would do harm. Nor, however, ought the good to despise this knowledge because it profits the wicked unto evil; just as he who lays a man low does not spurn the sword. Then the studious of this art are to be admonished not to presume to proceed to operating in it, unless first, in all [things] which are required for the practice [the remainder of the line is missing in the source].
+
+[The same passage is repeated in the source's OCR; not re-translated.]
+
+[Source page illegible in the scan; the page image is the authoritative witness. The text previously printed here was a variant duplicate rendering of the passage at segment 55; see ERRATA, 2026-07-11.]
+
+*Book Two*
+
+85 ...the services may abundantly suffice for every practitioner. Yet lest we should seem to omit anything of those things which can contribute to the perfection of this art, we have resolved to join a second book to the first. Since, moreover, according to the tradition of certain wise men, individual spirits have been assigned to the several hours of day and night for various operations and diverse and wondrous effects, it has pleased us to imitate only their order, not their superstition, so that, without injury to the Christian name, we may take from it what serves our purpose, while passing over the rest with contempt as full of magical arts and contrary to our faith. Therefore, taking up the chief spirits assigned to the several hours, both of day and of night, according to the secret of Solomon, surnamed Hermes, in his volume *On Magic*, as the supreme commanders of the art, together with the other officials more necessary to us for the proposed operation, we shall proceed; and we shall give both method and doctrine to all students in this art, by which they may disclose to friends, at any hour and with safer counsel, the secret and hidden conception of their minds. For every prince presides over his own spirits, dukes, counts, and servants as a scout; at his command, when summoned by us with a lawful song, they come, carry the entrusted secrets, and show themselves obedient and ready for us in all things. But since I have again made mention of spirits, I think I must once more say beforehand: there is nothing scrupulous in this art of ours, nothing contrary to evangelical tradition or to the Catholic faith, nothing at all delivered that is superstitious. For everything that we have said in the preceding volume, or shall say in the following ones, rests upon natural, lawful, and honorable principles; and only the mystery veiled by foreign instructions, and words wrapped in the names of spirits, require a learned reader. For we use the ministry of a spirit to veil the secret, which, if made public, would harm the reprobate. And lest anyone fail through error in the reckoning of the hours, let him know that we have taken the planetary hours, both by day and by night.
+
+*Chapter I*
+
+*Samael, supreme commander of the first hour of the day, presides; he has under his command many dukes, counts, and servants, whom he sends, when summoned in this hour only, to the practitioner experienced in Steganography.*
+
+The spirit and commander of the first hour of the day, which begins at sunrise, is called Samael. He has under his command very many dukes, counts, and subordinate servants, who, when summoned by the practitioner in this hour only, come in Steganography; and they carry the secret that is entrusted to them, but they utterly refuse to come outside the hour. And note that the dukes and first princes of Samael are rarely sent by him into the service of this science, since they hold the office of stirring up magical and nocturnal illusions among men.
+
+L 3 Comi-
+
+*Of Steganography*
+
+The counts, moreover, together with their servants, have been specially appointed to the service of the art; to this they are also sent quite often without the presence of the dukes. Since they are from the highest order among the spirits, they are accustomed to show themselves somewhat proud and rebellious toward those who summon them; nor do they readily obey anyone, unless he is most skilled in the art of Steganography, without toil and danger. For they are impudent, and very ready for deceiving and mocking human beings, and they deride and jeer especially at those whom they have found to be less skilled in the art of Steganography. But those whom they judge to be bold, steadfast, and experienced in that art, they revere and fear, and they always obey their commands with the utmost promptness, with trembling and reverence. And so now, from the counts of those who are necessary to us in the operations of Steganography at this hour, we shall report the names.
+
+R. R. R.
+Ameniel Brumiel 10 100 1000 p q
+Charpon Nestoriel 10 100 a b
+Darosiel Chremas 10 100 c d
+Monasiel Meresyn 10 100 20 10 We now have, from the dukes of the great Samael, 4; from the counts, the same number; from the servants, from the threefold order, 4,440, whose service is abundantly sufficient for us for every operation of the art of Steganography, as regards the first hour of the day.
+
+Therefore, when you wish to operate in the art in the first hour of the day, first write on a small sheet the character of the lord of the ascendant, then that of the moon; afterwards those of all the remaining planets according to the customary order, and at the end the character of the sign ascending at that same hour. And when you have completed this, write on the back of the same sheet this conjuration in silence, keeping silent.
+
+*Conjuration.*
+
+SAMAEL affuar onayr myico layt madiel cuhiel naniel nabruys satiel atharbiel nadian naslon, ranyalcoha pe marson. When this conjuration has been written on the sheet, as stated above, you will prepare clearly and distinctly the letters to be sent to the person whom you wish to know the secret, in whatever form you please,
+
+*Book Two.*
+
+because it makes no difference in what form the letters to be sent have been composed, provided they contain no secret in themselves. Then, when the letters have also been written, summon one or two from the counts according to the order, if you are operating many times in this same first hour of the day. Say the conjuration written above from the same sheet, with the strongest intention, fearing nothing; when this has been duly completed, the summoned spirits will at once appear to you, visible in a familiar form customary to them, calm, benevolent, and most ready for all services that arise. When they have appeared, entrust your secret to the chief among them, saying: Ameniel, by the hidden power of this conjuration I command you to go as quickly as possible to Albert Goelet of Ravensburg, prefect in Kreuznach, and to say to him in my name thus or thus. Having said these things, add the secret word, which is not to be written; and immediately the spirit will fly away. But send the letters, sealed with the character of Samael, as is customary, by a messenger; in them let no secret be contained, and let them fear the sight of no one.
+
+*The secret is made, whatever occurs:*
+
+Let the secret be a great one, and an arduous secret, of whatever sort occurs at the time, such that it ought to be communicated to no one and entrusted neither to letters nor to couriers; for in this art, especially by means of the spirits of this second volume, one must not operate for small and trivial matters, which can otherwise be announced by letters.
+
+*You will compose the letters about these matters as you please.*
+
+The Catholic majesty of the faith, to be firmly kept by all people, has promised the happiness of everlasting life to those who serve Christ. Hold the Catholic Christian faith; glorify the Almighty, fleeing the tumult of vanity. No one of depraved works will have the blessed life. Let the faithful man follow Christ on the path of virtues. Integrity is adorned by good works; the Catholic name is preserved by Christian fidelity. For a depraved man clouds the faith. Christ hates the rash, and loves Christians who practice Catholic works and venerate tranquility.
+
+Johannes Trithemius, Abbot of Sponheim, published this on the Kalends of April, in the year of the Lord 150[unclear].
+
+When you have received the letters, the person to whom they are sent should send ahead in the art:
+
+*Of Steganography*
+
+let him send those things which, according to the general instruction of the art, must be sent ahead, and let him say the prescribed conjuration, in the manner and rite which we have previously set forth, written on a sheet with the character of the lord of the ascendant and the other things expressed. But as soon as he has completed the conjuration, he will see the spirit present; when he has seen him, let him fearlessly say: penador auenal + solmenial phanu + sauear caschanti hernoty maduran. Amen. When these words have been said, let him be silent. He will see the spirit approaching him, to report the entrusted secret secretly and safely into his ear; let him hear him in such a way, without fear and with great care, that if anyone should be sitting nearby, he indicates by neither nod nor word that the spirit is present.
+
+*Chapter II*
+
+*The second hour of the day is called Cevorym. Its supreme ruling spirit is Anael, who has under his command 10 dukes, counts, centurions, 100 presidents. There is no fixed number of servants and subservient spirits.*
+
+The presiding emperor of the second hour of the day is principally called Aneal; he has assigned under his command, for the ministry of this art of Steganography, 10 dukes, counts, centurions, presidents over all his spirits, 100; of the servants there is as yet no fixed number known to me.
+
+*The second hour of the day is called [unclear], in which changeable operations are performed, astonishing to all men. All the spirits of this emperor are sufficiently benevolent, pleasant, cheerful, and very ready to obey the operator in the art, provided he is skilled in the art, strong in mind, constant, and of good understanding.*
+
+R. R. R.
+
+Menarchos Orphiel Quosiel 10 100 G. n.
+Archiel Cursiel Ermaziel 10 100 G. n.
+Chardiel Elmoym Granyel 10 100 G. n.
+
+In this table we have placed, from the dukes of Aneal, 3; from the counts, 6; from the number of servants, 330, who are sufficient for us, by sending them through their orders, for every operation of Steganography in this second hour of the day.
+
+*There are red crosses.*
+
+Therefore, when in this hour you wish to perform something in Steganography,
+
+*The Second Book*
+
+to perform it, write on a clean sheet the character of the lord of the ascendant, and, following him in the subsequent order, the other planets, and last the sign of the twelfth house, with ink made from the material of this art. Then write on the back of the aforesaid sheet this conjuration in silence, with your face turned toward the sun.
+
+*Song of Conjuration*
+
+Anael otiel aproify rachymas, thulnear theor cralnotiel amerfoty mouear phroys lierto mear vrnesa elty famelron; When the conjuration has been written, do the other things which you know must be done according to the art. Then say the song in silence, and you will soon see the spirit present, cheerful, pleasant, and benevolent toward all things; to him you may safely entrust the secret.
+
+*Let us posit any secret whatever.*
+
+Let there be for us any kind of secret occurring at the time, which seems neither useful to be entrusted to letters nor to a messenger. Let one duke and count, or either one of them as you please, be summoned from the spirits of Anael. Let the secret be entrusted in due manner to the more principal one, as is fitting according to the precept of the art, and he will carry it faithfully.
+
+*The tenor of the letter is familiar.*
+
+Johannes Trithemius, abbot of Sponheim, to Wilhelm Veldic, canon of Saint Augustine in the valley of Franconia, his fellow philosopher, greetings.
+
+I would rejoice to answer your letter, so may Christ make me rejoice: I would send the volumes requested, if at last I had them. I am zealous for the very great and very weighty hidden investigators of nature with a good zeal, which the most ancient philosophers had. But I give you thanks beyond mortals, my sweetest brother, who have kept the bond of mutual affection inviolate. For in this familiar matter, which you seem to have managed most diligently with weighty modesty, I have plainly recognized it; I praise what has been done, and I give thanks that will never die. And so I should very much desire to comply with your requests, if I had the things requested, as Christ knows. Recently I saw various Latin translations of Ficino; of the most excellent Pico della Mirandola
+
+*Of Steganography*
+
+[unclear] of a most [unclear] man, I have read many most splendid volumes; I have seen Hippolytus in Greek: whether he has been translated completely, I do not know. The highest Truth, Christ, to whom no shadows conceal anything, knows that from my heart I desire to comply with you in what you ask. I beg you, with zeal for virtue, with zeal for uprightness: despise praises and honors that will perish. Consider it true praise to imitate Christ going before you. See to it, I beg, that you prove to be a priest in your works, and that you love Christ throughout all the time in which you live. The true lover of Christ [unclear] with zeal for justice. True rest of the soul, and knowledge of the Savior, and pious observance of Catholic tradition, prepares everlasting glory for all. May the glorious Jesus Christ, giver of all good things, grant you love of eternity, making you a Catholic priest of Christians. Farewell. 4 Kal. Apr. In the year 1500.
+
+When the letter sent has been received by the one to whom it was sent, let the man skilled in the art, after first setting out generally the things customarily set out beforehand, arrange the lord of the ascendant with the rest, which are customarily placed on the small chart, and let him say the prescribed conjuration. When this has been said, the spirit that was sent will appear visibly; turning toward him, let him say without trembling: [unclear]. When this charm has been completed, the spirit will soon approach gently, and will faithfully disclose the mystery entrusted to him. But let everyone who is to operate in this art beware, both the one who sends the spirit and the one to whom it has been destined, lest they presume to do anything in public or among others who are not skilled in this art, because all hourly spirits love secrecy and detest publicity; and they would not depart without danger.
+
+*Chapter III*
+
+*Whose hour is called Danzur, and its supreme emperor spirit is Vequaniel,* who has under his dominion 20 dukes, 200 counts. The number of servants is uncertain. Their office is general, for all things; and they are sufficiently ready and benevolent in all matters whatever may have been entrusted to them, and faithful and safe; nor are they unwilling to obey, but when called in public they can least of all act without harm or danger to the caller.
+
+*The Second Book*
+
+For they love secrecy, as do all the others who preside over the hours and their operations. I do not know the names of all of them, but only of a few, which, revealed by them themselves and entered into this table, suffice for us.
+
+R. R. R. Ri
+Asmiel Drelmech Gemarij 20 20 200 200
+Perfiel Sadiniel Xantiel 20 20 200 200
+Atursiel Parniel Seruiel 20 20 200 200
+Zoesiel Comadiel Furiel 20 20 200 200 In this table we have named 4 from the dukes, 8 from the counts, and 1,730 unnumbered from their servants, who suffice for us for all operations of this art in the third hour of the day. Therefore when in this hour you wish to call a spirit to bear some message to a friend, no fewer than at least two dukes, and as many counts with their servants, should be called. But if you wish to call more or fewer, you will indeed be able to do so, but you will need to have a conjuration addressed to the universal emperor, without whose command the spirits do not violate their order. And so write on a new sheet the character of the lord of the ascendant, and the rest in the order of the planets, with the sign of the twelfth house, in the manner that the instruction of the art requires. On the back of the sheet write this conjuration.
+
+*Conjuration*
+
+Vequaniel, odiel mefrij fotiel mear iamy otiel aslofian yrfothreotion drearij fabel merufin. When the conjuration has been written and these things that are required by the art have been added below, say it in a low voice, so that it is not heard by anyone; and immediately the spirits called will come. When you have seen them, entrust the secret to the more powerful one, whom you will easily recognize from his attire, because the one who is first among the other spirits always appears crowned.
+
+*Any Secret Whatever Is Made*
+
+Whatever secret you have for an absent friend, which should neither be entrusted to letters, lest they be read by someone, nor to a messenger, lest, corrupted by some occasion or price, or by fear, he divulge it publicly: call the spirit appointed to the hour, entrust the secret to him, fearing nothing; he will bear it faithfully.
+
+Letters 93 *Steganography* You will form letters at will.
+
+John Trithemius, Abbot of Sponheim, to Arnold Bostius, Carmelite of Ghent, his fellow philosopher: greeting and charity.
+
+Since I have known you to be a lover of humane studies, a devout worshipper of the Christian faith, and the greatest supporter of all philosophers, I gladly oblige your requests, moved by the wonderful pleasure of friendship. Behold, at your urging I send you the book mentioned above concerning ecclesiastical writers and Catholic doctors, so that you may have something with which to delight your mind. But send back to me the codices of Hermes, and the books of Dionysius on Spirits, and the great work of [Puenclius?] on [unclear]. May Christ deign to adorn the eyes of our heart with the most fervent zeal of his love; and may he make us have love of heavenly goods and, stripped of the desires of the lowest things, teach us to despise vain honors, so that we may be able to penetrate the lofty matters of art and also the great secrets of nature, and may have a continual desire for philosophy, to purify our affections, so that we may always be adorned with the Catholic faith and the most honorable morals. Hold fast the great saying: you are a philosopher; leave everything and you will find it. Suspect the hour nearest to death; may I meet it prepared. Farewell. 30 March 1500.
+
+When you have received any letters sealed with the character of Vequaniel, write the figure of the lord of the ascendant and of the twelfth house, with the other things that are required for the art, on a new sheet, and on its back the aforesaid conjuration; and immediately the spirit that has been sent will appear visibly. As soon as you see him, say this verse.
+
+*Verse of Conjuration.*
+
+Fameron aprois liernoti stadiuear diuiel sauean Lamersy. When these words have been said, receive the word from the mouth of the spirit without fear, because he is sufficiently faithful. And take care not to work in public before others.
+
+*Chapter IV, whose hour is called Elechym; and the supreme spirit of the hour is named Vathmiel, who has under his rule 10 dukes, 100 counts; there is no fixed number of servants, through whom the operation is performed in the fourth hour.*
+
+*The Fourth.*
+
+*The Second Book.*
+
+The fourth hour of the day is called Elechym, whose supreme angel is named Vathmiel, who has as deputies for this art of Steganography 10 most renowned dukes, and 100 counts; the number of servants is infinite. And they have the office of announcing all secrets generally, and they are very good, benevolent, and obedient in all things whatsoever they are commanded. But as lovers of secrecy they greatly detest the tumults of men. Therefore take care, when placed among others who are not experienced in the art, not to attempt to work anything through them, because they would not easily come when conjured, and they would not depart without danger to you. Keep all the things that we command you, and you will have great progress in this science.
+
+R. R. R. R.
+
+Ammyel Emarfiel Iermiel 10 100 100 109
+Larmich Permiel Thuroz 10 100 [unclear] 100
+Marfel Querial Vanesiel 10 109 100 160
+Ormyel Strubiel Zasuiel 10 100 400 100
+Zardiel Diuiel Hermiel 10 103 100 180 In this table we have from the dukes of Vathmiel [unclear], but from the dukes 10, and in number of servants 1550, whose ministry is sufficient for us for every operation of Steganography at the fourth hour. Therefore, when you wish to operate in this hour, write the character of the lord of the ascendant and of the twelfth house, with the other things, on new paper, and on its back this conjuration, as is fitting.
+
+*Conjuration.*
+
+Vathmiel adres rheareso rafer theotij venofi sayr fatiel cafairsoti verotiel does ro fabel merufin. Then, after you have first sent ahead those things which are customarily to be sent ahead, say the same conjuration in a low voice; and immediately the spirits called will be present, at least one duke and one count, with their servants, ready to obey your commands.
+
+*Argument of a Secret Message.*
+
+Let there be some secret, great and very secret, which you wish absolutely no one to know except one person. Call the spirits deputed to the hour, as many as you wish, and entrust the secret to the chief one. Write letters, 94 *Of the Steganography* write, in whatever form you wish, in which nothing secret is contained, and which need fear absolutely no one’s inspection.
+
+Johannes Trithemius, abbot of Spanheim, of the Order of Saint Benedict, to Rutger Vencaius the Sicambrian, canon of the order of the divine father Augustine of the monastery of Damentis, greeting.
+
+*Those* things which you set before me to be solved I have, with Christ’s help, resolved. Whether well, you who proposed them must pass judgment. I shall briefly report to you the matter [unclear]. A certain brother lately reported to me, and also one friend, not the least: that a young man had been raised from the dead at the invocation of Christ, reporting wondrous, dreadful things among the infernal regions, narrating the torments of wicked Christians, namely of those who, by acting perversely, crucified Christ; especially guilty of this, that, forgetful of the most gracious benefit of redemption, they had always proved ungrateful to Christ; and that those suffer horrible things who were known to be ungrateful for benefits by not living well; and, blinded by sin, neglected future joys, following the pleasures of the world; who, [unclear] by negligences committed, cried out most bitterly: “Deservedly do we endure these things, [unclear] to the redeemer of the human race always [unclear]: we were [unclear]; Christians in name, gentiles in action. We wretched ones always sought earthly consolations unjustly; therefore we receive the due recompense of eternal damnation. Alas for us most unhappy ones: why did we offend Christ? Why did we despise the time granted?” The young man raised to life reported many other things to us, which I am now wholly unable to write, being greatly hindered by weighty affairs. Therefore, brother, let us zealously imitate the footsteps of Christ, always giving thanks to our most gentle Savior, asking that he may forgive us the offenses committed. Farewell. The third day before the Kalends of April.
+
+When you have received the letters, let the person skilled in the art to whom they are sent observe the lord of the ascendant of that same hour, and the sign of the twelfth house; and let him write their characters with the others on paper, along with the other things that are required for the operation, and afterwards let him say the above-mentioned conjuration, and, when the spirit has been seen, these words: Camerusin aproysiliertto thulnear venean maueas fabelron. When these have been said, the spirit that was sent will approach, and will faithfully and without danger reveal the secret entrusted to him,
+
+*Chapter*
+
+*Book Two.*
+
+*Chapter 5.*
+
+*The fifth hour, Fealech, and the spirit and supreme emperor called Sasquiel, having under his rule 10 dukes, 100 counts, and a very great number of servants,*
+
+[unclear]
+
+The fifth hour of the day is called Fealech, and its spirit is named Sasquiel, a great and powerful emperor, who has under his command, among many dukes, 10 dukes and 100 counts with their attendants, appointed to the service of various and especially secret arts and of this science of ours.
+
+And it should be noted that the dukes are rarely called in the fifth hour for the operations of Steganography, because they are not always necessary, since the counts, together with the servants assigned to them, abundantly suffice for us for every operation. Yet if anyone should also wish to see any of the dukes and to make use of their power, he can call one, two, or more; and they will come without delay, for they are quite well-disposed and ready to obey those who are operating.
+
+R. | R. | R. | R.
+Damiel | Iameriel | Omerach 10 | 100
+Araniel | Futiniel | Lameros 10 | 100
+Maroeh | Rameriel | Zachiel 10 | 100a
+Sarapiel | Amisiel | Fustiel 10 | 100
+Putifiel | Vraniel | Camiel 10 | 100 Of Sasquiel’s dukes, then, we have 5 already named; of the counts, however, 10; and of the number of servants, 5,550, whose service is sufficient for every operation of the present hour. Therefore, when you wish to operate for Steganography in the fifth hour of the day through one of the aforesaid, write the character of the lord of the ascendant, of the twelfth house, together with the rest that is required for the art, on a clean piece of paper; and on its back this conjuration, in the manner which you know.
+
+*Conjuration.*
+
+Sasquiel adres rhetroleti rosiel emelto satu olmeniel itsoti sauear nauediel liernoti chameson. When these things have been completed, and the other necessary things added, say the conjuration itself, as is proper; and immediately you will see the spirit whom you called visibly present, to whom you may safely entrust the secret.
+
+Argu-
+
+*Steganographia: A method for communicating a secret.*
+
+Let us have some secret or other for a friend, which we wish no one besides him to know; and let it be such that it can safely be entrusted neither to letters nor to notaries. Let us call one of the aforementioned companions of Sasquiel; let us entrust the secret to him, and add letters marked with his character; and we shall be safe.
+
+*The tenor of the letters, as desired.*
+
+Johannes Trithemius, abbot of Sponheim, to the religious brother Nicolaus Baselius of Durkheim, monk of Hirsau, greetings.
+
+You neglect holy obedience, good brother, and humility; you have weakened the constitutions of Benedict. By the report of all who arrive successively I have learned that you hate good zeal, despise the rule of religion and Catholic obedience, and are occupied with secular works and arts. Good brother, what are you doing? You have troubled us, and you zealously pursue foolish double-tongued men; you love hatred, bitterness, quarrels, and contentions; you hate goodness; you are double-tongued, contentious, proud. Fool, what are you doing? The time is at hand to correct these negligences of yours more quickly according to justice, with zeal; and unless you hasten humbly to us to break the zeal of bitterness with the scourges of humility, we are compelled by office to show zeal against all things that are seditious against the [unclear] of faith and Catholic morals. Farewell from Sponheim, on the day before the Kalends of April, in the year 1500.
+
+When he to whom the letters are sent has received them, being skilled in the art, after recognizing the character of Sasquiel and after the customary preliminaries have been performed, let him say the aforesaid conjuration; and immediately the spirit that was sent will appear and show himself visibly. When he has seen him, let him at once say these words: Fabelmerusyn aueual vearyan cralti penason. When the said spirit has heard these, he will immediately approach and reveal the secret.
+
+*Chapter VI.*
+
+*Whose hour is called Genapherym, and its supreme emperor-spirit is called Saniel, who has under him 110 dukes and companions, with many servants,*
+
+*Sixth*
+
+*THE SECOND BOOK.*
+
+[Spirit table: Parmes / Nastrus / Veneliel; Nestorii / Varmay / Enarym; Manuel / Tulmas / Drusiel; Sagiel / Crosiel / Kathos — with numbers, as printed.]
+
+Here now you have [those] named from the dukes, and numbered from the order of servants, 600. The dukes and counts are called by name, and are prompt enough to obey the one calling, in all things which pertain to the ministry of this art. When, therefore, you wish to operate through them, write on clean paper the characters of the lord of the ascendant of the house [in the] 12th, with the others to be written according to custom; and on the back of it write this conjuration according to the precepts of the art, as you know.
+
+*Conjuration.* Lamedon, mosco, vrsoty, tharuean: dayr, Lays, emel, thebrean, rasoty, bamerson. Then, the things to be subjoined according to the custom of the art being subjoined, say the conjuration itself with strong intention, as is fitting; and immediately the spirits called will appear visibly. Commit the secret not to a count but to a duke—unless perchance you have called a count without a duke; which, although I do not deny can be done, yet according to the precept of the art at least one duke with the counts, as you wish, is to be called.
+
+*The Argument of the secret, as you wish.* Let there be a secret of any kind whatever for you to a friend, which you wish to be common to no other. Therefore [you should] trust neither to letters nor to notaries, because in either case fraud can intervene. Call from the aforesaid Spirits as many as you wish; commit the secret to the more powerful, fearing nothing, because the good are faithful in all things.
+
+*Let the form of the letter be at pleasure.* Johannes Trithemius, Abbot of Sponheim, to the vigorous soldier Henry of Bunau, most studious fellow-philosopher, says greeting. I had lent you my books on condition of returning [them], dearest soldier Bunau; but behold, you have by no means returned those which you ought to have sent back within a short [time]. You act against the law which the Catholic faith has sanctioned concerning a promise: do not delay—do not delay what you promised to repay; it does not befit a good and honest man, sprung from parents and noble forebears, to violate a promise. He had promised to restore [them] most diligently within a short [time]. It is [a mark] of levity to defer a promise as if to the Greek Kalends. Have I not waited long enough, with great benevolence? It is most base to promise the greatest things [and] render the least. Good faith adorns a soldier. What graver crime [than] to deny a loan? Nor does it befit a Christian to be unwilling to keep an agreement. For the constitution of the Christian law bids [us] keep a promise [and] return a loan; and what you desire to be done to you, it behooves [you] also to do willingly to others. I demand back my books, which I had lent to you at your entreaty. Dismiss the longer excuses which you promise to the Greek Kalends. You hold my mind in brief [words]. Consider your honorable name and the noble stock of the Bunaus, and send me back my volumes. Farewell, from Sponheim, the 4th [day before] the Nones of April, in the year of the Lord 1500.
+
+When you have received these letters, or any others whatever, from him who sent the spirit to you, the sign of Barquiel being recognized, observe in the same hour the lord of the ascendant, and write his character with the others on clean paper; and you shall read secretly the conjuration written on the back, as is fitting; and immediately the spirit sent will appear, to whom, as soon as you see [him], say these words: Mefarym, burne, theor, alueas, casuean, cralti, lierto, aply, charmoys. These [things] said, the spirit sent, drawing nearer, will faithfully reveal to you the secret committed to him. But see that you be strong, constant, and undaunted in all things.
+
+*CHAPTER VIII.* Whose hour is called Iafanym, and whose angel is called Osmadiel, who has under his command 10 dukes, 100 counts, [and] of servants the number is uncertain. The eighth hour of the day is called Iafanym, and its principal spirit is called Osmadiel according to the Picatrix in magical [matters], who has under his command 10 dukes, 100 counts, [and] innumerable servants deputed not only to the operation of our Steganography, but also to many magical experiments. And Solomon the Jew, surnamed Hermes, says in the book on the nature of spirits that all these to the aforesaid Osmadiel
+
+[unclear] you delay the *Steganographia*, which you promised [unclear] to return: it is not fitting for a good and honorable man, born of parents and ancestors of noble rank, to violate a promise. For he had promised to restore it very carefully in a short time. It is fickleness to defer a promise, as it were, to the Greek Kalends. Have I not waited with great goodwill long enough? To promise very great things is most shameful for one who gives back the least. Good faith adorns [unclear]. What more serious offense than to refuse what has been promised as a loan? Nor is it fitting for a Christian to be unwilling to keep an agreement. The ordinance of the Christian law commands one to keep a promise, to repay a loan, and what you desire to be done to you, you ought willingly to do also to others. I demand back my books, which I had lent and entrusted to you when you entreated me. Put aside the longer excuses which you promise for the Greek Kalends. You hold my [unclear] with brief words. Consider your name and your honorable family of [Bunawensius?], and send my volumes back to me. Farewell from Sponheim, the fourth day before the Nones of April, in the year of the Lord 1500.
+
+When you have received these letters, or any others whatever, from the one who sent the spirit to you: when the sign of Barquiel is known, observe in that same hour the lord of the ascendant and write its character, together with the rest, on clean paper; and you will read secretly the conjuration written on the back, as is proper; and immediately the spirit that was sent will appear. As soon as you have seen him, say these words to him: Mefarym burne theor alueas casuean cralti lierto aply charmoyS.
+
+When these have been said, the spirit that was sent, approaching nearer, will faithfully reveal to you the secret entrusted to him. But see that you are strong, steadfast, and undaunted in all things.
+
+*Chapter VIII.*
+
+*Whose hour is called Iafanym, and its angel is said to be Osmadiel, who has under his command 10 dukes, 100 counts; the number of servants is uncertain.*
+
+The eighth hour of the day is called Iafanym, and its principal spirit is named Osmadiel, according to Picatrix in the magical arts. He has under his command 10 dukes, 100 counts, and innumerable servants assigned not only to the operation of our Steganography, but also to many magical experiments. And Solomon the Jew, surnamed Hermes, says in the book *On the Nature of Spirits* that all those dukes and counts, obedient and subject to the aforementioned Osmadiel, are accustomed to come in various transformations at the will of the operator, just as they have been commanded by the operator. But now let us set down the names of some of them.
+
+R. R. R.
+
+Sarfiel Demarot Mariel 10 10 100 100
+Amalym Ianofiel Remasyn 10 10 100 100
+Chroel Larfuty Theoriel 10 10 100 100
+Mesial Vemael Framion 10 10 100 100
+Lantrhoitz Thribiel Ermiel 10 10 100 100 Of the dukes, five, and of the counts, ten, we now have named in the table; these are sufficient for us for every operation of this hour. But when you wish to operate through them in Steganography, write on a clean slip with the customary characters and conjurations; and with the first things appended and to be appended below, say the written conjuration itself, which is as follows.
+
+*Conjuration.*
+
+*O* Smodael aneor ersoty neas, hays layr Caphrayn thelreas mearpenary.
+
+When this song of conjuration has been said, the spirits called will be present, ready and obedient for all things. Entrust the secret to a duke, not to a count, unless the former is absent, because it must always be entrusted to those intervening in the more principal rank.
+
+*Subject of the secret, at will.*
+
+*If* there is for us any secret whatever which we wish to know concerning a friend far away and absent, and such that we do not wish it to come to the knowledge of anyone else, as can often happen. Therefore, lest either the letter-carrier reveal the mystery on some occasion, or the letters come into foreign hands, let us operate, and through the spirit we shall be secure.
+
+Johannes Trithemius, Abbot of Sponheim, of the Order of Saint Benedict, to Lord Conrad, Abbot of Saint Stephen at Würzburg, sends greetings.
+
+A rumor has gone out concerning the abbey of [Lyu purgensi?], that he has dismissed brother Johannes of Feilsdorf, a faithful man and very experienced in temporal affairs;
+
+*Of the Steganography* ...and introduced new Pantimoran monks and appointed them his officials. I greatly marvel at the useless deed. Nevertheless, when I recall the custom of the Limburgers, I do not know what I should say. For in temporal matters [unclear] I see that they dismissed a faithful man because he was reproving their deeds; they ought to have given thanks to our savior Jesus Christ for the fidelity of so great a brother, who could have disclosed their necessities. Wretched men, why do you drive away a good and necessary helper? What shall I say? I do not praise the departure of so useful a brother, and one most skilled in temporal affairs, who would have aided the Limburgers most quickly. I grieve deeply that the Limburg monks were so foolish, who dismissed an excellent man and appointed as stewards monks of no value at all in temporal matters. Machari Abba, it was not fitting so to treat the man. First you praised him; now you have rejected a man very necessary to you, to be placed after no one. I confess that, if Christ had given him to me, as befits a Christian I would now give the greatest thanks and would take care that he never departed. But you, ungrateful to Christ, preferred to dismiss a faithful man, worn out by your foolish counsel, lest, with your affairs abandoned, there seemed to be hope of recovery. From Spanheim, 3 Nones of April, 1500.
+
+When the man to whom these letters, or any others, are sent has received them, marked with the sign of Osmadael, being skilled in the art, after first doing what must be done beforehand, let him say the prescribed conjuration, and soon the spirit sent will appear visibly. When you have seen him, say: Menason aproysy elmano thulneas assierto mauear veneas cralnoti permason. When these words have been spoken, the messenger spirit will reveal the secret to you.
+
+*Chapter IX, whose hour is called Karron, and the name of its supreme angel is Quabriel, having under his command 10 dukes, 100 counts; of the servants there is no certain number.*
+
+The ninth hour of the day is called Karron, and its chief spirit is called Quabriel, who has under his command many and almost innumerable dukes, counts, and servants. From these, for the service of this art of ours, Steganography, there have been appointed 10 from the dukes and 100 from the counts, who have many servants assigned to themselves. In the first order there are 10; in the second 20; in the third 30; in the fifth 500; in the sixth 600; in the seventh 700; in the eighth 1,080; in the ninth 90,000; and in the tenth there are 100,000. But the spirits are rarely called through all of them; and if they have been called, not all, but some, together with their dukes and counts, are accustomed to come according to the emperor's command. Raziel the Great, however, said in his book on illusions and transformations that the number of these spirits is very great, and that each one most diligently observes his orders in all ministries and offices. Solomon Hermes the Jew, on the nature of spirits, says that these are accustomed to appear in that form which the practitioner in the art has described, according to his own will. But now let us set forth the names of some of the dukes and counts.
+
+R. R. R. R.
+Astroniel Kranos Trubas 10 10 10 100
+Charmy Menas Xermiel 10 10 10 100
+Pamory Brasiel Lamefon 10 10 10 100
+DamyeI Nefarym Zaznor 10 10 10 100
+Nadriel Zoymiel Ianediel 10 10 10 100 Here now we have named 5 dukes and counted 10 counts, from his appointed servants 650, which will suffice for us. But when you wish to work through these spirits in the ninth hour of the day, observe the lord of the ascendant, and write on clean paper those things that have been commanded according to the instruction of the art, and on its back the conjuration: Quabriel, odiel, amear, caynalco mean chyr parcos payr peray, thubro menafry.
+
+Then, after first doing in the customary manner what must be done beforehand, say the conjuration itself, as is prescribed in the art, and immediately the spirits called will be present, in whatever form you wish, ready and faithful for all things. Entrust the secret to the more powerful one.
+
+*Subject of the Secret.*
+
+Let the secret be anything whatever for a friend, which we wish to be most secret and in no way revealed to anyone except him. Therefore let us call from the above-mentioned dukes and counts one or two, and, according to the instruction of the art, let us entrust the secret to the more powerful one. Let us form 104
+*Steganography*
+Let us form letters at will.
+
+John Trithemius, abbot of Sponheim, of the Order of Saint Benedict, to the religious father John Hugonis, guardian of the Friars Minor of Saint Francis in Kreuznach: greeting and charity.
+
+Reverend and venerable father, know that you readily grant to friends all fitting things. Therefore I humbly beg that, in consideration of Catholic piety, you not take it ill that your zealous brothers have been detained rather long with us in the greatest charity; for it was necessary, at my entreaty, that they remain. It was a glorious joy for us, as all of us rejoiced without fault. We exulted in the Lord with spiritual joy, giving thanks to almighty God with good zeal. What, I ask, is more religious than such an assembly, where nothing idle is said, nothing unjust is zealously pursued? May Christ Jesus, savior of all, make them rejoice in everlasting glory. Glorious zealots for the virtues set nothing before truth. We rejoiced with holy joy, praying that you receive the aforementioned brothers peacefully and lay aside every zeal of bitterness. Farewell. From Sponheim, 3 Nones of April, in the year of the Lord 1500.
+
+When you, being skilled in the art, have received these letters or any others marked with the character of Gabriel, after the preliminary things have first been done, say the prescribed conjuration. When it has been said, you will at once see the spirit that has been sent; when you see him, say these words: Mesraym paslotiel vear reneam cralt; thio phroysy ma meat hamorfy. When these have been said, the spirit that has been sent will approach calmly and will tell you the secret entrusted to him.
+
+*Chapter X*
+
+*Whose hour is called Lamarhon, and*
+
+its supreme commanding spirit is called Oriel, who has under his command many dukes, counts, and servants.
+
+[unclear]
+
+The tenth hour of the day is called Lamathon, and its supreme angel is called Oriel, a great and powerful emperor, who, according to Solomon the Jew, has under his command many dukes, through whom wondrous experiments in magic are performed in the tenth hour of the day. Those dukes and those counts, who with their servants have been appointed for the operation of steganography, have among themselves ten orders.
+
+*The Second Book*
+
+109 In the first order there are 10, in the second 20, in the third 30, in the fifth 500, in the sixth 600, in the seventh 700, in the eighth 800, in the ninth 900, in the tenth 1000. But we, taking only from the first five, are content in our operations. If anyone is pleased to know the names of more, let him call one of those named in the table and question him, and he will hear whatever he wishes; and however many he wishes to know, he will know them perfectly from him.
+
+R. R. R. R.
+
+Armosy Lemur Xantros 10 10 100 100
+Drabiel Ormas Basilon 10 10 100 100
+Penaly Charny Nameron 10 10 100 100
+Mesriel Zazyor Kranoti 10 10 100 100
+Choreb. Naueron Alfrael. 10 10 100 100 Here we have five from the dukes of Oriel and ten from the counts, with the servants assigned to them in their turns, in the number 1100, who suffice for us for every operation of this hour. But when you wish to operate through them in this hour of the day, after first doing the preliminary things in the usual manner, and after writing the things to be written on clean paper, and after arranging this conjuration on its back, do the rest, as you know.
+
+*Conjuration*
+
+Oriel burnadiel irasmy crismean pormy ersoti amear medusen. After you have completed that conjuration according to the right instruction of the art, you will see the duke present with the other spirits called; entrust the secret to him.
+
+*Statement of the Secret*
+
+Let there be a friend to us, whose good we favor; we fear that he is to be supplanted and circumvented by some circumcellion. Therefore we desire that he be advised. We cannot do it by messengers in open words; similarly, we dare not do it by letters, lest they come into someone’s hands. Therefore, so that we may be safe and our secret may always remain hidden, let us call one spirit at least from the aforementioned dukes. He comes, obeys, and faithfully carries the message.
+
+O Epistle 166 *Of the Steganographia* Let the letter be formed as desired.
+
+John Trithemius, abbot of Sponheim, sends greetings to Henry de Bunaw, knight of the golden spur, distinguished philosopher and mathematician.
+
+Since you are very devoted to the humane arts, you will rejoice, I think, greatly that you have found a new companion in studies. The man who will present you these letters is a man of great knowledge, a supreme philosopher, a most subtle arithmetician, a most eloquent rhetorician, a most profound mathematician, and in every way most excellently learned. He speaks most elegantly, shining with Ciceronian fluency. Were you not very much my friend, I would have kept so great a man entirely for myself, since by experience of him I have found him a most learned philosopher. I especially favor you; receive gratefully the philosopher whom, moved by singular love, I send to you. O would that all our students were such, who with timid heart despise noble knowledge. That man searches out the study of philosophy and other sciences, and the deepest depths of nature; he treats of them assiduously and continuously, and penetrates them most acutely. Therefore, Henry Bunaw, remember for Christ’s sake to treat the man with a generous countenance. Farewell from Sponheim, 2 November, in the year of the Lord 1500.
+
+When the friend to whom they are sent, skilled in this science of steganography, has received the letters, let him do all things that are to be done according to the art, and let him add the prescribed conjuration, as is customary. And when he has seen the sent spirit present, let him say these words to him among the more powerful spirits: Camyn aparsy aslotiel omeat reneas vean triamy cralty penafon. When these have been uttered, the spirit will at once come nearer and will reveal the secret to him.
+
+*Chapter 11*
+
+*Whose hour is called Maneloym, and its supreme emperor is called Bariel, who has under his dominion many princes, dukes, counts, and servants.*
+
+The eleventh hour of the day is called Maneloym, and its angel, the supreme emperor, is named Bariel, who, as Hermes the Jew writes, has many spirits under his command, through whom wondrous things are done in the eleventh hour, in various experiments. From these, many have been assigned to the operation of steganography according to their orders. In the first order there are 10, in the second 20, in the third 30, in the fourth 40, in the sixth 600, in the seventh 700, in the eighth 800, in the ninth 900, in the tenth 1000.
+
+*Book Two*
+
+All these are sent by turns and according to their orders into the service of this art. Among them are dukes and counts with their servants, very many in number; it is not easy to bring forth all their names, nor indeed is there any need, since it is enough to know the names of a few, and the operator in the art can always learn more names of others from the report of one spirit. And note that, according to Raziel, all these spirits form and transform themselves according to the will of the operator, so that in whatever form he wishes to see them, he should command before the conjuration in the manner prescribed, and they will obey him most promptly in all things. But now let us set forth the names of some, sufficient for us.
+
+R. R. R. X.
+
+Almarizel Menahel Almas 10 10 100 100
+Prasiniel Demasor Perman 10 10 100 100
+Chadros Omary Comial 10 10 100 100
+Turmiel Helmas Temas 10 10 100 100
+Lamiel Zemoiel Lanifiel 10 10 100 100 Here now we have named 15 of the spirits of Bariel, of whom five are dukes and 10 counts, who have a number of servants, 1100, sufficient for our operations of the eleventh hour of the day in steganography. Therefore, when you wish to work through these spirits, observe the lord of the ascendant with the rest, according to what we have said above, and write this conjuration with the others on clean paper, as is customary in this science.
+
+*Conjuration*
+
+Bariel mylan theory madruson alfayr dreschym taparoys mear moas layr penason. After the preliminaries have been performed, say this conjuration as is proper, and immediately the spirits called whom you have summoned will appear. Entrust to them the secret, whatever you have, 101
+*Of the Steganography*
+*The Establishment of Any Secret Whatever*
+
+We have a secret for a friend, or for anyone else skilled in our art, which we cannot communicate either by letters or by a messenger, because we fear danger in either case. Therefore we call a spirit; we entrust the secret to the more powerful one, and in all respects we are safe.
+
+*The tenor of the letter, at pleasure*
+
+Johannes Trithemius, Abbot of Sponheim, of the order of Saint Benedict, to brother Quirinus, a monk of Corbie in France, greeting.
+
+Concerning the mother of the ever-Virgin Mary I send my prayer, Quirinus, which you recently requested: Hail, most kindly mother Anne, most radiant parent of the Virgin Mary: you, most [unclear] helper of all innocents; you, noble refuge of those seeking you; quiet blessing of holiness. Hail, most gentle advocate of the poor, most [beautiful?] consoler of those who groan, most adorned storehouse of virtues. Hail, [unclear] refresher of the sorrowful, most health-giving medicine of the sick, and most renowned promoter of faithful Christians. Obtain pardon for us who pray; soften Christ, the dreadful judge; intercede for your servants, that [he/they] may attain blessedness. With you interceding, we ask that in his kindness he receive us wretched ones. Amen. On the eighth day before the Ides of April, in the year of the Lord 1500.
+
+When the person to whom the letter is sent, being skilled in the art, has received it, let him first attend to the character of the hour appended to the letter. Once this is known, let him operate through the lord of the ascendant of the hour in which he received the letter, together with the other precepts in the art. Then let him add the prayer written above, in the manner and order in which it is proper, and immediately the spirits sent will appear. When you see them, these words are to be said to the chief one among them: chamerusin maslotiel vear reneas liernoty trismy penason. When these words have been spoken to the spirit more powerful than the others, who is easily recognized by his dress and crown and always precedes the others, he will at once reveal the secret in the ear,
+
+*Chapter*
+
+*Book Two*
+109
+*Chapter XII*
+*Whose Spirit, a Great Emperor, Has under His Dominion Many Princes, Dukes, Counts, and Servants. The Hour Is Called Naybalon; Its Spirit Beratiel.*
+
+The twelfth hour of the day is called Nahalon; its angel, the supreme emperor, is called Beratiel, who, according to Solomon the Jew, has under his command almost countless spirits appointed for various operations. Out of all these, different ones in different orders are appointed for the operation of Steganography. In the first order there are dukes and counts 10; in the second 20; in the fourth 30; in the fifth 500; in the sixth 600; in the seventh 700; in the eighth 800; in the ninth 900; in the tenth 100; in the eleventh 200; in the twelfth 300. All these, by turns in their orders, with an infinite multitude of servants, are appointed for the operations of this art; from among them the intelligent and perfect operator in the art will be able to summon whom and as many as he wishes in the twelfth hour of the day. All the princes, dukes, and counts of this hour, according to the opinion of Raziel, assume forms at the operator’s pleasure.
+
+R. R. R. R.
+Camaron Plamiel Edriel 10 100 10 100
+Astrofiel Nerosiel Choriel 10 100 10 100
+Penatiel Emarlon Romiel 10 10 10 10
+Demarac Quirix Fenosiel 10 10 10 10
+Famaras Sameron Hamary 10 10 10 10 Here now we have named from the spirits of Berathiel fifteen in number, of whom five, through the same number of orders, are dukes, and ten are counts; joined to them are 1,100 servants for various operations in the secrets of magic. Therefore, when you wish to operate through one of them in the last hour of the day, observe the lord of the ascendant of that hour, and the house of the twelfth; write the character of each, together with the other necessary things, on a clean little sheet, and on its back this conjuration.
+
+*The Conjuration*
+
+*Of the Steganographia*
+
+*Conjuration.*
+
+Berathiel Odiel irsoti rodu dreor ranezo melros ethiel aty nodiel hayres penafon. Then, after all the preliminaries that are to be set forth have been set forth according to custom, say this conjuration in the proper manner, and at once the spirits called will appear. Then entrust the secret to the more powerful one, according to the instruction of the art, and he will faithfully obey in all things.
+
+*A theme for any secret whatsoever, as desired, that occurs.*
+
+We have a friend absent far away; we know that a danger threatens him, which is hidden from him. We wish to warn him, but for certain reasons we do not dare to do so openly. Therefore we call the spirits assigned to this operation according to the hour, and safely entrust the secret.
+
+*We seal letters, composed as desired, with the sign of the spirit.*
+
+Everyone who boasts of temporal things is by no means left to be called virtuous, and he who loves transitory things cannot be a lover of Justice; for Catholic integrity detests a man gaping after desires. For the holy religion of the Christian faith forbids love of the world to its people, because he who loves worldly joys loses heavenly happiness. A Catholic not living in a Catholic manner is shown to have denied Christ; and he who loves temporal things is not said to be a good Catholic. He who loves the creator seeks the joys of spiritual things. The lover of Christ scorns all the pleasures of the world, and does not care for unstable glory and riches. But the lover of the world hates virtues; he cares nothing for future joys. Alas, what are you doing, Christians intent on vain things? You think things that are not honorable, and do things contrary to religion. Do not, wretched ones, I beg you, do not love the vanities of this world that will soon perish. Take care rather to love Christ, that he may receive us into the heavenly kingdoms.
+
+When one skilled in the art has received this little prayer written above, or any others, sealed with the character of Berathiel, let him carefully do everything that is prescribed in the art, and let him say the conjuration. And when he has seen that the spirits, who will come without delay, are present, let him say to the more powerful one, who advances crowned: Famerusyn melysno alny vemoby dreary drymes charsony. When these words have been said, [unclear]
+
+*Book Two.*
+
+[unclear] the spirit, and he will faithfully tell the secret into the ear of the operator. But the operator must be steadfast and not afraid, because they are good spirits and harm no one well instructed in the art. But if any of the unskilled should presume to approach, he would not escape danger.
+
+*Chapter XIII.*
+
+*Whose hour is Vobum Malharien, and its supreme angel is called Sabrathan, who has under his command princes, dukes, counts, and many servant spirits.*
+
+The first hour of the night is called Omalharen, and its angel is called Sabrathan, who has many other spirits under him, serving different operations at their proper times and orders, as Hermes Solomon the Jew, most experienced in magical matters, bears witness. From these, many have been assigned by turns to the operation of our art according to their orders. For in the first order there are 10, in the second 20, in the third 30, in the fourth 40, in the fifth 500, in the sixth 600, in the seventh 70, in the eighth 80, in the ninth 90, in the tenth 100. All these are sent into the ministry of secrets by their turns and hidden orders, about which we have neither full knowledge nor do we speak.
+
+R. Domaros, 100. R. Ramefiel, 100. R. Hayzeym, 100.
+R. Amerany, 100. R. Omedriel, 100. R. Emalon, 100.
+R. Penoles, 100. R. Frazedac, 100. R. Turtiel, 100.
+R. Mardiel, 100. R. Chrasiel, 100. R. Quenol, 100.
+R. Naftul, 100. R. Dornason, 100. R. Kymaliel, 100.
+
+Here now we have named from the spirits of Sabrathan 5 dukes and 10 counts, who have assigned to themselves by turns their orders of servants, 2000. Therefore, when you wish to work through these, observe the lord of the ascendant, write his character with the other necessary things on a clean sheet, and this conjuration on the back.
+
+*Conjuration.*
+
+Sabrathan odiel meltos rhupis othia elroz adiel methiel mear nasutiel lafian irsoti brestion dreor chametfon. Then, after the preliminaries have been set forth.
+
+*Steganographia.*
+
+Once the things to be sent ahead in the customary manner have been sent ahead, as soon as you have spoken the prescribed conjuration, you will see the summoned spirits present; with them do whatever you wish, according to the precepts of the art.
+
+*Let the secret be as desired.*
+
+It will be a great secret, and a difficult secret, which would do harm if made public; and for that reason it must not be entrusted either to letters or to a notary, but the service of the spirits who preside over the hour in which you are working should undertake it. It is not safe to summon spirits in trivial matters; but where human services fail, theirs should be sought in the art.
+
+*Let the tenor of the letters be as desired.*
+
+Johannes Trithemius, abbot of Spanheim, to brother Nicolaus Basfelius, monk of Hirsau, with greeting, says the present prayer.
+
+Almighty God, exalted Creator of all things, who through Christ redeemed us Christians, gave Catholics the zeal of his love, through the light of faith making known to believers the remission of sins. Moreover, he most generously gave his beloved Son, the gracious light, to free all of us believers, enclosed in the power of the Tartarean king, and to destroy the gloomy prison and most cruel Zabulus. What can we Christians worthily render for the sufferings of Christ, we weak men, professing the Catholic faith without works of righteousness?
+
+Therefore, praying most devoutly to you, our Redeemer, we praise you with the highest praises, saying: Praise be to you, eternal light, most gracious Savior of all, who redeemed us by your blood. [Look upon?] our frailty, Jesus Savior, and pour into our hearts the zeal of the Catholic faith. Holy is your zeal: it works compunction in the hearts of those seeking you, Christ, most gracious Savior. O eternal light, sweetest Jesus, illumine the darkness, [unclear] servant, with your accustomed goodness. Jesus, eternal Savior, save our souls; may you grant us eternal joys. Christ, hear your humble servants, and those most unworthy of all. Grant us good zeal as we humbly ask, Amen.
+
+We wrote this on the eighteenth day before the Kalends of May, in the year of the Lord 1500.
+
+*Book Two.*
+
+When the one to whom the letters are sent, being skilled in the art, has received them, let him observe and write down the lord of the ascendant of that hour, together with the other things prescribed in this art; and, after the things to be sent ahead have been sent ahead, let him say the prescribed conjuration, and immediately the spirits sent will appear visibly to him. As soon as he sees them, let him say these words to the more powerful one: chameros burnean aslotiel vear reneas cralty penason. When these have been said, he will reveal the secret into his ear;
+
+*Chapter XIV.*
+
+*The second hour is called Panezur, and its angel, the supreme emperor, is called Tartys, who has many subordinate princes, dukes, counts, and servants.*
+
+The second hour of the night is called Panezur, and its angel is called Tartys, having under his command many princes, dukes, counts, and subordinate servants; when they are summoned, he is accustomed to send them, by their turns and orders, to the various services of those working in the hidden secrets of nature. Of these, twelve orders have been assigned to our knowledge of Steganography, which suffice for us for every operation. For in the first order there are 10; in the second, 20; in the fourth, 40; in the fifth, 50; in the sixth, 60; in the seventh, 70; in the eighth, 80; in the ninth, 90; in the tenth, 100; in the eleventh, 10,000; in the twelfth, 100,000.
+
+Yet it rarely happens that an operation is performed through all these spirits, because there is no need to be occupied with the higher ones, since the lowest suffice for us abundantly for all things; unless someone, well instructed in the art and wholly perfect, should wish to see the princes of all the aforesaid orders and to know their names: he could summon them all in order.
+
+| R. | Almodar | PermaZ | Gabrynoz | 100 | 10 | 100 | 1 |
+| | Famoriel | Vameroz | Mercoph | 100 | 10 | 10 | 10 |
+| | NedroZ | Emaryel | Tameriel | 100 | 20 | 100 | 10 |
+| | Ormezyn | Fromezyn | Venomiel | 140 | 30 | 100 | 10 |
+| | Chalriz | Ramaziel | Ienaziel | 100 | 20 | 100 | 20 |
+| | Praxiel | Granozyn | Xemyzin | 100 | 50 | 100 | 10 |
+
+*Steganography*
+
+Here we have named, from the dukes of Tartys, 6; from the counts, 12; and servants also, counted and distributed by watches and ranks, 1,320, who are sufficient for us at this hour for an experiment of the art. And note that, according to Solomon and Ratiel, all those dukes and princes of Tartys are well disposed and most ready for obedience; and in whatever form they shall be ordered to appear, they gladly assume it. Therefore, when you wish to work in this science, carefully observe the lord of the ascendant together with the other things that we prescribe, and write everything that is to be written with this conjuration.
+
+*Conjuration.*
+
+Tartys chrybes faziel yrsoti haelnot dreor adeuar afy mearo Veny fatu pemerson. Then, when everything has been completed most diligently, and the conjuration has been read in the proper manner, as is fitting, the spirits called will soon be present, ready for your command.
+
+*Let the secret be whatever occurs to us, great, difficult.*
+
+The secret that we wish to communicate to a friend through the spirits should be whatever, according to the time and the variety of affairs, shall have occurred to us: so that it is not trivial, and such as otherwise can safely [unclear].
+
+*Johannes Trithemius to the nuns on Mount Saint Rupert, adorning the Catholic faith with shining virginity: continually to merit eternal happiness by the most holy zeal of religion.*
+
+By the mercy of the eternal King, we providently send to you, after he has long been awaited, a man of great experience in temporal matters, Johann, native of Raunenstat, for a long time the reverend and zealous abbot of the monastery of Violsdorf, and freely resigning that abbey. On account of him I went, as I had promised you, to the monastery of Lunapurg, in which he was serving Christ, occupied with continual prayers and readings of the holy scriptures, together with the monks of the same monastery; and I asked that he come down to your convent and undertake the care of temporal affairs, and become procurator and cellarer, the abbot of Lympurg having changed his mind with his usual instability.
+
+[unclear]
+
+*Book Two.*
+
+I have made a large catalogue concerning ecclesiastical writers, which I recently presented for your fraternity to see; and, concluding it too hastily, I confess that I passed over some very famous men: not because I begrudged their names the benefit of the catalogue, as a puffed-up critic now accuses me, abusing the catalogue with very foolish words, who thought that I had failed to mention his own men out of envy alone, which is utterly false. For indeed I wrote about the conception of the most holy Mother of God and affirmed that she was always most beautiful, without the blemish of original transgression; but the puffed-up critic, wishing puffedly to censure this, said, with the vainest rashness against Catholic observance, that the most resplendent Virgin had existed stained by guilt of original fault. It is rash to wish to defile the most blessed Virgin. But the most renowned doctors of Cologne, wishing to root out the little brother's infamous opinion, contrary to truth, cited him and compelled him to retract his empty tales; asserting the most blessed Virgin, and also confirming by statute, that she ought to be believed most pure, and at no time, however brief, to have been subject to original foulness. I wished to write these things to you, since you love truth, so that you may avoid the reproachers of the most blessed Virgin. Farewell, the sixteenth day before the Kalends of May, in the year of the Lord 1500.
+
+But when the person to whom the letters are sent receives them, being skilled in the art, let him observe the sign of the principal spirit, so that he may know whom he ought to summon according to the changes of the hour. Then let him observe the lord of the ascendant in that very hour in which he receives the letters, together with the remaining disposition of the heaven through the twelve houses of the Zodiac, omitting nothing at all [unwashed?] which has been prescribed. When the conjuration has been spoken, when he has seen the spirit present, let him say the following words: chamerusyn maslotiel vean reneas cralty thyrmo venear penarson. When these have been said to the principal spirit, he will soon come nearer and will reveal into his ear the secret entrusted to him.
+
+*Chapter XVI.*
+
+*Whose hour is called Ramerzy, and its angel, the supreme emperor, is called Iefischa, who has under his command princes, dukes, counts, and many ministerial spirits,*
+
+*Fourth.*
+
+*Steganography*
+
+The fourth hour of the night is called Ramerzy, whose angel is named Iefischa, having under his command many princes, leaders, and ministering spirits, who, like those whom we described in the preceding chapter, are distributed by turns and orders into twelve groups. For in the first order there are 10, in the second 20, in the third 30, in the fourth 40, in the fifth 50, in the sixth 60, in the seventh 70, in the eighth 80, in the ninth 90, in the tenth 100, in the eleventh 1000, in the twelfth 10000. And from these twelve orders, by their turns, spirits are sent to us for service in the operations of the art of Steganography. Of these we shall now name some.
+
+R. R. R. R.
+Armosiel Rayziel Lamediel 10 100 100 1000
+Nedruan Gemezin Adroziel 10 10 100 10
+Maneyloz Fremiel Zodiel 10 10 100 1
+Ormael Hamayz Bramiel 10 1 100 1
+Phorfiel Iapuriel Coreziel 10 1 100 1
+Bimezyn Iasphiel Enatriel 10 2 100 3 Here now we have named from the spirit Iefischa 6 leaders and 12 counts, to whom are assigned 72.60 ministering spirits, who by their turns and orders are sent in attendance upon the one working in the art. These princes, according to the saying of Solomon the Philosopher, are multiform; and whatever forms they have been commanded to take, they assume. Therefore, when you wish to work through them in the fourth hour of the night, observe the lord of the ascendant and the whole configuration of the sky, and do everything according to what we prescribe to you, writing everything on a clean slip, and on its back this conjuration.
+
+*Conjuration.*
+
+Iefischa osiel mea pathyr lays theor dreochis fazan moab lofeas ersoti breo pornys tayr penarson. Then, after adding the things that must be added, when you have pronounced that conjuration in the proper manner, form, and order, the spirits will appear visibly in whatever form you have commanded, ready and willing for all things.
+
+*A secret is made at will. A secret*
+
+*Book Two.*
+
+Whatever secret occurs to you at the time, which you wish an absent person to know in this fourth hour of the night, you may safely entrust to the spirits, provided it is such a thing as you cannot safely disclose to him either by letters or by messengers. For those things that we can disclose without danger either by letters or by messengers, we must by no means disclose through the ministry of spirits. But whoever attempts to summon spirits on account of trivial matters and secrets that can be disclosed without danger by letters or messengers will without doubt incur loss and inconvenience, with danger.
+
+*The tenor of the letters at will.*
+
+To the venerable father in Christ, steward of the people of Limburg, the religious lord called Ioannes Wessdorff, Ioannes Ovis, humble abbot of Sponheim, sends the joys of heaven.
+
+The nuns of Saint Rupert desire you with exceeding eagerness as their governor, and with humble goodwill ask you to undertake the governance of the temporal affairs of that monastery. To serve the devout virgins of Christ is praiseworthy and meritorious. You have as good [unclear] of the spiritual affairs of the same community the most renowned, [unclear], beloved by all, well reputed for the observance of monastic religion, and notable to all people, whose life is deservedly most pleasing to Christ, the excellent abbot of the monastery of Saint John. He is most learned in the letters both of Christians and of pagans, most studious, most learned; he is one who notably far surpasses the wisdom of all human beings. He knows excellently how to rule the flock entrusted to him, and he is a zealous guardian of the virgins of Christ, whose cloister he preserves most firmly. Do not be afraid to serve such honorable nuns under him, who knows how to govern the brides of Christ according to the monastic law with excellent discretion, and who, by virtue and zeal of the Christian faith, will gladly help you in necessity. Since you have as a familiar friend this man so illustrious and kindly, this shepherd, I ask that you willingly undertake the helm of such religious virgins. Christ will reward the laborer with eternal joys.
+
+The nuns
+
+*THE SECOND BOOK.*
+
+Samelon, Nameton, Habalon — 100, 100, 100.
+
+Here now we have, from the spirits of Abasdathon, 40 named, of whom the first twelve in their orders are dukes, the remaining are counts; and there are two of each order, namely one duke and one count. We have 3200 ministerial [spirits] deputed, whom they use by turns in diverse magical operations. And Solomon and Raziel, wise men and most [skilled] in magical [arts], say that the princes of Abasdathon are wont to appear in whatever form they have been bidden by the one who operates; which, since we have frequently experienced [it], confesses itself founded on truth. When, therefore, you wish to operate through them in Steganography in the fifth hour of the night: observe the lord of the ascendant, and write both it and the whole disposition of the heaven on a clean sheet, with the other [things] we have taught, and on its back this conjuration.
+
+*Conjuration.* Abasdarhon, morca, lafias, tharuean, buel, dreschin, tayr, moab, etsoty, layr, pornys, theori, mean, asar, penason. Then, the things to be subjoined being subjoined, soon, as soon as you have said the conjuration itself, the spirits whom you have called will appear to you, ready for all things which you command them.
+
+*The Argument of the occurring secret.* Whatever secret you have, which otherwise you cannot without danger make known to a friend far off or [elsewhere], commit [it] to the more powerful of the spirits by the rite and form by which it behooves according to the art, fearing nothing, because they are well-disposed and faithful.
+
+*Let the letters be formed at pleasure.* The Catholic faith saves no one who despises the ardor of divine love for the redemption of the soul. But many men are now found glorying in the Catholic faith, yet few have the works of the Christian faith; and a faith [without works] dies. Many believe, but very few observe the commands of God. Alas, the zeal of believers is weak—which even the unbelieving can have stronger, and very many do have. The gentiles and [those] men shall be tortured by the bread of Hell who do not believe that our Savior, the Son of the Omnipotent, was made man. But all shall be tortured with graver punishments who believe that the Son of God came into the world, and act [from] zeal for human redemption, but by no means adorn the Christian faith with holy works; and, ever wrapped in sins, prefer the honors of the world to eternal blessedness, zealous for impious actions, and staining the purity of the faith by private morals against obedience. But the lovers of God, who have a right zeal for the Christian faith, prefer nothing to God, imitate Christ, flee sins, [and] despise riches and honors. Now therefore attend to these words: [if] you glory in the faith, love God, and you shall have the reward of blessedness, [being] zealous for justice. If you love the vanities of the world against the honor of God, you shall receive the prize of those zealous for iniquity—the horrors of hell. Written the 15th [day before] the Kalends of May, in the year of the Lord 1500.
+
+When he to whom they are sent—[one] skilled in the art—has received the letters marked with the character of Abasdarhon, let him at once consider the lord of the ascendant and the whole disposition of the heaven, observe [it], and write [it] with the tenor of the conjuration and the other necessary [things] on a clean sheet; and the things to be subjoined being subjoined, and the conjuration said, when he sees the spirits sent standing by, let him say to the more powerful these words: Chameron, massotiel, caseuij, renean, pornas, thilmeuj, penason. Which said, [the spirit] will soon draw nearer and faithfully reveal the secret committed to him to the [ear?] of the operator.
+
+*CHAPTER XVIII.* Whose hour is called Thaazaron, and whose Angel is called Zaazenach, presiding over many spirits. The sixth hour of the night is called Thaazaron, and the name of its Angel is Zaazenach, who has under his command princes and dukes, counts and ministerials almost innumerable, who preside over diverse magical operations by their turns and orders. In the first order there are 10, in the second 20, in the third 30, in the fourth 40, in the sixth 50, in the seventh 70, in the eighth 80, in the ninth 90, in the tenth 100, in the twelfth 16000. And when [one] wishes [for] them, they are prompt and altogether obedient, as the aforesaid wise men testify, and we have experienced. Amonazii 122 OF THE STEGANOGRAPHY ... but with heavier punishments all those who believe that the Son of God came into the world and commit murder out of zeal for human redemption, but by no means adorn the Christian faith with holy works, and, always entangled in sins, prefer the honors of the world to eternal blessedness, pursuing impious actions and staining the purity of faith by private morals contrary to obedience. But the lovers of God, who have the right zeal of the Christian faith, prefer nothing to God, imitate Christ, flee sins, and despise riches and honors. Now therefore attend to these words, you who glory in faith: love God, and you will have the reward of blessedness, pursuing righteousness. If you love the vanities of the age against the honor of God, you will receive the reward of those who pursue iniquity: the horrors of hell. I wrote this on the fifteenth day before the Kalends of May, in the year of the Lord 1500.
+
+When the person to whom letters marked with the character Abasdarhon have been sent, being skilled in the art, has received them, let him at once consider the lord of the ascendant and the whole disposition of the heavens, and let him observe and write, together with the form of the conjuration and the other necessary things, on a clean sheet; and, after the things to be added have been added and the said conjuration has been spoken, when he sees the spirits sent to him standing by, let him say these words to the more powerful one: Chameron massotiel caseuij renean pornas thilmeuj penason. When these have been said, he will at once come nearer and will faithfully reveal the charge entrusted to him [unclear] of the operator.
+
+*CHAPTER XVIII.*
+
+*WHOSE HOUR IS CALLED THAAZARON, AND*
+*its angel is called Zaazenach, presiding over many spirits.*
+
+The sixth hour of the night is called Thaazaron, and the name of its angel is Zaazenach, who has under his command princes and leaders, counts and ministerials almost innumerable, who preside over various magical operations according to their turns and orders. In the first order there are 10; in the second, 20; in the third, 30; in the fourth, 40; in the sixth, 50; in the seventh, 70; in the eighth, 80; in the ninth, 90; in the tenth, 100; in the twelfth, 16,000. Whenever he wishes them, they are ready and wholly obedient, as the aforesaid wise men testify, and as we have experienced.
+
+Amonazii
+
+*THE SECOND BOOK.*
+
+X. X. R. R.
+
+Amonazii Tuberiel Pammon 100 109 100 163
+Menriel Humaziel Dracon 100 100 102 100
+Prenostix Lanoziel Gematz 100 108 100 174
+Namedor Lameroz Enariel 100 105 100 180
+Cherafiel Xerphiel Rudefor 100 103 100 190
+Dramaz Zeziel Sarmon 100 110 100 200 Here now we have, from the twelve orders of the spirits of Zaazenach, 11 leaders and 6 counts named with their servants, duly assigned in order, to the number of 1,860, who in the sixth hour of the night are abundantly sufficient for us for every operation of Steganography. Therefore, when you wish to operate in this hour of the night, observe the lord of the ascendant; and write both it and the whole disposition of the heavens, with the other necessary things, and the conjuration, on a clean sheet.
+
+*Conjuration.*
+
+Zaazenach eneos fari neabdiel lasmy chyrmean ersoty layt pornys theor mean penason. Then, after the things that must duly be added have been added and the conjuration has been spoken, the summoned spirits will appear without delay, peaceful and well-disposed, ready for all things.
+
+*The Argument of Any Secret That Occurs.*
+
+Whatever secret occurs to us, which we cannot safely communicate to a friend either by messengers or by letters, in the sixth hour of the night let us entrust it to one of the leaders prescribed above, or even to one of the counts, if the leader is not present, which can often happen, in that manner and order which is set out as instruction in this art, fearing nothing at all, because all are good and faithful in everything that has been entrusted to them by the operator, and they omit nothing.
+
+Let the tenor of the letters be set down at the pleasure of the operator, or of the present business.
+
+Johannes Trithemius, Abbot of Sponheim, to [unclear], doctor of the solitary arts of philosophy, greeting and charity.
+
+Mindful
+
+*Steganography*
+
+*Be mindful of your promise, which, on receiving the Catholic faith, [unclear] offered to Christ by a solemn vow for eternal joy, [unclear]. Without doubt there is promised [unclear] the temporal pleasures and delights of the present life, with a view to the future eternal rest, to those who despise them; and God has prepared not eternal [unclear] for lovers of the world and reprobate Christians, but the bitter punishments of hell. He who has faith, but neglects to have divine love, is faithless; and in vain does he presume upon faith also. A zealot of divine love is one who does not cease daily to adorn the Christian faith with devout and good works, humbly exercising himself in the arts of piety. Farewell, 14 Kalends of May, in the year of the Lord’s incarnation [unclear].*
+
+When he for whom they are sent, being skilled in the art, has received the letters marked with the character of the Spirit of the hour, first observing the figure of the heaven, let him write it down with the other necessary things; and then, when all things that pertain to the operation have been completed, and the prescribed conjuration has been spoken, when the Spirit has appeared visibly, let him say: Chamerusi ferion notiel aseuomy rean, badian, laso sear vaobry hastoripeson. When these words have been spoken, the Spirit will faithfully reveal the secret committed to him, most secretly, into the ear of the operator.
+
+*Chapter XIX*
+
+*Whose hour is called Venaydor, and its angel is called Mendrion, having under his command princes, dukes, counts, and ministerial servants almost innumerable.*
+
+The seventh hour is called Venaydor, whose angel, the supreme Spirit, is called Mendrion; he has under his command many other Spirits, as princes, dukes, counts, and ministerial servants, who are assigned to various operations in magical matters. Of these, those assigned to Steganography and its operations in the seventh hour of the night are, by turns, their orders, princes, dukes, and counts, with their servants, many in number: in the first order there are 10, in the second 20, in the third 30, in the fourth 40, in the fifth 50, in the sixth 60, in the seventh 70, in the eighth 80, in the ninth 90, in the tenth 100, in the eleventh 10,000. All these are called by turns and come to the operation. Ammiel [unclear]
+
+*[The Second Book]*
+
+X. X. X. X.
+
+Ammiel Ventariel Rayziel 10 100 100 125 Choriel Zachariel Tarmytz 10 100 100 Genarytz Dabraz Anapion 10 100 100 Pandrez Marchiel Imonyel 10 100 160 Mensiel Ionadriel Framoth 10 100 100 Sameriel Atachmaeg 10 100 100 Here, from the twelve orders of Spirits of the supreme angel of the seventh hour of the night, Mendrion, we have 12 dukes and 6 counts, who for this occasion suffice for us for every operation, together with their sub-servants. These Spirits come, as Hermes the Hebrew and Raziel the Arab testify, in whatever form they have been commanded by him who operates according to the art. But he who has not been perfected in our art will bring back not obedience, but danger and inconvenience, if he approaches to operate. But when you wish to operate anything in the seventh hour of the night through these Spirits, observe the lord of the ascendant and the figure of the whole heaven; write this, with the other precepts in the art, on clean paper, and on its back this conjuration:
+
+*Conjurations*
+
+Mendrion furiaco breotnirus ersoy neuo, omear nyco lays erfota theory pornys Azan mean lafi as astopenason. Then, when the things to be subjoined have been subjoined, and the conjuration has been spoken as is proper, immediately the Spirits called will appear to you, prepared for all things.
+
+*The secret is of whatever sort.*
+
+For announcing a secret, near or far, to an absent friend previously skilled in this art of spirits, it matters little what sort it is, provided that it is not trivial or such as could otherwise have been safely announced by messengers or letters. We also have no concern what sort the letters are, provided that they have the character of the principal angel of that hour in which the operation is performed; and absolutely no secret, 2 3 Forme-
+
+126 *Of the Steganography. Let us form letters [unclear].* John Trithemius, abbot, sends greetings to Nicholas Basselius, monk, and transmits this prayer of Saint Nicholas.
+
+Creator, restorer, and maker of all things, he created the first man, Adam, to whom he joined a most beautiful wife named Eve, the mother of all the living: prefiguring the Catholic Church, to be joined to pastors, shining beautifully with the ways of uprightness, and destined to bear men as sons of good works, who through humility receive the kingdoms of heaven, which shall remain without end. Christ redeemed us through his kindness, humbling himself for our sake. Therefore we must love him, the most kind one, who gave us the Catholic faith; those who truly love it will rightly obtain angelic happiness. Therefore let all of us, living in true religion and Catholic life, honor our almighty creator every day. Lord Jesus, most kind savior, who mercifully redeemed us all from the abysses of death, kindly regarding our frailty and infirmity, conform us to the Catholic faith, so that after this transitory life we may deserve to have forever the repose of eternal consolation and happiness. Amen. The fourteenth day before the Kalends of May [18 April], in the year of the Lord 1500.
+
+When the one to whom these letters are sent, sealed with the character of Mendrion, receives them, being skilled in our art, let him observe the lord of the ascendant; let him write both it and the whole disposition of the heaven on a clean slip, and on its back the conjuration. Then, after all things that must be appended have been appended, and the song has been spoken, as soon as he sees that the Spirit is standing by him, let him say these words to the first: Chamerusyn merion nodiel burmy raueto elay reas penason.
+
+When he has uttered these words to him who among the other spirits appears to be the more eminent, immediately that one, approaching calmly, will reveal the secret entrusted to him.
+
+*Chapter 20.*
+
+*Whose hour is called Xymalim, and its angel, the supreme emperor, is called Narcoriel, having under him princes, dukes, counts, servants,*
+
+*The eighth*
+
+*Book Two.*
+
+127 The eighth hour of the night is called Xymalim, and its angel, the first supreme Emperor, is called Narcoriel, who has under his rule many other Spirits, princes, dukes, counts, and ministers, who are called according to their orders to various effects by those who work in the secrets of philosophy. And from all these there are twelve orders of those who serve Steganography. In the first order there are 10; in the second, 20; in the third, 30; in the fifth, 50; in the sixth, 60; in the seventh, 70; in the eighth, 80; in the ninth, 90; in the tenth, 100; in the eleventh, 1000; in the twelfth, 10000. All these keep their orders in such a way that no one can work safely through them unless he has been fully instructed in all things. For whoever does not observe the proper order exposes himself to danger and will be disappointed of the desired effect.
+
+R. R. R.
+
+Cambiel Amelzon Xanoryz 100 100 1000 1000
+Nedarym Lemozar Iastrion 100 100 1000 1000
+Astrocon Xernifiel Themaz 100 100 1000 1000
+Marifiel Kanorfiel Hobrazym 100 100 1000 [unclear] 1000
+Dramozyn Bufanoiz Zymeloz 100 100 [unclear] 1000
+Lustihon Iamedroz Gamsiel 100 100 1000 Here now we have named 12 dukes and 6 counts, established by a hidden disposition throughout all twelve orders, who have under them numbered ministers, 1400, who suffice for us for every operation of the eighth hour of the night. Therefore, when you wish to work through them in Steganography at the eighth hour of the night, observe the lord of the ascendant; write both it and the whole disposition of the heaven on clean paper, and on its back, with the other things customarily used according to practice, this conjuration.
+
+*Conjuration.*
+
+Narconiel aples pornya nauelo meas. Triome ilneasazyfan lafias my breffion erfort penason. Then, after the things customarily to be appended have been appended, once the conjuration has been spoken, the spirits called will be present in that form which you have commanded them to take, ready for all things.
+
+Argu
+
+*Steganography. A secret message.*
+
+A secret that we wish a far-absent friend to know, if we trust neither letters nor couriers: in the eighth hour of the night let us entrust it to the more powerful one among the spirits of Narcoriel, fearing nothing at all, since they are all faithful and most ready for obedience.
+
+Let us form the letters as we please.
+
+O most kindly Jesus, I give thanks to your most holy loving-kindness, who by your blood reconciled the human race to the heavenly Father, hanging raised up pitifully on the Cross. The flowering youth of your most noble body you subjected for our sake to harsh wounds, that you might bring dead man to life. Therefore such thanks as we can, we Catholics [unclear] to our redeemer; and, praising the memory of the passion in Christian fashion, [unclear] of the savior of our race [unclear]. But [have mercy?] on me, most merciful Jesus, abyss of mercy, of the fountain of loving-kindness, glory of the saints, light of the citizens above, and pour into me the sweetest taste of your most holy love. Rescue me from all my calamities. Give me true gladness of heart, that I may exult in your praises, glorifying you, since by the pain of your wounds you have healed me. What shall I repay to your mercy, my redeemer, my life-giver? I suffer with your labors and burning tears, and I bless the most holy wounds of your body. Most kindly savior Jesus, I give immortal thanks, asking pardon for my crimes. In the year of the Lord 1500, on the Kalends of May, I wrote this prayer.
+
+[unclear]
+
+When you have received letters, of whatever kind they may be, marked with the character of Narcoriel, the person to whom they are sent, being skilled in the art, should observe the lord of the ascendant at that same hour, and should write both it and the whole disposition of the sky, with the rest, on a clean sheet; and when all necessary things have been added in the customary manner, and the said conjuration has been spoken, when he sees that the spirits stand by him, let him say these words to the more powerful one: Medaro Cassotiel va reneas thasny thyrmo thea penason. When these have been said according to the instruction of this art, the chief spirit will soon come nearer and will disclose the secret word,
+
+*Chapter*
+
+*Book Two. Chapter 21. Whose hour is called Zeschar, and whose spirit is called Pamiel, having many princes under him.*
+
+The ninth hour of the night is called Zeschar, and its angel, the supreme emperor, is called Pamye, who, in the manner of those preceding, has under his rule many other spirits, good and evil, princes, dukes, counts, and ministers appointed through their turns and orders. For in the first order there are 10; in the second, 20; in the third, 30; in the fourth, 40; in the fifth, 50; in the sixth, 60; in the seventh, 70; in the eighth, 80; in the ninth, 90; in the tenth, 100; in the eleventh, 10,000. But in the operations of Steganography we do not need all these, since a few suffice for us.
+
+R. R. R. X.
+
+Demar Comary Befranzij 10 100 10 100
+Nameal Atatiel Iachorez 10 100 10 100
+Adrapon Zenoroz Xanthur 10 100 10 100
+Chermel Brandiel Armapy 10 100 10 100
+Fenadroz Euandiel Druchas 10 100 10 100
+Yemasiel Tameriel Sardiel 10 100 10 100 Here now we have eighteen princes from among the spirits of Pamiel, who in their turns are sometimes dukes, sometimes counts; whoever does not know their orders will labor in vain in this art. They have 1,320 ministers appointed to them through the turns and moments of the hour, with whom they perform wondrous effects. Therefore, when you wish to operate through them in Steganography in the ninth hour of the night, observe the lord of the ascendant of that same hour and the whole figure of the sky, and write everything on a clean sheet; and on the back of that little sheet write this conjuration.
+
+*Conjuration.*
+
+Pamyel lyraz lafian mauelo breothis thirmoan ersoti layr pornis theori moar azas, penason. Then, when all the things that are prescribed in the art have been completed, say the conjuration itself, taking the greatest care that you omit none of those things which pertain to the perfection of the operation
+
+*Of Steganography*
+
+of the method are required. But once the conjuration has been spoken, the named spirits will at once appear visibly in that form which you have instructed them to assume. For all those whom we have named are benevolent, good, ready, and duly willing for obedience, and faithful in the things entrusted to them.
+
+*The Subject of the Secrets*
+
+Whatever secret occurs to us, which otherwise we cannot safely make known to a friend either by letters or by messengers, we first entrust to the spirits appearing to us, and we are secure. The more powerful one, however, is distinguished among the others by his dress and crown.
+
+*Let the letters be formed at will*
+
+Wail, mortals, you who now laugh, and who in manifold ways have most ungratefully spurned the kindness of our glorious redeemer with very grave sins and horrible crimes. Behold, the Turk, the deadly enemy of Christians, will move his army from Hungary; he will slaughter men after the manner of beasts. The savage one has crossed the Danube, and is kindled as if by fire with zeal for impiety. Therefore mourn, most wretched people, who are about to die in horrible slaughter; you will die in zeal of bitterness, because your offenses will overtake you. You have despised the laws of God, your most benign redeemer. We have heard how cruelly the Turk has invaded Hungary, Bohemia, and Poland; he has destroyed very strong cities; women and virgins consecrated to God, holding chastity in zeal for holiness, he will most shamefully ravish, horribly slaughtering any Catholic men at all, tearing them everywhere like cruel beasts. You will feel his horrible cruelty shortly; for he will suddenly trouble Germany with his most warlike army, unless a general defense of the princes resists without delay. Therefore, groaning, take on humility; amend your ways; pray to God with tears, that he may grant you remission of your offenses and free us from the enemies who thirst greatly for our blood. I wrote on the 13th day before the Kalends of May, in the year of the Lord 1500. D. Johannes Trithemius.
+
+Whoever receives these letters, or any others whatever, sealed with the sign of Pamiel, to whom they are sent, being skilled in the art, should observe and write down the lord of the ascendant and the whole figure of the heaven, just as we have instructed, on clean paper; and he should do each and every thing that is to be done according to the art. When the conjuration has been spoken, when he has seen the sent spirits standing by visibly, let him say to the more powerful one: Chasmeron apornys veto maan iluovean aplois cralta ilso pametson. When these words have been spoken to the principal one, he will at once come nearer and will sensibly reveal in his ear the secret entrusted to him.
+
+*Book Two*
+
+*Chapter XXII*
+
+*Whose hour is called Malcho, and whose angel is called the emperor Iasguarim, who has under his rule several princes, dukes, counts, and ministers.*
+
+The tenth hour of the night is called Malcho. Its supreme angel, the emperor, is called Iasguarim, who has under his rule many princes, dukes, counts, and ministerial spirits, appointed for wondrous and various magical operations, as Solomon, surnamed Hermes, testifies in his [unclear] of magic. For Steganography there have been appointed in their turns, from his orders, 100 dukes, 100 counts, and many ministerial spirits, as: R. R. R. R.
+Lapheriel Chameray 30 10 100 100 300
+Fmarziel Hazaniel 30 10 100 100 300
+Nameroyz Vraniel 30 10 100 10 300 Although many dukes and counts have been appointed for the operation of Steganography in the tenth hour of the night, nevertheless, since a few suffice us for all things, we have put by name in this table three from the dukes and likewise three from the counts, adding beneath them the number of their servants, duly distributed by turns and orders. But anyone who wishes to know the names of more should summon one of the aforesaid and question him about each one. But when you wish to work through these spirits in the tenth hour of the night, observe and do all the things that have been prescribed, most diligently writing everything on a clean sheet, and on its back this conjuration, in the manner in which it has been prescribed.
+
+*Conjuration*
+
+R Ias-
+
+132.
+
+*Steganographia*
+
+I Asguarim apornys vesale moes labiel throe. Tadrys asiel cachylos thubla uailso thirmjel vear. Turiel cralty solmys aslotiel naemes renhar, vear thirmo cralnoti faon dremion lauiel odres, notiel pornys. Pornis mear moab sayr aslotiel lo raytu lian aseuo, Bian eory churio bays aftro penason. Then, after adding what must be added, and after saying the conjuration, as is proper, immediately the summoned spirits will stand by.
+
+*The purpose of any secret*
+
+Let it be any secret whatever. When you cannot make it known by letters and messengers to a friend who is near or [unclear], summon one or two of the spirits Lasguatim and appoint them as your couriers; entrust the secret, having no doubt.
+
+*Let the letters be formed at will*
+
+This is the prophecy of Nicolaus Basselius of Iburg, bishop of S., which he saw in the spirit. And he said: Thus says the Lord to the shepherds of the churches: You will soon perish, because a very great calamity will scatter your broad dominion and will besprinkle all Europe. Woe to the Ishmaelites, who break the covenants of the tabernacle, because through envy and rashness they seize the pastures. Behold, the dominion that you have will be broken, unless you hasten to greater repentance; and you will be handed over to be torn apart. Alas, the whole Church is besprinkled with the worst morals; dissimulation has invaded its ministers. Flee, do not look back; you will be laid waste and will be dragged by dogs; they will besprinkle the whole earth with blood. Seek repentance, inhabitants of the earth. Little Benjamin will experience disturbances. Woe to the inhabitants of Gennesaret, which is Europe, because on account of the multitude of their sins they will perish under the hands of the Bulgarians. Here ends the prophet Nicolaus, bishop, [unclear] 12 Kalends of May.
+
+When you have received any letters whatever, marked beforehand with Lasguarim, and the person to whom they are sent is skilled in the art, let him do everything prescribed according to the art, and let him observe the order of the planets, and write what is to be written. And when the conjuration written above has been said, as soon as the spirits that have been sent appear, let him say to the first among them: Chamerusin othriel arnotiel folais elty. Naeles proy vear faot cralnoti, penason. When these words have been said, immediately the approaching spirit will faithfully and calmly reveal the message entrusted to him.
+
+*Chap[ter]...*
+
+*THE SECOND BOOK. 136.*
+
+Our Lord Jesus Christ, the most mild Savior of our souls, has promised us the felicity of eternal consolation, if we always observe his commands with a pure heart. Do you therefore, dearest brother, keep the commands of God and of the holy rule diligently; for unless you keep inviolate, even unto death, all [things] which the omnipotent God has commanded you, you shall perish by eternal death. Therefore I have handed to you the form and law of a religious and holy way of life. Beware therefore diligently lest you give your heart, through the desire of love, to any mortal to be possessed; because no one comes to those supreme joys except him who despises the world for God. Again therefore, through these my letters, I exhort you as a most dear friend: observe for yourself the admonitions which I had made. For I count myself happy when I have written something good at this time, especially for edification, concerning the manner of living well, by which you may always be made better. Therefore now again I write to you for your good, because I fear your danger no less than my own. But I pray: always watch, daily advancing in the fear of God, and living innocently, harming no one, and persevering wholly in [your] holy purpose. Trust not in time, not in fortune, not in age; because they are nothing, unless we are [something]. Truly I love you sincerely in Christ Jesus, praying that he himself may dispose that I too be loved by you; and that I, who am absent from you in body, may be present in spirit. Whence, since I continually have memory of you in my prayers, I vehemently pray that you may not forget [me]. Farewell. The 12th [day before] the Kalends of May, in the year 1500.
+
+*CHAPTER XXIV.* Whose hour is called Xephan, and whose supreme Angel and Emperor is called Sarandiel, having under him many princes, dukes, counts, and servants. The twelfth hour of the night, which touches the dawn, is called Xephan, and its Angel is called Sarandiel, who has under his command many spirits, good and evil—princes, dukes, counts, and ministerials—who are deputed to diverse operations: the good to good [things], the evil to evil. These princes (as Hermes the Hebrew, who was called Solomon, says in the fourth book on the offices of spirits) are wont to appear frequently in that form in which the Devil is read to have appeared to Eve, having one beautiful head like a virgin's, with hair hanging down on either side, but two serpentine bodies, which, however, they always veil and hide under certain coverings or leaves, lest they be seen. But in the face they are most beautiful, benevolent, and merry, and most prompt and cheerful to every obedience of the operator.
+
+[Spirit table: Adoniel / Marachy / Hardiel; Damaisiel / Chabrion / Nefrias; Ambriel / Nestoriel / Irmanoth; Meriel / Zachriel / Gerthiel; and others — with numbers, as printed.]
+
+Here now we have, from the good spirits of Sarandiel, 14 dukes and 7 counts, with many of their servitors, who suffice us in the twelfth hour of the night for every operation. When, therefore, you wish to operate through them in the last hour of the night: observe and do all [things] which we have prescribed, diligently; and afterward say the conjuration.
+
+*Conjuration.* [a few illegible characters] Arandiel, marso, porno, ioniel, schendiel, iano, Nati, chilprest, iosaschar, meon, prissi, dyon, volayr, penason. The verse said, immediately the spirits called will stand by, ready for all things.
+
+*The Ordinance of announcing the secret.* When you see the spirits standing by you in a strange, foreign form: be not terrified, because they are good [and] benevolent, harming no one; and the monstrous form, lest they frighten anyone, they as it were always hide, appearing with a most beautiful face. Commit to the more [powerful] whatever you wish a friend to know in the hour of the night.
+
+*Let the letters be formed as it pleases.* O wretched man, and truly miserable, why do you not attend to the instability of all temporal things? and why do you not consider that you will die in a short [time]? Remember what the first man deserved: because he violated a command. Would that, as Balaam desired, our soul might die the death of the just—that, despising present pleasures and the vain honors of the world, we might be immaculate, keeping ourselves from all sin. But we care not, until at length the dreadful chains of death fall upon [us] in perpetuity. I count him happy who, [having] foreconsidered these things 136 *Of the Steganography* ... with teeth; but two serpentine bodies, which nevertheless they always veil and hide beneath certain coverings or leaves, so that they may not be seen. In the face, however, they are very beautiful, kindly, and pleasant, and most ready and cheerful for every obedience to the operator.
+
+R. R. R.
+
+Adoniel Marachy Hardiel 10 20 00 20 10
+Damaisiel Chabrion Nefrias 10 20 20 10
+Ambriel Nestoriel Irmanot[unclear] 10 20 00 20 10
+Meriel Zachriel Gerthiel 10 20 00 20 10
+Denary[unclear] Naueriel Dromiel 10 20 00 20 10
+Emarion Damery Ladrot[unclear] 10 20 00 20 10
+Kabriel Namael Melan.is 10 20 00 20 19 Here now we have, from the good spirits of Satandiel, 14 leaders and 7 counts, together with many of their servants, who suffice for us in the twelfth hour of the night for every operation. Therefore, when you wish to operate through them in the last hour of the night, observe and do carefully all that we have prescribed, and afterward say the conjuration.
+
+*Conjuration.*
+
+[unclear]
+Arandiel marso porno ioniel schendiel iano Nati chilprest iosaschar meon prissi dyon volayr penason. When the charm has been spoken, immediately the spirits called will stand by, prepared for everything.
+
+*The Arrangement for Announcing a Secret.*
+
+When you see the spirits standing by you in a strange form, do not be frightened, because they are good and benevolent, harming no one; and, lest they terrify anyone, they almost always hide their monstrous form, appearing with a most beautiful face. Safely entrust whatever you wish a friend to know in the hour of the night.
+
+*Let the letters be formed as one pleases.*
+
+O wretched man, and truly pitiable, why do you not attend to the instability of all temporal things? And why do you not think that you will shortly die? Remember what the first man deserved, because he violated the commandment. Would that, as Balaam wished, our soul might die the death of the just, so that, despising present pleasures and the vain honors of the world, we may be undefiled, keeping ourselves from every sin. But we do not care, until at last the dreadful bonds of death fall upon us forever. I consider him happy who, having forethought these things [unclear]
+
+*Book Two.*
+
+137
+[unclear]. Therefore, O man, cast off the world like the Son of God, and think, out of love for him, [unclear] evils follow us. For it brings many dangers upon us; and because it is damnable to its lovers, it is deservedly despised. Truly worthy of eternal death is the lover of the world. What does this world profit you, wretched man? While it is loved, it flees; while it is present, it passes away; while it exalts, it casts down; while it flatters, it deceives; while it flourishes, it withers; while it sends out its lovers, it transmits them to perpetual miseries. In the year 1512, on the Kalends of May.
+
+Once the letters have been received and the sign of the principal spirit recognized, the one skilled in the art should do what is customarily to be done. Then, when the above-written conjuration has been spoken according to the art, the spirits will appear, faithfully revealing what has been entrusted.
+
+*Chapter XXV.*
+
+*In Which We Shall Teach the General Method and Form of Approaching This Art of Steganography, and of Operating in It Without Danger, with the Greatest Usefulness.*
+
+Whoever desires to approach the knowledge of this hidden art of ours, whoever wishes to work through it wonders and many useful things without dangers, must first of all be adorned with virtues, and be of clean conscience and good will toward God, toward himself, and toward his neighbor, so that he is not inclined to harm anyone, nor seeks the dealings of shamefulness. Next, it is necessary that he be somewhat imbued with the good arts of letters, and especially with the science of the stars, so that he may know the general motions, courses, circuits, changes, orders, natures, positions, risings, settings, and effects of the stars, signs, and planets; because without competent knowledge of these things no one can have access to the depths of this art. Consequently it is necessary that he have a teacher perfect and experienced in the art; because we believe it possible to come to this knowledge without a teacher only for a few, and those most learned in many things, and especially skilled in magical matters. The teacher, however, must be not only approved and experienced in the science, but also faithful; because the purer he has been with God in good conduct, the safer he will be in the operation of this science. For the spirits obey virtues.
+
+*Steganography*
+
+[unclear]. Therefore, when anyone is about to approach this art, let the teacher receive him and lead him into some secret and clean place; let the time be tranquil and serene, and the moon full in opposition, with the sun shining clearly; and let Mercury be in the ascendant, joined to Venus or Jupiter, if possible; and let Saturn and Mars be remote, because if they themselves or either of them is with the ascendant, the instruction will not be perfect. First he shall swear in the art this oath:
+
+I, N., swear and promise by the power of almighty God, by the blood of our Lord Jesus Christ, by the resurrection of the dead and the last judgment, and by the salvation of my soul in the holy catholic faith, to almighty God, to the blessed Virgin Mary, to all the saints, and to you, N., that I will faithfully keep this art of Steganography hidden all the days of my life, nor will I teach it to anyone without your will and consent. Moreover, by the same power I swear and promise that I will not use this knowledge against God and his commandments, nor against the holy Roman and universal Church or its ministers, nor against justice and equity. So may God help me, and so may he save me at the last judgment.
+
+Then let the teacher read the following conjuration in the mystical tongue, and interpret it, and all the conjurations contained in this work, before the pupil, lest he suspect that anything diabolical, superstitious, or contrary to God, or any pact with demons, implicitly or explicitly, is in any way hidden there in secret.
+
+*Book Two*
+
+*The General Conjuration to be Spoken by the Master before Access to the Art*
+
+[unclear]
+
+Mesari cosmenielarchea sameor eritas.
+Dricho mosayr vsionoes veso tureas.
+Abrithies naselion pyrnochyboyn ormon.
+Ceruali myrbceuolian saueaosayr.
+Rhymanoeaue iapion nospiel saseuo rhaony.
+Natythirpolian ionayrchuleor nefris.
+Mistriona nayrdauosytyuamo turmy.
+Pleon nomeato turias bresne nasephon.
+Adionsayrcatros chyrosny aschyon crmy.
+Otyellayr romays theorynaias atreuo.
+Aliar mealco trisna vseori iesachor.
+Bios pailon rauemysear astro penason.
+
+And after the master of the art has explained to his pupil the conjuration of all the spirits, their order and sequence, let him open to him the most secret mysteries of this knowledge, which are neither written nor to be written, forbidding him, under the oath he has taken, to reveal them to anyone as long as he lives, except to worthy persons sworn in the art, or to write them in any manner or for any reason. Then let him teach him the natures, names, places, numbers, offices, and properties of all the spirits who have been assigned to this art: how, when, and where work is to be done through them, and the remaining mysteries that pertain to the perfection of this art, concerning which nothing is to be written.
+
+*Here Ends the Second Book of the Steganography of Johannes Trithemius, Abbot of Sponheim, 20 April, in the Year of the Lord 1500.*
+
+S. INC!
+
+140 *Steganography*
+
+*Here begins the third book of the Steganography of Johannes Trithemius, Abbot of Spanheim, addressed to the Most Serene Prince, Lord Philip, Count Palatine of the Rhine, Duke of Bavaria, and Prince Elector of the Holy Empire.*
+
+*Preface.*
+
+After, with the help of our Lord Jesus Christ, the Savior of faithful souls, we completed the first two books of our art, in which I described our Steganography as best I could, it is necessary for us to join this third book to those, and to link more wondrous things with wondrous aids. I found in a certain book of a certain ancient philosopher, who is called Menastror, that it is possible that by a certain art we should make the conception of our mind known to a friend, however far absent, within 24 hours, without words, without books, and without a messenger, most perfectly, most widely, and most secretly. Since I was driven most vehemently by desire for knowledge, I began to wish to test the truth of the sayings; and after many labors I at last found that very knowledge proved by experience. The secret of this art is very great, and wrapped in such great obscurities that it is not easily accessible to anyone. For Menastror enveloped the mystery in very obscure and few words, and used such [unclear] that it might remain secret, so that after him no one could yet be found who dared to make his discourse clearer by any instruction. But I, fearing [unclear] to such unskilled men, or at length to be burned by fire, since I have already long been experienced in it through many tests, wished to commit it to writing in rather clearer terms, so that, with God's help, it might in some measure become accessible to learned men and those very devoted to magical studies; and yet that it should remain hidden at all times from unskilled Rapophagi, and in no way become known to their dull understanding.
+
+But Menastror said: There are seven planets, over which seven angels preside, and subject to them are 21 spirits, through whom secrets are announced. Let us set out their names by means of a table. Mansion...
+
+*The Third Book.*
+
+R. R.
+*Mansions of the spirits with the planets* [unclear]
+G. Roth. Sadiel 1 675 663 651
+H. Oriffiel Poniel 2 700 688 676
+Morifiel 3 725 713 701
+Floriel 1 575 563 551
+Moon Zachariel Ariel 2 600 588 576
+Raphael 3 625 613 601
+Amael 1 475 463 451
+[unclear] Samael Asmael 2 500 488 496
+Nebiel 3 525 513 501
+Laniel 1 375 363 351
+Pasael 2 400 388 376
+Sun Michael Vanriel 3 425 413 401
+Zabdiel 1 275 263 251
+Sacmiel 2 300 288 276
+[unclear] Anael Adoniel 3 325 313 301
+Carmiel 1 175 163 151
+[unclear] Raphael Nabeyel 2 200 188 176
+Pathiel 3 225 213 201
+Remasiel 1 75 63 51
+[unclear] Gabriel Tespiel 2 100 88 76
+Theoriel 3 125 113 101
+Roth. Schw. R.
+S: Aniel 4 Wenafor 631 20 642 639
+H: Saturn Schamaro 627 20 638 646
+Li Kraluotes Thubrays 626 20 650 634
+Ymarona Tzatzraym 628 20 639 S J Yli
+
+*Steganography*
+
+These are the seven angels of the planets according to the tradition of the ancient sages, each of whom governs the world for three hundred fifty-four years and four months in his own order. Orifiel is the angel of Saturn, who from the beginning of creation governed the world for 354 years and 4 months. Afterwards Venus, then Jupiter, after him Mercury, and then Mars, afterwards the Moon, and finally the Sun. Each is described as having had, for 354 years and 4 months, the dominion of the world written in a table common to itself and its angel. Thus the sages say that at the time of the flood Samael, the angel of Mars, served in the command of rule; Gabriel, however, the angel of the Moon, at the time of the confusion of tongues; Michael, the angel of the Sun, at the time of Israel’s departure from Egypt. And indeed, if anyone gives credence to the aforesaid assertion, he will easily be able by himself to reckon from the origin of the world the changes of times and the governance of the angels down to his own age, in the order prescribed.
+
+But we, pursuing those things which serve our purpose, do not doubt that there are twenty-one other spirits subject to the seven angels of the planets named above, that is, three to each, according to the institution of this art of ours; through them we bring about the effect of our intention. We shall observe the customary order of the planets, beginning from Saturn, highest of all, down to the Moon: first setting down the operation of each principal angel, and then the service beneath him, and joining the chapters together in order.
+
+*Chapter I*
+
+*On Orifiel, the first and supreme angel of Saturn, and on the operations that are performed through him.*
+
+Saturn, the highest and supreme planet of all, slow in motion and nature, cold because remote, difficult, weighty, is moved from the point of its beginning to the point of its first station in 650 years, remaining in any sign for 30 months, by its natural proper motion 626 [unclear]. Its first and supreme angel is called, according to the opinion of the ancients, Orifiel, who has under himself three other principal spirits, namely Sadael, Poniel, and Morisiel, of whom we shall speak in their own place and order. Through this Orifiel, the great angel of Saturn, many and various operations are performed in Steganography. Through him we can make known the secret of our mind to a friend skilled in the art, wherever he may be: by letters, if it pleases; or even without letters, and do many other marvelous things which no one otherwise understands who is unskilled in this science of ours.
+
+Therefore, if one wishes to perform anything through this angel in Steganography, especially on the day of Saturn and in those matters, affairs, and causes that belong to Saturn, it is first necessary that he know its various and diverse motions: and first the various, pure, proper, direct, retrograde, and confused motion. And in all these things it is necessary that he know not only the general rules handed down by the astronomers, which, although they are especially useful for this science of ours, nevertheless do not suffice completely, but also the particular ones. Therefore, taking as a foundation the tables and rules concerning the motions of the planets, which it is altogether necessary for the practitioner in this art to know, we have added special rules and little tables of punctual motions throughout the individual chapters of this work; without observing these, no one will be able to operate in this art.
+
+And note that the day of each planet is divided into four equal parts, of which the principal angel of that planet holds the first, that is, three unequal hours; and its substitutes obtain the remaining three parts in order. For example: on the day of Saturn, Orifiel, its first angel, possesses the three unequal hours from sunrise, which are called the hours of the planets; Sadael, its first angel, possesses the second three. Poniel, the second, holds the third; and Morisiel, the third angel of Orifiel, the fourth three hours. Under the first three hours of the day both of Saturn and of the other stars, in matters appropriated to Saturn, one must operate through Orifiel; under the second through Sadael; under the third through Poniel; and under the last three through Morisiel. And all operations, according to the motion of Saturn, receive either a prosperous effect or a weak one. But now let us set down the punctual table.
+
+*Table*
+
+*Steganography*
+
+*Punctual table.*
+
+[table of numerals and signs] This [order?] is written in black [color?].
+
+*Book Three.*
+
+[table of numerals and signs]
+
+*Steganography*
+
+When the mean motion of Saturn for the second day, degree, and hour has been learned from the common tables, you should know that it must first of all be carefully observed whether it is direct or retrograde; pure, [nearer?], mixed, or confused. But you will not find this from the common tables. Therefore we have arranged the table written above, in which you will be able to find the point of the beginning of its motion and of its end at any hour, the degrees running together between them being divided into particles of minutes. That is to say, for each minute it is divided into two, three, or four hourly parts according to the proportion of the motion, pure or confused, that is, with the conjunction and separation of the other planets observed. For it is impossible, either through the stars or through the spirits of the stars, for you to be able to arrive at the effect of this art unless, with the punctual motion known and most carefully observed, you know how to order your operations precisely according to the proper qualities of the planets. For in different degrees, signs, days, hours, minutes, seconds, and fourths, the effects of the planets, with respect to this science, vary in different ways. For in each degree we have observed and found twenty-five different changes; hence it seemed necessary to us to divide each degree into just as many principal parts. But this division does not have a place through all the degrees, but only in those in which an operation is performed for signifying to the absent everything that we wish, by the ministry of spirits, without letters, as we shall say. The first [part?] of the fourth day or night is always assigned, in those things which pertain to the operation of Saturn, to its beginning; the second, however, to the second three hours; the third to the third; the fourth to the fourth. Then we have set below the punctual order of the motion of Saturn itself in ascending, namely when it is in one of the first four signs, which are Aries, Taurus, Gemini, and Cancer. For the remaining eight signs also we shall arrange the following table.
+
+*Table.*
+
+*Book Three.*
+
+*First table.*
+
+[table of numerals and signs]
+
+*Table*
+
+*Steganography*
+
+*Table.*
+
+[unclear table of figures and sigla]
+
+*Book Three*
+
+*Pure motion of the planets*
+
+[unclear table of figures and sigla]
+
+*Steganography*
+
+*On the Various Motion of the Planets and the Interpretation of the Tables.*
+
+Although in the present chapter a special treatment must be given concerning the motions of Saturn, his spirits, and the operations in Steganography through them, nevertheless, lest we be compelled to repeat in each chapter what has once been said opportunely, the studious reader should be advised to take care to remember, also in what follows, the things that we say in this very chapter.
+
+Now there are various motions of the individual planets, and they are all most subtly divided into diverse other motions. The pure and proper motion is manifold, and is varied by various most subtle divisions. Direct, retrograde, mixed, and confused motions are varied by almost as many points as they are separated in the circle from the beginning of their motion. What shall I say about finding the conjunction of those same planets? For, as Ptolemy says in the *Centiloquium*, there are one hundred twenty conjunctions among the planets themselves, namely twenty-one binary, thirty-five ternary, thirty-five quaternary, twenty-one quinary, seven senary, and one septenary. And we shall speak of these in their own place.
+
+But concerning the other motions, although we cannot give a fixed limit because of the infinite diversity by which, as the points increase or diminish daily, they are varied, while we remain ignorant: nevertheless, in full, so far as we have been able to observe, we have found more than 300,000 divisions, in which all the operations of this art, with respect to their effect, are often varied. And unless someone is very experienced in all these matters and knows perfectly the mean motions of those same planets, and then the very smallest punctual divisions, which arise from quarters, thirds, seconds, minutes, and degrees most subtly divided in equal parts, he will easily fall into true errors and scarcely avoid grave danger.
+
+Therefore, for the perfect instruction of this science, we have arranged three tables. In the first of these we have reduced the motion of Saturn according to four parts, of both day and night, namely its proper pure motion, to its punctual root, and have arranged it according to the true point of the ascendant of each sign. Beginning from the first degree of Aries, of points 641, [unclear] II 69, the whole Zodiac in the second table
+
+*Book Three.*
+
+we have included in a table. Then in the same second table we have arranged the motion of Saturn in any of the twelve signs, for all the quarters of the day and night, down to the minutes, so that at any hour, once the degree of the ascendant in which Saturn itself is has been known to us, its precise root can clearly be made evident. But once the calculation of [unclear] has been completed, which I do not know whether our age can ever attain, the table must be begun again from the head of its beginning. In the third table we have reduced the [unclear] conjunction of Saturn with the other planets, which is single, to the proportion of a point; through it all 120 conjunctions are easily reduced to the point. In the same table the pure motion of all the planets is known through the point-by-point division, progression, and elongation from the point of the beginning of each one in any motion, if the mean motion has first been perfectly obtained. For without knowledge of the mean motion it is impossible for anyone to be able to approach the practice of this science. Again, even if you understand the mean motion and likewise the true motion most perfectly, it will be of no use to you for knowledge of this science unless you understand fully the three prescribed tables, down to every minute, for all the points of the divisions in the motions of the planets taken equally from unequal degrees. But now let us proceed to the operation.
+
+When all these things have been known and perfectly understood, both those that we have said and those that, with God’s help, we are going to say, when you wish to operate in this most profound speculation, first of all you must know the rising, exaltation, and setting of all the stars of the eighth sphere through which the operation is performed, and how far each one is distant from another. The stars through which we operate for announcing any secret whatever to someone absent, whether by words or by writings and without a human messenger, are seven in number; their names, places, risings, settings, elevations, distances, approaches, and retreats we have described in a special book, which it would be excessively laborious to repeat here by inserting them again. Therefore, once the star has been observed in all respects as is proper, and once the point of the ascendant in which Saturn is at that same hour has been known, if the operation is performed through Saturn itself, consider most carefully the quality of its motion, whether it is direct or retrograde, pure or mixed, proper or joined with other impediments of aspects, discrete or confused. Then keep noted on clean paper the point of the beginning of the motion in the same sign, both of Saturn itself and of the other planets joined to it, calculated very subtly and properly from the common tables and from those which we have set out above; and observe carefully how far it has progressed, how far it has been elevated, or how far depressed. You will do the same with the other planets joined to Saturn or to that one through which the operation is performed. In the same way observe most carefully by what aspect the planets look upon one another, whether trine, quartile, conjunction, or sextile. For in these lies the greatest force of this operation. Likewise, before all else, you must observe in which quarter Saturn is, not only with respect to day or night, but also with respect to the sign in which it is, and with respect to the years from the beginning of the world, when it was first created in its house; for all those things are necessary. And note that when Orifiel, the angel of Saturn, rules the world in his order, he will conduct that rule for 354 years and four months. Then every operation of this most profound science which pertains to the works of Saturn, and which is performed through him, is easy and will attain a clear effect without great labor. And the same is to be observed concerning the other planets. Therefore whoever, once the principles of this art are known, wishes to operate through it without difficulty, let him operate through that planet whose principal angel is found by easy calculation to be governing the world at that time. Accordingly, when all things have been calculated most carefully, as you are about to proceed to the operation, observe which angel of Saturn presides over that quarter of the day or night; and write his name with the name of the star through which you wish to operate, which you must see. At every time, however, you will be able to see the stars necessary for you, by the art that we have handed down, whether by day or by night. Then write on the same little paper the other things that you know to be most secret, with ink prepared for this purpose in our manner, as you know. Afterward place the very slip which you have written before you upon the table, and write on another paper the conception of your mind, what you wish the absent person to know; and roll these two slips together, and place them in a higher place before you upon the table or desk. And say
+
+*Book Three.*
+
+153 on the breast, saying the name of your absent friend: “This is the image of N., son of N., to whom, through the angel of Saturn, Orifiel, the conception of my mind is announced. Amen.” On the forehead of the image write Merion, and on the breast Troesda. Then join both images together, saying: “In the name of the Father and of the Son and of the Holy Spirit. Amen. Hear, Orifiel, prince of the star Saturn, and by the powers of almighty God I adjure you, listen: I command and order you, by the power of this image of yours, that you announce to N., son of N., this intention of mine (let the intention be explained) as quickly as possible, safely, secretly, and faithfully, omitting nothing of those things which I want [him?] to know and which I have entrusted to you. In the name of the Father and of the Son and of the Holy Spirit. Amen.” Then wrap those images, thus joined together, in a clean cloth washed with [albisina?] water, and place them in a movable vessel which the sages of India call pharnat alronda; and cover it carefully on top with scraped leather, and put it at the entrance of some closed dwelling, wherever you wish, for a space of 24 hours; and without any hesitation your desire will be perfectly fulfilled within those 24 hours. And your absent friend will know the intention in its whole form most perfectly, just as you spoke it over the image, however lengthy it may have been, and whatever you wish him to know from you, he will know perfectly and most secretly in those 24 hours, so that no human being will ever in eternity be able to perceive or know this without your will or that of your friend. And it is a great secret, which none of the sages before us dared to commit to writing. But if that friend of yours wishes to know anything of you from his affairs, he can make you more certain through the same spirit within the same space of 24 hours, provided that he is well perfected in this art. But you, when the 24 hours have elapsed, lift the images from the place in which they have been set, and put them away, because at every time of Orifiel you can work through them, not only for that friend of yours, but for any others, merely changing the name of that friend into the name of the one whom you wish to know something. And note that the images need not be painted [unclear], provided they have some proportionate likeness, so that they are recognized as images of human beings. But if anyone wishes and is able to paint them beautifully, nothing will hinder it, nor does it help.
+
+De
+
+*The Third Book*
+
+137 When the [place?] of the angel Sadael has been found from consideration of the fixed star at the point of Saturn’s motion, make two images, in the manner which we described in the preceding operation, of Orifiel, with the inscriptions, attestations, and all the other individual things that were stated there. When these have been completed, place those images upon five little branches of the herb thrasnote outside the house, in a safe, secret place, and say over them: In the name of † the Father † the Son † the Holy Spirit, Amen. Just as I have placed these two joined images of the angel Sadael, of N., son of N., my friend, upon these five movable branches, so I command you, Sadael, by the power of Orifiel, your great prince, to bring without delay to the knowledge of the aforesaid friend the secret of my mind which I have entrusted to you by explaining it. Having said these things, leave the images there for 24 hours; what you have wished will happen, and your friend will know, most perfectly and secretly, everything that you said over the images. Likewise, if you wish to know concerning someone absent how he is faring, you will be able in this way to know his true condition within 24 hours, however far away he may be. AND, BY THIS ART, WITH THE CONSTELLATION OBSERVED, YOU WILL BE ABLE TO KNOW ALL THINGS THAT HAPPEN IN THE WORLD.
+
+*Concerning the third Angel of Saturn, who is the second under Orifiel, called Pomiel, presiding over the third fourth of Saturn.*
+
+The third angel of Saturn is called Pomiel, who is second in order under Orifiel, the chief angel of Saturn. He presides over the seventh, eighth, and ninth Saturnine hour, both by day and by night, in all things that pertain to the operation of Saturn. Since his place, together with his order, is moved toward the fixed stars by 25 degrees from the East, you will find it in this way, through the tables, with his hours arranged.
+
+[table of hours and numbers unclear] When the motion of Saturn has been determined and the precise place of Pomiel found, make two images in every respect as we have said.
+
+*End of the Third Book.*

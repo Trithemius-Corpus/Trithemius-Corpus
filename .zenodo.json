@@ -1,0 +1,39 @@
+{
+  "title": "Trithemius Corpus: machine-assisted English translations of a 47-work Latin corpus by Johannes Trithemius (1462-1516)",
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "creators": [
+    {
+      "name": "Carlosian"
+    }
+  ],
+  "description": "A machine-assisted English translation of a 47-work Latin corpus by Johannes Trithemius (Benedictine abbot of Sponheim, 1462-1516), produced via OCR, LLM translation, independent grading, targeted remediation, and keep-better revision. Current public release view: 4,400 published chunks across 47 translatable printed editions (29 distinct texts), 4,353 graded chunks, mean faithful 4.63/5, 0.0% confirmed hallucination, 100.0% of graded chunks at faithful >= 4 and not hallucinated, and tier distribution S=47 / A=0 / B=0 / C=0 / F=0. Covers his monastic-reform, devotional, Marian/hagiographic, bibliographic, historical, and cryptographic writings, including 23 of its 29 distinct texts (39 of 47 editions) with no located prior published English translation. Each work includes stitched English, OCR-cleaned Latin, source provenance, a researched headnote, per-chunk grades, and a side-by-side Latin / English viewer. See README.md, METHODOLOGY.md, and docs/PRIOR_TRANSLATIONS.md.",
+  "keywords": [
+    "Trithemius",
+    "Neo-Latin",
+    "English translation",
+    "digital humanities",
+    "LLM translation",
+    "machine translation evaluation",
+    "early modern",
+    "monastic literature",
+    "history of cryptography",
+    "Renaissance",
+    "retrieval-augmented generation",
+    "translation calibration"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/claudlos/trithemius-corpus",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://claudlos.github.io/trithemius-corpus/",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    }
+  ],
+  "notes": "Latin source texts are public domain, with institutional scans cited per work in manifest.json. Machine translations and generated corpus artifacts are released as CC0-1.0. Methodology, documentation, code, and corpus arrangement are licensed CC BY 4.0; see LICENSE."
+}

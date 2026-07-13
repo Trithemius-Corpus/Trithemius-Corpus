@@ -1,0 +1,3 @@
+free will, over which neither kings nor princes have command. The sixth reason is praise for the merit of steadfast human virtue, when we praise a righteous poor man because, although he could have transgressed, with the help of God’s grace he remained steadfast in good will.
+
+The seventh reason why almighty God permits demons to do such evils through witches is that those who, having despised truth, take delight in falsehood may be utterly deceived, seduced by the devil, the inventor of falsehood. For it is fitting that enchanters and witches, who disdain to follow the saving teachings of Christ, should be deceived by demons [unclear].

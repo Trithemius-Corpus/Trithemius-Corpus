@@ -1,0 +1,23 @@
+all things that are, that are said, that are heard, are so received that they tend toward greater enmities. True friendship is rare today among mortals, because private good is preferred to common advantage, and those whom a gift, not grace, has joined cannot be faithful in friendship, since, as soon as they receive no more, [unclear] men abandon all charity. For love that is glued together by a gift is dissolved when the same is suspended. Therefore true friendship is that which seeks nothing from the possessions of the beloved except goodwill alone, namely that he should freely love the one who loves him. Equality of minds, indeed, brings friendship together, not ambition for things, so that a friend is in a friend through goodwill, as if another self or one soul, as Aristotle used to say, dwelling in two bodies. Since, therefore, there can be no true friendship among mortals unless true charity binds it together among those who love, which, shame to say, is exceedingly rare in our times, great diligence is needed in acquiring friends, lest we love without counsel one whom it later happens that we hate. Therefore a certain wise man, making much of the value of true friendship among mortals, used to say: There is no comparison for a faithful friend, since a faithful friend is a strong protection; he who finds such a one has certainly found a precious treasure. And Menander, confirming this very thing, says:
+[unclear]
+[unclear]
+In adversities a friend is preferable to money.
+Having friends, consider yourself to have treasures.
+
+How rare faithful friends are, we all experience every day: in prosperity we find many, but when fortune has changed we find no one, as Menander himself also said:
+[unclear]
+If you are rich, perhaps you will have friends in abundance.
+
+That wanton poet also bears witness to this in the Tristia, saying:
+So long as you are fortunate, you will count many friends;
+if times become cloudy, you will be alone.
+
+But farewell, my faithful friend: time heals all things. From Cologne, on the 16th day of the month of July, in the year 1505.
+
+*XXIII.*
+
+*Johannes Trithemius, Abbot of Sponheim, to Johannes Capellerius, mathematician, greetings.*
+
+*Steganography.*
+
+That part of our lesser Steganography to which we gave the Greek title [unclear], that is, “fertility of language,” and which you long ago requested from us, I have had copied out for you: a secret work, as you know, seen by no one up to now, which we send on this condition, that it be kept hidden. I do not reproach your love and your unfailing zeal for Greek letters and the other sciences of worldly philosophy; rather, I would praise them and extol them with great commendations, if you ordered all these things rightly toward divine love. For all studies of mortals, when they have not been ordered toward the charity of God, are empty, vain excesses to be despised by every Christian. We must therefore take care that our mind, mindful of salvation, never cling to worldly studies, but rather use them for the ministry and service, not continuously, but only when necessary, by turns, of spiritual philosophy and wisdom; through this, by loving, it is led into the knowledge of God, and, by knowing, is strengthened in the sweetness of love. We are mortal under the pressing statutes of nature; we all necessarily die, carrying with us only this: what progress we have made, by learning and studying, in the knowledge and love of the highest good, our creator. But all the fruits of other studies vanish like a mist, once the labor has been undertaken. Every art acquired by human means, which does not adhere to divine knowledge, although in this life it usurps for itself the name of knowledge, however celebrated, and attains a demonstrative habit, can remain in a person only as long as life with reason remains in the body. But it ceases completely when the person dies; it expires with the other actions of life. Concerning this vain knowledge of the world, Saint Christophilus says in a certain letter: If anyone thinks that he knows anything, he has not yet learned how he ought to know. But if anyone loves God, he is known by him. Saint Bernard, most beautifully explaining his meaning in the Meditations, said: You see that he does not approve those who know much if they do not know the manner of knowing. You see how he establishes the fruit and usefulness of knowledge in the manner of knowing. What then does he say, except that you should know in what order, with what zeal, and to what end each thing ought to be known? In what order: that first, which more maturely moves

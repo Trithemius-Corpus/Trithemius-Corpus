@@ -1,0 +1,3991 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Steganographia, hoc est: Ars per occultam scripturam &mdash; Cipher-key tables &mdash; Trithemius Corpus</title>
+<meta name="description" content="Steganography: The Art of Hidden Writing — Cipher-key tables, shown beside the source facsimiles.">
+<link rel="canonical" href="https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam_style-c-cipher-key.html"><meta property="og:type" content="website">
+<meta property="og:site_name" content="Trithemius Corpus">
+<meta property="og:title" content="Steganographia, hoc est: Ars per occultam scripturam &mdash; Cipher-key tables &mdash; Trithemius Corpus">
+<meta property="og:description" content="Steganography: The Art of Hidden Writing — Cipher-key tables, shown beside the source facsimiles.">
+<meta property="og:url" content="https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam_style-c-cipher-key.html"><meta property="og:image" content="https://trithemius-corpus.github.io/Trithemius-Corpus/static/images/hero-steganographia-wheel.webp"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@trithemius_corpus">
+<meta name="twitter:title" content="Steganographia, hoc est: Ars per occultam scripturam &mdash; Cipher-key tables &mdash; Trithemius Corpus">
+<meta name="twitter:description" content="Steganography: The Art of Hidden Writing — Cipher-key tables, shown beside the source facsimiles.">
+<meta name="twitter:image" content="https://trithemius-corpus.github.io/Trithemius-Corpus/static/images/hero-steganographia-wheel.webp"><link rel="icon" type="image/svg+xml" href="../static/favicon.svg">
+<meta name="theme-color" content="#100d12">
+<link rel="stylesheet" href="../static/fonts.css">
+<link rel="stylesheet" href="../static/style.css">
+<script>
+  // Apply the saved theme before first paint to avoid a flash of the wrong theme.
+  // 'auto' resolves from the OS colour-scheme preference (light→parchment,
+  // dark→steganographia) and is stored on a distinct attribute so the switcher
+  // can highlight 'auto' as active while the concrete theme paints immediately.
+  (function () {
+    function resolveAuto() {
+      try {
+        return window.matchMedia &&
+               window.matchMedia('(prefers-color-scheme: light)').matches
+               ? 'parchment' : 'steganographia';
+      } catch (e) { return 'steganographia'; }
+    }
+    try {
+      var t = localStorage.getItem('tc-theme');
+      if (t === 'auto') {
+        var r = resolveAuto();
+        document.documentElement.setAttribute('data-tc-theme', 'auto');
+        if (r !== 'steganographia') document.documentElement.setAttribute('data-theme', r);
+      } else if (t && t !== 'steganographia') {
+        document.documentElement.setAttribute('data-theme', t);
+      }
+    } catch (e) {}
+  })();
+</script>
+</head>
+<body class="parchment">
+<a class="skip-link" href="#main">Skip to content</a>
+<div class="read-progress" id="readProgress" aria-hidden="true"><span class="read-progress-pct" id="readProgressPct"></span></div>
+<header class="site-header">
+  <div class="container">
+    <h1 class="site-title"><a href="../index.html">Trithemius Corpus</a></h1>
+    <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="siteNav">
+      <span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span>
+    </button>
+    <nav class="site-nav" id="siteNav" aria-label="Site">
+      <a href="../works.html" class="is-active" aria-current="page">Works</a>
+      <a href="../ciphers.html">The Ciphers</a>
+      <a href="../tools.html">Cipher Lab</a>
+      <a href="../scoreboard.html">Quality</a>
+      <a href="../methodology.html">Methodology</a>
+      <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus">GitHub</a>
+      <a href="../search.html" class="nav-search" title="Search the corpus">&#128269; Search</a>
+      <span class="theme-switcher" role="group" aria-label="Theme">
+        <span class="theme-label" aria-hidden="true">Theme</span>
+        <button type="button" data-set="steganographia" title="Steganographia (celestial night)" aria-label="Steganographia theme"></button>
+        <button type="button" data-set="candlelight" title="Candlelight (warm dark)" aria-label="Candlelight theme"></button>
+        <button type="button" data-set="parchment" title="Parchment (light scholarly)" aria-label="Parchment theme"></button>
+        <button type="button" data-set="ink" title="Ink (high-contrast facsimile)" aria-label="Ink theme"></button>
+      </span>
+    </nav>
+  </div>
+</header>
+
+<main class="container" id="main">
+
+<article class="style-c-page">
+<nav class="breadcrumb" aria-label="Breadcrumb">
+<a href="../index.html">Home</a><span class="crumb-sep" aria-hidden="true">&rsaquo;</span><a href="../works.html">Works</a><span class="crumb-sep" aria-hidden="true">&rsaquo;</span><a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Steganographia, hoc est: Ars per occultam scripturam</a><span class="crumb-sep" aria-hidden="true">&rsaquo;</span><span class="crumb-here" aria-current="page">Cipher-key tables</span>  <button type="button" class="pdf-btn" onclick="window.print()">Save as PDF</button>
+</nav>
+
+
+<header class="work-header">
+  <h2 class="work-title">Steganographia, hoc est: Ars per occultam scripturam</h2>
+<p class="work-subtitle">Steganography: The Art of Hidden Writing</p>  <p class="work-id"><code>prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam</code> &middot; Style&nbsp;C / <strong>Cipher-key tables</strong></p>
+  <div class="badges">
+    <span class="badge tier-s">Tier S</span>
+    <span class="badge">39&nbsp;chunks</span>
+<a class="badge badge-link" href="../genres/crypto-occult.html">Cryptography &amp; the Occult</a>  </div>
+</header>
+
+
+<section class="style-c-intro">
+<h2>The cipher tables of the <em>Steganographia</em></h2>
+<p>The <em>Steganographia</em> is the work that made Trithemius famous and then notorious: three books that read, on the surface, as a manual for conjuring spirits, but are in fact a treatise on <strong>hidden writing</strong>. Each of its angel-princes — <em>Pamersiel, Padiel, Camuel, Aseliel, Barmiel, Malgaras, Dorothiel, Cabariel, Raysiel, Symiel, Baruchas</em> and the rest — governs a host of named sub-spirits, and it is in those <strong>sub-spirit tables</strong> that the cryptography lives. Each entry carries a wind or direction, a <em>red</em> (rubric) and a <em>black</em> letter, and a numeric value; together they are the <strong>key</strong> by which a concealed message is read out of the surrounding conjuration. (Book III turns to planetary and astrological value-tables in the same spirit.)</p>
+<p>The tables below are recovered, table by table, from the page scans of the 1621 Frankfurt/Darmstadt printing and set beside the <strong>source facsimile</strong>, which is the authority — the print itself carries OCR-resistant damage, and where a cell is illegible it is left <code>[unclear]</code> rather than guessed. The conjuration cover-text that each table belongs to is translated in the <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam_parallel.html">side-by-side reader</a>.</p>
+<p><strong>The cipher is decoded in a separate cryptanalysis.</strong> Eleven <em>modi</em> (II–XI and XXXII–XXXIX) decode — by inverting each <em>modus</em>'s printed alphabet — into ordinary early-modern German, demonstrated on the <a href="../cipher-solutions.html">cipher solutions page</a>. This edition, by contrast, renders the Latin (and the German cover-text embedded in Books I–II) as it stands; the body text is not decoded inline. For the mechanism, see the companion <em>Clavis</em> works (<code>prdl-70281</code>, <code>prdl-70282</code>) and Jim Reeds, <em>"Solved: The Ciphers in Book III of Trithemius's Steganographia"</em> (1998).</p>
+</section>
+
+<section class="style-c-chunks">
+  <h3 id="chunks">Per-chunk renderings</h3>
+  <nav class="style-c-index" aria-label="Jump to chunk">
+    <span class="idx-label">Jump to:</span>
+<a href="#full_chunk_0007">0007<span class="idx-pg">p14</span></a><a href="#full_chunk_0010">0010<span class="idx-pg">p21</span></a><a href="#full_chunk_0012">0012<span class="idx-pg">p25</span></a><a href="#full_chunk_0013">0013<span class="idx-pg">p28</span></a><a href="#full_chunk_0014">0014<span class="idx-pg">p30</span></a><a href="#full_chunk_0015">0015<span class="idx-pg">p32</span></a><a href="#full_chunk_0016">0016<span class="idx-pg">p34</span></a><a href="#full_chunk_0017">0017<span class="idx-pg">p36</span></a><a href="#full_chunk_0018">0018<span class="idx-pg">p38</span></a><a href="#full_chunk_0020">0020<span class="idx-pg">p42</span></a><a href="#full_chunk_0021">0021<span class="idx-pg">p43</span></a><a href="#full_chunk_0023">0023<span class="idx-pg">p47</span></a><a href="#full_chunk_0024">0024<span class="idx-pg">p49</span></a><a href="#full_chunk_0025">0025<span class="idx-pg">p51</span></a><a href="#full_chunk_0026">0026<span class="idx-pg">p53</span></a><a href="#full_chunk_0027">0027<span class="idx-pg">p55</span></a><a href="#full_chunk_0037">0037<span class="idx-pg">p75</span></a><a href="#full_chunk_0038">0038<span class="idx-pg">p77</span></a><a href="#full_chunk_0039">0039<span class="idx-pg">p79</span></a><a href="#full_chunk_0040">0040<span class="idx-pg">p81</span></a><a href="#full_chunk_0041">0041<span class="idx-pg">p83</span></a><a href="#full_chunk_0042">0042<span class="idx-pg">p85</span></a><a href="#full_chunk_0043">0043<span class="idx-pg">p87</span></a><a href="#full_chunk_0044">0044<span class="idx-pg">p89</span></a><a href="#full_chunk_0045">0045<span class="idx-pg">p91</span></a><a href="#full_chunk_0048">0048<span class="idx-pg">p95</span></a><a href="#full_chunk_0049">0049<span class="idx-pg">p96</span></a><a href="#full_chunk_0051">0051<span class="idx-pg">p101</span></a><a href="#full_chunk_0052">0052<span class="idx-pg">p102</span></a><a href="#full_chunk_0053">0053<span class="idx-pg">p104</span></a><a href="#full_chunk_0054">0054<span class="idx-pg">p106</span></a><a href="#full_chunk_0067">0067</a><a href="#full_chunk_0068">0068</a><a href="#full_chunk_0073">0073<span class="idx-pg">p145</span></a><a href="#full_chunk_0075">0075<span class="idx-pg">p150</span></a><a href="#full_chunk_0076">0076</a><a href="#full_chunk_0078">0078</a><a href="#full_chunk_0084">0084</a><a href="#full_chunk_0085">0085</a>  </nav>
+  <article class="style-c-chunk" id="full_chunk_0007">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_014.webp" target="_blank" rel="noopener"
+           title="Open full source page 14 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_014_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 14">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_015.webp" target="_blank" rel="noopener"
+           title="Open full source page 15 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_015_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 15">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 14, 15          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — the master "Table of Direction": the sixteen principal spirits of the winds, their signs and alternating black/red numeric keys, Book I · cipher-key table full_chunk_0007</h2>
+<p><em>A spirit-name table — each principal spirit of a wind carries its sign-glyph (here [sign]) and a row of alternating black (Schwarz) and red (Roth) numeric values, the master key by which the hidden message is read out of the conjurations of the whole first book; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<p><em>Headings: Schw[arz, black] / Roth[red], the alternating black-and-red numeric keys (S. R. S. R. S.); the Sign column holds each spirit's sign-glyph, here noted [sign]. Per the printed rubric, the engraver set "Podiel" for Padiel and "Cimuel" for Camuel.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Wind</th>
+<th>Spirit</th>
+<th>Sign</th>
+<th>(S.)</th>
+<th>(R.)</th>
+<th>(S.)</th>
+<th>(R.)</th>
+<th>(S.)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Oriens (East)</td>
+<td>Pamersiel</td>
+<td>[sign]</td>
+<td>1000</td>
+<td>10000</td>
+<td>100</td>
+<td>0.0</td>
+<td></td>
+</tr>
+<tr>
+<td>Subsolanus</td>
+<td>Padiel</td>
+<td>[sign]</td>
+<td>10000</td>
+<td>200000</td>
+<td>10</td>
+<td>0.0</td>
+<td></td>
+</tr>
+<tr>
+<td>Eurus</td>
+<td>Camuel</td>
+<td>[sign]</td>
+<td>10</td>
+<td>10</td>
+<td>10</td>
+<td>10.0</td>
+<td></td>
+</tr>
+<tr>
+<td>Euroauster</td>
+<td>Aseliel</td>
+<td>[sign]</td>
+<td>10</td>
+<td>20</td>
+<td>10</td>
+<td>0.10</td>
+<td></td>
+</tr>
+<tr>
+<td>Auster</td>
+<td>Barniel</td>
+<td>[sign]</td>
+<td>10</td>
+<td>20</td>
+<td>10</td>
+<td>20.0</td>
+<td></td>
+</tr>
+<tr>
+<td>Austrafricus</td>
+<td>Gediel</td>
+<td>[sign]</td>
+<td>20</td>
+<td>20</td>
+<td>10.0</td>
+<td>10.0</td>
+<td></td>
+</tr>
+<tr>
+<td>Africus</td>
+<td>Asyriel</td>
+<td>[sign]</td>
+<td>20</td>
+<td>20</td>
+<td>120</td>
+<td>10</td>
+<td></td>
+</tr>
+<tr>
+<td>Fauonius</td>
+<td>Maseriel</td>
+<td>[sign]</td>
+<td>30</td>
+<td>30</td>
+<td>10.0</td>
+<td>0.10</td>
+<td></td>
+</tr>
+<tr>
+<td>Occidens (West)</td>
+<td>Malgaras</td>
+<td>[sign]</td>
+<td>30</td>
+<td>30</td>
+<td>0.30</td>
+<td>210</td>
+<td></td>
+</tr>
+<tr>
+<td>Chorus</td>
+<td>Dorothiel</td>
+<td>[sign]</td>
+<td>40</td>
+<td>40</td>
+<td>0.40</td>
+<td>30.0</td>
+<td></td>
+</tr>
+<tr>
+<td>Subcircius</td>
+<td>Vsiel</td>
+<td>[sign]</td>
+<td>40</td>
+<td>40</td>
+<td>0.30</td>
+<td>0.0</td>
+<td></td>
+</tr>
+<tr>
+<td>Circus</td>
+<td>Cabariel</td>
+<td>[sign]</td>
+<td>50</td>
+<td>50</td>
+<td>80.0</td>
+<td>80.0</td>
+<td></td>
+</tr>
+<tr>
+<td>Septentrio (North)</td>
+<td>Raysiel</td>
+<td>[sign]</td>
+<td>50</td>
+<td>50</td>
+<td>80.0</td>
+<td>0.80</td>
+<td></td>
+</tr>
+<tr>
+<td>Aquilo</td>
+<td>Symiel</td>
+<td>[sign]</td>
+<td>10</td>
+<td>1000</td>
+<td>10</td>
+<td>100</td>
+<td></td>
+</tr>
+<tr>
+<td>Boreas</td>
+<td>Armadiel</td>
+<td>[sign]</td>
+<td>1000</td>
+<td>180</td>
+<td>810</td>
+<td>01</td>
+<td></td>
+</tr>
+<tr>
+<td>Vulturnus</td>
+<td>Baruchas</td>
+<td>[sign]</td>
+<td>10</td>
+<td>180</td>
+<td>810</td>
+<td>00</td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0007">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0010">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_021.webp" target="_blank" rel="noopener"
+           title="Open full source page 21 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_021_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 21">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_022.webp" target="_blank" rel="noopener"
+           title="Open full source page 22 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_022_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 22">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 21, 22          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — sub-spirits of the prince Camuel (ten by day, ten by night) and their cipher keys, Book I, ch. III · cipher-key table full_chunk_0010</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value (the count of its substitutes), the key by which the hidden message is read out of the conjuration of Camuel; the four spirits keyed 0 have no substitute, since 0 signifies nothing. A marginal note reads "It seemed rather to be read Nokar" for the spirit here printed Nodar. OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>(Black / Red)</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Orpeniel 10</td>
+<td>Citgara 10</td>
+<td>Daniel 10</td>
+<td>Dobiel 10</td>
+<td>Azimo 10</td>
+</tr>
+<tr>
+<td>Carryel 10</td>
+<td>Pariel 10</td>
+<td>Omzel 10</td>
+<td>*Nodar 10</td>
+<td>Tediel 0</td>
+</tr>
+<tr>
+<td>Budiel 10</td>
+<td>Cariel 10</td>
+<td>Asiniel 10</td>
+<td>Phaniel 10</td>
+<td>Moriel 0</td>
+</tr>
+<tr>
+<td>Elcar 10</td>
+<td>Neriel 10</td>
+<td>Calym 10</td>
+<td>Meras 10</td>
+<td>Tugaros 0</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0010">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0012">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_025.webp" target="_blank" rel="noopener"
+           title="Open full source page 25 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_025_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 25">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_026.webp" target="_blank" rel="noopener"
+           title="Open full source page 26 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_026_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 26">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_027.webp" target="_blank" rel="noopener"
+           title="Open full source page 27 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_027_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 27">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 25, 26, 27          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — sub-spirits of the prince Aseliel (sixteen greater princes) and their cipher keys, Book I, ch. IV · cipher-key table full_chunk_0012</h2>
+<p><em>A spirit-name table — each of the sixteen greater princes under Aseliel carries its red (rubric) and black letter and a numeric value of 20 subject servants, the key by which the hidden message (here, matters of love) is read out of the conjuration; eight preside over the day and eight over the night. OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mariel 20</td>
+<td>Cubiel 20</td>
+<td>Asphiel 20</td>
+<td>Melas 20</td>
+<td><em>(red names)</em></td>
+</tr>
+<tr>
+<td>Charas 20</td>
+<td>Aniel 20</td>
+<td>Curiel 20</td>
+<td>Sariel 20</td>
+<td><em>(black names)</em></td>
+</tr>
+<tr>
+<td>Parniel 20</td>
+<td>Asahel 20</td>
+<td>Chamos 20</td>
+<td>Othiel 20</td>
+<td><em>(black names)</em></td>
+</tr>
+<tr>
+<td>Aratiel 20</td>
+<td>Arean 20</td>
+<td>Odiel 20</td>
+<td>Bufar 20</td>
+<td><em>(red names)</em></td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0012">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0013">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_028.webp" target="_blank" rel="noopener"
+           title="Open full source page 28 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_028_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 28">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_029.webp" target="_blank" rel="noopener"
+           title="Open full source page 29 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_029_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 29">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 28, 29          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — sub-spirits of the prince Barmiel (sixteen dukes) and their cipher keys, Book I, ch. V · cipher-key table full_chunk_0013</h2>
+<p><em>A spirit-name table — each of the sixteen dukes under Barmiel carries its red (rubric) and black letter and a numeric value of subject ministers, the key by which the hidden message (here, the surrenders of camps and cities) is read out of the conjuration; twelve have 20 ministers, while the four keyed 0 have none and always come alone. OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>(Black / Red)</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sochas 20</td>
+<td>Aelerar 20</td>
+<td>Barbis 20</td>
+<td>Marcaiz 0</td>
+</tr>
+<tr>
+<td>Tigara 20</td>
+<td>Barbil 20</td>
+<td>Marquus 20</td>
+<td>Baabab 0</td>
+</tr>
+<tr>
+<td>Chansi 20</td>
+<td>Carpiel 20</td>
+<td>Caniel 20</td>
+<td>Gatir 0</td>
+</tr>
+<tr>
+<td>Keriel 20</td>
+<td>Mansi 20</td>
+<td>Acreba 20</td>
+<td>Aslib 0</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0013">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0014">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_030.webp" target="_blank" rel="noopener"
+           title="Open full source page 30 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_030_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 30">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_031.webp" target="_blank" rel="noopener"
+           title="Open full source page 31 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_031_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 31">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 30, 31          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — sub-spirits of the prince Gediel (sixteen dukes) and their cipher keys, Book I, ch. VI · cipher-key table full_chunk_0014</h2>
+<p><em>A spirit-name table — each of the sixteen dukes under Gediel carries its red (rubric) and black letter and a numeric value of 20 subject servants, the key by which the hidden message (here, the warning of friends against danger) is read out of the conjuration; eight preside over the day and eight over the night, and the prince's sign is given as red. OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>(Black / Red)</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Coliel 20</td>
+<td>Sariel 20</td>
+<td>Reciel 20</td>
+<td>Aroan 20</td>
+</tr>
+<tr>
+<td>Naras 20</td>
+<td>Rantiel 20</td>
+<td>Sadiel 20</td>
+<td>Cirecas 20</td>
+</tr>
+<tr>
+<td>Sabas 20</td>
+<td>Mashel 20</td>
+<td>Agra 20</td>
+<td>Aglas 20</td>
+</tr>
+<tr>
+<td>Assibs 20</td>
+<td>Bariel 20</td>
+<td>Anael 20</td>
+<td>Vriel 20</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0014">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0015">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_032.webp" target="_blank" rel="noopener"
+           title="Open full source page 32 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_032_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 32">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_033.webp" target="_blank" rel="noopener"
+           title="Open full source page 33 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_033_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 33">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 32, 33          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — sub-spirits of the prince Asiriel, diurnal princes (table begins), Book I, ch. VII · cipher-key table full_chunk_0015</h2>
+<p><em>A spirit-name table — each duke under Asiriel carries its red (rubric) and black letter and a numeric value of subject servants, the key by which the hidden message (here, the counsels of princes announced to friends) is read out of the conjuration. This chunk holds the opening, diurnal portion of Asiriel's table; its nocturnal continuation falls in the next chunk. OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>(Red / Black)</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Astor 20</td>
+<td>Buniel 20</td>
+<td>Arcisat 20</td>
+<td>Cusiel 20</td>
+</tr>
+<tr>
+<td>Carga 20</td>
+<td>Rabas 20</td>
+<td>Adriel 20</td>
+<td>Malqueel 20</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0015">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0016">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_034.webp" target="_blank" rel="noopener"
+           title="Open full source page 34 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_034_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 34">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_035.webp" target="_blank" rel="noopener"
+           title="Open full source page 35 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_035_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 35">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 34, 35          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — sub-spirits of the prince Asiriel, nocturnal princes (table continued), Book I, ch. VII · cipher-key table full_chunk_0016</h2>
+<p><em>A spirit-name table — each duke under Asiriel carries its red (rubric) and black letter and a numeric value of subject servants, the key by which the hidden message is read out of the conjuration. This chunk holds the nocturnal continuation of Asiriel's table (begun in the previous chunk): the first four spirits each have 20, the last four 10, as the prose explains; the printed numbers are partly garbled, so values are given as the chunk reads them. OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>(Black / Red)</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Amiel 20</td>
+<td>Maroth 20</td>
+<td>Budar 10</td>
+<td>Fassus 10</td>
+</tr>
+<tr>
+<td>Cusiel 20</td>
+<td>Omiel 20</td>
+<td>Aspiel 10</td>
+<td>Hamas 10</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0016">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0017">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_036.webp" target="_blank" rel="noopener"
+           title="Open full source page 36 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_036_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 36">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_037.webp" target="_blank" rel="noopener"
+           title="Open full source page 37 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_037_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 37">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 36, 37          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — sub-spirits of the prince Maseriel (twenty-four dukes) and their cipher keys, Book I, ch. VIII · cipher-key table full_chunk_0017</h2>
+<p><em>A spirit-name table — each of the twenty-four dukes under Maseriel carries its red (rubric) and black letter and a numeric value of 30 subject servants (720 servants in all), the key by which the hidden message (here, the secrets of philosophy, magic, and necromancy) is read out of the conjuration; the first twelve preside over the day and the remaining twelve over the night. OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>(Red / Black)</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mahue 30</td>
+<td>Zerael 30</td>
+<td>Azimel 30</td>
+<td>Alsuel 30</td>
+</tr>
+<tr>
+<td>Rouiel 30</td>
+<td>Athiel 30</td>
+<td>Chasor 30</td>
+<td>Aiel 30</td>
+</tr>
+<tr>
+<td>Faviel 30</td>
+<td>Vessur 30</td>
+<td>Potiel 30</td>
+<td>Espoel 30</td>
+</tr>
+<tr>
+<td>Arach 30</td>
+<td>Sarmiel 30</td>
+<td>Baros 30</td>
+<td>Rabiel 30</td>
+</tr>
+<tr>
+<td>Maras 30</td>
+<td>Amoyr 30</td>
+<td>Eliel 30</td>
+<td>Atriel 30</td>
+</tr>
+<tr>
+<td>Noquiel 30</td>
+<td>Badiel 30</td>
+<td>Paras 30</td>
+<td>Saluar 30</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0017">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0018">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_038.webp" target="_blank" rel="noopener"
+           title="Open full source page 38 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_038_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 38">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+page 38          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — sub-spirits of the prince Malgaras and their cipher keys, Book I, ch. IX · cipher-key table full_chunk_0018</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>(Black / Red)</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Carmiel 30</td>
+<td>Ager 30</td>
+<td>Cabel 30</td>
+<td>Misiel 20</td>
+<td>Aroiz 10</td>
+</tr>
+<tr>
+<td>Meliel 30</td>
+<td>Casiel 30</td>
+<td>Vdiel 30</td>
+<td>Barfas 20</td>
+<td></td>
+</tr>
+<tr>
+<td>Borass 30</td>
+<td>Rabil 20</td>
+<td>Oriel 30</td>
+<td>[unclear: 30 / 20 / 10]</td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+<p><em>(The Malgaras table continues into the following section; the trailing numeric cell is garbled in the print.)</em></p>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0018">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0020">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_042.webp" target="_blank" rel="noopener"
+           title="Open full source page 42 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_042_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 42">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+page 42          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — sub-spirits of the prince Dorothiel and their cipher keys, Book I, ch. X · cipher-key table full_chunk_0020</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<p><strong>Roth. — heading row (the four princes presiding over the hour)</strong></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mugael 0.</td>
+<td>Choriel 0.</td>
+<td>Artinc 0.</td>
+<td>Efiel 0.</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>The 24 dukes — diurnal (value 40) and nocturnal (value 400), in the two marker-orders P. S.R. and F. S.R.</strong></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>P. S.R.</th>
+<th>F. S.R.</th>
+<th>P. S.R.</th>
+<th>F. S.R.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Mugael 40</td>
+<td>Gudiel 400</td>
+<td>Nachiel 40</td>
+<td>Phutiel 400</td>
+</tr>
+<tr>
+<td>Choriel 40</td>
+<td>Aspher 400</td>
+<td>Ofsiel 40</td>
+<td>Cayros 400</td>
+</tr>
+<tr>
+<td>Artinc 40</td>
+<td>Emuel 400</td>
+<td>Bulis 40</td>
+<td>Narfiel 400</td>
+</tr>
+<tr>
+<td>Efiel 40</td>
+<td>Souiel 400</td>
+<td>Moniel 40</td>
+<td>Moziel 400</td>
+</tr>
+<tr>
+<td>Maniel 40</td>
+<td>Cabron 400</td>
+<td>Pafiel 40</td>
+<td>Aroziel 400</td>
+</tr>
+<tr>
+<td>Suriel 40</td>
+<td>Diuiel 400</td>
+<td>Gariel 40</td>
+<td>Cusync 400</td>
+</tr>
+<tr>
+<td>Carsiel 40</td>
+<td>Abriel 400</td>
+<td>Soriel 40</td>
+<td>Vraniel 400</td>
+</tr>
+<tr>
+<td>Fubiel 40</td>
+<td>Danael 400</td>
+<td>Darbori 40</td>
+<td>Pelusar 400</td>
+</tr>
+<tr>
+<td>Carba 40</td>
+<td>Lomor 400</td>
+<td>Paniel 40</td>
+<td>Abael 400</td>
+</tr>
+<tr>
+<td>Merach 40</td>
+<td>Cesael 400</td>
+<td>Curfas 40</td>
+<td>Meroth 400</td>
+</tr>
+<tr>
+<td>Althor 40</td>
+<td>Buliel 400</td>
+<td>Aliel 40</td>
+<td>Cadriel 400</td>
+</tr>
+<tr>
+<td>Omael 40</td>
+<td>Larfes 400</td>
+<td>Maziel 40</td>
+<td>Lobiel 400</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0020">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0021">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_043.webp" target="_blank" rel="noopener"
+           title="Open full source page 43 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_043_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 43">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_044.webp" target="_blank" rel="noopener"
+           title="Open full source page 44 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_044_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 44">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 43, 44          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — sub-spirits of the prince Vsiel and their cipher keys, Book I, ch. XI · cipher-key table full_chunk_0021</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<p><strong>Diurnal dukes (the fours and the thirties)</strong></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Roth. Schw. R.</th>
+<th>S. R.</th>
+<th>S. R.</th>
+<th>S. R.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Abaria 40</td>
+<td>Sacfer 40</td>
+<td>Amandiel 30</td>
+<td>Hijlam 30</td>
+</tr>
+<tr>
+<td>Amela 40</td>
+<td>Poniel 40</td>
+<td>Barsu 30</td>
+<td>Fabriel 30</td>
+</tr>
+<tr>
+<td>Arnen 40</td>
+<td>Saefar 40</td>
+<td>Garnacu 30</td>
+<td>Ifiniel 30</td>
+</tr>
+<tr>
+<td>Herne 40</td>
+<td>Alaque 40</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Nocturnal dukes (the fours, the twenties, and the solitary tens)</strong></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Schw. R.</th>
+<th>S. R.</th>
+<th>S. R.</th>
+<th>R. S.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Anfoel 40</td>
+<td>Saddiel 40</td>
+<td>Asuriel 20</td>
+<td>Pathyr 20</td>
+</tr>
+<tr>
+<td>Godiel 40</td>
+<td>Sobiel 40</td>
+<td>Almoel 20</td>
+<td>Maraee 20</td>
+</tr>
+<tr>
+<td>Barsos 40</td>
+<td>Osidiel 40</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Burfa 40</td>
+<td>Adan 40</td>
+<td>Laspharon 10</td>
+<td>Ethiel 10</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0021">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0023">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_047.webp" target="_blank" rel="noopener"
+           title="Open full source page 47 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_047_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 47">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_048.webp" target="_blank" rel="noopener"
+           title="Open full source page 48 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_048_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 48">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 47, 48          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — sub-spirits of the prince Cabariel and their cipher keys, Book I, ch. XII · cipher-key table full_chunk_0023</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Schw. R.</th>
+<th>S. R.</th>
+<th>S. R.</th>
+<th>S. R.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Satiefel 50</td>
+<td>Etymel 50</td>
+<td>Mador 50</td>
+<td>Ladiel 50</td>
+</tr>
+<tr>
+<td>Parius 50</td>
+<td>Clyffan 50</td>
+<td>Peniel 50</td>
+<td>Morias 50</td>
+</tr>
+<tr>
+<td>Godiel 50</td>
+<td>Elitel 50</td>
+<td>Cugiel 50</td>
+<td>Pandor 50</td>
+</tr>
+<tr>
+<td>Taros 50</td>
+<td>Aniel 50</td>
+<td>Thalbos 50</td>
+<td>Cazul 50</td>
+</tr>
+<tr>
+<td>Asoriel 50</td>
+<td>Cuphar 50</td>
+<td>Orym 50</td>
+<td>Dubiel 50</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0023">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0024">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_049.webp" target="_blank" rel="noopener"
+           title="Open full source page 49 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_049_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 49">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_050.webp" target="_blank" rel="noopener"
+           title="Open full source page 50 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_050_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 50">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 49, 50          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — sub-spirits of the prince Raysiel and their cipher keys, Book I, ch. XIII · cipher-key table full_chunk_0024</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<p><strong>Diurnal dukes (the fifties and the thirties)</strong></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>S.</th>
+<th>X.</th>
+<th>S.</th>
+<th>R.</th>
+<th>S.</th>
+<th>X.</th>
+<th>S.</th>
+<th>R.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Baciar 50</td>
+<td>Astael 50</td>
+<td></td>
+<td></td>
+<td>Chamael 30</td>
+<td>Melcha 30</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Thoac 50</td>
+<td>Ramica 50</td>
+<td></td>
+<td></td>
+<td>Fursiel 30</td>
+<td>Tharas 30</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Sequel 50</td>
+<td>Dubarus 50</td>
+<td></td>
+<td></td>
+<td>Betasiel 30</td>
+<td>Vuiel 30</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Sadar 50</td>
+<td>Armenia 50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Terath 50</td>
+<td>Albhadur 50</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Nocturnal dukes (the forties, the twenties, and the solitary tens)</strong></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Roth. S.</th>
+<th>R. S.</th>
+<th>R. S.</th>
+<th>R. S.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Thariel 40</td>
+<td>Lazaba 40</td>
+<td>Lamas 10</td>
+<td>Thurcal 10</td>
+</tr>
+<tr>
+<td>Paras 40</td>
+<td>Aleasy 40</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Arayl 40</td>
+<td>Sebach 40</td>
+<td>Belsay 20</td>
+<td>Sarach 20</td>
+</tr>
+<tr>
+<td>Culmar 40</td>
+<td>Quibda 40</td>
+<td>Morael 20</td>
+<td>Arepach 20</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0024">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0025">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_051.webp" target="_blank" rel="noopener"
+           title="Open full source page 51 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_051_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 51">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_052.webp" target="_blank" rel="noopener"
+           title="Open full source page 52 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_052_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 52">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 51, 52          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — sub-spirits of the prince Symiel and their cipher keys, Book I, ch. XIV · cipher-key table full_chunk_0025</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Schw.</th>
+<th>Roth.</th>
+<th>S. R.</th>
+<th>S. S.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Asinyel 60</td>
+<td>Larael 60</td>
+<td>Mafrus 70</td>
+<td>Marianu 100</td>
+</tr>
+<tr>
+<td>Chubas 100</td>
+<td>Achot 60</td>
+<td>Apiel 30</td>
+<td>Narzael 20</td>
+</tr>
+<tr>
+<td>Vasles 40</td>
+<td>Banier 90</td>
+<td>Curiel 40</td>
+<td>Murahe 30</td>
+</tr>
+<tr>
+<td>Malgron 20</td>
+<td>Dagiel 100</td>
+<td>Molael 10</td>
+<td>Eichel 120</td>
+</tr>
+<tr>
+<td>Romiel 80</td>
+<td>Musor 110</td>
+<td>Arafos 50</td>
+<td>Nalael 130</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0025">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0026">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_053.webp" target="_blank" rel="noopener"
+           title="Open full source page 53 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_053_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 53">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_054.webp" target="_blank" rel="noopener"
+           title="Open full source page 54 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_054_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 54">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 53, 54          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — sub-spirits of the prince Armadiel and their cipher keys, Book I, ch. XV · cipher-key table full_chunk_0026</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>R.</th>
+<th>Q. R.</th>
+<th>S. R.</th>
+<th>S. R.</th>
+<th>S.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Massar 50</td>
+<td>Orariel 10 10</td>
+<td>Pandiel 60 60 50</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Parabiel 40</td>
+<td>Oryn 20 20</td>
+<td>Carasiba 70 70 40</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Laiel 30</td>
+<td>Samiel 30 30</td>
+<td>Astibiel 80 80 30</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Caluarnya 20</td>
+<td>Asmael 40 40</td>
+<td>Mafayr 70 70 20</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Alferiel 10</td>
+<td>Iaziel 50 50</td>
+<td>Oeniel 60 60 10</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0026">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0027">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_055.webp" target="_blank" rel="noopener"
+           title="Open full source page 55 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_055_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 55">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_056.webp" target="_blank" rel="noopener"
+           title="Open full source page 56 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_056_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 56">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 55, 56          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — sub-spirits of the prince Baruchas and their cipher keys, Book I, ch. XVI · cipher-key table full_chunk_0027</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Rot.</th>
+<th>Schw.</th>
+<th>X.</th>
+<th>S. R.</th>
+<th>S. R.</th>
+<th>S. R.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Quita</td>
+<td>Cartael</td>
+<td>Monael</td>
+<td>100 10</td>
+<td>600 60</td>
+<td>500 50</td>
+</tr>
+<tr>
+<td>Sarael</td>
+<td>Ianiel</td>
+<td>Chubor</td>
+<td>200 20</td>
+<td>700 70</td>
+<td>400 40</td>
+</tr>
+<tr>
+<td>Melchon</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+<p><em>(The Baruchas table is broken off and the name- and value-columns are mis-aligned in the print; it continues in the following section. Cells left blank are damaged or omitted in the OCR.)</em></p>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0027">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0037">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_075.webp" target="_blank" rel="noopener"
+           title="Open full source page 75 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_075_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 75">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_076.webp" target="_blank" rel="noopener"
+           title="Open full source page 76 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_076_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 76">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 75, 76          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — counts of the prince Pyrichiel and their cipher keys, Book I, ch. XXIV · cipher-key table full_chunk_0037</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Spirit</th>
+<th>Spirit</th>
+<th>Numeric keys</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Damarsiel</td>
+<td>Menariel</td>
+<td>200 200 100 50 50</td>
+</tr>
+<tr>
+<td>Cardiel</td>
+<td>Demediel</td>
+<td>100 600 60 50 50</td>
+</tr>
+<tr>
+<td>Almasor</td>
+<td>Hursiel</td>
+<td>[unclear]</td>
+</tr>
+<tr>
+<td>Nemariel</td>
+<td>Cuprisiel</td>
+<td>400 30 30 10 10</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0037">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0038">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_077.webp" target="_blank" rel="noopener"
+           title="Open full source page 77 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_077_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 77">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_078.webp" target="_blank" rel="noopener"
+           title="Open full source page 78 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_078_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 78">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 77, 78          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — dukes and sub-dukes of the emperor Emoniel and their cipher keys, Book I, ch. XXV · cipher-key table full_chunk_0038</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Spirit</th>
+<th>Keys</th>
+<th>Spirit</th>
+<th>Keys</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ermoniel</td>
+<td>10</td>
+<td>Cruiiel</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Edriel</td>
+<td>10</td>
+<td>Armeiel</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Carnodiel</td>
+<td>10</td>
+<td>Caspaniel</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Phanuel</td>
+<td>10</td>
+<td>Musiniel</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Dramiel</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+</tr>
+<tr>
+<td>Pandiel</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+</tr>
+<tr>
+<td>Vasenel</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+</tr>
+<tr>
+<td>Nasiniel</td>
+<td>20</td>
+<td></td>
+<td>20</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0038">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0039">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_079.webp" target="_blank" rel="noopener"
+           title="Open full source page 79 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_079_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 79">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_080.webp" target="_blank" rel="noopener"
+           title="Open full source page 80 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_080_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 80">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 79, 80          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — dukes of the emperor Icosiel and their cipher keys, Book I, ch. XXVI · cipher-key table full_chunk_0039</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Spirit</th>
+<th>Spirit</th>
+<th>Spirit</th>
+<th>Keys</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Machariel</td>
+<td>Larphiel</td>
+<td>Athesiel</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Psichiel</td>
+<td>Amediel</td>
+<td>Vrbaniel</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Thanatiel</td>
+<td>Cambriel</td>
+<td>Cumariel</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Zosiel</td>
+<td>Zachriel</td>
+<td>Heresiel</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Agapiel</td>
+<td>Nathriel</td>
+<td>Munefiel</td>
+<td>10</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>300 / 100 / 30</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0039">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0040">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_081.webp" target="_blank" rel="noopener"
+           title="Open full source page 81 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_081_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 81">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_082.webp" target="_blank" rel="noopener"
+           title="Open full source page 82 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_082_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 82">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 81, 82          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — the twelve princes (dukes/counts) of Soleuiel and their cipher keys, Book I, ch. XXVII · cipher-key table full_chunk_0040</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Spirit</th>
+<th>Spirit</th>
+<th>Spirit</th>
+<th>Keys</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Inachiel</td>
+<td>Nadruiel</td>
+<td>Axosiel</td>
+<td>20 / 200</td>
+</tr>
+<tr>
+<td>Praxeel</td>
+<td>Cobusiel</td>
+<td>Charoel</td>
+<td>20 / 200</td>
+</tr>
+<tr>
+<td>Morucha</td>
+<td>Amriel</td>
+<td>Alurfiel</td>
+<td>20 / 200</td>
+</tr>
+<tr>
+<td>Almodar</td>
+<td>Prafiel</td>
+<td>Penador</td>
+<td>20 / 200</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0040">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0041">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_083.webp" target="_blank" rel="noopener"
+           title="Open full source page 83 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_083_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 83">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_084.webp" target="_blank" rel="noopener"
+           title="Open full source page 84 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_084_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 84">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 83, 84          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — dukes and counts of the emperor Menadiel and their cipher keys, Book I, ch. XXVIII · cipher-key table full_chunk_0041</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Spirit</th>
+<th>Keys</th>
+<th>Spirit</th>
+<th>Keys</th>
+<th>Spirit</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Larmol</td>
+<td>20</td>
+<td>Benodiel</td>
+<td>10 / 100</td>
+<td>Barchiel, Nedriel</td>
+</tr>
+<tr>
+<td>Drassiel</td>
+<td>20</td>
+<td>Charfiel</td>
+<td>10 / 100</td>
+<td>Amasiel, Curafyn</td>
+</tr>
+<tr>
+<td>Clamor</td>
+<td>20</td>
+<td>Samyel</td>
+<td>10 / 100</td>
+<td>Baruch, Tharsen</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0041">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0042">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_085.webp" target="_blank" rel="noopener"
+           title="Open full source page 85 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_085_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 85">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_086.webp" target="_blank" rel="noopener"
+           title="Open full source page 86 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_086_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 86">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 85, 86          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — princes of Macariel and their cipher keys, Book I, ch. XXIX, with the opening of Vriel's table, ch. XXX · cipher-key table full_chunk_0042</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<p><strong>Princes of Macariel (ch. XXIX)</strong></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Spirit</th>
+<th>Spirit</th>
+<th>Spirit</th>
+<th>Keys</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Claniel</td>
+<td>Asmadiel</td>
+<td>Gremiel</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Drusiel</td>
+<td>Romycel</td>
+<td>Thuriel</td>
+<td>30</td>
+</tr>
+<tr>
+<td>Andros</td>
+<td>Nasfuel</td>
+<td>Brufiel</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Charoel</td>
+<td>Varpiel</td>
+<td>Lemodac</td>
+<td>10</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Opening of Vriel's dukes (ch. XXX), continued in full_chunk_0043</strong></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Spirit</th>
+<th>Keys</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Chabri</td>
+<td>10</td>
+</tr>
+<tr>
+<td>Dragon</td>
+<td>10</td>
+</tr>
+<tr>
+<td>[counts/subdukes]</td>
+<td>100 20 10</td>
+</tr>
+<tr>
+<td>Drabos</td>
+<td>[unclear]</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0042">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0043">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_087.webp" target="_blank" rel="noopener"
+           title="Open full source page 87 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_087_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 87">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_088.webp" target="_blank" rel="noopener"
+           title="Open full source page 88 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_088_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 88">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 87, 88          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — dukes of the emperor Vriel and their cipher keys, Book I, ch. XXX · cipher-key table full_chunk_0043</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. The "columns / grid" cells reproduce the count-key tallies and grid-marks printed beside the dukes in the source. Continues from the Chabri / Dragon / Drabos fragment in full_chunk_0042. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Duke</th>
+<th>Keys</th>
+<th>Duke</th>
+<th>Keys</th>
+<th>Columns</th>
+<th>Grid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Drobos</td>
+<td>10</td>
+<td>Curmas</td>
+<td>10</td>
+<td>80 / 40</td>
+<td>1 2 3</td>
+</tr>
+<tr>
+<td>Narmiel</td>
+<td>10</td>
+<td>Drapios</td>
+<td>10</td>
+<td>60 / 60</td>
+<td>* 4 5 6</td>
+</tr>
+<tr>
+<td>Frasmiel</td>
+<td>10</td>
+<td>Hernon</td>
+<td>10</td>
+<td>40 / 80</td>
+<td>4 5 6</td>
+</tr>
+<tr>
+<td>Brymiel</td>
+<td>10</td>
+<td>Aldrusy</td>
+<td>10</td>
+<td>20 / 100</td>
+<td>β 1 2 3</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0043">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0044">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_089.webp" target="_blank" rel="noopener"
+           title="Open full source page 89 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_089_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 89">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_090.webp" target="_blank" rel="noopener"
+           title="Open full source page 90 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_090_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 90">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 89, 90          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — princes and counts of the prince Bydiel and their cipher keys, Book I, ch. XXXI · cipher-key table full_chunk_0044</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Spirit</th>
+<th>Keys</th>
+<th>Spirit</th>
+<th>Keys</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Aindriel</td>
+<td>20 / 200</td>
+<td>Charobiel</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Cruchan</td>
+<td>20 / 200</td>
+<td>Andrucha</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Bramfiel</td>
+<td>20 / 200</td>
+<td>Merafiel</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Armoniel</td>
+<td>20 / 200</td>
+<td>Parsifiel</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Lameniel</td>
+<td>20 / 200</td>
+<td>Chrenicas</td>
+<td>20</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0044">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0045">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_091.webp" target="_blank" rel="noopener"
+           title="Open full source page 91 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_091_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 91">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+page 91          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — general recapitulation of the thirty-one supreme spirits of Book One, with their characters and numeric keys · cipher-key table full_chunk_0045</h2>
+<p><em>[A spirit-name table — each of the thirty-one principal spirits carries a character (a sigil, not reproducible as text and marked ⟨sigil⟩) and a row of numeric values, the key by which the hidden message is read out of the conjuration; numbers are transcribed from the facsimile, with [unclear] where the print is illegible. Read alongside the facsimile.]</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>№</th>
+<th>Spirit</th>
+<th>Char.</th>
+<th>R.</th>
+<th>R.</th>
+<th>R.</th>
+<th>K.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>Pamersiel</td>
+<td>⟨sigil⟩</td>
+<td>1000</td>
+<td>10000</td>
+<td>100</td>
+<td>10</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Pachiel</td>
+<td>⟨sigil⟩</td>
+<td>1000</td>
+<td>200000</td>
+<td>100</td>
+<td>10</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Camuel</td>
+<td>⟨sigil⟩</td>
+<td>10</td>
+<td>10</td>
+<td>0</td>
+<td>100</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Asiel</td>
+<td>⟨sigil⟩</td>
+<td>10</td>
+<td>20</td>
+<td>0</td>
+<td>200</td>
+</tr>
+<tr>
+<td>5</td>
+<td>Barmiel</td>
+<td>⟨sigil⟩</td>
+<td>10</td>
+<td>20</td>
+<td>10</td>
+<td>200</td>
+</tr>
+<tr>
+<td>6</td>
+<td>Gediel</td>
+<td>⟨sigil⟩</td>
+<td>20</td>
+<td>20</td>
+<td>10</td>
+<td>200</td>
+</tr>
+<tr>
+<td>7</td>
+<td>Asyriel</td>
+<td>⟨sigil⟩</td>
+<td>20</td>
+<td>30</td>
+<td>10</td>
+<td>200</td>
+</tr>
+<tr>
+<td>8</td>
+<td>Maseriel</td>
+<td>⟨sigil⟩</td>
+<td>30</td>
+<td>30</td>
+<td>10</td>
+<td>200</td>
+</tr>
+<tr>
+<td>9</td>
+<td>Malgaras</td>
+<td>⟨sigil⟩</td>
+<td>30</td>
+<td>30</td>
+<td>10</td>
+<td>200</td>
+</tr>
+<tr>
+<td>10</td>
+<td>Dorothiel</td>
+<td>⟨sigil⟩</td>
+<td>40</td>
+<td>40</td>
+<td>10</td>
+<td>200</td>
+</tr>
+<tr>
+<td>11</td>
+<td>Vsiel</td>
+<td>⟨sigil⟩</td>
+<td>40</td>
+<td>40</td>
+<td>30</td>
+<td>200</td>
+</tr>
+<tr>
+<td>12</td>
+<td>Cabariel</td>
+<td>⟨sigil⟩</td>
+<td>50</td>
+<td>50</td>
+<td>40</td>
+<td>200</td>
+</tr>
+<tr>
+<td>13</td>
+<td>Raysiel</td>
+<td>⟨sigil⟩</td>
+<td>50</td>
+<td>50</td>
+<td>40</td>
+<td>200</td>
+</tr>
+<tr>
+<td>14</td>
+<td>Symiel</td>
+<td>⟨sigil⟩</td>
+<td>10</td>
+<td>100</td>
+<td>0</td>
+<td>4</td>
+</tr>
+<tr>
+<td>15</td>
+<td>Armadiel</td>
+<td>⟨sigil⟩</td>
+<td>1000</td>
+<td>180</td>
+<td>10</td>
+<td>60</td>
+</tr>
+<tr>
+<td>16</td>
+<td>Baruchas</td>
+<td>⟨sigil⟩</td>
+<td>1000</td>
+<td>100</td>
+<td>10</td>
+<td>30</td>
+</tr>
+<tr>
+<td>17</td>
+<td>Carnesiel</td>
+<td>⟨sigil⟩</td>
+<td>1000</td>
+<td>300</td>
+<td>1000</td>
+<td>100</td>
+</tr>
+<tr>
+<td>18</td>
+<td>Caspiel</td>
+<td>⟨sigil⟩</td>
+<td>200</td>
+<td>400</td>
+<td>200</td>
+<td>200</td>
+</tr>
+<tr>
+<td>19</td>
+<td>Amenadiel</td>
+<td>⟨sigil⟩</td>
+<td>300</td>
+<td>500</td>
+<td>200</td>
+<td>200</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Demoriel</td>
+<td>⟨sigil⟩</td>
+<td>400</td>
+<td>600</td>
+<td>400</td>
+<td>400</td>
+</tr>
+<tr>
+<td>21</td>
+<td>Geradiel</td>
+<td>⟨sigil⟩</td>
+<td>100</td>
+<td>[unclear]</td>
+<td>100</td>
+<td>100</td>
+</tr>
+<tr>
+<td>22</td>
+<td>Buriel</td>
+<td>⟨sigil⟩</td>
+<td>100</td>
+<td>10</td>
+<td>10</td>
+<td>20</td>
+</tr>
+<tr>
+<td>23</td>
+<td>Hydriel</td>
+<td>⟨sigil⟩</td>
+<td>100</td>
+<td>10</td>
+<td>100</td>
+<td>200</td>
+</tr>
+<tr>
+<td>24</td>
+<td>Pyrichiel</td>
+<td>⟨sigil⟩</td>
+<td>100</td>
+<td>10</td>
+<td>0</td>
+<td>200</td>
+</tr>
+<tr>
+<td>25</td>
+<td>Emoniel</td>
+<td>⟨sigil⟩</td>
+<td>100</td>
+<td>10</td>
+<td>20</td>
+<td>200</td>
+</tr>
+<tr>
+<td>26</td>
+<td>Icosiel</td>
+<td>⟨sigil⟩</td>
+<td>100</td>
+<td>10</td>
+<td>300</td>
+<td>100</td>
+</tr>
+<tr>
+<td>27</td>
+<td>Soleuiel</td>
+<td>⟨sigil⟩</td>
+<td>200</td>
+<td>20</td>
+<td>200</td>
+<td>100</td>
+</tr>
+<tr>
+<td>28</td>
+<td>Menadiel</td>
+<td>⟨sigil⟩</td>
+<td>20</td>
+<td>10</td>
+<td>100</td>
+<td>20</td>
+</tr>
+<tr>
+<td>29</td>
+<td>Macariel</td>
+<td>⟨sigil⟩</td>
+<td>40</td>
+<td>40</td>
+<td>20</td>
+<td>10</td>
+</tr>
+<tr>
+<td>30</td>
+<td>Vriel</td>
+<td>⟨sigil⟩</td>
+<td>10</td>
+<td>10</td>
+<td>100</td>
+<td>20</td>
+</tr>
+<tr>
+<td>31</td>
+<td>Bidiel</td>
+<td>⟨sigil⟩</td>
+<td>20</td>
+<td>20</td>
+<td>200</td>
+<td>20</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0045">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0048">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_095.webp" target="_blank" rel="noopener"
+           title="Open full source page 95 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_095_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 95">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+page 95          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — counts of the emperor Samael, prince of the first hour of the day, and their cipher keys, Book II, ch. I · cipher-key table full_chunk_0048</h2>
+<p><em>[A spirit-name table — each entry pairs two count-spirits and carries a row of numeric values together with the red (rubric) marker letters, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.]</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>R.</th>
+<th></th>
+<th>10</th>
+<th>100</th>
+<th>1000</th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ameniel</td>
+<td>Brumiel</td>
+<td>10</td>
+<td>100</td>
+<td>1000</td>
+<td>µ</td>
+<td>7</td>
+</tr>
+<tr>
+<td>Charpon</td>
+<td>Nestoriel</td>
+<td>10</td>
+<td>100</td>
+<td>1000</td>
+<td>α</td>
+<td>β</td>
+</tr>
+<tr>
+<td>Darosiel</td>
+<td>Chremas</td>
+<td>10</td>
+<td>100</td>
+<td>1000</td>
+<td>10</td>
+<td>20</td>
+</tr>
+<tr>
+<td>Monasiel</td>
+<td>Merefyn</td>
+<td>10</td>
+<td>100</td>
+<td>1000</td>
+<td>20</td>
+<td>10</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0048">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0049">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_096.webp" target="_blank" rel="noopener"
+           title="Open full source page 96 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_096_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 96">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_097.webp" target="_blank" rel="noopener"
+           title="Open full source page 97 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_097_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 97">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 96, 97          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — dukes and counts of the emperor Anael, prince of the second hour of the day (Cevorym), and their cipher keys, Book II, ch. II · cipher-key table full_chunk_0049</h2>
+<p><em>[A spirit-name table — each entry pairs a duke with two counts and carries a row of numeric values together with the red (rubric) marker, the key by which the hidden message is read out of the conjuration; "G. n." marks the servant-order count left general/unnumbered in the print. Read alongside the facsimile.]</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>R.</th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Menarchos</td>
+<td>Orphiel</td>
+<td>Quosiel</td>
+<td>10</td>
+<td>100</td>
+<td>G. n.</td>
+</tr>
+<tr>
+<td>Archiel</td>
+<td>Cursiel</td>
+<td>Ermaziel</td>
+<td>10</td>
+<td>100</td>
+<td>G. n.</td>
+</tr>
+<tr>
+<td>Chardiel</td>
+<td>Elmoym</td>
+<td>Granyel</td>
+<td>10</td>
+<td>100</td>
+<td>G. n.</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0049">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0051">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_101.webp" target="_blank" rel="noopener"
+           title="Open full source page 101 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_101_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 101">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+page 101          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — dukes and counts of the emperor Vequaniel, prince of the third hour of the day (Danzur), and their cipher keys, Book II, ch. III · cipher-key table full_chunk_0051</h2>
+<p><em>[A spirit-name table — each entry pairs a duke with two counts and carries a row of numeric values together with the red (rubric) markers, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.]</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>R.</th>
+<th>R.</th>
+<th>R.</th>
+<th>20</th>
+<th>20</th>
+<th>200</th>
+<th>200</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Asmiel</td>
+<td>Drelmech</td>
+<td>Gemarij</td>
+<td>20</td>
+<td>20</td>
+<td>200</td>
+<td>200</td>
+</tr>
+<tr>
+<td>Persiel</td>
+<td>Sadiniel</td>
+<td>Xantiel</td>
+<td>20</td>
+<td>20</td>
+<td>200</td>
+<td>200</td>
+</tr>
+<tr>
+<td>Atursiel</td>
+<td>Parniel</td>
+<td>Serviel</td>
+<td>20</td>
+<td>20</td>
+<td>200</td>
+<td>200</td>
+</tr>
+<tr>
+<td>Zoesiel</td>
+<td>Comadiel</td>
+<td>Furiel</td>
+<td>20</td>
+<td>20</td>
+<td>200</td>
+<td>200</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0051">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0052">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_102.webp" target="_blank" rel="noopener"
+           title="Open full source page 102 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_102_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 102">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_103.webp" target="_blank" rel="noopener"
+           title="Open full source page 103 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_103_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 103">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 102, 103          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — dukes and counts of the emperor Vathmiel, prince of the fourth hour of the day (Elechym), and their cipher keys, Book II, ch. IV · cipher-key table full_chunk_0052</h2>
+<p><em>[A spirit-name table — each entry pairs a duke with two counts and carries a row of numeric values together with the red (rubric) markers, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.]</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>R.</th>
+<th>R.</th>
+<th>R.</th>
+<th>R.</th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Aminyel</td>
+<td>Emarfiel</td>
+<td>Iermiel</td>
+<td>10</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Larmich</td>
+<td>Permiel</td>
+<td>Thuroz</td>
+<td>10</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Alarfel</td>
+<td>Queriel</td>
+<td>Vanesiel</td>
+<td>10</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Ormyel</td>
+<td>Strubiel</td>
+<td>Zasuiel</td>
+<td>10</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Zardiel</td>
+<td>Diniel</td>
+<td>Hermiel</td>
+<td>10</td>
+<td>100</td>
+<td>100</td>
+<td>100</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0052">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0053">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_104.webp" target="_blank" rel="noopener"
+           title="Open full source page 104 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_104_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 104">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_105.webp" target="_blank" rel="noopener"
+           title="Open full source page 105 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_105_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 105">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 104, 105          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — dukes and counts of the emperor Sasquiel, prince of the fifth hour of the day (Fealech), and their cipher keys, Book II, ch. V · cipher-key table full_chunk_0053</h2>
+<p><em>[A spirit-name table — each entry pairs a duke with two counts and carries a row of numeric values together with the red (rubric) markers, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.]</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>R.</th>
+<th>R.</th>
+<th>R.</th>
+<th>10</th>
+<th>100</th>
+<th>1000</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Daniel</td>
+<td>Iamriel</td>
+<td>Omerach</td>
+<td>10</td>
+<td>100</td>
+<td>1000</td>
+</tr>
+<tr>
+<td>Araniel</td>
+<td>Funitiel</td>
+<td>Lameros</td>
+<td>10</td>
+<td>100</td>
+<td>1000</td>
+</tr>
+<tr>
+<td>Maroch</td>
+<td>Ramriel</td>
+<td>Zachiel</td>
+<td>10</td>
+<td>100</td>
+<td>1000</td>
+</tr>
+<tr>
+<td>Sarapiel</td>
+<td>Amisiel</td>
+<td>Fustiel</td>
+<td>10</td>
+<td>100</td>
+<td>1000</td>
+</tr>
+<tr>
+<td>Putifiel</td>
+<td>Vraniel</td>
+<td>Camiel</td>
+<td>10</td>
+<td>100</td>
+<td>1000</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0053">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0054">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_106.webp" target="_blank" rel="noopener"
+           title="Open full source page 106 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_106_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 106">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_107.webp" target="_blank" rel="noopener"
+           title="Open full source page 107 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_107_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 107">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_108.webp" target="_blank" rel="noopener"
+           title="Open full source page 108 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_108_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 108">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 106, 107, 108          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — dukes and counts of two day-hour princes, Samiel/Saniel (sixth hour) and Barquiel (seventh hour), and their cipher keys, Book II, chs. VI–VII · cipher-key table full_chunk_0054</h2>
+<p><em>[Spirit-name tables — each entry pairs a duke with two counts and carries a row of numeric values together with the red (rubric) markers, the key by which the hidden message is read out of the conjuration; cells left [unclear] are damaged in the print. The Barquiel table is broken across pages 107–108 in the source and is recovered here from the facsimile. Read alongside the facsimile.]</em></p>
+<p><strong>Saniel (Samiel), sixth hour of the day (Genapherym), ch. VI</strong></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>R.</th>
+<th>R.</th>
+<th>R.</th>
+<th>10</th>
+<th>100</th>
+<th>100</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Arnibiel</td>
+<td>Gamyel</td>
+<td>Nedabar</td>
+<td>10</td>
+<td>100</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Charuch</td>
+<td>Lenotriel</td>
+<td>Permon</td>
+<td>10</td>
+<td>100</td>
+<td>110</td>
+</tr>
+<tr>
+<td>Medafiel</td>
+<td>Sameon</td>
+<td>Brasiel</td>
+<td>10</td>
+<td>100</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Nathmiel</td>
+<td>Trafiel</td>
+<td>Camosiel</td>
+<td>10</td>
+<td>100</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Pemiel</td>
+<td>Xamyon</td>
+<td>Euadar</td>
+<td>10</td>
+<td>100</td>
+<td>100</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Barquiel, seventh hour of the day (Hamarym), ch. VII</strong> — <em>(recovered from facsimile pages 107–108; the English chunk preserves only the first three duke-names and the leading numeric column)</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>R.</th>
+<th></th>
+<th></th>
+<th>10</th>
+<th>10</th>
+<th>100</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Abrasel</td>
+<td>Harmiel</td>
+<td>Rafiel</td>
+<td>10</td>
+<td>10</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Farmes</td>
+<td>Nasthon</td>
+<td>Veneliel</td>
+<td>10</td>
+<td>10</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Nestorii</td>
+<td>Varmey</td>
+<td>Enarym</td>
+<td>10</td>
+<td>10</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Manuel</td>
+<td>Tulmas</td>
+<td>Drusiel</td>
+<td>10</td>
+<td>10</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Sagiel</td>
+<td>Crosiel</td>
+<td>Kathos</td>
+<td>10</td>
+<td>10</td>
+<td>100</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0054">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0067">
+    <div class="style-c-pair no-facsimile">
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — sub-spirits of the emperor Abafdarhon, prince of the fifth hour of the night (Sanayfar), and their cipher keys, Book II, ch. XVII · cipher-key table full_chunk_0067</h2>
+<p><em>[A spirit-name table — each row gives three sub-spirits distributed through the twelve orders and turns of Abafdarhon, each carrying its numeric value (100), the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. As shown in the chunk this is a partial transcription of the larger fifth-hour-of-night table. Read alongside the facsimile.]</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Meniel</td>
+<td>Gemarii</td>
+<td>Barmas</td>
+<td>100 100 100 100</td>
+</tr>
+<tr>
+<td>Charaby</td>
+<td>Vanefcor</td>
+<td>Platiel</td>
+<td>100 100 100 100</td>
+</tr>
+<tr>
+<td>Appiniel</td>
+<td>Saméryn</td>
+<td>Keszomy</td>
+<td>100 100 100 100</td>
+</tr>
+<tr>
+<td>Deinatz</td>
+<td>Xantropy</td>
+<td>Quesdor</td>
+<td>100 100 100 100</td>
+</tr>
+<tr>
+<td>Nechsrym</td>
+<td>Herphatz</td>
+<td>Caremaz</td>
+<td>100 100 100 100</td>
+</tr>
+<tr>
+<td>Hameriel</td>
+<td>Chrymas</td>
+<td>Ymariel</td>
+<td>100 100 100 100</td>
+</tr>
+<tr>
+<td>Valcaniel</td>
+<td>Patrozyn</td>
+<td>Kralym</td>
+<td>100 100 100 100</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0067">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0068">
+    <div class="style-c-pair no-facsimile">
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — closing cipher-key markers for the sub-spirits of the prince Abaldarhon, Book II, ch. XVII (hour Aabidandes, angel Tartys) · cipher-key table full_chunk_0068</h2>
+<p><em>A spirit-name table — the three rubric marker-names close the roster of forty named sub-spirits, each carrying its numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Marker</th>
+<th>Marker</th>
+<th>Marker</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Sameln</td>
+<td>Nameton</td>
+<td>Habalon</td>
+<td>100 100 100 100</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0068">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0073">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_145.webp" target="_blank" rel="noopener"
+           title="Open full source page 145 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_145_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 145">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_146.webp" target="_blank" rel="noopener"
+           title="Open full source page 146 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_146_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 146">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 145, 146          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — dukes, counts, and servants of the prince Iasguarim (emperor of the hour Malcho), Book II, ch. XXII · cipher-key table full_chunk_0073</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Dukes</th>
+<th>Counts</th>
+<th>Servants</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Lapheriel</td>
+<td>Chameray</td>
+<td>30 30 30 / 10 10 10</td>
+</tr>
+<tr>
+<td>Emarziel</td>
+<td>Hazaniel</td>
+<td>100 100 100 100 100 100</td>
+</tr>
+<tr>
+<td>Nameroyz</td>
+<td>Vraniel</td>
+<td>300 300 300</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0073">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0075">
+    <div class="style-c-pair">
+      <figure class="style-c-facsimile">
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_150.webp" target="_blank" rel="noopener"
+           title="Open full source page 150 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_150_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 150">
+        </a>
+        <a class="facs-link" href="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_151.webp" target="_blank" rel="noopener"
+           title="Open full source page 151 in a new tab">
+          <img src="../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_151_thumb.webp" loading="lazy" decoding="async"
+               alt="Source facsimile, page 151">
+        </a>
+        <figcaption>
+          Source facsimile &middot;
+pages 150, 151          &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">BNF</a>          <span class="facs-hint">click to enlarge</span>
+        </figcaption>
+      </figure>
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — dukes, counts, and servants of the prince Dardariel (eleventh hour of the night), Book II, ch. XXIII · cipher-key table full_chunk_0075</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Dukes</th>
+<th></th>
+<th></th>
+<th>Counts</th>
+<th>Servants</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cardiel</td>
+<td>Damar</td>
+<td>Carman</td>
+<td>Iatroziel</td>
+<td>10 / 20 / 00</td>
+</tr>
+<tr>
+<td>Permon</td>
+<td>Alachuc</td>
+<td>Elamyz</td>
+<td>Lamersy</td>
+<td>10 / 20 / 00</td>
+</tr>
+<tr>
+<td>Armiel</td>
+<td>Emeriel</td>
+<td></td>
+<td>Hamarytz</td>
+<td>10 / 20 / 00</td>
+</tr>
+<tr>
+<td>Nastoriel</td>
+<td>Naueroz</td>
+<td></td>
+<td></td>
+<td>10 / 20</td>
+</tr>
+<tr>
+<td>Casmiroz</td>
+<td>Alaphar</td>
+<td></td>
+<td></td>
+<td>19 / 20</td>
+</tr>
+<tr>
+<td>Dameriel</td>
+<td>Nermas</td>
+<td></td>
+<td></td>
+<td>10 / 20</td>
+</tr>
+<tr>
+<td>Furainiel</td>
+<td>Druchas</td>
+<td></td>
+<td></td>
+<td>20</td>
+</tr>
+<tr>
+<td>Masriel</td>
+<td></td>
+<td></td>
+<td></td>
+<td>20</td>
+</tr>
+<tr>
+<td>Hariaz</td>
+<td></td>
+<td></td>
+<td></td>
+<td>20</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0075">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0076">
+    <div class="style-c-pair no-facsimile">
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — dukes, counts, and servants of the prince Sarandiel (twelfth hour of the night, hour Xephan), Book II, ch. XXIV · cipher-key table full_chunk_0076</h2>
+<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value, the key by which the hidden message is read out of the conjuration; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Dukes</th>
+<th></th>
+<th></th>
+<th>Counts</th>
+<th>Servants</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Adoniel</td>
+<td>Marachy</td>
+<td>Hardiel</td>
+<td></td>
+<td>10 / 20 / 00 / 20 / 10</td>
+</tr>
+<tr>
+<td>Damisiel</td>
+<td>Chabreon</td>
+<td>Nefrias</td>
+<td></td>
+<td>10 / 20 / 00 / 20 / 10</td>
+</tr>
+<tr>
+<td>Ambriel</td>
+<td>Nestoriel</td>
+<td>Irmanotz</td>
+<td></td>
+<td>10 / 20 / 00 / 20 / 10</td>
+</tr>
+<tr>
+<td>Meriel</td>
+<td>Zachriel</td>
+<td>Gerthiel</td>
+<td></td>
+<td>10 / 20 / 00 / 20 / 10</td>
+</tr>
+<tr>
+<td>Denaryz</td>
+<td>Naueriel</td>
+<td>Dromiel</td>
+<td></td>
+<td>10 / 20 / 00 / 20 / 10</td>
+</tr>
+<tr>
+<td>Emarion</td>
+<td>Damery</td>
+<td>Ladrotz</td>
+<td></td>
+<td>10 / 20 / 00 / 20 / 10</td>
+</tr>
+<tr>
+<td>Kabriel</td>
+<td>Namael</td>
+<td>Melan</td>
+<td></td>
+<td>10 / 20 / 00 / 20 / 10</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0076">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0078">
+    <div class="style-c-pair no-facsimile">
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — the seven planetary Angels with their subject spirits and the mansion/value index (Menastor's table), Book III, Preface · cipher-key table full_chunk_0078</h2>
+<p><em>A planetary value-table — each planet-Angel governs three subject spirits, each spirit bearing a mansion number and a triplet of numeric keys (Roth.), by which secrets are announced through the art; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<p><strong>Mansions of the spirits with the planets</strong> <em>(column heads in the print: ur. M. L. n. c.)</em></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Planet-Angel</th>
+<th>Spirit</th>
+<th>Mansion</th>
+<th>Roth.</th>
+<th>Roth.</th>
+<th>Roth.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>Oriffel — Sadsel</td>
+<td>1</td>
+<td>675</td>
+<td>663</td>
+<td>651</td>
+</tr>
+<tr>
+<td></td>
+<td>Poniel</td>
+<td>2</td>
+<td>700</td>
+<td>688</td>
+<td>676</td>
+</tr>
+<tr>
+<td></td>
+<td>Morisiel</td>
+<td>3</td>
+<td>723</td>
+<td>713</td>
+<td>701</td>
+</tr>
+<tr>
+<td>Zachariel</td>
+<td>Floriel</td>
+<td>1</td>
+<td>575</td>
+<td>563</td>
+<td>551</td>
+</tr>
+<tr>
+<td></td>
+<td>Ariel</td>
+<td>2</td>
+<td>600</td>
+<td>588</td>
+<td>576</td>
+</tr>
+<tr>
+<td></td>
+<td>Raphael</td>
+<td>3</td>
+<td>625</td>
+<td>613</td>
+<td>601</td>
+</tr>
+<tr>
+<td>Samael</td>
+<td>Amael</td>
+<td>1</td>
+<td>475</td>
+<td>463</td>
+<td>451</td>
+</tr>
+<tr>
+<td></td>
+<td>Asmael</td>
+<td>2</td>
+<td>500</td>
+<td>488</td>
+<td>476</td>
+</tr>
+<tr>
+<td></td>
+<td>Nebiel</td>
+<td>3</td>
+<td>525</td>
+<td>513</td>
+<td>501</td>
+</tr>
+<tr>
+<td>Michael</td>
+<td>Laniel</td>
+<td>1</td>
+<td>373</td>
+<td>363</td>
+<td>351</td>
+</tr>
+<tr>
+<td></td>
+<td>Pasaef</td>
+<td>2</td>
+<td>400</td>
+<td>388</td>
+<td>376</td>
+</tr>
+<tr>
+<td></td>
+<td>Vanriel</td>
+<td>3</td>
+<td>425</td>
+<td>413</td>
+<td>401</td>
+</tr>
+<tr>
+<td>Anael</td>
+<td>Zabdiel</td>
+<td>1</td>
+<td>275</td>
+<td>263</td>
+<td>251</td>
+</tr>
+<tr>
+<td></td>
+<td>Sacmiel</td>
+<td>2</td>
+<td>300</td>
+<td>288</td>
+<td>276</td>
+</tr>
+<tr>
+<td></td>
+<td>Adaniel</td>
+<td>3</td>
+<td>325</td>
+<td>313</td>
+<td>301</td>
+</tr>
+<tr>
+<td>Raphael</td>
+<td>Carmiel</td>
+<td>1</td>
+<td>175</td>
+<td>163</td>
+<td>151</td>
+</tr>
+<tr>
+<td></td>
+<td>Nabeyel</td>
+<td>2</td>
+<td>200</td>
+<td>188</td>
+<td>176</td>
+</tr>
+<tr>
+<td></td>
+<td>Pathiel</td>
+<td>3</td>
+<td>225</td>
+<td>213</td>
+<td>203</td>
+</tr>
+<tr>
+<td>Gabriel</td>
+<td>Remafiel</td>
+<td>1</td>
+<td>75</td>
+<td>63</td>
+<td>51</td>
+</tr>
+<tr>
+<td></td>
+<td>Tespiel</td>
+<td>2</td>
+<td>100</td>
+<td>88</td>
+<td>76</td>
+</tr>
+<tr>
+<td></td>
+<td>Theoriel</td>
+<td>3</td>
+<td>125</td>
+<td>113</td>
+<td>101</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Additional rows (partly damaged in the print)</strong></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Mark</th>
+<th>Name</th>
+<th>Mansion</th>
+<th>Name</th>
+<th>Values</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>S.</td>
+<td>Aniel</td>
+<td>4</td>
+<td>Wenasor</td>
+<td>631 / 20 / 642 / 639</td>
+</tr>
+<tr>
+<td>H.</td>
+<td>Saturnus</td>
+<td></td>
+<td>Schamaro</td>
+<td>627 / 20 / 638 / 646</td>
+</tr>
+<tr>
+<td>Li</td>
+<td>Kraluotos</td>
+<td></td>
+<td>Ihubrays</td>
+<td>626 / 20 / 650 / 634</td>
+</tr>
+<tr>
+<td></td>
+<td>Ymarena</td>
+<td></td>
+<td>Tzatzraym</td>
+<td>628 / 20 / 639 / [unclear]</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0078">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0084">
+    <div class="style-c-pair no-facsimile">
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — value-tables for Orihel, supreme Angel of Saturn (first quarter), Book III, ch. I · cipher-key table full_chunk_0084</h2>
+<p><em>A planetary value-table — the rows give, under their rubric (R.) and black (S.) marker columns by hour, degree, and point, the numeric keys for finding the rising, elevation, and setting of the Angel Orihel with Saturn; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<p><strong>First table</strong></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>S.</th>
+<th>R.</th>
+<th>S.</th>
+<th>R.</th>
+<th>R.</th>
+<th>S.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Hora 1</td>
+<td>Hor. 2</td>
+<td>hor. 3</td>
+<td>grad.</td>
+<td>punct.</td>
+<td>hor. 1</td>
+</tr>
+<tr>
+<td>640</td>
+<td>635</td>
+<td>22</td>
+<td>25</td>
+<td>634</td>
+<td>632</td>
+</tr>
+<tr>
+<td>642</td>
+<td>R. 646</td>
+<td>647</td>
+<td>R. 3</td>
+<td>646</td>
+<td>32</td>
+</tr>
+<tr>
+<td>634</td>
+<td>25</td>
+<td>646</td>
+<td>2</td>
+<td>648</td>
+<td>640</td>
+</tr>
+<tr>
+<td>646</td>
+<td>640</td>
+<td>632</td>
+<td>1</td>
+<td>632</td>
+<td>650</td>
+</tr>
+<tr>
+<td>635</td>
+<td>646</td>
+<td>634</td>
+<td>4</td>
+<td>639</td>
+<td>644</td>
+</tr>
+<tr>
+<td>646</td>
+<td>642</td>
+<td>12</td>
+<td>1</td>
+<td>647</td>
+<td>639</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Second table</strong></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>R.</th>
+<th>S.</th>
+<th>R.</th>
+<th>S.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>hor. 2</td>
+<td>hor. 3</td>
+<td>[8]</td>
+<td></td>
+</tr>
+<tr>
+<td>632</td>
+<td>632</td>
+<td>650</td>
+<td></td>
+</tr>
+<tr>
+<td>640</td>
+<td>640</td>
+<td>640</td>
+<td></td>
+</tr>
+<tr>
+<td>R. 24</td>
+<td>S. 633</td>
+<td>R. 646</td>
+<td>650</td>
+</tr>
+<tr>
+<td>647</td>
+<td>632</td>
+<td>639</td>
+<td>626</td>
+</tr>
+<tr>
+<td>638</td>
+<td>632</td>
+<td>640</td>
+<td>[unclear]</td>
+</tr>
+<tr>
+<td>639</td>
+<td>640</td>
+<td>[unclear]</td>
+<td></td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0084">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+  <article class="style-c-chunk" id="full_chunk_0085">
+    <div class="style-c-pair no-facsimile">
+      <div class="style-c-rendering">
+        <h2><em>Steganographia</em> — value-tables for Sadael, second Angel of Saturn (second quarter, hours 4–6), Book III, ch. II · cipher-key table full_chunk_0085</h2>
+<p><em>A planetary value-table — the rows give, under their rubric (R.) and black (S.) marker columns by hour, the numeric keys for the point of Saturn's second motion and the place of the Angel Sadael; OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>
+<p><strong>First table</strong></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>R.</th>
+<th>S.</th>
+<th>R.</th>
+<th>S.</th>
+<th>R.</th>
+<th>S.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>horae 4</td>
+<td>horae 6</td>
+<td>horae 4</td>
+<td>horae 5</td>
+<td>horae 6</td>
+<td>horae 6</td>
+</tr>
+<tr>
+<td>669</td>
+<td>660</td>
+<td>634</td>
+<td>673</td>
+<td>655</td>
+<td>669</td>
+</tr>
+<tr>
+<td>675</td>
+<td>671</td>
+<td>24</td>
+<td>663</td>
+<td>667</td>
+<td>651</td>
+</tr>
+<tr>
+<td>654</td>
+<td>661</td>
+<td>666</td>
+<td>659</td>
+<td>658</td>
+<td>673</td>
+</tr>
+<tr>
+<td>675</td>
+<td>657</td>
+<td>667</td>
+<td>23</td>
+<td>18</td>
+<td>69</td>
+</tr>
+<tr>
+<td>25</td>
+<td>671</td>
+<td>674</td>
+<td>672</td>
+<td>673</td>
+<td>663</td>
+</tr>
+<tr>
+<td>670</td>
+<td>664</td>
+<td>667</td>
+<td>657</td>
+<td>675</td>
+<td>23</td>
+</tr>
+</tbody>
+</table></div>
+<p><strong>Second table</strong></p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>R.</th>
+<th>S.</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>hora 4</td>
+<td>hora 5</td>
+</tr>
+<tr>
+<td>658</td>
+<td>668</td>
+</tr>
+<tr>
+<td>660</td>
+<td>663</td>
+</tr>
+<tr>
+<td>667</td>
+<td>659</td>
+</tr>
+<tr>
+<td>657</td>
+<td>556</td>
+</tr>
+<tr>
+<td>665</td>
+<td>653</td>
+</tr>
+<tr>
+<td>662</td>
+<td>652</td>
+</tr>
+</tbody>
+</table></div>
+      </div>
+    </div>
+    <nav class="style-c-toolbar" aria-label="Rendering links">
+      <a href="#full_chunk_0085">#</a>
+      <a href="#chunks">Top</a>
+      <a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html">Back to work</a>
+    </nav>
+  </article>
+</section>
+
+</article>
+
+<dialog id="facs-box" class="facs-dialog" aria-label="Source facsimile, enlarged">
+  <button type="button" class="facs-close">Close &#10005;</button>
+  <img data-empty alt aria-hidden="true">
+  <p class="facs-cap muted"></p>
+</dialog>
+<script>
+/* Keyboard-accessible in-page zoom for the facsimiles. The <dialog> element
+   handles Esc and focus natively; without JS the links keep their default
+   open-in-new-tab behaviour. */
+(() => {
+  const box = document.getElementById("facs-box");
+  if (!box || typeof box.showModal !== "function") return;
+  const img = box.querySelector("img");
+  const cap = box.querySelector(".facs-cap");
+  document.querySelectorAll("a.facs-link").forEach((a) => {
+    a.addEventListener("click", (e) => {
+      e.preventDefault();
+      const thumb = a.querySelector("img");
+      img.src = a.href;
+      img.alt = thumb ? thumb.alt : "Source facsimile";
+      const raw = document.createElement("a");
+      raw.href = a.href; raw.target = "_blank"; raw.rel = "noopener";
+      raw.textContent = "full image in a new tab";
+      cap.replaceChildren(
+        document.createTextNode(img.alt + " — Esc to close, or open the "),
+        raw, document.createTextNode("."));
+      box.showModal();
+    });
+  });
+  box.addEventListener("click", (e) => { if (e.target === box) box.close(); });
+  box.querySelector(".facs-close").addEventListener("click", () => box.close());
+})();
+
+/* Wide-table layout: if a chunk's substitution table is wider than the
+   rendering column it would occupy in the two-column grid, stack that chunk
+   (facsimile above, full-width table below) instead of forcing a cramped
+   horizontal scroll inside the grid.
+
+   To avoid a measure→stack→remeasure oscillation we measure the table's
+   NATURAL width (scrollWidth never changes with layout) against a STABLE
+   reference: half the pair width (the grid gives the rendering ~1.1/(0.9+1.1)
+   of the pair, but we use a conservative threshold so borderline tables stay
+   in the grid). Once a chunk is tagged wide it stays wide until the viewport
+   changes substantially. */
+(() => {
+  const STACK_RATIO = 0.62;  // stack if table needs more than 62% of pair width
+  const tag = () => {
+    const pair = document.querySelector(".style-c-pair");
+    const pairW = pair ? pair.getBoundingClientRect().width : 0;
+    if (!pairW) return;
+    const threshold = pairW * STACK_RATIO;
+    document.querySelectorAll(".style-c-pair").forEach((p) => {
+      const scroller = p.querySelector(".table-scroll");
+      const tbl = scroller ? scroller.querySelector("table") : null;
+      if (!tbl) { p.removeAttribute("data-wide"); return; }
+      // scrollWidth is layout-independent → stable across stack/unstack
+      if (tbl.scrollWidth > threshold) p.setAttribute("data-wide", "");
+      else p.removeAttribute("data-wide");
+    });
+  };
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(tag);
+  window.addEventListener("load", tag);
+  let t; window.addEventListener("resize", () => { clearTimeout(t); t = setTimeout(tag, 150); });
+})();
+</script>
+
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-cols">
+      <div>
+        <h4>Browse</h4>
+        <a href="../works.html">The works</a>
+        <a href="../works-trithemius-4b.html">Trithemius 4B editions</a>
+        <a href="../ciphers.html">The ciphers</a>
+        <a href="../scoreboard.html">Quality tiers</a>
+      </div>
+      <div>
+        <h4>About</h4>
+        <a href="../methodology.html">Methodology &amp; limitations</a>
+        <a href="../LICENSE.html">License &amp; rights</a>
+      </div>
+      <div>
+        <h4>Project</h4>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus">Source on GitHub</a>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/blob/main/CONTRIBUTING.md">Contribute corrections</a>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/blob/main/CITATION.cff">How to cite</a>
+      </div>
+    </div>
+    <p class="footer-byline muted">
+      Machine-assisted English translations of the Latin works of Johannes Trithemius (1462&ndash;1516).
+      Every translation is machine-produced and independently audited; for scholarly quotation, check the Latin.
+      Translations &amp; generated data: public domain (CC0). Methodology, docs &amp; code: CC BY 4.0. Compiled 2026 by Ian Carlos Fabin.
+    </p>
+  </div>
+</footer>
+<script>
+  // Mobile nav toggle — collapses the site-nav into a hamburger menu on
+  // narrow viewports. ARIA-expanded reflects state; clicking a link or
+  // outside closes it.
+  (function () {
+    var toggle = document.querySelector('.nav-toggle');
+    var nav = document.getElementById('siteNav');
+    if (!toggle || !nav) return;
+    function setOpen(open) {
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+      nav.classList.toggle('is-open', open);
+    }
+    toggle.addEventListener('click', function () {
+      setOpen(toggle.getAttribute('aria-expanded') !== 'true');
+    });
+    // close on link click (mobile) and on Escape
+    nav.addEventListener('click', function (e) { if (e.target.tagName === 'A') setOpen(false); });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && toggle.getAttribute('aria-expanded') === 'true') setOpen(false);
+    });
+    // reset on resize back to desktop
+    window.addEventListener('resize', function () {
+      if (window.innerWidth > 760) setOpen(false);
+    });
+  })();
+
+  // Theme switcher — persists choice in localStorage under 'tc-theme'.
+  // Theme switcher — steganographia (default dark), parchment (light), ink
+  // (high-contrast), candlelight (warm dark), and auto (follow OS preference).
+  (function () {
+    var root = document.documentElement;
+    function resolveAuto() {
+      try {
+        return window.matchMedia &&
+               window.matchMedia('(prefers-color-scheme: light)').matches
+               ? 'parchment' : 'steganographia';
+      } catch (e) { return 'steganographia'; }
+    }
+    function applyTheme(t) {
+      // track the chosen theme (incl. auto) on data-tc-theme; paint the
+      // concrete theme on data-theme.
+      if (t === 'auto') {
+        root.setAttribute('data-tc-theme', 'auto');
+        var r = resolveAuto();
+        if (r === 'steganographia') root.removeAttribute('data-theme');
+        else root.setAttribute('data-theme', r);
+      } else {
+        root.removeAttribute('data-tc-theme');
+        if (t === 'steganographia') root.removeAttribute('data-theme');
+        else root.setAttribute('data-theme', t);
+      }
+    }
+    var current = 'steganographia';
+    try { current = localStorage.getItem('tc-theme') || 'steganographia'; } catch (e) {}
+    applyTheme(current);
+    // if OS preference changes while 'auto' is selected, re-resolve live
+    try {
+      window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', function () {
+        if ((localStorage.getItem('tc-theme') || '') === 'auto') applyTheme('auto');
+      });
+    } catch (e) {}
+    document.querySelectorAll('.theme-switcher button[data-set]').forEach(function (btn) {
+      var pressed = btn.getAttribute('data-set') === current;
+      btn.setAttribute('aria-pressed', pressed ? 'true' : 'false');
+      btn.addEventListener('click', function () {
+        var t = btn.getAttribute('data-set');
+        try { localStorage.setItem('tc-theme', t); } catch (e) {}
+        applyTheme(t);
+        document.querySelectorAll('.theme-switcher button[data-set]').forEach(function (b) {
+          b.setAttribute('aria-pressed', b.getAttribute('data-set') === t ? 'true' : 'false');
+        });
+      });
+    });
+  })();
+  // Reading progress bar (overall page scroll) + percentage indicator
+  (function(){
+    var bar=document.getElementById('readProgress');
+    var pct=document.getElementById('readProgressPct');
+    if(!bar)return;
+    var ticking=false;
+    function onScroll(){
+      if(ticking)return; ticking=true;
+      requestAnimationFrame(function(){
+        var h=document.documentElement.scrollHeight-window.innerHeight;
+        var p=h>0?Math.min(1,window.scrollY/h):0;
+        bar.style.transform='scaleX('+p.toFixed(3)+')';
+        bar.classList.toggle('is-active', p>0.02);
+        if(pct){
+          var n=Math.round(p*100);
+          pct.textContent=n<1?'':n+'%';
+          pct.setAttribute('aria-hidden', (n<3).toString());
+        }
+        ticking=false;
+      });
+    }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    onScroll();
+  })();
+  // Random work button — uses the work-ID list baked in at build time (no
+  // fetch() needed, so it works on file://, HTTP, and GitHub Pages).
+  (function(){
+    var btn=document.getElementById('randomWorkBtn');
+    if(!btn)return;
+    var workIds=window.TC_WORK_IDS||[];
+    btn.addEventListener('click',function(e){
+      e.preventDefault();
+      if(!workIds.length){
+        // graceful fallback: go to the works listing
+        window.location.href=btn.href;
+        return;
+      }
+      var pick=workIds[Math.floor(Math.random()*workIds.length)];
+      // resolve relative to this page (works/<id>.html)
+      var base=btn.href.replace(/works\.html.*$/,'');
+      window.location.href=base+'works/'+pick+'.html';
+    });
+  })();
+  // Cipher substitution tables: tag each .table-scroll that overflows
+  // horizontally so the CSS right-edge scroll affordance (the ::after fade)
+  // only appears when there is actually more to scroll sideways.
+  (function () {
+    function tagScroll() {
+      document.querySelectorAll('.table-scroll').forEach(function (ts) {
+        if (ts.scrollWidth > ts.clientWidth + 2) ts.classList.add('scrollable-x');
+        else ts.classList.remove('scrollable-x');
+      });
+    }
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(tagScroll);
+    window.addEventListener('load', tagScroll);
+    var t; window.addEventListener('resize', function () { clearTimeout(t); t = setTimeout(tagScroll, 150); });
+  })();
+</script>
+</body>
+</html>

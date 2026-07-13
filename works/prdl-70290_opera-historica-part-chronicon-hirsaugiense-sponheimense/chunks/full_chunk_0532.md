@@ -1,0 +1,26 @@
+*Sponheim.*
+
+[unclear] of St. James, but he did not preside for long. To this monastery of Limburg, however, in favor of the newly introduced reform, Johannes Colnhausen sent Johannes de Liningen, the thirty-second prior of this monastery, not without harm to this place. After him he appointed as the thirty-third prior Heinrich of Holtzhausen, a Saxon, a professed monk at Northeim, a learned, religious, and devout man, an outstanding zealot for regular observance; he scarcely completed two years in the priorate, and was deposed through the envy of certain men who, walking according to the flesh, hated one who corrected them.
+
+In the same year Muhammad, the great emperor of the Turks, a most bitter persecutor of Christians, died, leaving two sons. One of them, Bayezid, having seized for himself the empire of the Turks, compelled his other brother, named Zyzymus, driven from the kingdom, to live in exile first among the Rhodians, then among the French, and finally among the Romans, 45,000 ducats being assigned each year for expenses to those who held him.
+
+In the same year also died Johannes, duke of Cleves, a great-hearted and warlike man.
+
+*1482.*
+
+In this year, which was the thirteenth of our abbot Johannes Colnhausen, Diether of Isenburg, archbishop of Mainz, died on the seventh day of the month of May; he was buried in the greater church with this inscription:
+
+Twice made prelate, Count Diether of Isenburg
+built the citadel of Mainz and also the school.
+
+He was a good man, and greatly loved monastic observance; while living he conferred many benefits and favors devoutly upon God and religious persons. After his death, just as he himself while still living had arranged, Albert, son of Ernest, duke of Saxony and margrave of Meissen, being in the eighteenth year of his age, was received by the chapter as administrator of the church of Mainz, and was confirmed by Sixtus, the Roman pontiff; at his father’s request he also received provision to succeed to the archbishopric. But after completing two years in his administration, the innocent young man died.
+
+In the same year, on the twelfth day before the Kalends of August, Reinhard of Sickingen, bishop of Worms, died and was buried in the chapel of St. Giles, which he himself had newly built beside the greater church. He was succeeded by Johannes Camerarius of Dalberg, provost of the greater church, a man worthy of greater honor: the glory of pontiffs, the ornament of nobles, the prince and glory of all philosophers and learned men, most learned in every science. Among pontiffs Germany had no equal to him, nor Italy a better. To him Johannes Trithemius, abbot of this monastery, later begins his book *On Ecclesiastical Writers*, a varied work.
+
+In the same year also Johannes Trithemius, later abbot, became a monk of this monastery quite miraculously, contrary to his intention; it happened thus. When he had set out from Heidelberg with a scholastic companion for his homeland, he entered this monastery, because it lay on the road, for the sake of seeing it, on the eighth day before the Kalends of February, in the morning around the ninth hour, his companion not merely persuading him but rather compelling him. After dinner had been taken, thinking of nothing less than religious life, he departed to continue the journey he had begun. And when, ignorant of the roads, both had come to the mountain adjoining the little village of Bockenau, there suddenly began to arise an immense mass of snow and a dense storm of clouds, which not only covered the path of the road, but, striking their faces from ahead, almost blinded their eyes. Therefore, when his companion on the journey advised a return to the monastery, since it was not possible to go on, Trithemius replied: “It is too shameful to return; rather let us go forward as far as we can.” But when they had waited up to three times under the shelter of trees for the end of the storm, and it was increasing altogether, Trithemius again said to his companion: “We must return to the monastery; behold, you will see me remain there.” I do not know by what divine prompting he said this, for when he said it he was thinking of nothing less than entering religious life. Unwillingly, therefore, but of necessity, he returned to this place; in the aforesaid year and day, in accordance with his own word which he had spoken unknowingly, he changed his mind, induced by the persuasion of Heinrich of Holtzhausen, our prior, and, intending to remain, put off the secular habit on the day of the Purification of the blessed Mary ever virgin. He became a novice on the day of our most holy father Benedict, and in the same year, on the feast of the most pure Conception of Mary, he was professed according to the Rule with three others.
+
+In the year likewise noted above, the twenty-fourth provincial chapter of our order was celebrated at Blaubeuren, after the feast of Easter, on the third Sunday. Presiding at it were Georg of St. Stephen’s in Würzburg, Johannes in Willingen, Ulrich of Mönchberg, and Johannes of St. Giles in Nuremberg, abbots of monasteries of our order.
+
+In the same year Johannes de Bourbon, bishop of Liège, was killed by a certain knight.
+
+In the year also mentioned above, when Heinrich of Holtzhausen, prior of this monastery,

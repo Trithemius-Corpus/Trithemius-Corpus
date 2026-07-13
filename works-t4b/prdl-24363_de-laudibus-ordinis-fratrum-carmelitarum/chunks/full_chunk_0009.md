@@ -1,0 +1,21 @@
+--- Page 022 ---
+
+Brocard, prior of Mount Carmel, obtained a rule from Albert, patriarch of Jerusalem, and commended it to his posterity to be observed. Nor should the Carmelite brothers be thought to have lived irregularly up to that point, since from their holy manner of life they transformed custom into a rule. For a rule is not necessary for the perfect, but for the weak.
+
+*On the confirmation and approval of the order of Carmelites. Chapter 5.*
+
+But the perverse man does not cease to tear good men with an envious tooth, since he cannot otherwise acquire for himself a reputation for uprightness except by lying in wait for another’s reputation. For the more the pursuits of good men increase, the more the envy of the wicked, ready to rage, increases too. Therefore, although antiquity itself has approved the sacred order of Carmelites, and although it was exalted from the beginning by the holiness of many brothers, nevertheless the persecution of the wicked against it never ceased.
+
+Thus wicked detractors said to the holy brothers: “Your order is not stable in the Church of God, because the holy apostolic see has not approved it.” From this scandals arose; from this seditions rose up among the people, while perverse men strove to destroy the holy order utterly. O foolish abuse among men, that they think what the Gospel of Christ approves needs human confirmation. Tell me, detractor of good men: have you read bulls approving the ancient orders? What pope confirmed the ancient orders of Pachomius, Basil, Augustine, and Benedict? You will by no means find that these orders were confirmed by letters from the beginning. Therefore, those whom the holiness of many approves, whom long antiquity confirms, who but a mindless and stupid man would invalidate? If holy antiquity confirms the aforesaid orders, the order of the Carmelite brothers, which is most ancient, has need of no confirmation. For it long preceded the Roman pontiffs, since it took its beginning from Elias the prophet. I have said this not because the order of Carmelites lacks apostolic protection, but so that
+
+--- Page 023 ---
+
+I might show that its rivals are moved by hatred, not by the reason of integrity.
+
+For after the brothers of this religion came into Europe, having been driven from Palestine, many supreme pontiffs confirmed the order itself; among them Alexander III was one, after whom Innocent did the same, and Honorius III, following in the footsteps of both, with many privileges added, approved anew both the order and the rule. But let enough have been said about these matters, since, although the privileges of the Carmelite order are not wholly unknown to us, nevertheless it is not our purpose to bring them into the light. I would have this suffice for rivals: that this order has always been approved from the beginning, and will henceforth remain stable.
+
+*On the change of the brothers’ outer habit. Chapter 6.*
+
+As we have already said above, the Carmelite brothers imitate their princes not only in morals but also, insofar as they can, in habit. Sacred history shows that Elias was clothed in a mantle: with it he covered his face when the Lord passed by, and, striking the Jordan with it, made it passable on foot. Finally, when he called Elisha, he is read to have cast his mantle over him; and he also gave him that same mantle when he himself was carried through the air.
+
+The mantle, if faith is to be given to the writings of the ancients, was round, covering the whole body from the neck down to the middle of the shins, narrow above and broad below, and open in the front. The color of that habit is said to have been white, by which the brothers’ inward cleanness and purity are signified. They report that Elias was clothed with such a mantle, and that Elisha and the sons of the prophets went about in such a habit. But if anyone should contend that this description of Elias’s habit is apocryphal, he will do us no injury thereby, since we are not writing our own opinion, but that of the preceding fathers. For the cowl does not make the order, but the observance of piety. Indeed, that the ancient monks, even of one order, were sometimes not uniform in the color of their habit, the holy father Benedict indicates in his rule, since he forbade monks

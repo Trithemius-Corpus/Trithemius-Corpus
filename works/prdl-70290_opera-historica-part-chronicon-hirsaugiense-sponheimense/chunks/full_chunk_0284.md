@@ -1,0 +1,1 @@
+<!-- removed: OCR double-scan duplicate; partial-overlap pair resolved eyes-on — segment 288 is the fuller capture (adds the De Wighardo chapter opening); 284 is the partial scan; the translation is retained at chunk 0288 -->

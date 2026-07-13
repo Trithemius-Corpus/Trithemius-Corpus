@@ -1,0 +1,13 @@
+a may you grant pardon b of the faithful c of the humble d of the devout e of the contrite f of those confessing g of those believing h of the poor i of the sick k of the wretched l of the afflicted m of all n of those groaning o may you wipe away p may you hide q may you overlook r may you extinguish s may you break apart t may you cleanse u may you purify x may you purge y may you amend z may you justify v may you take away w our x may you pardon y may you remit z may you release a may you wipe off b may you wash away c may you wash d may you wipe e may you wash away f may you wipe away g may you hide h may you overlook i may you break apart j may you cleanse k may you purify l may you purge m may you amend n may you take away o our p of the faithful q of the humble r of the devout s of the contrite t of those confessing v of those believing x of the poor y of the sick z of the wretched, of the afflicted m of those groaning p of those weeping q of Christians r of the orthodox s of the ecclesiastical t of the compunct v of the desolate x of those in exile, of those supplicating z of those beseeching v of those desiring
+
+[unclear]
+
+a bringing through b pleasantness c consolation d happiness e fellowship f blessedness g rejoicing h banquets i rejoicings k banquets l gladness m receiving us to n the joys of all o receiving p fellowship q triumphs r mansions s dwellings t spectacles v dwelling-places x communion y participation z brightness rv rest
+
+a of the elect b age c eternal d perpetual e everlasting f in the things above the heavens g everlastingness h ages of ages i holy age k everlasting ages l in the heavens m of your worshippers in n the highest places o age p heaven q the heights r the heights s upper things t the hall of heaven v the court of the heavens x the highest places y the highest place z paradise rv heavenly things
+
+a O wretched b men c little men d common people e sinners f princes g barons h counts i dukes k kings l judges m rulers from every n governors in every o prelates p pontiffs q emperors r priests s presbyters t prelates v pastors x seculars y cloistered persons z Christians 2v worshippers of Christ 2tt
+
+a mortals b pitiable c most unhappy d most foolish e most [unclear] f sitting g good h you i about to cover j most lost k therefore you l you therefore m most vain n unbelieving o most poor p most abject q foolish
+
+a earth b Bavarians c Austrians d Franks e Frenchmen f Germans g Alemanni h Belgians i Noricans k Bohemians l Hessians m in the east under heaven n Monappians and especially, most of all, or o [unclear] Gauls p Frisians q Frisians r [unclear] s Cleves-men t Sicambri v Guelders-men x [unclear] y Lotharingians z Moravians ẜv Saxons

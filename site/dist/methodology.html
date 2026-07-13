@@ -1,0 +1,460 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Methodology &mdash; Trithemius Corpus</title>
+<meta name="description" content="How the Trithemius Corpus was made: the OCR, translation, and grading pipeline, per-work model provenance, and honest limitations.">
+<link rel="canonical" href="https://trithemius-corpus.github.io/Trithemius-Corpus/methodology.html"><meta property="og:type" content="website">
+<meta property="og:site_name" content="Trithemius Corpus">
+<meta property="og:title" content="Methodology &mdash; Trithemius Corpus">
+<meta property="og:description" content="How the Trithemius Corpus was made: the OCR, translation, and grading pipeline, per-work model provenance, and honest limitations.">
+<meta property="og:url" content="https://trithemius-corpus.github.io/Trithemius-Corpus/methodology.html"><meta property="og:image" content="https://trithemius-corpus.github.io/Trithemius-Corpus/static/images/hero-steganographia-wheel.webp"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@trithemius_corpus">
+<meta name="twitter:title" content="Methodology &mdash; Trithemius Corpus">
+<meta name="twitter:description" content="How the Trithemius Corpus was made: the OCR, translation, and grading pipeline, per-work model provenance, and honest limitations.">
+<meta name="twitter:image" content="https://trithemius-corpus.github.io/Trithemius-Corpus/static/images/hero-steganographia-wheel.webp"><link rel="icon" type="image/svg+xml" href="static/favicon.svg">
+<meta name="theme-color" content="#100d12">
+<link rel="stylesheet" href="static/fonts.css">
+<link rel="stylesheet" href="static/style.css">
+<script>
+  // Apply the saved theme before first paint to avoid a flash of the wrong theme.
+  // 'auto' resolves from the OS colour-scheme preference (light→parchment,
+  // dark→steganographia) and is stored on a distinct attribute so the switcher
+  // can highlight 'auto' as active while the concrete theme paints immediately.
+  (function () {
+    function resolveAuto() {
+      try {
+        return window.matchMedia &&
+               window.matchMedia('(prefers-color-scheme: light)').matches
+               ? 'parchment' : 'steganographia';
+      } catch (e) { return 'steganographia'; }
+    }
+    try {
+      var t = localStorage.getItem('tc-theme');
+      if (t === 'auto') {
+        var r = resolveAuto();
+        document.documentElement.setAttribute('data-tc-theme', 'auto');
+        if (r !== 'steganographia') document.documentElement.setAttribute('data-theme', r);
+      } else if (t && t !== 'steganographia') {
+        document.documentElement.setAttribute('data-theme', t);
+      }
+    } catch (e) {}
+  })();
+</script>
+</head>
+<body class="parchment">
+<a class="skip-link" href="#main">Skip to content</a>
+<div class="read-progress" id="readProgress" aria-hidden="true"><span class="read-progress-pct" id="readProgressPct"></span></div>
+<header class="site-header">
+  <div class="container">
+    <h1 class="site-title"><a href="index.html">Trithemius Corpus</a></h1>
+    <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="siteNav">
+      <span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span>
+    </button>
+    <nav class="site-nav" id="siteNav" aria-label="Site">
+      <a href="works.html">Works</a>
+      <a href="ciphers.html">The Ciphers</a>
+      <a href="tools.html">Cipher Lab</a>
+      <a href="scoreboard.html">Quality</a>
+      <a href="methodology.html" class="is-active" aria-current="page">Methodology</a>
+      <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus">GitHub</a>
+      <a href="search.html" class="nav-search" title="Search the corpus">&#128269; Search</a>
+      <span class="theme-switcher" role="group" aria-label="Theme">
+        <span class="theme-label" aria-hidden="true">Theme</span>
+        <button type="button" data-set="steganographia" title="Steganographia (celestial night)" aria-label="Steganographia theme"></button>
+        <button type="button" data-set="candlelight" title="Candlelight (warm dark)" aria-label="Candlelight theme"></button>
+        <button type="button" data-set="parchment" title="Parchment (light scholarly)" aria-label="Parchment theme"></button>
+        <button type="button" data-set="ink" title="Ink (high-contrast facsimile)" aria-label="Ink theme"></button>
+      </span>
+    </nav>
+  </div>
+</header>
+
+<main class="container" id="main">
+<article class="prose">
+<h1 id="methodology">Methodology</h1>
+<p>How the Trithemius Corpus was made, checked, revised, and presented. This page distinguishes the <strong>recommended Trithemius 4B editions</strong> from the earlier source-witness editions, explains what the grades mean, and states where machine-produced text still requires caution.</p>
+<p><strong>Contents:</strong> <a href="#1-what-you-are-reading">What you are reading</a> · <a href="#2-source-acquisition">Sources</a> · <a href="#3-the-ocr-record">OCR</a> · <a href="#4-the-translation-record">Translation</a> · <a href="#5-pipeline-mechanics">Pipeline</a> · <a href="#6-grading-and-quality-tiers">Grading</a> · <a href="#7-the-remediation-record">Remediation</a> · <a href="#8-results">Results</a> · <a href="#9-per-work-provenance">Per-work provenance</a> · <a href="#10-special-scholarly-renderings-style-c">Special renderings</a> · <a href="#11-limitations-known-failure-modes">Limitations</a> · <a href="#12-what-this-corpus-is-good-for-and-what-it-is-not">Responsible use</a> · <a href="#13-what-was-tried-and-did-not-ship">Rejected approaches</a> · <a href="#14-code-data-and-reproducibility">Reproducibility</a></p>
+<h2 id="1-what-you-are-reading">1. What you are reading</h2>
+<p>The site now contains two related edition tracks.</p>
+<h3 id="recommended-trithemius-4b-editions">Recommended Trithemius 4B editions</h3>
+<p>The <strong>Trithemius 4B edition</strong> is the recommended English reading edition wherever one is available. There are 27 such editions. They use a corpus-trained <strong>Qwen3-VL-4B “Trithemius” LoRA</strong> OCR witness and a <strong>GPT-5.5 dual-context</strong> translation, independently assessed in a second pass by <strong>Claude Sonnet 5</strong>. Only works meeting the publication threshold were promoted.</p>
+<p>These pages have also received an editorial formatting and quality pass. Visible scan-navigation clutter—page-number markers, blank-page notices, calibration-target notices, stamp text, and duplicate-scan notices—is removed from the reading view while retained in the archival source files. Uncertainty markers such as <code>[unclear]</code> remain visible. They are evidence of damaged or ambiguous source text and are preferable to invented certainty.</p>
+<p>The T4B pages are formatted as continuous reading texts. Their source segment boundaries remain in the HTML for stable navigation and provenance, but they are not presented as artificial page divisions. Existing chapter maps drive the compact chapter navigator when a work has at least two valid chapter divisions.</p>
+<h3 id="earlier-source-witness-editions">Earlier source-witness editions</h3>
+<p>The earlier edition track remains available for all 47 translatable printed witnesses. It was produced through several OCR and translation campaigns, principally CHURRO/Qwen vision OCR and GPT-5.5 revision, with targeted repairs by other models. These pages remain useful as independent witnesses, for comparison, and for works that do not yet have a publishable T4B edition.</p>
+<p>The label <strong>recommended source witness</strong> identifies the preferred scan witness within a group of duplicate printed editions. It does not supersede the T4B reading recommendation.</p>
+<h3 id="what-is-authoritative">What is authoritative</h3>
+<p>Neither machine transcription is a critical Latin edition. The hierarchy is:</p>
+<ol>
+<li>the institutional page facsimile;</li>
+<li>the OCR witness shown on the site;</li>
+<li>the English translation;</li>
+<li>automated quality grades, which are triage signals rather than certification.</li>
+</ol>
+<p>For a passage used in publication, check the English against the Latin and the Latin against the facsimile.</p>
+<h2 id="2-source-acquisition">2. Source acquisition</h2>
+<p>The corpus began with the PRDL author record for Johannes Trithemius and the bibliography at trithemius.com. Records were resolved to public-domain institutional scans from the Bavarian State Library, Herzog August Bibliothek, e-rara, dilibri, Internet Archive, Google Books, and Gallica. Duplicate records and editions were retained where they supplied genuinely separate witnesses.</p>
+<p>The release contains 47 translatable printed witnesses representing 29 distinct texts. Four additional records are retained in the manifest as skipped because they are German-language or predominantly liturgical/tabular material. The <em>Steganographia</em>, initially blocked through the normal viewer route, was recovered through Gallica’s IIIF image service.</p>
+<p>Every work’s metadata names its source institution and scan. The source scan, not the OCR, remains the final authority.</p>
+<h2 id="3-the-ocr-record">3. The OCR record</h2>
+<p>The project tested five main OCR generations.</p>
+<table>
+<thead>
+<tr>
+<th>Generation</th>
+<th>System</th>
+<th>Role in the present site</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>0</td>
+<td>Embedded PDF text / Tesseract 5.4</td>
+<td>Superseded except for one retained witness; useful as an audit baseline.</td>
+</tr>
+<tr>
+<td>1</td>
+<td>Qwen2.5-VL-7B</td>
+<td>Part of the earlier hybrid witness for 14 works.</td>
+</tr>
+<tr>
+<td>2</td>
+<td>CHURRO-3B, a historical-print Qwen2.5-VL fine-tune</td>
+<td>Earlier published witness for 31 works.</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Base Qwen3-VL-4B-Instruct</td>
+<td>Experimental and superseded.</td>
+</tr>
+<tr>
+<td>4</td>
+<td>Qwen3-VL-4B “Trithemius” LoRA</td>
+<td>OCR witness for the 27 recommended T4B editions.</td>
+</tr>
+</tbody>
+</table>
+<p>Tesseract and embedded text fail systematically on early print: long <em>s</em> becomes <em>f</em>, abbreviations disappear, columns interleave, and damaged type produces nonsense. Vision models preserve page structure and early typography more effectively, though none is immune to repetition, truncated dense pages, misread names, or invented-looking letter sequences.</p>
+<p>The T4B LoRA was trained on page/transcription pairs drawn from this corpus. A later audit corrected an early interpretation of its quality. The initial report attributed too much of the rejected translation lane’s failure to OCR. Direct review showed that the LoRA’s body-page OCR was generally clean—typically better than 97% non-degenerate in the hardest audited works. The more serious defect was downstream translation drift in a run that lacked strict output guards.</p>
+<p>Roughly 58 LoRA pages reached the original 3,000-token output cap. Some are true truncations; others are repetition loops for which a larger token allowance would merely produce a longer loop. Where a second witness could resolve the text, it was used during repair. Where both witnesses were damaged, the reading text retains an uncertainty marker.</p>
+<h2 id="4-the-translation-record">4. The translation record</h2>
+<h3 id="earlier-edition-track">Earlier edition track</h3>
+<p>The earlier translations were built through multiple campaigns. MiniMax-M2.7, Claude Opus 4.7, and a local Gemma model produced early drafts. GPT-5.5 then audited and retranslated the corpus at high reasoning effort, winning 3,662 of 3,705 recorded keep-better contests. Later CHURRO re-OCR translations, Opus pairwise adjudication, GLM tail-gap closure, and Claude facsimile-based repairs improved individual passages.</p>
+<p>This history matters because the earlier reading text is a documented per-chunk selection, not the output of one uninterrupted model call.</p>
+<h3 id="trithemius-4b-edition-track">Trithemius 4B edition track</h3>
+<p>The T4B lane pairs the corpus-trained LoRA OCR with GPT-5.5 translation in dual-context mode. Dual context gave the translator broader continuity across page groups, but the original batch ran without the strict content-fidelity guards later shown to be necessary. Its characteristic failures were:</p>
+<ul>
+<li>page drift: fluent translation of the wrong source page;</li>
+<li>fabrication when a source page was empty or unusable;</li>
+<li>repeated phrases or enumerative loops;</li>
+<li>dropped or mismatched page markers;</li>
+<li>leaked model preambles or structured-output fragments.</li>
+</ul>
+<p>These failures were not evenly distributed. Claude Sonnet 5’s complete second-pass assessment found 27 works at publishable S/A quality even though the lane as a whole could not be promoted. Those 27 became the T4B editions. Lower-scoring works remain withheld.</p>
+<p>After promotion, the First-time-in-English T4B works were read in full where practical, followed by the crypto-occult group and a wider structural sweep. Repairs addressed repeated phrases, duplicated endings, leaked model text, page-boundary omissions, genuine OCR gaps, and scan duplication. Parallel editions were used as secondary evidence when available. Unresolvable damage was marked rather than silently reconstructed.</p>
+<h2 id="5-pipeline-mechanics">5. Pipeline mechanics</h2>
+<p>The earlier pipeline chunks OCR text at approximately 4,500 characters, preferring paragraph and page boundaries and never splitting words. A noise guard excludes material with too little alphabetic content. Translation prompts request clear modern English, preservation of names, dates, citations, and structure, expansion of common early-modern abbreviations, and explicit <code>[unclear]</code> marking where the OCR does not support a reliable reading.</p>
+<p>The T4B assembler retains numbered source segments for provenance. During site rendering, formatting-only scan notes are filtered from the visible English without altering <code>works-t4b/&lt;id&gt;/english.md</code>. This separation is intentional: archival artifacts remain inspectable, while readers receive a clean continuous text.</p>
+<p>The strengthened dual-lane guards now test:</p>
+<ul>
+<li>source/translation content overlap;</li>
+<li>survival of extractable names, dates, and anchors;</li>
+<li>page-marker mismatches when paired with low content overlap;</li>
+<li>suspicious repetition and output-format leakage.</li>
+</ul>
+<p>The overlap check normalizes common long-<em>s</em> OCR artifacts and compares Latin content stems with the translation. In calibration, faithful chunks showed meaningful overlap while drifted chunks clustered near zero. These guards are used for audit and future reruns; they were not retroactively treated as proof of correctness.</p>
+<h2 id="6-grading-and-quality-tiers">6. Grading and quality tiers</h2>
+<p>Different graders served different purposes.</p>
+<ul>
+<li><strong>Claude Sonnet 5</strong> is authoritative for the T4B publication decision. Its second pass covers the full graded T4B set.</li>
+<li><strong>Claude Sonnet 4.6</strong> supplied most independent per-chunk grades for the earlier edition track.</li>
+<li><strong>Claude Opus 4.7/4.8</strong> handled targeted review and pairwise keep-better adjudication.</li>
+<li><strong>GPT-5.5</strong> performed the major audit-and-retranslate campaign.</li>
+<li><strong>MiniMax-M3 and GLM-5.2</strong> supplied independent hunting and comparison signals. MiniMax’s T4B assessment was retained as a dual check, not as the final authority.</li>
+<li><strong>MiniMax-M2.7 self-grades</strong> are historical evidence only. Their overconfidence demonstrated why translator self-grading is inadequate.</li>
+</ul>
+<p>The public tier formula uses the worse result of a faithfulness floor and hallucination cap:</p>
+<table>
+<thead>
+<tr>
+<th>Tier</th>
+<th style="text-align: right;">Mean faithfulness</th>
+<th style="text-align: right;">Hallucination</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>S</strong></td>
+<td style="text-align: right;">at least 4.0 / 5</td>
+<td style="text-align: right;">at most 5%</td>
+</tr>
+<tr>
+<td><strong>A</strong></td>
+<td style="text-align: right;">at least 3.5 / 5</td>
+<td style="text-align: right;">at most 15%</td>
+</tr>
+<tr>
+<td><strong>B</strong></td>
+<td style="text-align: right;">at least 3.0 / 5</td>
+<td style="text-align: right;">at most 30%</td>
+</tr>
+<tr>
+<td><strong>C</strong></td>
+<td style="text-align: right;">at least 2.5 / 5</td>
+<td style="text-align: right;">—</td>
+</tr>
+<tr>
+<td><strong>F</strong></td>
+<td style="text-align: right;">below 2.5 / 5</td>
+<td style="text-align: right;">—</td>
+</tr>
+</tbody>
+</table>
+<p>T4B publication normally requires Sonnet faithfulness of at least 3.5. Grades summarize a work; they do not guarantee each sentence. A score of 3.51 is not meaningfully different from 3.49 without examining the underlying passages.</p>
+<h2 id="7-the-remediation-record">7. The remediation record</h2>
+<p>The corpus has undergone several distinct repair campaigns.</p>
+<p><strong>Hallucination remediation.</strong> A dual-grader consensus sweep identified 81 unsupported chunks across 20 earlier-track works. Fabricated prose was replaced by faithful text or explicit illegibility markers and rechecked.</p>
+<p><strong>Tail-gap closure.</strong> A set of 184 source segments across six works extended beyond the earlier English track. These were translated and spliced into the aligned reading text.</p>
+<p><strong>Double-scan deduplication.</strong> Two large chronicles contained page ranges digitized twice. Per-chunk grading did not detect this because both translations were faithful to duplicated OCR. A structural audit resolved 152 duplicate segment pairs while preserving stable numbering and source transparency.</p>
+<p><strong>T4B full-work review.</strong> The First-time-in-English editions received priority, followed by crypto-occult works and the remaining published T4B set. Solvable defects were corrected against local context, page boundaries, and alternate witnesses. This included removal of a 50-fold repeated phrase in <em>Sui Ipsius Vindex</em>, duplicated prophecy and conclusion material, wrong-page prose, leaked JSON/preambles, and several recoverable <code>[unclear]</code> gaps. Genuine damaged names, ownership inscriptions, tables, and passages unreadable in both witnesses remain marked.</p>
+<p>All content-level repairs belong in the source or its provenance record. Display-only cleanup—such as hiding <code>--- Page N ---</code>—occurs at render time and does not rewrite the archival transcription.</p>
+<h2 id="8-results">8. Results</h2>
+<p>The site currently presents:</p>
+<ul>
+<li><strong>47</strong> translatable earlier-track printed witnesses representing <strong>29</strong> distinct texts;</li>
+<li><strong>27</strong> recommended Trithemius 4B editions that passed the Sonnet publication review;</li>
+<li><strong>26</strong> cross-links from matching earlier work pages to their T4B editions, plus one T4B scan represented only in the T4B index;</li>
+<li><strong>23</strong> texts identified as First-time-in-English at the distinct-text level;</li>
+<li>a homepage “Start here” selection containing 12 distinct First-time-in-English works.</li>
+</ul>
+<p>The earlier track’s canonical release ledger contains 4,400 chunks, 4,353 independently graded. Its release scoreboard is S=47, with mean faithfulness 4.63/5 and no confirmed hallucination after remediation. These are corpus-level release statistics, not a claim that every phrase is correct.</p>
+<p>The T4B editions are displayed as the recommended reading editions because their OCR/translation combination is generally clearer and stronger for sustained reading. The earlier editions remain valuable independent witnesses and should be consulted where the T4B text is uncertain.</p>
+<h2 id="9-per-work-provenance">9. Per-work provenance</h2>
+<p>Each earlier work directory contains <code>metadata.json</code>, <code>latin-ocr.txt</code>, <code>english.md</code>, chunk files, grades, chapter data where available, and <code>ERRATA.md</code>. The corpus-level <code>manifest.json</code> and quality ledgers provide machine-readable summaries.</p>
+<p>Each T4B directory under <code>works-t4b/</code> contains its LoRA OCR witness, assembled English, metadata, chunk material, and introduction. Its page identifies the edition as <strong>Trithemius 4B</strong> and displays the Sonnet grade. The site labels T4B as recommended; it labels an earlier preferred scan only as the recommended source witness.</p>
+<p>Authorship and assembly are credited to <strong>Ian Carlos Fabin</strong> (Carlosian), with the public profile at <a href="https://github.com/agentcarlosian">github.com/agentcarlosian</a>.</p>
+<h2 id="10-special-scholarly-renderings-style-c">10. Special scholarly renderings (Style C)</h2>
+<p>Twenty-three earlier-track works include enhanced Style C renderings for material poorly served by ordinary paragraph translation: cipher tables, acrostics, alphabets, diagrams, catalogues, verse, and other layout-dependent passages. These renderings preserve the relationship between transcription, translation, and facsimile more explicitly than the continuous reader.</p>
+<p>The former site-wide “Scholarly” viewing toggle has been removed. Specialized Style C pages remain linked where they add real value; uncertainty annotations are visible in the ordinary reading view instead of being hidden behind a mode.</p>
+<h2 id="11-limitations-known-failure-modes">11. Limitations: known failure modes</h2>
+<h3 id="ocr-damage">OCR damage</h3>
+<p>Names, abbreviations, marginalia, tables, Greek, Hebrew, cipher alphabets, and worn first or final leaves remain difficult. A fluent translation cannot repair letters that are absent from every witness.</p>
+<h3 id="uncertainty-markers">Uncertainty markers</h3>
+<p><code>[unclear]</code> and related brackets are editorial honesty markers, not unfinished UI. Some were resolvable through alternate witnesses and have been repaired. The remainder should stay visible until better evidence is available.</p>
+<h3 id="repetition-loops">Repetition loops</h3>
+<p>Vision OCR and translation models can repeat a phrase, line, name, or list many times. Mechanical screens and full-work reading caught known severe cases in the published T4B set, but short plausible repetitions still require judgment.</p>
+<h3 id="page-drift">Page drift</h3>
+<p>Long contextual translation can continue fluently from neighboring material while losing alignment with the current page. Content-overlap and anchor guards now detect many such cases. The original T4B batch predated those strict guards, so publication depended on independent grading and subsequent review.</p>
+<h3 id="tables-and-cryptographic-apparatus">Tables and cryptographic apparatus</h3>
+<p>Prose-oriented translation can flatten or omit structured content. Consult Style C, cipher pages, or the facsimile for alphabets, substitution tables, spirit-name lists, and layouts where position carries meaning.</p>
+<h3 id="preamble-and-formatting-leakage">Preamble and formatting leakage</h3>
+<p>Models sometimes emit “Here is the translation,” JSON fragments, or internal instructions. Known T4B leaks were removed during review. Report any survivor as an erratum.</p>
+<h3 id="latin-only-display-segments-in-the-parallel-viewer">Latin-only display segments in the parallel viewer</h3>
+<p>The parallel viewer is source-preserving. If a Latin display segment has no usable English, the Latin remains visible and the English cell is marked. Duplicate-scan segments may point to the retained translation. This is a property of the digitized witness, not necessarily a broken page.</p>
+<h3 id="presentation-versus-archive">Presentation versus archive</h3>
+<p>T4B page markers and scan notices are hidden in the reading interface, but retained in archival Markdown. Readers needing page-level reconstruction should consult the source files and facsimile rather than infer printed pagination from the continuous view.</p>
+<h2 id="12-what-this-corpus-is-good-for-and-what-it-is-not">12. What this corpus is good for, and what it is not</h2>
+<p>The corpus is well suited to discovery, continuous reading, comparison across witnesses, searching Trithemius’s vocabulary and themes, locating passages for closer study, and gaining access to works not previously available in published English.</p>
+<p>It is not a substitute for a critical Latin edition, palaeographic judgment, or source verification in a scholarly quotation. The labels “recommended” and “S/A” identify the best available machine-assisted reading path within this project; they do not convert it into an authoritative human edition.</p>
+<p>For responsible use:</p>
+<ol>
+<li>begin with the T4B edition where available;</li>
+<li>compare the earlier witness when the T4B text is uncertain;</li>
+<li>check consequential claims against the Latin;</li>
+<li>check disputed Latin against the page image;</li>
+<li>cite the specific edition and disclose machine assistance where appropriate.</li>
+</ol>
+<p>Corrections are welcome through the repository. A useful report names the work, segment or quoted phrase, the problematic English, and the supporting Latin or facsimile evidence.</p>
+<h2 id="13-what-was-tried-and-did-not-ship">13. What was tried and did not ship</h2>
+<p>Negative results are part of the method.</p>
+<ul>
+<li><strong>The complete unfiltered T4B lane did not ship.</strong> The LoRA OCR was better than the first failure analysis suggested, but the unguarded translation batch contained clustered drift and fabrication. Only the 27 independently publishable works were promoted.</li>
+<li><strong>A guarded GPT-5.6-sol rerun was tested but not adopted as a replacement corpus.</strong> On the difficult <em>Compendium</em>, strict guards accepted 57 of 104 chunks and correctly blocked 47 drifted outputs; a sermons rerun remained partial. This demonstrated the value of guards but did not yield a complete edition.</li>
+<li><strong>A fully local NPU translation lane</strong> was rejected for fidelity and repetition problems.</li>
+<li><strong>Unlimited-OCR</strong> was rejected because plausible word-level corruption was worse than explicit uncertainty.</li>
+<li><strong>Retrieval augmentation</strong> did not measurably improve failing chunks; damaged OCR, not missing topical context, was usually the binding constraint.</li>
+<li><strong>Automatic inline cipher decryption</strong> was kept separate from the reading text. Recovered mechanisms and plaintext belong on the cipher-solutions pages.</li>
+<li><strong>Automatic multi-witness conflation</strong> was rejected. Separate printed witnesses remain separate rather than being silently merged into a synthetic critical text.</li>
+</ul>
+<h2 id="14-code-data-and-reproducibility">14. Code, data, and reproducibility</h2>
+<p>Site construction, edition assembly, validation, and audit scripts are in <code>scripts/</code>. Canonical quality data are in <code>data/_quality/</code>; earlier editions are in <code>works/</code>; T4B source editions are in <code>works-t4b/</code>; and corpus metadata are in <code>manifest.json</code> and <code>CITATION.cff</code>.</p>
+<p>A complete site build runs:</p>
+<pre><code class="language-text">python scripts/build_site.py
+python scripts/build_t4b_pages.py
+npx pagefind --site site/dist
+python scripts/validate_release.py
+</code></pre>
+<p>The site can be rebuilt from the repository. The full OCR and translation production environment is documented but not turnkey: it depended on public institutional scans, local and cloud vision inference, and several commercial model APIs. Large page-image caches and private working-lane artifacts are not all included in the release.</p>
+<p>The release validator checks relationships among metadata, chunk ledgers, grades, chapter anchors, generated pages, and the search index. Validation guards against internal inconsistency; it does not replace philological review.</p>
+<p><em>Acknowledgment: Stephen Skinner and Daniel Clark’s 2024 edition of the</em> Steganographia <em>was an important reference for the cryptographic corpus. Scriptural and patristic retrieval anchors drew on public-domain Vulgate, Douay-Rheims, NPNF, and ANF materials.</em></p>
+<p>— Ian Carlos Fabin, 2026</p>
+</article>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-cols">
+      <div>
+        <h4>Browse</h4>
+        <a href="works.html">The works</a>
+        <a href="works-trithemius-4b.html">Trithemius 4B editions</a>
+        <a href="ciphers.html">The ciphers</a>
+        <a href="scoreboard.html">Quality tiers</a>
+      </div>
+      <div>
+        <h4>About</h4>
+        <a href="methodology.html">Methodology &amp; limitations</a>
+        <a href="LICENSE.html">License &amp; rights</a>
+      </div>
+      <div>
+        <h4>Project</h4>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus">Source on GitHub</a>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/blob/main/CONTRIBUTING.md">Contribute corrections</a>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/blob/main/CITATION.cff">How to cite</a>
+      </div>
+    </div>
+    <p class="footer-byline muted">
+      Machine-assisted English translations of the Latin works of Johannes Trithemius (1462&ndash;1516).
+      Every translation is machine-produced and independently audited; for scholarly quotation, check the Latin.
+      Translations &amp; generated data: public domain (CC0). Methodology, docs &amp; code: CC BY 4.0. Compiled 2026 by Ian Carlos Fabin.
+    </p>
+  </div>
+</footer>
+<script>
+  // Mobile nav toggle — collapses the site-nav into a hamburger menu on
+  // narrow viewports. ARIA-expanded reflects state; clicking a link or
+  // outside closes it.
+  (function () {
+    var toggle = document.querySelector('.nav-toggle');
+    var nav = document.getElementById('siteNav');
+    if (!toggle || !nav) return;
+    function setOpen(open) {
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+      nav.classList.toggle('is-open', open);
+    }
+    toggle.addEventListener('click', function () {
+      setOpen(toggle.getAttribute('aria-expanded') !== 'true');
+    });
+    // close on link click (mobile) and on Escape
+    nav.addEventListener('click', function (e) { if (e.target.tagName === 'A') setOpen(false); });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && toggle.getAttribute('aria-expanded') === 'true') setOpen(false);
+    });
+    // reset on resize back to desktop
+    window.addEventListener('resize', function () {
+      if (window.innerWidth > 760) setOpen(false);
+    });
+  })();
+
+  // Theme switcher — persists choice in localStorage under 'tc-theme'.
+  // Theme switcher — steganographia (default dark), parchment (light), ink
+  // (high-contrast), candlelight (warm dark), and auto (follow OS preference).
+  (function () {
+    var root = document.documentElement;
+    function resolveAuto() {
+      try {
+        return window.matchMedia &&
+               window.matchMedia('(prefers-color-scheme: light)').matches
+               ? 'parchment' : 'steganographia';
+      } catch (e) { return 'steganographia'; }
+    }
+    function applyTheme(t) {
+      // track the chosen theme (incl. auto) on data-tc-theme; paint the
+      // concrete theme on data-theme.
+      if (t === 'auto') {
+        root.setAttribute('data-tc-theme', 'auto');
+        var r = resolveAuto();
+        if (r === 'steganographia') root.removeAttribute('data-theme');
+        else root.setAttribute('data-theme', r);
+      } else {
+        root.removeAttribute('data-tc-theme');
+        if (t === 'steganographia') root.removeAttribute('data-theme');
+        else root.setAttribute('data-theme', t);
+      }
+    }
+    var current = 'steganographia';
+    try { current = localStorage.getItem('tc-theme') || 'steganographia'; } catch (e) {}
+    applyTheme(current);
+    // if OS preference changes while 'auto' is selected, re-resolve live
+    try {
+      window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', function () {
+        if ((localStorage.getItem('tc-theme') || '') === 'auto') applyTheme('auto');
+      });
+    } catch (e) {}
+    document.querySelectorAll('.theme-switcher button[data-set]').forEach(function (btn) {
+      var pressed = btn.getAttribute('data-set') === current;
+      btn.setAttribute('aria-pressed', pressed ? 'true' : 'false');
+      btn.addEventListener('click', function () {
+        var t = btn.getAttribute('data-set');
+        try { localStorage.setItem('tc-theme', t); } catch (e) {}
+        applyTheme(t);
+        document.querySelectorAll('.theme-switcher button[data-set]').forEach(function (b) {
+          b.setAttribute('aria-pressed', b.getAttribute('data-set') === t ? 'true' : 'false');
+        });
+      });
+    });
+  })();
+  // Reading progress bar (overall page scroll) + percentage indicator
+  (function(){
+    var bar=document.getElementById('readProgress');
+    var pct=document.getElementById('readProgressPct');
+    if(!bar)return;
+    var ticking=false;
+    function onScroll(){
+      if(ticking)return; ticking=true;
+      requestAnimationFrame(function(){
+        var h=document.documentElement.scrollHeight-window.innerHeight;
+        var p=h>0?Math.min(1,window.scrollY/h):0;
+        bar.style.transform='scaleX('+p.toFixed(3)+')';
+        bar.classList.toggle('is-active', p>0.02);
+        if(pct){
+          var n=Math.round(p*100);
+          pct.textContent=n<1?'':n+'%';
+          pct.setAttribute('aria-hidden', (n<3).toString());
+        }
+        ticking=false;
+      });
+    }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    onScroll();
+  })();
+  // Random work button — uses the work-ID list baked in at build time (no
+  // fetch() needed, so it works on file://, HTTP, and GitHub Pages).
+  (function(){
+    var btn=document.getElementById('randomWorkBtn');
+    if(!btn)return;
+    var workIds=window.TC_WORK_IDS||[];
+    btn.addEventListener('click',function(e){
+      e.preventDefault();
+      if(!workIds.length){
+        // graceful fallback: go to the works listing
+        window.location.href=btn.href;
+        return;
+      }
+      var pick=workIds[Math.floor(Math.random()*workIds.length)];
+      // resolve relative to this page (works/<id>.html)
+      var base=btn.href.replace(/works\.html.*$/,'');
+      window.location.href=base+'works/'+pick+'.html';
+    });
+  })();
+  // Cipher substitution tables: tag each .table-scroll that overflows
+  // horizontally so the CSS right-edge scroll affordance (the ::after fade)
+  // only appears when there is actually more to scroll sideways.
+  (function () {
+    function tagScroll() {
+      document.querySelectorAll('.table-scroll').forEach(function (ts) {
+        if (ts.scrollWidth > ts.clientWidth + 2) ts.classList.add('scrollable-x');
+        else ts.classList.remove('scrollable-x');
+      });
+    }
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(tagScroll);
+    window.addEventListener('load', tagScroll);
+    var t; window.addEventListener('resize', function () { clearTimeout(t); t = setTimeout(tagScroll, 150); });
+  })();
+</script>
+</body>
+</html>

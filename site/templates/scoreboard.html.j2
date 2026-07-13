@@ -1,0 +1,104 @@
+{% extends "base.html.j2" %}
+{% block title %}Tier table &mdash; Trithemius Corpus{% endblock %}
+{% block body %}
+
+<section>
+  <h2>Quality tier table</h2>
+  <p class="muted">
+    Every translated edition, graded chunk-by-chunk against its own Latin:
+    Claude Sonnet 4.6 for the bulk of the corpus, with Claude Opus 4.8
+    pairwise-adjudicating the churro-hi re-translations, GLM-5.2 grading the
+    184-chunk 2026-06 gap-close batch, and a 2026-06 dual-grader consensus
+    (MiniMax-M3 + GLM-5.2, Claude third pass) over the disagreements and
+    hallucination remediation (see
+    <a href="{{ url('methodology.html') }}#6-grading-and-quality-tiers">METHODOLOGY &sect;6</a>).
+    Corpus-wide: {{ quality.chunks }} graded chunks, mean faithfulness
+    {{ '%.2f'|format(quality.faithful) }}/5, {{ '%.1f'|format(quality.hallucinated_pct) }}% flagged hallucinated.
+    Looking for the reading index instead? <a href="{{ url('works.html') }}">Browse the works</a>.
+  </p>
+  <noscript><p class="muted">(Sorting needs JavaScript; the table below is pre-sorted by tier.)</p></noscript>
+
+  <table class="works-table" id="works-table">
+    <caption class="sr-only">Per-work quality scoreboard: tier, pages, genre cluster, faithfulness, fluency, and damage density for each of the 47 translated editions. Column buttons sort the table.</caption>
+    <thead>
+      <tr>
+        <th scope="col"><button class="sort-btn" type="button" data-sort="tier">Tier</button></th>
+        <th scope="col"><button class="sort-btn" type="button" data-sort="pages">Pages</button></th>
+        <th scope="col"><button class="sort-btn" type="button" data-sort="cluster">Cluster</button></th>
+        <th scope="col"><button class="sort-btn" type="button" data-sort="faith">Faithfulness</button></th>
+        <th scope="col"><button class="sort-btn" type="button" data-sort="fluent">Fluency</button></th>
+        <th scope="col"><button class="sort-btn" type="button" data-sort="gap">Damage density<sup>&dagger;</sup></button></th>
+        <th scope="col"><button class="sort-btn" type="button" data-sort="work">Work</button></th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for w in works %}
+      <tr class="tier-{{ (w.tier or 'u')|lower }}"
+          data-tier="{{ w.tier or 'U' }}"
+          data-pages="{{ w.page_count if w.page_count is not none else -1 }}"
+          data-cluster="{{ w.genre_cluster or '' }}"
+          data-faith="{{ w.faithful_adj if w.faithful_adj is not none else -1 }}"
+          data-fluent="{{ w.fluent_adj if w.fluent_adj is not none else -1 }}"
+          data-gap="{{ w.unclear_density if w.unclear_density is not none else -1 }}"
+          data-work="{{ w.title|lower }}">
+        <td class="tier-letter" data-label="Tier">{{ w.tier or '&mdash;' }}</td>
+        <td class="num" data-label="Pages">{{ w.page_count or '&mdash;' }}</td>
+        <td data-label="Cluster">{% if w.genre %}<a href="{{ url('genres/' + w.genre + '.html') }}">{{ w.genre_label }}</a>{% else %}&mdash;{% endif %}</td>
+        <td class="num" data-label="Faithfulness">{{ '%.2f'|format(w.faithful_adj) if w.faithful_adj is not none else '&mdash;' }}</td>
+        <td class="num" data-label="Fluency">{{ '%.2f'|format(w.fluent_adj) if w.fluent_adj is not none else '&mdash;' }}</td>
+        <td class="num{% if w.unclear_density and w.unclear_density >= 5 %} gap-high{% elif w.unclear_density and w.unclear_density >= 3 %} gap-mid{% endif %}" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">{{ '%.1f'|format(w.unclear_density) if w.unclear_density is not none else '&mdash;' }}</td>
+        <td data-label="Work"><a href="{{ url('works/' + w.id + '.html') }}">{{ w.title }}</a>{% if w.edition_label %} <span class="ed-tag" title="One of {{ w.edition_count }} editions of this text in the corpus">{{ w.edition_label }}</span>{% endif %}</td>
+      </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+  <p class="muted scoreboard-note"><sup>&dagger;</sup> <strong>Damage density</strong> &mdash; <em>OCR damage density</em>: the count of <code>[unclear]</code> markers (spots the OCR could not resolve, marked as such rather than guessed) per translated segment. Higher means the underlying page scan is more damaged, not that the translation is worse; the translation honestly preserves the damage. Sort by this column to see which works' Latin sources are the roughest.</p>
+</section>
+
+<script>
+(() => {
+  const table = document.querySelector("#works-table");
+  if (!table) return;
+  const tbody = table.tBodies[0];
+  const tierRank = { S: 0, A: 1, B: 2, C: 3, F: 4, U: 5 };
+  let activeSort = { key: "tier", dir: 1 };
+
+  function value(row, key) {
+    if (key === "tier") return tierRank[row.dataset.tier] ?? 9;
+    if (["pages", "faith", "fluent", "gap"].includes(key)) {
+      return Number(row.dataset[key]);
+    }
+    return row.dataset[key] || "";
+  }
+
+  function render() {
+    const rows = Array.from(tbody.rows);
+    rows.sort((a, b) => {
+      const av = value(a, activeSort.key);
+      const bv = value(b, activeSort.key);
+      if (typeof av === "number" && typeof bv === "number") {
+        return (av - bv) * activeSort.dir;
+      }
+      return String(av).localeCompare(String(bv)) * activeSort.dir;
+    });
+    for (const row of rows) {
+      tbody.appendChild(row);
+    }
+  }
+
+  document.querySelectorAll("[data-sort]").forEach((button) => {
+    button.addEventListener("click", () => {
+      const key = button.dataset.sort;
+      activeSort = {
+        key,
+        dir: activeSort.key === key ? activeSort.dir * -1 : 1,
+      };
+      render();
+    });
+  });
+
+  render();
+})();
+</script>
+
+{% endblock %}

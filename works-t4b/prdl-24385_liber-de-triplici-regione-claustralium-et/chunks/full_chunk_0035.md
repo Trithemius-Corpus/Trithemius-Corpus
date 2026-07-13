@@ -1,0 +1,21 @@
+--- Page 079 ---
+
+is cast down, so much the more, rejoicing, he is glad in the Lord. He rejoices that he is wretched, so that in himself he may proclaim the Lord glorious. He who truly loves his Lord seeks nothing other than his glory.
+
+It is clear from what we have said that the perfect charity promised to those ascending through the degrees of humility is displayed in this seventh degree. For the other five degrees that follow in the Rule add nothing to the perfection of the inner man who stands in the seventh; rather, they order the exterior man, lest he dissipate the interior. Finally, from the seventh degree we could set up certain new ascents of humility, and in them raise all the other degrees higher. For filial fear resides more fervently in him who can advance more broadly than others.
+
+Now that the ascents of the heart up to the degree of charity have been known, let the cenobite consider with what zeal, with what effort, and with what perseverance he ought to exercise himself in them, so that he may attain this seventh degree of love. But whoever does not always strive to advance in these degrees of humility should know that he sins against the Rule; and unless by repentance he recovers his holy striving, he incurs the sentence of damnation. For the Rule says thus: “But if at any time he should do otherwise, let him know that he will be damned by him whom he mocks.” Therefore, if anyone who advances too little in religious life is believed guilty before divine judgment when he abandons the effort of advancing, what else does he deserve but to receive the sentence of damnation? For where the Rule establishes an account even of lesser progress among those who are striving to advance, monks who despise every effort of advancing are without doubt damned by the sentence of the judge. Therefore, if you do not wish to incur the danger of damnation, take care always to preserve the effort of advancing under the Rule.
+
+Since we have said that the other five degrees of humility also pertain to the custody of the inner man, let us briefly explain them too. For the monk who neglects to order his exterior conduct according to the Rule will not stand properly ordered in interior things. For just as a body stripped of clothing is corrupted, so humility without conduct is emptied out.
+
+--- Page 080 ---
+
+The eighth degree of humility, therefore, is set down in the Rule in this way: if the monk does nothing except what the common Rule of the monastery or the examples of the elders encourage. In this degree, singularity in exterior conduct contrary to the Rule is forbidden to monks; but interior singularity of greater charity and humility is forbidden to no one. Therefore let no one prefer his own inventions to the holy Rule; let no one set his own customs before the examples of the elders, because it is not enough to stand in the seventh degree if one does not keep the Rule of common life.
+
+The ninth degree of humility follows from the Rule, by which excessive talkativeness is forbidden. It is fitting for monks to keep silence, especially when they sit in the midst of their elders. And indeed, he who speaks without being questioned is deservedly considered a fool.
+
+The tenth degree of humility forbids ease in laughter and levity; for whoever delights in laughter is shown to be foolish and alien to the fear of the Lord.
+
+The eleventh degree of humility enjoins modesty and seriousness upon the monk, so that when opportunity and permission to speak are granted to him, he may speak with humble gravity, without laughter, and as a monk. Let the monk’s speech be rare, brief, and reasonable, because it is not fitting for him who wishes to please the Most High to say useless things.
+
+The twelfth degree of humility teaches the monk to order the exterior man in appearance and bearing from a humble heart, and to demonstrate by exterior conduct also that he is devout inwardly. And although this degree is last in the order of all, nevertheless in practice it begins progress, and in use it is first. Therefore Bernard, describing these twelve degrees of humility, begins from this one and ascends to the first, descending, so to speak, by order. For no one easily advances inwardly to compunction of heart and the fear of the Lord if he does not order his exterior conduct.

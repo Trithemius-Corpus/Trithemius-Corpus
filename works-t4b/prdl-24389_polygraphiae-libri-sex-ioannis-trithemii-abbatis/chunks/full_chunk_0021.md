@@ -1,0 +1,22 @@
+--- Page 050 ---
+
+from each word take only the second letter, and you will find this meaning hidden: “Beware this man.” For the second letter in Ecorach is C, in hanafar A, in dulay V, in semalas E; join these four letters and they will make this word: “Beware.” And so one should proceed through the remaining words as far as the end of the book; and if any hidden mystery still remains to be written, one must return to the beginning as often as necessary, until the secret has been completed in full. In this most secret manner of writing, if anyone has been trained by long practice, he does not need the book, but will easily compose, on the spot, words suited to his purpose. But anyone less practiced in composition necessarily requires access to the book from which he is to write. For the reader, a copy of the volume will not be necessary, since without the book he can easily find the hidden secret by means of the second letters everywhere. Yet in great, difficult, or dangerous matters this method of writing should not be trusted as sufficiently safe, because the industry of a skilled man might by chance discover the hidden mystery. This method of writing, however, can also be changed by an intelligent man, so that the significant letters are placed in the third or fourth position of the word, with the words altered.
+
+A Brief Explanation of the Fifth Book of Our Polygraphia.
+
+In the fifth book of the Polygraphia we have handed down various methods of writing secretly through the transposition of common letters, arranged in such an order that under their covering we shall be able to write and announce everything safely to an absent friend. The progress of the transposition of letters is, to speak in our own manner, almost infinite, since from one alphabet innumerable alphabets arise by metathesis. First we described a straight table containing twenty-four alphabets; by understanding it, as many alphabets can be composed as there are stars counted in the firmament of heaven. For as many letters as there are in that table, so many times do ten hundred thousand arise by art, according to the order of the alphabet. After this we set out a reversed table, which changes into another as often as you change the first letter at the head. The letter in the first, straight table is B, and in the reversed one Z. Into the fourth place, as often as [unclear]
+
+--- Page 051 ---
+
+he wishes, he may devise for himself more beautiful characters. All the synthemata of this book are sufficiently open and clear, and therefore they need no explanation, even a brief one. Yet those things which stand as newly invented by us require a definite declaration, lest perhaps they be judged to have been set down without reason. First of all, we have made all the letters of the Latins numerical, after the manner of the Hebrews and Greeks, thinking it shameful for us if we should be found inferior to them in this respect. For what does it matter that we have doubled certain letters so that they might suffice for an infinite number, since the Jews, compelled by the same necessity, did that very thing long ago? And the Greeks, because of a lack of letters, admitted certain signs into the number, since they could not double the letters. But we, because we are pressed by an equal lack of letters, have admitted two signs: namely this one, &, which our scribes use for et; nor does it matter whether it is written thus, &, or thus, et, provided that it represents six in number. We have added another, 9, which our scribes write in abbreviation for con and com indifferently; here, in the order of numbers, it represents six hundred. By the same necessity we have doubled two letters, namely r, z, and s: the straight r signifies ninety, the curved z one hundred, the long s two hundred, and the closed s three hundred. Further, the doubled w, which we have placed in the order of the alphabet because of the character of the German language, represents the final letter, and in the series of numbers one thousand. Let us set down a tabular example of this new invention of ours for the system of numbers, so that whoever wishes to know the method may have a definite guide before his eyes. For what has always been easy for the Hebrews and the Greeks will not be impossible for us. The table of numbers follows.
+
+A  b  c  d  e  f  g
+ij iij iiij v vii viij
+
+p  q  r  t  s  c
+lxx lxxx liiiii cc ccc
+
+wf wg wh wi wk
+vij viij viiii x xx
+
+ws wt wꝰ de wx dce

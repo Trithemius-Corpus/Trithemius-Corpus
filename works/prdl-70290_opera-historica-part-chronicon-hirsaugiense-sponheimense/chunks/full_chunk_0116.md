@@ -1,0 +1,29 @@
+are read at Mass; he composed a large volume with fine variety. On the life, spirit, and fruit of death he published one book; another which he entitled Matricularium; likewise another which he prefaced as Didascalon, on music, the difference of tones, one book; also a metrical little work on the praises of our holy father Benedict. He also composed many sermons and many most elegant homilies.
+
+But he wrote many poems and various epigrams, adorned in various kinds of style, which, [unclear], have partly been brought into oblivion. Let no one, when he has read these, suppose that that declaimer who, emerging from those whom they call Mendicants, under the name of Peregrinus composed sermons to the people, [unclear], in a humble diction after the manner of the moderns, either was our Peregrinus, or can in any way be compared with him. For that man, after the manner of the declaimers of this time, going along cast down in scholastic speech, introduces very frequent quotations of the Scriptures. But this Peregrinus of ours, following Ciceronian eloquence, in the manner of the ancients, without superfluous citations, continues a clear, sound, whole discourse.
+
+In these same times also flourished Theodoric, abbot of the monastery of St Trudo of our order, a man most learned in every respect, who wrote, among many monuments of his talent, [unclear], sermons to the brothers.
+
+*Theodoric, abbot of St Trudo*
+
+At this time also [unclear] Stephen, called Herrand, from abbot of the monastery of El[senburg?] of our order, [unclear], also the life of St Trudo, and also the life of St Reinold, various sermons to the brothers.
+
+*Stephen, from abbot, bishop of Halberstadt*
+
+Everyone who sells spiritual dignities is a heretic. But lord Henry, of [Elsenburg?] of our order, bishop of Halberstadt, a learned and holy man, who always felt [unclear], wrote in the person of Count Louis, faithful to the Roman Church, to Walram, bishop of Naumburg, who obstinately supported the side of Emperor Henry against obedience to the supreme pontiff, a letter no less elegant than lengthy; in it [unclear] all the errors, [unclear].
+
+*He wrote a letter against Henry for the Church*
+
+In these same times also flourished Stephen, called Herrand, from abbot of the monastery of El[senburg?], sermons to the brothers.
+
+At this time also [unclear]. In the time of Stephen, called Herrand, from the abbacy of the monastery of Elb[...], sermons to the brothers.
+
+Everyone who sells spiritual dignities is a heretic. But lord Henry, of [Elsenburg?] of our order, bishop of Halberstadt, a most learned and holy man, who always [unclear], wrote through the person of Count Louis, faithful to the Roman Church, to Walram, bishop of Naumburg, who obstinately defended the side of Emperor Henry against obedience to the supreme pontiff, a letter no less elegant than lengthy; in it he had made all the errors, a letter no less elegant than [unclear]; in it he contained many contradictions of truth, [unclear], and described the crimes and wicked deeds of that King Henry so openly that thereafter they could not be denied by any excuse. Among other things, indeed, in the same letter he speaks thus to Walram, defender of the schismatic and excommunicated king: Hear, therefore, true things, not disguised; hear strong things, not witty ones.
+
+Everyone who sells spiritual dignities is a heretic. But lord Henry, of [Elsenburg?] of our order, bishop of Halberstadt, a most learned and holy man, who [unclear] the person of Count Louis, faithful to the Roman Church, to Walram, bishop of Naumburg, who obstinately defended the side of Emperor Henry against obedience to the supreme pontiff, a letter no less elegant than lengthy; in it many had made errors, [unclear], and he described the crimes and wicked deeds of that King Henry so openly that thereafter they could not be denied by any excuse. Among other things, indeed, in the same letter he says thus to Walram, defender: Hear therefore true things, not disguised; hear strong things, not witty ones.
+
+These writings of a most steadfast man confirm that their author was founded in the fear of God, and they show how great was the rashness of King Henry against the Roman Church, he who persecuted even to death all who offered obedience to the vicar of Christ. Hence [unclear] of [Elsenburg?], Augsburg, Strasbourg, Mainz, and many others by money; of Regensburg, Augsburg, and Strasbourg for the sword; the abbey of Fulda, but the bishop [unclear] -- a thing it is sinful to say and to hear -- he sold for Sodomitic uncleanness. But if you shamelessly wish to deny these things, with the Church as witness, with the earth as witness, even all [unclear] returning from the oven, [unclear] this: lord Henry is a heretic. For these unspeakable evils, by apostolic excommunication, he has neither kingdom nor any power over us, because we are Catholics, [unclear].
+
+These writings of a most steadfast man confirmed their author in the foundation of the fear of God, and showed how great was the rashness of King Henry against the Roman Church, he who persecuted even to death all who offered obedience to the vicar of Christ. Hence [unclear] of [Elsenburg?], Augsburg, Strasbourg, Mainz, and many others by money; of Regensburg, Augsburg, Strasbourg for the sword; the abbey of Fulda, but the bishop [unclear] -- a thing it is sinful to say and to hear -- he sold for Sodomitic uncleanness. But if you shamelessly wish to deny these things, with the Church as witness, with the earth as witness, even all [unclear] returning from the oven, [unclear] this: lord Henry is a heretic. For these unspeakable evils, by apostolic excommunication, neither kingdom nor any power over us, because [we are] Catholic, [unclear].
+
+These writings of a most steadfast man confirmed their author in the foundation of the fear of God and [showed] how great was the rashness of King Henry against the Roman Church, [unclear].

@@ -1,0 +1,45 @@
+{
+  "id": "prdl-24380_admonitiones-exhortationes-monachos",
+  "title": "Admonitiones / Exhortationes ad Monachos",
+  "year": "original date uncertain",
+  "source_year": "1898",
+  "year_note": "These monastic admonitions survive here through a later collected source witness; the release source is an 1898 IA microform of modern printed material.",
+  "edition_info": "Romae : Typis Vaticanis, 1898 (IA)",
+  "edition_info_raw": "( Romae : Typis Vaticanis, 1898 ) IA",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 294,
+  "genre_cluster": "bibliographic",
+  "tier": "S",
+  "faithful_adj": 4.98,
+  "fluent_adj": 4.98,
+  "coverage_pct": 97.8,
+  "chunks_graded": 262,
+  "chunks_total": 268,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "minimax",
+    "minimax-v2",
+    "public"
+  ],
+  "source": {
+    "provider": "IA",
+    "url": "http://www.archive.org/details/MN5032ucmf_2",
+    "download_url": "http://www.archive.org/details/MN5032ucmf_2",
+    "prdl_id": "24380"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 268,
+    "n_missing_segments": 0,
+    "latin_source_file": "full.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24380_admonitiones-exhortationes-monachos_parallel.html"
+  }
+}

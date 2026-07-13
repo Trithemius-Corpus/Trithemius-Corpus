@@ -1,0 +1,27 @@
+--- Page 459 ---
+
+The fifth book of the Polygraphy of Johannes Trithemius, Abbot of Saint James the Apostle at Würzburg, begins its preface.
+
+Those things which, with the aid of our Lord Jesus Christ, we have arranged, however adequately, in the four preceding books for the completion of our Polygraphy, reasonably require that in this fifth book we briefly treat the remaining precepts and methods of this instruction that are still left. We shall therefore give in it a sufficiently concise method by metathesis, that is, by transposition of letters, by which a friend may safely, securely, and most secretly write to a friend whatever he wishes. We read that Caesar Augustus used this method of writing in secret matters. Although this method of communication is in many ways secure, it is nevertheless always regarded with suspicion by those who look at it, because as soon as a transposition of letters is seen, anyone who is curious at once suspects that something lies hidden beneath them.
+
+There are, moreover, almost infinite methods of this invention. From them, for the necessary introduction, we have marked out the following for the reader, reserving the rest to be investigated by his ingenuity. First, therefore, we have set before him the canonical table of this craft, to which we have joined another, reversed. In these two tables the root and foundation of the aforementioned transposition is entirely set down, upon which the structure of the whole edifice is placed. For when these two tables have been properly known and understood, no transposition of letters will be able to remain hidden from one who works diligently. To these we have joined twenty-four alphabets in order, so that we might provide the reader with an abundance of transposing letters. Their use, according to one’s wish, consists in individual alphabets, or, if you prefer, also in all of them. If you have secret correspondence with many people, distribute individual alphabets to your individual acquaintances, but commit to memory what you have given to each one.
+
+--- Page 460 ---
+
+Let the first alphabet be entrusted to the first person, the second to the second, the third to the third, and so let it be done in order with the rest. But if, because of the multitude of affairs or of one’s household, the alphabets which we have marked out should not suffice for everything, or if some of them seem too open and manifest, we shall be able to introduce various new transpositions, whose number may be very great, while the method of the secret always remains perpetually hidden. Let us give an example of this: let B be a, F be b, L be c, P be d, T be e, Z be f, C be g, M be h, and so let it be done consecutively through the whole usual alphabet, so that between any assumed letter three letters intervene idly and in transposed order. Afterward let there be four, then five, more or fewer, yet so that the whole alphabet, as if revolved in a circle, comes together, and no letter at all is omitted, but each is placed in the same series for another in its own order.
+
+In whatever way you write it, you must know that the method itself is to be entrusted firmly either to writing or to memory, lest, having slipped through forgetfulness, you can no longer read what you yourself had written. For the transposition of letters can be varied in so many ways that, according to the estimation of human understanding, which, enclosed in a mortal body by temporal operation, does not properly grasp infinite things, an innumerable number will arise for a mortal man. Hence whoever wishes to have more methods of writing by metathesis, and methods remote from our instruction, will easily achieve the result in his work if he is even a little ingenious and diligent. For the human mind can do very great things if it is aided by study and art. But he who despises small things will never attain to greater ones.
+
+I know that there will be many who will mock these studies of ours as empty and childish. To them we give as an answer that we shall be altogether content, provided they please those at whose request they have been composed by us.
+
+The direct table follows.
+
+--- Page 461 ---
+
+Direct table of transposition.
+
+abdefghiklmnopqrstuxywabcdefgbiklmnopqrs t u x y z w abcdefg b i k l m n o p q r s t u x y 3 w ab c def g h i k l m n o p qr s t u x y 3 wa bc d e f g h i k l m n opqr st u x y 3w ab cd ef g h i k l m nop qr s t u x y 2 w abcd ef g h i k lm nop qr s t u x yz w abc df gh i k l m nop qr s t u x y3w ab c de f g h i k l mn op qr s t u x y z w ab c d ef g h i k l mop qr s t u x y; w ab c d ef g h ik l m nop qr s t u xy ; w a b c d e f g h i K L M N O P Q R S T U X Y Z W A B C D E F G H I K L M N O P QRSTUXYZWABCD EF GH IKLMNOPQRS TUXYZWABCDEFGHIKL MNO PQRS TUXY3W ABCD EFGH IK LM NOPQR STU XY3W AB CD E FGHIKLMN OPQRSTUXY3WABCD EFGHIKLMPQRSTUXY3WA BC DEF GHI KL MNO PQRSTUXY3 WA BC DE FGHI KLM NOP QRSTUXY3 WAB CD EF G HI KLMNOP QRSTUXY3W AB CDE FGHI KLMNOP QRSTUX Y3WAB CDE FGHI KM NOP QRSTUXY 3WAB CD EFGHI KLMNOP QRST UX Y3WAB CD E FGHI KLMNOP QR STUX Y3WAB CD EF GHI KLMNOP QRSTUXX3WAB CD EFG HI KLMNOP QRSTUY3WAB CD EFG HIKLMNOP QRSTUXy z
+
+In this canonical or direct table of letters, from our one usual alphabet of Latin letters, by change or transposition of the letters themselves, you have as many alphabets as there are monograms throughout it, namely twenty-four times twenty-four, which make 576 in number; and when multiplied by the same number, they make a little less than fourteen thousand.
+
+O ij

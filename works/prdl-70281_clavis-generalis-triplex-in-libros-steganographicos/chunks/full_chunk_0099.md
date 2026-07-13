@@ -1,0 +1,23 @@
+*The Key of Steganography*
+
+[unclear] ours, since we have sinned gravely and have often fallen away: sweetest Savior Jesus Christ, save us; be kind to those who pray, Jesus, and preserve us, your suppliant servants. We are men, most loving Jesus, transgressing the rule of justice; mercifully rescue us, you highest virtue, since our life, continually subject to unhappiness, is corrupted. Have mercy on us, Jesus Christ, most loving Savior; look upon the humility of faithful souls, and do not permit us any longer to wander in the mire of security, of a most destructive temptation, in love, as we, badly troubled, are tossed about; led away by faults, we hold our salvation in little esteem, soon to be called to the examination of reason. Kind Creator, be gracious to your servants, and free us as quickly as possible. The vanity of the world has deceived us, for we have abandoned the way of truth; rescue the sweetest light of souls, fixed in the mire, since you are our salvation, and in your name we shall be saved: unfailing joy and everlasting happiness, you are our life, the gladness of angels, the most perfect fellowship of the just, Creator, Savior of the human race. Most kind Jesus, hear us humble ones crying to you; free us from present and future shipwreck, that we may live without end. Would that you would look upon us, your wretched servants in exile, you who have redeemed us; we have loved your ways. Preserve us, almighty God, infinite majesty, boundless compassion; be our perpetual [protection?]. Amen.
+
+*The hidden tenor of the above.*
+
+Dear faithful one, the bearer of this letter has done something wrong; it is our command that you keep him imprisoned until our arrival, etc.
+
+*Example of a Latin Secret.*
+
+The lover of human salvation, who created all things, has enjoined obedience upon us: a commandment which we all are bound to obey and follow. The reward of holy obedience will be everlasting happiness for those who fear God. Let us strive to be summoned to Christ's obedience in all things, so that we may deserve to enter the eternal life promised to us with the angels through the mercy of God. Let us do penance while we can; the time of life is very brief; soon death will strike the unprepared, suddenly it will consume the negligent. [unclear] to send souls to judgment; brothers, do not delay in doing penance, for death will come swiftly to you, which no one of you can escape for long. Look upon those passing from your [unclear]; begin penance while you have time; why do you neglect it any longer? O death, most terrible of horrible things, how swiftly you consume us wretched ones. Your sojourn is very brief, subject to judgment; death subjects all from the soul. Hear us, most loving Christ, Savior, and be gracious to us who desire [unclear] through [unclear]; grant us fear and love of you, most kind Redeemer, pardon of sins to those who supplicate you. Nourishing Creator of the human race, hear us; grant us forgiveness of crimes. O most merciful Father, be merciful to us; help our weakness, most gentle one. Thus run mercifully to the aid of our weak souls, since we are yours. Most indulgent Father, grant rest to the souls of the faithful; deign to join with the angels those who fear God.
+
+*The hidden tenor of the above.*
+
+Tonight after twelve, I shall come to you near the gate which leads to the garden, where you will wait for me. See that everything is ready.
+
+*The third method is to use alternate words in such a way that the first is always without the meaning of the secret.*
+
+The third method of secret writing, as I have said, arises from the preceding one; in it the words serving the secret are varied in alternate turns as above. Yet this must be observed: that the first word of the narrative contribute nothing to the secret intention; and, likewise, the last word of the completed sentence at the end should be without a word of the secret, together with the following word, which should precede the beginning of the next word. And this method is very safe and is not easily detected by one ignorant of the art; and we shall set down an example of this kind.
+
+*Example of the third method.*
+
+O [unclear], we die, since all of us, mortal, together bring forth the guilt of general harm, and no one lives who will not die; we are all chosen for a short time. Baptism removes original sin [in natural things?]; daily penance must be performed. Death of the body remains before us, so that in humility we may fear God, who has rescued us from sinning; we have already lost [unclear], and by preserving [it] virtuously may live again in divine light. O Jesus, [unclear] from the heavens

@@ -1,0 +1,23 @@
+*Of Illustrious Men. Supplement or Addition. Of Illustrious Germans, by Jakob Wimpheling of Sélestat: composed after the Catalogue of Lord Johannes Trithemius, Abbot of Sponheim.*
+
+When recently the reverend father Trithemius, abbot of Sponheim, induced by my requests, had published the Catalogue of the illustrious men of Germany and sent it to me, I found that the supreme pontiffs of the city of Rome chosen from among the Teutons were missing, and also [certain?] others, in my judgment worthy of remembrance; and I was grieved, and at once resolved to add those who had been neglected and to commend them to posterity, if only by their names. For our most dutiful father Trithemius had long ago, with my knowledge, adopted this rule: to introduce absolutely no one into his Catalogue unless both the times of his life and the little works of his talent had become certainly known to him. But I, since I believe that no German could have been raised to the height of the supreme pontificate without exceptional learning, although their works have not reached us, shall by no means pass them by.
+
+Stephen, therefore, Pope VIII, born from Germany, is not to be thought to have been able to be elevated to the most holy summit of the Roman see without exceptional excellence both in virtues and in learning, although, harassed by the tyranny of the Romans, he experienced fortune hostile to him with grief, so that he could do nothing magnificent or distinguished or worthy of remembrance. Sebastian Murrho of Colmar also mentions him, in his work on the virtues and magnificence of the Germans. He flourished under Emperor Otto I, in the year of the Lord 942.
+
+Gregory, Pope V, a Saxon by race, by establishing and ordaining the electors of the Roman Empire, to whom the election of the emperor was entrusted with unassailable perpetuity, happily and beneficially provided for the holy Roman Empire with his wondrous prudence, fearing that offspring might at some time degenerate from the virtues of their grandfathers and fathers. He flourished under Otto III, in the year of the Lord 995.
+
+Clement, Pope II, previously called Synderus, crowned Henry II, who compelled the Romans to swear allegiance to him, that he would never hereafter interfere in the election of pontiffs: a very excellent and salutary decree, instituted for the Romans by the pontiff and the prince, both of them, as is allowed, Teutons. He flourished under Henry III, the second emperor, in the year of the Lord 1047.
+
+Leo, Pope IX, Alsatian by nation, from the counts of Egisheim, famous for holiness, formerly Bruno, bishop of Toul, a monk of the holy father Benedict, deserved to hear a voice from heaven: “I think thoughts of peace, and not of affliction.” And of him our [unclear], in his Catalogue of the churches, made mention, and likewise Sebastian Murrho. He flourished under Henry III, in the year of the Lord 1048.
+
+Victor, Pope II, previously called Gebhard, bishop of Eichstätt, held a great synod at Florence, in which, condemning many bishops for simony and fornication, he deposed them. He ruled and reformed the clergy very well, and did and established many good things. He flourished under Henry III, in the year of the Lord 1054.
+
+Stephen, Pope IX, previously called Frederick, a monk of the order of the holy father Benedict. He immediately took care that the church of Milan, which had withdrawn itself from the Roman church for almost two hundred years, should now obey the same, as truly the mother of all churches. He flourished under Henry of this name the third, in the year [unclear].
+
+And so much concerning the Roman pontiffs chosen; now concerning the rest omitted in the Catalogue, so far as it has been possible for us to gather, let us briefly write something.
+
+Bruno, founder of the Carthusian order, then a theologian, rector and governor of the scholars of Paris, when he was considered most excellent in Gaul in lecturing, disputing, and writing, left behind the world and its pomps and, with seven most learned men, withdrew into the wilderness of Chartreuse; and, a monastery having been built, he happily established this very order. Among his disciples was Urban, Pope II. Bruno flourished around the year of the Lord 1085.
+
+Hugh of Saint-Victor at Paris, a German by nation, was originally from Saxony, and therefore is rightly to be counted among our own. How much he wrote, our Trithemius did not leave unsaid in his Catalogue of ecclesiastical writers. He flourished at the same time as Saint Bernard, abbot of Clairvaux, in the year of the Lord 1120.
+
+Johannes, originally from Turghem, a village of Swabia, first of Eichstätt, then of Argenti-

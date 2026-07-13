@@ -1,0 +1,1 @@
+<!-- removed: source digitization boilerplate (segment 39 was an OCR stutter 'Dominus et dominicae / et dominicae ...' rendered as 'The Lord and Sundays / and Sundays'; the work closes at chunk 38's illegible-pages note) -->

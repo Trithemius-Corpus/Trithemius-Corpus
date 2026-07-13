@@ -1,0 +1,1 @@
+<!-- removed: misplaced duplicate stub (this Modus-48/Example-36 cipher passage was foreign material inserted among the Book III planetary tables; the same passage is fully and correctly translated in appendix chunks 0119-0120) -->

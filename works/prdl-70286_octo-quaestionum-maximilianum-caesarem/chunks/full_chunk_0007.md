@@ -1,0 +1,17 @@
+*To Maximilian Caesar.*
+
+[unclear] Empedocles gave a likeness, saying: God is a sphere whose center is everywhere, whose circumference is nowhere. Let the human intellect now raise itself as much as it can; and let him who strives to comprehend God comprehend, if he can rightly understand it, the center of this imagined sphere and, at the same time, its circumference ending nowhere. But if he is not equal to understanding this by the proposition of a proper likeness, why does he strive to investigate the essence of God, which exists above every position?
+
+Let it not weary you, most unconquered Caesar, to hear another likeness concerning God from Cusanus, a priest of the Roman Church, cardinal, my fellow Mosellan, a man most learned in those times, who says: God is a straight line of infinite length, which makes a circle. Let us therefore now consider. If the line is straight, how does it make a circle? Or, if it makes a circle, how is it straight? For a circle and a straight line are naturally opposed. Nevertheless, a line of infinite length, since it has neither beginning nor end, necessarily makes a circle, although it is proposed to be imagined not as curved but as straight.
+
+Since, therefore, God is infinite, greatest without quantity, best without quality, all things in all without circumscription, above all things without an excluding position, it was not possible that he should be comprehended by the circumscribable human intellect, which uses the ministry of the senses for understanding, and that what is promised to it when purified, at last in the homeland, should be granted to it while confused and impure on the way. But afterward, when our mind, at last released from the flesh, has escaped clean, simple, pure, perfect, and consummated to the highest center, which is God, having been made equal to the angels, we shall know God perfectly, and all things, just as also Saint Christophilus says to the Corinthians: We now see through a mirror and in an enigma; then face to face.
+
+For this reason we said that the angelic intellect adheres immovably to the beginning given to its nature, because it is pure act and habit, which, since by condition it is naturally simple, cannot be impeded by any commerce of composition. But the human intellect, which has now sufficiently been shown to be potentiality and privation, is impure because of its commerce with its body; yet it is not held back from act forever, but only until, at last released from the flesh, it shall have passed over into the fellowship of likeness with the angels, then for the first time to be admitted to the true knowledge of God.
+
+But if, meanwhile, the affection of love necessary for salvation is joined to present Christian faith and to future divine knowledge, the same everlasting blessedness prepared with the holy angels will be given to the worshippers of God. But if a depraved mind, through too much commerce with its flesh, has scorned the love of God, the intellect, once released from its prison, will indeed escape to the measure of sublime knowledge competent to it by nature, but it will be the more miserable in proportion as, by evil will, it is found to be more like the demons.
+
+Therefore, to conclude, as far as I have been able, the solution of the proposed question, I say that it is not possible for almighty God to be understood perfectly by us so long as we, mortal, are living in the flesh.
+
+*Eight Questions of Johannes Trithemius.*
+
+*On Fi-*

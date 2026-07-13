@@ -1,0 +1,23 @@
+*Johannes Trithemius*
+
+At last Lotharius died, in the fifty-first year of his reign, and in the year of the Lord's nativity 564, in the twelfth Roman indiction, leaving four sons: Heribertus, who, being the elder by birth, reigned at Paris after his father's death for a few years, leaving nothing else recorded, I do not say worthy, except that, given over to lust, he was the slave of shamefulness, and soon died without children.
+
+*Guntramus reigns at Orleans and in Alsace and Helvetia.*
+
+The second-born of Lotharius was Guntramus, who reigned at Orleans and in Burgundy for 33 years, and died in the year of the Lord 597, leaving two sons, Theodobertus and Theodoricus. His wife was called by the name Austrigildis, a most wicked woman, who, when she was sick unto death and saw that she could not recover, ordered two innocent physicians to be killed.
+
+Theobertus, the elder by birth, begot Sigebertus; Sigebertus begot Odobertus, Gunthramus, and Adelbertus, brothers. Theodertus, the younger, begot Lutfridus and Udalricus, counts, one of whom resided in Habsburg, the other in Hohenburg, the kingdom already having been divided into the four counties of the Helvetii, Alsatians, and Alemanni on this side of the Rhine. From this Lutfridus the genealogy of the counts of Habsburg is continued down to Rudolph, king of the Germans, and further to Maximilian, from Gunthranus of the Franks through 917 years, down to the twenty-eighth year of Maximilian's reign. But in the present place I have not been able to continue the straight line of his genealogy.
+
+Sigebertus, the third-born of Lotharius, reigned in Austrasia, that is, at Metz, Trier, Liege, Cologne, Mainz, over the Thuringians and Saxons, for fourteen years, whom Hilpericus [unclear]
+
+Odobertus begot Theodobertus, who after his father's death reigned 21 years and died in the year of the Lord 599. After him his son Theodoricus reigned 16 years; at the instigation of Brunihildis, his grandmother, he expelled Saint Columbanus from the kingdom in the year of Christ 614, and died shortly afterward, leaving three illegitimate sons, Sigebertus, Corbus, and Meroveus. Sigebertus, routed in battle by Lotharius, son of the following Hilpericus, appeared nowhere. Corbus was killed by the same Lotharius. Meroveus, whom he had lifted from the sacred font, he preserved alive; but Brunihildis, the murderess of ten kings, he killed.
+
+*Sigebertus reigns at Soissons after his father for 24 years.*
+
+Hilpericus the younger, son of Lotharius, from whom the line of the kings of the Franks descending in the right order is continued, succeeded his dead father and reigned among the Soissons for 24 years. He began to reign in the year of the Lord 561, two years before his father died. He had a wife named Andovera, whom, after she had by the deceit of Fredegundis been made his godmother, he cast off, and he took the deceiver Fredegundis herself in addition to the queen. By Andovera, his first wife, he had two sons, Clodoveus and Meroneus, both of whom perished through the deceit of their stepmother. Fredegundis, however, bore Lotharius, who succeeded his father in the kingdom.
+
+In the sixteenth year of his reign, which was the year of the Lord's nativity 578, King Hilpericus, after many persecutions, at last killed his brother Sigebertus; Meroneus, son of Hilpericus, took Sigebertus's wife Brunihildis as an ill-fated wife. Then, after Sigebertus had been wickedly slain, Theodebertus his son succeeded for 21 years.
+
+Lotharius, son of King Hilpericus by Fredegundis, reigned after his father for 44 years. He had several wives, and begot Dagobertus by Berchtrudis, who succeeded him in the kingdom, and Heribertus, who reigned at Toulouse in Aquitaine.
+
+A little before these times, while King Sigebertus, brother of Hilpericus, was still alive, namely in the year of the Lord 576, when the Saxons, at the request of the Winuli, who are now the Lombards, departing from the borders of Scandia, had entered Italy with them and, after some years had been spent there, saw that they were despised by the Lombards, they returned with their children and wives through Gaul to Saxony under the escort of King Sigebertus. But the Alemanni were inhabiting Saxony, which, when its inhabitants departed, they had immediately occupied. When the Saxons came, the Alemanni had been prepared to give them a third part of the region. But when they refused to accept it, in the fifth [year] of King Lotharius Gunthramus, king at Orleans and of part of Burgundy, died, leaving two sons, Theodobertus and Theodoricus, against whom Lotharius, at the instigation of Fredegundis his wife, made war. But

@@ -1,0 +1,472 @@
+[segment 1]
+
+
+[CC BY SA logo]
+
+
+Erläuterung
+
+Die Online verfügbaren digitalen Angebote der Wolfenbütteler Digitalen Bibliothek stehen allen Interessierten weltweit frei unter einer CC BY-SA Lizenz zur Nutzung zur Verfügung. Neben den in http://creativecommons.org/licenses/by-sa/3.0/de/legalcode ausgeführten allgemeinen Einschränkungen ist bei einer Nachnutzung Voraussetzung, dass a) der Urheber in der nachfolgend beschriebene Form genannt ist und dass b) das Angebot unter den gleichen Bedingungen, d.h. vor allem frei und unentgeltlich, erfolgt.
+ 
+a) Bei der Namensnennung (BY) ist Folgendes zu beachten (vgl. CC BY-SA, Abschnitt 4.a und 4.c). In Digitalisaten angebrachte Herkunftsnachweise – typischerweise die Fußleiste - dürfen als Nachweis nicht entfernt werden.1 Zugleich muss auf der Angebotsseite an geeigneter Stelle, in jedem Fall aber innerhalb der Domain des Angebotes ein Nachweis in der folgenden Form angebracht werden: Sofern ein eigener persistenter Link (PURL, URN, etc.) verwendet wird, muss der persistente Link der Wolfenbütteler Digitalien Bibliothek über, unter oder neben dem eigenen persistenten Link stehen.
+
+Im Druck:
+
+oder
+
+
+1 Beigefügte Maßstäbe unterliegen nicht dieser Beschränkung und dürfen entfernt werden.
+
+Im Internet (HTML Quelltext):
+
+oder
+
+Wenn sich auf der Seite eine zusätzliche Angabe zur Autorin oder Autor eines Beitrages findet,
+z.B. © [Autorname] ist folgende Form einzuhalten:
+Im Druck:
+
+Im Internet (HTML Quelltext):
+
+Bei der Bereitstellung unter gleichen Bedingungen ist zu beachten, dass das Werk frei,
+
+unentgeltlich und im Geiste der Förderung der Kultur und Wissenschaften zur Verfügung gestellt
+werden muss. Sofern dies gewährleistet ist, ist auch eine kommerzielle Nutzung, z.B. in der
+Wikipedia oder einem Open Access, unter CC BY-SA publizierenden wissenschaftlichen Verlag
+möglich. Nicht unter diese Lizenz fallen typische kommerzielle Produkte wie Verlagszeitschriften,
+die Nutzer kostenpflichtig erwerben müssen, zugangsbeschränkte Online-Angebote sowie
+Nutzungsarten, die ausschließlich auf Werbung oder andere nicht-wissenschaftliche Zwecke
+zielen. Für alle zuletzt genannten Fälle muss eine kostenpflichtige Sondernutzung vereinbart
+werden.
+
+[segment 2]
+Johannes tritemy abbatis
+spanhemensis Tetrastichon de sanctissima matre anna
+Virginis almisice mater venerabilis anna
+Excellens meritis . et pietate potens
+Memo tristis abit qui te colit et veneratur
+Fers cunctis placidam quippe salutis opem.
+Distichon eiusdem quod posuit ad ymaginem scťe anne.
+Quisquis in aduersis sanctam pulsauerit annam
+Deuotis precibus .is bene tutus erit
+Cunradi celtis protneij .poete laureati
+Tetrastichon de sanca anna.
+Nullius anna preces vncq̃ dimisit inanes
+Sed tulit optatam candida semper opem
+Ergo piam matrem multo cumulemus honore
+Nullius vacua que sinit esse preces
+Theodorici gresmundi iunioris maguntini
+Tetrastichon ad sanctam annam
+Virginis anna parens salueto fausta marie
+Ordiri nostre digna salutis opinis
+Que per te cepta est humana redemptio queso
+Continuesprecibus crimina nostra tegens
+Rodulphi langij Canonici monasteriensis
+Distichon desancta anna
+Magna parens audi fecunde virginis anna
+Pregnantes vtero que tibi vota ferunt
+Iodoci badij gandensis Tetrastichou de scťa anna
+Anna decus mundi . mater genitricis hiesu
+Pro nate meritis det tuus astra nepos
+Primitias nostre pariens sancta anna salutis
+Nos cum prole tua cumq̃ nepote iuva
+Rodulfꝰ agricola in suo de scťa anna carmīe inter alia sic.
+D I
+fehlt an Anfang! Ligstek, Mabelin Hotten Teylge
+Hin Nadastr 353
+B.74-24
+
+Johann Theutheinũs
+[De laudibus sanctissime matris Anne]
+Anna parens summe genitrix veneranda parentis
+Que pandis populis prima salutis iter
+Te cuncti fugiunt morbi palorqꝫ dolorqꝫ
+Noxia queqꝫ animo .corpe queqꝫ sedent
+Quicquid id est hominum quod curas cordaqꝫ lassat
+Te fugit vt ventos nubila pulsa solent
+Rugerus venrai Canonicus regularis
+haynensis ad ymagine̅e sancte anne
+Dic profunde preces deuote poplice flexo
+Anna parens vbi cum prole beata sedet
+Me dubita capies quicquid rogitaueris ipsam
+Namqꝫ potens precibus iugiter anna nitet
+Eiusdem distichon de sancta anna
+Anna parens hiesu christi genitricis aueto
+et nobis petimus omne repelle nephas
+Iodoci bcissellij patricii aquensis rosariuꝫ de sancta anna et id reuerendum patrem dn̄m Iohannē tritemiū abbatem spanhemē. sem ordinis diui patria benedicti.
+Quisquis hoc rosarium ad honorē beatiffime matris anne pio deuotione legere voluerit .p̄mittat orōnē dn̄icam cum lałutatiōe sancte Anne qua semp post duos versus repetat que quidē falntatio est vt sequitur.
+De dei genitricis mater venerabilis Anna: sancte trinitati gratifima.p̄ cunctis mulieribꝰ honorata. bn̄dicta tua dño.et bn̄dicta ꝓles vteri tui.plissqꝫ ẜgine natꝰ ibs xp̄s amen.
+Pater noster Aue dei.
+Anna tuas liceat misero mihi promere laudes
+Nam tibi si pateris ferta rosaqꝫ feram
+Ame
+etinna nites regum iude veneranda propago
+Atqꝫ etiam ioachim coniuige clara pio
+2mne
+etanna diu steriles fleuiti in coniuige amores
+Unica nuptaruni gloria.et vnus honor
+2mne.
+etanna pia sobolem nec vanos queris in vfus
+Sed colat vt sancta posteritate deum
+2mne.
+etinna tibi etherea celer astans nunceius aula
+Gaude ait en sobolem mater habebis ouans
+2mne.
+etinna feres sobolem tanta virtute beatam
+Vt cum virgineo mater honore micet
+2mne.
+(Liptzk [Cū 1506]: Melchior Lotter d. H.)
+unvollst, nur Bl. Dn̄-6 vorh.
+
+[segment 3]
+Anna seres gratam quem non capit orbis Aue Ipse libens subeat viscera casta deus Aue Anna tuo tandem surget de sanguine sanguis Qui fusus miseris spem ferat usque reis Aue Anna tuum decuit tanta expectatio partum Aue Haud facile est matrem matris haberi dei Aue Anne tue sobolis laudes super astra volabunt Aue Te q̄ nocque felicem secula cuncta ferent Aue Pater noster. Tūe dei. Aue Anna mali puram tu concepisse mariam Crederis. et sanctam mox habuisse deo Aue Anna alio gestas quam signauere figure Aue Venturam. sancti quam cecinere patres Aue Anna geris clausam paradifum. arborē vite Aue Felicem. et cuncto ruris honore sacram Aue Anna grauis gestas ortum quem flammens ensis Aue Custodit chernubii nocte dieque calens Aue Anna geris florem qui candida lilia vincat Aue Et violas humiles coccineamque rosam Aue Anna mosayca inte deprehenditur archa Aue Etherei panis aurea et vrna iacet Aue Anna geris sponsam veri salomonis. et omni Aue Gemma exornatam intus et extra domum Aue Anna geris templum cuius penetralia dulces Aue Impleuere sont. musica et omnis ouans Aue Anna geris velum pulchra sub ymagine. patrum Aue In se gesta tenens. quod tegat alta dei Aue Anna geris sobolem phebi aurea vestit Aue Flamma caput, niueos candida luna pedes Aue Pater noster Tūe dei. Aue. Anna exoptate compos iam facta marie Aue. Pectore vix toto gaudia aborta capis Aue. Anna recens nate plauserunt cuncta marie Aue Sidera. et insolitum fluxit ab axe iubar. Aue Anna tul fetus natalem credere fas est Aue Te circum angelicos concelebrasse choros Aue Anna tuum partum manes sensere profundi Aue Lux noua tunc stygios terruit ipsa lacus Aue Anna parens dubitas manibus contingere gnatam Aue Sole magis rutilā luminibusque poli Aue Anna quid etherea metuis tractare puellam Aue Arridet matri. tristia nulla facit Dij
+
+Anna capesse animos en lactea ad vbera tendit Aue.
+Gnata.mamus teneras et tua colla petit. Aue.
+Anna moras rumpis.mammas et pectora mudans Aue.
+Excipis in tenero membra tenella sinu Aue.
+Anna foues gnatam.dulcesqꝫ a pectore succos Aue.
+Dre trahit roseo murmura grata sonans Aue.
+Anna feret quantos si scires gnata dolores Aue.
+Quotqꝫ ferat mortes.tu modo nulla fores Aue.
+Pater noster.Ave dei.
+Anna tibi est cordi gnatā exornare probatis Aue.
+Moribus.et summo composuisse deo Aue.
+Anna paras celso gnatam importare delubro Aue.
+Sponte sed ad superum pertigit alma gradum Aue.
+Anna citam lento sequeris gressu atqꝫ labore Aue.
+Solatur fessam promptula virgo matrem Aue.
+Anna quid in tenera miraris virgine robur Aue.
+Non humana vides.sed pia signa dei Aue.
+Anna soles iopī et facris dare munera templis Aue
+Nunc das quo mulier plus nihil uilla dedit Aue.
+Anna vbi sacratam voluiti degere gnatam Aue.
+Claustra libens subiit virginemqꝫ domum Aue.
+Anna piam missura.genas et lumina fletu Aue.
+Conficts.immotam te tenet altus amor Aue.
+Anna domum repetas.gnatam dimitte tonanti Aue.
+Nil nisi venturum cogitet illa hiesum. Aue.
+Anna per ethereos volitet tua nata recessus Aue.
+Occupet hanc summo culmine missus amor Aue.
+Anna duas satis est tibi deseruire marias Aue.
+He quoqꝫ non modica te pietate colent Aue.
+Pater noster.Ave dei.
+Anna tuo fletu docta es succurrere flenti Aue
+Hinc miserum votis tu quoqꝫ prompta faues Aue
+Anna soles ratas nature vertere leges Aue.
+Sicqꝫ voles.sterilis sit modo leta parens Aue.
+Anna etiam fluxe fortune munera sistis. Aue.
+Ne fugiant nostros lapsa repente simus Aue.
+Anna fugas dedecus.das pulchre munera fame Aue.
+Tu luctus reueras.et tibi cedit amor Aue.
+Anna iuuas seu quem terret vis hostica.sen quem Aue.
+Carceres obscuri vincta sena tenent Aue.
+Anna leuamen ades sidum mortalibus egris Aue.
+Te duce languenti perdita vita redit Aue.
+
+[segment 4]
+Anna parens timido te inclamat nauita fluctu
+Si iactent laceram flatus et vnda ratem Aue.
+Anna parens nigro es semper metuenda tiranno Aue.
+Vt glacies ignem te fugit ille nocens Aue.
+Anna abs te nequeant mortalia pectora frustra Aue
+Poscere. quodqꝫ voles gnata deusqꝫ volet Aue
+Anna igitur meritis et tanta prole beata Aue
+Anna parens nostras respice magna preces Aue
+Dratio post rosarium dicenda
+Omnipotens ac piiissime deus. qui beatā annā ingenitri
+cis filij tui matrem eligere dignatus es. concede ꝓpicius
+vt qui memoriaꝫ eius fideli deuotione percolimus. eius merit̄
+et precibus eterne vite suffragia consequamur. Pere.
+Explicit rosariū Iodoci beissellij vtriusqꝫ iuris ꝓfessoris pa-
+tricij aquensis ad reuerendū prēꝫ dn̄m Iohānē tritemiū abbatē
+spanheimensem ordinis sancti benedicti. Ex aquisgrani tercio
+idus Aprilis Anno M.cccc.xciiiij.
+Ade wernheri themarensis Carmen de sanctissima
+anna Ad.r.p.dñm Johannē tritemium abbatem
+In laudes auie pangimus inclite
+Cordis plectra iesu chare nepos moue
+Nec tu nata canenti
+Desis casta parens choro.
+Regū ꝓgenies anna viro durat
+In fecunda diu se sterilem gemit
+Polem flendo precatur
+Nec frustra lachrime fluunt
+Promittunt sobolem nuncia celica
+Pregnans iuncta viro. deinde pnierpa
+Nata prole probatur
+Per quam nostra venit salus
+Iesse sic viruit stirps venerabilis
+Exit virga ferax germine fertili
+Cuius flore refecti
+Vita morte revivimus
+Hoc partu ioachim sistere delubris
+Fit dignus. remouens pontificis probra
+Sic nos anna nepoti
+Puros ferre preces para D iij
+
+Commendes puero quem pia castitas
+Mate parturiit.nos prece poscimus
+O matrona beata.
+Cristus nil tibi denegat.
+Cristo qui socius.cum patre flamini
+Regnat gloria sit secula per omnia
+Quem dant conciliatum
+Nobis o anna tue preces Amen
+Canitur aut iste hymnus sub nota illius qui in natiuitate sctē marie a multis frequentat̉ ec clesijs .et incipit Gaude visceribꝰ mater in intimis etcͣ. Ex castro heydelbergensi.iij.kalendas.Febrarij.M.cccc.xciij.
+Iohannis herbsluterburgensis.Carmen seu hymnus de sctō anna Ad r.p.dñm iohāne tritemium abbatem.
+Gaude que miseris anna refugium.
+Oramus.canimus.carmina promimus In festo pia sis germine cum tuo Landes nunc tibi dicimus Gaude terra nitens gramine fertilis Et de pluta madens roꝛe defico Virgo criminis inscia.
+Gaude que fueras semine regio Iam concepta viro dedita duxeras Celebs coniugium prole carens diu Voto facta puerpera Gaude que ioachim leta tibi obuium Es confusa.deum fletibus invocas Exaudita virum suscipis obuium Porta dicta sub aurea Conceptatur in aluulo Gaude simplicitas angelico sagax Que laudata choro.et secta trifarie Templo diuidis et pauperibus bona Et partem famulis tuis Gaude plebs celebrat festa fidelium Ut patrona sibi.et cum patre spiritum
+
+Et cristum genitum tuqꝫ rogatibus
+Reddas anna propicium. amen.
+Dymnus iste melodiā illius recipit qͥ de ascensione dn̄i canit̉
+scꝫ Festum nunc celebre etcͣ. Et illius de martiribus Sanctorum
+meritꝭ inclita. etcͣ. Ex heydelberga t̓cio nonas februarias Anno
+M.cc cc.xciij.
+Rutgeri venraÿ Canonici regularis in heyna. Wor
+macensis dyocꝭ Carmen elegiacū de sancta anna.
+Splendoris patrij candoris lucis intacte
+Virginee matris splendida mater aue
+Tu diuam domino genuisti sancta puellam
+Ex qua lux mundi prodijt alma hiesus
+Tu nate gemitum constanter fare nepotem
+Quamuis ipse polos fecerit atqꝫ solum
+Carne nepos tuus ipse hiesus. summam dei tatem
+Coniunxit carni. nam deus est et homo
+Ergo licet semper fuerit hiesus attamen optat
+Dignaturqꝫ nepos dicier esse tuus
+Talem ne dubites precibus pulsare nepotem
+Auna rogamus que cuncta rogata feres
+Ad primas faciles si non inflexerit aures
+Ad gnatam cicius anna recurre tuam
+Vbera demonstret nato tua filia christo.
+Protinus optatum deferet alma parens
+Si multum fuerit oratu difficilis res
+Cum genitrice sua filia poscat opem
+Firma fides mea nec dubito quin protinus ambas
+Orantes dn̄s audiet aure pia
+Quarē continuus fratres oratibus anne
+Marieqꝫ simul poscere oportet opem
+Constat si matrem domini geniticris honores
+Qꝛ titulas matris virgins ipse colas
+Rursus si matrem dominj venerare. liquenscit
+Qꝛ domino laudes in genutrice pares
+Sit nategnato laus virtus et decus anne
+Et summo patri spirituicꝫ sacro. Amen.
+Carmen saphicum Iohaunis tritemij abbatis
+spanhemensis in die sancte anne
+Festa sacrate celebremus anne.
+
+[segment 5]
+Matris excelse meritis opime
+Que dei patris geniti parentem.
+Edidit orbis
+Cuius a nobis veneranda semper
+Vita laudatur merito beata
+Dote signor miseris Icuamen
+Mentibus angens
+Lãguidos sanat mala cũcta purgat
+Corda mestoꝝ iubilo serenat
+Apta ꝯponit regit et gubernat
+Aspera planat
+Prepotẽs sumi residens in aula
+Regis absterget maculas p̃cata
+Graciam confert animas fideles
+Ducit in astra.
+Hic frequētantes tua festa fratres
+Vota promentes bona te precantes
+Adunua ferua refoue guberna
+Inclita mater
+Sit decus virtus supero tonanti
+Qui dens simplex pariterq trinus
+Glorie magne tribuit coronam
+Iugiter anne Amen.
+Mymnus iste saphicus canit sub melodia Vt queāt laxis etcͣ
+Vita sctõꝝ Virginis ꝓles. Quod choros vatum Iste ꝯfessor. et
+similium qui saphici sunt tantum. Ex spanhem. Monis Iulijs
+Anno dn̄i M.cccc.xciij.
+Johannis třitemij abbatis spanhemensis
+Carmen elegiacum de sancta matre anna.
+Premia quanta suis referat cultoꝛibus anna
+Nemo capit mente nec valet ore loqui
+Aspera propellit veniam imperrat auget honoꝛis
+Ornamenta suis. et facit esse polo
+Contra multa nimis comitantur acerba parentis
+Anne spretores prospice praue tibi
+Proterit elatos depont honoꝛe potentes
+Et finit vt magna scaandala sepē ferant
+Hoc patet et fixum manet. anna colentibus offert
+Leta. sed infensis tristia plura refert
+
+Ergo viri moneo tante seruite patrone
+Feminensqꝫ chorus affit amore simul
+Constat et exemplis liquido quod scribimus. aures
+Concipiant patule quod pia corda iuuat.
+Ex spanhem.xvi. kalẽdas augusti.M.cccc.xciij
+Carmen saphicũ rutgeri siccambri.
+pro hymno in laudem sancte anne
+Pangimus laudes veneranda tuas
+Anna.laudantum modulis faueto
+Impetrans cunctis veniam.falutis
+Prem̃ donans
+Tu parens christi genitricis anna
+Etheris summa renitens in arce
+Obtines quicquid genitum precario
+Cunctipotentis
+Languidos sanas.maculosa tergis
+Compotes voti famulos fideles
+Efficis.tandem tribuis supernum
+Scandere regnum
+Moribus summum dominium probatio
+Anna flexisti precibusqꝫ multis
+Vt daret tante fieri parentem
+Prolis in orbe
+Sit patri summo.genito superno
+Pneumati sacro decus et potestas
+Claritas virtus pietas vigorqꝫ
+Omne per euum
+Eiusdem aliud
+Virginis matris genitricis anne
+Sedulas laudes resonemus omnes
+Viribus totis.animi medullis
+Voce sonora
+Illa prufudit generi misello
+Labe sordenti genitricis eue
+Nobilem prolem radians iubar que
+Edidit orbj
+Lumen hoc mundi tenebras nigrantis
+Expulit.cunctos radians superna
+Luce.ceu sanctus resonat iohannes
+Codice sacro
+Anna diuine genitrix puelle
+
+Cuius appellas gemitum nepotem
+Carne dumtaxat. populum precantem
+Spernere noli.
+Virgo pro nobis rogitantis anne
+Matris intente precibus faueto
+Tu nepos hiesu facilis precatum
+Eius adimple
+Filio nate genetricis anne
+Cum deo summa decus et potestas
+Pneumatı compar sit honor beato
+Tempus in omne
+Carmen eiusdem aliud iambicum dimetrum
+quod canitur sub melodia hymnoꝝ ambrosij.
+Anne colamus cernui
+Festum beate. debitas.
+Grates canentes vocibus
+Et intimis precordijs
+Hec mater alme virginis
+Que protulit mundi iubar
+Hec que deo virtutibus
+Se reddidit gratissimam
+Moras repellit grãm
+Confert suis precatibus
+Morbos leuat deterrimos
+Tam corporis quam spiritus
+Huicꝫ in laudes rex poli
+Tibi sonoris cantibus
+Natoque simul flamini.
+Depromimus laudes pias. amen.
+Carmen alcinanicum eiusdem quod cam̃ sub
+melodia Crux fidelis. vel Pange lingua.
+Hec caterna voce votis
+Et pijs precordijs
+Festa gliscit anna mater
+Tam preclara promere
+Mitis adsis deprecamur
+Temet collaudantibus
+Tu parens matris marie
+Tuideo gratissima
+
+[segment 6]
+Legis oꝛsa conseruasti
+Quam moyses patribus
+Quondam contulit vetustio
+Hebreisqꝫ plebibus
+Dona mira graciosa
+Impetrans fidelibus
+Oeprecatu complacente
+Altı patris filio
+Egros sanas et pudica
+Prestas esse pectora.
+Te ꝑater rogamus atqꝫ
+Filium cum flamine
+Vt des gaudiosa nobis
+Laudes concinentibus
+Inclitas pre dulcis anne
+Matris alme ꝟginis. Amē
+Carmen Rutgeri venrai germani canonici regula
+ris beynensis in librum de laudibus sancte anne
+Quisquis eris lector prestantis codicis huius
+Pone metum vanum . friuola nulla tenet
+Hunc miro grauidum sensu .dulcemqꝫ lepore
+Abbas tritemius edidit arte sua
+Libris inugilans. custos spanhemensis oulis
+Qui triplicis lingua scripta sacrata colit
+M̄c titulos anne plenos rationis et arte
+Imuenies. tantum pectore volue pio
+Non sequitur vanas passim dubiasqꝫ fabellas
+Eloquij sacri clara fluenta docet
+Ergo precor laudes dignas venerabilis anne
+Quas tibi vir doctus prompsit amando lege
+Dhannes tritemius abbas spanhemēsis:lectorı sa
+lutem. Cuꝫ nuper ad amicoꝝ inistantiā scribere ali
+quid de laudibus sanCTissime matris anne statuisse̓
+patres quidam de ordine fratrum beate marie sꝑ
+virginis de monte carmeli rogabant. ne defensionem purissime
+ꝯceptionis mariane obmitterem. Itaqꝫ precibꝰ eoꝝ et alioquiͥ
+iusta ratione persuasus. septimū huiꝰ oꝑis caput.de conceptione
+
+dei parẽtis et v̾gluis p̃notaui.qd̄ ne quisquã aliter qͣꝫ mea habet
+intentio suscipiat.lectorem putaui admonendũ.Noui em̅ nec
+me fugit ꝗͣ multi sanctissimi atqƺ doctissimi viri oliz dei genitrice.
+subiacuisse originali macule scripserũt.qui longe ante basiliense
+conciliũ.claruerũt.Moꝵ ego sententiã tꝑi cõcedẽs penitꝰ intac¬
+taꝫ pertrãseo.nihilqƺ oĩno ꝯtra eos dicẽ vel scribẽ intẽdo.Eni¬
+uero siq̇ d a me durius dictũ cernit̃.nõ inopinãtes aliter ꝙͣ nos.
+sed inꝑtinaces dũtaxat referat̃.ꝙͥ sine erudițiōe garriētes alteriꝰ
+opinionis assertores appellare hereticos nõ verent̃.Et hoc v̾ba
+mea influuãt.q̄ pñs tꝑs et nõ p̃teritũ notãt.Quod enĩ dico quid
+stolidi latrãt.qd̄ imperiti murmurãt.pñtis tꝑis est.nõ preteriti
+et hodie ꝑtinaces arguit nõ antiquꝰ aliter opinãtes.Interro¬
+gans vero qͦs eruditꝰ vnqͣꝫ ꝯtrariũ scripserit.nõ de antiquis pa¬
+tribus in sero.sed de his qͥ post determīationẽ p̃fati concilij aliter
+opinant̃ intendo.Itaqƺ solã ꝑtinaciã quoꝛundã imperitoꝵ huicꝰ
+tipis.nõ opinionẽ cruditoꝵ quoꝛuncũqƺ aliter sententiã arguo.
+quippe qui sixti quarti pōtificis maximi declaratione nõ ignorò
+Mihi aūt visũ est a sancta romana eccl̾ia nullatenus abhorrere
+puriffime conceptionis fidez.quā illa credit et venerat̃.qd̄ hodie
+inl̾tis documētis on̄dit̃ Deniqƺ cũ doctoribꝰ gymnasioꝵ.pariß
+coloniensis.heydelbergensis.erfordensis.wineß.liptʒeĩs.tho¬
+wingensis.engolstatensis.basiliensis.magũtinensis.aliorumqƺ
+multorum et omnibus pene ordinibus christiqƺ fideliuꝰ per vni¬
+uersum orbeṁ cristianum diffusis.dęptionem dei genitricis et
+virginis marie purã venerari nõ timeo ꝑtinaciã tñ nõ admitto
+sed romanae eccl̾iae obedire in oībus vt matre reuerendissime om¬
+nium eccl̾iarꝵ volo.Hec prefati capitlis mei pura et syncera in¬
+tentio est.in quo nulli sobrie et sine pertinacia opinanti derogatũ
+existimo.Lector vale.
+Hec epł'a p̃fati dn̅i Iohannis abbatis ex incuria et negligẽtia
+quibusdam exemplaribus deest.quā ipse tamen apponi onibus
+mandauit.et pro aꝓposita singulis haberidecreuit.
+
+Kodak
+0 1 2 3 4
+NDS
+
+P. 280
+1) Biele Gabrot
+nachk 27-69)
+El. 230
+Kodak
+NDS
+
+Kodak
+NDS
+
+Kodak
+0 1 2 3 4
+NOS

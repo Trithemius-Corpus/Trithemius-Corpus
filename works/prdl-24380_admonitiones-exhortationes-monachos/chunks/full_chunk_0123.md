@@ -1,0 +1,3 @@
+that we may gain the kingdom, which can only then be done if, for the love of God, we bear this poverty manfully and with a tranquil mind. The disordered conduct of our predecessors brought upon this monastery the want that we suffer; the mercy of almighty God, if we keep his commandments with a perfect heart, will in time without doubt relieve it. For almost two hundred years past, as we can gather both by conjecture and from the writings of those before us, the purity of monastic observance in this monastery of Spanheim, as in almost all others, failed, and the disorderly life of the monks utterly squandered all temporal substance. For indeed, when in the year of the Christians 1469 [unclear].
+
+Frederick, duke of Bavaria, reformed the monastery of Spanheim.

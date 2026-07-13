@@ -1,0 +1,21 @@
+and, with the holy apostle, the mind, languid with love, says in its fiery sighs: “I desire to be dissolved and to be with Christ.”
+
+*That this region of the soul is by divine instruction.*
+*Article IV.*
+
+Third, this supreme region of the soul is said to be by divine instruction: in it the mind, glowing with divine love, is taught not by man but by the Holy Spirit. For Christ said to his lovers in the holy Gospel: “When that Spirit of truth shall come, he will teach you all truth.” And again that saying of the prophet: “And they shall all,” he says, “be taught by God.” For the Holy Spirit inhabits the heart of one who loves Jesus, and illuminates it by his invisible teaching.
+
+In this region the Spirit, true wisdom, Mary’s best part, is read in the tranquillity of silence; mystical theology is taught in the secret of the divine darkness with ineffable sweetness; the mind, disposed toward its beloved through the fervor of most holy love, speaks in secret, and is constantly raised up toward him by desire. This wisdom, or mystical theology, can indeed be commended by man, but it cannot be taught except by divine instruction. For the work of the Holy Spirit is being done when the mind is enlightened in truth through contemplation.
+
+But we must consider that mystical theology is acquired through the exercise of purified affection; it is taught through the burning of love. Speculative theology, however, which we call scholastic, is learned through the exercise of the intellect, while the mind, growing warm with continual study, is put under discipline. For the acquisition of mystical theology, the purification of affection from every entangling thing is required, so that the will, depraved by aversion, may be reformed by the conversion of inward love to its own principle. For indeed, unless affection has been purified from every disordered concupiscence, it does not ascend to the height of this most sacred wisdom. But if it has cast off sensual passions, if the will of man has been conformed to the divine will, the mind is lifted upward through fiery love, and is raised by anagogical movements into the immensity of the divine darkness.
+
+No one understands the sweetness of this theology except the one who receives it, except the one who seeks it alone, before all things, through the sighs of love. The psalmist was seeking this when he prayed to the Lord: “Would that my ways be directed to keeping your justifications at all times.”
+
+For with such movements of desire the holy man was borne upward to the service of the divine will that, in the same one hundred eighteenth psalm, he said scarcely any verse in which he did not set down a divine word equivalent to “judgment.” The exercise of this purification is begun in the second region and is consummated in this one. For no small labor is required for affection to be purified from the concupiscences of the world. But once the exercise of spiritual reformation has been undertaken, the mind gradually advances in love; it desires to ascend to this region by fixed steps; it hastens by desire to the invisible school of this theology; sighing with continual groans, it knocks at the door of divine compassion. But the mind is not admitted into the secret of this mystical wisdom unless, after every kind of purification of affection, it is stripped of every creature, and unites itself to itself, and withdraws far from every reasoning or imagination of thinkable things. For unless it has withdrawn from every creature, it does not approach the creator, who is above all things.
+
+In this school, therefore, it is believed that the Holy Spirit presides by divine instruction over those who learn; he teaches man to love nothing in this world, and to conform himself in all things to God’s will. Happy is he who has deserved to be a disciple of this master; happy is he who has entered this school through the desire of love, since in mystical silence he perceives wondrous things that God has hidden from those who do not love.
+
+*That this supreme region of the spirit is founded on simplicity.*
+*Article IV.*
+
+Fourth, this most holy region of the spirit is said to be founded on simplicity, in which the mind not through essence

@@ -1,0 +1,49 @@
+{
+  "id": "prdl-24360_compendium-breviarium-primi-voluminis-annalium-historiarum-origine-regum",
+  "title": "Compendium sive Breviarium primi voluminis Annalium sive Historiarum de origine regum et gentis Francorum",
+  "year": "1515",
+  "source_year": "1515",
+  "year_note": null,
+  "edition_info": "[Mainz], 1515 (BSB)",
+  "edition_info_raw": "( [Mainz] , 1515 ) BSB",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 123,
+  "genre_cluster": "monastic-reform",
+  "tier": "S",
+  "faithful_adj": 4.62,
+  "fluent_adj": 4.62,
+  "coverage_pct": 100.0,
+  "chunks_graded": 110,
+  "chunks_total": 110,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "minimax",
+    "minimax-v2",
+    "opus-sweep",
+    "public"
+  ],
+  "source": {
+    "provider": "BSB",
+    "url": "http://daten.digitale-sammlungen.de/bsb00001934/image_1",
+    "download_url": "http://download.digitale-sammlungen.de/BOOKS/pdf_download.pl?id=bsb00001934",
+    "prdl_id": "24360"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 109,
+    "n_missing_segments": 0,
+    "latin_source_file": "full.txt",
+    "latin_fallback_sources": {
+      "_churro_fold_backup\\full_qwen.txt": 1,
+      "churro_full.txt": 1
+    },
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24360_compendium-breviarium-primi-voluminis-annalium-historiarum-origine-regum_parallel.html"
+  }
+}

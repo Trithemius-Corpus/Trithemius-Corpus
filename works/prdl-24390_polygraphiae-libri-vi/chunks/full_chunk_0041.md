@@ -1,0 +1,21 @@
+a I pray to avert; b miseries; c disturbances; d calamities; e adversities; f tribulations; g persecutions; h perturbations; i infestations; k annoyances; l desolations; m vexations; n hardships, which; o I ask, or late; q collisions; p troubles; r acts of treachery; s destructions; t insolences; u depopulations; v tramplings; y oppositions; z afflictions; 2v mockeries.
+
+a holy; b venerable; c worthy of remembrance; d most blessed; e most holy; f fruitful; g worthy of honor; h honorable; i venerable; k undefiled; l unstained; m uncontaminated; n untouched mother; o uncorrupted; p happy; q immaculate; r catholic; s universal; t gracious; x chaste; y sweet; z living.
+
+a of the faithful; b of believers; c of the humble; d of the orthodox; e of Christians; f of worshipers of Christ; g of the redeemed; h of those restored; i of the elect; k of the just; l of the innocent; m church of the apostles; n church of the martyrs; o of confessors; p of those confessing; q of the predestined; r of the good; s of the saved; t of virgins; u of the blessed; x [unclear]; y of the contrite; z of mortals; 20 of the living; ij.
+
+a suffers; b has suffered; c endures; d endured; e experiences; f has experienced; g undergoes; h has undergone; i tolerated; k tolerates; l bears; m carries through; n bore; o takes up; p took up; q receives; r accepts; s accepted; v awaits; x waits for; y waited for; z had; 2v has.
+
+a from deceitful; b reprobate; c perverse; d wicked; e cruel; f most cruel; g most perverse; h most deceitful; i most reprobate; k most criminal; l villainous; m worst and; n shameful but; o bestial; p most shameful; q criminal; r most wicked; s most savage; t polluted; v hardest; x most vain; y filthiest; z most faithless; 2v faithless.
+
+a impious; b unjust; c unclean; d unbelieving; e most impious; f most unjust; g most unclean; h most unbelieving; i most unhappy; k most filthy; l most absurd; m most abject; n most wretched; o most ignorant; p most envious; q most foolish; r most stupid; s most slothful; t most unlearned; u most inactive; x most avaricious; y most covetous; z fierce; 20 most fierce.
+
+a Turks; b pagans; c Saracens; d heathens; e nations; f gentiles; g Bulgarians; h Mohammedans; i Mohammedans; k Pelagians; l heretics; m Greeks; n Tartars; o tyrants; p Armenians; q Ruthenians; r Bulgarians; s schismatics; t idolaters; v persecutors; x plunderers; y Parthians; z robbers; 21 [unclear]. N.B. four.
+
+a daily; b continually; c continuously; d gravely; e exceedingly; f enormously; g most gravely; h most cruelly; i horribly; k miserably; l most wretchedly; m cruelly; n hostilely; o most savagely; p wickedly; q incessantly; r frequently; s most wickedly; t most unjustly; v most frequently; x most insolently; y most furiously; z enviously; [unclear] assiduously.
+
+a they disturb; b they perturb; c they trouble; d they devastate; e they attack; f they assault; g they storm; h they invade; i oppressed; k cast down; l they harass; m they infest; n they afflict; o they overturn; p they subvert; q they despoil; r they tear apart; s they cast down; t they annihilate; v they trample; x they plunder; y they persecute; z they shake; [unclear] they exterminate.
+
+a They hold; b Africa; c Greece; d Thrace; e Bulgaria; f Carmania; g Armenia; h Cappadocia; i Mauretania; k Ethiopia; l Gaetulia; m Libya; n Egypt; o Arabia; p Antioch; q Alexandria; r Palestine; s Assyria; t Judaea; v Syria; x India; y Tartary; z Barbaria; 2v Hellenistia; M four.
+
+a Epirus; b Persia; c Persia; d Albania; e Dardania; f Magrabia; g Negroponte; h Taprobana; i Calicut; k Scoyra; l Parthia; m Samaria; n Numidia; o Mesopotamia; p Babylon; q Hydruntum; r Media; s Aetolia; t Chalolea; u Damascus; x Arcadia; z Aeolia; A Alania; B Galatia; C Bithynia; D Macedonia; E Amazonia; F Melindia; G Gargisa; H Coritum; I Repsiana; K Agizimba; L Marchosa; M Logonia; N Perodia; O Camaroela; P Tacharnia; Q Dalagum; R Musameli; S Hesperia; T Malachat; U Turamida; X Pharasata; Y Zyphia; Z Tyrrhenia; aa Amathia; ab Alypia; ac Acaria; ad Adriania; ae Aerium; af Fabrum; bg Balcania; bh Balcania; bi Balcania; bo Balcania; bp Balcania; bq Balcania; br Balcania; bs Balcania; bt Balcania; bu Balcania; bv Balcania; bw Balcania; bx Balcania; by Balcania; bz Balcania.

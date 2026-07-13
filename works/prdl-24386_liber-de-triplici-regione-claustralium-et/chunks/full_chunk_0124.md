@@ -1,0 +1,24 @@
+See God; do not do your own will; let another rule you.
+Bear hard things; hide nothing in your heart; but seek even the lowest things.
+Be a peripsema; do not wander alone; restrain your tongue.
+Let laughter be sparing, speech grave, gestures humble.
+
+Note: Peripsema must be read and written so, not peripsime, as the ignorant read in the Epistle to the Romans; and it is called the filings and cleansing of all things.
+
+*Let the monk’s conduct toward secular persons be modest.*
+
+*The fourth conduct of the monk toward secular persons must be modest.*
+
+It must be modest, so that neither his familiarity with them is excessive, nor his separation indiscreet. Hence Hugh says: With regard to people, so far as it lies in you, beware of everything that can be for them a bad example, as it befits a faithful servant of God to advance in all things the honor of his Lord and to avoid his dishonor. Do not be familiar with any woman, even a holy one. For if they are discreet, you will please them more by this; but if they are troublesome, they are all the more to be avoided. Do not be suspicious. Be attentive to the sick in humble services. Be very truthful in words. Let your words be as an oath, and you will edify others. Love poverty. Be chaste in all things, and everywhere God-fearing.
+
+But in establishing all virtues and good morals, set before yourself that most brilliant and most perfect example of all brightness, the life and conduct of our Lord Jesus Christ, who was sent from heaven for this purpose, that he might go before us in the way of virtues and instruct us by his example, as by himself. Therefore the more the monk has taken care to conform himself to him in the way of virtues by imitation, the more, without doubt, he will be like and near to him in the glory of eternal happiness. Whatever you do, always look to him, and consider how he conducted himself in all things according to the Gospel and according to your judgment. For since he is best, he conducted himself best in all things. Say therefore to yourself: If my Lord Jesus were present, what do you think he would do about this, or what would he now say? Certainly he would act and speak in the best way; him I must imitate in all things to the best of my strength.
+
+*General conclusion of all spiritual exercises.*
+
+*Consideration twelve.*
+
+Wishing at last to say something, we say that the completion of all spiritual exercises consists in two things. First, in the knowledge and feeling of one’s own imperfection, so that the monk may always be conscious of his weakness and remain rooted in humility. Second, in the desire and effort to come to a higher conduct, so that he may always desire to advance in spirit toward better things, and may by no means withdraw from this effort. Every cenobite must at every moment direct his mind toward this effort of advancing; if he ever leaves it off, he incurs transgression of his vow and a very grave danger to his soul. But let the monk take care that consideration of his own weakness does not cast aside the effort of advancing; let him take care that the effort itself does not despise consideration of imperfection; but let these two so cling mutually to one another that they never withdraw from one another. But if excessive consideration of his own imperfection should try to cast down the mind, let him recall to memory what the holy Abbot Bernard said: “Let us breathe again, brothers,” he says, “because even if we are nothing in our own hearts, perhaps something concerning us may lie hidden in the heart of God.” These two considerations, of our weakness and of divine estimation, stir up great devotion in us, as the psalmist said: “I am poor and sorrowful”: behold the first; “your salvation, O God, has taken me up”: behold the second.
+
+Finally, it is necessary for one who wishes to occupy himself profitably in these spiritual exercises to have a joyful and free heart, and one removed from every anxiety or care of the world. For the Holy Spirit is a spirit of freedom and joy; he loves a heart free and joyful in God, and, so to speak, applauds one like himself. But just as a bird bound on the earth cannot lift itself up to heaven by flying, so a mind occupied with perishable things cannot raise itself to heavenly things. Nor is it fitting to cast down the spirit by too much frequency; otherwise the brain too is confused, and through dry custom one labors in vain. Therefore let the cenobite fervent in spirit learn always to persist in these things with moderation, and continually to refer by intention the cause of every exercise to God, who is the beginning and end of all goodness. Let him faithfully direct his effort toward fear and love of him, and fix his mind in deep humility, because he is not easily abandoned by God who is rooted in love.
+
+*Here is the end of the spiritual exercises concerning the threefold region of cloistered persons.*

@@ -1,0 +1,23 @@
+--- Page 039 ---
+
+And again the Lord says concerning the prelates of the faithful: “Whoever despises you despises me.” What will you say to these things, rebellious monks? Will you cite laws to me, which you corrupt from the truth? But I dare to say what I wish you would be ashamed to hear. In the strict examination of God, rebellious monk, presumption about law will not save you, you who now proudly despise the obedience of subjection. The law commands obedience; it requires humble subjection in the order.
+
+The eleventh degree of pride, which is freedom to sin, consequently befalls the rebellious monk, who despises not only fraternal corrections but also the corrections and exhortations of prelates. For when rebellion against the teacher is taken up, boldness in sinning is generated, because the man who despises the authority of correction now commits every crime as if lawfully. The love of God willingly restrains good cenobites from sins, and fear restrains the weak. But where neither love of God nor fear of correction penetrates a monk, then through rebellion and the habit of sinning his mind draws near to hell. For Scripture says: “When the impious man has come into the depth of evils, he despises.” What does he despise? He despises God; he scorns men; in despair he does not know how to seek the salvation of his soul.
+
+Therefore he falls into the twelfth degree of pride, who through boldness in sinning runs into an evil habit. This is the first descent to hell; this is the path of hell; this is the swift road to the region overshadowed by the darkness of death. Whoever has once fallen into this degree of the habit of sinning rises again only by the mighty hand of God’s mercy, because when one does not resist habit, it generates the necessity of sinning. For wickedness always advances toward the worse, and, always falling, it falls more deeply.
+
+Behold, these are the twelve degrees of pride by which one descends to hell. Whoever wishes to escape them should always strive to keep himself in the observance of humility. In these twelve evils every unworthiness of vicious cenobites is clouded over; it makes the disordered monk disordered toward himself; in his morals it changes a man into a most savage beast. The end of these things is destruction, and unless the remedy of repentance intervenes before the death of the flesh, progress through the evil degrees damns the monk to punishments without end.
+
+--- Page 040 ---
+
+But whoever, being disordered toward himself, has once fallen into the first degree of pride, unless he strives to rise again as quickly as possible through repentance, soon hurls himself into the second and, consequently, into all of them in order. The whole disorder of carnal monks toward themselves is expressed in these degrees of exaltation, through which they are shown to be disordered citizens of the lowest region. But what we have said about disordered and proud monks we must also understand of the prelates of the lowest region.
+
+In what way the monks, carnal citizens of the lowest region, are disordered toward the property of the monastery.
+
+Article Six.
+
+Whoever, while established in a monastery, neglects to order his inner affections to the purity of holy conduct often also exceeds enormously in outward matters. Monks disordered toward God are consequently proved to be disordered toward their offices. For just as the good cenobite, united through love to the divine will, considers all things according to the right order of reason with a simple eye, so the man turned away from God through disordered affections sins even in the good things that he uses badly. Therefore carnal monks, inhabitants of the lowest region, are not only badly disordered in regard to their souls, but also in regard to the temporal substance of the monastery. For outward disturbance of the body follows the inward confusion of the mind, and one is shown by the other.
+
+And first, the citizens of the lowest region are badly ordered toward the property of the monastery when they demand that it be granted to them in an order that is not right, or when they in any way usurp more than the use of regular institution permits. For the Rule, which commands that all necessary things be given to monks, entirely forbids superfluous things.
+
+Second, those who do not fear to give and receive against the prohibition of the master make bad use of the monastery’s property, as do those who faithlessly commit deceit and fraud in what has been entrusted to them. For a monk who, according to his own whim and without reasonable cause, against the Rule and in any way without permission, squanders the property of the monastery, in

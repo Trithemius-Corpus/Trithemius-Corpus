@@ -1,0 +1,48 @@
+{
+  "id": "prdl-70286_octo-quaestionum-maximilianum-caesarem",
+  "title": "Liber Octo Quaestionum ad Maximilianum Caesarem",
+  "year": "1601",
+  "source_year": "1601",
+  "year_note": null,
+  "edition_info": "Moguntiae : Albinus, 1601 (HAB)",
+  "edition_info_raw": "( Moguntiae : Albinus, 1601 ) HAB",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 106,
+  "genre_cluster": "crypto-occult",
+  "tier": "S",
+  "faithful_adj": 4.71,
+  "fluent_adj": 4.71,
+  "coverage_pct": 100.0,
+  "chunks_graded": 48,
+  "chunks_total": 48,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "codex-sweep",
+    "minimax",
+    "minimax-v2",
+    "public"
+  ],
+  "source": {
+    "provider": "HAB",
+    "url": "http://diglib.hab.de/drucke/yg-51-8f-helmst/start.htm",
+    "download_url": "http://diglib.hab.de/download.php?dir=drucke/yg-51-8f-helmst&submit=start%20download&begin=drucke_yg-51-8f-helmst_00001&end=drucke_yg-51-8f-helmst_00104",
+    "prdl_id": "70286"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 48,
+    "n_missing_segments": 1,
+    "latin_source_file": "full.txt",
+    "latin_fallback_sources": {
+      "churro_full.txt": 1
+    },
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-70286_octo-quaestionum-maximilianum-caesarem_parallel.html"
+  }
+}

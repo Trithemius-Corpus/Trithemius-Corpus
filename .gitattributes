@@ -1,0 +1,21 @@
+# Normalise line endings in the repo; check out LF everywhere.
+* text=auto eol=lf
+
+*.py   text eol=lf
+*.md   text eol=lf
+*.txt  text eol=lf
+*.json text eol=lf
+*.cff  text eol=lf
+*.yml  text eol=lf
+*.css  text eol=lf
+*.j2   text eol=lf
+*.html text eol=lf
+*.jsonl text eol=lf
+
+# Binary / never-diff
+*.pdf  binary
+*.gguf binary
+*.png  binary
+*.jpg  binary
+*.webp binary
+*.woff2 binary

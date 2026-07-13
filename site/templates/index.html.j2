@@ -1,0 +1,117 @@
+{% extends "base.html.j2" %}
+{% block title %}Trithemius Corpus &mdash; the Latin works of Johannes Trithemius in English{% endblock %}
+{% block body %}
+
+<section class="hero-edition">
+  <div class="hero-text">
+    <svg class="hero-seal-emblem" viewBox="0 0 110 110" width="92" height="92" aria-hidden="true" role="presentation">
+      <circle class="ring" cx="55" cy="55" r="52" stroke-width="0.8"/>
+      <circle class="ring" cx="55" cy="55" r="44" stroke-width="1.4"/>
+      <circle class="ring-faint" cx="55" cy="55" r="30" stroke-width="0.8" stroke-dasharray="2 3"/>
+      <g font-size="9" text-anchor="middle" class="glyph-ring">
+        <text x="55"   y="20.5">&#9737;</text>
+        <text x="84.7" y="34.3">&#9792;</text>
+        <text x="92.1" y="66.4">&#9791;</text>
+        <text x="71.5" y="92.2">&#9794;</text>
+        <text x="38.5" y="92.2">&#9795;</text>
+        <text x="17.9" y="66.4">&#9793;</text>
+        <text x="25.3" y="34.3">&#9790;</text>
+      </g>
+      <circle class="spark" cx="55" cy="55" r="2.6"/>
+      <circle class="ring" cx="55" cy="55" r="6.5" stroke-width="0.8"/>
+    </svg>
+    <p class="eyebrow">An English edition</p>
+    <h2 class="hero-title">Trithemius Corpus</h2>
+    <p class="hero-lede">
+      <strong>Johannes Trithemius</strong> (1462&ndash;1516) &mdash;
+      Benedictine abbot, bibliographer, and the first author of a printed book on
+      cryptography &mdash; has sat in early-modern print for five centuries with no
+      English edition. This project gives a readable English of
+      <strong>{{ stats.texts }} of his works</strong>, across {{ stats.editions }} printed
+      editions, {{ stats.first_english }} of them in English for the first time &mdash;
+      each set beside its Latin source, with the cipher tables shown against the
+      original page scans.
+    </p>
+    <p class="hero-byline muted">
+      Assembled by <a href="https://github.com/agentcarlosian">Ian Carlos Fabin</a>, with every
+      translation machine-made, independently audited against the Latin, and free
+      to use under CC&nbsp;BY.
+    </p>
+    <div class="hero-actions">
+      <a class="button primary" href="{{ url('works.html') }}">Browse the works</a>
+      <a class="button secondary" href="{{ url('ciphers.html') }}">The ciphers</a>
+    </div>
+    <form class="hero-search" action="{{ url('search.html') }}" method="get">
+      <input type="text" name="q" placeholder="Search the corpus&hellip;" aria-label="Search">
+      <button type="submit">&#128269;</button>
+    </form>
+  </div>
+  <figure class="hero-figure">
+    <a href="{{ url('works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam_style-c-cipher-key.html') }}"
+       title="Read the Steganographia's cipher tables beside their facsimiles">
+      <img src="{{ asset('images/hero-steganographia-wheel.webp') }}" width="1106" height="960"
+           alt="Ad sciendum spirituum loca: a circular diagram placing the principal spirits of the Steganographia by celestial quarter — Oriens, Subsolanus and the rest — around the winds and directions">
+    </a>
+    <figcaption>
+      &ldquo;Ad sciendum spirituum loca&rdquo; &mdash; the circle of principal
+      spirits by celestial quarter, from the <em>Steganographia</em>, Book&nbsp;I
+      (Darmstadt, 1621). Biblioth&egrave;que nationale de France.
+      <a href="{{ url('works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam_style-c-cipher-key.html') }}">Read its cipher tables&nbsp;&rarr;</a>
+    </figcaption>
+  </figure>
+</section>
+
+<div id="continue-reading" class="continue-wrap" hidden></div>
+
+<figure class="portrait-band">
+  <img src="{{ asset('images/trithemius-portrait.webp') }}"
+       alt="Portrait of Johannes Trithemius (1462&ndash;1516), Benedictine abbot of Sponheim">
+</figure>
+
+<section class="quick-reads">
+  <h3>Start here: first in English</h3>
+  <ul class="featured-list">
+    {% for f in featured %}
+    <li class="featured-item">
+      {% if f.cover %}<div class="featured-thumb-cover">{{ f.cover|safe }}</div>{% endif %}
+      <div class="featured-content">
+        <p class="featured-head">
+          <a href="{{ url('works/' + f.work.id + '.html') }}"><em>{{ f.work.title }}</em></a>
+          <span class="muted">&mdash; {{ f.work.title_en }}{% if f.work.year %}, {{ f.work.year }}{% endif %}</span>
+          {% if f.work.first_english %}<span class="badge first-en">first English</span>{% endif %}
+        </p>
+        <p class="featured-pitch">{{ f.pitch }}</p>
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<p class="fleuron" aria-hidden="true">&#10086;</p>
+
+<section class="genre-overview">
+  <h3>The corpus by genre</h3>
+  <ul class="genre-cards">
+    {% for s in sections %}
+    <li>
+      <a class="genre-card-link" href="{{ url('genres/' + s.slug + '.html') }}"><strong>{{ s.label }}</strong></a>
+      <span class="muted genre-count">{{ s.n_texts }} {{ 'text' if s.n_texts == 1 else 'texts' }}</span>
+      <p class="muted genre-blurb">{{ s.description }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+
+<section class="honesty-note">
+  <p class="muted">
+    Every translation here is machine-produced and was independently audited,
+    chunk by chunk, against the Latin &mdash; the per-edition grades are on the
+    <a href="{{ url('scoreboard.html') }}">quality page</a> and the method is documented in the
+    <a href="{{ url('methodology.html') }}">methodology</a>. The grades triage, they do not certify:
+    for any passage you intend to quote, <a href="{{ url('methodology.html') }}#12-what-this-corpus-is-good-for-and-what-it-is-not">check the Latin</a>.
+  </p>
+</section>
+
+<script src="{{ asset('reader.js') }}"></script>
+
+{% endblock %}

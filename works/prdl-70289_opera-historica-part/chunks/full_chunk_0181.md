@@ -1,0 +1,23 @@
+*Of Johannes Trithemius*
+
+... named Mechtild he gave to Margrave Theobald the Younger; after his death, he gave her to the count of Sulzbach. The fourth, named Jutta, Frederick duke of Swabia took as wife; she bore Frederick, the first emperor.
+
+Welf, duke of Bavaria, son of Duke Welf and brother of the aforesaid Henry, a most warlike man, left the duchy of Bavaria to his brother, sought Italy, and took as wife Mechtild, daughter of the duke of Milan; both died without children. This Duke Welf is said to have done many marvelous things, and he devastated Swabia with fire, sword, and slaughter.
+
+Sigebert, count of Bavaria, brother of the aforesaid Henry and Welf, had as wife Oda, daughter of Gebhard, count of Supplinburg and lord in Arnsberg. This count, remaining in the province of Bavaria, yielded the duchy to his brother.
+
+Henry, duke of Bavaria, surnamed the Proud, son of the above-mentioned Duke Henry, a strong and very daring man, had as wife Gertrude, daughter of Lothar the second emperor. She bore him Henry, the most noble duke of the Saxons, who, on account of his strength and the magnificent deeds he accomplished, was called the Lion, and powerfully extended his dominion from the Rhine as far as the river called the Elbe.
+
+To this Henry, duke of Bavaria, Emperor Lothar, together with his daughter, conferred the duchy of Saxony; from him all the dukes of Brunswick and Luneburg thereafter, down to those who exist today, descended by lineal succession, as we shall easily show.
+
+For Henry, duke of Bavaria and Saxony, Lothar's son-in-law, begot by Gertrude his wife Henry surnamed the Lion, concerning whom the common people report marvelous things: that he fought with griffins, carried off a lion, and, from danger at sea, was carried by a griffin sewn into a horse-hide; and many other things, which I neither reject nor affirm. This Henry begot by Mechtild, sister of Richard king of England, a son named William, who succeeded his father in the duchy; also Otto, afterward king of the Romans; Henry, count palatine of the Rhine; and two daughters, Mechtild and Rita. William begot Otto by Helena, daughter of the king of Denmark. Otto begot Albert and John, which two divided between themselves the paternal inheritance, namely the duchy of Brunswick and Luneburg, provision having been made for the brothers elsewhere.
+
+In the year of the Lord 1238, Emperor Frederick II, being at Mainz, transferred the name and duchy of Saxony from the aforesaid Otto to Albert, son of Henry count of Anhalt, whom he made duke of Saxony and electoral prince of the empire. And thus Otto, son of Duke William, remained duke of Brunswick and Luneburg. These same dukes, moreover, are continued in succession from the line of Henry the Bavarian down to those who live today, inclusively; [unclear] of the Rhine, and two daughters, Mechtild and Rixa. William begot Otto by Helena, daughter of the king of Denmark. Otto begot Albert and John, which two divided between themselves the paternal inheritance, namely the duchy of Brunswick and Luneburg, provision having been made for the brothers elsewhere. For it is enough that it be established with the greatest certainty that all the dukes of Brunswick, from the time of Lothar II down to these men, descended from the Bavarians.
+
+*The Transfer of the Duchy of Bavaria to the Margrave of Austria*
+
+After Emperor Lothar died, in the year of the Lord 1138, since Henry duke of Bavaria, surnamed the Proud, his son-in-law, a most powerful man, seemed to be seeking the empire, the princes, fearing his power, assembled at Koblenz and elected Conrad, duke of Swabia, as king of the Romans. When Henry, duke of Bavaria, together with the Saxons, opposed him as one not duly elected, Conrad summoned an assembly of princes for the day of Pentecost at Bamberg, and for that day cited Duke Henry himself. In this matter, when all had assembled together with the empress, Lothar's widow, and had been received into Conrad's favor, he alone did not appear. At last, on the day of the apostles Peter and Paul, at Regensburg, he resigned all these things into the hands of King Conrad; but he did not obtain his favor.
+
+In those days Pope Innocent II was unwilling either to crown King Conrad or to permit him entry into Italy, because of the kingdom of Sicily, which each said belonged to his own authority, and which had already been given in fief by the pope himself to a certain Roger; Conrad was preparing to recover it.
+
+And so the pope hired Henry duke of Bavaria and Welf his brother, for a price, to prevent King Conrad's entry into Italy with a powerful hand. Roger also, the invader...

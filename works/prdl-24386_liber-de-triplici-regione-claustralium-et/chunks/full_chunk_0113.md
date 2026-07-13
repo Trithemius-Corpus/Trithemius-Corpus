@@ -1,0 +1,15 @@
+to examine the negligences committed during the day, so that the purpose of holiness, which we know to be quite weak and infirm, we may renew to fervor of spirit through the continual exercise of recollection. Therefore our devout cenobite, wishing fruitfully and by useful continuance to recollect himself, ought chiefly to examine himself in five things in order.
+
+*The first thing to be observed in recollection: examination.*
+
+*The rendering of account*
+
+The first is the rendering of account, by which the cenobite is ordered to bring back before the eyes of his mind, for correction, whatever he remembers himself to have committed during the day by sinning negligently or badly or less well. Therefore, turned toward the Lord, with hands clasped, let him lie before his bed and speak in this or a similar manner.
+
+I give thanks to you, almighty and merciful God, for all your benefits, which you have deigned to show to me, an unworthy sinner and one deserving nothing at all, from my youth up to this hour; for although I have deserved no good thing, I have received many and innumerable gifts of your goodness. Would that I could worthily give thanks to you, the highest and unchangeable good; would that in your holy service I could praise you with a pure heart and clean conscience. But, alas, with weakness, concupiscence, and evil habit prevailing, I, who ought to have clung to your most holy love with pure heart and conscience, have offended you again and again by many negligences and faults; and as often as, according to the inward inspirations of your goodness, I have tried to rise to fervor of spirit, alas, I grieve that, raising myself up, I have fallen again.
+
+Behold, good Jesus, into how many faults, how many guilty states I have fallen today alone; how many vain, how many useless, how many destructive thoughts I have admitted in so few hours; how many useless and harmful words I have uttered; how many negligences and sins I have perpetrated in my actions this day.
+
+Woe to me, miserable man, who could not persevere even for one very short day in your most holy service without impurity of heart and negligence; who today have committed so many faults and various imperfections. I confess to your goodness, O most gentle God, all my sins into which I have fallen from my earliest age. At your feet, O most sweet Jesus, I place all the negligences that I have committed today; I ask pardon, which I am not worthy to receive; I seek grace, which I confess that I have so often received in vain. O most beloved mediator of God and men, Jesus Christ, do not despise the miserable sinner whom you willed to purchase with your own blood. I confess to you all the negligences into which I have in any way fallen today, and the faults that I have committed.
+
+Thus let the cenobite, prostrate in mind before the Lord, call the more serious negligences back to memory, and, humbly seeking pardon, bewail his imperfection. But especially let him consider if he has offended anyone by word or deed; if he has said anything against a brother; if he has committed anything against charity and reverence; or

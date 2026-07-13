@@ -1,0 +1,21 @@
+--- Page 057 ---
+
+For one must close off the affection of earthly curiosity and the understanding of carnal wisdom, as though by not knowing them, if we desire always to raise the gaze of the mind toward its appointed end. And just as the eagle is said to look upon the sun with eyes unstruck by its glare, so the monk, the servant of God, contemplates without interruption the end of monastic institution.
+
+As a prudent traveler, going on with delight, considers the lodging toward which he is heading, so the good cenobite, in everything he does, always pants with fervent desire chiefly toward his own end, which is God. But a foolish traveler is one who, set upon the road, forgets the lodging toward which he is heading, and, wandering, knowingly becomes entangled in the various hindrances of others. And the monk who does not carefully consider the end of his own destination is surely wandering blind upon the road.
+
+Therefore the good monk, and a lover of his own salvation, does not neglect the striving for his own good in spiritual exercises, but, always exercising himself in holy works with affection toward higher things, raises it up to God. Good striving is this: to omit nothing of the things God has commanded; for love of God, to obey the pastor humbly in all things; always to lift up an affection drawn away from earthly things to the memory of heavenly things; and, through continual exercise of spiritual conduct, daily to renew his holy purpose. Whatever good the devoted cenobite does, let him always offer it to almighty God with faithful attention; let him despise all earthly things with a strong spirit; let him desire to please God alone.
+
+Let the intention of the cenobitic life always be faithful, so that it wishes to desire nothing other than the praise and honor of God. Let its attention be diligent, so that it knows how to summon all the senses of the body and the affections of the soul to the service of God, in order that it may serve its Lord faithfully and seek his glory, not its own.
+
+On the Due Restriction of the Sensual Powers. Article II.
+
+--- Page 058 ---
+
+For I think there is no one among monks who is unaware how useful and necessary it is for us to restrain the powers of sensual passions. Indeed, whoever desires to attain the due end of the regular life, which we have described in this region, must subdue his inordinate natural habits and motions with prudent constancy, because no one is truly able to resign himself to another's command if he does not strongly restrain the powers of sensual passions.
+
+For one who desires to make progress must, with constant spirit, abandon the motions and prudence of the flesh, and show himself a son of divine grace, not of flesh and blood. For Scripture says: If you live according to the rule of the flesh, you will die. Indeed, those who sow in the flesh will also reap corruption from the flesh. But flesh and blood will not possess the kingdom of God. But what does the Savior say to us? “A man's enemies,” he says, “are those of his own household.” And who are these household members, unless the sensual powers that oppose the spirit?
+
+For concupiscibility and irascibility, our enemies, stir up every evil within us against the spirit, and continually disturb the house of conscience with various passions. For as long as these sensual powers carry out their natural motions and courses in a person, they do not permit him to ascend to the freedom of the spirit. Concupiscibility delights in the pleasures of the sense of the flesh; and, on the contrary, the irascible power detests the body's sufferings. Therefore, as long as this war of the flesh is waged in a person, the monk is considered restless, carnal, and a dweller in the lowest region. Whoever, then, desires to come to eternal life must strongly restrain these inordinate powers of the senses in all things.
+
+Therefore the faithful cenobite strives to direct the concupiscible power toward sufferings that are acceptable to God, and to reform all his affections according to God's good pleasure. If he has done this, he will pray confidently to the Lord: My soul has longed to desire your justifications at all times. And that other saying:

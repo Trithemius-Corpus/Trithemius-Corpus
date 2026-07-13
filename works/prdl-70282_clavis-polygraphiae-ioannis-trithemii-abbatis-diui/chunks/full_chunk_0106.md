@@ -1,0 +1,23 @@
+and plain, lest the mind of the sacred Majesty, which is daily stretched by many affairs and cares, be drawn away from the understanding of it by the obscurity of mysteries. For, unless my opinion deceives me, the work will be the more welcome and useful to his Majesty the briefer and clearer it is. First, therefore, by the Lord’s bounty, we shall briefly explain the meaning of our purpose, which is contained in the prologue wrapped in various riddles; then, through the individual books of the Polygraphy, we shall set forth succinctly, to the powers of our talent, the modes of working, the rules, cautions, and individual differences, in order, as far as remains necessary.
+
+All these things, so that they may the more quickly become accessible to those who desire to know them, we shall show in sequence by examples, and we shall be as brief as the subject and reason permit.
+
+*Key to the Explanation of the Polygraphy of Johannes Trithemius, Abbot of [Peapolis?].*
+
+*Exposition on the Prologue.*
+
+Our whole intention in the entire work of the Polygraphy turns upon this purpose: that we should hand down certain methods of writing secretly, by which kings and princes, nobles and commoners, priests and laymen, learned and unlearned alike, may secretly, safely, and without any suspicion of a hidden secret, by the service of letters, announce to one another and to any friends, even those at a great distance from one another, whatever conception of their minds may be needed, and as often as needed. And lest we seem to have attempted this either first or alone, we forewarn the reader that many of the ancients long ago, especially tyrants, princes, and kings, moved by similar consideration, devised for themselves familiar and various methods and rules of writing, by which they themselves attempted in particular what we have promised universally in our Polygraphy. From their number, for the sake of an example of the proposed matter, we first introduced Caesar Augustus, whose hidden mode of writing take as plainly thus.
+
+He changed the breathings of the conceived voice from clear signs into obscure ones; by a certain fine invention of metathesis, by [unclear], he makes their barbarousness, though resisting the vows, conform to his command. That is: the great Caesar Augustus, so that he might write secretly and safely what he wished, changed the letters of the alphabet by varied transposition, so that he put b for a, c for b, and so consequently with each one. And so that the writing, being more twisted, might remain more secret, he transposed the letters at his pleasure sideways and lengthwise to whatever distance of order, number, and place.
+
+*Mystery.* And that deceptive order, as though perpetual, subject to the will and to the reckoning of time, although it keeps messengers safe on the road from the assault of [unclear], nevertheless, since it has no regulated limits, makes all who meet them anxious with suspicion of a hidden matter.
+
+*Explanation.* Although no one can easily comprehend with the understanding the hidden mystery lying beneath the transposition of the letters, nevertheless this writing makes those into whose hands it comes suspicious about the hiding-place of the matter enclosed within.
+
+*Mystery.* That Archimedes of Syracuse, easily the foremost of mathematicians, made a white bird, suitable to his instructions, naked by head and feet, and the rest.
+
+*Explanation.* Archimedes had two little rods of one length and thickness planed, round or square, of which he kept one for himself and entrusted the other to his absent friend. And whenever either wished to write something rather secret to the other, he wrapped a white bird, that is, a sheet of papyrus, of small width but of the length of the doubled rod, around the wood, and tied it below and above with wax. Afterwards he wrote on the sheet, continuously from the sides joined artfully together into a mass, whatever he wished; then he loosened the sheet from the rod, and immediately there appeared such a distance between the letters that not even one word cohered with another. He turned the sheet, and when he wished he wrote to himself on the other side. Nor was there anyone ignorant of this device who could have investigated [unclear]. But the man who had the other rod, when he had received the sheet, fastened it on and recalled the letters into their former order.
+
+*Mystery.* Marcus Tullius Cicero, eloquent orator of the Romans, using talent and art, changed the little elements of phrase into signs, and the rest.
+
+*Explanation.* He wrote a book of signs for his son, which the blessed martyr Cyprian afterwards enlarged for the use of Christians, namely in the manner of a dictionary

@@ -1,0 +1,5 @@
+[unclear]
+
+A may come; B may come together; C may arrive; D may proceed; E may be united; F may be gathered together; G may be magnified; H is multiplied; I may be sanctified; K may be enlarged; L may be gathered; M may prosper; N may be increased; O may be extended; P may be pacified; Q may prevail; R may grow strong; S may be exalted; T may be increased; U may be made firm; X may be strengthened; Y may grow; Z may come. A kingdom; B empire; C dominion; D institution; E teaching; F good pleasure; G promise; H established thing; I promise; K utterance; L counsel; M your word; N your doctrine; O sheepfold; P work; R pleasing thing; S reward; T amulet; V remedy; X help; Y dwelling; Z testimony; 2v sanctifying thing.
+
+A may it be done; B institution; C constitution; D precept; E disposition; F ordination; G consultation; H providence; I predestination; K compassion; L mercy; M pity; N thought; O willing; P mind; Q command; R law; S justice; T veneration; X consolation; Y justification; Z sanctification; 2v illumination. C. iii.

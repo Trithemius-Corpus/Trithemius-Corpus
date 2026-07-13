@@ -1,0 +1,21 @@
+--- Page 125 ---
+
+In this most holy freedom divine wisdom is learned; the sweetness of divine goodness is tasted beforehand with inestimable delight; the mind, made most free, is caught up above itself; resting in the silence of the divine darkness, it is lulled to sleep.
+
+And this mystical wisdom is said to consist in the mind lifted up and purified in God, which is hindered by no obstacle of any thing from its effective progress. Ascending in this region, the mind kindled by love utterly abandons thoughts and images; it becomes alone, naked, and most free, because thoughts, on account of the office of memory, are compelled to remain in the middle region, and they can in no way approach the highest region of the spirit, which is above all human understanding. For one ascends here by love through affection and desire alone; let the phantasms of thoughts be driven far away from here. For as soon as the mind begins to ascend by thoughts, it is repulsed and falls into the middle region.
+
+Nevertheless, the ascent itself is begun through the operation of the intellect; when this soon fails, it is completed through affection. For the intellect stirs up desire toward love of the highest good; as far as it can, it commends his beauty. But when affection, once stirred, has begun to ascend through love to contemplation of so great a beauty, the intellect, failing from wonder, falls silent. But the mind, not enduring the company of the intellect, alone and naked, and most free from every image of thought, enters the dark mountain shining above; it contemplates the beloved, not indeed face to face, but in an enigma; it fails by reason of the greatness of love; caught up, it rests in silence.
+
+It is read that once Moses, leader of the people of Israel, called by God, ascended the dark mountain alone; it is recorded that he kept the people from access to the mountain under threat of death. The Lord appeared in the darkness and gave the law to the people through Moses himself. For thus it is written in Exodus: The whole of Mount Sinai smoked, because the Lord had descended upon it in fire; and smoke rose from it as from a furnace. And the whole mountain was terrible, and the sound of the trumpet gradually grew greater,
+
+--- Page 126 ---
+
+and was drawn out longer. And all the people saw the lamps and the smoking mountain; terrified and shaken with fear, they stood far off, saying to Moses: Speak to us yourself and we will hear; let not the Lord speak to us, lest perhaps we die.
+
+All these things are full of mysteries; if they are examined with diligent consideration, they will magnificently commend this highest region of the spirit. For Mount Sinai signifies the height of this region; the smoking darkness represents the object of contemplation; Moses expresses affection burning in love; the people indicate the crowd of thoughts and phantasms. Moses alone, the leader of the people, is permitted to ascend the mountain and enter the darkness, because affection, inflamed with divine love, alone is lifted up to the summit of highest contemplation. But the people are forbidden under threat of death to approach the mountain, because no intellect, no thought, no imagination or reasoning will in any way be able to penetrate the secret of the divine majesty.
+
+The crowd stands far from the mountain, terrified with fear, because while the mind alone enters the abyss of contemplation through the affection of love, the whole crowd of thoughts, utterly failing, is thrown into confusion. The intellect does not dare to approach nearer as affection ascends, but, standing far off, shaken with fear in itself, is compelled to remain. Hence, yielding to majesty, astonished, it says to the Lord with the prophet: Truly you are a hidden God. But when Moses is on the summit of the mountain, he is enveloped in darkness; he does not grasp God by the light of the intellect, but passes into contemplation of him only through love and desire. Moses, and not the Lord, speaks to the fearful people, because purified affection enters the dwelling-place of love, and through it the powers of the spirit are illumined.
+
+*By What Modes or Degrees One Must Ascend to This Highest Summit of This Region, Article Nine*
+
+Although in very many preceding places of this little work the mode of ascending to this highest region

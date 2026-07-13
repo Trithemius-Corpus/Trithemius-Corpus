@@ -1,0 +1,4371 @@
+[segment 1]
+Nutzungsbedingungen für Online-Angebote der Herzog August Bibliothek Wolfenbüttel
+
+Die Online-Angebote der Wolfenbütteler Digitalen Bibliothek der Herzog August Bibliothek (http://digbib.hab.de) sind urheberrechtlich geschützt und unterliegen Nutzungsrechten. Soweit nicht anders vermerkt, stehen sie unter einer Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen 3.0 Deutschland Lizenz (CC BY-SA).
+
+[CC BY SA logo]
+
+Unter diese fallen online frei verfügbare Imagedigitalisate, Strukturdaten, Volltexte, Daten aus Datenbanken (in der über OAI abfragbaren Form), Ton- und Videodokumente sowie aktuelle Publikationen. Bitte beachten Sie, dass für über die Webseiten der Herzog August Bibliothek angebotene Dokumente Dritter andere Rechte gelten können.
+
+Erläuterung
+
+Die Online verfügbaren digitalen Angebote der Wolfenbütteler Digitalen Bibliothek stehen allen Interessierten weltweit frei unter einer CC BY-SA Lizenz zur Nutzung zur Verfügung. Neben den in http://creativecommons.org/licenses/by-sa/3.0/de/legalcode ausgeführten allgemeinen Einschränkungen ist bei einer Nachnutzung Voraussetzung, dass a) der Urheber in der nachfolgend beschriebene Form genannt ist und dass b) das Angebot unter den gleichen Bedingungen, d.h. vor allem frei und unentgeltlich, erfolgt.
+
+a) Bei der Namensnennung (BY) ist Folgendes zu beachten (vgl. CC BY-SA, Abschnitt 4.a und 4.c). In Digitalisaten angebrachte Herkunftsnachweise – typischerweise die Fußleiste - dürfen als Nachweis nicht entfernt werden.<sup>1</sup> Zugleich muss auf der Angebotsseite an geeigneter Stelle, in jedem Fall aber innerhalb der Domain des Angebotes ein Nachweis in der folgenden Form angebracht werden: Sofern ein eigener persistenter Link (PURL, URN, etc.) verwendet wird, muss der persistente Link der Wolfenbütteler Digitalien Bibliothek über, unter oder neben dem eigenen persistenten Link stehen.
+Im Druck:
+
+[CC BY SA logo]
+astron/start.htm>
+
+oder
+[CC BY SA logo]
+http://diglib.hab.de/inkunabeln/14-astron/start.htm
+
+<sup>1</sup> Beigefügte Maßstäbe unterliegen nicht dieser Beschränkung und dürfen entfernt werden.
+
+<sup>2</sup>Zum Zitieren Wolfenbütteler Digitalisate s.: http://diglib.hab.de/?link=033
+
+Im Internet (HTML Quelltext):
+
+oder
+
+Z.B. Herzog August Bibliothek Wolfenh et amp;x00FC;tteil et amp;lt;a href="http://diglib.hab.de/inkunabeln/14-astron/start.htm"&gt;14 Astron.&lt;/a et gt;
+Wenn sich auf der Seite eine zusätzliche Angabe zur Autorin oder Autor eines Beitrages findet,
+z.B. © [Autorname] ist folgende Form einzuhalten:
+Im Druck:
+
+Im Internet (HTML Quelltext):
+Z.B © Flemming Schock. Work originally published by HAB Wolfenh et amp;amp;#x00FC;tte<Illegible reason="blot" extent="ca. 2 chars"/>&lt;a href="http://diglib.hab.de/edoc/ed000155/start.htm "&gt; http://diglib.hab.de/ed000155/<Illegible reason="faded" extent="start."/>htm</a><Illegible reason="faded" extent="ca. 3 chars"/></p>
+
+b) Bei der Bereitstellung unter gleichen Bedingungen ist zu beachten, dass das Werk frei,
+unentgeltlich und im Geiste der Förderung der Kultur und Wissenschaften zur Verfügung gestellt
+werden muss. Sofern dies gewährleistet ist, ist auch eine kommerzielle Nutzung, z.B. in der
+Wikipedia oder einem Open Access, unter CC BY-SA publizierenden wissenschaftlichen Verlag
+möglich. Nicht unter diese Lizenz fallen typische kommerzielle Produkte wie Verlagszeitschriften,
+die Nutzer kostenpflichtig erwerben müssen, zugangsbeschränkte Online-Angebote sowie
+Nutzungsarten, die ausschließlich auf Werbung oder andere nicht-wissenschaftliche Zwecke
+zielen. Für alle zuletzt genannten Fälle muss eine kostenpflichtige Sondernutzung vereinbart
+werden.
+
+[segment 2]
+Yg 51
+0 1 2 3 4 Gray Scale
+
+[illegible][Tithemius] I TRABBA libe 1234567 OPVS In Offi 0 1 2 3 4 Gray Scale Herzog August Bibliothek Wolfenbüttel © HAB http://diglib.hab.de/drucke/yg-51-8f-helmst/start.htm?image=00004 DFG
+
+IOANNIS
+TRITENHEMII
+ABBATIS SPANHEMENSIS
+liber octo quaestionum, quas illi dis-
+foluendas proposuit Maximiliana Caesar.
+1. De fide et intellectu.
+2. De fide necessaria ad salutem.
+3. De miraculis infidelium.
+4. De scriptura sacra.
+5. De reprobis atq. maleficiis.
+6. De potestate maleficiarum.
+7. De permifsione divina.
+8. De prouidentia Dei.
+OPVSVCVLVM PER QVAM VTIΛ AC
+iucundum, nunque primam typis exefcum.
+BIBLIOTHECA
+ACADEMIAE
+IVLIAE
+CAROLINAE
+HELMSTADT
+MOGVNTIAE
+In Offici-
+na Typographica Ioannis Al-
+bini. Anno 1601.
+
+[segment 3]
+P I M V R O
+L
+hi duodecim
+Castello
+tui brevem
+libelli et
+meministi
+soluiones
+eos, quae
+Quod mihi
+videbatur
+AI
+SIM
+TISS
+dominum
+annus P
+DFG
+Graind'Or
+4 3 2 1 Grey Scale
+0
+1
+2
+3
+4
+5
+6
+7
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
+97
+98
+99
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+111
+112
+113
+114
+115
+116
+117
+118
+119
+120
+121
+122
+123
+124
+125
+126
+127
+128
+129
+130
+131
+132
+133
+134
+135
+136
+137
+138
+139
+140
+141
+142
+143
+144
+145
+146
+147
+148
+149
+150
+151
+152
+153
+154
+155
+156
+157
+158
+159
+160
+161
+162
+163
+164
+165
+166
+167
+168
+169
+170
+171
+172
+173
+174
+175
+176
+177
+178
+179
+180
+181
+182
+183
+184
+185
+186
+187
+188
+189
+190
+191
+192
+193
+194
+195
+196
+197
+198
+199
+200
+201
+202
+203
+204
+205
+206
+207
+208
+209
+210
+211
+212
+213
+214
+215
+216
+217
+218
+219
+220
+221
+222
+223
+224
+225
+226
+227
+228
+229
+230
+231
+232
+233
+234
+235
+236
+237
+238
+239
+240
+241
+242
+243
+244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
+255
+256
+257
+258
+259
+260
+261
+262
+263
+264
+265
+266
+267
+268
+269
+270
+271
+272
+273
+274
+275
+276
+277
+278
+279
+280
+281
+282
+283
+284
+285
+286
+287
+288
+289
+290
+291
+292
+293
+294
+295
+296
+297
+298
+299
+300
+301
+302
+303
+304
+305
+306
+307
+308
+309
+310
+311
+312
+313
+314
+315
+316
+317
+318
+319
+320
+321
+322
+323
+324
+325
+326
+327
+328
+329
+330
+331
+332
+333
+334
+335
+336
+337
+338
+339
+340
+341
+342
+343
+344
+345
+346
+347
+348
+349
+350
+351
+352
+353
+354
+355
+356
+357
+358
+359
+360
+361
+362
+363
+364
+365
+366
+367
+368
+369
+370
+371
+372
+373
+374
+375
+376
+377
+378
+379
+380
+381
+382
+383
+384
+385
+386
+387
+388
+389
+390
+391
+392
+393
+394
+395
+396
+397
+398
+399
+400
+401
+402
+403
+404
+405
+406
+407
+408
+409
+410
+411
+412
+413
+414
+415
+416
+417
+418
+419
+420
+421
+422
+423
+424
+425
+426
+427
+428
+429
+430
+431
+432
+433
+434
+435
+436
+437
+438
+439
+440
+441
+442
+443
+444
+445
+446
+447
+448
+449
+450
+451
+452
+453
+454
+455
+456
+457
+458
+459
+460
+461
+462
+463
+464
+465
+466
+467
+468
+469
+470
+471
+472
+473
+474
+475
+476
+477
+478
+479
+480
+481
+482
+483
+484
+485
+486
+487
+488
+489
+490
+491
+492
+493
+494
+495
+496
+497
+498
+499
+500
+
+AD SERENIS-
+SIMVM INVICTISSIMQVE ORBIS
+dominum Maximilianum Caesarem, Io-
+annis Trittenhemij Abbatis Pea-
+politani in librum octo quae-
+ftionum
+PRAEFATIO.
+PArui mandatis tuis Maximi-
+liane Caesar invictißime, &amp;
+eas quaestiones octo,quas mi-
+hi dudum ad Celsitudinem tuam vocato in
+Castello Bopardiano proposuisti, qua po-
+tui breuitate absoluens , in hanc formam
+libelli consignaui. Voluisti autem ( si recte
+memini) vt quantum fieri potuit, in earum
+solutione viam sequerer naturae, propter
+eos, qui credulitati minus concedunt.
+Quod mihi tamen non omnibus possibile
+videbatur, pro eo quod materia quae-
+stionum
+
+stionum in plerisque locis theologicis potius
+quàm naturalibus subiacebat principijs.
+Nam et amp; si Christiana religio inter omni-
+um mortalium sectas naturae legibus vici-
+nior, &amp; magis conformis habeatur et amp; pro-
+xima:articuli tamẽ fidei nostrae principales
+non omnes secundum viam naturae com-
+munem sunt probabiles. Quod ideo factum
+necessario credimus, vt et amp; fides locum ha¬
+beat, &amp; firma credulitas merito suo
+non careret. Medium itaque pro viribus
+iter disputationis de mandato ingressus,
+partim naturae, partim quoque diuina-
+rum sum vsus testimonio scripturarum.
+Enimuero quae nos credere conuenit, hu¬
+manis non sunt argumentationibus temere
+discutienda: quoniam vt sacer inquit Gre¬
+gorius: Fides non habet meritum, cui hu¬
+mana ratio praebet experimentum. Cum
+timore igitur Dei et amp; reuerentia inteme¬
+ratae religionis nostrae Christianae ita re¬
+spondere ad propositas quaestiones institui,
+vtà
+
+vt à definitionibus Ecclesiae Romanae nec
+ioco nec serio discedam. Vnde quicquid vel
+scripsi vnquam, vel scripturus sum, eius
+determinationi et iudicio totum
+volo esse subiectum.
+RIC-
+
+[segment 4]
+RICHARDI SBRVLII FO-
+ro Iuliani,
+EPIGRAMMA.
+VIS neget esse Deum caeli ter-
+raeq́; parentem,
+Tam ferus est nemo, qui ne-
+get esse Deum.
+Ipse Deus toto paßim veneratur in orbe,
+Diuersa petitur sed tamen ille via.
+Bartarus hunc certa colit omnia lege
+mouentem,
+Thurca sacro nato spirituiq́; negat.
+Iactitat Ebneus se dogmata vera tenere,
+Et duce Mose Dei se genus esse putat.
+At Christi populus qui nomen nomine
+sumpsit,
+Constanter triuno concinit esse Deũ.
+Maximus imperio qui praesidet aemilia-
+nus,
+Aßiduè Christi remq́; decusq́; iuuat.
+Quaerit (vt Augusto fas talia quaerere
+regi)
+Cur sectas summus tot finit esse Deus.
+Cur se non cunctis pariter mortalibus
+infert,
+Cur voluit duris multa latere notis. Ordi-
+
+Ordine Trittemius Regi pater omnia
+pandit,
+Ille cucullati duxq́; decorque gregis.
+De sancta quicunq́; fide dubitare solebas,
+Haec lege: mox Christi certus alumnus
+eris.
+ΤΕΛΟΣ.
+
+DE
+[illegible: obscured by binding hole]
+[illegible: obscured by binding hole]
+[illegible: obscured
+
+I.
+DE FIDE ET IN-
+TELLECTV.
+QVAESTIO PRIMA.
+PRIMA quaestio Serenissimae Maiesta-
+tis tuae ista fuit. Quare omnipotens
+Deus credi â mortalib. voluit potius,
+quam sciri et intelligentiae videlicet mo-
+do cognitionis et intelligentiae, quae à
+Sanctis angelis cognoscitur et intelligitur.
+Ad hanc quaestionem sacratissimae Maiestatis
+tuae ita coram positam respondisse memini. Omni-
+potens Deus qui est fine principio, intellectus pu-
+rus, sempiternus, & incommutabilis supra om-
+nem existens, nobis positionem infinitis perfe-
+ctionibus longè perfectior, sua amplissima volun-
+tate duos â principio intellectus ex nihilo creauit:
+Angelicum videlicet et Humanum. Angelicus in
+principio conditionis suae in omnium scilicium
+acta factus est, & omnia mouit. Humanus verò
+primò quidem in omnium potentia consistit, sed
+omnia ignorat. In fine autē per multas et continuas
+actiones rursum similis euadet angelicò, sciens et Deum et omnia quae ad cognitionem praemissae co-
+gnitionis et intelligentiae pertinent. Differunt.a.
+intellectus angelicus et humanus sicut duo quaeli-
+bet opposita, vt actus scilicet et potentia, lux et te-
+nebrae, scientia et ignorantia, habitus et priuatio,
+principium et finis, immobile et mobile, substan-
+A tia et c
+
+2 IOA.TRITEMII OCTO QVAEST.
+tia et accidens, veritas similitudo,natura ars, sa-
+nitas infirmitas,totum pars: Est.n. intellectus
+angelicus, vt actus , lux, scientia, habitus, princi-
+pium, immobile, immediatum, simplex, substan-
+tia, veritas,natura, totũ.Humanae verò sicut po-
+tentia, tenebrae, ignorãtia, priuatio, finis, mobile,
+mediatum, compositum, accidens, similitudo, ars
+pars, vnde quaecunque angelicis intellectui con-
+ueniunt à principio, haec eadem insunt humano â
+fine postea, quando carnis sarcinam deposuerit:
+quoniam sicuti principium natura, perficit an-
+gelicum: ita finis ars post multas tantum exerci-
+tationes sursum erigit humanum. Quo circa inter
+duos istos intellectus magis est â principio in aequa-
+litas, qui tamen in fine tandem aequantur,vbi tantus
+erit ab arte humanus, quantus â natura praecessit
+angelicus, vnde constat intellectum angelicum
+mox vt creatus fuit â principio sine vlla sui actione
+vel motu immobiliter substantialiterque â natura
+nouisse omnia, quae intelligere potest, ac euatisse
+creatum in instanti omnium scientia plenum atque
+perfectum. Humanum verò quoniam in omnium
+ignorantia priuatione creatus est, pro sui ex-
+ercitatione temporaliter destinatus in corpus o-
+portet continua actione, motu arte, in Dei re-
+rumque omnium notitiam peruenire, qui tandem
+aequabit angelico, finis potentiam eius commutans
+in actum ipsumque de solo potente atque possibili ex-
+euntem in effentiam, de vacuo efficiet plenum, de
+imperfecto perfectum, de priuato habentem, de
+tenebroso lucidum, de nocturno diurnum, de Lu-
+natij solarem, de terreno colligata non potest, scilicet di-
+cente Christophilo Paulo: quamdiu sumus in car-
+ne, peregrinamur â Domino, Deum cognoscere
+intelle-
+
+[segment 5]
+AD MAXIM. CAESAREM.
+intellectus est puri, simplicis atque perfecti, sed hu-
+manus intellectus quandiu moratur in corpore,
+impurus est, mixtus,instabilis et imperfectus,& ob
+hoc cognitionis Dei et rerum caelestium sine fide
+omnium ignarus, vtriusque autem intellectus tam
+humani quam videlicet angelici est idem obiectum
+summum illud videlicet incommutabile bonum,v-
+nicum rerum omnium principium Deus, in quod
+naturali cognitionis affectu recurrunt. Angelicus
+verò si comparetur humano, est sicut natura ad ar-
+tem, & vt simpliciter intellectus ad rationem qui
+est disciplinarũ principis attiguus, ratio verò per
+principia ad conclusiones discurrit. Vnde manife-
+stum est, quod angelicus immobiliter propriū ap-
+prehendit obiectum, ad quod humanus per medi-
+um angelicum post multas sui exercitationes sicut
+est dictũ tandẽ aliquãdo discurrens sibi parat assen-
+sum. Separatur autem intellectus humanus medio
+angelici cognitionis perfectionem sui naturalis ob-
+iecti, fitque propterea necessario mobilis,per me-
+dium illius ad suum recurrens principium. Omnis
+enim motus de extremo per mediũ fit ad extremũ.
+Vbi verò nullum est medium, immediata iam
+sunt extrema proxima ac propter hoc immobi-
+lia.Intellectus autem humanus quasi tenebroso in
+carcere positus,quamdiu retinetur in corpore,sen-
+su et ratione mouetur ad intelligendum, quamuis
+confusè imperfectè minus atque propterea me-
+dium inter se patitur Deum quem diximus an-
+gelicum, maximum portans corpus destinatae per-
+fectionis impedimentum sicut quidem sapientiae
+amator dixit:Corpus quod corrumpitur, aggrauat
+animã deprimit terrena inhabitatio sensũ multa
+cogitantẽ.Deũ igitur nobis credere potius quá sci-
+re vel intelligere omnino necessariũ fuit: Propte- A2 re2
+
+4 IOA.TRITEMI OCTOQVAEST.
+rea quod penitus impossibile fit, illam super diui-
+nā &; in circumscriptibile maiestatem comprae-
+hendi â nobis, qui nihil intelligimus sine ministe-
+rio sensuū &; discursu rationis.Deus.autē longè su-
+pra omnem positionem existens, nec sensibus mor-
+talium nec rationi manet subiectus, quemadmo-
+dum ad Mosen dixisse legitur. Non videbit me ho-
+mo &; viuet. Hinc quoque &; Diuus inquit Euangeli-
+sta Ioannes, Deum nemo vidit vnquam. Nec mi-
+rum, Deus.n.cum sit primus &; sempiternus intel-
+lectus purissimus, simplicissimus, p̄fectissimus im-
+mobilis, creator, incōpraehensibilis, sumꝰ &; supra
+omne positionē procul imensus &; incircumscripti-
+bilis, compraehendi ab humano intellectu non po-
+tuit, qui est impurus, compositioni subiectus, im-
+perfectus, mobilis, creatus, compraehensibilis,in-
+fimus &; sub mensura positionis constitutus.
+Ad eam verò quaestionem quae ex prima videba-
+tur oriri, vtrum Deus cum fit omnipotens humano
+se intellectui quemadmodum angelico potuerit
+dare cognoscibilem: Dico Deum omnia posse, ne-
+mo sacrae mentis vnquam negauit, ea verò con-
+tradictionem implicant, Deum non posse dicimus.
+Propterea quod ordini sapientiae contrariantur in-
+commutabilis disponentis vniuersa,quemadmo-
+dum destructio constructioni totius non dubitatur
+esse contraria simul, &; si dixero penitus aduersa.
+Neque.n. decuit neque fieri vllatenus potuit, vt Deus
+ab intellectu humano compraehenderetur, quoni-
+am si mortalis homo naturae ductu Deum comprae-
+henderit immortalem: Certe iam non homo neque
+mortalis, sed angelus videretur esse dicendus, fie-
+retque vel homo Deo, vel Deus homini comparan-
+dus.Quandiu.n.intermediat angelicus intellectus
+non AD
+p̄totei h
+lax vigal m
+decra nareu
+Carns tam c
+tig. electic a
+musa comp
+en, tempora
+hem, infirm
+in Philoso
+portio. Eil
+fideè imma
+mini festa po
+muer fi pro
+child pante i
+de producti
+nes et capes
+filange la pa
+ulligere, nu
+primum et
+qui: quippi
+magistrati o
+intelligen
+gentia, ti
+rus eth, ni
+neg porcu
+diffinitur
+quien, nec q
+neꝰ, tenentis
+forma, ne g
+ans vanar,
+nup spiritu
+filipos par
+ex his que s
+
+[segment 6]
+AD MAXIM. CAESAREM.
+non potest humanus intelligere Deum, interme-
+diat vsque ad mortem carnis qua mens libertatem
+affectua naturalem, euadet prorsus angelo aequalis.
+Cernis iam credo Imperator manifestum, quod
+neque decuit neque possibile fuit, vt intellectus hu-
+manus comprehenderet diuinum creatus crean-
+tem, temporalis aeternum, mutabilis incommuta-
+bilem, infirmus omnipotentem, cum finiti, vt qui-
+dam Philosophus aut nulla sit ad infinitum pro-
+portio. Est ergò necessarium mortalibus Deum
+credere immortalem, quae nullam comprehendere
+manifesta possimur ratione. Quamvis ordo totius
+vniuersi prouidentia omnia declarat authorem, &
+nihil prater ipsum sine principio intelligamus in-
+esse productum, tamen quid &; quomodo sit Deus
+mens &; capere non potest humana, quoniam cum
+sit longè supra omnia, quae nos de ipsó possumus in-
+telligere, aut quisque mortalis, procul extra &; su-
+pra omnem est positionem, vt facer Dionysius in-
+quit: quippe qui neque anima est neque sensus, neque
+imaginationem, aut opinionem, aut rationem, aut
+intelligentiam habet, neque ratio est, neque intelli-
+gentia, neque dicitur, neque intelligitur, neque nume-
+rus est, neque multitudo, neque ordo, neque magnitudo,
+neque paruitas, neque aequalitas, neque similitudo, neque
+diffimilitudo, neque stat, neque mouetur, neque agit
+quieté, neque virtutẽ habet, neque virtus est, neque lux est,
+neque viuit, neque vita est, neque substãtia est, neque seculũ
+neque tenguis, neque factus est ipsius spiritalis, neque
+forma, neque veritas est, neque regnum, neque sapientia,
+neque vnum, neque deitas, aut bonitas,
+neque spiritus est quantum scire ipsi possumus, neque
+filij neque patris est denominatio, neque aliud aliquid
+ex his quae nobis alteri vnquam in mundo est cogni-
+
+cognitum, neque aliquid eorum est quae non sunt,
+neque eorum quae sunt, neque ea quae sunt, illum sciũt,
+sicuti ipse est, neque fermo ipsius est, neque nomen,
+neque scientia, neque tenebrae, neque lux est, neque error,
+neque veritas, neque est ipsius vlla omninò positione, neque
+oblatio, nam vt super omnem positionem est per-
+fecta singularis omnium causa, super omnem
+oblationem excellentia ipsius est, illius videlicet
+qui simpliciter absolutus ab omnibus super om-
+nia est. Dicimus itaque, Dionisius inquit, vt omnium
+causa super cuncta cum sit neque sine substantia, neque
+sine vita est, neque ratione, neque mente caret, neque
+corpus est, neque figura, neque species neque qualitatem
+aut quantitatem aut mortem habet, neque in loco
+est, neque cernitur, neque tactum sensibilem habet,
+neque sentit, neque sensibilis est, neque temeritati aut
+perturbationi est obnoxia, carnalibus agitata
+passionibus, neque inualida est sensibilibus subiecta
+casibus, neque indigna luminis est, neque immutatio-
+nem, aut corruptionem, seudiuisionem, siue flux-
+um admittit, neque aliud quicquam sensibilium aut
+est aut habet. Vnde cum sit longè super omnem
+positionem excellens à supposita non potuit com-
+prehendi creatura quae sensitibus vtitur necessariò
+ad intelligendum, sicut verũ Paripatheticus dixit:
+nihil nostro esse in intellectu, nisi prius fuerit
+in sensualia. Deus ergò qui mortalium sensibus non est
+subiectus, intellectum procul excedit humanum,
+qui secundum positionem affirmantem veraciter
+est omninò in omnibus secundum oblacio-
+nem negantem, quo propius acceditur, nihil est
+omnium quae cognitioni mortalium subiciuntur.
+Enimuerò cum sit super omnia, nihil eorum esse
+potest, quae illi sunt subiecta-Propterea pulchre si-
+mili-
+
+[segment 7]
+AD MAXIM. CAESAREM.
+7
+militudinem dedit Empedocles dicens: Deus os-
+sphaera cuius centrum vbique circumferentia nusquã.
+Erigat se nunc quantũ potest intellectus humanus,
+&amp; qui Deum compraehendere nititur, huius imagi-
+natae centrum spaerae simul ac nusquam terminan-
+tem circumferentiã rectè intelligens compraehen-
+dat. Quod si hanc intelligere propositione simili-
+tudinis propriae non sufficit, super omnem posi-
+tionem existentem Dei essentiam quare inuestiga-
+re contendit? Cusani quandam presbyteri Ecclesiae
+Romanae cardinalis Commosellani mei viri tem-
+poribus illis doctissimi aliam de Deo similitudi-
+nem te Caesar inuictissime non taedeat audire,qui
+dicit, Deus est infinitae longitudinis, linea recta,
+quae circulum facit. Videamus nunc igitur.Silinea
+est recta, quomodo circulum facit? Quando si facit
+circulum, quomodo recta.Sunt enim circulus et amp; li-
+nea recta naturaliter opposita. Verantamen infini-
+tae longitudinis linea cum neque principium habeat
+neque finem,circulum necessario facit, quamuis non
+curua sed recta proponatur imaginanda. Cum er-
+gò Deus fit infinitus, maximus sine quantitate, op-
+timus sine qualitate, omnia in omnibus sine cir-
+cumscriptione, supra omnia sine excludente posi-
+tionenon fuit possibile, quod ab intellectu cir-
+cumscriptibili humano per sensuum ministerio
+vtitur ad intelligendum compraehenderetur, &
+quodei promittitur purificato: tandem in patria,
+confuso et amp; impuro concederetur in via. Postea
+verò quã mens nostracarne tandẽ soluta ad centrũ
+summũ quod Deus est mũda, simplex,pura,perfecta et amp; consummata euafserit, angelis pares effecti De- um
+A 4
+mili
+thre fi
+anum.
+racite.
+blatio.
+chill ch.
+untur.
+im effl
+funt.
+ciüt.
+men.
+rorr.
+neque
+per-
+nem
+licet
+om-
+num
+loco
+abet.
+i aut
+gitati
+fecti
+atio.
+flux.
+aut
+annem
+com-
+staribꝰ
+dixit
+fuern
+con ei
+anum.
+racite.
+blatio.
+chill ch.
+untur.
+im effl
+funt.
+ciüt.
+men.
+rorr.
+neque
+per-
+nem
+licet
+om-
+num
+loco
+abet.
+i aut
+gitati
+fecti
+atio.
+flux.
+aut
+annem
+com-
+staribꝰ
+dixit
+fuern
+on ei
+anum.
+racite.
+blatio.
+chill ch.
+untur.
+im effl
+funt.
+ciüt.
+men.
+rorr.
+neque
+per-
+nem
+licet
+om-
+num
+loco
+abet.
+i aut
+gitati
+fecti
+atio.
+flux.
+aut
+annem
+com-
+staribꝰ
+dixit
+fuern
+on ei
+anum.
+racite.
+blatio.
+chill ch.
+untur.
+im effl
+funt.
+
+8 IOA. TRITEMII OCTO QVAEST.
+um perfectè cognoscemus, &amp; omnia, quemadmo-
+dum et amp; sanctus Christophilus ad Corinthios dicit:
+Videmus nunc per speculum et amp; in aenigmate, tunc
+à facie ad faciem. Idcirco diximus angelicum in-
+tellectum naturae ducto suo principio immobiliter
+adhaerentem. Quia actus et amp; habitus est purus, qui
+cum fit conditione naturaliter simplex, composi-
+tionis nullo potest impediri commertio? Huma-
+nus verò intellectus, quod iam sufficienter constat
+esse declaratum, cum fit potentia et amp; priuatio pro-
+pter corporis sui commercium impurus non qui-
+dem vsqꝫ perfectò retardatur ab actu, quousqꝫ tan-
+dem carne solutus in consortium similitudinis
+tranfierit angelorum, tunc primum ad veram Dei
+agnitionem admittendus. Quod si interea fidei
+Christianae praesenti ac diuinae cognitioni futurae,
+necessarius ad salutem comparetur affectus amoris
+eadem cum sanctis angelis beatitudo sempiterna
+Dei cultoribus praeparata donabitur. Sin autem de-
+prauata mens nimio carnis suae commertio Dei a-
+morem contempserit, euadet quidem intellectus
+ergastulo resolutus ad mensuram sibi ex natura
+competentem cognitione sublimis, sed erit tanto
+miserior, quanto ex mala voluntate daemonibus in-
+uenitur esse fimilior. Solutionem itaque propositae
+quaestionis vt licuit conclusurus dico, non esse pos-
+sibile quod omnipotens Deus perfectè in-
+telligatur à nobis, quamdiu morta-
+les in carne versamur.
+(*:*)
+(*) DE FI-
+
+[segment 8]
+AD MAXIM. CAESAREM.
+9
+DE FIDE NECES-
+SARIA AD SALVTEM.
+QVAESTIO SECVNDA.
+Ecunda inuicte Maiestatis tuae quaestio ista fuit. Cum pars orbis parva legibus hodie sidei fit subiecta Christianae, virum plurimorum opinio illa sine iniuria veritatis videatur admittenda, qui existimant vnum- quemque in religione, quam credit esse veram atque salutarem, vnius Dei cultorem extra fidem Christiam et amp; sine Baptismate posse saluari, modo nihil constat de religione Christi.
+Ad hanc quaestionem respondere simpliciter iuxta intentionem vulgarem iudicaui superfluum, cum sciam hodie multos inter Christianos, quos impia pietas pro salute hominum perditorum in Deum facit esse crudeles. Sed quia iustae considerationis causa sereniffimam celsitudinem tuam vt ista quaereres, excitauit non quia non scias, quid fit in hac propositione catholica tenendum, sed vt haberes quod veritatem obiicias impugnantibus,
+quantum potero breuiter ad interrogata respondebo. Si extra fidem Christianam quisquam saluari posset, Christus omnipotentis Dei filius superfluo et amp; sine causa videretur homo factus. Nam si extra Christum est salus, non est saluator omnium Christus. Verum quia Dei vnigenitum filium pro salute humani generis nasci hominem in mundo, pati, mori
+A 5
+
+IOA. TRITEMII OCTO QVAEST.
+mori et resurgere tertia die secundum scripturas
+oportuit: nō frustra neque superfluo, neque sine causa
+in hunc mundum venit. Quod cum ita fit quisquis
+extra fidem Christi saluari quempiam posse asserit,
+nō Christianum sed aduersarium se fidei ac Christi
+desertorem ostendit. Quicunque enim non credit in
+Christum filium Dei, frustra salutem sibi pollice-
+tur aeternam. Nam ipse qui veritas est Iesus Chri-
+stus in sancto Euangelio dicit: qui non crediderit,
+condemmabitur. Et iterū: qui non credit iam iudi-
+catus est quia non credit in nomine vnigeniti filij
+Dei. Et rursus post pauca dicit subiungens qui cre-
+in fidlium habet vitam aeternam, qui autem incre-
+dulus est filio nen videbit vitam, sed ira Dei ma-
+net super eum. Sanctus quoque Christophilus sine
+fide impossibile est placere Deo. Aperta est nunc
+omnibus in Christum veraciter credentibus pro-
+positae quaestionis solutio, quia per ipsum saluato-
+rem mūdi est salus, &; quicunque non credit in eum,
+saluus esse nonpotest. Nec licet Christiano termi-
+nos religionis suae quouis modo excedere, vt hanc
+quaestionem aliter quam Christus docuit praesu-
+met, emendare. Quisquis verò hanc fidei nor-
+mam contrarium asseren doegreditur, quod non
+rectè sentiat de Christo saluatore fidelium, ma-
+ni festè demonstrat. Vult enim Christum declara-
+re mendacem, quicunque allcui extra Christum pol-
+licetur salutem. Nos autem sacratissimis Euangelij
+confirmati sanctionibus firmiter credimus &; in-
+dubitanter pronunciamus, neminem extra fidem
+Christi posse saluari, quantumlibet sanctè vel
+iustè viuat, quantumlibet religionisuae paternae
+vel alteri confidat. Christus est salus, extra fidem
+Christianā nemo saluabitur. Adquid enim Christus Dei
+
+[segment 9]
+[illegible]12. IOA. TRITEMI OCTO QVAEST.
+ris,&quos declinaturos praenouit ad malum, in
+tanta multitudine non produceret in interium.
+Melius enim videretur non esse quam male esse.
+Ad hanc quaestionem ille respondet, si quis Dei
+se confiliiarium putat. Quis ego sum, vt causam
+divina voluntatis edifferam: Omnia, n. quaecunque,
+voluit dominus fecit in coelo et in terra, & non est
+qui voluntari eius possit refertere. Hinc dicit
+quidam vir sapiens ad Deum: quis tibi imputabat si
+perierint notiones quas tu fecisti? Constituit
+omnipotens vicisstudinis ordinem rebus, quem
+nulla vnquam plenitudine mutationis reuocabit.
+Quemadmodum, n. permittit foem fuum oriri
+super bonos et malos, ita viae: in finem seculi homi-
+nes concipi, nosque et crescere fecit pios et impios.
+Non sunt in Deo cogitationes hominum, neque
+mutat consilium ex tempore, fed incommutabilis
+cum sit ac tempertus, omnia simul et semel volens, ac semper ab aeterno inuariabi-
+liter praeordinavit. Semel loquitur Deus, testante
+facra scriptura,& & addit, quoniam quicquid vult,
+immobiliter vult,& nullam recipit commutationem.
+Vt ergo nacrentur homines boni et mali,
+pij et impij, fideles et perfidi, peccatores et fançti,
+faluandi et damnandi, iustifìsima ratione Deus per-
+mittit, qui hunc ordinem rebus omnibus tribuit.
+Nihil Deo perit, qui omnium est Dominus, & non
+minus malorum quà bonorum hominum atç; fpi-
+rituum corroboratum vbitenet imperium. Chri-
+stus Iefus ex Deo patre Deus, fine tempore, & ex
+virgine homo in tempore Mediator costituitis Dei et hominum, ipse est per quem accésum habemus
+ad Deum, ipse est Salvator omnium fidelium de
+quo male fentis qui fine fide Christiana quaepiam
+posse
+
+[segment 10]
+AD MAXIM. CAESAREM.
+13
+posse saluari temere concedit. Omnipotentia Dei respicit ordinem rerum, quem constituit secundùs cuius inuiolabilem seriè rectitudinis nemo sine fide Christi saluabitur, nemo qui non credit in Dei filium, iustificabitur. Vana igitur atque stultisfima pietate mouentur, qui aliquem extra fidem Christi, in toto mundo et qualibet secta putant esse saluandum: Cum sit eius sententiae manifestè contra-
+rium. Audiant ipsum Saluatorem iterum in Euan-gelio dicentem: Nemo venit ad patrem nisi per me:
+Ego.n.sũ via, veritas et vita. Si nemo venit ad pa-trem ni sĩ per filium, nemo certè saluabitur, nisi per ipsum. Quis Iudaeum saluabit atque paganum, cum nemo saluari posset nisi per Christum? Christus.a. illos duntaxat indubitanter saluabit, qui corde, ser-mone et opere credunt in eum. Non saluabit Iudae-um, non Sarracenum, non paganum, non alium quemlibet infidelem, quia non credunt in ipsum, sed eius doctrinam despiciunt, fidem contemnunt, & sanctum nomen eius blasphemantes tota die vi-lipendunt, ipse namque in Euangelio dixit, Qui me erubuerit et meos sermones, & ego erubescam eum coram patre meu, & sanctis angelis eius. Dicite mi-hi nunc, qui Christum colitis, & aliquem in sua se-cta, quam veram putat extra fidem Christianam posse saluari contenditis, Euangelium Christi ve-rum creditis an falsum? Si verũ quare vos sentitis il-li contrarium? Christus.n.dicit, qui non crede-idicus rit in filium Dei, ira Dei manet super eum, & iam iu-dicatus est et condemnabitur. Et quia nemo venit ad patrem nisi per mee. Vos.a.nescio qua temeritate feducti contrarium ingeritis, dicentes hominem extra fidem Christi, in religione sua paterna, quam credit esse veram, & Deo placentem confidentem,
+vel
+0 1 2 3 4
+Gray Scale
+
+14 IOA. TRITEMII OCTO QVAEST.
+vel secundum legem naturae innocenter viuen-
+tem, & praesertiin cum de fide Christi forsitam
+nihil audieri thunquam, in sua confidentia esse
+saluandum.Hoc Christus non dixit, sed qui cre-
+diderit in vnigenitum Filium Dei saluabitur qui
+verò non crediderit condemnabitur. Neminem
+excepit, nullam conditionem admiscit.Quoniam
+qui pro omnibus venerat pati, per solam fidem
+prouiderat saluti. Si fides in saluatorem defue-
+rit, iam nulla confidentia incredulum saluabit.
+Dixit enim sanctus praesul Augustinus de fide ad
+Petrum firmissimè tene, &; nullatenus dubites non
+solum omnes Paganos, sed etiam omnes Iudaeos
+haereticos atque schismaticos qui extra Ecclesiam
+Catholicam praesentem finiunt vitam, in ignem
+aeternum ituros, qui paratus est Diabolo &; ange-
+lis eius. Cernitis nunc quo vos sulta commi-
+seratio trahat qui Deum humanibus legibus me-
+tientes, vt in cunctis faciatis misericordem eius
+vnigenitum filium Dominum &; saluatem no-
+strum Iesum Christum, non timetis iudicare men-
+dacem sed CHRISTVS verax est qui non creden-
+tes in eum dicit esse damnandos. Nos autem te-
+merarij atque mendaces, qui extra fidem eius quem-
+piam posse saluari confiditis. Qui veraciter credit
+in Christum, neminem prorfus extra vnitatem
+Ecclesiae Christianorum Catholica patitur dici
+saluandum, contrarium quifquis dixerilquod ve-
+rus &; bonus Christianus non fit, ostendit. Hęc est
+enim Catholicae traditionis, immobilis sententia,
+quam ipse Dominus Iesus in sancto Euan-
+gelio definiuit: neminem videlicet extra fidem ei-
+ius saluandũ, quam ipse instituit, docuit &; proprio
+sanguine confirmauit. Quifquis ergo saluandũ ho-
+minem
+miner
+firmar
+nns C
+discip
+intero
+eft noz
+numl.
+moig
+fratru
+rat, q̃
+purar
+dem C
+liuius
+non li
+verax
+tati fi
+conuen
+Sarcen
+bio fin
+Eccles
+hanc i
+ixiqu
+fiade
+incre
+super
+raecm
+num n et amp; hanc
+gelo d
+ficut et
+publica tione c
+enim C
+nitifico
+
+[segment 11]
+minem in qualibet secta extra fidem Iesu Christi af-
+firmauerit, vel in corde suo crediderit non est bo-
+nus Christianus, sed potius apostata et Antichristi
+discipulus, cum quo nisi resipiscat, se nouerit apud
+inferos perpetuo cruciandum. Antichristus enim
+est non Christianus, qui non credentem in domi-
+num Iesum sine saluatore dicit esse saluandum. Ne-
+mo igitur sapientissime Caesar in conspectu Maie-
+statis tuae compareat, nemo te sibi adhaerentem sen-
+tiat, qui homines extra fidē Iesu Christi saluandos
+putat. Omnis enim qui aliquem saluandum extra fi-
+dem Christi crediderit, & Christum et eius Euange-
+lium abnegauit. Quod verò damnandos omnes qui
+non sunt Christiani dicimus non crudelitatis sed
+verax pietatis indicium est. Praestat enim veri-
+tati firmiter credere, quam homini mendaciter
+consentire. Quod omnes Iudaei, Pagani, gentiles,
+Saraceni Schismatici, haeretici et infideles absque du-
+bio sint damnandi cū demonibus, sanctorũ testatur
+Ecclesia quae non aliundè quā ex Christi sermonib.
+hanc sumpsit et cōfirmauit sententiã. Sic enim dix-
+it:qui credit in filiũ habet vitã ęternam: per quod
+fide et opere boni designantur Christiani Qui autē
+incredulus est filio nõ videbit vitâ, sed ira Dei manet
+super eum.Hic omnes denotantur Iudaei,pagani,Sa-
+raceni,gentiles et quicumque non credunt in domi-
+num nostrũ Iesum Christum.De schismaticis vero et haereticis manifesta est Christi sententia,in Euangeliu
+dicentis, qui Ecclesiam audire noluerit, fit tibi
+sicut ethnicus et publicanus.Ethnici sunt gẽtiles,&
+publicãi mäifesti et publici peccatores,de ꝙrũ dãnata
+zione certissima sanctorũ nõ dubitat Ecclesia.Quis
+enim Christiãorũ gẽtiles et enormes peccatores ma-
+ni festosque dubitauerit esse dãnandos.Cur ergò schis-
+matici
+
+16 IOA. TRITEMII OCTO QVAEST.
+matici et heretici omnes sanctorũ contemnant Ec-
+clesiam, gentilibus publicanis damnandis pro
+fuis delictis de meritis rectifsimè dicuntur simi-
+les poenas fempiternae damnationis cum eis iustè
+subibunt aequales. Ecce quos Christi saluatoris
+iusta damnauit sententia stulta hominum commi-
+feratio, ne dicã crudelitas impia faluandos effe prae-
+sumit. Cupiunt in homines perditos efle miseri-
+cordes, non verentur in Deum fe exhibere cru-
+deles, quos ille per iuftitiam deputauit ad mortem:
+Ifti praesumptione peffima reuocandoa afferuntad
+vitam. Non est bonum nec vtile Christiano fiue se-
+rio fiue ioco contradicere Christo, impius eft non
+Christianus, quisquis infideles dicit effe faluandos.
+Adam primo homine pereunte omnes peccauimus,
+ira Dei super totũ genus manebat humanum, ab
+origine mundi vsque ad Christum, venit Christus de
+virgine natus, qui Deus homo innocens â pecca-
+to, mortem crucis voluntariè subiuit, inter De-
+um hominem Mediator factus, iram culpae ori-
+ginalis ab his qui credit in eum remouit.Sic.n.di-
+cit,qui credit in vnigenitum Dei filium, habet vi-
+tam aeternã, qui verò incredulus ef filio,non vide-
+bit vitam, fed ira Dei manet fuper eum. Enimuerò
+fine fide Iefu Christi nemo faluabitur, quantulibet
+iustè sanctè viuere in sua religione videatur.
+Omnipotens.n.Deus fine baptifmate materiali po-
+teft faluare credentem, fed non potest fine fal-
+uum facere negantem. Nemo faluetur iniuctus,
+quia nemo credit nisi voluntarius, nouit.n. Deus
+qui fint eius, quoniam credentes in filium, habeat
+per poenitentiam, increduos verò condemnat per
+iusticiae aequitatem.
+Hinc interclufapulfauit animum quaestionoua:
+quid
+
+[segment 12]
+AD MAXIM. CAESAREM.
+17
+quid de infantibus et fatuis non credentium paga-
+norum et iudaeorum fit sentiendum. Ad quam re-
+spondendum. Sicuti infantes Christianorum in fi-
+de parentum baptisati saluantur, ita pueri omnium
+infidelium non baptisati in parentum perfidia dam-
+nabuntur. Similis est de fatuis vtriusque religionis
+sententia: Vt quemadmodum Christianorum bap-
+tisatos fatuos indubitanter saluandos credimus:ita
+non credentium damnandos sine dubio dicamus.
+Rursum hîc quaeritur, quid de illis sit hominibus
+catholicè sentiendum, qui nouiter repertas in mare
+magno Insulas, de quibus apud Cosmographos ve-
+teres nulla fit mentio, inhabitant nihil vnquam,
+sicut informati sumus de Christiana religione, pe-
+nitus audiuerunt. Breuis ex praescriptis ad omnia
+conformis datur responsio, quoniam veritas nemi-
+nem â damnatione non credentem penitus except,
+non Insularum, non orbi nostro contiguum,
+non alium quemque siue prope siue remotè moran-
+tem, sed indifferenter sine diffinitione persona-
+rum conclusit dicens, qui crediderit baptisatus
+fuerit saluus erit, qui verò non crediderit, con-
+demnabitur, ira Dei manet super eum. Quis re-
+mouet iram Dei ab homine, nisi Dominus noster
+Iesus Christus, qui Mediator est Dei hominum.
+Quo medio? nisi per fidem formatam in ipsum, qui
+mortem gustauit innocens. Cum ergo sine fide ne-
+mo salliceri salutem, quos constat in eum non
+habere fidei pietatem.Necessario itaque dicemus om-
+nes esse damnandos qui non credunt in filium Dei,
+siue auditum habeant de illo, siue illum penitus ig-
+norant. Vnum verò concedimus, quando si qui
+inter eos, qui Christum ignorant, secundum legem naturae B
+
+18 IOA. TRITEMII OCTO QVAEST.
+naturae benè vixerunt, vnum Deum inuocantes,
+etiamsi aliquando peccauerint, modo poenitentiam
+ante mortem egissent, minus grauiter damnatos
+aut damnandos, quam illi qui vel Christum audien-
+tes contemnunt, vel vtroque malè ac sordide vixe-
+runt. Iustus enim est Deus, qui nulli facit iniuriam
+sed reddit vnicuique secundum opera sua. Manet au-
+tem ira Dei super omnem qui non credit in vnige-
+nitum filium eius propter primi hominis pecca-
+tum originale, à quo nemo iustificatur nisi per fi-
+dem et amp; baptisma Domini et amp; saluatoris nostri Iesu
+Christi. Originale verò peccatum si fuerit in homi-
+ne solum, sicut in paruulis, nisi remoueatur per
+Christum, damnat habentem ad poenã domini dun-
+taxat, qua videlicet arcetur â visione Dei et amp; fruitio-
+ne foelicitatis sanctorum in aeternum. Adultus ve-
+rò qui mortaliter peccat, duplici poena post mor-
+tem punietur, damni videlicet et amp; sensus, vt et amp; Deum
+non videat et amp; poenas gehennae sine fine sentiens
+nunquam euadat. Iudaei autem et amp; Saraceni ac reli-
+qui omnes, qui fidẽ Christi audientes contemnunt,
+ad poenam damni et amp; sensús vtraque sinedubio dãn natur
+siue ad legẽ naturae viuant alioquin innocenter siue
+contrarium. Inter illos verò qui auditum nunquã
+habuerunt de Christo, si qui ad legẽ naturae vsque ad
+mortẽ viuerent innocentes, nõ puto causam prębu-
+isse, quod dicantur vel credantur ad poenam sensus
+damnandi, quamuis Dei visione, quá damni poenam
+appellauere Theologi priuentur in aeternũ, nemo e-
+nim Dei patris omnipotentis intuebitur faciem, nisi
+fuerit per fidem in Christo renatus.
+Iam nunc in eos concludamus sententiã, qui no-
+bis, ista secundum Christi doctrinam catholice as-
+ferentibus, ardua consideratione obiciunt. Ad
+quid D millia scivir thanos rociar Arctim sacuir in Chr uocio, Quire repert califa midy taufa ternas nullifera nerbera arta du munda carum incroce uentru rium Quo distinctio dubio qui pa Der ch̃ ro falsa sed mihi quem liberam
+
+[segment 13]
+q̃d Deus omnipotenꝰ cum summe fit bonus, tot
+millia hominum creare voluit, quos ab aeterno prę-
+sciuit esse damnandos. Nam si comparatio Chri-
+stianorum fiat ad infideles, vicesima pars hominum
+totius mundi vix hodie credit in dominum no-
+strum Iesum Christum. Huius quaestionis immen-
+sa curiositas multo saepè pulsauit, q́rūm si fides
+in Christum effet firma feruens in eis amore de-
+uotio, tam eni consueta ardua non quaererent.
+Quis enim tantae vel doctrinae, vel sanctitatis homo
+reperitur inter mortales, vt praeter ipsum Deum
+causam nobis aperiā diuinae voluntatis? Causa e-
+nim voluntatis Dei est incompręhensibilis, qui ipse
+causa est suae rectissimae voluntatis. Ordo sempi-
+ternus iniuiolabilis, sicuti in superiori dixi, Deus
+nulli facit iniuriam. Nonne cum iudicarit Deus v-
+niuersae diluuium super terram octo homines in
+arca dumtaxat saluati funt, caeteri omnes aquarum
+inundatione perierunt. Causa pereundi fuit pec-
+catum. Vt vero crearentur non fuit alia causa quam
+incircumscriptiblis bonitas Dei. Quod pauci sal-
+uentur pereuntibus multis, praecessit figura myste-
+rium Arca Noe Christianae fidei sacramentum.
+Quoniam quidem sicut extra Noe arcam omnes in
+diluuio perierunt, ita nunc omnes qui sunt extrav-
+nitatem Catholicae Ecclesiae Christianorum, sine
+dubio in aeternũ peribunt in peccatis suis tã Iudaei,
+quā pagani, haeretici fimul atque schismatici. Iusticia
+Dei damnat, quosbonitas creauit, misericordia ve-
+rò saluat, quos gratia confirmauit. Quia vt dicit
+sanctus Apostolus non est volentis neque currentis,
+sed miserentis Dei, quoniācuius vult miseretur, 
+ quem vult indurat. Rectè fic pensiculemus humani
+libertatē arbitrij, iustam scięmus voluntaté Dei.
+[unclear] DE MI-
+
+20 IOA. TRITEMII OCTO QVAEST.
+DE MIRACVLIS
+INFIDELVM.
+QVAESTIO TERTIA.
+[unclear]
+Ertia Serenissimae Maiestatis tuae quaestio fuit. Si nemo extra fidem saluatur, vn-
+de miracula infidelibus? quoniam fieri stu-
+penda etiam apud incredulos multorum relatione co-
+gnouimus.
+Huius quaestionis vt mihi videtur, non erit dif-
+ficilis solutio, si et scripturis fidem, & naturalibus
+animae viribus necessariam adhibeamus considera-
+tionem. Est a. miraculum accidens nouum et info-
+lidum, quod propter consuetudinem euenit et ho-
+mines in admirationem trahit. Vnde aliter boni
+Christiani, aliter mali atque aliter infideles miracusa
+faciunt. Boni quidem Christiani miracula faciunt
+per publicam iustitiam, maliverò per publicae iu-
+sticiae signa: sed infideles per priatos cum daemo-
+nibꝰ contractus implicitos videlicet siue explici-
+tos. De bonis quidem dixit in sancto Euangelio de-
+minus: Signa .a. eos qui credunt haec sequentur, in
+nomine meo daemonia ejcient, linguis loquentur
+nouis, serpentes tollent, & si mortiferũ qđ biberint
+non eis nocebit, super aegros manus imponent, &
+bene habebunt. De malis verò Christianis miracu-
+la in nomine Iesu Christi facientibus ita scriptum
+in
+AI
+in Euangeli
+Domine de
+execimus,
+&amp; tunc coīs
+dice à me o
+vero Eccle
+Christi ne
+vel artis hi
+num coop
+Christian
+farea mir
+cenfet que
+sentencia
+tenebrari
+mirandor
+verà facit
+omnium h
+Quocien
+mirabiliu
+am virtut
+liquorum
+lum de re
+folus est
+incomparat
+lus et amp; la
+nia. Quod
+potest com
+mundus.
+quoque mihi
+minùs effec
+tum ad nūm
+initio for
+um natura
+iam pene
+DFG
+
+[segment 14]
+AD MAXIM. CAESAREM.
+21
+in Euangelio legimus.Multi dicent mihi in illa die,
+Domine domine, nonne in nomine tuo daemonia
+eiecimus,&amp; in nomine tuo virtutes multas fecimus et amp;tunc cõfitebor illis, quia nunquã noui vos, disce-
+dite â me omnes qui operamini iniquitatem.Extra
+verò Ecclesiam Dei vbi nomen domini nostri Iesu
+Christi non inuocatur, si qua fiunt praeter naturae
+vel artis humanae consuetudinem miranda,daemo-
+num cooperatione fieri, bonus nemo dubitat
+Christianus.Et huiufmodi opera Serenitas tua Cae-
+sarea miranda potius dicenda virtutis discretionē
+censet quam miracula.Et non discedit à ratione hęc
+sententia veritatis, quatenus inter prodigia lucis et tenebrarum necessaria discretio haberet.Quatuor
+mirandorum effectores inuenio, sed vnicum qui
+vera facit miracula Deum principaliter, vt causam
+omnium bonorum recognosco.
+Quocirca primus et amp; maximus omnium effector
+mirabilium Deus est, qui totum signis, miraculis
+atque virtutibus mundum implens illustrauit cui re-
+liquorum nullus est comparandus,qui creauit coe-
+lum et amp; terram, mare et amp; omnia quae in eis sunt,q̃
+solus est omnipotens,iustus,sanctus et amp; rectus,bonus
+incompraehensibilis,maximus,gloriosus, immen-
+sus et amp; sempiternus,eius inferiora caetera sunt om-
+nia. Quoniam quicquid in hoc mundo mirabiliter
+potest contingere,minus est certè quam ipse totus
+mundus, quem ipse potuit ex nihilo creare.Omne
+quoque miraculum, quod fieri per hominem potest,
+minus est homine ipso, quoniã Deus creator om-
+nium ad magnitudinem et amp; similitudinem suam ab
+initio formauit.Et quāuis miracula Dei visibili-
+um naturarum inter mortales assiduitate videndi
+iam penè vilescant,tamen si ea sapienter intuea-
+mur,B 3
+
+22 IOA. TRITEMI OCTOQVAEST.
+mur tunc maiora et rariora inusitationis cuncta apparebunt. Modus autem in Deo faciendi miracula est voluntas incommutabilis Dei, qui cum sit omnipotens facit omnia quaecunque voluerit in coelo et interra. Ipse enim dixit, & facta sunt, ipse mandauit et creata sunt. Voluntas Dei ordinata est et sempiterna proptera miracula eius caeteris' incomparabiliter sunt maiora. Cunctis enim huius mun di miraculis maius est quod cernimus totum Vniuersum, & quicquid continetur in eo, Dei vouluate creatum. Operatur omnia diuina voluntas incommutabilis perfeuerans, quoniam et princi- pio caret et fine, sed quicquid vult Deus, semper vult, quia cum idem fit apud eum et velle et posse non est penes incommutabile laborare. Vnde cuncta miracula vniuerfalia quae conditor facit vniuersorum, & bonis et malis spectanda exhibuit. Atque post generalia, que iam vsu voluerunt apud mortales, in fingulis penè creaturis infinita quoque specia-liter miranda demonstrauit.
+Secundus miraculorum effector, bonus est Angelus, qui miranda plerumque mortalibus, tam virtute naturali, quam diuina potestate operatur.Mittuntur enim beatifsimi illi Spiritus ordinatione diuina in ministeriu fidelibus, qui et bonis et malisea quae sunt naturae beneficia praestant. Solis autem credentibus in Deum et dominum nostrum Iesum Christum donũ gratiae salutaris administrant.Vn-de nõ est dubium, ea miracula quae fiunt inuocatio-ne diuina nominis in Ecclesia sanctorum, ministeriorio et cooperatione ipsorum exhiberi, sed mirdandainfidelium, si quae vel hodiè fiunt vel olim factaleguntur, aut conflictaut ementita sunt, aut daemonũ ludificatione parantur.Non enim fieri potest vtmini-
+
+[segment 15]
+ministerio bonorum Angelorum infideles quique miracula faciant: Quoniam vbi Christus Iesus Dei filius nõ creditur,nulla gratiae signa per bonos spi-ritus impiis reprobis hominibus exhibentur.E-nimuerò cum sint in errore falsae religionis abstinati si quid miraculi fuerunt in sua aestimatione af-fecuti per ministerium fieri daemonum nullatenus est dubitandum.Nam cum sint bonis angelis om-nino dissimiles, nullam eorũ affequuntur familia-ritatem.Nullus enim contemptor fidei Christianae Deo placere potest,sed quisquis omnipotenti Deo displicere coïncitur familiaritate sanctorum angelorum procul dubio priuatur.Per hoctamen non retractamus omnem bono alicui spiritui commissum cuius ministerio,etiamsi sit incredulus Dei filio,beneficia naturę suscipiat,quam-uiscaddona gratiae non pertingat.His verò qui cre-dunt indominum nostrum Chrestum nõ sol-lum naturae beneficia conferunt,sed etiam gratie munera ministrant.Manifestum est ergò,quod si-quae fiunt apud infideles miracula,nõ Dei munere,neque sanctorum ministerio angelorum fieri pote-runt,cum extra vnitatem Ecclesiae omnes sint posi-ti signa per iusticiam publicam ab impijs neque-ant operari.Deus etenim sicut dictum est,iram su-am originalem ab homine non remouet nisi per fi-dem Iesu Christi,sed omnis qui incredulus est Dei filio,non videbit vitã aeternã,sed ira Dei manet su-per eum:Omnis ergo quẽ manet ira Dei,Deo placere nõ poterit, ideo qua ad eius preces fiũt miranda,non Dei virtute,nec angelorũ ministerio.sed daemonũ potius suppositione credãtur actitata Tertius mirandoru effector est diabolus,qui quasi Simia imitari cõciscit quodicunque viderit, mētesB4homi-
+
+24 IOA. TRITEMII OCTO QVAEST.
+hominum maxime infidelium, varijs illusionibus
+decipit, & sibi credentes quadam miraculorum fi-
+militudine seducit. Neque enim difficile iudico de-
+monibus, fenfus Iudificare posse hominum, quos
+constat natura cunctis mortalibus conditos subti-
+liores. Scire a. cogitationes mortalium, nisi conie-
+ctura quádam, nō possunt, cum videlicet interiora
+natura quibusdam signis facimus manifesta, daemo-
+nes futura p̃nunciant, & aliquādo verū dicunt ali-
+quādo decipiuntur cõiecturantes et fallunt. Ab in-
+itio mundi rem antecedentia quaedā signa nouerũt,
+quorū experientia et vsu verū, quod futurū est non-
+nunquā praenunciánt, quam cũ nota sibi, rem prae-
+cedentia signa videriat, statim quid in cogitatione
+fit hominis coniiciunt, saepius tamen fallunt, quo-
+niam falluntur et ipsi. Cùm enim de aliquo inter-
+rogantur negocio quod nesciunt. quemadmodum
+si nuntius procul emissus citò vel quo die fit reuer-
+furus, statim in ictu oculi perueniunt in eum locū
+vbi illum esse nouerunt, quem cum viderint, iam
+inchoasse iter ad reuertendum, dies studiosè nume-
+rant, & subitò reuersi ad interrogantem certo ab-
+fentem ad diem confirmant esse venturum. Quod
+si ille aut moram in via traxerit aut aliorsum decli-
+nauerit, certè daemones iudicio suo deceptos iam,
+necesse est falli. Libenter si vaticinijs immiscent et satis promptuli funt ad praedicendum futura ho-
+minibus honoris et aestimationis gratia quam habe-
+rī admirationem digni maximè cupiunt, honores
+diuinos appetunt, & timeri â mortalibus valdè
+concupiscunt. Quemadmodum pueri in abdito la-
+titantes, aut discurrenres laruati subitò crumpen-
+tes de latibulis fuis coaeuos nil latè suspicantes ex
+inopinato terrore concutiunt, & rurfus ne cognos-
+cantur
+
+[segment 16]
+AD MAXIM. CAESAREM.
+cantur se iterum abscondunt, qui cum nescientes
+territos considerant, quasi magnum ex hoc videan-
+tur affecuti honorem gloriantur. Horum daemo-
+nes quidem exemplo terrae magis affixi &; qui circa
+homines versantur, nimis inquieti quos veteres ap-
+pellauere Bacuaeos homiues noctibus territant, &
+nihil magis quam aestimationem diuinitatis â mor-
+talibus quaerunt. Vnde &; coram his cum quibus
+ratione similitudinis esse permittuntur, varias lu-
+dificationes nonnunquam faciunt &; se terribiles
+in mentibus, pro vt casus dederit offendunt. Quo-
+tiens possunt humani similitudinem corporis li-
+benter inducunt, sed non semper conuenientem
+aeris materiam, vnde vestiantur, inueniunt, propte-
+rea saepius apparent monstruosi &; horribiles, quo-
+niam congruos vel humeros vel vapores ad perfe-
+ctionem optatae apparentiae non habuerunt. Quan-
+to autem magis terreñs affixi sunt mansionibus,
+tanto ex casu ad materiam facti sunt obtusiores. Vn-
+de propter ignorantiam, quam inobedientia con-
+trexerunt, praedictiones daemonum frequenter sunt
+falsae, licet diuina permissione aliquando etiam ve-
+rificentur. Nam vt sanctissimus ille Ioannes Chry-
+sostomus inquit, Concessum est diabolo interdum
+veritatem dicere vt mendacium suum rara veritate
+commendet. Quia si nunquam diceret verum ne-
+minem posset decipere, &; nequaquam ad templan-
+dum sufficeret eius seductio. Mirandum igitur non
+est si daemones hominibus infidelibus aliquando,
+vera videantur praedicere, qui vaticinia in Idolis
+quondam gentilibus poterant exhibere. Neque mi-
+randum si curam quandoque praestent infirmantibus
+cum naturas nouerint aegrotis, &; aufferre mor-
+B5 bos
+
+26 IOA. TRITEMII OCTO QVAEST.
+bos quos prius intulerunt, vel sensibus ad tempus
+subtrahere, quos casus inflixit. Vtitur autem om-
+nipotens Deus iure impetatoriae maiestatis vniuer-
+forum etiam daemonum ministerio tamad proba-
+tionem fidelium, quam ad vindictam impiorum.
+Qui cum sint affectione peruersi et amp; in sua rebellio-
+ne obstinati atque superbi, diuinas aestimationes et honores maximè cupiunt, &amp; propterea inuocatio-
+nibus infidelium, quas ad Deos suos effundere so-
+lent, quasi ipsi sint Dij, libenter occurrunt, mor-
+tuos quandoque apud infideles resuscitare videntur
+ad vitam, &amp; curiosis hominibus miranda osten-
+dunt, vt eos in errore pristino quasi miraculis con-
+sumatos reddunt domino pertinaces, mortuos ta-
+men verè non suscitant, sed hominũ sensus variè de-
+cipiunt, quoniam quidẽ aut ipsi cadauera mortuo-
+rum ingressi ad tempus illacircumferunt tanquam
+viua, aut illis in locum remotiorem subductis, ali-
+quod in specie vitae defuncti simulacrum intuenti-
+bus exhibent videndum, sicut nos quorundam ex-
+perientia hominum informauit, manifestum credi-
+mus daemones omnia posse ostendere in falsa qua-
+dam similitudine, quecunque sancti faciunt miracula
+in veritate. Omnia daenon miracula aut sunt
+phantasmata aut naturali quadam industria facta.
+Nam si homines in occultioribus naturae mysteriis
+experti quadã obstrusa caeteris complicatione ma-
+teria ad formam inconsuetos et amp; mirandos produ-
+cunt effectus. Sicuti ex rore coeli naturae forma-
+re anguillas executionis carnibus apes ex quibusdã
+radicibus herbarũ serpentes, &amp; his multa si volo ne
+dicã maiora, sicut vos in plerisque probatio fecit ex-
+ptos quis neget daemones subtilioris naturae et amp; ma-
+ioris experiẽtię plura posse operari naturaliter mi-
+randa qui nullę hominũ sunt manifesta. Quar-
+
+[segment 17]
+AD MAXIM. CAESAREM.
+27
+Quartus verò miraculorum operator est homo
+qui quatuor modis operatur miranda quae nescien-
+tibus vel causam vel modum nō videntur humana,
+Et primò quidem inuocatione diuini nominis,
+quando in fide Domini nostri Iesu Christi concur-
+rit meritum acceptae sanctitatis. Quo quidem mo-
+do sancti Apostoli et imitatores eorum, virtute Dei
+simul et merito sanctitatis in vnitate fidei miracula
+fecerunt. Sed isto modo facere miracula infideles
+nequeunt, quod necessarium iter fidei ad salutem,
+non incedunt. Nam etsi vnumplerique eorum cre-
+dunt in dominum, quia tamen credere in media-
+torem Dei, & hominem renuunt â Dei misericor-
+dia procul valdè excesserunt. Omnia verò promit-
+tente sancto Euangelio, credentibus in Deum, &
+dominum nostrum IesumChristum sunt possibilia:
+his videlicet qui fidem rectam sanctis quoque deco-
+rant operibus.Enimuerò quemadmodũ sine fide im-
+possibile placere Deo ita etiam fides sine operibus
+mortua est. Omnia nam concederet nobis omni-
+potens Deus, quae in fide Christi patimur, si facere-
+mus omnia secundum fidem que debemus.Credere
+firmiter et operare fideliter, & impetrabis omnia
+semper.
+Secundò facit miracula homo similitudine an-
+gelicae puritatis.Quanto enim mens nostra in fide
+Iesu Christi confirmata per dilectionem purior
+euaserit: tanto sanctis Angelis effecta similior, eo-
+rum familiaritatem maiorem assequitur. Quisquis
+enim sanctorũ Angelorũ omnino dant familiarita-
+tem assecutus fuerit,cum voluerit in miraculis Deo
+largiente coruscabit.Reuelant enim sancti angeli
+hominibus puris,& inDei amore feruẽtibus arcana,
+ceteris abscondita et multa faciūt ei mādato creatoris mani-
+
+28 IOA. TRITEMII OCTO QVAEST.
+manifesta. Nam propè est dominus inuocantibus
+eum in veritate. Voluntatem timentium se faciet
+Dominus, & deprecationes eorum exaudiet, & sal-
+uos faciet eos. Quisquis enim per gratiam cum
+Christo vnitus est angelorum crebra visitatione re-
+ficitur, & saepius cum necessitas expostulat eorum
+ministerio, saepius et virtutibus illustratur. Hinc est
+quod etiam varijs depressi languoribus ad suffragia
+sanctorum se conferunt et promissa Domini reuo-
+uentes amico, quod suis meritis nequeunt alienis
+confequntur, quorum in fide Christi sancta deuo-
+tio salute domino percipit, quando et puritate ad-
+iuta conscientiae propriae et suffulta merito sancti-
+tatis alienae in spem certam non temere confurgit.
+Fiunt autem in Ecclesia Dei miracula virtute diui-
+na triplici respectu vel medio. Aliquando namque
+Deus omnipotens miraculum operatur ministerio
+angelorum meritis duntaxat ipsius operantis.
+Quemadmodum sanctus Martinus coecum et clau-
+dum sanauit inuitos. Aliquando folius merito pa-
+tientes fiunt miracula, sicuti plures curatos legi-
+mus per malos Christianos, quo infirmi optimos in
+fide crediderunt. Tertiò huiufmodi sanitates fie-
+ri vtriusque merito patientis videlicet simul et ope-
+rantis non est dubitandum Christo dicente ad
+quendam in sancto Euangelio: Si potes credere,
+omnia possibilia funt credenti. Vsque enim fides re-
+quiritur ad miraculum, vt dominus noster Iesus
+Christus veniens in patriam suam miraretur, quod
+non poterat ibi facere virtutem vllam propter in-
+crudelitatem illorum. Sed nihil horum apud infi-
+deles agitur, vbi nec in operante sanctitas, neque in
+patiente fides orthodoxa inuenitur.
+Tertiò igitur miracula fecit homo mediante coope-
+
+[segment 18]
+cooperatione diabolicae prauitatis. Et hoc fieri po-
+test tripliciter, manifesta videlicet inuocatione dae-
+monum implicatione suppositione. Inuocatio-
+ne manifesta, Necromantici mulierculae, quas
+vulgo maleficas nuncupamus, miranda faciunt, qui
+similitudine voluntatis deprauati in consortium
+daenonum transierunt. Nam sicut in Ecclesia Dei
+Sa. ramenta signa sunt gratie inuisibilis spiritus san-
+cti, ita in schola daemoniorum characteres quidam
+inuocationes modi nota sunt praui hominis spiritus maligni.
+Vnde maleficis daenonum signa
+praeferentibus maligni spiritus inuocati libenter
+consueuerunt occurrere, horrenda maleficia si-
+mul miranda quedã exhibere.Sed aliter malefi-
+ciae atque aliter Necromantici daenonum inuocatio-
+ne mirandos prouocant effectus maleficae quodam
+professionis genere subiiciuntur daenonibus, quo-
+rum ministerio aerem turbant, tempestates susci-
+tant, fruges deuastant, homines iumenta infir-
+mant, agunt cum daenonibus spurcissimae volup-
+tatis foeda commertia eos perniciosis carmini-
+bus quod voluerunt ab inferis reuocant in aspectũ.
+Harum facta non miracula sed potius maleficia di-
+cenda sunt extremo supplicio meritò punienda.
+Necromantici verò non professione manifesta, sed
+implicita conditione daenonibus ostensione
+characterum, sed aliam sacrificijs, fumigijs votis
+ad circulum visibiles compellere pollicentur. Ho-
+rum infinita sunt scelera, quoniam in consortium
+daenonum vel implicitè, vel explicitè omnes con-
+spicere manifestum est. Quamuis autem Necro-
+manticinon omnes vel arte vel opere sint pares,in
+perniciem tamen propriam damnabili curiositate
+omnes
+
+30 IOA. TRITEMII OCTO QVAEST.
+omnes sunt concordes, qua daemonum suffragio
+cupiunt assequi, quod natura lit nequeunt inue-
+nire. Omnia eorum et opera volumina super-
+stitionibus impietate sunt plena, ob id procul
+â finibus creditium exterminanda. Magna incan-
+tatorum Necromanticorum in Oriente multi-
+tudo est, qui suis praestigiis humanum genus mi-
+ferabiliter decipiunt, penè totam Asiam ma-
+iorem minorem â fide Christi dum ad auerte-
+runt. Tribus modis fieri praestigia possunt, ministe-
+rio daemonum, operatione naturae, deceptio-
+ne artis humanae. Miracula infidelium verò isto-
+rum fieri modo nullus dubitabit verus Chri-
+stianorum. Vbi radix ponitur determinata operan-
+tis. Sunt autem hodie complures inter Christia-
+nos daemonum operibus dediti incantatores, ma-
+lefici reprobi circa fidem qui multos nimia cu-
+riositate decipiunt suis artibus impossibilia
+promittunt.
+Implicatione vero daemonum quandoque fiunt
+miranda: quotiens videlicet homo non satis re-
+ctè in fide firmatus aliquid operatur vel optar
+aliter quam decet Christianum, etiamsi nullum
+credit esse peccatum. Quod cum fieri non de-
+beat, nihil ominus Diabolus se intromiscens
+optatum plerumque praestat effectum. Tale namque
+est illud, quo spaematici plerumque vtuntur: In
+die sancto paraceues annulum cuiuscunque me-
+talli sub officio fabricant, quem semper postea
+in digito cordiali portant. Vanissima sunt haec,
+nulla penitus radicem veritatis habentia. Atta-
+men vidisse me quosdam eadem cura- tos â
+A
+tosâ spa
+herbis fo
+constr,
+rum appr
+vidi, a
+effectus ÷
+num mi
+mium cō
+figuris,
+confide
+fępe o
+meriti
+potius
+mē du
+generi
+mortali
+bus imp et amp; occu
+etende
+cunque
+tibus,
+sanc̄
+Chri
+iora
+varie
+impul
+contu
+denne
+sunt l
+omnīs
+perfida
+quorum
+del va
+ban.
+
+[segment 19]
+AD MAXIM. CAESAREM
+tos a spasmo negare non possim. Item verbis et herbis fortisimis quodam aperuiffe feras mihi constat, quod neg; Dei virtute, neg; violenția rerum appofitarum exiftimo factum. Innumera quae vidi, & audivi possim introducere similia, quorum effectus manefi quid alhid, quam quaedam damo num miracula sunt denig; nonulli homines ni- min curiosi qui characteribus schedulis, annulis, figuris, monilibus, & vocabulis ignotis fidei et confidentiam pertinaciter adhibentes mirandos sapè confequuntur effectus, quos neg; sanctitas merito, neg; Dei conceffos miferatione, fed persida potius credulitate subminiftraffe diabolum mini- mè dubiramus. Daemones enim maximam humani generis inuidiam habentes, vt animas perdant mortalium, libenter occurrunt vanis operationibus impiorum. Quid nam sunt alhid characteres et occulorum interpretationes nominum, quam efculenta quaedam et potagia daemoniorum? Qui- cunque characteribus mirabiles effectus promitten- tibus, fidei adhibet, & fidei Chrifti et Ecclesiam sanctorum implicite negauit. Heu quor hodie Christiani, quot cleri, quot facerdotes (vt ma- ioribus parcam) superfitionibus et multis et variis vtuntur in actionibus quotidianis, quibus implicatas daemonum, sequuntur pastiones, in contumeliam Chriftiana fidei et propriam con- demnationem. Et quia haec mala iam nimium funt inter Christianos multiplicata, retraxit omnipotens manum, & tradixit eos in distio- nem perdiforud vt exaectores poenarum illos feniant, quorum imitatione non Deo viuo et vero, fed vanis superfitionibus pertinaciter militabunt.
+Suppo-
+3: IOA, TRITEMII OCTO QVAEST.
+Suppositione autem daemonum miranda fieri manifeste cognoscimus si diligentius veritatem inquirimus. Iudzini namq, Seraceni, Pagani sue gentiles qui non credunt in Deum Dominum nostrum Iesum Christum, si qua faciunt miracula, non Dei virtute, non angelorum ministerio, non sanctitatis merito, fed daemonum credimus suppositione facta. Nam quotiens omnipotentem Deum, in cuius vigenitum filium non credunt, pro aliquius mirandi effectus miferatione inuocant, iuens diabolus, quid non est peccatoribus falsus, & quia non exaudit altissimus peccatores infideles, vreos in errorib. conferunt. pertinaces, fe occulte pro Deo inuocato applicat, & fi potefi, permittente domino, quod postulatur orribus praefat. Hac diabolus suppositione tanto, liberius vitur, quanto minus a fide Christi et Ecclesia sacramenti simperditur. Manet enim ira Dei super omnes infideles, qui non credunt in eius vigenitum filium, & fuit in potestate diaboli. Ac ideo fe inuocatibus, ingreit in loco Dei. Vnde in suis errorib, obecati Dei innocens, in cuius filii no credut quos in ira manetis audire cui deficit, falsus miraculorur operator diabolus accedit. Credunt ergo iudificationibus diaboli, qui credere cotemunt veris miraculis Dei. A daemonib. falla miracula suis coenientia errorib. accipunt, qui veritatem, id est, Christi, sequi credendo no luerit. Multi fuit apud infideles, qui vnu Dei creatorum omnium colentes, idola non adorant et firmiter credunt in sua fe fide faluandos. Veru quia mysterium dominice incarnationis credere deficiunt, manet super eos ira Dei, & in suis fatuitatis bus euaneunt, exiftantes si Deum esse proximum, in quem non recte credunt fubliciturunt daemon.
+
+[segment 20]
+AD MAXIM. CAESAREM.
+nibus, quorum falsis miraculis fidem adhibentes in suis errorib. mendacio confirmantur. Cuius rei si-
+militudinem introduxisse ô Caesar non pigeat: E-rat homo quidam custos porcorum qui schedulam bacillo incluserat nomen diui martyris Blasij continentem, cui tantum fidei detulit, baculo in me-dio gregis terrae affixo, lupum ab accessu prohib-itum crederat omnem. Hac stulta confidentia per longam experientiam tandem roborata, ibat homo securus quocunque volebat, dimittens sine periculo in nemore porcos, cum luporum iam nullus habe-ret accessum, contigit pertransire videntem ab-sente pastore, qui cernens daemones custodiam habere gregis dixit ad eum, quid miser hic agis? qui respondit, istos custodio porcos, at ille, quis tibi curam porcorum commisit? iterum respondit: stulta confidentia pastoris, nam schedulam quan-dam bacillo inclusam magnae putatesse virtutis, qui Blasij cuiusdam meritis lupi arceantur â portis, su-am peccauit in legem nostras sequitur vanitates, verum quia inuocatus non comparet, ego, ne ho-mo confidentiam suam amitteret porcos eius cu-
+stodio, me pro Blasio libens suppono. Ita inquit mortales vanis coniurationibus nos molestant, vt nisi velimus aestimationem nostri honorem a-pud eos perdere omnem, necesse fit eorum inuoca-tionibus stultis plerumque occurramus. Huius simili-tudine facti daemones miseros infideles decipiunt, miracula quae orantes à Deo postulant, malignorum spirituum suppositione saepius af-se-quuntur. In his enim quae Dei vel cultum respici-unt vel honorem, libenter se daemones ingerunt, qui manifestos honores assequi nequeunt, occul-tis nimirum delectantur.
+C Simul
+
+34 IOA. TRITEMII OCTO QVAEST.
+Simul notandum, quod ab initio mundi nulli vn-
+quam religioni vel sectae principaliter excellenti
+defuere miracula; quamuis non omnia ex vno princi-
+pio sint facta. Nã quicquid miraculorũ in vera reli-
+gione factum est, non aliunde quam adeò factum
+est. Habuit enim lex naturae miracula sua, habuit
+lex scripta, habuit iam simul et gratia. Qui religio-
+nem dedit omnipotens Deus, ipse etiam miracula
+facit. In falsis autem religionibus vbi veritas non
+colitur, si qua fiunt miracula, non Deus sed diabo-
+lus operatur. Deus enim cum fit veritas, religiones
+falsas non instituit, & ideo suis miraculis nunquam
+mẽdacium illustrauit. Mahumet qui malo daemone
+plenus, falsam religionem instituit, non ex Deo,
+sed cooperatione daemonum falsis eam miraculis
+exornauit. Daemon etenim, qui causam dedit er-
+roris, etiam miraculum (occasione tamen accepta:)
+falsum potuit exhibere deceptis. Vnde si Mahume-
+to nouam religionem rudi populo persuadenti pe-
+nitus defuissent miracula, nemo ei forsitan adhibu-
+isset fidem. Ostendit enim et ipse tam subtilitate
+ingenij quam cooperatione diaboli quaedã miranda
+populis, vt nouam doctrinam nous quoque mira-
+culis confirmasse videretur. Paganis idololatris e-
+tiam non defuerunt miracula, si fidem historijs non
+negamus. Iudaei verò ante incarnationem filij Dei
+legem eius suscipientes per Mosen diuinis frequen-
+ter miraculis fuerunt illustrati. At verò post do-
+minicam resurrectionem euacuata lege Mosaica,
+qui non credunt in vnigenitum filium Dei manent
+sub ira indignationis eius, & cessauerunt ab eis om-
+nia miracula veritatis. Vnde si qua hodie miranda
+faciunt, daemonum sunt opera et manifesti indicia
+erroris. Maximè enim demonẽs studio inuihilant, vt
+cos
+
+[segment 21]
+AD MAXIM. CAESAREM.
+35
+eos homines, quos â via veritatis, que Christus est, se-
+mel fecerunt errantes, continuatione fraudis vsque
+ad mortem faciant in errore pertinaces. Enimuerò
+cum Deus gratiam suã in fidelibus iusta ratione sub-
+trahit, eorum deceptor malignus spiritus incogni-
+tus accedit, & qui longe salutem abesse cõspicit fal-
+sis miraculis quasi prope sit dominus mentes igno-
+rantium seducit. Daemonum igitur sunt opera quae-
+cunque infidelium miracula. Quoniam sicut extra v-
+nitatem Christianae fidei non est salus mortalibus,
+ita sine Christo non conceditur mirabilium san-
+ctissima virtus. Nunc etenim daemones insidijs lati-
+tantes trophaeo Christi dudum victi atque confusi, in
+aperto comparere vt ante incarnationem Domini
+metuunt, & ideo se apud infideles probonis spiriti-
+bus mendaciter ostendunt.
+Sunt etiam qui praescriptis tribus modis adiici-
+unt quartum, dicentes mentem siue spiritum ipsius
+hominis posse naturaliter miranda facere, modo sci-
+at se ab omni aduentitio in seipsum supra sen-
+suum in vnitatem reuocare. Pollicentur enim qui
+talium a struunt naturae mirandum facere, futura praedi-
+cere, secreta hominum pandere, morbos auferre et hominem subito consilia immutare. Sed iste mi-
+raculorum modus non potest esse simpliciter natu-
+ralis, certus, communis, & infallibilis, quoniam si verus
+est, quod ego nõ su expertus, necesse est eiã aliquid
+externae potestatis occurrere, & vel angelum bonũ
+vel spiritũ malignum cogitantẽ in parte occupare.
+Si autẽ nihil exterrarũ virtutũ se intermiscet neccesse
+est vaticinantẽ vel ex coniecturis vel ex audaci prę-
+sumptione loquendi formare principiũ, & aliquã-
+do verũ, aliquando falsũ ꝓnunciare iudiciũ. Enim-
+uerò quamdiu versatur in corpore spiritus, nihil natura
+
+6 IOA. TRITEMII OCTO QVAEST.
+naturaliter intelligit sine ministerio sensus. Vnde non obniterer penitus, si confusum et rudem intellectum nõtrum pari concedant ministerio adiuuari. Cernimus enim in his qui plerumque amoris interni ad Iesum desiderio carnis modum contemplantes excedunt â terra sursum leuatos in aẽra, quos non sua dunctaxat acie mentis, sed diuina nihil ominus virtute pondus exedere corporale putamus. Tria igitur memorata opinionis principia incognita multis satisfaciunt mea sententia paucis, vt mens in corpore posita rem dico expertam. Cum profequerer adolescens studia literarum, in vno lecto quatuor eramus nocte quadam dormientes, furrexit è latere meo coaevus et dormiens vt solebat in somnis oculis clausis et luna introlucente quinta decima, quasi vigil circumambulabat, ascendit muros, & ciurum agilitate sua vincebat, lectum quoque secundo et tertio sopitus transcendit, caleauit nos pedibus omnes, nec magis sensimus pondus, quam simus nos contigisset exiguum. Quocunque dormiens corpus mouebatur subitò ianuarium omnes vltra aperiebantur clausurae. Altiora domus, aedificia velocissimè penetrauit et more passeris hęrebat in tectis. Visa loquor nõ va ga relatione audita. Haec animae nõ corporis videtur officia, quae sua naturali potestate, vt ita dixerrim, quasi liberè vtitur, quando ligatis sensibus carnis extra domicilium corporis euagatur. Sed cum non fit propositae quaestioni, materia ex omni parte conueniens, de causis horum mirabilium in aliud
+D
+D
+
+[segment 22]
+E S T.
+Vnde tem in-
+terio ad-
+amoris contem-
+naera,
+na ni-
+le pu-
+ncipia
+aucis,
+e pro-
+dicat
+orale o con-
+rtàm.
+m, in-
+mièn-
+vt fo.
+na in-
+ambu-
+a vin-
+s tran-
+magi-
+ffer en-
+atur fu-
+clausu-
+tretrant
+or nõ va
+viden-
+ta dixe-
+r. Sed
+omni
+num in
+aliud
+AD MAXIM. CAESAREM. 37
+aliud tempus remittamus tractatum. Haud enim
+credimus ista miranda sapientibus qui mentis hu-
+manae virtutem et nobilitatem optime intellexe-
+runt, vtpote quae solo corporis interiectu remora-
+ta, de aliquo par angelis aestimatur. Fascinationum
+denique et varios modos pertransimus et genera, qui-
+bus ad externa furiosus valde mirandos operatur
+effectus. Multa etiam potest ad producendos mira-
+biles effectus fortissimae confidentis imaginatio,
+fiue in verum, fiue in aestimatum obiectum.
+Vnde cum tot sint operandi miranda, & genera et modi non est mirandum, si Iudaei, Saraceni, pagani,
+gentiles, ac reliqui extra fidem Christi constituti
+quicunque infideles, qui facere miracula per publi-
+cam iustitiam nequeunt, miranda vel daemonum
+suffragio vel artificiosa industria committunt. Nec
+me fugit pari quidem ratione miracula sanctorum,
+impugnari ab impiis, qua si non virtute Creatoris
+fiant, sed potius implicatione vel suppositione
+diaboli. Quisquis Christianã fidem solam veraciter
+credit esse veram, omnium infidelium miracula
+cooperatione daemonum non dubitat esse patrata.
+Si quis verò contrarium temerè et pertinaciter sen-
+ferit, infidelem se non Christianum ostendit.
+DE SCRIPTVRA SACRA.
+[QVAESTIO QVARTA.
+[unclear]
+VARta verò Serenissimae Maiestatis tuae
+quaestio fuit ista. Quare omnipotens Deus
+Scripturam sanctam, tam Noui quam Ve-
+teris testamenti mysteria sidei nostrae continentem,
+C3 non
+0 1 2 3 4
+Gray Scale
+
+38 IOA. TRITEMII OCTO QVAEST.
+non dederit apertam manifestam, in omnibusque vni-
+formem et amp; palam ad omnia sufficientem: Sed inuo-
+lutam potius et amp; in multis locis aenigmatibus plenam.
+Multa enim ad perfectionem fidei sunt necessaria
+quae in diuinis scripturis non reperiuntur sufficienter
+expressa.
+Ad hanc maiestatis tuae sacratissimae quaestionem
+videtur respondendum, omnis scriptura diuinitus
+inspirata perfectum diuinitatis est opus, ante tem-
+pus omne ordinatum praeordinatum, in tempore
+scriptum, non secus quam Deus voluit, qui vt scri-
+beretur hominibus inspirauit. Dei enim omnia per-
+fecta sunt opera: Ideoque cum scriptura, de qua lo-
+quimur, Dei fit opus: Necessarium est eam in omni-
+bus confiteri perfectam. Summus etenim arbiter
+Deus, cuius omnia perfecta sunt opera, sicut voluit et amp; quem voluit scripturis suis ordinem contulit, &amp;
+excipientibus illas quemadmodum scriberent pro-
+cul dubio infudit. Sacrae nãque scripturę tantam om-
+nipotens Deus authoritatem et amp; maiestatem contu-
+lit, vt in eius comparatione omnia huius mundi vo-
+cabula deficiant, cum diuina humanis propriè ne-
+queant comprehendi sermonibus, Diuina igitur
+scriptura quę superficie verborum nescientibus ap-
+paret confluâ, scientibus eam videtur manifesta,
+quoniam nisi legatur illo spiritu, quo influâ homi-
+nibus creditur, ad eius intellectum minimè perue-
+nitur. Aliter eam legit doctus, qui carnis embracu-
+lo ac vanis desiderijs aestuat, &amp; aliter intelligens,
+quem exutum voluptatibus, amor Dei veraciter in-
+flammat. Vnde mirum non est, si homines carnali-
+ter sapientes diuinas scripturas non intelligent, qui
+carnis voluptatibus obcecati Dei spiritus dulcedi-
+nem
+nem
+ro pri
+hibea
+libelle
+ram, i
+bin.Pa
+rum s
+piente
+vicips et amp; in
+non
+passi
+ne be
+Surgy
+vitz f
+runt, j
+quam
+nuclae
+tiua
+tuin
+men
+hab
+ver tū
+ruo
+scrip num
+nis,c̃e
+Papa mõdi
+qvon tum modi mylɔ nulo
+
+[segment 23]
+AD MAXIM. CAESAREM.
+nem, nunquam perceperunt. Quemadmodũ si pue-
+ro prima literarum elementa discenti, volumen ex-
+hibeas quodcunque scriptùm, cuius character suo fit
+libello dissimilis, cum legere nequiuerit scriptu-
+ram, ilico malam non rectè formatam exclama-
+bit. Parì modo ad lectionem diuinarum scriptura-
+rum accedentes homines, carnaliter duntaxat sa-
+pientes, que ea qui diuini spiritus sunt non capiunt,
+vicijs temeritate grauij, cum suam ignorantiam
+indignitatem culpàre debuissent, scripturas quas
+non intelligunt sanctas repraehendunt. Non enim
+pasim õnibus diuinas licet interpretari scripturas,
+ne bestia, contingens montẽ, lapidibus obruatur.
+Surgunt nunc ordine praepostero plures, qui omne
+vitae suae tempus in literis humanitatis consumpsē-
+runt, seniores facti diuinas scripturas, quas nun-
+quam didicerunt, perperam interpretantes, non e-
+nuclarent sed confundunt in proprio sensu discu-
+tiunt. Vnde quicunque sacras scripturas non eo spiri-
+tu intelligunt, quo scribentibus sunt infusa, vela-
+men ignorantiae temeritatis super cordibus suis
+habent, more Iudaeorum expanse, inde saepius
+venenum pernitio si erroris hauriunt, vnde in spiri-
+tu accedentes Dei humiles salutis poculum accepē-
+runt. Non enim habetur doctrina caelestis in verbis
+scripturarum, sed in sensu, non in superficie sermo-
+num, sed in intellectu, non in folijs ornatae oratio-
+nis, sed in occulto mystice inspirationis. Hinc diuis
+Papa Gregorius, sacra inquit scriptura omnes huius
+mũdi scientias more locutionis suae lõgè transcẽdit
+quoniam in uno eodemque sermonem dum narrat tex-
+tum, occultum prodit mysterium, quemad-
+modum simplices superficie refouet, ita sapientes
+mysterio exercet, habet enim in publico vnde par-
+nulos nutriat seruat in occulto, vnde mentes
+C4 subli:
+
+40 IOA. TRITEMII OCTO QVAEST.
+sublimium in admirationem dulcedinis suspendat,
+quasi fluuius quidam mirabilis in quo et agnus sim-
+plex paruulus ambulet elephas magnus natet.
+Et S. Augustinus super Genesin dicit: Sic diuina lo-
+quitur scriptura, vt altitudine sua superbos irri-
+deat, attentos profunditate sua terreat, magnos vir-
+tute pascat, sua paruulos affabilitate nutriat. Ma-
+ior est enim sacrae scripturae autoritas, quam fit om-
+nis ingenij humani perspicacitas. Propterea quate-
+nus ad earum verum intellectum perueniatur, in-
+primis purgandus est ab omni affectione carnali a-
+nimus, implorandum sedulò cum humilitate diui-
+nae bonitatis auxiliũ, vt suo illuminet spiritu discẽ-
+tis intellectũ. Autoritati namque diuinarũ scripturarũ
+omnia colla subdenda sunt potestatum. Et sicut diu-
+us inquit Hieronimus, nunquam fic adulandum est
+homini, vt sanctarum scripturarũ veritas negliga-
+tur, quae tota in vtroque testamento in narratione
+gestorum est vera, in monitionibus recta, in pro-
+missionibus certa, in comminationibus terribili-
+ter metuenda. Quocirca non omnibus datum est
+posse diuinarum scripturarum penetrare mysteria,
+sed illis duntaxat vtcumque permittitur quibus a-
+mor continuat studium, Dei spiritus purgatis
+mentibus verum confert intellectum. Quisquis au-
+tem caligine viciorum est sordidus, quisquis men-
+te tumida incedit superbus. Quisquis de veritate
+scripturarum Dei vel in parte vel in toto dubitat
+nunquam ad earum intelligentiam se posse pertin-
+gere confidat. Dicit enim ipsius auctoritas scriptu-
+rae quod nisi credideritis non intelligetis. Nostri
+est tarditas ingenij, nostri quoque impuritas desiderij
+quoties diuinas scripturas non rectè intelligimus,
+quando videlicet velamen pernitiosae occupationis
+super
+
+[segment 24]
+AD MAXIM. CAESAREM.
+super cordibus nostris manet expansum quod non
+finit nos ad verum peruenire intellectum. Hinc fit
+quod sensum quē spiritus sanctus diuinis scripturis
+infudit, non intelligimus, fed nuda scribentiē ver-
+ba capientes in alium sensum retorquemus. Enim-
+uero, fi mentes nostrae à viiciis essent purgatae carna-
+libus fi per continuum fobrietatis studium, ingeni-
+um excitaretur in scripturis, adhiberetur creduli-
+tas et reuerentia, quam dignitas requirit, luce cla-
+rius intelligeret omnis studiosus, nihil facris le-
+ctionibus inesse confusum, nihil diffonnum, nihil
+inconueniens, nihil absurdum aut fine iustifsima
+ratione infertum. Omnia fiquidem diuinae loca
+scripturae fun plena mysterijs, & quotiens aliquid
+in eis videtur obscurè positum, diuina est proui-
+dentia factum, quatenus et studiofa mens neceffariū
+habeat pietatis exercitium, & fides simplicium de-
+bitae reuerentiae non amitteret locum.Non igitur a
+cafu, fed prouidentia fempterna scripturas fanctas
+in multis locis voluit effe obfcuras, quatenus tot a-
+bundaret myfterijs, quot fenfibus infpirante Dei
+spiritu Catholicè à doctoribus explanatur. Nam vt
+facer inquit Auguftinus, diuinae scripturae
+obfcuritas, vtilis est et multum proficua, pro-
+pterea quod plures sententias veritatis parit et in
+lucem producit hominibus, quia cum alius hunc a-
+lius vero alium fensum Catholicè eam exponendo
+eruit, quam fit alta et profunda innotefcit. Vnde
+non existimet homo feculari litteratura tumidus
+quod facram scripturam intelligat, nisi prius velo-
+men fuperbiae et omnis inordinatae concupifcentie
+deponat. Secularis enim litteratura magis valet ad
+exercitandum ingenium, quam ad illuminandum
+ad veram sapientiam intellectum. Eft ergò fine du-
+bio C5
+
+42 IOA. TRITEM II OCTO QVAEST.
+bio scriptura diuina purgatis mentibus per conti-
+nuum exercitium diuini timoris &; frequens studi-
+um lectionis, &amp; manifesta et amp; lucida, quae sordidis et seculari sapientia confusa videtur et amp; obscu-
+ra. Vnde scripturas sanctas ille bene et amp; recte intelli-
+git, qui affectione purgata, in earum studio fre-
+quens sic eas exponit sicut ille qui scripsit. Nã si alio
+spiritu legantur, quá illo qui eas vt scriberentur in-
+spirasse creditur, necesse est quod mens â vero intel-
+lectu penitus arceatur. Cum verò dissonantiam in
+eis aliquam offendimus nõ sensuum sed verborum
+esse duntaxat intelligamus, quae non à casu sed pro-
+uidentia Dei ordinante nascitur, vt mens in scri-
+pturis(ne torpescat omninò) exercitata diutius ro-
+boretur, Dei namque consilium falli non potest, sed
+diuinae scripturae consilio voluntatis eius sunt scri-
+ptae sequitur necessario quod sint verae et amp; nullate-
+nus falsae. Homines fuerunt â quibus diuinae nobis
+seculari sapientiae dediti scripturas di-
+uinas dicite, Noui ac Veteris testamenti, quá vt ve-
+ram authenticã et amp; sanctam Christianorum suscepit et amp; veneratur scripturâ ecclesia, vnde suscepta cre-
+ditis, ex Deo an ex hominibus? Si ex Deoquare vos
+ei non creditis? Omnis enim qui scripturam impu-
+gnat quá ex inspiratã credit, diuinae ordinatio-
+ni manifestissimè resistit. Si autem ex hominib. est,
+quarẽ vos promissam in ea salutem speratis aeternã?
+quam homo dare non potest. Nisi forsitan pergatis
+dicere insani conficta omnia, &amp; nihil restare post fa-
+taquam cineré, mētemque simul cum corpore subire
+interi-
+
+[segment 25]
+AD MAXIM. CAESAREM 43
+interitum, quae profefsio non minus vos infanos de-
+monstraret quã fatuos.Nam si in Dominũ nostrum
+Iesum Christum vnigenitũ filium Dei veraciter cre-
+ditis,inspiratas à spiritu sancto diuinas scripturas
+necessario dicetis, quod si facti cum Apostatis in re-
+probum fensum conflictas ab hominibus dixeritis,
+quam longè fitis à sapientia vera, in tenebris erran-
+tes, impiè demonstratis, imperitos &; temerarios
+iudices vos esse palam ostenditis, qui scripturam,
+quàm non intelligitis, condemnatis,verum quia fa-
+miliarius est vobis sapientiam contemnere, quam
+discere,non est huius operis contra temeritatem
+imperatorum diutius mentem fatigare. Hoc vnum
+vos scire volo, quoniâ nemo intelligit, nisi qui ac-
+cipit,fed quia vos ne accipiatis, fordes affectionum
+interponitis propterea intellectû verae sapientię nó
+habetis.Omnipotens etenim Deus illis per gratiam
+illuminator adesse dignatur, qui carnalibus exuti
+desiderijs, interni amoris flagrant incendio, qui
+propter Deum nihil cupiunt in hoc mundo. Illis
+Dei spiritus praesentia sua fert opem, quos in amore
+veritatis radicatos inuenerit, &; purgatos ab omni
+aduentitio in cognoscentiam omnium introducit.
+Vere namq́; diligentibus Deum omnia funt aperta
+omnia nuda, omnia manifesta, quoniam quisquis
+per amorem,in fide Iesu Christi omnia creantem
+&; gubernantem conspicit,vniuerfa quae funte i ad
+salutem necessaria cognoscit.At verò cõtra ab igna-
+uis, improbis,epulonibus, inuidis,auaris, incubo-
+nibus,fordidis,luxoriofis,homicidis,impifs,super-
+bis &; à pietate alienis, procul admodũ habitat illu-
+stratio.Dei,permittẽs eos daemonis vltoris arbitrio,
+qui soeui ignis acumé incutiens fensus affligit &; mẽ-
+tem, magifq́; ad patranda scelera impios armat et impel lit
+
+44 IOA. TRITEMII OCTO QVAEST.
+impelli, vt turpioris culpę rei, acriori quoque suppli-
+cio fiant obnoxij. Vnde viciis desiderijs implicati
+mudanis nò solum scripturas diuinas intellectu pe-
+netrare nequeunt, verum etiam semetipsos negli-
+gentes non agnoscunt. Cum ergo scriptura sacra
+perfectum fit Dei opus, fic mentem confirmemus
+Caelar oportet, quatenus eam credamus veram, re-
+ctam, integram, solidam, diuinitus inspiratam omnibus ad Christianae fidei confirmationem intel-
+ligentibus abundantissimè sufficientem. Enimuerò
+nisi diuina scriptura, vera, sancta, perfectaque in om-
+nibus credatur integra, fundamento suo fides
+priuaretur Christiana. Cauendum est ergò maximè
+omni Christiano ne plus quam expedit diuinas dif-
+cutiendo scripturas terminos egrediatur pietatis,
+quia non homo auctor est scripturarum, sed spiri-
+tus sanctus cuius ordinationi refistere conuincitur,
+quisquis integritati scripturarum Dei reluctatur.
+Est autem scriptura (ordinante Deo) parabolis, ae-
+nigmatibus, similitudinibusque cõparationibus v-
+tiliter intexta figurarum, quatenus legentes exerci-
+tentur ad intelligentiam, interna dulcedine
+gustata, mens confirmetur ad pietatẽ. Itaque si pu-
+rificatis mentibus fensum attendamus scripturam̃
+non verba, intelligemus quam rectè propriè om-
+nia fint ordinata. Non enim decebat facras scriptu-
+ras, in quibus cognitio diuinae traditur maiestatis,
+vsque adeò plenas esse manifestas, vt passim intel-
+ligerentur ab omnibus que bonis intelligenda dun-
+taxat proponitur sanctis nō etiā malis fordidisque
+mentibus atque pollutis. Hinc etenim scriptum est:
+bestia quae tetigerit montes lapidibus obruatur.
+Quid hic designatur per bestiam? nisi homines imi-
+tatione brutorum fine Dei amore viuentes in vo-
+luptatibus
+
+[segment 26]
+AD MAXIM. CAESAREM.
+45
+luptatibus carnis. Et quid per montem exprimitur,
+nisi diuinarum altitudo scripturarum.Accedens ad
+montem hunc sanctum bestia lapidibus obruitur,
+quoniã homo mẽte impurus , aut circa fidem infir-
+mus, qui altitudinem scripturarum diuinarum ri-
+mari sine tradente magistro nititur, varijs &; perni-
+ciosis erroribus quasi lapidum ictibus vulneratur.
+Nam sicut omnia munda sunt mundis, ita prophana
+videntur cuncta prophanis. Posuit ergo Deus lati-
+bulum suum altitudinem scripturarum quae sic in-
+accessibilis, &; clausa est reprobis vt tamen sem-
+per manifesta pateat sanctis.
+Quare autem omnipotens Deus scripturam san-
+ctam ad omnia, quae fidem respiciunt Christianam,
+non dederit sufficientem &; manifestam, breuiter
+respondemus. Duo sunt, quae ad confirmationem
+fidei Christianae altissimus prouidit credentibus,
+Ecclesiam videlicet &; scripturam, vt quod in altera de-
+claretur.Vnde si quid in scripturis sanctis circa re-
+gulas fidei minus sufficienter inuenimus expressũ,
+mox recursum habemus ad Ecclesiam, Et vbi Eccle-
+sia in formatione salutari opus habet ad pietatem
+illico se confert ad scripturam. neque
+fine scriptura haberet Ecclesię autoritatem, neque si-
+ne Ecclesia fidem scriptura, vt duorum fiat senten-
+tiavna.Augustinus enim dicit: Euangelio non cre-
+derem, nisi auctoritas Ecclesię me compelleret.Io.
+annes autem Gersonensis dicit: Ecclesię non crede-
+rem, nisi Euangelium me compelleret.Confirmat
+autem scripturam santam Ecclesia, &; ipsa confir-
+matur pariformiter â scriptura,Ecclesia abundat
+quoties scriptura deficit.Et si quando Ecclesia du-
+bitat,ad scripturae consilium recurrit.Vnus enim est
+
+46 IOA. TRITEMII OCTO QVAEST.
+est Dei spiritus sanctus, qui in fide Iesu Christi
+fundauit Ecclesiam, ipse idem omnipotens qui so-
+lus inspirauit scripturam. Et hic est funiculus tri-
+plex, qui non facile rumpitur, vbi scriptura diuina
+per spiritum sanctum authoritate Ecclesiae copula-
+tur vsque adeo vt Ecclesia scripturam, & scriptura
+rursus commendet Ecclesiam. Causam itaque vt mi-
+hi videtur ad propositam quaestionem inuictae ma-
+iestatis ô Caesar sufficientem assignauimus. Quo-
+niam si omnia in scripturis sanctis essent manife-
+ste expressa, quae pietatem fidei respiciunt, non vi-
+deretur tantae authoritatis sapcta mater Ecclesia, &
+euacuaretur magna ex parte meritum obedi-
+entiae salutaris. Simul ad principalem quaestionem
+satis puto responsum, vbi quidam existimant,
+scripturam sacram in plerisque locis esse confusam et amp; imperfectam, quam tamen, si debita mentis pu-
+ritate legerent, inuenirent vtique perfectam et amp; so-
+lidam. Authoritas Ecclesiae Catholicae magna est,
+quae sola in his quae fidem respiciunt in dubijs ha-
+bet interpraetari scripturas cui omnium subiicien-
+da sunt colla potestatum â cuius diffinitione si quis
+ausu temerario discesserit, Euangelium Christi ne-
+gauit. Vna est fidelium congregatio mater Christia-
+norum, Ecclesia sancta, extra cuius vnitatem nemo
+saluabitur, quae etsi in moribus quandoque vi-
+deatur infirma, tamen fide semper con-
+stans nunquam errauit Christi
+pietate salua.
+* * *
+DE RE-
+
+[segment 27]
+AD MAXIM. CAESAREM 47
+DE REPROBIS ATQVE
+MALEFICIS.
+QVAESTIO QVINTA.
+QVinta Serenissimae Celsitudinis quaestio
+fuit ista. Quare homines impij, mali et amp;
+reprobi circa fidẽ, vt sunt ille mulieres, quas
+vulgo maleficas nuncupamus, spiritibus queant im-
+perare malignis, cum viri boni et amp; fidei Christiana
+studiosissimi obseruatores neqꝫ bonis spiritibus impe-
+rare possint, nec semper malignis?
+Ad hanc quaestionem ita me pridem memini re-
+spondisse: In omnibus, diuinae maiestatis operibus
+series et amp; ordo pulchritudinis est immobilis aequita-
+tis, quo singula conuenient er disposita in eo, quem
+acceperunt gradu perfeuerant. Nam sine ordine
+proprio nihil subsistit, in mundo in hoc ordine li-
+bertas arbitrij, quam Creator omnibus dedit homi-
+nibus nulla impellitur violentia potestatis, quo mi-
+nus semper maneat in ordine, quem à principio
+creationis sua homo primus accepit. Vnde nemo
+bonus inter mortales nisi propriae consilio volun-
+tatis adiutus per gratiam miserentis Dei, &amp; nemo
+malus sua sponte gratia destitutus propter obstacu-
+lum peccati. Voluntatis autem rectitudine bonis
+spiritibus efficimur similes, si pietatem fidei quam
+habemus in Christum sanctis et amp; necessarijs operi-
+bus comprobemus. Et sicuti boni voluntatis con-
+summatio bonos homines spiritibus pares facit an-
+gelicis, ita peruersitas impiorum eos similes red-
+dit demonibus. Vnde mali homines atqꝫ peruersi,
+quanto amplius malitia propriae voluntatis depra-
+uati
+
+48 IOA. TRITEMII OCTO QVAEST.
+uati fueri nt, tãto fiũt demonibus affectu similiores.
+Similitudine verò amicitiae familiaritas introduci-
+tur, ex qua paulatim cõfidentia mutua generatur.Ex
+cõfidentia minoris in maiorẽ nascitur imperium,
+siue sit verum siue astutia simulatum. Prauorum
+itaque hominũ si quod imperium esse videtur indae-
+mones ex magnitudine prauitatis oritur: quando
+videlicet affector eorum vsque adeo deprauatur,
+quod concurrentium sibi daenum maliciam
+voluntate reproba vel superant vel aequant.
+Non enim sunt daemones omnes malicia vel
+intelligentia pares, sed est alius alio multum et a-
+stutior agilitate intelligendi, deprauata affectio-
+ne longe deterior. Nam qui labentes à sedibus altis
+terrae magis coniuncti cauernas speluncasque inhabi-
+tat caeteris profecto sunt obtusiores, vsque adè qđ
+gladios metuant, virgas minifque moueri viden-
+tur territantium hominum. Quemadmodum in
+his contueri licet, quod energumenos appellamus.
+Daemones autem qui magis remoti commorantur
+â terra, subtiliores sunt natura, rarius conue-
+niunt hominibus. Homines verò malicia pleni
+quanto magis in voluntatis peruersitate perfec-
+r̃t, tanto fiunt similiores daemonibus, â quibus in
+familiaritatem admissi, iam deinceps efficiuntur
+audaces, accipiuntque super daemones, quorum fa-
+miliaritate vtuntur imperium, non violentae simulatio-
+nis.Daemones enim vt eos
+homines quos femel in deditionem acceperunt, vo-
+luntarios in eorum prauitare contineant, simulata
+se dominatione motos libenter se illis sibiiciunt,
+quod spontẽ faciunt, quasi compellantur ado-
+bedientiam fingunt. Nemo quippe verũ suꝑer dae-
+mones imperium consequitur, nisi quem fides in
+dominum
+Dominus meritus
+enim de
+pruera diaboli
+li, quos
+lixaret et
+Quemã
+contingere
+diuturnam
+tur, à qđ
+ctione
+quam si
+hominibus
+rum ad
+ctiores
+mulieribus
+quod pueri
+vndulentia
+plicatores
+acceptabit
+sustare probabilem
+dumque
+quo modo
+homines
+demons
+vulgus
+Duodecim
+petrarcana
+Petrarcha
+tito filius
+cultans
+testis est
+
+[segment 28]
+AD MAXIM. CAESAREM.
+Dominum nostrum Iesum Christum per sanctitatis meritum fecerit Deo acceptabilem et amicum, sic enim de vere credentibus in Dominum Iesum scriptura dicit: Et eis dedit potestatem super omnia demonia. Imperant ergò démonibus homines mali, quos illis malevolentia similes; similúdo familiares et familiaritas proprios fecit atque subiectos. Quemadmodum si magno principi (quod fieri saepè contingit.) seruorum quispiam humili natus loco diuturna familiaritate coniunctus imperare dicatur; quo totum quod postulauerit sine contradictione assequitur, vt magis, ipse dominum regere, quam ab eo regi videatur. Iuxta hanc similitudinem homines mali et reprobi, qui à démonibus in eorum admittuntur familiaritatē et fiunt protractediore confidentia multum audaces, accipiunt simulatum in illos, ne dicam familiare imperium, quod prauissimae voluntatis similitudine meruerùt. Vnde quicquid â démonibus sibi ex cópacto implectio explicito concurrentibus expositione luctaverint accipiũt, nisi quoties ordinatione diuina prohibiti, p̃stare nequeunt quod petitur. Nec tamẽ passim reprobis et malis, ita occurrunt omnibus; sed illisduntaxat, cum quibus interueniente compacto aliquo foedera inierunt, vt sunt maleficae mulieres que homagium praestitere Diabolo: & inuocatores illidémonum quos visitato vocabulo Necromanticos vulgus nuncupat.
+Duò sunt genera hominum qui imperare licite possunt.
+Primum quidem illorum est hominum, qui meritō sanctitatis Deo dilecti potestatem ab ipsis conculcandi caput antiqui serpentis acceperunt, quales in Ecclesia primitiva fuerunt Apostoli eorumque sequantur
+D
+1024
+
+50 IOA. TRITEMII OCTOQVAEST.
+sequaces atque discipuli, de quibus in sancto Euan-
+gelio Dominus loquitur, in nomine meo daemo-
+nia eiicient et quia serpentes tollent.
+Secundum verò genus eorum est hominum,
+quibus ratione ordinis in Ecclesia Dei conceditur,
+vt daemones de hominum corporibus accepti pote-
+state ministerij depellant. Et hoc ministerium ex-
+orcistis in Ecclesia Dei committitur, quando vide-
+licet à Pontifice ordinantur.
+Rursus sunt duo genera hominum, qui daemo-
+nibus imperare cupiunt quod quam illicite praesu-
+mant iniquissimis condictionibus ostendunt.
+Primum genus pernitiofissimum est malefica-
+rum, quae pacta ineunt cum daemonibus, & profes-
+sione solemni praemissa in ius proprietatis perpe-
+tuumque obsequium daenonum alicui semetipsas
+tradunt. Quanta mala perniciosissum genus
+hominũ faciat in imperio tuo nemo est sapientissi-
+me Caefar qui possit exprimere. Nam Deum inpri-
+mis fidemque Christi et sacrum Baptisma negantes,
+se mente et corpore daemonibus offerunt, homines et iumenta suismaleficij infirmanit laedunt et occi-
+dunt. Non est morbus quem (permittente Deo)
+non possint inducere, quia cum se daemonibus in
+obseruatione compacti faederis famulatrices exhi-
+bent, illorum comparatione quicquid voluerint,
+audent. Vnde non sunt vspiam tolerandae, sed po-
+tius in loco omni funditus exterminandae omni-
+um cratoreDeo sic p̃cipiente: Maleficos nõ patieris
+viuere. Maleficarum aliae carminibus, daemones
+aduocant, aliae praecationibus et sacrificijs eos al-
+liciunt, reliqui nefandis rebus et ceremonijs eos
+prouo-
+
+[segment 29]
+AD MAXIM. CAESAREM 51 prouocantes in adiutorium impietatis suae trahunt.
+Mirandum igitur non est, quod maleficae daemoni-
+bus imperare videntur, quibus impieta te per-
+uerfae voluntatis factae funt fimiles, & mutua con-
+uerfatione in malum humani generis concordes.
+Secundum genus prauorum hominum daemoni-
+bus imperare volentium illorum eft, quos vulgo
+Necromanticos appellamus, qui artes profitentur
+execrationibus plenas, quibus pollicentur, fe dae-
+mones in circulum poffe conuocare, vel incry-
+ffallum fiue vas aliud inclufos palam vißbiles o-
+ffendere. Hi perniciofissimi homines pleni menda-
+cio et fuperfititionibus tanta committunt mala qũa-
+ta bonus nemo poffet excogitare.
+Nam vt in obfequium fibidaemones alliciant fa-
+crificiis turpiffimis plerunque vtuntur et expref-
+sum cum eis ineunt pactum, Multos variosque li-
+bellos circumferunt spurcitiis, impieta te ac men-
+dacio plenos, veterumque philofophorum et sapi-
+entum nominibus fallaciter infcriptos, quorum ex-
+hibitione incautos et curiofos plures decipiunt, ẽ
+in foueam daenonum fecum trahunt. Promittunt
+magna penitus incredibia, quorum auditione
+homines in admiratione mendaciter fuspendunt.
+Annulis, pendaculis, imaginibus, exorcismis coniurationibùs dicunt fe daemones poffe coarctare
+malignos vt in circulo vel incryffallo, feuafio
+receptaculo vißbiles appareant ad omnia inter-
+rogata diffinctè respondeãt. Hoc omnes qũide pro-
+mittũt, fed paucifsimi noftri temporibus inueni-
+untur, quibus maligni fpiritus etiam malis per hũc
+modũ obedient, Deo id iuftissima ratione non per-
+mittente, ne curiofitas hominum ad nouitates pro-
+na, con-
+
+[illegible]
+[segment 30]
+[illegible]IOA. TRITEMII OCTO QVAEST.
+daemones obediunt, sed illis duntaxat, quibus con-
+faederantur pactis &; obsequijs, &; quos aliter ne-
+queunt habere fideles, inuocati libenter occurrunt
+licet se compelli mentiantur. Mirandum itaque non
+est optime Caesar quod maligni spiritus prauis atque
+peruersis nonnunquam videntur obtemperare
+hominibus, quos sicut diximus, &; malevolentia
+similes &; pernicies ingenus humanum fecit esse
+concordes. Sed procul fit ab omni Christiano, pra-
+ua similitudine volutatis velle imperare daemo-
+nibus. Quoniam si quis in hac vita malignorum
+spirituum habere consortium coeperit, in futuro
+cum eis sine fine ardebit. Sed quare boni &; iusti
+homines imperare sanctis Dei angelis nequeunt in
+suorum similitudinem bonae voluntatis transie-
+runt. Puto ex praedictis facile quaestionis huius dare-
+tur solutio, si differentia intellectuum ad memo-
+riam reuocetur. Quamvis enim plures in Ecclesia
+Dei sint homines constituti, quorum iustitia mul-
+cis proficit ad salutem, paucissimi tamen vsque ad-
+eo nostris temporibus proficiunt, vt propter san-
+ctitatis meritum vel metuendi sint daemonibus vel
+in consortium familiaritatis recipiantur ab ange-
+lis. Hinc fit, quod homines nostrae tempestatis neque
+malignis spiritibus merito sanctitatis im̃erãt neque
+sāctis angelis familiares esse merētur. Si qui verò in
+illũ sanctitatis gradum profecerint, quo miracula
+facientes in Ecclesia, quemadmodum sancti quon-
+dam profecerunt, iam potenter &; imperare daemo-
+rum possunt, &; familiare beatorum spirituum
+habere consortium. Certum est enim quod sancti et amp; Deo dilecti homines in primitiua Christiano-
+rum Ecclesia maiora quondam bonorum coopera-
+tione spirituum beneficia praestitere mortalibus
+quam
+
+[segment 31]
+AD MAXIM. CAESAREM.
+quã prauorum hominum impietas dae-
+monum ministerio vnquam inferre potuisset. Mul-
+ta enim potest miranda praecantibus, quisquis Dei
+cultor verus, similis euaferit angelis sanctis.
+DE POTESTATE MA-
+LEFICVM.
+QVAESTIO SEXTA
+Extā iuictissime Maiestatis tuae Quaestio
+fuit: Vnde potestas hęc tanta maleficis
+qua patrare tam multa, varia &; miran-
+da poßunt, etiam in vna hora, qualia vel
+quanta nullus bonorum facere poßet in omni vita sua.
+Ad hanc quaestionem sibreuiter voluerimus re-
+spõdere necessario dicemus, ꝙ ônis potestas à Domi
+no Deo est, sine quo nihil potest õnis creatura.Dicit
+enim in sancto Euãgelio Christus, sine me nihil po-
+testis facere, vnde manifestum est, quod omnis po-
+testas faciendi aliquid hominibus à Domino Deo et nõ aliunde cõceditur, siue bonũ homines siue malũ
+operẽtur. Hinc sanctissimus praeful Augustinus di-
+cit,volũtas Dei est prima &; suma omniũ cor-
+poralium specierum ac motionum, nihilque fit
+in ista totius creaturae amplissima &; immensa re-
+publica visibiliter, quod non de interiori inuisi-
+bili atque intelligibili aula summi Imperatoris aut
+iubeatur aut permittatur, secundum ineffabilem
+iustitiam pręmium atque poenarum. Vnde non
+est dubitandum Caefar quod potestas illa malefica-
+rum,in qua mirandos (cooperatione daemonum)
+horrendofque producunt effectus, â Domino
+Deo concedatur, cuius voluntati, nemo potest
+resistere.
+D 4
+
+resistere, & sine cuius influxa nec manum homo po-
+test mouere. Concludunt enim sancti doctores,
+quod neque daemones neque maleficae quicquam face-
+re possunt, siue hominem laedere siue iumentum,
+nisi omnipotens Deus velit, consentiat, potesta-
+temque concedat, vt faciant quod iam peruersa vo-
+luntate decreuerunt. Nisi Deus consentiat velit,
+nihil potestomnis creatura, alioquin si fieri ali-
+quid eo non volente consentiente posset, seque-
+retur necessariò, Deum esse infirmum, qui prohi-
+bere non posset, quod fieri inuitus permittere co-
+geretur. Sed quoniam omnis homo, in quantum
+creatura est, à Deo dependet, nihil potest agere si-
+ne illius voluntate, â quo velle habet posse.
+Quicquid igitur maleficae faciunt Deo sic permit-
+tente, sine cuius voluntate nihil possint, quia vt
+possint quod volunt, nisi Deus concesserit, neque â
+se, neque á daemonibus consequerentur, omnis itaque
+potestas à Domino Deo est, in quo ônia sut mo-
+uentur sicut in prima rerum omniu caufa, quoniam
+â quo libertatem arbitrij accepimus, ab ipso etiam
+posse quod volumus habemus, sed cum malefica-
+rum fit multum confusus intellectus, non arte hu-
+mana perpetrant mala quae faciunt, sed cooperatio-
+nedaemonum, quos vt natura subtiles, ita expe-
+rientia longa fecit ad producendum miranda velo-
+ces. Non enim causantur mirandi effectus malefi-
+carum ab huiufmodi medijs, quibus vtuntur ad ma-
+leficandum. Vt funt capita mortuorum, bufones,
+serpentes, characteres, imagines, his fimilia. Sed
+ab instituente haec signa Diabolo, qui cum fit super-
+bissimus, Deo cupit in omnibus videri comparan-
+dus. Enimuerò quemadmodum omnipotens Deus
+quaedam in Ecclesia sua Sacramenta instituit, quae
+digne A1 digne min signant perante fa petit, qua ranquam S his qithu assiste, malũ esse cit. Om̃ rum applicat in mate liquand Mulierr uata, eta tran ab ipsis occurru demon que pad monib fidem rantib rum do con pante tū peri infunie uit in l dumba extium neque demon malesque
+
+[segment 32]
+AD MAXIM. CAESAREM.
+digne ministrantibus ipso assistente salutarem de-
+signant producunt effectum, ipso qui instituit o-
+perante salutem. Ita diabolus, qui nihil plus ap-
+petit, quam aestimari Deo aequalis, quaedam signa
+tanquam Sacramenta instituit, quibus inuocatus ab
+his quibus confaederatus pactis operator malignus
+assistit, quoties Deus permiserit, quod rogatur
+malũ efficit, si nõ permiserit, ille nihil omnino fa-
+cit. Omnium siquidem effectuum necromantico-
+rum maleficarum operator diabolus est, qui per
+applicationem mediorum quae prius ipse instituit,
+in materiam subiectam opus producit optatum, a-
+liquando realiter, aliquando solum apparenter.
+Mulieres autẽ maleficae, quae iam voluntate depra-
+uata, consensu in consortium daemonum per pa-
+cta transierunt, notas quasdam symbolica
+ab ipsis recipiunt, quibus aduocati mox daemones
+occurrunt. Nihil in his perniciosis operationibus
+daemonum fortius stulta credulitate maleficarum
+quae pactis augetur votis, quo mentem praeoccu-
+pante mox daemones signis firmiorem adhibuerint
+fidem, tantò velociorem assequuntur ipsis coope-
+rantibus operationem. Voluntatis enim malefica-
+rum nimis truculenta deprauatio eas quodammo-
+do conuertit in furem, quo mentem p̃mittente
+insanientibus praestant. Simile namque Plato recita-
+uit in libro de Poëtico dicens: quemadmo-
+dum bachantes feminae mente non sana haurire
+nequeũ. Id autẽ efficit eorũ animus in consortium
+daemonis mali extra se raptus. Exploratum habemus
+maleficas in fluminibus concitatis hauisisse butyrum
+D5 tempo-
+
+58 IOA. TRITEMII OCTO QVAEST.
+temporibus, quod aliter fieri quam daemonis mi-
+nisterio nullatenus potest. Simili modo in odium
+traductae alicuius vel hominis vel iumenti suspi-
+rantes interitum grauissimo agitantur, furore, ni-
+hil aliud quam vindictam in animo cogitantes, res
+capiunt ad maleficium sibi notas familiares, in-
+uocant daemones, ostendunt signa ab illis instituta
+simul characteres, quod propria virtute per-
+ficere nequeunt, illorum ministerio consequun-
+tur. Alius verò qui non est daemonibus pacto 
+deditione subiectus, etiamsi res conuenientes ad
+maleficium nouerit, simul modum operandi,
+quamuis exhibeat signa rarò tamen effectum con-
+fequitur, propterea quod inter familiares daemo-
+num non habetur. Vsque adeò quippe diabolus ela-
+tus superbia Ecclesiam Christi aemulatur, vt quem-
+admodum non ordinatus Christi corpus non po-
+test conficere, quantumlibet verba consecrationis
+proferat, sic etiam daemon, quantumuis inuocanti
+ signa siue characteres ostendi, quem pacto
+sibi non nouit subiectum, aut nunquam aut raro
+concurrit. Nam si omnibus se inuocabantibus si-
+ne pactis passim interpofitis occurrêret, non tot
+maleficas sibi proprietatis iure dicatas poffideret.
+Hinc est quod multi ꝓphanis artibus dediti, daemo-
+nes ad circulum, ad speculum, siue ad quaelibet a-
+lia receptacula horrendis coniurationibus con-
+uocare laborantes, nullum consequuntur effe-
+ctum, quoniam aut Dei obstat imperium, aut dia-
+bolus contemnit curiosum hominem sibi homo-
+gio non dicatum. Tria etenim requiruntur ad
+maleficium, sine quibus nullum constat esse per-
+petratum: animo furens ac voluntate deprauata
+malefica: cooperatio quoque familiaris diabo-
+lica:
+lica: num no traci n necdia diabolo nullail fuerit Vtitu taqu quo mon cem omi conc diuer tivint qua P igno nec gi lu fa Ch ca lun mo nu qn gq
+
+[segment 33]
+AD MAXIM. CAESAREM 59 lica: & ante omnia permissio diuina. Quod si v- num istorum non concurrerit maleficium perpe trari non poterit. Nam si Deus non permitteret, nec diabolus quicquam nec malefica posset. Et si diabolus prauae mulieris voluntati non occurreret, nullũ illa maleficiũ ꝑpetraret. Rursũ si malefica de fuerit, diabolus maleficiũ nullatenus confumabit. Vtitur enim voluntate furentis maleficae diabolus, tanquam artifex instrumento ad operandum, sine quo non potest inferre maleficium. Et sicuti dae mones in potestate acumineque subtilitatis ab inui cem differunt, ita maleficarum potestas non est in omnibus vna, sed in singulis, pro vt daemonibus concurrunt natura subtilioribus vel grossioribus, diuersa. Multa enim sunt genera daemonum, &; cer tis inter se gradibus distant, ratione locorum, in quae cadentes à principio sunt detrusi. Primum quidem genus daemonum appellatur igneum, quod circa superiorem peruagatur aerem nec vnquam ante iudicij diem ad inferiora demer gitur, sed continuè sub regionibus permanentes lunaribus, nullum habent cum hominibus inter ra commertium. Quod verò sub luna permaneat, sanctus testatur Augustinus in opere de agone Christiano, sic dicens: daemones non habitant in caelo, vbi sol &; stellae sunt, sed omnes sub regione lunari versantur. Hinc motus vt reor, Apuleius, dae monia dixit animalia esse ignita, propterea quod Aristoteles confirmauit in fornacibus ardentibus quaedam animalia parua sapius visa volitasse pe nualis apta, quae totum aeuum suum diuersantur in igne, quoniã cum igne oriuntur &; cum eo extin guuntur, &; ad suum vnde venerant locum euane- fcentes
+
+60 IOA. TRITEMII OCTO QVAEST.
+scentes redeunt. Nulla sunt eis cum maleficis con-
+fortia, quoniam cum demorentur in igne, propter
+subtilitatem suam non possunt corpus induere
+grossum siue aeereum.
+Secundum genus aëreum dicitur, quod in aère
+oberrans nobis propinquo commoratur. Si qui-
+dem possunt ad inferiora descendere et assumptis
+de crassiore aëre corporibus quandoque visibiles ho-
+minibus apparere. Aera permittente Deo saepius
+turbant, tonitrua tempestates concitant, omnes
+simul in perniciem humani generis confirant,
+more hominum affectionibus mouentur passio-
+num, superbia maximè inuidia tangunturque per-
+turbationibus continuis, nec solido vestiuntur
+corpore nec vno consistunt loco, neque vnam omnes
+formam habent, sed plurimas easque saepius mutant
+fecundum varietatem affectionum, quibus vel oc-
+currunt maleficarum carminibus euocati vel im-
+pulsi perturbatione ad nocendum. Habent enim
+omnino violentum furiosum morem turbatio-
+nibus plenum, vnde vehementer malefacti per-
+turbati repentinas plurimum machinãtur infidias,
+dum suas agunt incursiones, partim latere vo-
+lunt, partim inferunt violentiam. Maleficae horum
+daemonum cooperatione suffulta tanto sunt ad ma-
+leficandum potentiores, quantò superiorem ex eo-
+rum ordine concurrentem fuerint assecutae. In vi-
+ta sancti Anthonij diuus Athanasius aërem plenum
+dixit esse daemonibus, quod Mercurius antea dix-
+erat ter maximus: nullam videlicet mundi partem
+daemonum praesentia destitutam. Sanctus quoque prę-
+ful Ambrosius dicit, plenus est mundus sanctorum
+virtutum, quia plenus est nequiciarum. Vnde Pla-
+tonici daemones in aëre volantes in modum den-
+fissimae
+
+[segment 34]
+AD MAXIM. CAESAREM.
+61
+sissimę niuis ignitę cupientibus tradidere visibiles,
+si aliquandiu versus celũ sole splendente irreuerbe-
+ratis oculis cõtinuauerint obtutus, sed nescio an in
+aëre causetur obiectum ex consistentia reali vel cer-
+te oculorum motus interclusus repraesentet imagi-
+nes falsas, non fine detrimento sensus, tamen leui
+praemissorum caepi experimentum.
+Tertium verò genus daemonum terrestrium di-
+cimus quos prolapsos ê caelo in terram pro suis de-
+meritis minime dubitamus. De his sanctissimus
+praesul &; martyr Christi Theophorus quondam I-
+gnatius in epistola quadam ita scripsit ad Ephesios:
+Nihil melius est quam pacem habere, in qua omne
+telum euacuatur, aëreorum simul &; terrestrium
+spirituum. Ex his autem daemonibus alij versan-
+tur in syluis atque nemoribus qui venatoribus po-
+nunt infidias. Alij verò patulis degunt in campis,
+qui nocte oberrare faciunt itinerantes, nonnulli
+commorantur in locis abditis atque cauernis, reliqui
+caeteris minus furiosi &; perturbati demorari cum
+hominibus in obscuro delectantur. Non vno du-
+cuntur affectu sed vario, quoniam alij sunt alijs mi-
+nus deprauati, quanquam omnes sint malis turba-
+tionibus pleni. Ex his quidam folis gaudent illufio-
+nibus territare homines alij praedictionibus futu-
+rorum in admirationem sui trahere cupiunt audi-
+entes. Nonnulli verò ad hoc summo conatu labo-
+rant, vt homines irrationabili furore turbatos aut
+melancholia furentes terreant, laedant vel occidant
+quod experientia saepius factum agnouimus. Hinc
+sanctus Ioannes Chrysostomus in tertio libro de
+prouidentia ad Stagyrium monachum dicit: Omni
+actione Diabolica potentior est ad nõ nocendũ mae-
+roris magnitudo, quia daemon quoscunque superat,
+per
+
+62 IOA. TRITEMII OCTO QVAEST.
+per m̃rorẽ suꝑat eũ si auferas nihil â daemone quis-
+quam laedi poterit. Hoc autẽ demonũ genus rarò est
+maleficis familiare, propter inconstantiã affectionũ et amp; leuitatem, qua territàre multos gaudent potius
+quam vnius muliercula subesse imperio. Com-
+morantur tamen interdũ aut pollicentur vesanis, in
+vitro vel in crystallo siue in speculo, &amp; carmini-
+bus concitati responsandant mulieribus, &amp; siquis
+venturus eis maledixisset in via praenunciant. Et
+hoc maleficorum genus multum aliquotis dif-
+fert à reliquis, quoniam quod illae maleficio red-
+dunt infirmum, iste curare pollicentur. Verum quia
+maleficium vt plurimum repellunt maleficio,
+earum accessus interdicitur ab Ecclesia omni
+Christiano.
+Quartum genus daemonum nuncupatur aqua-
+ticum, quoniam se humoribus immergens circa
+lacus et amp; fluuios habitat, ira plenum, turbatum, in-
+quietum et amp; fraudulentũ, quod in mari tempestates
+concitat, nauigiaq́; demergens in profundum, mul-
+tis vitam aufert in aquis. Et isti daemones quoties
+assumunt corpus visibile, in sexu frequentius ap-
+parent faemineo, &amp; in masculino rarius videntur,
+propterea quodin locis versantur humidis, &
+molliorem vitae ductum sequuntur, ne vile
+schema facile caeterorum consuetudine possunt
+assumere. Vnde Naiadas Nereidasq́; aquarum Nym-
+phas non masculino sed faeminino sexu dudum no-
+minauit antiquitas. A nostris autem aquaticae mu-
+lieres id est Wasser Frawen communi vocabulo
+dicuntur. Qui verò habitant in locis ficcioribus et amp; subaridis, quoties hominibus corporaliter ap-
+parent visibiles, in virose transformant. Diuer-
+farum
+A1 farum q̃ varij sāngi Iquoniã miter sec enim leg ma fit vil semꝑ in nescire docho explicat quentet genus pere Q in spe cauter funt pe de met tes que tissimi mos cutie mati cune riũ uerric ens a hom migia nt. Ve mino
+
+[segment 35]
+AD MAXIM. CAESAREM.
+63
+sarum quoque species assumunt bestiarum, prout
+varijs tanguntur affectionibus. Sancti autem Ange-
+li quoniam affectione nunquam variantur vnifor-
+miter semper apparent in forma virili. Nusquam
+enim legimus scriptum, quod bonus spiritus in for-
+ma fit visus muliebri aut bestia cuiuscunque, sed
+semp̄ in specie virili. At verò sepius visi sunt demo-
+nes circa flumina et fontes in specie mulierũ aliquã-
+do chorizãtes, aliquando capillos more faeminarum
+explicantes, nonnũ quam verò cum hominibus lo-
+quentes, & varias ludificationes exercentes. Et hoc
+genus daemonum non consueuit cum maleficis ha-
+pere commertium.
+Quintum genus subterraneum dicitur quod
+in speluncis et cauernis montiumque remotis con-
+cauitatibus demoratur. Et isti daemones affectione
+funt pessimi, eosque inuadunt maxime, qui puteos et amp; metalla fodiiũt et amp; qui thesauros in terra laten-
+tes quaerunt, in perniciem humani generis para-
+tissimi, hiatus efficiunt terrae, ventosque flammiuo-
+mos suditò euanescunt ad signum, &amp; ad sua di-
+verticula reuertuntur. Interdum nolarum inter
+eos auditur sonitus, &amp; se nonnunquam spiritus esse
+hominum vita defunctorum mentiuntur. Nihil
+magis quaerunt quam metũ hominum et amp; admiratio-
+né. Vnde habemus compertũ quod simpliciores ho-
+minũ quosda nonnũquã in sua latibula montiũ du-
+xerunt.
+
+64 IOA. TRITEMII OCTO QVAEST.
+xerunt, stupenda mirātibus ostendentes spectacula,
+&amp; quasi beatorum ibi sint mansiones amicos se vi-
+uorum mentiuntur. Ex his quoque daemonibus qui-
+dam incubones sunt thesaurorū quos auaritia mor-
+talium abscondit in terram, &amp; ne rursus in vsus per-
+ueniant hominum eos subducunt, furantur et amp; cu-
+stodiunt et amp; quandoque de loco in locum transpo-
+nunt. Et hoc genus daenonum cum maleficis mu-
+lieribus nullum consueuit habere commertium.
+Sextum verò daenonum genus appellatur luci-
+fugum, propterea quod lucem maximè horrent et amp; detestantur, quia nec diebus vnquam apparent,
+nec alio modo corpus, quam de nocte possunt as-
+sumere. Hoc est negocium quod in tenebris per-
+ambulat, genus daenonum imperscrutabile ac pe-
+nitus tenebrosum, passionibusque frigidis agitatum;
+maliciosum, inquietum et amp; perturbatum, quod oc-
+currentes homines nocturnis violenter comprimit
+horis, saepiusque (Deo permittente) aut flatu quos-
+dam interficit aut contactu. Maleficis non conuenit
+hoc genus daemonū neque carminibus actari potest,
+quia lucem fugit et amp; voces hominum, simulque omnē
+tumultū aëreum maximè ad maleficia feminārū cō-
+sueuit occurrere quoniā caeteris omnibus est magis
+subtile et amp; audacissimae temeritatis. Terrestrium
+quoque nonnulli maleficis vt est dictum subseruiunt,
+qui tamen inferiori gradu habiti maiora illa male-
+ficia inducere minimè possunt. Constat igitur ma-
+nifestè, quod tota potestas maleficarum, in qua tam̄
+miranda faciunt, daenonibus â Domino Deo
+limitata conceditur, &amp; quando ille
+nōpermittit, nihil operantur.
+DE PER-
+
+[segment 36]
+AD MAXIM. CAESAREM.
+65
+DE PERMISSIONE DIVINA
+QVAESTIO SEPTIMA.
+S Eptima quaestio Serenissimae Maiestatis
+tuae ista fuit. Quare omnipotens Deus
+cum sit iustus et vindex malorum tanta
+maleficia in perniciem humani generis fieri permittat,
+quibus non solum peccatores, sed etiam innocentes
+multi pereunt grauiter cruciati.
+Ad hanc quaestionem taliter me dudum coram
+maiestate tua cõstitutum nemini respondisse. Om-
+nipotens Deus iustus rectus, pius misericors,
+quicquid permittit iuste permittit, quoniam iustus
+est non est apud eum iniquitas, sed omnia in ve-
+ro iudicio, qua fiunt, aut facit aut permittit. Cum
+ergo quaeritur, quare Deus mala fieri permittat?
+respondemus, ideo permittit, quia iustus est.
+Non videatur maiestati tuae ô Caesar, quam dedimus
+absurda responsio, quoniam diuinae bonitati non
+praejudicat vllatenus, quod mala fieri iustissima ra-
+tione permittit, potius, autem praeiudicaret, si mala
+in praesenti mundo fieri non permitteret. Enimue-
+ro si non permitteret fieri mala, iam homo peccare
+non posset, esset certè impeccabilis, quod eius na-
+turae non conuenit, cui ab initio liberum arbitrium
+conditor omnium dedit. Homo etenim creatura cũ fit,
+nõ creator, est necessario tã ad bonũ conuertibilis
+quàm ad malũ, cuius esse dependet à sumo creatura-
+rũ opifice omniùm, quemadmodum â causa sui esse
+omne causatum: Creare verò soli Deo relictum est,
+qui est incorruptibilis sempiternus, corruptibi-
+le autem omne necessariò deficit, conseruatur au- E tem
+PER
+
+66 IOA. TRITEMII OCTO QVAEST.
+tem bonitate creatoris, quamdiu causae influentiam
+non ammittit. Vnde fieri nec potuit nec decuit,
+quod homo ex conditione suę naturae crearetur im-
+peccabilis, quo solus gaudet naturaliter opifex om-
+nium Deus, qui est incommutabilis sempiternus.
+Quoties verò confertur homini, vt peccare non
+posse videatur, nec libertas arbitrij tollitur, nec
+possibilitas simpliciter aufertur, sed voluntas in bo-
+no confirmatur. Et quotienscunque, hoc donum
+confertur creaturae, munus est gratiae non naturae.
+Dicit enim scriptura, Deus ꝓb initio creauit homi-
+nem, reliquit eum in manu consilij sui. Nam pro-
+priè loquendo esse non potest vt homo mortalis
+in originali displicentia conceptus, liberum ha-
+beat arbitrium non possit committere peccatum.
+Dicit enim sanctissimus Augustinus, prima
+libertas voluntatis erat posse peccare, nouis-
+fima erit in gloria multo magis habere, propriae volunta-
+tis suae dominium non haberet. Vnde quamus om-
+nipotens Deus peccatum non velit, peccare tamen
+homines malum facere iuste permittit, quatenus
+liberitate arbitrij permanente, virtus boni ope-
+ris meritũ prauitas voluntaria recipiat quod fe-
+cerit malum. Nemo enim aut bene facit aut peccat
+inuitus. Iuste igitur omnipotens Deus peccare 
+malum facere homines permittit, quibus â princi-
+pio libertatem arbitrij concessit. Sunt autem mul-
+ta rationes â sanctis doctoribus dudum assignata,
+quare omnipotens maleficia tanta fieri per daemo-
+num cooperationem permittat, quarum ordine ne-
+cessario breuiter faciemus mentionem.
+Prima est vt diuinae manifestetur excellentia
+potestatis, qui solus est incommutabilis supra
+omnem
+A1
+Omnem lo-
+mutabilis
+habet coe-
+Non est D.
+hominis y
+delibabit
+am Tobit
+dicitura
+veritas Absirã T
+Opus en
+rum rest
+gnorant fit nihil
+gnoscitur nem, q̃
+lentur ho
+Scur
+entrainé
+mallis et
+facite ess fi malo
+tellige nar, mi
+dimac minum mo quo
+Ter
+malefi
+mibon
+riente ni pery
+ne De
+DFG
+
+[segment 37]
+AEST.
+influentian
+nec decuit,
+creaturum im-
+pięs om̃e
+imperius
+ꝯcure non
+illitur, nec
+untas inbo
+oc docum
+tion natura.
+cautur homi-
+di. Nam pro-
+mo mortalis
+liberum ha-
+peccatum, primus
+mus, nouif-
+e peccare.
+evolunta-
+nis om̃is
+tamen
+it, quatenus
+os boni opo-
+par quod fe-
+aur peccat
+peccare et amp;
+us à princi-
+axtem mul-
+m aliigitate,
+per demo-
+ordine ne-
+excellente
+lis siue
+omem
+AD MAXIM. CAESAREM
+67
+Omnem longè positionem. Omnis autem creatura
+mutabilis ad incommutabilem creatorem nullam
+habet comparationem. Vnde in numeris legitur:
+Non est Deus quasi homo vt mentiatur, nec vt filius
+hominis vt mutetur. In Esaia quoque dicitur, Deus fi-
+delis absque iniquitate, iustus rectus, in libro eti-
+am Tobiae scribitur, Iustuses domine omnia iu-
+dicia tua vera funt, omnes viae tuae misericordia,
+veritas iudicium. Et in libro sancti Iob legimus:
+Absit à Deo impietas ab omnipotente iniquitas:
+Opus enim hominis reddet ei iuxta vias singulo-
+rum restituet eis. Omnis igitur homo, qui sua mi-
+gnorantiam infirmitatem rectè intelligit, quam
+fit nihil comparatus ad creatorem suum patenter a-
+gnoscit, iuste namque Deus permittit peccare homi-
+nem, quo libertas continetur arbitrij excel-
+lentia hominibus innotescat magni Dei.
+Secunda ratio est, vt inperscrutabilis Dei sapi-
+entia innotescat mortalibus, quae nouit ex nostris
+malis elicere bonum, cum vnius peccatum alterius
+facit esse meritum, ad virtutis incrementum. Nam
+si malum fieri non permitteret, quis nostrum in-
+telligeret bonum? Facit enim Dei bonum ordi-
+nat, mala verò non facit, sed ab impiis facta ne inor-
+dinatè veniant ipse disponit. Neque malicia ho-
+minum Dei voluntatem impedit, neque potest ho-
+mo quicquam, quod Deus non permittit.
+Tertia verò causa est, quod omnipotens fieri
+maleficia permittit, vt manifestet sua clementissi-
+mã bonitatẽ in eos, qui peccauerunt, egerunt poe-
+nitentiã, quã nullatenus posset ostendere, si creaturã
+nõ permitteret peccare. Nã si nullus esset peccator,
+nec Deus posset esse miserator, sedquoniã in mul-
+E2 tia
+
+68 IOA. TRITEMII OCTO QVAEST.
+tis offendimus omnes, vbique Deus inuenit quod re-
+mittat, vbique reus occurrit, in quo suam misericor-
+diam pius conditor ostendat. Vnde sanctus praesul
+Augustinus: Si leuis morbus esset, contemneretur
+medicus non quaereretur, si medicus non quaerere-
+tur, morbus non finiretur. Ideo vbi abundauit pec-
+catum, abundauit &; gratia, quae sola discernit re-
+demptos â perditis, quos in vnum coaceruat massa
+perditionis, ab origine ducta creationis. Est ergo
+misericordia domini super omnia opera eius.
+Quarta verò ratio diuinae permissionis est : vt
+iusticía creatoris in eos declaretur, qui peccaue-
+runt et amp; non egerunt poenitentiam, quoniam si om-
+nes benefecerent et amp; nemo peccaret, nihil haberet
+iusticía Dei quod puniret, vt ergò iusticía locum
+habeat, diuina permissione creatura peccat. Iustus
+enim est Dominus, qui reddet vnicuique secundum
+opera voluntatis suae.
+Quinta ratio est dignitas conditionis humanae,
+quia si Deus non permitteret peccare hominem,
+brutis videretur deterior, quae nulla impellente
+violentia naturae motibus liberè vtuntur. Nam etsi
+ratione bruta careant, liberum tamen naturae mo-
+tum habent, quem sequuntur, in quorum compa-
+ratione homo videretur inferioris conditionis, si
+liberum non haberet arbitrium voluntatis. Permi-
+fit autem homini Deus voluntatem liberam, cui
+nec reges imperant nec principes.
+Sexta ratio est laus meriti constantiae humanae
+virtutis, quoniam iustum virum propterea lauda-
+mus quia cum potuisset transgredi non est trans-
+gressus, sed gratia Dei adiuuante in bonae volunta-
+tis constantia permansit.
+Septima ratio, quare omnipotens Deus permit-
+tat
+A
+ex demon
+sum facere
+stantur m
+bolum sed
+nim ve in
+Christi de
+decepi;
+num pan
+mani gen
+di; quem
+Instume d
+lunate d
+diabolo
+Osta
+cutius po
+Animae
+na permi
+quam fit
+maiesc
+Nihil en
+nia que
+omnium
+fieri mal
+quam ca
+inuiolabi
+omnis à su
+mirata, ne
+festum et
+deprauare
+hanc certe
+qđdem fi
+nil furio
+ctura co
+nu mihi lo
+
+[segment 38]
+AD MAXIM. CAESAREM.
+tat daemones tanta maleficia intercursu malefica-
+rum facere, est vt illi qui contempta veritate dele-
+ctantur mendacio, per inuentorem mendacij dia-
+bolum seducti penitus decipiantur. Dignum est e-
+nim vt incantatores atque maleficae, qui salutaria
+Christi documenta sequi despiciunt, â daemonibus
+decepti, omnes ad inferos demergantur in aeter-
+num puniendi, suffragium â daemonibus totius hu-
+mani generis hostibus expetũt, & Saluatorem mun-
+di, quem solum adorare debuerant, contemnunt.
+Iustum est enim vt is, qui veritatem spontanea vo-
+luntate deserens adhaeret mendacio, in iteritum â
+diabolo praecipitetur.
+Octaua causa est manifestatio diuinae potestatis,
+cuius potentia virtus est super omnem creaturã.
+Enimuerò cum Deus omnipotens aliquando mag-
+na permittit diabolo parua quaedam denegat,
+quam fit infirmus humani generis hostis diui-
+nae maiestati subiectus in omnibus manifestat:
+Nihil enim â seipso potest diabolus, sed om-
+nia quae facit, Deo permittente facit. Causa igitur
+omnium prima, propterquam omnipotens Deus
+fieri maleficia permissit, iustitia est, qua libertatem,
+quam creaturae semel â principio contulit, ordine
+inuiolabili custodit. Verum quia potestas creaturae
+omnis â suo creatore dependentis vestricta est li-
+mitata, nec diabolum omne quod vult posse mani-
+festum est, nec hominem voluntate, quantumlibet
+deprauatum. Voluntas quidem est libera, sed pote-
+stas certis necesarijs gradibus limitata. Quoniam
+quidem si daemoens possent omne quod volunt,
+nihil tutum in humanis permaneret, sed labefa-
+ctarent omnia. Ligatam verò potestatem daemo-
+num, historia sancti Iob manifestè demonstrat ex-emplo:
+
+70 IOA. TRITEMII OCTO QVAEST.
+emplo, quem non amplius tentare Sathan aude-
+bat, quam ei fuerat dispensatione diuina permis-
+sum. Nemo enim in praesenti mundo, quantumli-
+bet iustus aut fortis daemonum furori posset resiste-
+re, si pro eorum arbitrio libera semper nocendi
+possent vti potestate. Ante verò dominicam passio-
+nem maiore quam postea libertate vt ebantur po-
+testatis. Sed Christo mortem pro nobis in ara crucis
+gustante, valdè ea deinceps eorum est imminuta
+potestas, saluatore in Euangelio dicente: nunc prin-
+ceps mundi ejcietur foras. Etenim Christi humi-
+litas perfeuerantia sanctorum audaciam daemo-
+num valdè restrinxerunt, ita quod incentores ma-
+lorum rectè nuncupari possunt, impulsores verò
+minimè. Nec inualesceret contra nos Diabolus, ni-
+si vires ex nostris peccatis acciperet. Hinc nos scri-
+ptura admonet dicens: resistite diabolo fugiet â
+vobis: iterum, nolite locum dare diabolo. Con-
+cludendo igitur sermonem ad intelligentiam pro-
+positae quaestionis, quare Deus fieri tot maleficia
+permittat, rationes credo sufficienter manifestas.
+Nam etsi voluntas daemonum semper fit iniqua, po-
+testas tamen nunquam potest esse iniusta, quoniam
+quod male vult, ex proprio habet arbitrio, quod au-
+tem malefacere potest, solum habet â Deo. Et haec
+quantum ad eos pertinet, qui mala faciunt dicta
+sunt.
+Sed quare omnipotens Deus permittit daemo-
+nes laedere homines medio maleficarum, qui in no-
+mine sanctae Trinitatis baptizati sunt fideliter
+credunt, in vnigenitum filium eius dominum no-
+strum Iesum Christum? Nam si malos peruersos 
+infideles in corpore in rebus tantum laedere pos-
+sent, coercerentur vero ab accessu laesione bono-
+rum
+A
+pum argenti
+reut effec
+de innocen
+quando q̃
+rerum ter
+tur, tran
+ita permi
+juite.
+Huius
+prîcis at
+potero,
+boratio
+Et prīs
+thanorũ
+daemonũ
+quam nõ
+conducitur
+eth difficilis
+falmacore
+um est, se
+Didicius
+tam in ludo
+in transi-
+culo p̄ter
+pros deo
+cang fecit
+rudi mēto
+accedunt
+contra Deū
+tem intempera-
+te quippe
+tioni Cōntra
+ꝑ. Malatius
+extimans
+DFG
+
+[segment 39]
+AD MAXIM. CAESAREM.
+71
+rum atque fidelium, permissionis iustum recte vide-
+retur esse iudicium. Nunc autem frequentius boni et amp; innocentes daemonum maleficijs infirmantur,&amp;
+quandoque etiam vita priuantur, vt silentio,iacturam
+rerum temporalium, quam saepè maleficiati patiun-
+tur, transeamus. Multis venit in scrupulum cur
+ista permittat omnipotens, qui nihil permittit in-
+iuste.
+Huius propositae quaestionis non alias quàm à
+priscis atque Catholicis accepi doctoribus, quantum
+potero, breuiter necessarias per ordinem assigna-
+bo rationes.
+Et prima quidem ratio est probatio fidei Chri-
+stianorum et amp; experientia integritatis. Vt maleficijs
+daemonum flagellati, discant in passionibus carnis,
+quam fidem et amp; dilectionem ad Deum habeant in ab-
+scondito mentis. In prosperis esse longanimem nõ
+est difficile, sed in aduersis, cum humili patientia â
+saluatore fidelium praestolari auxilium non molli-
+um est, sed fortium et amp; verè fidelium Christianorũ.
+Didicit in sua tribulatione sanctissimus Iob, quan-
+tam in Deum fidei haberet constantiam, qui antea
+in tranquillitate custodierat sine tentationis ia-
+culo pietatem. Hinc simul notandum, quod illi
+quos daemonum vel hominum maleficia quomodo-
+cunque fecerunt infirmos, qui pro sanitate recupe-
+randa maleficos et amp; incantatores quoscunque vel
+accedunt vel consulunt, siue per se siue per alios,
+contra Dei et amp; Ecclesię praecepta faciunt, &amp; neque fi-
+dem inDeum habent veram neque dilectionem, sani-
+tatẽ non à Christo sed âdiabolo et amp; eius ministro quae-
+runt. Malũt enim in nomini diaboli sani, sed infeli-
+citer viuere, quá hic pro Christi amore modicũ pa-
+E 4 ti et Herzog August Bibliothek Wolfenbüttel Gray Scale 0 1 2 3 4
+
+72 IOA. TRITÉMII OCTO QVAEST.
+ti et postea cum eo in perpetuum gaudere. Qui vero maleficos non accedit propter ea, quoniam Deus prohibuit, malens vivere cum obferuantiis mandatorum Dei in aegestate et aegritudine, quam contra Deum in diuitiis et corporis fanitate, ille Deum veraciter diligit et integritatem fidei Christianae reet cultidit. Non sunt inter Christianos tollerandi, ò lacratissime Caesar, homines mente corrupti et reprobri circa fidem, qui per maleficia curant maleficiatos, qui furta ministerio daemonum revelant et adulteria, qui lapidum aut speculorum inspeçtione praenunciant futura. Non exaudiatis illos, precor, qui duinauri legi ignari huicmodi ministris daemonum imperio tuo exifiantim veiles, propter ea quod maleficio nouerunt maleficia disfolvere, quoniam ita perniciofa curatio corporum morrem inducit animarum, & facit homines à Deo creatori omnium recedere, & impiis apofatius daemonibus adharere, cum quibus poft mortem damnabuntur in aeternum.
+Secundario quare omnipotens Deus maleficio ladi permittat innocentes est augmentum meritorum, vt videlet probata eorum in tribulatio ne patientia, coronam gloria in calo digniorem merecatur. Nam vt facer inquit Augustinus: homo sibi ignotus est, quid ferre poftit quid non poftit: aliando meruit fe non poftit quod tamen poftit. cum accedit tentatio, quasi interrogator quidam homo inuenitur à se ipso qui prius latens néciebat seipsum. Diuus Archiaepofulus Petrus, antequam ei superuenisset tentatio et fe latebat et aliis, quam effet inconderatus et infirmus, accepit illa et apparuit infirmitas, quae latebat. Maxima itur hominis probatio tentatio est, sacra testante scriptura,
+
+[segment 40]
+AD MAXIM. CAESAREM.
+73
+vasa figuli probat fornax, & homines iustos ten-
+tatio tribulationis. Facilis est in prosperitate pa-
+rientia quando mentem nulla pulsante aduersa, Mu-
+ltae autem tribulationes inustorum, fed de omnibus his
+liberabit eos dominus noster Iesus Christus.
+Tertia divinae permissionis ratio eft humilitas-
+tis cuistodia, quatenus homo fidelis et iustus Deum
+temper timeat et nunquam de sua fortitudine vel
+iustisia praefumat. Hinc de reprobis dicit scriptu-
+ra: in labore hominum non fuat, & cum homini-
+bus non flagellabuntur. Ideo terruit eos superbia
+operti funt inuiquitate et impietate sua producit qua-
+fi ex adipe inuiquitas eorum. Miferentis Dei est,
+quod homines bonos et iustos interdum permittit
+aduersitibus concurti, quos noutit in prospers
+non posse humiliari. Multos enim tribulatio fecit
+humiles, quos fecunda reddidiffent elatos. Deniq-
+malefectorum timida imaginatio facit bonum ho-
+minem, timere Deum suum et eius fedulo inuoca-
+re auxilium, quo munitus contra daemonum incur-
+fuse possit confidere tutum. Nemo autem super-
+bus et praefumens de viribus suis a maleficijs da-
+monum fe tutum exiftimet, quoniam quem infla-
+tum superbia Dei protecțio defcrit, daemonum ma-
+leficijs procul dubio patescit.
+Quarta ratio eft vi bonorum malorumque discre-
+tio habeatur. Dicit enim de bonis ac Deo dilectis
+hominibus scriptura in actibus apofolorum, quo-
+nam per multas tribulationes oportet nos intrare
+in regnum Dei. Et sanctus Chrifii amator Paulus in
+quadem Epifola dicit: Omnes qui volunt in Chri-
+sto pié vivere, persecutionem pa-
+tientur. Sapientifimus quoque Rex Salomon in prouerbiis dicit: quem diligit dominus corripit, & quai pater in filio
+compila.
+74 IOA. TRITEMI OCTOQVAEST.
+cõplacet sibi.Res Christiano nimis gloriosa ꝓ Dei
+amore patienter tolerare aduersa, siue â malis ho-
+minibus inferantur siue à daemonibus. Datur enim
+potestas diabolo eiusque ministris laedendi homines
+bonos et iustos non in eorum confufionem, sicut
+petitores existimant, sed in maximam potius et cer-
+tam animae consolationem. Enimuero cum benè
+viuit homo iustus neminem laedit, neminem of-
+fendit nulli facit iniuriam, Deum suum toto corde
+diligit, timet et veneratur, omni solicitudine man-
+data eius custodiens, & nihilominus tribulatur à
+maleficis, siue in corpore siue in rebus, siue in vtro-
+que, vere beatus homo est ille, quoniam cum pro-
+batus fuerit accipiet coronam vitae, quam promisit
+Deus his qui diligunt eum. Omnis qui rectè viuit in
+vnitate fidei Catholicae christianorũ et mala in hoc
+mundo recipiens pro Dei amore patienter tolerat,
+certum est signum, quod in gratia Dei saluãdus per-
+feuerat. Quo contra de malis et reprobis ita scriptũ
+legimus: quare impij viuunt, subleuati sunt con-
+fortatique diuitiis domus eorum securae sunt et paca-
+catae, & non est virga Dei super illos, ducunt in bo-
+nis dies suos, & in puncto ad inferna descendunt.
+Manifestum enim damnationis est signum, si hic ma-
+le viuas in peccatis et vitiis, Deo contrarius et in
+bonis fortunae corporisque sanitate prosperatus.
+Quinta ratio quod omnipotens permittit ho-
+mines bonos et iustos tribulari â malis et reprobis,
+est propter mentis omnimodã purgationem. Nam
+sicut scriptura dicit, nõ est homo iustus in terra qui
+faciat bonum et non peccet, sed cum Deus nullùm
+peccatum transeat impunitũ, ordinat iustus homi-
+nibus per misericordiam pro eorum delictis poenas
+temporales, impiis verò et reprobis per iusticiã ae-
+ternas.
+
+[segment 41]
+AD MAXIM. CAESAREM.
+75
+ternas. Commutat ergo ex misericordia poenitenti-
+bus poenam aeternam intemporalem, quam vel
+in hoc mundo patientur necessariũ est vel post mor-
+tem in purgatorio. Verum quia purgatorij tormen-
+ta sunt horrenda atque grauissima misericors Deus
+poenitentes quos diligit in hac vita purgare variis
+modis consueuit per incomoda diuersarum in cor-
+pore in rebus tribulationum. Prosunt enim ma-
+leicia impiorum bonis iustis hominibus ad me-
+delam, ipsis autem inferentibus ad damnationem.
+Sexta ratio est vt homo per incursus daemonum
+maleficatus revocetur ad poenitentiam propo-
+nat in corde suo necessariã vitae emendationem.
+Omnipotens etenim Deus non subitò cum pecca-
+mus immittit vindictam, sed vsque ad praefinitũ tem-
+pus nostram expectat emendationem. Si verò paeni-
+nitentiam agere neglexerimus, venit ad nos vindex
+malorum, quando non putamus, qui nos pecca-
+tores in tranquillitate poenitendo recognoscere
+contempsimus, in tribulatione serò tandem reco-
+gnoscemus. Hinc sanctus Propheta in persona Dei
+loquitur dicens: si dereliquerint filij eius legem
+meam in iudicijs meis non ambulauerint, man-
+data mea non custodierint, visitabo in virga iniqui-
+tates eorũ in verberibus peccata eorum, miseri-
+cordiam autem meam non dispergam ab eis, neque
+nocebo in veritate mea.
+Septima ratio quare omnipotens Deus permittit
+maleficia daemonũ pręualere bonis innocentibus
+est, vt amputetur eis nimiũ licentiosa peccãdi occa-
+sio. Sunt enim multi pauperes infirmi Deo placẽ-
+tes boni deuoti humiles quos inopia ęgritu-
+do corporis Dei amore cõferuant, q; si diuites hono-
+ribusque sublimati essẽt citò ã p̃fundũ vitiorũ â san-
+ctitatis
+
+76 IOA. TRITEMII OCTO QVAEST.
+ctitatis proposito deffuerent. Non expedit omni-
+bus ad salutem habere cum sanitate honores atque
+diuitias, nec diuturnior vita hominem semper ef-
+ficit meliorem. Propterea omnipotens Deus vo-
+lens in eos quos elegit misericordiam suam osten-
+dere, permittit bonos, iustos innocentes varijs
+calamatibus subiacere, aliquando per daemo-
+nes, aliquando per malos homines, aliquando di-
+uersis alijs modis ac medijs aufert ab huiufmodi
+hominibus diuirias honores, quibus malè prae-
+sciuit vsuros, quatenus humilitatem in paupertate
+ abiectione custodiant, quam in opulentia sub-
+limitate positi minimè conseruassent. Permittit etiã
+saepius multas eos magnas aegritudines incidere,
+quibus laeta sanitas carnis, maximam intuliffet ae-
+griudinem mentis.
+Denique permittit malefício quosdam ad mor-
+tem impelli, vt amputetur eis peccandi licentia,
+qua fuerant abusuri, diutius in vita permissi. Hinc
+de viro iusto dicit scriptura: raptus est, ne malicia
+mutaret intellectum eius, nefictio deciperet ani-
+mam eius.
+Octaua ratio diuinae permißionis est, vt homi-
+nes Sacramenta venerentur Ecclesię, quae magnum ha-
+bent virtutem contra omnia maleficia malignorum
+spirituum. Rarò enim maleficiae demonum laedi-
+tur, qui sacramenta ritus Ecclesiae Catholicae de-
+bito cum honore veneratur. Et propria malefica-
+rum auditio vsus rerum benedictarum ab Eccle-
+sia multum infirment daemonum potestates. Neque
+enim frustra benedicuntur in Ecclesia Dei, sed vt
+sint quae diuinę protectionis munimen daemonibus
+estendant metuenda signacula. De pueris verò 
+infan-
+
+[segment 42]
+AD MAXIM. CAESAREM.
+97
+infantibus qui in Christo renati maleficijs daemo-
+num vel hominum quandoque necantur, non dubi-
+tamus quin diuina prouidentia hoc fieri permittat
+eis in salutem, quae omnia nouit in melius ordinare
+mortalibus. Saepè tamen contingit, infantes male-
+ficijs perire delicta parentum.
+--------------------
+DE PROVIDENTIA DEI.
+QVAESTIO OCTAVA.
+Ctaua Serenitatis tuae quaestio ista fuit:
+An ratione queat naturali, quemad-
+modum et amp; sanctis scripturis probari. Deum
+habere curam humanarum rerum et amp; actionum, eo-
+rumque omnium et amp; singulorum, qua geruntur in mun-
+do, certam et amp; infallibile m prouidentiam?
+Ad hanc quaestionem ita memini respondisse.
+Mundus totus, coelum et amp; terra et amp; omnia quae in eis
+sunt diuinae sunt prouidentiae subiecta, cuius vo-
+luntate et amp; imperio ab initio inesse producta fuerũt.
+Nihil est enim in toto vniuerso, quod prouidentia
+creatoris nõ gubernetur.Hanc sententiãprimo qui-
+dem scripturis et amp; postea rationibus, quantum licet
+breuiter comprobemus. In libro Iudith legimus:
+Omnes viae tuae pacatae sunt et amp; cuncta iudicia in tua
+prouidentia posuisti. Et in Ecclesiaste sapientissi-
+mus Rex Salomon fic loquitur: ne dederis os tuum,
+vt peccare facias animam tuam, neque dicas coram
+Angelo, non est prouidentia, ne fortè iratus domi-
+nus contra fermones tuos, dissipet cuncta opera
+manuum tuarum. Manifestissima prouidentiae te-
+stimonia cõfirmantur in sancto Euangelio, dicente
+Salua-
+
+78 IOA. TRITEMII OCTO QVAEST.
+Saluatore nostro ad discipulos: nonne duo passeres
+asse veneunt, & vnus ex illis non cadit super terram
+coram Deo? Magna diuinae prouidentiae commen-
+datio, quae non solum hominum curam habet, sed
+auium quoque minutarum. Enimuerò si tam parua
+curat omnipotens, quis eum curam habere magno-
+rum non crederet? Respicite inquit volatilia caeli,
+quae non serunt neque metunt, neque congregant in
+horrea, & patervester caelestis pascit illa. Et post
+paucasubiungit dicens, si foenum agri quod hodie
+est, & cras in elibanum mittitur, Deus sic vestit,
+quanto magis vos modicae fidei, omnipotens Deus,
+quia omnia creauit et cum non essent in esse pro-
+duxit, ne labantur et defluant, vniuersa regit et gu-
+bernat, quod fieri nullatenus posset, si prouiden-
+tiam et curam omnium non haberet. Nam si pro-
+uidentia tollitur, necesse est vt continuationis or-
+do totius vniuersi confundatur. Curat autem om-
+nia prouidentia creatoris, quoniam qui volatilia
+pascit et dat iumentis escam isporum et implet om-
+ne animal benedictione, vestitque foenum agror-
+nans pulchro decore violas et lilia, hominis non
+potest obliuiisci, quem ad imaginem suam ab initio
+creauit. Omnia curat qui omnia gubernat, & non
+solum hominis prouidentiam gerit, sed etiam om-
+nium iumentorum, in cuius ditione cuncta sunt
+posita et non est qui voluntati eius in aliquo possit
+resistere.
+Consideremus nunc ergo ingente hanc machi-
+nam totius vniuersi quemadmodũ in sua originali
+dispositione ac motu semper ordinatis simma perse-
+uerat, & diuinam illam incommutabilem proui-
+dentiam ( nisi mente turpiter excedamus ) ea con-
+seruare, dirigere et gubernare manifestissima ra-
+tione
+Vn
+test, fuir
+ditur, si
+potest, sibi
+nitam m
+rione int
+na omnib
+naturali
+fieri nou
+tur opo
+Confect
+di, vel fut
+plicarum
+chrism
+bile se
+puncto
+rabilitate
+dinatus
+fluitant
+mus p
+non ca
+comparu
+diuersis
+rut et re
+ingeritur
+quotilibet
+tia et q
+suino
+musca et amp; res
+mutabilis
+continuo
+ritatur
+pedes
+Vu
+test, fui r
+dictur, si
+potest, sibi
+nitam mihi
+
+[segment 43]
+AD MAXIM. CAESAREM 79 tione intelligemus: Deinde contemplemur terre- na omnia, quam ordinatissime singula quaeque in sua naturali dispositione nascuntur et procedunt, quod fieri non potest à casu, sed illius voluntate mouean-tur oportet, cuius facta et creata sunt potestate. Consequenter verò terram in medio locatam mun-di, veluti punctum siue centrum quod circulum ex-plicat aeque distanter totius vniuersi quo nihil pul-chrius, nihil ornatus, nihil denique magis delecta-bile sensui se potuit offerre contuendum. In hoc puncto molis immensae ab ipsa conclusa mole mi-rabiliter omnia cernimus ordinata, & nihil non or-dinatum posse relinqui, vt omnia, quae interdum fluitare nobis aliquo modo videntur, certo scia-mus penes ordinem nutu simplici ac penitus in-commutabili omnis machina totius vniuersi ex tot diuersis mobilibusque cõgesta ordinatissimè conspi-rat et regitur. Videmus certe in his, quae nostro sese ingerunt sensui, quoniam quanto in gubernatore .quolibet maior cum tempore consurgit intelligen-tia et potestas, tantò illic minus aliquid fortuito ca-su inordinatum potest contingere. Cum ergò sum-mus ille intellectus omnium creator, conferuator et rector omnipotens Deus mundum sua incom-mutabili prouidentia regat et gubernet, omnia suo continens sub imperio, nullus certe vnquam teme-ritati relinquitur locus, quae tantae maiestatis im-pediat voluntatem.
+Vniuersum igitur quod vspiam est vel esse po-test, sub vnius diuinae mentis imperio compraehen-ditur, cuius infallibile iudicium nihil subterfugere potest. Nobis autem inopinati casus accidunt, quo-niam mutabiles sumus et quotidiè ferè mutamur nu l-
+
+80 IOA. TRITEMII OCTO QVAEST.
+nullam futurorum habentes determinatam scien-
+tiam. Optimus verò ille factor omnium Deus, cum
+fit omnino incommutabilis, omnia nouit, omnia
+conspicit, omnia fimul et semel intelligit, cuius
+prouidentia non fallitur, cuius voluntas nun-
+quam variatur; cuius potentia non frangitur,
+cuius ordinatio non violatur, euit s confilium nun-
+quam intercipitur, etiamsi mutari sententia, quan-
+doque videatur. Vnde si diligenter aduertamus, pla-
+nè intelligimus, quoniam fines rerum et motionū
+declarabunt inferiora haec omnia diuina prouiden-
+tia fieri, conseruari, difponiatque moueri: cuius im-
+perio nihil penitus est alienum. Ipse namque domi-
+nator vniuerforum Deus et omnia intelligit et fin-
+gula, non diffentus more noftro in plurima, fed in
+feipfo cōfiftens indiufibile vnum, quem intuendo
+veluti exemplar totius vniuerfi, & caufam caufa-
+rum, perque caufas omnium caufam contuetur et om-
+nia contuendo curat, & prouidet fingula dirigens
+ad finem bonum ordine fempiterno. Age nunc
+sapientifsime Caefar quo prouidentiā intelligamus
+diuinam, omnia gubernantem, rationibus quantum
+poterimus, breuius ad intentiorem vtamur, Itaque
+siDei actio ipfius intelligentia est propria, quod
+nullus sapiens non admittit, tanquam eminentifsi-
+ma fimul et intima, quantum agit tantum vtique in-
+telligit et è conuerfo. Agit autem infingulis, non
+folum magnis, verum etiam minutissimis. Intelli-
+git igitur fingula Entis fiuidem primi perfingula
+quomodolibet Entia,certis ordinibus confequen-
+tia, amplifsimus eft influxus, & qua poft ifsum a-
+gunt,ipfius vbique virtute mouentur et agunt.
+Aut ergo Deus nihil extra fe intelligit vel agit,
+quod est falffum, aut agendo omnia et fingulae-
+tiam
+A tiam eadē enim fieri intelligere finanalo qui am obliga he omnia sed etiam habente runt, off pro viro prima citem,in q hanc bonū vr omnimaximi Quaeque facientes confec totum gantur maxime Etio recaetera de ficutura et di feffum ne et fa Eforts Dlisponitam Pernimus nec nefi
+
+[segment 44]
+AD MAXIM. CAESAREM.
+71
+tiam eadem intelligit, quod est verum. Nusquam
+enim fieret, nisi prius (vt more nostro loquamur)
+intelligerentur ab ipso Deo qui facit ea, sicuti non
+fiunt à sole, quae non prospiciuntur ab eo. Verum
+quia omnia singula quae facit omnipotens intel-
+ligit, haud dubium quin disponit, regit ordinat
+omnia quae fecit, â quo res non solum habent vt sint
+sed etiam vt causae quaedam aliarum rerum. Itaque si
+habent à Deo res vt sint causae, inde quoque accepe-
+runt, officium causae proprium, hoc est conseruare
+pro viribus curare quod fecerunt. Quocirca si á
+prima causa omnes causae hanc habent proprieta-
+tem, in quantum sunt quaedam causae merito ipsa
+hanc bonitatem naturaliter habet a prouidentiam,
+vt omnia curet, singula quae fecit, in quantum
+maximè causa eost eorum omnium singulorum.
+Quae quidem nisi singillatim custodiantur ab eo qui
+facit ea, non custodientur vnquam communia quae
+conseruantur in singulis. Nec enim conséruabitur
+totum, quod ex partibus constat si partes ipsae negli-
+gantur. Ex intentione igitur intelligentiae primae
+maximaque communis prouenit vniuersalis distin-
+ctio rerum. Ipsa verò per se distinguitur ab alijs,
+ceteraque inter se suae notionis norma distinguit.Vn-
+de sicut distinctissime Deus omnia singula nouit,
+ita distinctissime regit, moderatur curat.Mani-
+festum igitur puto clementissime Cęsar Maximilia-
+ne satis ostensum, quod prouidentia summi re-
+ctoris Dei inferiora omnia singula amplectitur,
+disponit, regit moderatur, alioquin sine obser-
+uantis prouida dispositione hunc ordinem quem
+cernimus pulcherrimum nullatenus continuarent.
+Nec me fugit quam variè quondam huius mundi F sapiens-
+
+72 IOA. TRITEMII OCTO QVAEST.
+sapientes de prouidentia fuerint opinati. Ex his
+quidam non prouidentia sed casu factum hunc
+mundum arbitrati sunt, quorum si esset opinio ve-
+ra, multis relinqueretur prouidentiae locus, sed ne-
+cessariò fluitarent omnia,cum eo mundus quo fa-
+ctus est casu posset interire.
+Contra quorum falsam opinionẽ alij docuerũt,
+nec fieri mundum sine ratione potuisse, nec cõstare
+certè, nisi suma prouidẽtiɑ factoris regeretur. Hinc
+Bôetius vir Christianissimus dixit: O qui perpetua
+mundum ratione gubernas,Terrarum caelique sator
+qui tempus ab aeuo ire iubes, stabilisque manens das
+cuncta moueri. Iterumque dixit: omnium generatio
+rerum cunctusque mutabilium naturarum progres-
+sus.Et quicquid mouetur aliquando causas, ordi-
+nem, formas ex diuinae mentis stabilitate fortitur.
+Alij verò Deû incorruptibilia duntaxat curare
+putabant, vt sunt caelestia substantiae separata, si-
+mul species rerum,caetera verò cuncta nescire
+penitusque negligere.Sed hi turpiter errauerunt,
+quoniam omnipotens non solum vniuersalium
+ incorruptibilium , sed etiam particularium
+ corruptibilium prouidentiam habet cu-
+ram.Vnde sanctus iterum Bôetius dicit:Sedet
+in terra conditor altus, rerumque regens flectit ha-
+benas,Rex dominus fons origo lex sapiens
+arbiter aequi. Hic est cunctis continuus amor re-
+petuntque boni sine teneri,quia non aliter durare
+queunt, nisi conuerso rursus amore refluant causae
+quas dedit ipse.
+Alijverò neglectum se iri non ferentes,homi-
+nem propter intellectus praeeminentiã de numero
+corruptibilia exemerunt dicentes, Deum homi-
+nes curam prouidentiam habere,reliqua verò terre-
+
+[segment 45]
+AD MAXIM. CAESAREM.
+73
+terrestria cuncta despicere. Contra quorum falsam
+opinionem et satis reor dictum, & multa produce-
+re omnino superfluum. Ait enim scriptura: homi-
+nes et iumenta saluabis domine: Et in alio loco
+quidam sapiens dixit: pusillum et magnum fecit
+dominus et aequaliter est illi cura de omnibus. Om-
+nia igitur et singula inferiora, magna et parua, cor-
+ruptibilia et incorruptibilia diuinae maiestatis pro-
+uidentia ordinat, regit, disponit et curat, cuius vo-
+luntas potentissima ex nihilo omnia producit, sa-
+cra iterum protestante scriptura: Tua verò pater
+prouidentia ab initio cuncta gubernat. Erubescant
+igitur homines mente corrupti et impij ac reprobi,
+circa fidem Christianam, qui vana loquacitate in-
+flatî prouidentiam omnia scientis auferunt, &
+quantam Deo iniuriam faciant non attendunt.
+Quid enim vt Firmiani vt amur sententia, tam di-
+gnum, tamque proprium omnipotenti Deo, quam
+prouidentia? Sed si nihil prouidet, si inferiora ne-
+gligit, si mortalia non curat, amisit iam omnem di-
+gnitatem. Sed impossibile est, sancto attestante
+Anshelmo, Deum honoremsuum perdere, quoni-
+am, sicut peripateticus ait, in aeternis non est ma-
+lum, nec corruptio, nec peccatum. Qui ergò pro-
+uidentiam tollit, totam Dei substantiam tollit, &
+quid dicit nisi Deum non esse.
+Sed dicant mihi nunc, qui Dei prouidentiam
+negant inferiora curare. Si Deus inferiora negligit,
+attentant, quid necessariò sequatur. Si Deus scien-
+ter nos negligit et contemnit, non est iam deinceps
+causa qua ipsũ vel cultu profequamur, vel religio-
+ne veneremur beneficiũ, quin potius neglecti et cõ-
+tempti negligamus et illũ ipsi. Si verò nesciens no-
+F 2 contem-
+
+74 IOA. TRITEMII OCTO QVAEST.
+contemnit ac negligit, penitus iam causa non est, vt nescientem nos et ob id nihil boni con-
+ferre potentem, colamus aut praecibus inuo-
+cemus. Nam si non curat humana Deus siue sci-
+ens, siue nesciens, cessat oninsis causa pietatis, cum fit spes nulla salutis. Quae nam potest inter morta-
+les pietatis esse consideratio, quae spes animarum sa-
+luris, si Deus humana non curat? Enimuero si pro-
+uidentia tollitur, quem colimus, quem adoramus?
+si non est apud Deum prouidentia mortalium, certè
+neque beneficia praestat hominibus neque poenas de-
+sertoribus imponit, neque mortales iuuare potest nec vult, nec omnino curat, nec quid agamus ad-
+uertit, & neque praeces neque orationes cuiusquã ex-
+audit. Cur autem illi cultum exhibemus vllum, cur honorem, cur praeces, aut quare nescientem nos Deum tantopere metuimus vel timemus qui nobis neglectis atque contemptis, neque benefacere potest neque male? prouidentia enim sublata, neque sanctitas neque religio subsistet, quibus extinctis, perturbatio vitae sequetur maxima et confufio horrenda. Pieta-
+te in Deum sublata, quid iam erit respublica, nisi confusio sempiterna? peribit necessario fides ho-
+minum publica, societasque humani generis, iusticia-
+que omnis vna simul euanescent et peribunt. Quid erit de fide Christiara sentiendum, si Deus non cu-
+rat humana, quid Denique de saluatore omnium do-
+mino nostro Iesu Christo, nisi fabula inanis et ficti-
+tium totum reputabitur, si non est prouidentia Dei mortalia curans. Prouide quicquid in hac vita bo-
+ni agimus, quicquid pro Dei amore mali sustine-
+mus, vanum est totum ac nobis inutile, si ille de no-
+bis curam non habet vllam.
+Videant nunc et horreant, qui prouidentiam
+Dei
+
+[segment 46]
+DEI negant cum finem opinionis suae desperatio-
+nem omnium pessimam intueantur. Nemo igitur
+se vaniloquentia Philosophorum secularium in-
+ductus ad contemptũ Dei erudiat, nemo prouiden-
+tiam summi et incommutabilis boni tollat, nemo
+dignitatem creatoris omnium corrumpat. Omnes
+enim qui prouidentiam negant diuinam, beneficijs
+clementissimi Saluatoris et indignos le praestant et ingratos.
+Firmiter enim credendum est et nullatenus du-
+bitandum hunc modum vniuersum, tam visibilem
+quam inuisibilem, omniaque et singula, quae vel in
+célo sunt vel in terra et in mari, diuina prouidentia
+regi et gubernari, & nihil penitus in toto vniuerso
+ab eius cura alienum. Nam et fruges et reliqua om-
+nia, quae terra parit, tempestates quoque ac varietates
+temporũ caelique mutationes, quibus omnia, quę ter-
+ra gignit naturata pubescunt, diuina prouidentia
+generi humano praestat, procuratque omnia et singu-
+la, nec solum magna, sed et minima quaeque vsque a-
+deo vt nec tenuissimum quidem arboris folium in
+terram decidat sine voluntate omnipotentis Dei
+patris, qui creauit illud et regit et curat. Si quis au-
+tem putat hanc tantam totius vniuersi magnitudi-
+nem ab vno Deo qui solus est, non posse regi et gu-
+bernari, nimiū fallitur, & quanta sit virtus diuinae
+potestatis nescire comprobatur. Enim uero qui v-
+niuersum mundum ex nihilo potuit in esse produ-
+cere, etiam quod fecit prudentissimèin sempiternũ
+potest gubernare. Omnia enim nouit, omnia intelli-
+git, ônia potest, qui solus õnipotens omnia creauit.
+Nos igitur sancto Euangelio credentes diui-
+nam imprimis prouidentiam veneremur, mentes
+quoque nostras qua possum virtute sursum eriga-
+musab
+
+76 IOA. TRITEMII OCTO QVAEST.
+mus ab his quae sunt caduca, & nobis ipsis redacti
+vniamur, quatenus Dei maiestatem vbique praesen-
+tem fideliter intelligamus, quae cum fit omninò in-
+circumscriptibilis, tenet omnia, implet omnia,
+complectitur omnia, superexcedit omnia et fusti-
+net omnia.Non autē ex vna parte sustinet atque ex a-
+lia superexcedit, neque ex vna parte implet, atque e x
+alia circumplectitur, sed circumplectendo implet et amp; implendo circumplectitur, sustinendo superex-
+cedit, superexcedendo sustinet omnia, qui per
+molem corporis nusquam est, per inscriptibilem
+substantiam suam nusquam deest, qui oculis carnis
+non cernitur, qui per fidem in cordis puritate vide-
+tur. O virtus inexplicabilis, ô pietas incompraehen-
+sibilis, ô sapientia ineffabilis, ô diuinitas incircum-
+scriptibilis, quae non partibus constas vt corpus,
+non affectibus distas vt anima, non formis substas vt
+caetera omnia quae per te facta sunt, qui es in omni-
+bus super omnia regens gubernās sapientissi-
+me vniuersa.His itaque testimonijs sacratissime Cae-
+far Maximiliane, satis vt reor, probatum est, mun-
+dum hunc vniuersum Dei prouidentia gubernari,
+qui cum fit intellectus purus, simplex increatus et sempiternus omnia nouit, omnia intelligit, omnia
+praecognoscit, atque omnipotens natura cum fit, om-
+nia potens potest,cui nihil est difficile,nihil impos-
+sibile, qui tam miranda creauit potentia sua in ve-
+ritate constituit, ratione perfecit, virtute sustinet,
+bonitate illustrat, ipsi laus, ipsi honor, ipsi gloria,
+qui viuit regnat Deus gloriosus excel-
+sus in saecula saeculorum
+Amen.
+AVCTO-
+
+AVCTORIS PROTESTATIO
+ad Caesarem.
+HAEC sunt Maximiliane Caefar
+inuictissime, quae mihi ad octo
+quaestiones, à tua maiestate
+propositas videbantur dicen-
+da. Voluisti etenim earundem etiam à
+me habere iudicium in scriptis, supra ve-
+ritatem de me faciens aestimationem:qui
+illis comparandus non sum ingenio, quo-
+rum ante me sententiam audiuisti. Faciat
+me venia dignus, si quid minus proprium
+dixi, quod Imperio celsitudinis tuae via-
+tor in itinere constitutus, vt potui per in-
+terualla quod respondendũ occurrebat,
+dictaui. Dico autem ex mente et amp; manife-
+stè protestor, me Christianae fidei, synce-
+rum confessorem, &amp; vnione sacro san-
+ctae Romanae Ecclesiae vsq́; ad mortẽ velle
+permanere. Vnde si quid vel in aliis haberetur dictũ vel
+scriptũ aliter quã illa tenet, sentit, credit et amp; docet, vt verus obediẽtiae filius p̃sentiũ
+attestatione denũcio, &amp; volo simpliciter esse
+7
+
+[segment 47]
+esse haberi perpetuo reuocatum.Quo-
+circa maiestatem tuam sapientissime
+Caefar humiliter rogo instanter cõ-
+monefacio,vtpriusquã responsiones meas
+ad noticiam facias peruenire illorum,
+quibus destinata feruantur,multorum fa-
+cias iudicio comprobari, summopere
+namque curandum est, vt nihil propona-
+tur illis, quibus tua Serenitas ad Salutem
+inuigilat , nisi solidum, probatum, mani-
+festum sententia plurimorum sapien-
+tum in fide Catholica legitime confirma-
+tum.Omnipotens Deus te sua prouiden-
+tia dirigat custodiat semper ad laudem
+nominis sui Maximiliane Imperatorum
+maxime.Ex ciuitate Neometana decima
+die mensis Iulij, Anno Christiano-
+rum millefimo, quingen-
+tefimo octauo.
+Ioannes Tritemius
+Abbas.
+
+n.Quo-
+tisinte
+ter cō-
+es meas
+lorum,
+um fa-
+opere
+pona-
+alurem
+mani-
+apien-
+nfirma.
+uiden-
+audem
+torum
+ecima
+ano-
+remius
+0 1 2 3 4 Gray Scale
+0 1 2 3 4 GraY ScLe
+© HAH http://dilib.hab.dedrucke/yg-51.8f-helmst/start.htmp?image=001O1DFG
+0 Gray Scale
+1 2 3 4
+0 Gray Scale
+1 2 3 4
+Herzog AuguS Bibliothek
+0 Gray Scale
+1 2 3 4 GraY ScLe
+© HAH http://diglib.hab.de/Drucken/Yg-51-8.F-Helmst/Staht.Htm/image=001o1DFG
+0 Gray Scale
+1 2 3 4
+© HAH http://dilib.hab.dedruke/yg-51.8F-helmst/starthm?image=001OIFDG
+0 Gray Scale
+1 2 3 4
+0 Gray Scale
+1 2 3 4
+Herzog AuguS BibliotheK
+0 Gray Scale
+1 2 3 4 GraY ScLe
+© HAH http://diglib.hab.de/Drucke/Yg-51-8.F.Helmst/Staht.htmp/image=001oIFG
+0 Gray Scale
+1 2 3 4
+© HAH http://dilib.hab.dedrukke/yg-51.9F-helmst/starthtm?image=001OIfDG
+Herzog AuguSt BibiotheK
+0 Gray Scale
+1 2 3 4
+0 Gray Scale
+1 2 3 4
+Herzog AuguS BibloteheK
+0 Gray Scale
+1 2 3 4 GraV ScLe
+© HAH http://diglib.hab.de/DruKe/Yg-51-9.F.Helmst/Staht.hmt/image=001oifDG
+Herzog AuguST BibotheK
+0 Gray Scale
+1 2 3 4
+© HAH http://dilib.hab.de/drucke/Yg-51.9F-Helmst/starthtm?imag=ooIoIFDG
+Herzog AuguSt BibotheK
+0 Gray Scale
+1 2 3 4
+0 Gray Scale
+1 2 3 4
+
+Gray Scale 0 1 2 3 4
+[Blank Page]
+
+[segment 48]
+Gray Scale 0 1 2 3 4
+X
+V
+I
+II
+III
+IV
+V
+VI
+VII
+VIII
+IX
+X
+XI
+XII
+XIII
+XIV
+XV
+XVI
+XVII
+XVIII
+XIX
+XX
+XXI
+XXII
+XXIII
+XXIV
+XXV
+XXVI
+XXVII
+XXVIII
+XXIX
+XXX
+XXXI
+XXXII
+XXXIII
+XXXIV
+XXXV
+XXXVI
+XXXVII
+XXXVIII
+XXXIX
+XL
+XLI
+XLII
+XLIII
+XLIV
+XLV
+XLVI
+XLVII
+XLVIII
+XLIX
+L
+LI
+LII
+LIII
+LIV
+LV
+LVI
+LVII
+LVIII
+lix
+CI
+CII
+CIII
+CV
+CVI
+CVII
+CX
+CXII
+CXIII
+CXIV
+CXV
+CXVI
+CXVII
+CXVIII
+CXIX
+CL
+CLI
+CLII
+CLIII
+CLIV
+CLV
+CLVI
+CLVII
+CLVIII
+CLIX
+CLX
+CLXI
+CLXII
+CLXIII
+CLXIV
+CLXV
+CLXVI
+CLXVII
+CLXVIII
+CLXIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII
+CLXCVIII
+CLXCVIX
+CLXCV
+CLXCVII

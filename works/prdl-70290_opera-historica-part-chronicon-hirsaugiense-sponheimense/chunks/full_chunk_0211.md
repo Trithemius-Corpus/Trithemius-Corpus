@@ -1,0 +1,25 @@
+*Of the Monastery of Hirsau*
+
+... having died at Palermo (as we have said). For Adolf, archbishop of Cologne, and Theodoric, archbishop of Trier, maintaining that the election of the king belonged to their jurisdiction, held counsel at Andernach with Duke Bernard and with other bishops, counts, and many nobles, and proclaimed to all the princes a general court at Cologne for the Sunday *Oculi mei*, to celebrate the election of a new king. Meanwhile the eastern margraves, Conrad archbishop of Mainz, Bernard duke of Saxony, the archbishop of Magdeburg, and other higher princes, meeting at Erfurt, elected Philip duke of Swabia as king of the Romans, namely the brother of the deceased emperor Henry.
+
+Therefore, on the appointed day, the aforesaid princes, coming to Cologne, waited with great desire for the arrival of Bertold, duke of Zahringen, whom they had promised that they would elect. But when he had received from Philip 1,000 marks of silver together with the duchy of Swabia, and had renounced the election, he disdained to come. When this became known to the aforesaid princes, greatly indignant, they elected Otto, count of Poitou, son of the late Henry duke of Saxony, as king of the Romans against Philip. And evils were multiplied in the land: wars, burnings, destruction of cities, and the slaughter of the poor.
+
+But when Philip heard of Otto's election, he sent ahead to Aachen three hundred armed knights with many other shield-bearers, so that they might keep Otto from entering the city and preserve the city and the seat of the kingdom for him. But Otto, with his supporters, surrounding that city with a siege at harvest time, took it by force and held it; and after sitting for three days in the seat of the kingdom, he departed from there, entrusting it to his faithful men to guard. Meanwhile Philip, having gathered an army, entered Alsace; and because it was near harvest, he destroyed all the grain found in the fields. Thus there were many wars between this Philip and Otto for almost eight years, during which Philip lived in the kingdom, until at last, after his death, peace was in some measure restored, as we shall say in its place.
+
+In the year noted above Celestine III, pope, also died; Innocent III succeeded him, by nation a Campanian, and he presided for 18 years. Because he hated King Philip on account of his father and brother, who had committed many acts against the Roman Church, he held Otto's side, and crowned him emperor, as we shall say later.
+
+In the same year a battle was joined between King Philip and his adversary Otto, not far from Koblenz beside the Moselle, but nothing worthy of memory was done, except the plundering of the poor and the desolation of all the provinces round about.
+
+In the same year Baldemar, the fourth abbot of my monastery of Sponheim, died. Rupert succeeded him as fifth abbot, and presided for 14 years and 2 months. He was a man very learned in both divine and secular letters, and venerable no less for his life than for his knowledge.
+
+*Otto, bishop of Speyer, died.*
+
+Likewise in the same year, on the Kalends of July, Baldemar, the fourth abbot of my monastery of Sponheim, died. Rupert succeeded him as fifth abbot, and presided for 8 years. In the same year [unclear], who had previously been chancellor of the imperial court, a prudent man and for a long time sufficiently experienced in many varieties of affairs, [died?]. He governed his church well, increasing its revenues and restoring what had been ruined. There are those who write that he had first been bishop of the church of Metz.
+
+Also in the year noted above, the third of Abbot Marquard, and the 150th from the foundation of this house, King Philip besieged Strasbourg, destroyed Rubiacum and many strongholds of the bishop of Strasbourg and of Count Adelbert of Dagsburg, and leveled them to the ground. At last, through the mediation of Lord Berthold duke of Zahringen and other princes, concord was made between them, so that the bishop, abandoning Otto's side, would give Philip, for retaining the governance of the kingdom, aid and support with his son as far as he could. This same thing the count of Dagsburg promised that he would do thereafter.
+
+This year, on the Assumption of blessed Mary ever virgin, King Philip held a great court of his princes at Mainz. Since Conrad, its archbishop, was still in the Holy Land with other princes, the archbishop of Tarentum there, in place of the aforesaid archbishop, anointed Philip as king. In the same assembly King Philip, as [unclear], gave crowns to him and to his wife. At that time the empress Constance died in Sicily, and her son Frederick, after many hardships, at last obtained the kingdom of Apulia and of Sicily.
+
+In the same year, around the beginning of October, King Philip, together with the new king of the Bohemians, crossed the river Moselle with a strong force and a numerous army, invaded the territory of the people of Cologne against Otto, and burned Remagen, Bonn, and many surrounding villages with fire.
+
+In the same

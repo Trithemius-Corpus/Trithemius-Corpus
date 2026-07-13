@@ -1,0 +1,3 @@
+*De Vera Conversione Mentis ad Deum* — "On the True Conversion of the Mind to God" — is one of Trithemius's devotional-contemplative treatises, on the soul's genuine turning toward God as opposed to a merely outward religious life. It sits with the inward, affective side of his work — *De Operatione Divini Amoris*, *De Vanitate et Miseria Humanae Vitae* — rather than the reform tracts or the cryptographic books, and it treats conversion as an interior act of the will and intellect rather than a change of habit or observance.
+
+This is a **Mainz edition, not before 1500** (BSB scan). The Latin was re-OCR'd from the page scans and translated by GPT-5.5. No published English translation is known; the translation sits in the top tier (S).

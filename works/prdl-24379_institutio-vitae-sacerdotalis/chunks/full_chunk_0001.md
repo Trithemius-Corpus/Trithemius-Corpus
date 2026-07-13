@@ -1,0 +1,1 @@
+*Instruction in the Priestly Life of Dom Johannes Trithemius, abbot of Sponheim, of the Order of the divine father Benedict, of the diocese of Mainz. To Nicolaus [Mernicensis?], priest of the diocese of Trier.*

@@ -1,0 +1,1 @@
+*Sermons and Exhortations to Monks, by Johannes Trithemius, abbot of Sponheim ... Of these sermons there are two books: the first is called the Book of Homilies, the second the Book of Sermons. Strasbourg, 1516.*

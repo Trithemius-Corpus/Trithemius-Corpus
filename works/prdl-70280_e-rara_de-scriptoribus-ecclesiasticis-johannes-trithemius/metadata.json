@@ -1,0 +1,47 @@
+{
+  "id": "prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius",
+  "title": "Liber de Scriptoribus Ecclesiasticis",
+  "year": "1494",
+  "source_year": "1494",
+  "year_note": null,
+  "edition_info": "[Basel] : [Johann Amerbach], 1494 (e-rara)",
+  "edition_info_raw": "( [Basel] : [Johann Amerbach], 1494 ) e-rara",
+  "duplicate_source_group": null,
+  "duplicate_source_note": null,
+  "page_count": 301,
+  "genre_cluster": "bibliographic",
+  "tier": "S",
+  "faithful_adj": 4.67,
+  "fluent_adj": 4.67,
+  "coverage_pct": 93.7,
+  "chunks_graded": 268,
+  "chunks_total": 286,
+  "hallucinated_pct": 0.0,
+  "low_pct": 0.0,
+  "canonical_backend": "public",
+  "all_backends": [
+    "claude-cli",
+    "minimax",
+    "minimax-v2",
+    "opus-sweep",
+    "public"
+  ],
+  "source": {
+    "provider": "e-rara",
+    "url": "http://www.e-rara.ch/zuz/content/titleinfo/3202049",
+    "download_url": "http://www.e-rara.ch/download/pdf/3202049",
+    "prdl_id": "70280"
+  },
+  "license": "CC0-1.0",
+  "artifacts": {
+    "english_md": "english.md",
+    "latin_ocr_txt": "latin-ocr.txt",
+    "intro_md": "intro.md",
+    "chunks_dir": "chunks/",
+    "n_segments": 280,
+    "n_missing_segments": 0,
+    "latin_source_file": "full.txt",
+    "latin_fallback_sources": {},
+    "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius_parallel.html"
+  }
+}

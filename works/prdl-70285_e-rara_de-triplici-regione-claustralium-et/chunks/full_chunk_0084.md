@@ -1,0 +1,33 @@
+about thinking or meditating on God, you ought to set beforehand, so that amid holy thoughts you may be able sweetly to fall asleep. For such as the occupations of one awake have been, such also will be the repose of one sleeping, and such will be his dreams. For the mind, burning with divine love, will be able, neither sleeping nor waking, to forget its beloved, as the bride says in the Canticles: “I sleep, and my heart keeps watch.”
+
+*At Vespers. Seventh Consideration.*
+
+When the first signal for Vespers has been heard, and, according to custom, “Blessed be the name of the Lord” has been said, with the other things customarily set before it, have compassion on those occupied in secular business, and give thanks to almighty God that he has willed you to be free from those things for serving him. Then you will be able to gather yourself back to inward things, or to meditate somewhat on the Passion of the Lord, until, when the second signal sounds, you go to choir. For in my judgment there is no better meditation for beginners and those making progress, for compunction and devotion of mind, than that which takes its beginning from the Passion of our Lord Jesus Christ through ardent affections.
+
+*At the Vigils of the Dead.*
+
+When compelled by the vigils, after Vespers you will be able to perform the hour of the Holy Cross, and afterward to think somewhat about the immense charity of God with which he loves faithful souls. Then, as much as you can, consider in how great desolation those holy souls placed in purgatory are; how great is the pain for a spirit separated from the body and desiring to return to the center of its beginning, not to be able to behold the countenance of its Creator through friendly fruition, but to be compelled to wait in punishments and torments most grievous to it. For so great is the desolation, sadness, and grief of a soul separated, placed in punishments, and desiring to come to God, that no kind of torments known to us in this world could be compared with its sadness. There is no comparison, in our manner of speaking, of bodily sadness and desolation with the state of a separated spirit, placed in delay of return to its beginning.
+
+*At Nocturns. Seventh Consideration.*
+
+Whence the aforesaid hour of the dead seems to be held as night, which is nocturnal. For although nocturns do not end the day, but are continued through the night, for that reason it is now called nocturnal, as if he had said night; nevertheless today he says nocturnal. And this he does, as is said in the book of the holy father Benedict, who says: Nocturns are an hour between Matins and Vespers. *At Nocturns. Seventh Consideration.* Whence you will be compelled to the nocturns of the vigils after Vespers, the hour, desolation, Holy Cross, desiring, pain, for the spirit, center, to its beginnings, to return, desiring, to behold, to be compelled, sadness, grief, so that no kind of torment to come, to compare, to wait most grievously, known with its sadness, could compare, the state of the spirit, in return, placed toward its beginning.
+
+*At Nocturns. Eighth Consideration.*
+
+Whence you will be compelled to the nocturns of the vigils after Vespers, by the desolation of the Holy Cross, desiring, by pain, for the spirit, the center to its beginnings to return, desiring, to behold, [unclear], sadness, by grief, so that no kind of torment to come, to be compared, to be awaited most grievously, known with its sadness, could compare, the state of the spirit in return, placed toward its beginning.
+
+*At Nocturns. Ninth Consideration.*
+
+Whence he has been compelled by the nocturnal hour of the vigils after Vespers; the hour of the dead seems to be held as night, which does not end the day but is continued through the night; for that reason it is called nocturnal, as if he had said night, yet today nocturnal. And this he does, as is said in the book of the holy father Benedict, who says: Nocturns are an hour between Matins and Vespers. *At Nocturns. Ninth Consideration.* Whence you will be compelled by the nocturnal hour of the vigils after Vespers, by the desolation of the Holy Cross, desiring, pain, for the spirit, the center to its beginning, to return, desiring, to behold, [unclear], sadness, grief, so that no kind of torment to come, to compare, to wait most grievously, known with its sadness, you could compare, the state of the spirit, return to its beginning, placed.
+
+*At Nocturns. Tenth Consideration.*
+
+Whence you have been compelled by the nocturnal hour of the vigils after Vespers; the hour of the dead seems to be held as night, which does not end the day but continues through the night. Therefore it is called [unclear], as if you had said night, yet today [unclear]. And this he does, as is said in the aforesaid book of Saint Benedict the father, who says: Nocturns are an hour between Matins and Vespers. *At Nocturns. Tenth Consideration.* Whence he has been compelled to the nocturnal hour of the vigils after Vespers, the hour of the dead, by the desolation of the Holy Cross, desiring, pain, for the spirit, the center to its beginning, to return, desiring, to behold, [unclear], sadness, grief, so that no kind of torment to come, to compare, to wait most grievously, known with its sadness, could [unclear], the state of the spirit, return to its beginning, placed.
+
+*At Nocturns. Eleventh Consideration.*
+
+Whence you have been compelled by the nocturnal hour of the vigils after Vespers; the hour of the dead seems to be held as night, which does not end the day but continues through the night; therefore it is called nocturnal, as if you had said night, yet today nocturnal. And this he does, saying in the aforesaid book of the aforesaid Saint Benedict, who says: Nocturns are an hour between Matins and Vespers. *At Nocturns. Eleventh Consideration.* Whence he has been compelled to the nocturnal hour of the vigils after Vespers, the hour of the dead, by the desolation of the Holy Cross, desiring, pain, for the spirit, the center to its beginning, [unclear] desiring to return, to behold, [unclear], sadness, grief, so that no kind of torment to come, to compare, to wait most grievously, known with its sadness, you could [unclear], the state of the spirit, return to its beginning, placed.
+
+*At Nocturns. Thirteenth Consideration.*
+
+Whence you have been compelled by the nocturnal hour of the vigils after Vespers; the hour of the dead seems to [unclear] night, which does not end the day but continues through the night; therefore it is called [unclear] or nocturnal, as if you had said night, yet today nocturnal. And this he does, saying in the aforesaid book of the aforesaid Saint Benedict, who says: Noct

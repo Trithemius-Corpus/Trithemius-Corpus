@@ -1,0 +1,25 @@
+*The Monastery of Hirsau*
+
+*Concerning Conrad, the nineteenth abbot of this monastery, who presided for 12 years, and concerning his way of life and certain deeds of his and of that time.*
+
+*Conrad becomes abbot of Hirsau.*
+
+After the resignation of the most reverend father, Lord Abbot Rupert, lest the monastery long feel the inconveniences of its widowhood, the prior and brothers of this community appointed a day for the election of a new shepherd. When it arrived, and all who were required to be present at the election had assembled in the chapter place, the grace of the Holy Spirit having been invoked, as is customary, after mature deliberation they unanimously elected as abbot the venerable man Conrad, a monk of this community, brother of Count Hermann of Kilberg, a holy and excellent man. After humbly excusing himself, he was at last overcome by the prayers of the brothers, gave his consent, and accepted the dignity with its burden. Thus elected by the common assent of the brothers, after a few days he was ordained abbot by the bishop of the church of Bamberg, and he presided vigorously over this monastery for 12 years. He refused, however, to be ordained by the bishop of Speyer, because that bishop adhered to Emperor Frederick, long since excommunicated, against the supreme pontiff.
+
+This Conrad, as we have said, was sprung from the noble stock of the Swabians, the son of the noble count of Kilberg and the brother of Count Hermann. From his earliest age he was set to learning letters, and he made no small progress in every branch of knowledge, both divine and human. At last, when he had grown into a mature man, and was held glorious and distinguished for riches and honors and for the nobility of his lineage, he despised all things as dung for the love of God, betook himself to the present community, and, becoming a monk, lived in all religion and holiness. For the higher and nobler he was by birth, the humbler he showed himself in all things in his way of life. He never saddened anyone, offended no one wrongfully, but lived among the brothers without complaint and went about without offense. He was gentle in disposition and ready for obedience, so that he had no equal in the community. For in humility, obedience, patience, and uprightness of conduct he surpassed all, and by continence both of body and mind he was of singular chastity. He was dark in face, of middling stature, grave in gait, contemptible in habit, but excellent and gracious in virtue of soul.
+
+When he had been ordained abbot, he strove in all things to show himself the form of the flock by word and example, tempering modestly the former measure of his humility, so that to the good and well-disposed he seemed a companion in manner of life, but to the hard and disobedient he was to be revered through the censure of justice. In his whole life he always lived most chastely, giving greater care to the soul than to the body. He was gentle in disposition, subtle and calm, cautious, ready, and circumspect in counsel, succinct, eloquent, and orderly in speech. In arranging temporal affairs he was strong in great sagacity and prudence, and he abundantly supplied to his subjects the necessities both of mind and body, according to the Rule of our most holy father Benedict. At table before the brothers and guests he was sufficiently generous and bountiful, and, receiving in Christ with all charity all who came, he treated them liberally according to the command of the Rule. He was dear to all, and held in the greatest reverence and honor by his subjects.
+
+*1177.*
+
+In the first year of Abbot Conrad, which was the year 1177 from the Lord’s Nativity, at Bingen, in the monastery of Saint Rupert, on the fifteenth day before the Kalends of December, died Saint Hiltrudis, a virgin nun of our order, daughter of Count Meginhard of Spanheim and sister of Lord Crafto, the second abbot of my monastery of Spanheim. Blessed Hildegard, her mistress, is said to have borne witness to her sanctity both in life and after death.
+
+*1178.*
+
+In the second year of Abbot Conrad, the monastery of Saint James on Mount Speciosus near Mainz, destroyed nine years earlier on account of the murder of Arnold, archbishop of Mainz, began to be rebuilt by permission of Frederick, the first emperor, and with the aid of Archbishop Christian.
+
+In the same year Reinhard, bishop of Würzburg, died. Godfrey succeeded him and presided for 6 years, eight months, and 24 days. This Bishop Godfrey dedicated the greater church of Würzburg in honor of Saint Kilian the martyr, and governed his church quite usefully and vigorously.
+
+*1180.*
+
+In the fourth year of Conrad, abbot of this community, which was the year 1180 from the Lord’s Nativity, on the fifteenth day before the Kalends of October, died Saint Hildegard, a nun of our order, foundress and mistress, of the diocese of Mainz, of whom mention has been made above, in the [unclear] year of her age. She was buried in the middle of the choir of her monastery before the high altar; she, by many things both in life and after

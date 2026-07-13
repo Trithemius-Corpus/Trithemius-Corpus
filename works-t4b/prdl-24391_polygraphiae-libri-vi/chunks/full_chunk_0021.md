@@ -1,0 +1,23 @@
+--- Page 066 ---
+
+OF THE OPERATION.
+
+people were to come together into one place, they could never discover the secret lying hidden beneath the open discourse, provided it has been rightly arranged.
+
+XIV. Fourteenth, it must be known that in this very invention of our Polygraphia certain things still lie hidden, far better than those already described: namely, how in a few days, not to say hours, you will be able to instruct someone ignorant of the Latin language so that he knows how to write, read, speak, and understand Latin, not indeed all things universally, but in a certain manner whatever occurs to him as necessary concerning any matter in his affairs. Likewise, how you may make known securely, safely, and most secretly to your friend far away, who knows the practice of the art, all the conceptions of your mind, without writings and with the messenger unaware; even sometimes without a messenger, naturally and without any superstition, danger, or fear. But let these things remain buried in their hiding places with the rest. This reason has moved us: because it neither pleases me nor is at all useful to cast precious stones to the wind and to undertake difficult things without the fruit of gratitude. Finally, beneath these things lie no small mysteries of subtlety concerning medicines, herbs, plants, precious stones, rivers, the members of the human body, brute animals, saints, nations, cosmography, astronomy and the seven liberal arts, and also concerning all things that are in human use, and concerning the universal world, both visible and invisible. And, lest we be more prolix than is right, all things that are in the world, by extension of the likeness of the art of Polygraphia previously shown, serve a mystical instruction.
+
+--- Page 067 ---
+
+EXPLANATION
+
+XV. Fifteenth, note that all these inventions which we have handed down in the Polygraphia are certain small introductions in comparison with those that still remain to be discovered and written in this same faculty; concerning them we pass over in silence, lest we seem to boast in vain. For we have given suitable minds a cause for discovering greater things than we have either written or perhaps were able to discover. Let him who can add, for the completion of this invention, those things which he knows to be useful; but let him who cannot do so not rashly judge what he does not understand.
+
+AN EXPLANATION OF THOSE THINGS WHICH SEEMED MORE OBSCURE IN THE SECOND BOOK OF THE POLYGRAPHIA.
+
+In the second book of the Polygraphia, apart from the order and sequence of the words, nothing new is handed down from the first; therefore one and the same manner of operating will apply in both, and we carefully admonish that everything which we said must be observed in the first must also be observed in the second. A manifest difference is seen to arise only in the narrative of the prayer, since the former is composed concerning our Lord, the Son of God, while this one is raised to his mother, the ever-intact Virgin.
+
+--- Page 068 ---
+
+BOOK II.
+
+In the second book there are three hundred and eight alphabets set before the words in order, though under different subjects. For from the beginning the narrative of the discourse is directed to our Lady herself; afterward the Lord’s Prayer is expanded under twenty-four alphabets; then the Angelic Salutation is added, next the Salve Regina, and lastly a brief prayer concerning Saint Anne, mother of the Virgin Mary, Mother of God. In all the books of the Polygraphia care must be taken that one word not be repeated in any alphabetical order, that is, not be placed twice, and that none be omitted, because it would cause great confusion for the reader. Therefore the utmost care must be taken that the copies be in every respect emended and corrected exactly, lest, when writing, you fall into error. But if, through the negligence of the scribe or the carelessness of the printer, you find some word duplicated under one alphabet, erase the last one and put in its place another suitable one which has not occurred earlier in the same alphabet. Know also that these two books of our Polygraphia serve sufficiently for the promised operation: by means of them you will not only be able at all times to write and announce to friends whatever you wish, very safely and very securely, but also, without any suspicion, to make one wholly ignorant of the Latin language, provided he knows how to form letters, a participant in and learned in this art, something which we believe was previously unheard of in such a manner. But since this manner of writing secretly, under a long narrative of open discourse, comprises the sentences of the hidden intention
