@@ -1,6 +1,6 @@
 # Trithemius Corpus
 
-[![The Steganographia celestial wheel — enter the Trithemius Corpus](site/static/images/hero-steganographia-wheel.webp)](https://trithemius-corpus.github.io/Trithemius-Corpus/)
+[![Trithemius Corpus — enter the English editions](site/static/images/trithemius-hero.png)](https://trithemius-corpus.github.io/Trithemius-Corpus/)
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Site](https://img.shields.io/badge/site-trithemius--corpus.github.io%2FTrithemius--Corpus-25483f)](https://trithemius-corpus.github.io/Trithemius-Corpus/)
