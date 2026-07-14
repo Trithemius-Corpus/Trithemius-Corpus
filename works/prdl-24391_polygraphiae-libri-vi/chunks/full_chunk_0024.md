@@ -10,4 +10,17 @@ First of all, we made all the letters of the Latins numerical, after the manner 
 
 But by the same necessity we doubled two letters, namely r, z, s, of which r signifies ninety, while the curved z signifies one hundred, the long s two hundred, and the closed s three hundred. Moreover the doubled w, which we placed in the order of the alphabet on account of the nature of the German language, represents the last letter, and in the series of numbers one thousand. Let us set down a tabular example of this new invention of ours for the reckoning of numbers, so that anyone who wishes to know the method may have a definite instruction before his eyes. For what has always been easy for both the Hebrews and the Greeks will not be impossible for us. The table of numbers follows.
 
-[unclear table of numbers]
+| Numeral sign | Value | Numeral sign | Value | Numeral sign | Value | Numeral sign | Value |
+|---|---:|---|---:|---|---:|---|---:|
+| a | 1 | f | 7 | ia | 11 | if | 17 |
+| b | 2 | g | 8 | ib | 12 | ig | 18 |
+| c | 3 | h | 9 | ic | 13 | ih | 19 |
+| d | 4 | i | 10 | id | 14 | k | 20 |
+| e | 5 | — | — | ie | 15 | l | 30 |
+| & | 6 | — | — | i& | 16 | m | 40 |
+| n | 50 | o | 60 | p | 70 | q | 80 |
+| r | 90 | curved r | 100 | long s | 200 | closed s | 300 |
+| t | 400 | u | 500 | con/com sign | 600 | x | 700 |
+| y | 800 | z | 900 | w | 1,000 | — | — |
+
+The printed table continues the same compound system into the thousands and millions. The distinctive curved and closed letterforms are described in the preceding paragraph; they cannot be represented faithfully by ordinary modern type.

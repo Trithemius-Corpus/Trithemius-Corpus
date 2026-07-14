@@ -12,15 +12,12 @@
   <h2 class="work-title">{{ work.title }}</h2>
   {% if work.title_en %}<p class="work-subtitle">{{ work.title_en }}</p>{% endif %}
   <p class="work-id"><code>{{ work.id }}</code></p>
-  {% if work.edition == 'trithemius-4b' %}<p class="work-edition"><strong>{{ work.edition_label }}</strong> &middot; <span class="primary-tag">recommended edition</span></p>{% elif work.edition_label %}<p class="work-edition">Edition {{ work.edition_index }} of {{ work.edition_count }} of this text in the corpus &middot; <strong>{{ work.edition_label }}</strong>{% if work.is_primary %} &middot; <span class="primary-tag">recommended source witness</span>{% endif %}</p>{% endif %}
+  {% if work.edition == 'trithemius-4b' %}<p class="work-edition"><strong>{{ work.edition_label }}</strong> &middot; prepared reading view</p>{% elif work.edition_label %}<p class="work-edition">Edition {{ work.edition_index }} of {{ work.edition_count }} of this text in the corpus &middot; <strong>{{ work.edition_label }}</strong>{% if work.is_primary %} &middot; cleanest source witness in this corpus{% endif %}</p>{% endif %}
   <div class="badges">
-    {% if work.tier %}
-    <span class="badge tier-{{ work.tier|lower }}">Tier {{ work.tier }}</span>
-    <span class="badge">faith {{ '%.2f'|format(work.faithful_adj) }}</span>
-    <span class="badge">fluent {{ '%.2f'|format(work.fluent_adj) }}</span>
-    {% endif %}
+    <span class="badge status-origin">{{ work.text_origin }}</span>
+    <span class="badge status-review">{{ work.human_review }}</span>
+    <span class="badge status-editorial">{{ work.editorial_state }}</span>
     {% if work.genre %}<a class="badge badge-link" href="{{ url('genres/' + work.genre + '.html') }}">{{ work.genre_label }}</a>{% endif %}
-    {% if work.edition == 'trithemius-4b' %}<span class="badge badge-primary" title="The recommended English reading edition">&#9733;&nbsp;recommended edition</span>{% elif work.is_primary %}<span class="badge badge-primary" title="The cleanest Latin source among this text's scanned witnesses">recommended source witness</span>{% endif %}
     {% if work.first_english %}<span class="badge first-en" title="{{ work.first_english_note }}">first English</span>{% endif %}
     {% if work.page_count %}<span class="badge">{{ work.page_count }}&nbsp;pp</span>{% endif %}
     {% if work.unclear_count and work.unclear_count > 0 %}<span class="badge" title="{{ work.unclear_count }} [unclear] markers remaining">{{ work.unclear_count }}&nbsp;gaps</span>{% endif %}
@@ -47,6 +44,10 @@
       {% if work.source_year and work.source_year != work.year %}<tr><th>Edition (this witness)</th><td>{{ work.source_year }}</td></tr>{% endif %}
       {% if work.year_note %}<tr><th>Date note</th><td>{{ work.year_note }}</td></tr>{% endif %}
       {% if work.edition_info %}<tr><th>Source witness</th><td>{{ work.edition_info }}</td></tr>{% endif %}
+      <tr><th>Text origin</th><td>{{ work.text_origin }}</td></tr>
+      <tr><th>Human review</th><td>{{ work.human_review }}</td></tr>
+      <tr><th>Editorial state</th><td>{{ work.editorial_state }}</td></tr>
+      <tr><th>Automated QA</th><td>{{ work.automated_qa }}{% if work.chunks_graded %} &middot; {{ work.chunks_graded }} / {{ work.chunks_total }} chunks ({{ '%.0f'|format(work.automated_qa_coverage) }}%){% endif %}. Automated checks are triage evidence, not human certification.</td></tr>
       {% if work.edition_siblings %}
       <tr>
         <th>Other editions</th>
@@ -57,10 +58,7 @@
       </tr>
       {% endif %}
       {% if work.duplicate_source_note %}<tr><th>Source note</th><td>{{ work.duplicate_source_note }}</td></tr>{% endif %}
-      {% if work.chunks_graded %}<tr><th>Audited chunks</th><td>{{ work.chunks_graded }} graded / {{ work.chunks_total }} total ({{ '%.0f'|format(work.coverage_pct) }}%)</td></tr>{% endif %}
       {% if reading_time %}<tr><th>Reading time</th><td>~{{ reading_time }}</td></tr>{% endif %}
-      {% if work.hallucinated_pct is not none %}<tr><th>Hallucinated</th><td>{{ '%.0f'|format(work.hallucinated_pct) }}%</td></tr>{% endif %}
-      {% if work.low_pct is not none %}<tr><th>Low-faith</th><td>{{ '%.0f'|format(work.low_pct) }}% of chunks</td></tr>{% endif %}
     </tbody>
   </table>
 </section>
@@ -110,7 +108,10 @@
     <label class="rt-check"><input type="checkbox" id="rt-justify" checked> Justified</label>
     <button type="button" id="rt-reset" class="rt-reset">Reset</button>
   </div>
-  <div class="english-body">{{ english|safe }}</div>
+  <div class="english-body">
+    {% if not reading_body_has_title %}<h2 class="reading-work-title">{{ work_title }}</h2>{% endif %}
+    {{ english|safe }}
+  </div>
   {% else %}
   <p class="placeholder muted">
     No stitched English is available for this work (every translation segment

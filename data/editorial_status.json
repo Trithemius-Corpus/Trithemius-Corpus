@@ -1,0 +1,1210 @@
+{
+  "schema_version": 1,
+  "policy": {
+    "public_letter_grades": false,
+    "machine_translation_default_internal_triage": "C",
+    "human_review_required_for_promotion": true,
+    "historical_machine_grades_retained_for_provenance": true
+  },
+  "counts": {
+    "editions": 74,
+    "human_reviewed_complete": 0,
+    "machine_translations": 74
+  },
+  "editions": [
+    {
+      "id": "prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.91
+    },
+    {
+      "id": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.55
+    },
+    {
+      "id": "prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.59
+    },
+    {
+      "id": "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.69
+    },
+    {
+      "id": "prdl-24390_polygraphiae-libri-vi",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.56
+    },
+    {
+      "id": "prdl-24391_polygraphiae-libri-vi",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.74
+    },
+    {
+      "id": "prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 93.7,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.67
+    },
+    {
+      "id": "prdl-70287_joh-tritthemii-de-scriptoribus-ecclesiasticis-liber",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.59
+    },
+    {
+      "id": "prdl-24362_de-laude-scriptorum-manualium",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.71
+    },
+    {
+      "id": "prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.73
+    },
+    {
+      "id": "prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.77
+    },
+    {
+      "id": "prdl-24361_de-cura-pastorali",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.6
+    },
+    {
+      "id": "prdl-24373_de-statu-et-ruina-monastici-ordinis",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.55
+    },
+    {
+      "id": "prdl-24360_compendium-breviarium-primi-voluminis-annalium-historiarum-origine-regum",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.62
+    },
+    {
+      "id": "prdl-24363_de-laudibus-ordinis-fratrum-carmelitarum",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.74
+    },
+    {
+      "id": "prdl-24364_de-laudibus-sanctissimae-matris-annae",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.5
+    },
+    {
+      "id": "prdl-24365_de-laudibus-sanctissimae-matris-annae",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.58
+    },
+    {
+      "id": "prdl-24366_de-laudibus-sanctissimae-matris-annae-liptzk-1497",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.51
+    },
+    {
+      "id": "prdl-24367_de-laudibus-sanctissimae-matris-annae-liptzk-1501",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.78
+    },
+    {
+      "id": "prdl-70283_de-laudibus-sanctissimae-matris-annae-liptzk-1501-hab",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.67
+    },
+    {
+      "id": "prdl-70284_de-laudibus-sanctissimae-matris-annae",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.5
+    },
+    {
+      "id": "prdl-24385_liber-de-triplici-regione-claustralium-et",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.61
+    },
+    {
+      "id": "prdl-24386_liber-de-triplici-regione-claustralium-et",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.74
+    },
+    {
+      "id": "prdl-24378_institutio-vitae-sacerdotalis",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.79
+    },
+    {
+      "id": "prdl-24379_institutio-vitae-sacerdotalis",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.74
+    },
+    {
+      "id": "prdl-24380_admonitiones-exhortationes-monachos",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 97.8,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.98
+    },
+    {
+      "id": "prdl-24381_octo-quaestionum-maximilianum-caesarem",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 95.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.89
+    },
+    {
+      "id": "prdl-24382_octo-quaestionum-maximilianum-caesarem",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.81
+    },
+    {
+      "id": "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 94.7,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.67
+    },
+    {
+      "id": "prdl-70289_opera-historica-part",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.5
+    },
+    {
+      "id": "prdl-70290_opera-historica-part-chronicon-hirsaugiense-sponheimense",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.48
+    },
+    {
+      "id": "prdl-24357_abbreviatura-recessuum-capitularium-patrum-ordinis-divi",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.72
+    },
+    {
+      "id": "prdl-24368_de-operatione-divini-amoris",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.94
+    },
+    {
+      "id": "prdl-24369_de-purissima-et-immaculata-conceptione-virginis",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.67
+    },
+    {
+      "id": "prdl-24370_de-purissima-et-immaculata-conceptione-virginis",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.55
+    },
+    {
+      "id": "prdl-24374_de-vanitate-et-miseria-humanae-vitae",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.5
+    },
+    {
+      "id": "prdl-24375_de-vera-conversione-mentis-ad-deum",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.77
+    },
+    {
+      "id": "prdl-24376_ecloga-de-laude-calvorum-ad-carolum",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 5.0
+    },
+    {
+      "id": "prdl-24393_sermones-et-exhortationes-ad-monachos-joa",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 93.9,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.69
+    },
+    {
+      "id": "prdl-24394_sermones-et-exhortationes-ad-monachos-joa",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 92.4,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.69
+    },
+    {
+      "id": "prdl-32285_de-sacerdotum-vita-instituenda-libellus",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.96
+    },
+    {
+      "id": "prdl-32286_octo-quaestionum-maximilianum-caesarem",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.88
+    },
+    {
+      "id": "prdl-70285_e-rara_de-triplici-regione-claustralium-et",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.83
+    },
+    {
+      "id": "prdl-70286_octo-quaestionum-maximilianum-caesarem",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.71
+    },
+    {
+      "id": "prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.69
+    },
+    {
+      "id": "prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.65
+    },
+    {
+      "id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam",
+      "edition_track": "earlier",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "provisional-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.56
+    },
+    {
+      "id": "prdl-24357_abbreviatura-recessuum-capitularium-patrum-ordinis-divi",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "prepared-reading-text",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 28.2,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4
+    },
+    {
+      "id": "prdl-24361_de-cura-pastorali",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "editorial-reading-view",
+      "editorial_state": "editorially-reviewed-reading-view",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.5,
+      "review_date": "2026-07-14",
+      "review_note": "Book-style presentation reviewed and approved; this is not a complete human verification of the translation against the Latin."
+    },
+    {
+      "id": "prdl-24362_de-laude-scriptorum-manualium",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "editorial-reading-view",
+      "editorial_state": "editorially-reviewed-reading-view",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 52.6,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "A",
+      "historical_faithfulness_score": 3.6,
+      "review_date": "2026-07-14",
+      "review_note": "Book-style presentation and restored sixteen-chapter structure reviewed and approved; this is not a complete human verification of the translation against the Latin."
+    },
+    {
+      "id": "prdl-24363_de-laudibus-ordinis-fratrum-carmelitarum",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "editorial-reading-view",
+      "editorial_state": "editorially-reviewed-reading-view",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 41.4,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "A",
+      "historical_faithfulness_score": 3.833,
+      "review_date": "2026-07-14",
+      "review_note": "Two-book presentation, twelve-chapter structure, and scan-marker cleanup reviewed and approved; this is not a complete human verification of the translation against the Latin."
+    },
+    {
+      "id": "prdl-24368_de-operatione-divini-amoris",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "editorial-reading-view",
+      "editorial_state": "editorially-reviewed-reading-view",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "A",
+      "historical_faithfulness_score": 3.923,
+      "review_date": "2026-07-14",
+      "review_note": "Title presentation and the oration's ten numbered divisions reviewed and approved after removal of an unrelated botanical intrusion; this is not a complete human verification of the translation against the Latin."
+    },
+    {
+      "id": "prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "editorial-reading-view",
+      "editorial_state": "editorially-reviewed-reading-view",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "A",
+      "historical_faithfulness_score": 3.8,
+      "review_date": "2026-07-14",
+      "review_note": "Title presentation and four content-based divisions reviewed and approved after removal of a duplicated opening; this is not a complete human verification of the translation against the Latin."
+    },
+    {
+      "id": "prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "prepared-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "A",
+      "historical_faithfulness_score": 3.9
+    },
+    {
+      "id": "prdl-24373_de-statu-et-ruina-monastici-ordinis",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "prepared-reading-text",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 40.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.167
+    },
+    {
+      "id": "prdl-24375_de-vera-conversione-mentis-ad-deum",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "prepared-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.308
+    },
+    {
+      "id": "prdl-24376_ecloga-de-laude-calvorum-ad-carolum",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "prepared-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4
+    },
+    {
+      "id": "prdl-24378_institutio-vitae-sacerdotalis",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "prepared-reading-text",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 52.6,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.4
+    },
+    {
+      "id": "prdl-24379_institutio-vitae-sacerdotalis",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "prepared-reading-text",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 52.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "A",
+      "historical_faithfulness_score": 3.538
+    },
+    {
+      "id": "prdl-24381_octo-quaestionum-maximilianum-caesarem",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "prepared-reading-text",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 40.5,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.333
+    },
+    {
+      "id": "prdl-24382_octo-quaestionum-maximilianum-caesarem",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "prepared-reading-text",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 42.9,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "A",
+      "historical_faithfulness_score": 4.167
+    },
+    {
+      "id": "prdl-24385_liber-de-triplici-regione-claustralium-et",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "prepared-reading-text",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 22.6,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4
+    },
+    {
+      "id": "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "structured-diplomatic-view",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 22.1,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "A",
+      "historical_faithfulness_score": 3.63
+    },
+    {
+      "id": "prdl-24391_polygraphiae-libri-vi",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "structured-diplomatic-view",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 22.3,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "A",
+      "historical_faithfulness_score": 3.968
+    },
+    {
+      "id": "prdl-24393_sermones-et-exhortationes-ad-monachos-joa",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "prepared-reading-text",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 16.2,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "A",
+      "historical_faithfulness_score": 3.875
+    },
+    {
+      "id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "structured-diplomatic-view",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 29.3,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "A",
+      "historical_faithfulness_score": 3.542
+    },
+    {
+      "id": "prdl-32286_octo-quaestionum-maximilianum-caesarem",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "prepared-reading-text",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 40.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.5
+    },
+    {
+      "id": "prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "prepared-reading-text",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 45.7,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.375
+    },
+    {
+      "id": "prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "structured-diplomatic-view",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 18.9,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "A",
+      "historical_faithfulness_score": 3.5
+    },
+    {
+      "id": "prdl-70283_de-laudibus-sancctissime-matris-anne-tractat",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "prepared-reading-text",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "A",
+      "historical_faithfulness_score": 3.8
+    },
+    {
+      "id": "prdl-70285_e-rara_de-triplici-regione-claustralium-et",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "prepared-reading-text",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 22.6,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "A",
+      "historical_faithfulness_score": 4
+    },
+    {
+      "id": "prdl-70286_octo-quaestionum-maximilianum-caesarem",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "prepared-reading-text",
+      "automated_qa": "sampled-machine-audit",
+      "automated_qa_coverage_pct": 41.9,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.444
+    },
+    {
+      "id": "prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "structured-diplomatic-view",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "S",
+      "historical_faithfulness_score": 4.8
+    },
+    {
+      "id": "prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines",
+      "edition_track": "trithemius-4b",
+      "text_origin": "machine-translation",
+      "human_review": "none-documented",
+      "editorial_state": "structured-diplomatic-view",
+      "automated_qa": "full-machine-audit",
+      "automated_qa_coverage_pct": 100.0,
+      "internal_triage": "C",
+      "known_limitations": [
+        "not-human-verified",
+        "check-against-latin-before-quotation"
+      ],
+      "historical_machine_grade": "A",
+      "historical_faithfulness_score": 3.8
+    }
+  ]
+}

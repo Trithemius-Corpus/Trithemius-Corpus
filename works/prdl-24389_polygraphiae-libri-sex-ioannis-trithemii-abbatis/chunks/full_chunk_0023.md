@@ -14,10 +14,17 @@ The letter in the first straight table is B, and in the reversed table Z. Into t
 
 [unclear] he wishes, he can devise more beautiful characters for himself. All the synthemata of this book are sufficiently clear and manifest, and therefore they need no explanation, not even a brief one. Yet those things which have been newly invented by us require a definite declaration, lest perhaps they be judged to have been set down without reason. First of all, we made all the letters of the Latins numerical, after the manner of the Hebrews and Greeks, considering it shameful for us if we should be found inferior to them in this respect. For what if we have doubled certain letters so that they might suffice for an infinite number, since the Jews, compelled by the same necessity, did the very same thing long ago? And the Greeks, because of the lack of letters, admitted certain signs into the number, since they were unable to double the letters. But we, because we are pressed by an equal lack of letters, admit two signs: namely this &, which our writers put for et; nor does it matter whether it is written thus, &, or thus, et, provided it represents six in the number. We have added another, 9, which our writers, when abbreviating, write indifferently for con and com; and here in the order of numbers it represents six hundred. By the same necessity we have doubled two letters, namely r, z, and s: of these r means ninety, but curved z means one hundred, long s two hundred, and closed s three hundred. Further, doubled w, which because of the character of the German language we have placed in the order of the alphabet, represents the last letter, and in the series of numbers one thousand. Let us set down a tabular example of this new invention of ours for the reckoning of numbers, so that anyone who wishes to know the method may have a definite demonstration before his eyes. For what has always been easy for the Hebrews and Greeks will not be impossible for us. The table of numbers follows.
 
-A b c d e f g
-ij iij iiij v vii viij
-p q r t s c
-lxx lxxx liiiii cc ccc
-wf wg wh wi wk
-vij viij viiii x xx
-ws wt w[unclear] de wx dce
+| Numeral sign | Value | Numeral sign | Value | Numeral sign | Value | Numeral sign | Value |
+|---|---:|---|---:|---|---:|---|---:|
+| a | 1 | f | 7 | ia | 11 | if | 17 |
+| b | 2 | g | 8 | ib | 12 | ig | 18 |
+| c | 3 | h | 9 | ic | 13 | ih | 19 |
+| d | 4 | i | 10 | id | 14 | k | 20 |
+| e | 5 | — | — | ie | 15 | l | 30 |
+| & | 6 | — | — | i& | 16 | m | 40 |
+| n | 50 | o | 60 | p | 70 | q | 80 |
+| r | 90 | curved r | 100 | long s | 200 | closed s | 300 |
+| t | 400 | u | 500 | con/com sign | 600 | x | 700 |
+| y | 800 | z | 900 | w | 1,000 | — | — |
+
+The printed table continues the same compound system into the thousands and millions. The distinctive curved and closed letterforms are described in the preceding paragraph; they cannot be represented faithfully by ordinary modern type.

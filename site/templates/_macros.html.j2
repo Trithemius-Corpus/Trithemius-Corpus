@@ -24,11 +24,11 @@
   {% if t.excerpt %}<p class="text-card-excerpt muted">{{ t.excerpt }}</p>{% endif %}
   <p class="text-card-editions muted">
     {% if t.editions|length == 1 %}
-    <span class="tier-dot tier-{{ (t.editions[0].tier or 'u')|lower }}" title="Audit tier {{ t.editions[0].tier or '?' }}"></span>{{ t.editions[0].label }}
+    {{ t.editions[0].label }} &middot; {{ t.editions[0].editorial_state|lower }}
     &middot; <a href="{{ url('works/' + t.editions[0].id + '_parallel.html') }}">Latin&thinsp;/&thinsp;English</a>
     {% else %}
     {{ t.editions|length }} editions:
-    {% for e in t.editions %}<a href="{{ url('works/' + e.id + '.html') }}"><span class="tier-dot tier-{{ (e.tier or 'u')|lower }}" title="Audit tier {{ e.tier or '?' }}"></span>{{ e.label }}</a>{% if not loop.last %} &middot; {% endif %}{% endfor %}
+    {% for e in t.editions %}<a href="{{ url('works/' + e.id + '.html') }}">{{ e.label }}</a>{% if not loop.last %} &middot; {% endif %}{% endfor %}
     {% endif %}
   </p>
 </article>

@@ -1,6 +1,9 @@
-# Public quality scoreboard
+# Historical automated quality scoreboard
 
-Canonical release view generated from `manifest.json` and per-work `metadata.json`. The older GPT-5.5 audit baseline is discussed historically in `METHODOLOGY.md`; this file reflects the public text after remediation and gap-close passes.
+Historical machine-audit view generated from `manifest.json` and per-work
+`metadata.json`. These scores are retained for reproducibility and triage. They
+do not represent human review, certification, or the current public editorial
+status; see `data/editorial_status.json` and `METHODOLOGY.md`.
 
 - Translatable works: **47**
 - Published chunks: **4,400** total / **4,353** graded

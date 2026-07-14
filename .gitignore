@@ -58,6 +58,7 @@ _unclear_proposals_*.json
 
 # Local browser/screenshot/audit output
 .cache/
+tmp/
 scripts/_cp_audit/
 scripts/_chrome_profile_measure/
 scripts/_cp_meas/

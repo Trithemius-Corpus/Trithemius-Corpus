@@ -14,7 +14,8 @@
   {% if work.title_en %}<p class="work-subtitle">{{ work.title_en }}</p>{% endif %}
   <p class="work-id"><code>{{ work.id }}</code> &middot; Latin source / English translation, segment&nbsp;by&nbsp;segment</p>
   <div class="badges">
-    {% if work.tier %}<span class="badge tier-{{ work.tier|lower }}">Tier {{ work.tier }}</span>{% endif %}
+    <span class="badge status-origin">{{ work.text_origin }}</span>
+    <span class="badge status-review">{{ work.human_review }}</span>
     {% if work.genre %}<a class="badge badge-link" href="{{ url('genres/' + work.genre + '.html') }}">{{ work.genre_label }}</a>{% endif %}
     <span class="badge">{{ pairs|length }} reader segments</span>
     {% if stats.n_missing %}<span class="badge warn">{{ stats.n_missing }} untranslated</span>{% endif %}

@@ -29,7 +29,7 @@ Neither machine transcription is a critical Latin edition. The hierarchy is:
 1. the institutional page facsimile;
 2. the OCR witness shown on the site;
 3. the English translation;
-4. automated quality grades, which are triage signals rather than certification.
+4. historical automated QA records, retained as triage evidence rather than certification.
 
 For a passage used in publication, check the English against the Latin and the Latin against the facsimile.
 
@@ -96,7 +96,18 @@ The strengthened dual-lane guards now test:
 
 The overlap check normalizes common long-*s* OCR artifacts and compares Latin content stems with the translation. In calibration, faithful chunks showed meaningful overlap while drifted chunks clustered near zero. These guards are used for audit and future reruns; they were not retroactively treated as proof of correctness.
 
-## 6. Grading and quality tiers
+## 6. Historical automated grading and current review status
+
+The public site no longer presents machine-generated `S/A/B/C/F` tiers. Those
+labels overstated what automated comparison could establish and blurred the
+difference between readable output, model agreement, editorial preparation,
+and human verification. Historical grades remain in metadata and audit ledgers
+for reproducibility.
+
+Current public pages report four independent facts: text origin, documented
+human review, editorial state, and automated-QA coverage. Internally, an
+unreviewed machine translation begins at triage status C. Promotion requires
+documented human comparison against the cited witness.
 
 Different graders served different purposes.
 
@@ -107,7 +118,7 @@ Different graders served different purposes.
 - **MiniMax-M3 and GLM-5.2** supplied independent hunting and comparison signals. MiniMax’s T4B assessment was retained as a dual check, not as the final authority.
 - **MiniMax-M2.7 self-grades** are historical evidence only. Their overconfidence demonstrated why translator self-grading is inadequate.
 
-The public tier formula uses the worse result of a faithfulness floor and hallucination cap:
+The historical tier formula used the worse result of a faithfulness floor and hallucination cap:
 
 | Tier | Mean faithfulness | Hallucination |
 |---|---:|---:|
@@ -117,7 +128,9 @@ The public tier formula uses the worse result of a faithfulness floor and halluc
 | **C** | at least 2.5 / 5 | — |
 | **F** | below 2.5 / 5 | — |
 
-T4B publication normally requires Sonnet faithfulness of at least 3.5. Grades summarize a work; they do not guarantee each sentence. A score of 3.51 is not meaningfully different from 3.49 without examining the underlying passages.
+T4B publication originally required Sonnet faithfulness of at least 3.5. These
+scores now remain historical triage records only; they do not promote an edition
+or guarantee any sentence.
 
 ## 7. The remediation record
 
@@ -143,15 +156,25 @@ The site currently presents:
 - **23** texts identified as First-time-in-English at the distinct-text level;
 - a homepage “Start here” selection containing 12 distinct First-time-in-English works.
 
-The earlier track’s canonical release ledger contains 4,400 chunks, 4,353 independently graded. Its release scoreboard is S=47, with mean faithfulness 4.63/5 and no confirmed hallucination after remediation. These are corpus-level release statistics, not a claim that every phrase is correct.
+The earlier track's canonical historical ledger contains 4,400 chunks, 4,353
+machine-graded. Its former scoreboard reported S=47 and mean model-assessed
+faithfulness of 4.63/5 after remediation. Those figures describe an automated
+pipeline state, not human verification, and are no longer used as headline
+quality claims.
 
-The T4B editions are displayed as the recommended reading editions because their OCR/translation combination is generally clearer and stronger for sustained reading. The earlier editions remain valuable independent witnesses and should be consulted where the T4B text is uncertain.
+The T4B editions provide prepared reading views where their structure permits.
+They are not labeled as human-verified or recommended on the strength of model
+scores. Earlier editions remain valuable independent witnesses and should be
+consulted where any reading text is uncertain.
 
 ## 9. Per-work provenance
 
 Each earlier work directory contains `metadata.json`, `latin-ocr.txt`, `english.md`, chunk files, grades, chapter data where available, and `ERRATA.md`. The corpus-level `manifest.json` and quality ledgers provide machine-readable summaries.
 
-Each T4B directory under `works-t4b/` contains its LoRA OCR witness, assembled English, metadata, chunk material, and introduction. Its page identifies the edition as **Trithemius 4B** and displays the Sonnet grade. The site labels T4B as recommended; it labels an earlier preferred scan only as the recommended source witness.
+Each T4B directory under `works-t4b/` contains its LoRA OCR witness, assembled
+English, metadata, chunk material, and introduction. Its page identifies the
+edition as **Trithemius 4B** and reports origin, review status, editorial state,
+and automated-QA coverage. Historical Sonnet scores remain in provenance data.
 
 Authorship and assembly are credited to **Ian Carlos Fabin** (Carlosian), with the public profile at [github.com/agentcarlosian](https://github.com/agentcarlosian).
 
