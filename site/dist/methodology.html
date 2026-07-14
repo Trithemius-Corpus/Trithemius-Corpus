@@ -91,7 +91,7 @@
 <li>the institutional page facsimile;</li>
 <li>the OCR witness shown on the site;</li>
 <li>the English translation;</li>
-<li>automated quality grades, which are triage signals rather than certification.</li>
+<li>historical automated QA records, retained as triage evidence rather than certification.</li>
 </ol>
 <p>For a passage used in publication, check the English against the Latin and the Latin against the facsimile.</p>
 <h2 id="2-source-acquisition">2. Source acquisition</h2>
@@ -165,7 +165,16 @@
 <li>suspicious repetition and output-format leakage.</li>
 </ul>
 <p>The overlap check normalizes common long-<em>s</em> OCR artifacts and compares Latin content stems with the translation. In calibration, faithful chunks showed meaningful overlap while drifted chunks clustered near zero. These guards are used for audit and future reruns; they were not retroactively treated as proof of correctness.</p>
-<h2 id="6-grading-and-quality-tiers">6. Grading and quality tiers</h2>
+<h2 id="6-historical-automated-grading-and-current-review-status">6. Historical automated grading and current review status</h2>
+<p>The public site no longer presents machine-generated <code>S/A/B/C/F</code> tiers. Those
+labels overstated what automated comparison could establish and blurred the
+difference between readable output, model agreement, editorial preparation,
+and human verification. Historical grades remain in metadata and audit ledgers
+for reproducibility.</p>
+<p>Current public pages report four independent facts: text origin, documented
+human review, editorial state, and automated-QA coverage. Internally, an
+unreviewed machine translation begins at triage status C. Promotion requires
+documented human comparison against the cited witness.</p>
 <p>Different graders served different purposes.</p>
 <ul>
 <li><strong>Claude Sonnet 5</strong> is authoritative for the T4B publication decision. Its second pass covers the full graded T4B set.</li>
@@ -175,7 +184,7 @@
 <li><strong>MiniMax-M3 and GLM-5.2</strong> supplied independent hunting and comparison signals. MiniMax’s T4B assessment was retained as a dual check, not as the final authority.</li>
 <li><strong>MiniMax-M2.7 self-grades</strong> are historical evidence only. Their overconfidence demonstrated why translator self-grading is inadequate.</li>
 </ul>
-<p>The public tier formula uses the worse result of a faithfulness floor and hallucination cap:</p>
+<p>The historical tier formula used the worse result of a faithfulness floor and hallucination cap:</p>
 <table>
 <thead>
 <tr>
@@ -212,7 +221,9 @@
 </tr>
 </tbody>
 </table>
-<p>T4B publication normally requires Sonnet faithfulness of at least 3.5. Grades summarize a work; they do not guarantee each sentence. A score of 3.51 is not meaningfully different from 3.49 without examining the underlying passages.</p>
+<p>T4B publication originally required Sonnet faithfulness of at least 3.5. These
+scores now remain historical triage records only; they do not promote an edition
+or guarantee any sentence.</p>
 <h2 id="7-the-remediation-record">7. The remediation record</h2>
 <p>The corpus has undergone several distinct repair campaigns.</p>
 <p><strong>Hallucination remediation.</strong> A dual-grader consensus sweep identified 81 unsupported chunks across 20 earlier-track works. Fabricated prose was replaced by faithful text or explicit illegibility markers and rechecked.</p>
@@ -229,11 +240,21 @@
 <li><strong>23</strong> texts identified as First-time-in-English at the distinct-text level;</li>
 <li>a homepage “Start here” selection containing 12 distinct First-time-in-English works.</li>
 </ul>
-<p>The earlier track’s canonical release ledger contains 4,400 chunks, 4,353 independently graded. Its release scoreboard is S=47, with mean faithfulness 4.63/5 and no confirmed hallucination after remediation. These are corpus-level release statistics, not a claim that every phrase is correct.</p>
-<p>The T4B editions are displayed as the recommended reading editions because their OCR/translation combination is generally clearer and stronger for sustained reading. The earlier editions remain valuable independent witnesses and should be consulted where the T4B text is uncertain.</p>
+<p>The earlier track's canonical historical ledger contains 4,400 chunks, 4,353
+machine-graded. Its former scoreboard reported S=47 and mean model-assessed
+faithfulness of 4.63/5 after remediation. Those figures describe an automated
+pipeline state, not human verification, and are no longer used as headline
+quality claims.</p>
+<p>The T4B editions provide prepared reading views where their structure permits.
+They are not labeled as human-verified or recommended on the strength of model
+scores. Earlier editions remain valuable independent witnesses and should be
+consulted where any reading text is uncertain.</p>
 <h2 id="9-per-work-provenance">9. Per-work provenance</h2>
 <p>Each earlier work directory contains <code>metadata.json</code>, <code>latin-ocr.txt</code>, <code>english.md</code>, chunk files, grades, chapter data where available, and <code>ERRATA.md</code>. The corpus-level <code>manifest.json</code> and quality ledgers provide machine-readable summaries.</p>
-<p>Each T4B directory under <code>works-t4b/</code> contains its LoRA OCR witness, assembled English, metadata, chunk material, and introduction. Its page identifies the edition as <strong>Trithemius 4B</strong> and displays the Sonnet grade. The site labels T4B as recommended; it labels an earlier preferred scan only as the recommended source witness.</p>
+<p>Each T4B directory under <code>works-t4b/</code> contains its LoRA OCR witness, assembled
+English, metadata, chunk material, and introduction. Its page identifies the
+edition as <strong>Trithemius 4B</strong> and reports origin, review status, editorial state,
+and automated-QA coverage. Historical Sonnet scores remain in provenance data.</p>
 <p>Authorship and assembly are credited to <strong>Ian Carlos Fabin</strong> (Carlosian), with the public profile at <a href="https://github.com/agentcarlosian">github.com/agentcarlosian</a>.</p>
 <h2 id="10-special-scholarly-renderings-style-c">10. Special scholarly renderings (Style C)</h2>
 <p>Twenty-three earlier-track works include enhanced Style C renderings for material poorly served by ordinary paragraph translation: cipher tables, acrostics, alphabets, diagrams, catalogues, verse, and other layout-dependent passages. These renderings preserve the relationship between transcription, translation, and facsimile more explicitly than the continuous reader.</p>
@@ -301,7 +322,7 @@ python scripts/validate_release.py
         <a href="works.html">The works</a>
         <a href="works-trithemius-4b.html">Trithemius 4B editions</a>
         <a href="ciphers.html">The ciphers</a>
-        <a href="scoreboard.html">Quality tiers</a>
+        <a href="scoreboard.html">Editorial status</a>
       </div>
       <div>
         <h4>About</h4>

@@ -392,6 +392,11 @@ hr { border: none; border-top: 1px solid var(--rule-faint); margin: 2rem 0; }
 .badge.tier-f { background: var(--tier-f-bg); color: #f3d6cc; }
 .badge.backend { font-family: "Iosevka", "JetBrains Mono", monospace; font-size: 0.78em; }
 .badge.warn { background: var(--tier-c-bg); color: #f0dcc8; }
+.badge.status-origin, .badge.status-review, .badge.status-editorial {
+  background: transparent; color: var(--ink-faded); border-color: var(--rule);
+}
+.badge.status-review { border-style: dashed; }
+.badge.status-editorial { color: var(--gilt-bright); border-color: var(--gilt-deep); }
 
 /* ---- Citation / related ---- */
 .cite-block {
@@ -513,6 +518,13 @@ tr.tier-f .tier-letter { color: #e8654a; }
   color: var(--gilt-bright);
   text-shadow: 0.04em 0.04em 0 rgba(200, 74, 48, 0.38), 0 0 1.4rem rgba(236,202,120,0.28);
 }
+.english-body > p.title-leaf-context::first-letter,
+.english-body > p.title-leaf-by::first-letter {
+  float: none; font: inherit; line-height: inherit; margin: 0;
+  color: inherit; text-shadow: none;
+}
+.english-body .title-leaf-by,
+.english-body .title-leaf-address { text-align: center; text-indent: 0; }
 
 .english-body { max-width: var(--body-max); margin: 0 auto;
   overflow-wrap: break-word; line-height: 1.62; }
@@ -528,6 +540,44 @@ tr.tier-f .tier-letter { color: #e8654a; }
    justified-prose indent flow. */
 .english-body .table-scroll { margin: 1.4rem 0; max-height: 70vh; }
 .english-body .table-scroll + .table-scroll { margin-top: -0.4rem; }
+.work-title-leaf {
+  margin: 1.5rem 0 2rem;
+  padding: 1.6rem 1.25rem;
+  text-align: center;
+  border-block: 1px solid var(--rule);
+}
+.work-title-leaf h2 { margin: 0 0 0.7rem; }
+.work-title-leaf p { margin: 0.2rem 0; text-align: center; text-indent: 0; }
+.title-leaf-author { text-align: center !important; text-indent: 0 !important; font-variant: small-caps; letter-spacing: 0.06em; }
+.section-deck { margin-top: -0.5rem !important; text-indent: 0 !important; color: var(--ink-muted); }
+.dedication-title {
+  margin: 2.4rem 0 1.5rem;
+  text-align: center;
+}
+.dedication-title h2 { margin-bottom: 0.7rem; text-align: center; }
+.dedication-title .section-deck { margin-inline: auto; text-align: center; }
+.section-colophon {
+  margin: 2.5rem auto 1.5rem !important;
+  text-align: center !important;
+  text-indent: 0 !important;
+  color: var(--ink-muted);
+  font-style: italic;
+}
+.book-opener {
+  margin: 1rem 0 2.5rem;
+  padding: 1.5rem 1rem;
+  text-align: center;
+  border-block: 1px solid var(--rule);
+}
+.book-opener h2 { margin: 0.35rem 0 0.8rem; text-align: center; }
+.book-opener p { margin: 0.2rem 0; text-align: center; text-indent: 0; }
+.witness-note {
+  margin: 1.2rem 0;
+  padding: 0.75rem 1rem;
+  border-left: 3px solid var(--gilt-deep);
+  background: rgba(201,162,74,0.06);
+  color: var(--ink-muted);
+}
 .english-body pre, .prose pre { max-width: 100%; overflow-x: auto; }
 .prose pre, pre {
   background: var(--void-ink); border: 1px solid var(--rule-faint);
@@ -565,6 +615,21 @@ tr.tier-f .tier-letter { color: #e8654a; }
   background: linear-gradient(to left, var(--void-2), transparent);
 }
 .table-scroll table { border-collapse: collapse; font-size: 0.86rem; min-width: max-content; }
+/* OCR-restored vocabulary tables with only one letter/value pair otherwise
+   collapse into tall, needle-thin strips. Give them a readable measure; let
+   small parallel tables use the full prose width. Wide cipher grids retain
+   their intrinsic width and horizontal scrolling. */
+.english-body .table-scroll:has(thead th:nth-child(2):last-child) {
+  width: min(100%, 34rem);
+}
+.english-body .table-scroll:has(thead th:nth-child(2):last-child) table,
+.english-body .table-scroll:has(thead th:nth-child(3):last-child) table,
+.english-body .table-scroll:has(thead th:nth-child(4):last-child) table,
+.english-body .table-scroll:has(thead th:nth-child(5):last-child) table,
+.english-body .table-scroll:has(thead th:nth-child(6):last-child) table,
+.english-body .table-scroll:has(thead th:nth-child(7):last-child) table {
+  width: 100%;
+}
 .table-scroll table th,
 .table-scroll table td {
   padding: 0.2rem 0.55rem; border: 1px solid var(--rule-faint);
@@ -1237,8 +1302,23 @@ tr.tier-f .tier-letter { color: #e8654a; }
 /* T4B continuous reading edition */
 .work-t4b .work-translation { margin-top: 2rem; }
 .work-t4b .english-body .segment { margin: 0; padding: 0; border: 0; }
-.work-t4b .english-body .segment + .segment { margin-top: 1.35rem; }
-.work-t4b .english-body p { margin: 0 0 1.05em; }
+.work-t4b .english-body .segment + .segment { margin-top: 0; }
+.work-t4b .english-body p { margin: 0; }
+.work-t4b .english-body .reading-edition p { margin: 0; }
+.work-t4b .english-body .reading-edition h2 {
+  margin: 2.6rem 0 1rem; text-align: center;
+}
+.work-t4b .english-body .reading-edition h3 {
+  margin: 2rem 0 0.8rem;
+}
+.work-t4b .english-body .reading-edition h4 {
+  margin: 1.5rem 0 0.65rem;
+}
+.work-t4b .english-body .reading-edition h2 + p,
+.work-t4b .english-body .reading-edition h3 + p,
+.work-t4b .english-body .reading-edition h4 + p {
+  text-indent: 0;
+}
 .work-t4b .english-body .anno { font-size: .76em; padding: .05em .28em;
   color: var(--ink-faded); background: rgba(200,74,48,.07);
   border: 1px solid rgba(200,74,48,.14); }
@@ -1336,4 +1416,17 @@ tr.tier-f .tier-letter { color: #e8654a; }
     transition-duration: 0.01ms !important;
     scroll-behavior: auto !important;
   }
+}
+.apparatus-callout {
+  margin: 1.5rem 0 2.25rem;
+  padding: 1rem 1.15rem;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: var(--void-2);
+}
+.apparatus-callout h2 {
+  margin-top: 0;
+}
+.apparatus-callout p:last-child {
+  margin-bottom: 0;
 }

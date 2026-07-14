@@ -59,20 +59,49 @@
 
   function decodeCiphertext(text) {
     if (!DATA) return "";
-    // reverse-lookup: word → letter. Prefer the EARLIEST column's mapping (the
-    // first alphabetum is the most authoritative), so only set a word if it
-    // hasn't been seen in an earlier column.
-    var wordToLetter = {};
-    DATA.ave_maria.columns.forEach(function (col) {
-      Object.keys(col.words).forEach(function (letter) {
-        var w = col.words[letter].toLowerCase();
-        if (!(w in wordToLetter)) wordToLetter[w] = letter;
-      });
-    });
-    return text.split(/\s+/).map(function (w) {
-      var clean = w.toLowerCase().replace(/[^a-z]/g, "");
-      return wordToLetter[clean] || "·";
-    }).join("");
+    var cols = DATA.ave_maria.columns;
+    if (!cols.length) return "(no substitution data loaded)";
+
+    // Follow the same rotating columns as the encoder. A global reverse lookup
+    // is ambiguous because one devotional word can represent different letters
+    // in different columns. Some substitutions are multi-word phrases, so use
+    // longest-phrase matching at the current position.
+    function words(value) {
+      var clean = value.toLowerCase().replace(/[^a-z]+/g, " ").trim();
+      return clean ? clean.split(/\s+/) : [];
+    }
+    var tokens = words(text);
+    var out = [], ti = 0, ci = 0;
+    while (ti < tokens.length) {
+      var match = null, matchedCi = ci;
+      // Mirror encodeAveMaria's handling of incomplete OCR columns: advance
+      // until a column containing the observed substitution is found.
+      for (var attempt = 0; attempt < cols.length && !match; attempt++) {
+        var candidateCi = ci + attempt;
+        var col = cols[candidateCi % cols.length];
+        Object.keys(col.words).forEach(function (letter) {
+          var phrase = words(col.words[letter]);
+          if (!phrase.length || phrase.length > tokens.length - ti) return;
+          for (var k = 0; k < phrase.length; k++) {
+            if (phrase[k] !== tokens[ti + k]) return;
+          }
+          if (!match || phrase.length > match.length) {
+            match = { letter: letter, length: phrase.length };
+            matchedCi = candidateCi;
+          }
+        });
+      }
+      if (match) {
+        out.push(match.letter);
+        ti += match.length;
+        ci = matchedCi + 1;
+      } else {
+        out.push("·");
+        ti++;
+        ci++;
+      }
+    }
+    return out.join("");
   }
 
   function updateEncoder() {
@@ -88,7 +117,7 @@
       note.textContent = "Single substitution column (the first alphabet).";
     } else {
       out.textContent = decodeCiphertext(input);
-      note.textContent = "Reverse-lookup across all parsed substitution columns.";
+      note.textContent = "Position-aware reverse lookup, following the same rotating columns as the encoder.";
     }
   }
 

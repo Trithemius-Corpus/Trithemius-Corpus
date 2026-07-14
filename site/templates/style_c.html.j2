@@ -13,7 +13,8 @@
   {% if work.title_en %}<p class="work-subtitle">{{ work.title_en }}</p>{% endif %}
   <p class="work-id"><code>{{ work.id }}</code> &middot; Style&nbsp;C / <strong>{{ content_type.label }}</strong></p>
   <div class="badges">
-    <span class="badge tier-{{ work.tier|lower if work.tier else 'u' }}">Tier {{ work.tier or 'U' }}</span>
+    <span class="badge status-origin">{{ work.text_origin }}</span>
+    <span class="badge status-review">{{ work.human_review }}</span>
     <span class="badge">{{ content_type.n }}&nbsp;{{ 'chunk' if content_type.n == 1 else 'chunks' }}</span>
     {% if work.genre %}<a class="badge badge-link" href="{{ url('genres/' + work.genre + '.html') }}">{{ work.genre_label }}</a>{% endif %}
   </div>

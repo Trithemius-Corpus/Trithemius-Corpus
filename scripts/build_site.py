@@ -357,6 +357,49 @@ def enrich_work(w: dict) -> dict:
     fe = load_first_english().get(w["id"], {})
     w["first_english"] = bool(fe.get("first_english"))
     w["first_english_note"] = fe.get("note", "")
+    attach_public_status(w, edition_track="earlier")
+    return w
+
+
+def attach_public_status(w: dict, edition_track: str = "earlier") -> dict:
+    """Attach reader-facing evidence labels without rewriting audit history.
+
+    Historical numeric and tier fields remain in source metadata for research
+    and reproducibility. Public pages use these explicit provenance/status
+    fields instead of presenting machine grades as certification.
+    """
+    graded = int(w.get("chunks_graded") or 0)
+    total = int(w.get("chunks_total") or 0)
+    coverage = (graded / total * 100.0) if total else float(w.get("coverage_pct") or 0)
+    if graded and coverage >= 95:
+        automated = "Full machine audit"
+    elif graded:
+        automated = "Sampled machine audit"
+    else:
+        automated = "Not independently audited"
+    w["text_origin"] = "Machine translation"
+    review_key = f"{w['id']}::{edition_track}"
+    reviews_path = ROOT / "data" / "editorial_reviews.json"
+    reviews = {}
+    if reviews_path.exists():
+        reviews = json.loads(reviews_path.read_text(encoding="utf-8")).get("reviews", {})
+    review = reviews.get(review_key, {})
+    if review.get("status") == "approved" and review.get("scope") == "reading-view":
+        w["human_review"] = "Reading view reviewed; translation not fully verified"
+        w["editorial_review_date"] = review.get("date")
+    else:
+        w["human_review"] = "No complete human review documented"
+    w["automated_qa"] = automated
+    w["automated_qa_coverage"] = coverage
+    w["internal_triage"] = "C"
+    if edition_track == "trithemius-4b":
+        w["editorial_state"] = (
+            "Editorially reviewed reading view"
+            if review.get("status") == "approved" and review.get("scope") == "reading-view"
+            else "Prepared reading text"
+        )
+    else:
+        w["editorial_state"] = "Provisional reading text"
     return w
 
 
@@ -492,7 +535,9 @@ def build_texts(works: list[dict]) -> list[dict]:
             "first_english": rep.get("first_english", False),
             "excerpt": intro_excerpt(rep["id"]),
             "editions": [
-                {"id": w["id"], "label": edition_tag(w), "tier": w.get("tier")}
+                {"id": w["id"], "label": edition_tag(w),
+                 "editorial_state": w.get("editorial_state"),
+                 "human_review": w.get("human_review")}
                 for w in group
             ],
         })
@@ -757,6 +802,19 @@ def render_markdown_file(src: Path) -> str:
     if not src.exists():
         return ""
     text = src.read_text(encoding="utf-8")
+    # Historical introductions often ended with a model-generated prestige
+    # claim such as "the translation sits in the top tier (S)." Public pages
+    # now report evidence fields instead; retain the source prose for audit but
+    # suppress those obsolete claims at render time during migration.
+    text = re.sub(
+        r"(?i)\s*(?:the\s+)?(?:translation|running prose|work|witness)\s+"
+        r"(?:(?:otherwise|nonetheless)\s+)?(?:sits|renders|is)\s+"
+        r"(?:in|to)\s+the\s+top\s+tier\s*\(S\)\.?",
+        "", text,
+    )
+    # Avoid the awkward legacy formulation in introductions. The restrained
+    # publication-history claim is sufficient on its own.
+    text = re.sub(r"(?i);\s*it has been read in (?:the )?Latin", "", text)
     html = markdown.markdown(text, extensions=["extra", "toc", "tables", "fenced_code", "sane_lists"])
     html = _strip_spurious_autolinks(html)
     return rewrite_rendered_links(html)
@@ -1127,7 +1185,8 @@ def _pipe_row_normalize(line: str) -> list[str]:
 def _fix_pipe_table_runs(text: str, min_rows: int = 3) -> str:
     """Shape 2: a run of >=min_rows pipe rows (leading-`|` or interior-pipe)
     without a separator row is turned into a table by padding to the max width
-    and inserting a `---` separator after the first (header) row. Runs already
+    and adding neutral column labels.  The OCR rows contain data rather than a
+    trustworthy header, so no source row is promoted or discarded. Runs already
     carrying a separator are left to markdown (or the malformed-pre pass).
 
     This also catches interior-pipe cipher alphabets that the dedicated
@@ -1158,9 +1217,9 @@ def _fix_pipe_table_runs(text: str, min_rows: int = 3) -> str:
                     return s.replace("|", "\\|")
                 # blank-line guards so the table is not glued to surrounding prose
                 out.append("")
-                out.append("| " + " | ".join(esc(c) for c in rows[0]) + " |")
+                out.append("| " + " | ".join(f"group {n}" for n in range(1, w + 1)) + " |")
                 out.append("|" + "|".join(["---"] * w) + "|")
-                for r in rows[1:]:
+                for r in rows:
                     out.append("| " + " | ".join(esc(c) for c in r) + " |")
                 out.append("")
                 i = j
@@ -1176,8 +1235,8 @@ def _fix_pipe_table_runs(text: str, min_rows: int = 3) -> str:
 def _wrap_malformed_pipe_tables(text: str) -> str:
     """Shape 3: a leading-`|` block that already has a separator but is
     OCR-garbled (empty `||` / `| |` cells, or several separator rows) is
-    wrapped in a fenced code block. Reconstructing its columns would invent
-    data, so the honest rendering is the raw OCR as monospace."""
+    normalized without guessing headings. Repeated separator rows and empty
+    OCR spacer cells are removed; surviving cells retain their source order."""
     lines = text.split("\n")
     out: list[str] = []
     i = 0
@@ -1189,9 +1248,22 @@ def _wrap_malformed_pipe_tables(text: str) -> str:
             block = lines[i:j]
             seps = sum(1 for b in block if _pipe_is_separator(b))
             empties = sum(1 for b in block if "||" in b or re.search(r"\|\s+\|", b))
-            malformed = seps >= 1 and (seps > 1 or empties >= 2)
+            aligned_source = any(":" in b for b in block if _pipe_is_separator(b))
+            malformed = aligned_source and (seps > 1 or empties >= 1)
             if malformed:
-                out += ["", "```"] + block + ["```", ""]
+                data_rows = [
+                    [cell.strip() for cell in row.strip().strip("|").split("|") if cell.strip()]
+                    for row in block if not _pipe_is_separator(row)
+                ]
+                width = max((len(row) for row in data_rows), default=0)
+                if width:
+                    out.append("")
+                    out.append("| " + " | ".join(f"group {n}" for n in range(1, width + 1)) + " |")
+                    out.append("|" + "|".join("---" for _ in range(width)) + "|")
+                    for row in data_rows:
+                        row += [""] * (width - len(row))
+                        out.append("| " + " | ".join(row) + " |")
+                    out.append("")
                 i = j
                 continue
             out += block
@@ -1203,11 +1275,13 @@ def _wrap_malformed_pipe_tables(text: str) -> str:
 
 
 def _convert_numeric_tables(text: str) -> str:
-    """Apply the three numeric/tabular transforms in order: pair-lines, then
-    pipe-table runs, then wrap any remaining garbled tables as code."""
+    """Protect corrupt source blocks, then normalize pair and pipe tables."""
+    # Protect genuinely malformed *source* tables first.  Both normalization
+    # passes can introduce legitimate empty padding cells, which must not be
+    # mistaken for corruption after they have been generated.
+    text = _wrap_malformed_pipe_tables(text)
     text = _convert_number_pairs(text)
     text = _fix_pipe_table_runs(text)
-    text = _wrap_malformed_pipe_tables(text)
     return text
 
 
@@ -1218,6 +1292,250 @@ def _chunk_markdown_to_html(text: str) -> str:
     text = _convert_numeric_tables(text)
     html = _strip_spurious_autolinks(markdown.markdown(text, extensions=["extra", "sane_lists"]))
     return _wrap_style_c_wide_blocks(html)
+
+
+_POLYGRAPHIA_KEY_LABELS = (
+    "a", "b", "c", "d", "e", "f", "g", "h", "i", "k", "l", "m",
+    "n", "o", "p", "q", "r", "s", "t", "u", "v", "x", "y", "z",
+    "w", "20", "21", "2v", "rv", "ꝛv",
+)
+_POLYGRAPHIA_KEY_TOKEN_RE = re.compile(
+    r"(?<!\S)(2v|20|21|rv|ꝛv|[A-Za-z])(?=\s)"
+)
+
+
+def _polygraphia_key_lists_to_tables(text: str) -> str:
+    """Turn Polygraphia VI's linearized alphabet lists into readable tables.
+
+    Chunk 45 is a sequence of substitution vocabularies, not prose.  The
+    translation preserved every key and gloss but flattened the printed
+    columns into paragraphs.  Split at the explicit one-character alphabet
+    keys, detect each restart of the alphabet as a new column, and retain the
+    supplied wording verbatim in a compact letter/value table.
+    """
+    rank = {label: i for i, label in enumerate(_POLYGRAPHIA_KEY_LABELS)}
+    blocks: list[str] = []
+    for paragraph in re.split(r"\n\s*\n", text.strip()):
+        # Hand-corrected source tables are already authoritative Markdown.
+        # Do not flatten and reinterpret their cells as an OCR key list.
+        if paragraph.lstrip().startswith("|") and any(
+            _pipe_is_separator(line) for line in paragraph.splitlines()
+        ):
+            blocks.append(paragraph)
+            continue
+        flat = " ".join(line.strip() for line in paragraph.splitlines() if line.strip())
+        matches = [
+            m for m in _POLYGRAPHIA_KEY_TOKEN_RE.finditer(flat)
+            if m.group(1).lower() in rank
+        ]
+        distinct_keys = {m.group(1).lower() for m in matches}
+        # Ordinary prose can contain many standalone "I" and "a" tokens.
+        # Require a genuine alphabetic key range before treating it as a
+        # flattened substitution vocabulary.
+        if len(matches) < 12 or len(distinct_keys) < 8:
+            blocks.append(paragraph)
+            continue
+
+        entries: list[tuple[str, str]] = []
+        for i, match in enumerate(matches):
+            end = matches[i + 1].start() if i + 1 < len(matches) else len(flat)
+            value = flat[match.end():end].strip()
+            if value:
+                entries.append((match.group(1), value))
+        if len(entries) < 12:
+            blocks.append(paragraph)
+            continue
+
+        columns: list[list[tuple[str, str]]] = [[]]
+        previous = -1
+        for label, value in entries:
+            current = rank[label.lower()]
+            if columns[-1] and current <= previous:
+                columns.append([])
+            columns[-1].append((label, value))
+            previous = current
+
+        width = max(len(column) for column in columns)
+        header = []
+        for _ in columns:
+            header.extend(("letter", "value"))
+        rows = [
+            "| " + " | ".join(header) + " |",
+            "|" + "|".join("---" for _ in header) + "|",
+        ]
+        for row_index in range(width):
+            cells: list[str] = []
+            for column in columns:
+                if row_index < len(column):
+                    label, value = column[row_index]
+                    cells.extend((f"`{label}`", value.replace("|", "\\|")))
+                else:
+                    cells.extend(("", ""))
+            rows.append("| " + " | ".join(cells) + " |")
+        blocks.append("\n".join(rows))
+    return "\n\n".join(blocks)
+
+
+def _polygraphia_numbered_key_rows_to_tables(text: str) -> str:
+    """Recover Polygraphia key rows ending in consecutive printed numbers."""
+    labels = set(_POLYGRAPHIA_KEY_LABELS) | {"3v", "[unclear]", "êŸv"}
+    def is_label(token: str) -> bool:
+        return token.lower() in labels or bool(re.fullmatch(r"\S{1,4}v", token, re.I))
+    paragraphs: list[str] = []
+    for paragraph in re.split(r"\n\s*\n", text.strip()):
+        lines = paragraph.splitlines()
+        rendered: list[str] = []
+        i = 0
+        while i < len(lines):
+            parsed: list[tuple[list[tuple[str, str]], str]] = []
+            j = i
+            while j < len(lines):
+                tokens = lines[j].strip().split()
+                if len(tokens) < 5 or not re.fullmatch(r"\d+\.?", tokens[-1]):
+                    break
+                body = tokens[:-1]
+                row_pairs: list[tuple[str, str]]
+                if len(body) % 2 == 0 and all(is_label(body[k]) for k in range(0, len(body), 2)):
+                    row_pairs = [(body[k], body[k + 1]) for k in range(0, len(body), 2)]
+                elif (
+                    len(body) == 5
+                    and is_label(body[0])
+                    and is_label(body[3])
+                ):
+                    # OCR dropped the repeated key before the middle value.
+                    # Leave its key cell blank rather than inventing it.
+                    row_pairs = [(body[0], body[1]), ("", body[2]), (body[3], body[4])]
+                elif len(body) == 5 and all(is_label(body[k]) for k in (0, 2, 4)):
+                    row_pairs = [(body[0], body[1]), (body[2], body[3]), (body[4], "")]
+                else:
+                    break
+                parsed.append((row_pairs, tokens[-1].rstrip(".")))
+                j += 1
+            if len(parsed) >= 4:
+                width = max(len(row) for row, _ in parsed)
+                headers: list[str] = []
+                for n in range(1, width + 1):
+                    headers.extend((f"letter {n}", f"value {n}"))
+                headers.append("no.")
+                if rendered and rendered[-1].strip():
+                    rendered.append("")
+                rendered.extend((
+                    "| " + " | ".join(headers) + " |",
+                    "|" + "|".join("---" for _ in headers) + "|",
+                ))
+                for row, number in parsed:
+                    cells: list[str] = []
+                    for label, value in row:
+                        cells.extend((f"`{label}`" if label else "", value))
+                    cells.extend(("", "") * (width - len(row)))
+                    cells.append(number)
+                    rendered.append("| " + " | ".join(cells) + " |")
+                rendered.append("")
+                i = j
+                continue
+            rendered.append(lines[i])
+            i += 1
+        paragraphs.append("\n".join(rendered))
+
+    text = "\n\n".join(paragraphs)
+    text = re.sub(r"(?m)^\s*1\s+2\s+3\s*$", "", text)
+
+    # A compact OCR variant stores one keyed column, two unlabelled columns,
+    # and a run of row numbers in a single paragraph.
+    output: list[str] = []
+    for paragraph in re.split(r"\n\s*\n", text):
+        tokens = paragraph.split()
+        numbers: list[str] = []
+        while tokens and re.fullmatch(r"\d+", tokens[-1]):
+            numbers.append(tokens.pop())
+        numbers.reverse()
+        n = len(numbers)
+        if n >= 12 and len(tokens) == 4 * n + 1:
+            keyed = tokens[:2 * n]
+            if all(is_label(keyed[k]) for k in range(0, len(keyed), 2)):
+                marker = tokens[2 * n]
+                second = tokens[2 * n + 1:3 * n + 1]
+                third = tokens[3 * n + 1:4 * n + 1]
+                rows = [
+                    f"| letter | value 1 | value 2 ({marker}) | value 3 | no. |",
+                    "|---|---|---|---|---|",
+                ]
+                for row in range(n):
+                    rows.append(
+                        f"| `{keyed[2 * row]}` | {keyed[2 * row + 1]} | "
+                        f"{second[row]} | {third[row]} | {numbers[row]} |"
+                    )
+                output.append("\n".join(rows))
+                continue
+        output.append(paragraph)
+    return "\n\n".join(output)
+
+
+_POLYGRAPHIA_SEMICOLON_ENTRY_RE = re.compile(
+    r"(?:^|[.;]\s+)(\[unclear\]|2v|20|21|[A-IK-UW-Z]|[a-ik-uw-z])(?:\s*:\s*|\s+)",
+    re.M,
+)
+
+
+def _polygraphia_semicolon_lists_to_tables(text: str) -> str:
+    """Restore flattened ``a: value; b: value`` alphabets as tables.
+
+    Some Polygraphia chunks preserve the keys and readings accurately but
+    flatten whole printed alphabets into semicolon-delimited paragraphs.  A
+    high entry threshold keeps ordinary prose out of this transform.
+    """
+    rank = {label: i for i, label in enumerate(_POLYGRAPHIA_KEY_LABELS)}
+    rank["[unclear]"] = len(rank)
+    output: list[str] = []
+    for paragraph in re.split(r"\n\s*\n", text.strip()):
+        flat = " ".join(line.strip() for line in paragraph.splitlines() if line.strip())
+        matches = list(_POLYGRAPHIA_SEMICOLON_ENTRY_RE.finditer(flat))
+        if len(matches) < 12 or flat.count(";") < 10:
+            output.append(paragraph)
+            continue
+
+        entries: list[tuple[str, str]] = []
+        for i, match in enumerate(matches):
+            end = matches[i + 1].start() if i + 1 < len(matches) else len(flat)
+            value = flat[match.end():end].strip(" ;.")
+            label = match.group(1)
+            # Printer's leaf signature, not a substitution entry.
+            if re.fullmatch(r"[ivxlcdm]+", value, re.I):
+                continue
+            if value:
+                entries.append((label, value))
+        if len(entries) < 12:
+            output.append(paragraph)
+            continue
+
+        columns: list[list[tuple[str, str]]] = [[]]
+        previous = -1
+        for label, value in entries:
+            current = rank.get(label.lower(), rank["[unclear]"])
+            if columns[-1] and current <= previous:
+                columns.append([])
+            columns[-1].append((label, value))
+            previous = current
+
+        headers: list[str] = []
+        for n in range(1, len(columns) + 1):
+            suffix = f" {n}" if len(columns) > 1 else ""
+            headers.extend((f"letter{suffix}", f"value{suffix}"))
+        rows = [
+            "| " + " | ".join(headers) + " |",
+            "|" + "|".join("---" for _ in headers) + "|",
+        ]
+        for row_index in range(max(len(column) for column in columns)):
+            cells: list[str] = []
+            for column in columns:
+                if row_index < len(column):
+                    label, value = column[row_index]
+                    cells.extend((f"`{label}`", value.replace("|", "\\|")))
+                else:
+                    cells.extend(("", ""))
+            rows.append("| " + " | ".join(cells) + " |")
+        output.append("\n".join(rows))
+    return "\n\n".join(output)
 
 
 def _parse_latin_artifact(path: Path) -> list[dict]:
@@ -1289,6 +1607,10 @@ def _load_pairs_from_release_artifacts(work_id: str) -> tuple[list[dict], dict] 
         latin = latin_by_n.get(n, "")
         if not missing and _lacks_parallel_source_evidence(latin, english):
             english, missing = "", True
+        if work_id == "prdl-24390_polygraphiae-libri-vi" and english:
+            english = _polygraphia_numbered_key_rows_to_tables(english)
+            english = _polygraphia_key_lists_to_tables(english)
+            english = _polygraphia_semicolon_lists_to_tables(english)
         pairs.append({
             "n": n,
             "latin": latin,
@@ -1345,6 +1667,10 @@ def load_pairs(work_id: str) -> tuple[list[dict], dict]:
         latin = strip_scan_boilerplate(rec["text"])
         if not missing and _lacks_parallel_source_evidence(latin, english):
             english, missing = "", True
+        if work_id == "prdl-24390_polygraphiae-libri-vi" and english:
+            english = _polygraphia_numbered_key_rows_to_tables(english)
+            english = _polygraphia_key_lists_to_tables(english)
+            english = _polygraphia_semicolon_lists_to_tables(english)
         pairs.append({
             "n": i,
             "latin": latin,
@@ -1693,6 +2019,173 @@ def stitch_english(
     return _wrap_style_c_wide_blocks(html)
 
 
+def polish_polygraphia_vocabulary_html(work_id: str, rendered: str) -> str:
+    """Give the Polygraphia reading view a real heading hierarchy."""
+    if work_id not in {
+        "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis",
+        "prdl-24390_polygraphiae-libri-vi",
+        "prdl-24391_polygraphiae-libri-vi",
+    }:
+        return rendered
+    rendered = rendered.replace("W�rzburg", "Würzburg")
+    rendered = rendered.replace("[Normans?]", "Northmen")
+    rendered = rendered.replace(
+        "no one lying in wait will be able to penetrate your secret except him who knows",
+        "no eavesdropper will be able to penetrate your secret except one who knows",
+    )
+    # Paeapolis is the work's learned alternative name for Würzburg: the
+    # Latin itself later glosses Paeapolitanus as "id est Vuirciburgensis."
+    rendered = rendered.replace("[Paeapolis?]", "Würzburg")
+    rendered = rendered.replace("[Peapolis?]", "Würzburg")
+    rendered = rendered.replace("Wuerzburg", "Würzburg")
+    rendered = rendered.replace(
+        "no one lying hidden will be able to penetrate your secret, except the one who knows",
+        "no eavesdropper will be able to penetrate your secret except one who knows",
+    )
+    rendered = rendered.replace(
+        "No one lying hidden will be able to penetrate the secret except him who knows",
+        "No eavesdropper will be able to penetrate the secret except one who knows",
+    )
+    # The reading view promotes the first source heading to its own title. Do
+    # not repeat the same h2 again when a later witness already supplied it as
+    # Markdown in the title-leaf transcription.
+    rendered = re.sub(
+        r'(<h2 class="reading-work-title">Six Books of Polygraphy</h2>)'
+        r'([\s\S]{0,500}?)<h2>Six Books of Polygraphy</h2>',
+        r'\1\2',
+        rendered,
+        count=1,
+    )
+    rendered = rendered.replace(
+        "<p><em>By Johannes Trithemius, Abbot of Würzburg, formerly of Sponheim</em></p>",
+        '<p class="title-leaf-by"><em>By Johannes Trithemius, Abbot of Würzburg, formerly of Sponheim</em></p>',
+        1,
+    )
+    rendered = rendered.replace(
+        "<p>Addressed to Emperor Maximilian I</p>",
+        '<p class="title-leaf-address">Addressed to Emperor Maximilian I</p>',
+        1,
+    )
+    rendered = rendered.replace(
+        "<p>Addressed to Emperor Maximilian</p>",
+        '<p class="title-leaf-address">Addressed to Emperor Maximilian</p>',
+        1,
+    )
+    rendered = rendered.replace(
+        "<p>From the books of [Iorinis Georgij?]",
+        '<p class="title-leaf-context">From the books of [Iorinis Georgij?]',
+        1,
+    )
+    rendered = rendered.replace(
+        "Register or Index of the Works of Johannes Trithemius",
+        "The Works of Johannes Trithemius",
+    )
+    rendered = re.sub(
+        r"<p><em>Six Books of Polygraphy, by Johannes Trithemius, Abbot of Saint James of Würzburg, formerly of Sponheim, addressed to Emperor Maximilian\.</em></p>",
+        '<header class="work-title-leaf"><h2>Six Books of Polygraphy</h2>'
+        '<p><em>By Johannes Trithemius, Abbot of Saint James of Würzburg, formerly of Sponheim</em></p>'
+        '<p>Addressed to Emperor Maximilian</p></header>',
+        rendered,
+    )
+    rendered = rendered.replace(
+        "<p>Johannes Trithemius.</p>",
+        '<p class="title-leaf-author">Johannes Trithemius</p>',
+        1,
+    )
+    rendered = rendered.replace("<p>With grace and privilege of L. D.</p>", "", 1)
+    rendered = rendered.replace(
+        '<p class="title-leaf-author">Johannes Trithemius</p>',
+        "",
+        1,
+    )
+    rendered = re.sub(
+        r"<p><em>To the divine Emperor Maximilian: the letter of Johannes Trithemius, abbot of Saint James of Würzburg, on the Polygraphy\.</em></p>",
+        '<header class="dedication-title"><h2>Dedication to Emperor Maximilian</h2>'
+        '<p class="section-deck"><em>The letter of Johannes Trithemius, Abbot of Saint James of Würzburg, on the Polygraphy</em></p></header>',
+        rendered,
+    )
+    rendered = rendered.replace(
+        "<p>Wolfgang Sedlius acquired me in the year of the Lord 1538.</p>",
+        '<aside class="witness-note"><strong>Later ownership inscription:</strong> '
+        '“Wolfgang Sedlius acquired me in the year of the Lord 1538.”</aside>',
+        1,
+    )
+    def heading(match: re.Match[str]) -> str:
+        title = match.group(1).strip().rstrip(".")
+        if re.search(r"\b(?:Book|Works|Preface|Index|Table|Explanation|Key|Alphabet|Method|Order|Figure|End)\b", title, re.I):
+            return f"<h2>{title}</h2>"
+        return match.group(0)
+    rendered = re.sub(r"<p><em>([^<]{1,220})</em></p>", heading, rendered)
+    rendered = re.sub(
+        r"<h2>Here is the end of the preface, on the seventh day of April, in the year of the Lord.s nativity 1508</h2>",
+        '<p class="section-colophon">Here ends the preface · 7 April 1508</p>',
+        rendered,
+    )
+    rendered = rendered.replace(
+        "<h2>The First Book of the Polygraphia, addressed to Caesar Maximilian, by Johannes Trithemius, abbot of Würzburg, formerly of Sponheim</h2>",
+        '<header class="book-opener"><p class="eyebrow">Book I</p>'
+        '<h2>The First Book of the Polygraphia</h2>'
+        '<p>Addressed to Caesar Maximilian</p>'
+        '<p><em>Johannes Trithemius, Abbot of Würzburg, formerly of Sponheim</em></p></header>',
+    )
+    return rendered
+
+
+def polish_steganographia_html(work_id: str, rendered: str) -> str:
+    """Separate genuine Steganographia headings from captured running heads."""
+    if work_id != "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam":
+        return rendered
+
+    # Page furniture repeatedly captured by OCR. The true book openings are
+    # explicit h2 headings in the edited chunks and are therefore unaffected.
+    running_head = re.compile(
+        r"<p><em>(?:Of (?:the )?)?Steganograph(?:y|ia)\.?</em></p>"
+        r"|<p><em>(?:THE |The )?(?:First|Second|Third) Book\.?</em></p>"
+        r"|<p><em>Book (?:One|Two|Three)\.?</em></p>"
+        r"|<p>\d+\s*<em>(?:Of (?:the )?)?Steganograph(?:y|ia)\.?</em></p>"
+        r"|<p><em>(?:Of (?:the )?)?Steganograph(?:y|ia)\.?</em>\s*\d+</p>",
+        re.I,
+    )
+    rendered = running_head.sub("", rendered)
+    rendered = re.sub(r"<p>\s*\d{1,3}\s*</p>", "", rendered)
+    rendered = re.sub(
+        r"<em>\d{1,3}\s+(?:OF THE )?STEGANOGRAPHY</em>\s*",
+        "",
+        rendered,
+        flags=re.I,
+    )
+
+    # Normalize combined running-head/chapter labels before promoting genuine
+    # chapter markers. Bare "Chapter" fragments carry no structural value.
+    rendered = re.sub(
+        r"<p><em>Book Two\.\s*(Chapter\s+(?:[IVXLCDM]+|\d+)\.?)\s*</em></p>",
+        r'<h3 class="chapter-heading">\1</h3>',
+        rendered,
+        flags=re.I,
+    )
+    rendered = re.sub(r"<p><em>Chapter\.?</em></p>", "", rendered, flags=re.I)
+    # Some OCR paragraphs italicize the rubric and the opening prose along
+    # with the chapter label. Split only the short numbered label out.
+    rendered = re.sub(
+        r"<p><em>((?:Chapter|CHAPTER)\s+(?:[IVXLCDM]+|\d+)\.?)\s+([\s\S]*?)</em></p>",
+        r'<h3 class="chapter-heading">\1</h3><p><em>\2</em></p>',
+        rendered,
+    )
+    rendered = re.sub(
+        r"<p><em>((?:Chapter|CHAPTER)\s+(?:[IVXLCDM]+|\d+)\.?)\s*</em></p>",
+        r'<h3 class="chapter-heading">\1</h3>',
+        rendered,
+    )
+    # A descriptive rubric immediately following a numbered chapter is its
+    # subtitle, not a separate paragraph of prose.
+    rendered = re.sub(
+        r'(<h3 class="chapter-heading">[\s\S]*?</h3>)\s*<p><em>([\s\S]*?)</em></p>',
+        r'\1<h4 class="chapter-deck">\2</h4>',
+        rendered,
+    )
+    return rendered
+
+
 _ANNOT_RE = re.compile(r"\[(unclear|sic|ed\.?|lit\.?|tn\.?|note|trans\.?|ocr)\]",
                        re.IGNORECASE)
 
@@ -1803,22 +2296,17 @@ def build_genre_page(env: Environment, section: dict) -> str:
 
 
 def build_scoreboard(env: Environment, works: list[dict]) -> str:
-    tier_rank = {"S": 0, "A": 1, "B": 2, "C": 3, "F": 4, None: 5}
     ordered = sorted(
         works,
-        key=lambda w: (
-            tier_rank.get(w.get("tier"), 5),
-            w.get("priority", 99),
-            -(w.get("faithful_adj") or 0),
-        ),
+        key=lambda w: (w.get("title") or w.get("id") or "").casefold(),
     )
     return env.get_template("scoreboard.html.j2").render(
         works=ordered,
         tiers=tier_counts(works),
         quality=load_corpus_quality(),
         **page_meta("scoreboard.html",
-                    "Quality tier table for every translated "
-                    "edition in the Trithemius Corpus, graded chunk-by-chunk against the Latin.", nav="quality"),
+                    "Editorial status, documented human review, and automated QA coverage "
+                    "for every translated edition in the Trithemius Corpus.", nav="quality"),
     )
 
 
@@ -1881,6 +2369,10 @@ def build_work(env: Environment, work: dict, english_html: str,
         citation=citation_text(work),
         work_id=work["id"],
         work_title=work.get("title_en") or work.get("title") or work["id"],
+        reading_body_has_title=bool(re.search(
+            r'<header class="work-title-leaf"|<h2>(?:Six Books of Polygraphy|Steganography: The Art of Hidden Writing)</h2>',
+            english_html[:2500],
+        )),
         reading_time=reading_time,
         has_errata=has_errata,
         errata_html=errata_html,
@@ -2156,6 +2648,8 @@ def main() -> None:
             n_style_c_pages += 1
         inline_style_c = _style_c_inline_lookup(w, style_c)
         english_html = stitch_english(pairs, chapters, inline_style_c=inline_style_c) if pairs else ""
+        english_html = polish_polygraphia_vocabulary_html(w["id"], english_html)
+        english_html = polish_steganographia_html(w["id"], english_html)
         # prev/next work navigation (by manifest order)
         wi = works.index(w)
         prev_id = works[wi-1]["id"] if wi > 0 else None

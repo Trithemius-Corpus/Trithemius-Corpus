@@ -1,6 +1,6 @@
-[Preceding page illegible in the source.]
+## Dedication to Emperor Maximilian
 
-*To the Divine Maximilian, Caesar. The Epistle of Johannes Trithemius, Abbot of Saint James of Würzburg, on Polygraphy.*
+*The letter of Johannes Trithemius, Abbot of Saint James of Würzburg, on the Polygraphia*
 
 I was hesitating, wavering in mind, most invincible Maximilian Caesar, and doubting somewhat within myself whether or not I should be doing something worthwhile, were I to dedicate the volume of our Polygraphy to your Caesarean majesty. For among the great [you are] the greatest, among the more powerful the most powerful, among all the wise by far the wisest—to whom, therefore, nothing ought to be inscribed except what is great, nothing dedicated except what is elaborated with the highest erudition. But I, having attained little or nothing of literary erudition, not without reason hesitated the longer whether I ought to bring my trifles before so great a majesty: since I am neither suited in talent to elaborate anything, nor adorned with the necessary charm of speech. For I know, and cannot deny, how scanty is my furniture, how rude my talent, and that I have no vein of eloquence in speaking—on account of which, with just consideration, I held back for some time, and dreaded, an inept writer, to appear before your glorious majesty. For since after God you are by right lord of the world,
 

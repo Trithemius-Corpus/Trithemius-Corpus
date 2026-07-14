@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "reviews": {
+    "prdl-24361_de-cura-pastorali::trithemius-4b": {
+      "date": "2026-07-14",
+      "scope": "reading-view",
+      "status": "approved",
+      "note": "Book-style presentation reviewed and approved; this is not a complete human verification of the translation against the Latin."
+    },
+    "prdl-24362_de-laude-scriptorum-manualium::trithemius-4b": {
+      "date": "2026-07-14",
+      "scope": "reading-view",
+      "status": "approved",
+      "note": "Book-style presentation and restored sixteen-chapter structure reviewed and approved; this is not a complete human verification of the translation against the Latin."
+    },
+    "prdl-24363_de-laudibus-ordinis-fratrum-carmelitarum::trithemius-4b": {
+      "date": "2026-07-14",
+      "scope": "reading-view",
+      "status": "approved",
+      "note": "Two-book presentation, twelve-chapter structure, and scan-marker cleanup reviewed and approved; this is not a complete human verification of the translation against the Latin."
+    },
+    "prdl-24368_de-operatione-divini-amoris::trithemius-4b": {
+      "date": "2026-07-14",
+      "scope": "reading-view",
+      "status": "approved",
+      "note": "Title presentation and the oration's ten numbered divisions reviewed and approved after removal of an unrelated botanical intrusion; this is not a complete human verification of the translation against the Latin."
+    },
+    "prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis::trithemius-4b": {
+      "date": "2026-07-14",
+      "scope": "reading-view",
+      "status": "approved",
+      "note": "Title presentation and four content-based divisions reviewed and approved after removal of a duplicated opening; this is not a complete human verification of the translation against the Latin."
+    }
+  }
+}

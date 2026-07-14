@@ -6,7 +6,37 @@ Since the letters of the Greeks and the Hebrews are all numerical, I have often 
 
 *Order of the numerical letters.*
 
-[unclear table of letters and numerical values]
+| Code | Value | Code | Value | Code | Value | Code | Value | Code | Value |
+|---|---:|---|---:|---|---:|---|---:|---|---:|
+| a | 1 | ma | 31 | oa | 61 | ra | 91 | wd | 1,004 |
+| b | 2 | mb | 32 | ob | 62 | rb | 92 | we | 1,005 |
+| c | 3 | mc | 33 | oc | 63 | rc | 93 | wf | 1,006 |
+| d | 4 | md | 34 | od | 64 | rd | 94 | wg | 1,007 |
+| e | 5 | me | 35 | oe | 65 | re | 95 | wh | 1,008 |
+| f | 6 | mf | 36 | of | 66 | rf | 96 | wi | 1,009 |
+| g | 7 | mg | 37 | og | 67 | rg | 97 | bw | 2,000 |
+| h | 8 | mh | 38 | oh | 68 | rh | 98 | cw | 3,000 |
+| i | 9 | mi | 39 | oi | 69 | ri | 99 | dw | 4,000 |
+| k | 10 | nj | 40 | p | 70 | q | 100 | cw | 5,000 |
+| ka | 11 | nja | 41 | pa | 71 | r | 101 | fw | 6,000 |
+| kb | 12 | njb | 42 | pb | 72 | s | 102 | gw | 7,000 |
+| kc | 13 | njc | 43 | pc | 73 | t | 103 | bw | 8,000 |
+| kd | 14 | njd | 44 | pd | 74 | u | 104 | iw | 9,000 |
+| ke | 15 | nje | 45 | pe | 75 | v | 105 | kw | 10,000 |
+| kf | 16 | njf | 46 | pf | 76 | w | 106 | lw | 20,000 |
+| kg | 17 | njg | 47 | pg | 77 | x | 107 | mw | 30,000 |
+| kh | 18 | njh | 48 | ph | 78 | y | 108 | nw | 40,000 |
+| ki | 19 | nji | 49 | pi | 79 | z | 109 | ow | 50,000 |
+| l | 20 | n | 50 | q | 80 | a | 200 | pw | 60,000 |
+| la | 21 | na | 51 | qa | 81 | b | 300 | qw | 80,000 |
+| lb | 22 | nb | 52 | qb | 82 | c | 400 | rw | 90,000 |
+| lc | 23 | nc | 53 | qc | 83 | d | 500 | sw | 100,000 |
+| ld | 24 | nd | 54 | qd | 84 | e | 600 | tw | 200,000 |
+| le | 25 | ne | 55 | qe | 85 | f | 700 | vw | 300,000 |
+| lf | 26 | nf | 56 | qf | 86 | g | 800 | uw | 400,000 |
+| lg | 27 | ng | 57 | qg | 87 | h | 900 | xw | 500,000 |
+| lh | 28 | nh | 58 | qh | 88 | i | 1,002 | yw | 600,000 |
+| li | 29 | ni | 59 | qi | 89 | z | 1,003 | — | — |
 
 *Order of the numerical letters.*
 

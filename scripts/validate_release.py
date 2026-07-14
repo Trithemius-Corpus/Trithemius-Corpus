@@ -668,7 +668,7 @@ def main() -> int:
     print("Release validation passed.")
     print(f"  works: {EXPECTED_TRANS_WORKS} translatable + {EXPECTED_SKIPPED} skipped")
     print(f"  chunks: {EXPECTED_CHUNKS_TOTAL} total / {EXPECTED_CHUNKS_GRADED} graded")
-    print("  quality: S=47 / A=0 / B=0 / C=0 / F=0; 0.0% confirmed hallucination")
+    print("  historical machine-audit manifest: 47/47 formerly labeled S; retained for provenance only")
     return 0
 
 

@@ -21,17 +21,19 @@ Current public release view:
 | Translatable works | **47** |
 | Distinct texts | **29** |
 | Published chunks | **4,400** |
-| Graded chunks | **4,353** |
-| Quality tier distribution | **S=47 / A=0 / B=0 / C=0 / F=0** |
-| Chunk-weighted faithfulness | **4.63 / 5** |
-| Confirmed hallucination rate | **0.0%** |
-| Graded chunks at faithful >= 4 and not hallucinated | **100.0%** |
+| Public text origin | **Machine translation (all editions)** |
+| Complete documented human review | **0 editions** |
+| Public editorial status | **Provisional working texts** |
+| Automated QA | **Triage evidence; not certification** |
 
-*"S" is a machine quality tier from an LLM-judge rubric (see [`METHODOLOGY.md`](METHODOLOGY.md) §6), not a human critical-edition certification. These are scholarly working translations, not a critical edition — read the headline figures alongside that caveat.*
+Historical model-generated letter grades and numeric scores remain in the audit
+data for reproducibility, but they are no longer used as public quality labels.
+The current translations begin at internal triage status **C: provisional
+machine translation** unless documented human comparison supports promotion.
 
 Four additional source-manifest records are German or liturgical/table-heavy and are intentionally marked `skip: true` in `manifest.json`.
 
-The older independent GPT-5.5 audit found real weaknesses in the first public draft: hallucinated passages, rough OCR-bound works, and several untranslated tail chunks. Those findings are preserved historically in [`METHODOLOGY.md`](METHODOLOGY.md). The release text reflected here is the post-remediation corpus: repaired hallucination flags, closed prose gaps, cleaned OCR witnesses, and an all-S public manifest backed by per-work `chunks/grades.csv` files plus [`data/_quality/public_release_chunks.jsonl`](data/_quality/public_release_chunks.jsonl).
+The older independent GPT-5.5 audit found real weaknesses in the first public draft: hallucinated passages, rough OCR-bound works, and several untranslated tail chunks. Those findings are preserved historically in [`METHODOLOGY.md`](METHODOLOGY.md). Later remediation repaired many identified defects, but machine agreement does not establish human-verified accuracy. Public review status is recorded in [`data/editorial_status.json`](data/editorial_status.json).
 
 For a per-work table, source provenance, edition information, and grader statistics, see [`manifest.json`](manifest.json), [`data/_quality/scoreboard_gpt_v3.md`](data/_quality/scoreboard_gpt_v3.md), or the [browsable site](https://trithemius-corpus.github.io/Trithemius-Corpus/).
 
@@ -42,7 +44,7 @@ Each work lives at `works/<id>/` with:
 - `english.md` - the stitched full English translation
 - `latin-ocr.txt` - the OCR-cleaned Latin shown in the parallel viewer
 - `intro.md` - a short researched headnote
-- `metadata.json` - source provenance, edition metadata, tier, and artifact inventory
+- `metadata.json` - source provenance, historical machine-audit metadata, and artifact inventory
 - `chapters.json` - chapter/navigation boundaries for the static site when available
 - `ERRATA.md` - human correction notes when a work has recorded errata
 - `chunks/` - per-chunk English markdown plus `grades.csv`

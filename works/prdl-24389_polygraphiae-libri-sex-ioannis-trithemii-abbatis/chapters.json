@@ -1,66 +1,13 @@
 {
-  "source": "length",
+  "source": "headings",
   "n_segments": 124,
   "entries": [
-    {
-      "label": "Part 1 of 12",
-      "n": 1,
-      "title": ""
-    },
-    {
-      "label": "Part 2 of 12",
-      "n": 11,
-      "title": ""
-    },
-    {
-      "label": "Part 3 of 12",
-      "n": 21,
-      "title": ""
-    },
-    {
-      "label": "Part 4 of 12",
-      "n": 31,
-      "title": ""
-    },
-    {
-      "label": "Part 5 of 12",
-      "n": 42,
-      "title": ""
-    },
-    {
-      "label": "Part 6 of 12",
-      "n": 52,
-      "title": ""
-    },
-    {
-      "label": "Part 7 of 12",
-      "n": 62,
-      "title": ""
-    },
-    {
-      "label": "Part 8 of 12",
-      "n": 72,
-      "title": ""
-    },
-    {
-      "label": "Part 9 of 12",
-      "n": 82,
-      "title": ""
-    },
-    {
-      "label": "Part 10 of 12",
-      "n": 93,
-      "title": ""
-    },
-    {
-      "label": "Part 11 of 12",
-      "n": 103,
-      "title": ""
-    },
-    {
-      "label": "Part 12 of 12",
-      "n": 113,
-      "title": ""
-    }
+    {"label": "Preface", "n": 8, "title": "Preface"},
+    {"label": "Book I", "n": 33, "title": "The First Book of the Polygraphia"},
+    {"label": "Book II", "n": 65, "title": "The Second Book of the Polygraphia"},
+    {"label": "Book III", "n": 89, "title": "The Third Book of the Polygraphia"},
+    {"label": "Book IV", "n": 98, "title": "The Fourth Book of the Polygraphia"},
+    {"label": "Book V", "n": 106, "title": "The Fifth Book of the Polygraphia"},
+    {"label": "Book VI", "n": 112, "title": "The Sixth Book of the Polygraphia"}
   ]
 }
