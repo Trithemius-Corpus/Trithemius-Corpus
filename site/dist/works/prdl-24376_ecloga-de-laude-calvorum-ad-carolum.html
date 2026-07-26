@@ -48,7 +48,7 @@
 <div class="read-progress" id="readProgress" aria-hidden="true"><span class="read-progress-pct" id="readProgressPct"></span></div>
 <header class="site-header">
   <div class="container">
-    <h1 class="site-title"><a href="../index.html">Trithemius Corpus</a></h1>
+    <div class="site-title"><a href="../index.html">Trithemius Corpus</a></div>
     <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="siteNav">
       <span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span>
     </button>
@@ -80,7 +80,7 @@
 
 
 <header class="work-header">
-  <h2 class="work-title">Ecloga de Laude Calvorum ad Carolum (Hucbald of Elnon, transmitted by Trithemius)</h2>
+  <h1 class="work-title">Ecloga de Laude Calvorum ad Carolum (Hucbald of Elnon, transmitted by Trithemius)</h1>
 <p class="work-subtitle">An Eclogue in Praise of Bald Men, to Charles (Hucbald of Elnon; in Trithemius’s transcription)</p>  <p class="work-id"><code>prdl-24376_ecloga-de-laude-calvorum-ad-carolum</code></p>
   <div class="badges">
     <span class="badge status-origin">Machine translation</span>
@@ -111,12 +111,12 @@
      role="img" aria-label="Cover: An Eclogue in Praise of Bald Men, to Charles"
      class="work-cover" preserveAspectRatio="xMidYMid meet">
   <defs>
-    <linearGradient id="cv-bg" x1="0" y1="0" x2="0" y2="1">
+    <linearGradient id="cv-bg-prdl-24376_ecloga-de-laude-calvorum-ad-carolum" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#1c1610"/>
       <stop offset="1" stop-color="#120d08"/>
     </linearGradient>
   </defs>
-  <rect width="800" height="1066" fill="url(#cv-bg)"/>
+  <rect width="800" height="1066" fill="url(#cv-bg-prdl-24376_ecloga-de-laude-calvorum-ad-carolum)"/>
   <!-- double gilt rule frame -->
   <rect x="22" y="22" width="756" height="1022" fill="none"
         stroke="#c9a24a" stroke-width="1.4" opacity="0.85"/>
@@ -152,249 +152,23 @@
   </style>
 </svg></div>
 <section class="work-intro">
-  <h3>About this work</h3>
+  <h2>About this work</h2>
   <p>The <em>Ecloga de Laude Calvorum ad Carolum</em> — "An Eclogue in Praise of Bald Men, to Charles" — is one of the legendary curiosities of medieval Latin literature: a 133-line poem in which <strong>every single word begins with the letter C</strong>. It is a lipogrammatic tour de force, an entire mock-encomium conducted under that one constraint — the bald-headed are like the sun, like the moon, like polished bronze, like a clear and unclouded sky — and the constraint is the joke as much as the praise. Composed in the Carolingian ninth century and addressed to the emperor Charles the Bald, it earned its author a small immortality outside his more serious musical and hagiographic writings.</p>
 <p>That author is <strong>Hucbald of Saint-Amand</strong> (c. 840–930), not Trithemius. The poem reached this corpus through Trithemius's entry on Hucbald in the <em>De Scriptoribus Ecclesiasticis</em> (also in this corpus, <code>prdl-70280</code>), which quotes it in full; the early-modern Trithemius compilations reprinted it alongside that entry, and that is the chain by which a ninth-century poem ends up among the works of a fifteenth-century abbot. It is retained here for full coverage of the printed-Trithemius witness, and because Hucbald's <em>ecloga</em> has <strong>no readily available modern English translation</strong> — this appears to be the first freely accessible continuous rendering.</p>
 <p>The Latin is metric (mostly hexameters with elegiac interludes) and word-play-dense; the English here flattens the metrical play to readable prose while keeping the chapter structure (Prooemium, then Cap. I–XII) and the prose argument-headings Hucbald gave each verse block. This is the <strong>Mainz edition, ca. 1496</strong> (BSB scan);</p>
 </section>
 
 <section class="work-translation">
-  <h3>English translation</h3>
-<aside class="chnav" data-anchor="ch"
-       data-total="2"
-       data-source="length">
-  <div class="chnav-head">
-    <button class="chnav-toggle" type="button" aria-expanded="false" title="Show all 2 chapters">
-      <span class="chnav-pos">1/2</span>
-      <span class="chnav-title">Part 1 of 2</span>
-      <span class="chnav-hint">2 chapters</span>
-      <span class="chnav-caret" aria-hidden="true">&#9650;</span>
-    </button>
-  </div>
-  <div class="chnav-bar-track"><div class="chnav-bar-fill"></div></div>
-  <ol class="chnav-list">
-    <li><a href="#ch-1"
-           class="chnav-link"
-           data-idx="0"
-           data-seg="1"
-           title="Part 1 of 2">1. Part 1 of 2</a></li>
-    <li><a href="#ch-3"
-           class="chnav-link"
-           data-idx="1"
-           data-seg="3"
-           title="Part 2 of 2">2. Part 2 of 2</a></li>
-  </ol>
-  <div class="chnav-arrows">
-    <a class="chnav-prev" href="#" title="Previous">&#8249; Prev</a>
-    <a class="chnav-next" href="#" title="Next">Next &#8250;</a>
-  </div>
-</aside>
-
-<style>
-/* Fixed floating chapter panel — bottom-left corner, always visible */
-.chnav{
-  position:fixed;bottom:1rem;left:1rem;z-index:100;
-  width:13rem;max-width:calc(100vw - 2rem);
-  background:var(--paper,#f4ecd8);
-  border:1px solid var(--gilt-deep,#c9b896);
-  border-radius:8px;
-  box-shadow:0 4px 18px rgba(0,0,0,.18);
-  font-family:inherit;
-  display:flex;flex-direction:column;
-  max-height:58vh;
-  opacity:.92;
-  transition:opacity .2s;
-}
-.chnav:hover{opacity:1}
-
-/* Header: position + title + caret */
-.chnav-head{padding:.35rem .45rem 0}
-.chnav-toggle{
-  width:100%;border:none;background:transparent;cursor:pointer;
-  display:flex;align-items:center;gap:.4rem;
-  font:inherit;text-align:left;padding:.2rem 0;
-  color:var(--ink,#2a2420);
-}
-.chnav-pos{
-  font-size:.72rem;font-weight:700;color:var(--vermilion,#7a1f1f);
-  background:rgba(122,31,31,.08);padding:.05rem .35rem;border-radius:3px;
-  white-space:nowrap;flex-shrink:0;
-}
-.chnav-title{
-  flex:1;font-size:.76rem;font-weight:500;
-  white-space:nowrap;overflow:hidden;text-overflow:ellipsis;
-}
-/* discoverability hint: "N chapters" — visible when collapsed, fades on open */
-.chnav-hint{
-  font-size:.6rem;font-weight:600;letter-spacing:.03em;
-  color:var(--gilt,#b89b5e);background:rgba(201,162,74,.12);
-  padding:.04rem .32rem;border-radius:3px;white-space:nowrap;flex-shrink:0;
-  opacity:.9;transition:opacity .2s;
-}
-.chnav.is-open .chnav-hint{opacity:0;width:0;padding:0;overflow:hidden}
-/* caret animates so the toggle reads as expandable */
-.chnav-caret{font-size:.6rem;color:var(--ink-muted,#6a5f54);transition:transform .25s ease}
-.chnav:not(.is-open) .chnav-caret{animation:chnavNudge 2.4s ease-in-out infinite}
-.chnav.is-open .chnav-caret{transform:rotate(180deg)}
-@keyframes chnavNudge{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px)}}
-@media (prefers-reduced-motion: reduce){
-  .chnav:not(.is-open) .chnav-caret{animation:none}
-}
-
-/* Progress bar */
-.chnav-bar-track{height:2px;margin:.35rem .6rem 0;background:var(--gilt-deep,#e0d5bc);border-radius:1px;overflow:hidden}
-.chnav-bar-fill{height:100%;width:0;background:var(--vermilion,#7a1f1f);transition:width .2s;opacity:.7}
-
-/* Chapter list (collapsible) */
-.chnav-list{
-  list-style:none;margin:0;padding:0;
-  overflow-y:auto;flex:1;
-  display:none;  /* hidden by default */
-}
-.chnav.is-open .chnav-list{display:block}
-.chnav-link{
-  display:block;padding:.24rem .5rem;
-  font-size:.74rem;line-height:1.2;
-  color:var(--ink,#2a2420);text-decoration:none;
-  border-left:3px solid transparent;
-  transition:background .1s,border-color .1s;
-}
-.chnav-link:hover{background:var(--gilt-deep,#e8dcc0)}
-.chnav-link.is-active{
-  background:rgba(122,31,31,.06);
-  border-left-color:var(--vermilion,#7a1f1f);
-  font-weight:600;
-}
-
-/* Prev/next arrows */
-.chnav-arrows{
-  display:flex;justify-content:space-between;
-  padding:.35rem .6rem;border-top:1px solid var(--gilt-deep,#e0d5bc);
-}
-.chnav-prev,.chnav-next{
-  font-size:.78rem;color:var(--vermilion,#7a1f1f);text-decoration:none;
-  padding:.15rem .3rem;border-radius:3px;
-}
-.chnav-prev:hover,.chnav-next:hover{background:rgba(122,31,31,.08)}
-.chnav-prev[style*="opacity:.3"],.chnav-next[style*="opacity:.3"]{pointer-events:none}
-
-/* Anchor targets clear the fixed site header by a small, tight margin so the
-   chapter begins just under the header — no overshoot into the next chapter. */
-[id^="ch-"],[id^="seg-"]{scroll-margin-top:5.5rem}
-
-/* On narrow screens, dock to bottom-full-width */
-@media (max-width:48rem){
-  .chnav{left:0;right:0;top:auto;bottom:0;width:auto;max-width:none;border-radius:8px 8px 0 0;max-height:40vh}
-  body:has(.chnav){padding-bottom:4.5rem}
-}
-</style>
-
-<script>
-(function(){
-  var panel = document.querySelector('.chnav');
-  if (!panel) return;
-  var anchor  = panel.dataset.anchor || 'ch';
-  var total   = parseInt(panel.dataset.total, 10);
-  var source  = panel.dataset.source;
-  var toggle  = panel.querySelector('.chnav-toggle');
-  var posEl   = panel.querySelector('.chnav-pos');
-  var titleEl = panel.querySelector('.chnav-title');
-  var barFill = panel.querySelector('.chnav-bar-fill');
-  var prev    = panel.querySelector('.chnav-prev');
-  var next    = panel.querySelector('.chnav-next');
-  var links   = Array.prototype.slice.call(panel.querySelectorAll('.chnav-link'));
-
-  // Build section lookup
-  var secs = [];
-  links.forEach(function(a){
-    var seg = a.dataset.seg;
-    var el = document.getElementById(anchor + '-' + seg) ||
-             document.querySelector('[data-seg="' + seg + '"]');
-    if (el) secs.push({ idx: parseInt(a.dataset.idx,10), el: el, label: a.title || a.textContent.trim(), seg: seg, link: a });
-  });
-  if (!secs.length) return;
-
-  var currentIdx = 0;
-
-  // ── Expand/collapse ──
-  toggle.addEventListener('click', function(){
-    panel.classList.toggle('is-open');
-    toggle.setAttribute('aria-expanded', panel.classList.contains('is-open'));
-  });
-
-  // ── Navigation: native hash change + explicit offset scroll ──
-  function goTo(idx){
-    if (idx < 0 || idx >= secs.length) return;
-    currentIdx = idx;
-    var target = document.getElementById(anchor + '-' + secs[idx].seg);
-    if (target) {
-      // Update the hash without the browser's default jump, then scroll so the
-      // target's TOP sits just below the fixed header — tight, no overshoot.
-      history.replaceState(null, '', '#' + anchor + '-' + secs[idx].seg);
-      var headerH = (document.querySelector('.site-header')||{}).offsetHeight || 86;
-      var y = target.getBoundingClientRect().top + window.scrollY - headerH - 8;
-      window.scrollTo({ top: y, behavior: 'smooth' });
-    } else {
-      location.hash = anchor + '-' + secs[idx].seg;
-    }
-    updateDisplay();
-    // collapse after picking
-    panel.classList.remove('is-open');
-    toggle.setAttribute('aria-expanded', 'false');
-  }
-  prev.addEventListener('click', function(e){ e.preventDefault(); goTo(currentIdx - 1); });
-  next.addEventListener('click', function(e){ e.preventDefault(); goTo(currentIdx + 1); });
-  links.forEach(function(a){
-    a.addEventListener('click', function(e){
-      e.preventDefault();
-      goTo(parseInt(a.dataset.idx, 10));
-    });
-  });
-
-  // ── Display update (position, title, bar, active link, prev/next) ──
-  function updateDisplay(){
-    var c = secs[currentIdx];
-    if (!c) return;
-    posEl.textContent = (currentIdx + 1) + '/' + total;
-    titleEl.textContent = c.label;
-    var pct = total > 1 ? (currentIdx / (total - 1)) * 100 : 0;
-    barFill.style.width = pct.toFixed(0) + '%';
-    links.forEach(function(l){ l.classList.toggle('is-active', parseInt(l.dataset.idx,10) === currentIdx); });
-    prev.style.opacity = currentIdx > 0 ? '' : '.3';
-    next.style.opacity = currentIdx < secs.length - 1 ? '' : '.3';
-  }
-
-  // ── Scroll-position tracking (display-only, never scrolls) ──
-  if ('IntersectionObserver' in window) {
-    var io = new IntersectionObserver(function(entries){
-      entries.forEach(function(entry){
-        if (entry.isIntersecting) {
-          for (var i = 0; i < secs.length; i++) {
-            if (secs[i].el === entry.target) {
-              currentIdx = i;
-              updateDisplay();
-              break;
-            }
-          }
-        }
-      });
-    }, { rootMargin: '-72px 0px -55% 0px', threshold: 0 });
-    secs.forEach(function(s){ io.observe(s.el); });
-  }
-
-  // ── Initial: respect URL hash if present ──
-  var h = location.hash;
-  if (h) {
-    for (var i = 0; i < secs.length; i++) {
-      if (h === '#' + anchor + '-' + secs[i].seg) { currentIdx = i; break; }
-    }
-  }
-  updateDisplay();
-})();
-</script>
+  <h2>English translation</h2>
   <div class="reader-toolbar" role="toolbar" aria-label="Reading controls">
     <button type="button" class="rt-toggle" id="rt-type-toggle"
             aria-expanded="false" aria-controls="rt-type-panel" title="Type controls">&#9881;<span class="rt-label"> Type</span></button>
+    <button type="button" class="rt-toggle" id="rt-copy-link"
+            title="Copy a link to the current passage" disabled>&sect;<span class="rt-label"> Copy link</span></button>
+    <button type="button" class="rt-toggle" id="rt-copy-cite"
+            title="Copy a citation for the current passage" disabled>&#128203;<span class="rt-label"> Cite passage</span></button>
+    <span class="rt-passage-label" id="rt-passage-label" aria-hidden="true"></span>
+    <span class="sr-only" id="rt-passage-status" role="status" aria-live="polite"></span>
     <span class="rt-spacer"></span>
     <button type="button" class="rt-toggle" id="rt-read"
             title="Read this page aloud">&#9655;<span class="rt-label"> Read aloud</span></button>
@@ -409,19 +183,21 @@
   <div class="english-body">
 <h2 class="reading-work-title">An Eclogue in Praise of Bald Men, to Charles (Hucbald of Elnon; in Trithemius’s transcription)</h2>    <section class="chapter" id="ch-1" data-seg="1">
 
-<p>Hucbald "of Saint-Amand."</p>
-<p><em>Eclogue in Praise of the Bald, addressed to the emperor Charles the Bald, with the Life of Hucbald from Johannes Trithemius's</em> On Ecclesiastical Writers.</p>
-<p>[Mainz], [ca. 1496].</p>
-<p>[Library stamp: BIBLIOTHECA REGIA MONACENSIS — Royal Library, Munich.]</p>
-<p><em>A marvelous poem in praise of the bald, by the monk Hucbald, to the bald emperor Charles.</em></p>
-<p>From the book <em>On Ecclesiastical Writers</em> of Johannes of Trittenheim [Trithemius], abbot of Sponheim, of the Order of Saint Benedict:</p>
-<p>Hucbald, monk of Elnon, of the order of the holy father Benedict, a Gaul by nation, was a man supremely learned in the divine Scriptures as in secular letters; in music, poetry, philosophy, oratory, and the other humane arts second to none in his time, as the many small works he elegantly composed attest — of which I have so far found only those set down here. To the emperor Charles the Bald, a marvelous work of one hundred and thirty verses, every word of which begins with the single letter C — thus: <em>Carmina clarisone caluis cantate camene</em>, "Sing your songs, clear-sounding Camenae, for the bald" — which he entitled the <em>Eclogue in Praise of the Bald</em>, one book. <em>On Music</em>, one book. <em>The Deeds of Saint Lebuin</em>, one book. <em>Letters to Various Persons</em>, one book. He also wrote the lives of many saints in ornate eloquence, and composed chants in their honor of sweet and regular melody. He flourished in the time of the emperor Charles the Bald, in the year of the Lord 880.</p>
-<p><em>Here begins the eclogue of Dom Hucbald, monk of Elnon, of the Order of Saint Benedict, to the emperor Charles the Bald.</em></p>
-<p>A crack-brained man once sang songs of abuse, attempting to carp at the bald:<br />
+
+
+<p id="p-en-0001-0001" data-passage-id="p-en-0001-0001" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0001" data-segment="1">Hucbald "of Saint-Amand."</p>
+<p id="p-en-0001-0002" data-passage-id="p-en-0001-0002" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0002" data-segment="1"><em>Eclogue in Praise of the Bald, addressed to the emperor Charles the Bald, with the Life of Hucbald from Johannes Trithemius's</em> On Ecclesiastical Writers.</p>
+<p id="p-en-0001-0003" data-passage-id="p-en-0001-0003" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0003" data-segment="1">[Mainz], [ca. 1496].</p>
+<p id="p-en-0001-0004" data-passage-id="p-en-0001-0004" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0004" data-segment="1">[Library stamp: BIBLIOTHECA REGIA MONACENSIS — Royal Library, Munich.]</p>
+<p id="p-en-0001-0005" data-passage-id="p-en-0001-0005" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0005" data-segment="1"><em>A marvelous poem in praise of the bald, by the monk Hucbald, to the bald emperor Charles.</em></p>
+<p id="p-en-0001-0006" data-passage-id="p-en-0001-0006" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0006" data-segment="1">From the book <em>On Ecclesiastical Writers</em> of Johannes of Trittenheim [Trithemius], abbot of Sponheim, of the Order of Saint Benedict:</p>
+<p id="p-en-0001-0007" data-passage-id="p-en-0001-0007" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0007" data-segment="1">Hucbald, monk of Elnon, of the order of the holy father Benedict, a Gaul by nation, was a man supremely learned in the divine Scriptures as in secular letters; in music, poetry, philosophy, oratory, and the other humane arts second to none in his time, as the many small works he elegantly composed attest — of which I have so far found only those set down here. To the emperor Charles the Bald, a marvelous work of one hundred and thirty verses, every word of which begins with the single letter C — thus: <em>Carmina clarisone caluis cantate camene</em>, "Sing your songs, clear-sounding Camenae, for the bald" — which he entitled the <em>Eclogue in Praise of the Bald</em>, one book. <em>On Music</em>, one book. <em>The Deeds of Saint Lebuin</em>, one book. <em>Letters to Various Persons</em>, one book. He also wrote the lives of many saints in ornate eloquence, and composed chants in their honor of sweet and regular melody. He flourished in the time of the emperor Charles the Bald, in the year of the Lord 880.</p>
+<p id="p-en-0001-0008" data-passage-id="p-en-0001-0008" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0008" data-segment="1"><em>Here begins the eclogue of Dom Hucbald, monk of Elnon, of the Order of Saint Benedict, to the emperor Charles the Bald.</em></p>
+<p id="p-en-0001-0009" data-passage-id="p-en-0001-0009" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0009" data-segment="1">A crack-brained man once sang songs of abuse, attempting to carp at the bald:<br />
 now let the bald man be celebrated in song.<br />
 Take note, all of you, of this poem by a man of conspicuous brilliance.</p>
-<p><em>The prooemium, in which the Camenae are summoned to the praise of the bald.</em></p>
-<p>Sing your songs, clear-sounding Camenae, for the bald!<br />
+<p id="p-en-0001-0010" data-passage-id="p-en-0001-0010" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0010" data-segment="1"><em>The prooemium, in which the Camenae are summoned to the praise of the bald.</em></p>
+<p id="p-en-0001-0011" data-passage-id="p-en-0001-0011" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0011" data-segment="1">Sing your songs, clear-sounding Camenae, for the bald!<br />
 I shall try to dress the bald in a worthy song<br />
 and to confound the curls on the curling neck.<br />
 Let the skilled Camenae join in bright canticles;<br />
@@ -431,8 +207,8 @@ Let the cause of the bald ascend the summit of heaven.<br />
 Silence, all you long-haired with your clotted locks,<br />
 who carp at every balding man in crack-brained song:<br />
 let harmonious songs be sung in concert for the bald.</p>
-<p><em>That baldness comes upon certain men as a presage of the future, and upon whom, and how it is seen to arrive. Chapter 1.</em></p>
-<p>Sing your songs, clear-sounding Camenae, for the bald!<br />
+<p id="p-en-0001-0012" data-passage-id="p-en-0001-0012" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0012" data-segment="1"><em>That baldness comes upon certain men as a presage of the future, and upon whom, and how it is seen to arrive. Chapter 1.</em></p>
+<p id="p-en-0001-0013" data-passage-id="p-en-0001-0013" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0013" data-segment="1">Sing your songs, clear-sounding Camenae, for the bald!<br />
 When the crown takes shape at the nape of the head,<br />
 it seals the bald man as a sworn fellow of the clergy,<br />
 soon to capture, Christ granting it, a shining crown.<br />
@@ -442,8 +218,8 @@ longing to reach the citizens of heaven by his devotion.<br />
 He condemns all sins together with their perishing cares;<br />
 craving with eager craving the ascent of heaven<br />
 and the concord of the heaven-dwellers, he praises the Creator of all.</p>
-<p><em>That the bald are cantors, abbots, and teachers, and bishops too, and priests. Chapter 2.</em></p>
-<p>Sing your songs, clear-sounding Camenae, for the bald!<br />
+<p id="p-en-0001-0014" data-passage-id="p-en-0001-0014" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0014" data-segment="1"><em>That the bald are cantors, abbots, and teachers, and bishops too, and priests. Chapter 2.</em></p>
+<p id="p-en-0001-0015" data-passage-id="p-en-0001-0015" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0015" data-segment="1">Sing your songs, clear-sounding Camenae, for the bald!<br />
 The tuneful bald exult together with ringing cry<br />
 and keep their choirs in motion, dancing chaste rounds,<br />
 all of one accordant body, conformed to their head.<br />
@@ -453,8 +229,8 @@ They confect the chrism, bright with the name of Christ;<br />
 they gather the chrism-sprinkled flocks into one column;<br />
 in concord and with care they celebrate the banquet of the Supper,<br />
 sating Christ's table-fellows with His flesh and blood.</p>
-<p><em>That the bald are kings and emperors, and consuls too, lawgivers, and judges. Chapter 3.</em></p>
-<p>Sing your songs, clear-sounding Camenae, for the bald!<br />
+<p id="p-en-0001-0016" data-passage-id="p-en-0001-0016" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0016" data-segment="1"><em>That the bald are kings and emperors, and consuls too, lawgivers, and judges. Chapter 3.</em></p>
+<p id="p-en-0001-0017" data-passage-id="p-en-0001-0017" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0017" data-segment="1">Sing your songs, clear-sounding Camenae, for the bald!<br />
 The bald reign together; illustrious, they mount the heights,<br />
 conspicuous, well-groomed, a golden crown at the neck;<br />
 clement in their judgments, they frame decrees for their clients.<br />
@@ -464,8 +240,8 @@ Prancing fop, believe it: the stout-hearted bald man is one to fear.<br />
 Only a blind man reckons the balding blighted in body.<br />
 You are the blinded one: cease carping at the bald man's baldness —<br />
 cease, you balding mocker; cease your gnawing; cease!</p>
-<p><em>That the bald are commanders of armies, and themselves warriors both learned and strong. Chapter 4.</em></p>
-<p>Sing your songs, clear-sounding Camenae, for the bald!<br />
+<p id="p-en-0001-0018" data-passage-id="p-en-0001-0018" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0018" data-segment="1"><em>That the bald are commanders of armies, and themselves warriors both learned and strong. Chapter 4.</em></p>
+<p id="p-en-0001-0019" data-passage-id="p-en-0001-0019" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0019" data-segment="1">Sing your songs, clear-sounding Camenae, for the bald!<br />
 The bald lead columns famous in combat;<br />
 the bald fight back, crested with the helmet's cone;<br />
 swift, they wheel and shake whole squadrons amid the slaughter;<br />
@@ -475,9 +251,11 @@ Necks fall; the bald raise the victory-chant with a shout.<br />
 Roused to the contest, the bald man is cunning in battle:<br />
 he tramples, he strikes, he forces the long-haired to yield;<br />
 he takes captives, and pens the captured by the neck.</p>
-<p><em>Readings.</em> The English follows the 1496 print, checked line by line against the Bavarian State Library scan. Every word of the poem begins with the letter c; several apparent OCR errors are the print's own. The prooemium's fifth line ends "crimine cluras" (so the print; "cluras" is corrupt, perhaps for "claras"); in chapter 4 the print's "curros" is evidently for "cirros" ("curls"), and its "capros" ("goats") in the final line for "captos" ("the captured") — though "goats" would not be beyond this poet. The epigraph's "Conatus" is the participle ("attempting"), not a name.</p>
-<p><em>In praise of the bald from the experience of the art of medicine, pharmacy as much as surgery. Chapter 5.</em></p>
-<p>Sing your songs, clear-sounding Camenae, for the bald!<br />
+<p id="p-en-0001-0020" data-passage-id="p-en-0001-0020" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0001:p-0020" data-segment="1"><em>Readings.</em> The English follows the 1496 print, checked line by line against the Bavarian State Library scan. Every word of the poem begins with the letter c; several apparent OCR errors are the print's own. The prooemium's fifth line ends "crimine cluras" (so the print; "cluras" is corrupt, perhaps for "claras"); in chapter 4 the print's "curros" is evidently for "cirros" ("curls"), and its "capros" ("goats") in the final line for "captos" ("the captured") — though "goats" would not be beyond this poet. The epigraph's "Conatus" is the participle ("attempting"), not a name.</p>
+
+
+<p id="p-en-0002-0001" data-passage-id="p-en-0002-0001" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0001" data-segment="2"><em>In praise of the bald from the experience of the art of medicine, pharmacy as much as surgery. Chapter 5.</em></p>
+<p id="p-en-0002-0002" data-passage-id="p-en-0002-0002" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0002" data-segment="2">Sing your songs, clear-sounding Camenae, for the bald!<br />
 You will find that the bald lend the brain its buttress;<br />
 you will find that the bald cure catarrhs of the head;<br />
 you will find that the bald cure its hidden hollows.<br />
@@ -487,8 +265,8 @@ Handling the steel with knowing flesh, he stanches<br />
 the head's corrupted gore at the cauterized neck.<br />
 Why sing on? Every lurking malady falls away:<br />
 he routs them from the body and cures the collapsing frame.</p>
-<p><em>Invective of one rebuking the mocker who heaps abuse on the bald. Chapter 6.</em></p>
-<p>Sing your songs, clear-sounding Camenae, for the bald!<br />
+<p id="p-en-0002-0003" data-passage-id="p-en-0002-0003" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0003" data-segment="2"><em>Invective of one rebuking the mocker who heaps abuse on the bald. Chapter 6.</em></p>
+<p id="p-en-0002-0004" data-passage-id="p-en-0002-0004" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0004" data-segment="2">Sing your songs, clear-sounding Camenae, for the bald!<br />
 Curly-locks, beware of striving in your heart against Him who creates the bald;<br />
 cease trundling out abuse against His creature.<br />
 The all-powerful Creator of every cause established<br />
@@ -498,8 +276,8 @@ granting it the summit to which He made all things bow.<br />
 Why, madman, do you bark back with a dog's clamor?<br />
 He made the bald man. So let the gourd-head, toppled in the muck —<br />
 let his miry slander — fall silent, and quickly.</p>
-<p><em>Again, against the same man; and the praise of the bald for humility, charity, and chastity. Chapter 7.</em></p>
-<p>Sing your songs, clear-sounding Camenae, for the bald!<br />
+<p id="p-en-0002-0005" data-passage-id="p-en-0002-0005" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0005" data-segment="2"><em>Again, against the same man; and the praise of the bald for humility, charity, and chastity. Chapter 7.</em></p>
+<p id="p-en-0002-0006" data-passage-id="p-en-0002-0006" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0006" data-segment="2">Sing your songs, clear-sounding Camenae, for the bald!<br />
 You accomplice of butchers — why think the hide is being flayed from the bald man?<br />
 He is plucking out the purse of his heart.<br />
 Why think the bald sprinkle ashes on the head?<br />
@@ -509,8 +287,8 @@ The hearts of the bald burn, cooked through in the heat of Christ.<br />
 Why think the chaste bald man is castrate in body?<br />
 In his heart he is swiftly severed from every fault.<br />
 Curb the mockery that butchers the bald in song.</p>
-<p><em>A reproach of his flesh; and the example of Elisha the prophet and the boys who mocked him. Chapter 8.</em></p>
-<p>Sing your songs, clear-sounding Camenae, for the bald!<br />
+<p id="p-en-0002-0007" data-passage-id="p-en-0002-0007" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0007" data-segment="2"><em>A reproach of his flesh; and the example of Elisha the prophet and the boys who mocked him. Chapter 8.</em></p>
+<p id="p-en-0002-0008" data-passage-id="p-en-0002-0008" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0008" data-segment="2">Sing your songs, clear-sounding Camenae, for the bald!<br />
 In bright songs I take care to join nothing dark:<br />
 let the heel tread into mud the heights that deserve the treading.<br />
 Filthy man singing filthy things: stop up your pipe.<br />
@@ -520,8 +298,8 @@ The whelp was roused, his barking laughter circling,<br />
 they shouting, "Go up quickly — go up, bald-head!"<br />
 The crimes at once make plain that he condemned the blind:<br />
 gnawed all over, their bodies fall, snatched off with their abuse.</p>
-<p><em>On the excellent bald man Paul the apostle, who was called by Christ, blinded, and caught up into the third heaven. Chapter 9.</em></p>
-<p>Sing your songs, clear-sounding Camenae, for the bald!<br />
+<p id="p-en-0002-0009" data-passage-id="p-en-0002-0009" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0009" data-segment="2"><em>On the excellent bald man Paul the apostle, who was called by Christ, blinded, and caught up into the third heaven. Chapter 9.</em></p>
+<p id="p-en-0002-0010" data-passage-id="p-en-0002-0010" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0010" data-segment="2">Sing your songs, clear-sounding Camenae, for the bald!<br />
 Let songs for the bald be heaped up in song of the bald man<br />
 conspicuous — whose cruel warrant of slaughter<br />
 had stood fixed: to butcher the worshippers of Christ.<br />
@@ -531,8 +309,8 @@ He fell at once, run through as if by the point of a lance,<br />
 and at once begins his climb to the summit of heaven,<br />
 seeing the Almighty with clear-eyed gaze —<br />
 his heart, well warmed, shines bright: a heavenly vessel.</p>
-<p><em>That from a persecutor he was made a preacher; and that he forbids growing the hair and uttering shameful talk. Chapter 10.</em></p>
-<p>Sing your songs, clear-sounding Camenae, for the bald!<br />
+<p id="p-en-0002-0011" data-passage-id="p-en-0002-0011" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0011" data-segment="2"><em>That from a persecutor he was made a preacher; and that he forbids growing the hair and uttering shameful talk. Chapter 10.</em></p>
+<p id="p-en-0002-0012" data-passage-id="p-en-0002-0012" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0012" data-segment="2">Sing your songs, clear-sounding Camenae, for the bald!<br />
 Mass your choirs; celebrate your dances for the bald.<br />
 We have found the bald man worthy of honor, his censure renowned,<br />
 a consul of heaven with counsels of caution.<br />
@@ -542,8 +320,8 @@ he confounds the curls; he founds the civic colleges,<br />
 reconciling the sworn companies of Christ-worshippers;<br />
 he stirs hearts, striving to join the body to its head.<br />
 Let the madman cease to despise the celebrated bald.</p>
-<p><em>The poet addresses the Camenae concerning the mocker, hinting that by the judgment of the bald king he has been blinded. Chapter 11.</em></p>
-<p>Sing your songs, clear-sounding Camenae, for the bald!<br />
+<p id="p-en-0002-0013" data-passage-id="p-en-0002-0013" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0013" data-segment="2"><em>The poet addresses the Camenae concerning the mocker, hinting that by the judgment of the bald king he has been blinded. Chapter 11.</em></p>
+<p id="p-en-0002-0014" data-passage-id="p-en-0002-0014" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0014" data-segment="2">Sing your songs, clear-sounding Camenae, for the bald!<br />
 Restrain the cruel one who with hollow effort<br />
 tries to carp at all the bald — caught in his crime.<br />
 The coiner of abuse, his coinages crumbling —<br />
@@ -553,8 +331,8 @@ be blinded. Blind dog, cease despising the bald man.<br />
 Cower, dog, you who fabricate crimes against the bald;<br />
 cower, dog, you who bark at the bald in song;<br />
 cower, dog — and leave off gnawing the bald.</p>
-<p><em>An epitome of the praise of the bald: the site and beauty of the body; and that the bald man is a microcosm. Chapter 12.</em></p>
-<p>Sing your songs, clear-sounding Camenae, for the bald!<br />
+<p id="p-en-0002-0015" data-passage-id="p-en-0002-0015" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0015" data-segment="2"><em>An epitome of the praise of the bald: the site and beauty of the body; and that the bald man is a microcosm. Chapter 12.</em></p>
+<p id="p-en-0002-0016" data-passage-id="p-en-0002-0016" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0016" data-segment="2">Sing your songs, clear-sounding Camenae, for the bald!<br />
 When you see a shining council gather its company of bald men,<br />
 comprehend in the bald head the circle of heaven;<br />
 know the summit of baldness for the center of heaven.<br />
@@ -564,19 +342,19 @@ Cynthia will leave off lending her golden colors —<br />
 her horns darkening, she will yield as the bald wax bright.<br />
 The bald shine together; the helmet of the bald glows white,<br />
 glowing red-gold, as though the bright host of heaven were flashing.</p>
-<p><em>The close of the poem.</em></p>
-<p>Sing your songs, clear-sounding Camenae, for the bald!<br />
+<p id="p-en-0002-0017" data-passage-id="p-en-0002-0017" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0017" data-segment="2"><em>The close of the poem.</em></p>
+<p id="p-en-0002-0018" data-passage-id="p-en-0002-0018" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0018" data-segment="2">Sing your songs, clear-sounding Camenae, for the bald!<br />
 It will be fitting to lay the clear reeds to rest in their cases:<br />
 the singable song stands complete for the illustrious bald.</p>
-<p><em>Here ends the poem of Hucbald the monk to Charles, in praise of the bald.</em></p>
-<p>[The remaining leaves carry only the stamps of the Royal Library, Munich.]</p>
-<p><em>Readings.</em> The English follows the 1496 print, checked line by line against the Bavarian State Library scan; the print's irregular chapter numbering has been normalized. Where the print itself errs, the error is the printer's, not the poet's: "Cetam curuauit" (ch. 6) is corrupt, perhaps for "caelum" ("He arched the vault"); "curros" (ch. 10) is for "cirros" ("curls"); the second line of ch. 10 is partly unclear in the print and "his censure renowned" is conjectural, as is the knotted couplet "Censetur certe… consecutura" in ch. 8. In ch. 5, "Cōtrectās" is "contrectans" ("handling [the steel]"), "cacexia" is cachexia, and the "cauterized neck" ("cocta ceruice") is literal surgery. In ch. 9 the closing phrase "celeste catinum" ("a heavenly vessel") plays on Paul as the "vessel of election" (Acts 9:15).</p></section>
+<p id="p-en-0002-0019" data-passage-id="p-en-0002-0019" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0019" data-segment="2"><em>Here ends the poem of Hucbald the monk to Charles, in praise of the bald.</em></p>
+<p id="p-en-0002-0020" data-passage-id="p-en-0002-0020" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0020" data-segment="2">[The remaining leaves carry only the stamps of the Royal Library, Munich.]</p>
+<p id="p-en-0002-0021" data-passage-id="p-en-0002-0021" data-passage-uri="trc:prdl-24376_ecloga-de-laude-calvorum-ad-carolum:seg-0002:p-0021" data-segment="2"><em>Readings.</em> The English follows the 1496 print, checked line by line against the Bavarian State Library scan; the print's irregular chapter numbering has been normalized. Where the print itself errs, the error is the printer's, not the poet's: "Cetam curuauit" (ch. 6) is corrupt, perhaps for "caelum" ("He arched the vault"); "curros" (ch. 10) is for "cirros" ("curls"); the second line of ch. 10 is partly unclear in the print and "his censure renowned" is conjectural, as is the knotted couplet "Censetur certe… consecutura" in ch. 8. In ch. 5, "Cōtrectās" is "contrectans" ("handling [the steel]"), "cacexia" is cachexia, and the "cauterized neck" ("cocta ceruice") is literal surgery. In ch. 9 the closing phrase "celeste catinum" ("a heavenly vessel") plays on Paul as the "vessel of election" (Acts 9:15).</p></section>
   </div>
 </section>
 
 
 <section class="work-cite">
-  <h3>Cite this translation</h3>
+  <h2>Cite this translation</h2>
   <p class="muted">
     A machine translation should be cited as one, and checked against the Latin
     before quotation (see <a href="../methodology.html#12-what-this-corpus-is-good-for-and-what-it-is-not">the limitations</a>).
@@ -587,16 +365,16 @@ the singable song stands complete for the illustrious bald.</p>
 </section>
 
 <section class="work-links">
-  <h3>Artifacts</h3>
+  <h2>Artifacts</h2>
   <ul>
-<li><a href="prdl-24376_ecloga-de-laude-calvorum-ad-carolum_parallel.html">Side-by-side Latin&nbsp;/&nbsp;English viewer</a></li>    <li><a href="#" onclick="window.print();return false;">Download as PDF</a> (typeset via your browser&rsquo;s print dialog)</li>
+<li><a href="prdl-24376_ecloga-de-laude-calvorum-ad-carolum_parallel.html">Side-by-side Latin&nbsp;/&nbsp;English viewer</a></li><li><a href="../data/passages/prdl-24376_ecloga-de-laude-calvorum-ad-carolum.json">Passage and annotation index</a> (41 stable English passages)</li>    <li><a href="#" onclick="window.print();return false;">Download as PDF</a> (typeset via your browser&rsquo;s print dialog)</li>
 <li><a href="http://daten.digitale-sammlungen.de/bsb00039449/image_1">Original source record</a> / <a href="http://download.digitale-sammlungen.de/BOOKS/pdf_download.pl?id=bsb00039449">PDF</a> (BSB)</li>    <li><a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/tree/main/works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum">Repository folder</a></li>
   </ul>
 </section>
 
 
 <section class="work-errata" id="errata">
-  <h3>Editorial corrections</h3>
+  <h2>Editorial corrections</h2>
   <details>
     <summary>This work has recorded editorial corrections. Click to view.</summary>
     <h4 id="2026-07-10-shipped-the-fable-5-facsimile-re-translation-w5">2026-07-10 — shipped the Fable-5 facsimile re-translation (W5)</h4>
@@ -652,7 +430,7 @@ note at the end of each chunk; conjectures are identified as conjectures.</p>
 
 </article>
 <script>window.TC_WORK_IDS=["prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive", "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos", "prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui", "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis", "prdl-24390_polygraphiae-libri-vi", "prdl-24391_polygraphiae-libri-vi", "prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius", "prdl-70287_joh-tritthemii-de-scriptoribus-ecclesiasticis-liber", "prdl-24362_de-laude-scriptorum-manualium", "prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis", "prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis", "prdl-24361_de-cura-pastorali", "prdl-24373_de-statu-et-ruina-monastici-ordinis", "prdl-24360_compendium-breviarium-primi-voluminis-annalium-historiarum-origine-regum", "prdl-24363_de-laudibus-ordinis-fratrum-carmelitarum", "prdl-24364_de-laudibus-sanctissimae-matris-annae", "prdl-24365_de-laudibus-sanctissimae-matris-annae", "prdl-24366_de-laudibus-sanctissimae-matris-annae-liptzk-1497", "prdl-24367_de-laudibus-sanctissimae-matris-annae-liptzk-1501", "prdl-70283_de-laudibus-sanctissimae-matris-annae-liptzk-1501-hab", "prdl-70284_de-laudibus-sanctissimae-matris-annae", "prdl-24385_liber-de-triplici-regione-claustralium-et", "prdl-24386_liber-de-triplici-regione-claustralium-et", "prdl-24378_institutio-vitae-sacerdotalis", "prdl-24379_institutio-vitae-sacerdotalis", "prdl-24380_admonitiones-exhortationes-monachos", "prdl-24381_octo-quaestionum-maximilianum-caesarem", "prdl-24382_octo-quaestionum-maximilianum-caesarem", "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus", "prdl-70289_opera-historica-part", "prdl-70290_opera-historica-part-chronicon-hirsaugiense-sponheimense", "prdl-24357_abbreviatura-recessuum-capitularium-patrum-ordinis-divi", "prdl-24368_de-operatione-divini-amoris", "prdl-24369_de-purissima-et-immaculata-conceptione-virginis", "prdl-24370_de-purissima-et-immaculata-conceptione-virginis", "prdl-24374_de-vanitate-et-miseria-humanae-vitae", "prdl-24375_de-vera-conversione-mentis-ad-deum", "prdl-24376_ecloga-de-laude-calvorum-ad-carolum", "prdl-24393_sermones-et-exhortationes-ad-monachos-joa", "prdl-24394_sermones-et-exhortationes-ad-monachos-joa", "prdl-32285_de-sacerdotum-vita-instituenda-libellus", "prdl-32286_octo-quaestionum-maximilianum-caesarem", "prdl-70285_e-rara_de-triplici-regione-claustralium-et", "prdl-70286_octo-quaestionum-maximilianum-caesarem", "prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae", "prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines", "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"];</script>
-<script>window.TC_WORK={"id": "prdl-24376_ecloga-de-laude-calvorum-ad-carolum", "title": "An Eclogue in Praise of Bald Men, to Charles (Hucbald of Elnon; in Trithemius\u2019s transcription)"};</script>
+<script>window.TC_WORK={"annotations": "visible", "citation": "Fabin, Ian Carlos (2026). \u201cAn Eclogue in Praise of Bald Men, to Charles (Hucbald of Elnon; in Trithemius\u2019s transcription)\u201d [Ecloga de Laude Calvorum ad Carolum (Hucbald of Elnon, transmitted by Trithemius)]. Machine-assisted English translation of the [Mainz] [ca. 1496 (BSB) edition. In Trithemius Corpus. https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum.html", "id": "prdl-24376_ecloga-de-laude-calvorum-ad-carolum", "language": "en", "passageCount": 41, "passageIndex": "../data/passages/prdl-24376_ecloga-de-laude-calvorum-ad-carolum.json", "title": "An Eclogue in Praise of Bald Men, to Charles (Hucbald of Elnon; in Trithemius\u2019s transcription)", "view": "read"};</script>
 <script src="../static/reader.js"></script>
 
 </main>

@@ -90,6 +90,7 @@ def source_checks(errors: list[str]) -> None:
 
 
 def synthetic_determinism_check(errors: list[str]) -> None:
+    synthetic_latin = "Lorem" + (" " * 8192) + "\nIpsum"
     marked = (
         '<!--PASSAGE-SEG:7--><h2 id="old-heading">Heading</h2>'
         '<p>Visible <span class="anno anno-unclear">[unclear]</span> text.</p>'
@@ -120,7 +121,7 @@ def synthetic_determinism_check(errors: list[str]) -> None:
             "title_en": "Synthetic",
             "source": {"provider": "Test", "url": "https://example.test/source"},
         },
-        [{"n": 7, "latin": "Lorem", "missing": False, "dup_of": None}],
+        [{"n": 7, "latin": synthetic_latin, "missing": False, "dup_of": None}],
         passages,
         annotations,
         generated_from="synthetic",
@@ -135,7 +136,7 @@ def synthetic_determinism_check(errors: list[str]) -> None:
             "title_en": "Synthetic",
             "source": {"provider": "Test", "url": "https://example.test/source"},
         },
-        [{"n": 7, "latin": "Lorem", "missing": False, "dup_of": None}],
+        [{"n": 7, "latin": synthetic_latin, "missing": False, "dup_of": None}],
         passages,
         annotations,
         generated_from="synthetic",
@@ -144,7 +145,10 @@ def synthetic_determinism_check(errors: list[str]) -> None:
         errors.append("passage_model: JSON serialization is not byte-stable")
     try:
         schema = etree.RelaxNG(etree.parse(str(RNG_PATH)))
-        document = etree.fromstring(pm.tei_bytes(index))
+        tei = pm.tei_bytes(index)
+        if any(line.endswith((b" ", b"\t", b"\r")) for line in tei.split(b"\n")):
+            errors.append("passage_model: TEI serialization retained line-final whitespace")
+        document = etree.fromstring(tei)
         if not schema.validate(document):
             errors.append(f"passage_model: synthetic TEI failed the pilot schema: {schema.error_log}")
     except (etree.XMLSyntaxError, etree.RelaxNGParseError) as exc:

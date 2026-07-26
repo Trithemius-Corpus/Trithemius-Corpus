@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://trithemius-corpus.github.io/Trithemius-Corpus/data/schemas/annotation.schema.json",
+  "title": "Trithemius Corpus editorial annotation",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "html_id", "type", "motivation", "body", "target"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^trc:.+:seg-[0-9]{4}:p-[0-9]{4}:annotation-[0-9]{3}$"
+    },
+    "html_id": {
+      "type": "string",
+      "pattern": "^a-en-[0-9]{4}-[0-9]{4}-[0-9]{3}$"
+    },
+    "type": {"const": "Annotation"},
+    "motivation": {"enum": ["describing", "commenting", "tagging"]},
+    "body": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["type", "value", "purpose", "format", "language", "tag"],
+      "properties": {
+        "type": {"const": "TextualBody"},
+        "value": {"type": "string"},
+        "purpose": {"enum": ["tagging", "describing", "commenting"]},
+        "format": {"const": "text/plain"},
+        "language": {"type": "string", "minLength": 2},
+        "tag": {"type": "string", "minLength": 1}
+      }
+    },
+    "target": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["source", "selector"],
+      "properties": {
+        "source": {
+          "type": "string",
+          "pattern": "^trc:.+:seg-[0-9]{4}:p-[0-9]{4}$"
+        },
+        "selector": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["type", "conformsTo", "value"],
+          "properties": {
+            "type": {"const": "FragmentSelector"},
+            "conformsTo": {"const": "https://www.w3.org/TR/media-frags/"},
+            "value": {
+              "type": "string",
+              "pattern": "^a-en-[0-9]{4}-[0-9]{4}-[0-9]{3}$"
+            }
+          }
+        }
+      }
+    }
+  }
+}

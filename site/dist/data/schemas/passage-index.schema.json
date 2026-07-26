@@ -1,0 +1,145 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://trithemius-corpus.github.io/Trithemius-Corpus/data/schemas/passage-index.schema.json",
+  "title": "Trithemius Corpus passage index",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "$schema",
+    "schema_version",
+    "transform_version",
+    "generated_from",
+    "content_digest",
+    "work",
+    "alignment",
+    "segments",
+    "passages",
+    "annotations"
+  ],
+  "properties": {
+    "$schema": {"type": "string"},
+    "schema_version": {"const": "1.0"},
+    "transform_version": {"const": "passage-index-v1"},
+    "generated_from": {"type": "string", "minLength": 1},
+    "content_digest": {"type": "string", "pattern": "^sha256:[0-9a-f]{64}$"},
+    "work": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["id", "witness_id", "title", "title_en", "source"],
+      "properties": {
+        "id": {"type": "string", "pattern": "^prdl-[0-9]+_.+$"},
+        "witness_id": {"type": "string", "pattern": "^prdl-[0-9]+$"},
+        "title": {"type": "string", "minLength": 1},
+        "title_en": {"type": "string"},
+        "source": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["provider", "url"],
+          "properties": {
+            "provider": {"type": "string"},
+            "url": {"type": "string"}
+          }
+        }
+      }
+    },
+    "alignment": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["unit", "precision", "note"],
+      "properties": {
+        "unit": {"const": "source-segment"},
+        "precision": {"const": "segment"},
+        "note": {"type": "string", "minLength": 1}
+      }
+    },
+    "segments": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/segment"}
+    },
+    "passages": {
+      "type": "array",
+      "items": {"$ref": "#/$defs/passage"}
+    },
+    "annotations": {
+      "type": "array",
+      "items": {"$ref": "annotation.schema.json"}
+    }
+  },
+  "$defs": {
+    "segment": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id", "html_id", "segment", "latin", "english_available",
+        "duplicate_of", "source"
+      ],
+      "properties": {
+        "id": {"type": "string", "pattern": "^trc:.+:seg-[0-9]{4}$"},
+        "html_id": {"type": "string", "pattern": "^seg-[0-9]+$"},
+        "segment": {"type": "integer", "minimum": 1},
+        "latin": {"type": "string"},
+        "english_available": {"type": "boolean"},
+        "duplicate_of": {"type": ["integer", "null"], "minimum": 1},
+        "source": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["pages", "mapping_precision"],
+          "properties": {
+            "pages": {
+              "type": "array",
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": ["number", "label"],
+                "properties": {
+                  "number": {"type": "integer", "minimum": 1},
+                  "label": {"type": "string", "minLength": 1}
+                }
+              }
+            },
+            "mapping_precision": {
+              "enum": ["exact", "approximate", "unavailable"]
+            }
+          }
+        }
+      }
+    },
+    "passage": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id", "html_id", "segment_id", "segment", "sequence",
+        "chapter_id", "language", "kind", "text", "alignment_precision",
+        "annotations", "targets"
+      ],
+      "properties": {
+        "id": {"type": "string", "pattern": "^trc:.+:seg-[0-9]{4}:p-[0-9]{4}$"},
+        "html_id": {"type": "string", "pattern": "^p-en-[0-9]{4}-[0-9]{4}$"},
+        "segment_id": {"type": "string", "pattern": "^trc:.+:seg-[0-9]{4}$"},
+        "segment": {"type": "integer", "minimum": 1},
+        "sequence": {"type": "integer", "minimum": 1},
+        "chapter_id": {"type": ["string", "null"]},
+        "language": {"const": "en"},
+        "kind": {
+          "enum": ["paragraph", "heading", "list", "table", "quote", "preformatted"]
+        },
+        "text": {"type": "string", "minLength": 1},
+        "alignment_precision": {"const": "segment"},
+        "annotations": {
+          "type": "array",
+          "items": {"type": "string"},
+          "uniqueItems": true
+        },
+        "targets": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": ["reading", "parallel"],
+          "properties": {
+            "reading": {"type": "string"},
+            "parallel": {"type": "string"}
+          }
+        }
+      }
+    }
+  }
+}

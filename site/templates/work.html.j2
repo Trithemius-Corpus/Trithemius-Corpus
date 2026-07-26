@@ -117,8 +117,8 @@
     <button type="button" id="rt-reset" class="rt-reset">Reset</button>
   </div>
   <div class="english-body">
-    {% if not reading_body_has_title %}<h2 class="reading-work-title">{{ work_title }}</h2>{% endif %}
-    {{ english|safe }}
+{% if not reading_body_has_title %}<h2 class="reading-work-title">{{ work_title }}</h2>{% endif %}
+{{ english|safe }}
   </div>
   {% else %}
   <p class="placeholder muted">

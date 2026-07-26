@@ -512,7 +512,10 @@ def build_tei(index: dict) -> ET.ElementTree:
 def tei_bytes(index: dict) -> bytes:
     tree = build_tei(index)
     ET.indent(tree, space="  ")
-    return ET.tostring(tree.getroot(), encoding="utf-8", xml_declaration=True) + b"\n"
+    rendered = ET.tostring(tree.getroot(), encoding="utf-8", xml_declaration=True) + b"\n"
+    # Source OCR can contain line-final spaces. They carry no textual meaning
+    # in TEI and make generated interchange artifacts unnecessarily noisy.
+    return b"\n".join(line.rstrip(b" \t\r") for line in rendered.split(b"\n"))
 
 
 def write_tei(path: Path, index: dict) -> None:
