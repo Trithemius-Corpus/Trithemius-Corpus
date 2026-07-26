@@ -2683,22 +2683,21 @@ def main() -> None:
         encoding="utf-8",
     )
 
-    # Cipher solutions — rendered from the cryptanalysis pass as a themed partial
-    # (inline card CSS + base64 facsimile crops) and wrapped through the site's
-    # base template so it inherits the main index theme, header, nav, footer,
-    # and theme switcher (see CIPHER_DECODE_FINDINGS.md).
-    cipher_solutions_src = Path(r"E:\trithemius\cipher_solutions.html")
-    if cipher_solutions_src.exists():
-        partial = cipher_solutions_src.read_text(encoding="utf-8")
-        partial = partial.replace('href="../works/', 'href="works/')
-        (OUT / "cipher-solutions.html").write_text(
-            render_simple_page(
-                env, "Solved Ciphers", partial, "cipher-solutions.html",
-                description="The Clavis Generalis Triplex ciphers, solved: eleven modi decoded "
-                            "into their hidden German plaintexts.",
-                nav="ciphers"),
-            encoding="utf-8",
-        )
+    # Executable cipher edition, generated entirely from committed evidence.
+    from build_cipher_trace import load_and_compute, publish
+    cipher_trace = load_and_compute()
+    publish(cipher_trace)
+    (OUT / "cipher-solutions.html").write_text(
+        env.get_template("cipher_trace.html.j2").render(
+            trace=cipher_trace, url=make_url(0), asset=make_asset(0),
+            **page_meta(
+                "cipher-solutions.html",
+                "An executable scholarly edition of Clavis Modus II: printed evidence, transcription, extraction, substitution, and computed plaintext.",
+                nav="ciphers",
+            ),
+        ),
+        encoding="utf-8",
+    )
 
     # Lateral nav: other texts shelved under the same genre (different text
     # group), shown at the bottom of each work page.

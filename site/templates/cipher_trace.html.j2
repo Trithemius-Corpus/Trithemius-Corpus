@@ -1,0 +1,66 @@
+{% extends "base.html.j2" %}
+{% block title %}Executable Cipher Edition &mdash; Trithemius Corpus{% endblock %}
+{% block head %}<link rel="stylesheet" href="{{ asset('cipher-trace.css') }}">{% endblock %}
+{% block body %}
+<article class="cipher-edition" data-cipher-trace>
+  <header>
+    <p class="eyebrow">Executable scholarly edition · Clavis, p. 251</p>
+    <h1>{{ trace.title }}</h1>
+    <p class="lede">Follow one worked example from the printed page through transcription and extraction to a mechanically recomputed plaintext. Every visual has an equivalent table or prose account.</p>
+  </header>
+
+  <aside class="trace-caution" aria-label="Editorial status">
+    <strong>No silent emendation.</strong> {{ trace.editorial_note }}
+  </aside>
+
+  <nav class="trace-nav" aria-label="Cipher transformation steps">
+    {% for label in ['Printed example', 'Extract letters', 'Invert alphabet', 'Read and compare'] %}
+    <button type="button" data-step-tab="{{ loop.index0 }}" aria-controls="trace-step-{{ loop.index0 }}" aria-current="{{ 'step' if loop.first else 'false' }}">{{ loop.index }}. {{ label }}</button>
+    {% endfor %}
+  </nav>
+
+  <div class="trace-steps">
+    <section class="trace-step" id="trace-step-0" data-step="0">
+      <h2>1. Printed example</h2>
+      <div class="trace-source">
+        <figure><img src="{{ url(trace.facsimile.crop) }}" alt="Crop of printed page 251 containing the Modus II alphabet, intention, significant letters, and example"><figcaption>{{ trace.facsimile.region_note }}</figcaption></figure>
+        <div><p><span class="evidence-tag evidence-printed">Printed evidence</span></p><p><strong>Intentio:</strong> <span lang="de">{{ trace.intentio.diplomatic }}</span></p><p><strong>English:</strong> {{ trace.intentio.translation }}</p><p><a href="{{ url(trace.passage.href) }}">Open the containing work</a> <small>({{ trace.passage.precision }} alignment; {{ trace.passage.note }})</small></p></div>
+      </div>
+    </section>
+
+    <section class="trace-step" id="trace-step-1" data-step="1">
+      <h2>2. Transcribe and extract</h2>
+      <p><span class="evidence-tag evidence-repair">Transcription / repair</span> {{ trace.cover.method }}</p>
+      <p class="trace-stream" lang="la">{% for token in trace.cover.tokens %}{% if loop.index in trace.cover.significant_positions %}<strong>{{ token }}</strong>{% else %}{{ token }}{% endif %} {% endfor %}</p>
+      <p><strong>Initials from the bold alternate words:</strong> <span class="trace-stream">{{ trace.computed.cover_sample_initials }}</span></p>
+      <p><span class="evidence-tag evidence-inferred">Inferred operation</span> {{ trace.extraction.rule }}</p>
+      <p>{{ trace.cipher_stream.method }}</p>
+      <p class="trace-stream"><span class="sr-only">Transcribed dotted letters: </span>{{ trace.cipher_stream.transcription }}</p>
+      <p class="trace-stream">{{ trace.computed.extracted }}</p>
+    </section>
+
+    <section class="trace-step" id="trace-step-2" data-step="2">
+      <h2>3. Invert the printed Alphabetum</h2>
+      <p><span class="evidence-tag evidence-printed">Printed evidence</span> Each first letter is plaintext; each second letter is its printed cipher substitute.</p>
+      <div class="table-scroll"><table><caption>Complete Modus II substitution table</caption><thead><tr><th scope="col">Plain</th>{% for pair in trace.printed_substitution_pairs %}<th scope="col">{{ pair[0] }}</th>{% endfor %}</tr></thead><tbody><tr><th scope="row">Cipher</th>{% for pair in trace.printed_substitution_pairs %}<td>{{ pair[1] }}</td>{% endfor %}</tr></tbody></table></div>
+      <p><span class="evidence-tag evidence-inferred">Inferred operation</span> {{ trace.decode.rule }}</p>
+    </section>
+
+    <section class="trace-step" id="trace-step-3" data-step="3">
+      <h2>4. Read the computed result</h2>
+      <p><strong>Computed from the committed transcription:</strong></p><p class="trace-stream">{{ trace.computed.decoded }}</p>
+      <p><strong>Printed Intentio, normalized to the same 24-letter alphabet:</strong></p><p class="trace-stream">{{ trace.intentio.normalized_letters }}</p>
+      <p>The difference is evidence about the transcription, not a failed cipher rule. The edition displays both strings so readers can test alternative letter readings against the scan.</p>
+      <div class="table-scroll"><table><caption>Letter-by-letter computed decode</caption><thead><tr><th>Position</th><th>Cipher</th><th>Decoded</th></tr></thead><tbody>{% for row in trace.computed.rows %}<tr><td>{{ row.position }}</td><td>{{ row.cipher }}</td><td>{{ row.decoded }}</td></tr>{% endfor %}</tbody></table></div>
+    </section>
+  </div>
+
+  <section class="trace-account">
+    <h2>Plain-text account</h2>
+    <p>The scan prints an explicit alphabet, an intended German message, and a dotted line of significant letters. We transcribe those visible letters in order and remove only their separators. We then reverse the printed alphabet and replace each cipher letter with its corresponding plaintext letter. This produces <code>{{ trace.computed.decoded }}</code>. It only partly agrees with the printed intention, so uncertain readings are left unresolved rather than silently changed.</p>
+    <p><a download href="{{ url('data/cipher-traces/modus-ii.json') }}">Download JSON</a> · <a download href="{{ url('data/cipher-traces/modus-ii.tsv') }}">Download TSV</a></p>
+    <details><summary>Provenance and limits</summary><ul>{% for note in trace.provenance %}<li>{{ note }}</li>{% endfor %}</ul></details>
+  </section>
+</article>
+<script src="{{ asset('cipher-trace.js') }}" defer></script>
+{% endblock %}

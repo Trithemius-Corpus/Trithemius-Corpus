@@ -89,6 +89,7 @@ jobs:
           python scripts/validate_passages.py
           python scripts/validate_iiif.py
           python scripts/validate_study_reader.py
+          python scripts/validate_cipher_trace.py
 
       - name: Build and validate publication exports
         run: |
