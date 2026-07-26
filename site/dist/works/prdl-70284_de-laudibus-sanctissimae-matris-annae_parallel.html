@@ -334,7 +334,7 @@
   <div class="pp-head pp-col-n" aria-hidden="true">#</div>
   <div class="pp-head">Latin (source OCR)</div>
   <div class="pp-head">English</div>
-  <div class="pp-n" id="seg-1"><a href="#seg-1">1</a></div>
+<div class="pp-n" id="seg-1" data-segment="1"><a href="#seg-1">1</a></div>
   <div class="pp-latin" lang="la" data-segment="1">Joannis tritemij abbatis
 spanhemensis Tetrastichon de sanctissima ma-
 tre anna.
@@ -489,7 +489,7 @@ and soon to have held her holy for God. Hail.</p>
 as to come, whom the holy fathers sang of. Hail.</p>
 <p>Anne, you bear the enclosed paradise, happy with the tree of life,
 and sacred with every honor of the countryside. Hail.</p></div>
-  <div class="pp-n" id="seg-2"><a href="#seg-2">2</a></div>
+<div class="pp-n" id="seg-2" data-segment="2"><a href="#seg-2">2</a></div>
   <div class="pp-latin" lang="la" data-segment="2">Anna grauis gestas ortum quē flāmeus ensis
 Custodit cherubin nocte dieqꝫ calens.
 Aue.
@@ -709,7 +709,7 @@ Only-begotten and most loving God, who deigned to choose blessed Anne as the mot
 <p>Here ends the rosary of Jodocus Beissel, professor of both laws, patrician of Aachen, to the reverend father lord Johannes Trithemius, abbot of Sponheim of the order of Saint Benedict. From Aachen, on the third day before the Ides of April, in the year 1494.</p>
 <p><em>The poem of Ada Wernher of Themar on most holy Anne. To the reverend father lord Johannes Trithemius, abbot.</em></p>
 <p>We sing in praise of the renowned grandmother. Move the plectra of [unclear], dear grandson, nor you, daughter, fail the singer, chaste parent of the choir. Anne, offspring of kings, is given to a husband. Long childless, she laments herself barren; with weeping she prays for offspring, nor do the tears flow in vain. Heavenly messengers promise a child. Pregnant, joined to her husband, then in childbirth, she is proved by the child born, through whom our salvation came. Thus the venerable stock of Jesse grew green; the fertile rod came forth with fruitful shoot; refreshed by its flower, we live again, death conquered.</p></div>
-  <div class="pp-n" id="seg-3"><a href="#seg-3">3</a></div>
+<div class="pp-n" id="seg-3" data-segment="3"><a href="#seg-3">3</a></div>
   <div class="pp-latin" lang="la" data-segment="3">Hoc partu ioachim sistere delubris
 Fit dignus.remouens pontificis probra
 Sic nos anna nepoti
@@ -848,7 +848,7 @@ Inclyta mater.</div>
 <p>She heals the sick, purges all evils, makes serene with joy the hearts of the sorrowful; she composes what is fit, rules and governs, and makes rough things smooth.</p>
 <p>Most powerful, dwelling in the court of the highest King, she wipes away stains by prayer, confers grace, and leads faithful souls to the stars.</p>
 <p>Here, brothers who throng to your feasts, expressing vows and praying good things of you: help, preserve, refresh, and govern us, illustrious mother.</p></div>
-  <div class="pp-n" id="seg-4"><a href="#seg-4">4</a></div>
+<div class="pp-n" id="seg-4" data-segment="4"><a href="#seg-4">4</a></div>
   <div class="pp-latin" lang="la" data-segment="4">¶ Sit decus virtus supero tonanti
 Qui deus simplex pariterqꝫ trinus
 Glorie magne tribuit coronam
@@ -1001,9 +1001,7 @@ VierFarbSelector Standard - Euroskala Offset
 18
 19
 20 cm
-16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0
-
-[Page intentionally blank]</div>
+16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0</div>
   <div class="pp-english" data-segment="4"><p>May honor and power be to the thunderer above,
 who, God simple and likewise threefold,
 bestows the crown of great glory
@@ -1161,14 +1159,18 @@ of venerable Anne, which a learned man has brought forth for you.</p>
 @media print{.pp-seg-indicator{display:none}}
 </style>
 <script>
-// Track the segment nearest the viewport top and reflect it in the indicator.
+// Track the segment nearest the viewport top: reflect it in the indicator and
+// highlight both columns of the active row so the reader can always see which
+// Latin and English belong together. Clicking a cell scrolls its counterpart
+// into view, keeping the two sides in step.
 (function(){
   var ind=document.getElementById('ppSegIndicator');
-  if(!ind)return;
-  var nEl=ind.querySelector('.pp-seg-n');
+  var nEl=ind?ind.querySelector('.pp-seg-n'):null;
   var segs=[].slice.call(document.querySelectorAll('[id^="seg-"]'));
   if(!segs.length)return;
   var byId={};segs.forEach(function(s){byId[s.id]=parseInt(s.id.slice(4),10);});
+  var grid=document.querySelector('.pp-grid');
+
   function currentSeg(){
     var top=window.innerHeight*0.33, best=null, bestDist=Infinity;
     for(var i=0;i<segs.length;i++){
@@ -1180,18 +1182,50 @@ of venerable Anne, which a learned man has brought forth for you.</p>
     }
     return best;
   }
+
+  var activeSeg=null;
+  function setActive(segEl){
+    var n=segEl?byId[segEl.id]:null;
+    if(n===activeSeg)return;
+    activeSeg=n;
+    if(grid)grid.setAttribute('data-active-seg',n==null?'':String(n));
+    var cells=[].slice.call(document.querySelectorAll('[data-segment]'));
+    cells.forEach(function(c){
+      c.classList.toggle('is-active', segEl!==null && c.getAttribute('data-segment')===String(n));
+    });
+  }
+
   var ticking=false;
   function update(){
     if(ticking)return;ticking=true;
     requestAnimationFrame(function(){
       var cur=currentSeg();
-      if(cur){
-        nEl.textContent=byId[cur.id];
-        ind.classList.add('is-visible');
-      }
+      if(cur&&nEl){nEl.textContent=byId[cur.id];if(ind)ind.classList.add('is-visible');}
+      setActive(cur);
       ticking=false;
     });
   }
+
+  // Click a Latin or English cell to bring its counterpart into view.
+  function counterpart(cell){
+    var n=cell.getAttribute('data-segment');
+    if(!n)return null;
+    var isLatin=cell.classList.contains('pp-latin');
+    var sel=isLatin?'.pp-english[data-segment="'+n+'"]':'.pp-latin[data-segment="'+n+'"]';
+    return grid?grid.querySelector(sel):null;
+  }
+  if(grid){
+    grid.addEventListener('click',function(e){
+      var cell=e.target.closest('[data-segment]');
+      if(!cell)return;
+      var other=counterpart(cell);
+      if(other){
+        setActive(document.getElementById('seg-'+cell.getAttribute('data-segment')));
+        other.scrollIntoView({behavior:'smooth',block:'center'});
+      }
+    });
+  }
+
   window.addEventListener('scroll',update,{passive:true});
   window.addEventListener('resize',update);
   update();

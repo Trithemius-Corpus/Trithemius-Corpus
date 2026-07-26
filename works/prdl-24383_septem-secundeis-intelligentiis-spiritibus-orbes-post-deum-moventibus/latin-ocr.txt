@@ -37,7 +37,6 @@ Cum privilegio Caesaree maiestatis de non imprimendo in regno.
 imperio,& terris suis nec alubi impressis isthic vendendis intra decen
 nium subpenis in privilegio expressis decem marcarum auri puri et
 amissione librorum eorundem omnium.etc.
-
 [segment 2]
 Res. 40
 Astr. U.
@@ -135,37 +134,45 @@ Cuius perpetuum pagina numen habet:
 nium subpenis in priuilegio expressis decem marcarum auri et
 amissione librorum eorundem omnium.etc.
 
-<original xmlns="http://example.com/original" type="transcription">
- <header>
  <page_number>1</page_number>
- </header>
- <body>
- <figure>
- <description>Drawing depicting two figures on horseback facing each other.</description>
- </figure>
- <paragraph>
- <line><initial type="decorated">E</initial>nim si quis hoc videtur</line>
- <line>sunt qui dicitur quod non habent</line>
- <Line>cum hoc est verum et sic dicitur</line>
- <Line>quod non habent sed sunt alia</line>
- <Line>tamen hoc est verum cum</line>
- <Line>dicitur quod non habent nec</line>
- <Line>sunt alia et sic dicitur quod</line>
- <Line>non habent nec sunt alia</Line>
- <Line>sed hic est verum cum dicitur</Line>
- <Line>hoc non habent nec sunt</Line>
- <Line>alia et sic dicitur quod hoc</Line>
- <Line>non habet nec sunt alia</Line>
- <Line>sed hoc est verum. Et hoc</Line>
- <Line>est verum cum dicitur quod</Line>
- <Line>hodie nunc non habet nec</Line>
- <Line>sunt alia, et sic dicitur que</Line>
- <Line>hic nunc non habet nec sunt</Line>
- <Line>alia, sed hic est verum.</Line>
- </paragraph>
- </body>
-</original>
 
+ >
+
+Enim si quis hoc videtur
+
+sunt qui dicitur quod non habent
+
+cum hoc est verum et sic dicitur
+
+quod non habent sed sunt alia
+
+tamen hoc est verum cum
+
+dicitur quod non habent nec
+
+sunt alia et sic dicitur quod
+
+non habent nec sunt alia
+
+sed hic est verum cum dicitur
+
+hoc non habent nec sunt
+
+alia et sic dicitur quod hoc
+
+non habet nec sunt alia
+
+sed hoc est verum. Et hoc
+
+est verum cum dicitur quod
+
+hodie nunc non habet nec
+
+sunt alia, et sic dicitur que
+
+hic nunc non habet nec sunt
+
+alia, sed hic est verum.
 [segment 4]
 Reuerendo et eidem optime merito Iaco-
 bo Zuuisel monasterij Amorbachiani ordinis diui
@@ -238,13 +245,11 @@ bertati publice adsertum huicqꝫ nempe Abbati dignissimo:dignissime
 Abbas patrocinare.Tuam reuerendam paternitatem saluam et inco-
 lumem diutissime seruet seruator omnium Christus Ihesus Amen.
 A.
-
 [segment 5]
 [illegible]utrum vsurpare caeperunt, venationes exercere, &amp; corpora variis indumentis exornare sactaqꝫ ē magna inter bonos ma¬losqꝫ diuisio, Bonis inuocantibus deū, sient Enoch, quē transtulit dn̄s malis aūt post carnis illecebras discurrientibus. ceperunt etiā homines sub huius zacharielis regimine magis ciuiliter legesqꝫ pati maio rum, māsuescere a feritate priori sub eius quoqꝫ ducatu Adam primꝰ hō fuit mortuus cunctae posteritati relinquentium testamētum necessario moriēdi. Variae denique hoc tempore adinuentiones hominũ ar¬tes emerserunt sicut hystoriographi clarius expresserunt.
 Quartus mundi rector fuit Raphael spūs Mercurii qui cepit anno cre ationis celi terre 1063. februarii die 24. p̃fuit annis 354. mensibꝰ 4 et durauit eius dominiū vsqꝫ ad annos mũdi 1417. mensem quar¬tum his temporibus scribaria primo fuit inuenta, et litere prio ad mo¬dum seu formam arborum atꝫ plantarū excogitatae quae tn̄ postea eū tempore et cultiorẽ faciem ad suū gentes arbiteriū mutauerūt, Musicaliū quoqꝫ instrumentorū vsus sub regimine huiꝰ Raphaelis multiplicari cepit, et mercanciarum primū fuit cōmutatio ꝑ homines adinuenta. Nauigandi quoqꝫ rudis auda¬tia his temporibus primo fuit presumpta, alia id genus multa,
 Quintus Gubernator mundi fuit Samael Angelus qui caepit 26. die mensis iunii anno mundi 1417. gubernauit mundũ annis 354 mensibus 4. vsqꝫ ad annum 1771. mēsem octauū sub cuiꝰ regimine mar¬tis naturā homines fuerunt imitati. Item sub moderatione huiꝰ sama¬elis diluuiū fuit vl̓e anno mundi 1656. sicut ex geneseos clare patescit historia, notandū qđ veteres philosophi quoties samael spūs Martis rector ē orbis, tociens monarchie notabilis altera¬tio surgit. Religiones variantur et secte. mutantur leges principatusqꝫ ad extraneos transferunt et regna, quod ex historiis per ordinē facile possumus inuenire, Verum non statim a principio regiminis samael hunc manifestat sui moris affectū sed posteaꝗͣ gubernationis sue me¬dium excesserit. quod idem et de aliorū planetarum spiritibus ē intelli gendum, vt in historiis patet qui omnes secundū ꝓprietas naturae astrorum suorum influunt operantur ad inferiora mũdi huius.
 Sextus mūdi gubernator Gabriel Angelus lune qui cepit post samae lem martis 28 die mensis octobris anno mundi 1771. mense 8 gu¬bernauit orbē 354. años mēses quatuor, vsqꝫ ad años mũdi 2126. His jll A
-
 [segment 6]
 temporibus rursus multiplicati sunt homines et varias cõdiderunt vr-
 bes, & Notandum q̃ hebrei dicunt diluuiũ factum anno mundi 1656.
@@ -283,20 +288,16 @@ ris 29. die mensis octobris Anno creationis coeli et terre 2834.mense
 8,& prefuit annis 354.mensibus 4 vsqꝫ adannũ mũdi 3189.Histip̃ibꝰ
 hoïes deum verũ obliuioni tradentes homines mortuos et eoqꝫ statu-
 A iiij
-
 [segment 7]
 as ꝑ deo colere et honorare coeperũt, qui error mundũ plusq̃ duobꝰ milibus occupauit annis, introducentes curiofos corporis ornatus, & varia genera musicaliũ instrumentorũ, hoĩes rursus libidinẽ et voluptatem carnis nimium ꝓsequi caeperunt, stauas quoqꝫ et tẽpla diis suis homines his temporibus instituere et dicare prio caeperunt. incan tatiões et maleficia his temporibus fuerunt excogitata ꝑ Zoroastem bractianoꝝ regem Primũ, et alios diuersos, quem Ninus rex asiriorũ in bello superauit.
 Decimo ordine Zachariel iouis iterum gubernare caepit vl timo die mensis februarii, anno condiciõis caeli et terrae 3189. & eum gubernauit annis ex more 354. menses 4 vsqꝫ ad annũ mundi ipsius 3543. & mense leta fuere tp̄a que vere aurea dici potuerunt, in quibus omniũ rerum copia, et generi humano incrementũ cōtulit et maximũ orbi dedit ornatũ. his quoqꝫ temporibus deus abrahae le gem circumcisionis dedit, & generis humã redēptioneꝫ ꝑ vnigeniti sui incarnationẽ primo pollicitꝰ ē. sub huiꝰ regimine spūs patriarche fundatores iusticie claruerunt, & iusti ab impiis sunt ppria voluntate et opere diuisi, claruit his etiā temporibus apud Archadiam Iupiter q et lisania celi, & dei filius rex qui primus leges Archadibus dedit. mo ribus multũ fecit esse ciuiles, dei cultum docuit, templa construxit. in stituit sacerdotes, & multa generi humano ꝓcurauit vtilia, ꝓpter quae et iuppiter ab eis dictꝰ est, & post mortem ꝓ deo habitus duxit aũt ori ginem ex heber filii scꝫ ierari queuadmodũ historiae sonāt. Prome theꝰ etiā filiꝰ Athlātis sub hꝰ angeli regimie dictus est fecisse hoĩes ꝑ pterea quod ex rudibus effecerit doctos, humanos mansuetos, & moribbus sciētiaqꝫ politos, imagines arte fecit se mouere. Vsum anuli pri mus excogitauit, sceptrim, diademaque et insignia regalia similiter ĩuenit, Claruerunt et alii iouiniani his temporibꝰ hoĩes sapientissimi viri et mulieres, qui suo ingenio multa generi humano coeli inuenta tradiderunt, & propter magnitudinem sapientiae mortui inter deos relati putabantur videlicet Phoroneus qui leges et iudicia Primus apud grecos instituit, sol, minerua ceres, serapis apud aegyptios et alii plures Ordine vndecimo Raphael spūs Mercurii iterum regimen su scepit prima die mensis iulii Anno mũdi 3543 mense 4 et p̄fuit annis 354. mense 4. vsqꝫ ad annum creationis coeli et terre 3897 et 8 mensem his vero tempo ribꝰ vt clare patet ex veterum historiis hoĩes sapientiae
-
 [segment 8]
 operam dare p̄ amplius caeperūt inter quos fuerunt vltimi clarissimi viri Mercurius, Bachus, omogyrus. Isis. Inachus Argus. Apollo. Cecrops, et cōplures alii qui suis adinuentis et mūdo tunc ꝓfuerunt et posteritati. Variae quoqꝫ his tēporibus superstitioes in cultura idolorū ꝑ hoīes fuerūt institutae, incantationesqꝫ et artes imaginū diabolicarum mirū in modū auctae, et quicquid subtilitatis et ingenii mercurio ex more attribuitur, his temporibus augebat̉ Moses hebreoꝝ dux sapientissimus, multarū rerum et artium peritus, veri et vnius dei cultor. His tēporibꝰ hebreorū populus a seruite Egyption in liberatem vindicauit. His quoqꝫ tēportbus ianus in Italia primꝰ regnauit, post quem saturnꝰ qui stercore agros pinguari docuit, & ꝑ deo habitus fuit, his quoqꝫ tēporibus cadmꝰ lr̄as graecas in venit, & Carmentis filia Euaudri latinas, Deus omnipotēs sub regime in mosen dedit in scriptis que xp̄i future natiuitati ī carne testimoniū reddit manifestū, Mirabilis quoqꝫ claruerunt sybille, ꝓphete, Arioli, Aruspices Magi, Vates, & ꝓphete. vt sybilla Erithrea, delphica frigiaqꝫ cum ceteris.
 Duodecīo aut̄ ordine mūdū denuo gubernare coepit samael Angelꝰ martis 2 die mensis octobris Anno mundi 3897. mense 8 durauitqꝫ regimen eius annis 354 menẜ 4 vsqꝫ ad annos 4252. sub cuiꝰ regimine fuit magnū illud ac famosissimū excidiū troianū in Asia minore factaqꝫ est monarchie multoꝝ regnorū admiranda mutatio, & multarū de nouo ciuitatū institutio vt parisiē Moguntie carthaginis, Neapolis et aliarū multarum. multa etiā regna de nouo fuerunt exorta vt lacedemonioꝝ Corinthiorū Hebreoꝝ, et cōplura alia, maxīa fuerūt his temporibꝰ in toto mūdo bella et prelia regū et gentiū. Variaeqꝫ mutatiões imperiorū, Veneti ab hoc tempore ex troianis cōputant initium et gentis suae, & vrbis. Et notandū quot et alie natiões plurime tam in Europa q̄ in Asia suā p̄tendunt originē se sumpsisse a troianis quibus tantū accomodare fidei duxi q̇ntū ip̄i veritatis mihi sufficiēti testimonio poterunt ꝑsuadere, friuola sunt que afferūt de sua nobilitate et antiquitate volentes palā gloriari, quasi non fuerint in Europa gentes ante troianorū excidū, nullusqꝫ inter ip̄os troianus ignobilis Item sub huius planete imperio saul primus iudeorum factus ē rex, posteaqꝫ Dauid cuiꝰ filius rex salomō templū dei vero toto famosissi Samael 2
-
 [segment 9]
 nium in msido in Hierusalem construxit,hinc spũs dei ꝓphetas suos ampliore lumine gracie sue illustrans,nõ solum de futura incarnatiõe domini saluatoris,fed et alia multa p̃dicere fecit,vt sancte testantur historie,inter quos fuerũt Nathan filiꝰ dauid regis,Gad Asaph,Achias semeias,Asarias.Anac cũ pluribꝰ aliis.Homerꝰ poeta graecꝰ Troiani scriptor excidii.Dares frygius.Dyctis cretesis qui exidiꝰ ip̄i interfuerunt.et similiter descripferunt,fuisse legunṫ his tẽporibꝰ in humanis.
 Ordine tertio decimo Gabriel spũs lune denuo gubernare mundum cepit 30 die ianu: Año ab origine vniuersi 4252. et p̄fuit imperio suo annis 354.menses 4.vsqꝫ ad annũ muudi 4606.& mensem 4.His aūt téporibus plures aput hebreos claruerunt ꝓphete,helias videliʒ.Heliseus Micheas.Abdias.& alii cõplures,erantqꝫ variae regni hebreorum mutatiões Ilyurgꝰ iura et leges dedit lacedemoniis.Capetꝰ syluiꝰ Tyberiꝰ filuiꝰ Remulꝰ filuiꝰ procas syluiꝰ.Numitor italiae reges sub huiꝰ moderamine spũs claruerũt,Plura etiã regna sub eo noua sumpferũt initiũ,vt lidoꝝ Medoꝝ,Madedonũ,spartanoꝝ et aliorũ Monarchia Affirriorũ in sardanapalo defecit,filr et regnum macedonioꝝ cõsumiṫ,variae hominibꝰ impositae sunt leges,et veri dei cultus negligiti, falforum deorũ religio nimis ꝓpagat. Vrbs roma sub imperio spũshuius construitur Anno 1484.qui fuit annus regiminis ipsius Gabrielis in ordine 239.defecitqꝫ regnũ syluiorum,Italiae et romanorũincepit.His etiam temporibus Thales,Solon Chilon,Periander Cleobulus.Bias et Pictacus septẽ sapientes in graetia claruerunt,et ex hinc philofophi et poetae in p̄cio haberi caeperunt.Imperauit aūt romaneprimꝰ cõditor vrbis.Romulus annis 37.fratricida et cultor seditiõis.Poft quem Numa Pompilius annis 42.qui cultum deorũ ampliauit tp̃e Ezechiae regis iudeorum magna in pace regnum continuit.Circa finem gubernationis huius spũs lunae Nabuchodonosor rex Babiloniae hierusalem caepit.& destruxit Sedechiam regem,& omnē populũabduxit captiuũ.hieremias ꝓpheta claruit qui hoc pdixit excidium,similiter et ex Babilonie futuram liberationem.
 Poft Gabrielem 14.imperio mundi iterum affumpfit Michael spiritꝰsolis qui caepit prima die menfis Maij Anno menfe 4.rexitqꝫ mundum in ordine suo annis 35. vsqꝫ ad annũ conditi orbis4960.& menses 8.In tempore huius regiminis Euil merodach rexBabilonis libertatem et regem populo restituit haebreoꝝ ad directios
-
 [segment 10]
 nem Michaelis qui, vt Daniel scribit, ꝓpopulo stetit Iudeorũ cui a deo
 fuerant cõmissi. Item his temporibus Monarchia regni caepit ꝑsarum
@@ -334,20 +335,15 @@ onis vniuersi 4960. mense 8 pfuit annis 354. mensibus quattuor
 vsqꝫ ad annũ mundi 5315. sub cuiꝰ regimine bellũ caepit punicũ inter
 Romanos et Carthaginenses. Vrbs roma per ignẽ aquam penitus
 quasi cõsumpta fuit. Colossus imago fusilis aerea pedũ 126. terrae mo-
-
 [segment 11]
 tu corruit.vno hic anno pax fuit Romanis post bellũ punicũ.qui in 440.annis nũq̃ sine bello fuerũt.hierosolima cũ templo incenditur &; destruitur ꝑ Anthiochũ et amp; Epiphanẽ.machabeorũ historia et amp; bella geruntur,his tp̃ibus anno ab vrbe cõdita 606.carthago destructur et amp; arsit per dies 17.cõtinuos.in sicilia bellũ 70000.seruorũ cõtra dños suos cõspirantiũ fuit.Magna iis tp̃ibus portenta videbant᷑ iu Europa Animalia domestica fugiere ad nemora,sanguis fluxit,igneus e caeloglobꝰ cũ fragore micuit Mitridates rex ponti et amp; armeniae ꝑ annos 40 bellũ gessit cũ romanis.Regnũ haebreorũ restituit᷑ quod interruptũ fuerat annis 575.a tempore zedechiae vsqƺ ad Aristobulũ.Itē germanitheutões inuaferũt romãos et amp; post ml̓ta ꝑlia ferunt᷑ victi.ac 160000.interfecti,p̃ter innumerabiles qui se cũ domesticis interfecerunt sub.Caio et amp; Manlio cõsulibus.multi nihilominꝰ romanorũ ꝑ eos antea fuerũt deleti.Deniqƺ bella ciuilia quae annis durauerũt 40.romanos valde attriuerũt Tres romae soles apparuerũt,nec diu,sed mox in vnũ redacti sunt.Pauculos post años Iuliꝰ Caius caesars arsauit.Et Asiam.Affricā.&amp; Europā in vna Monarchia adunauit.Imperauit aũt annis 36.p̃quē deus pacem orbi cõtulit vniuerso.Anō mũdi v C.XCIX Octauianicaesaris Augusti,42.Orifielis spūs saturni regimĩs p̄scripti Año 245.mense 8 25.die mensis decẽbris,Iesus Christus dei filius ex Maria virgine in bethleẽ ludae natus est.Nota q̃ pulchra diuinae ꝓuidentiae ordinatio mũdus sub Orifielis regimĩ creatꝰ ē.&amp; subtertio quoqƺ misericorditer redeptus instauratꝰ et amp; renouatus,vt huic descriptiõi regiminis mundi 7.spirituũ planetarũ fidẽ nõ modicã tanta factorũ cõsonantia ministrare videatur.In primo em̃ regimine Orifielis vna totiꝰ mũdi fuit Monarchia.sub secũdo vt supradiximꝰ in multos fuit diuisa.Iterũ subtertio vt cernit᷑ in vnitatẽ reuocata.licet si recte metiamur manifestũ sit etiã in z regimine Orifielis ynam mũdi fusse monarchiã.cũ turris cõstrueretur Babilon.Ab hinc regnũ Iudeorũ ablatũ ē Victimaeqƺ et amp;iuge sacrificiũ cessauerũt,nec restituet᷑ Iudeis libertas ante 3 revolutionem Michaelis spūs haec qƺ fiet post Christi natiuitatẽ año 1880.mēse 8.hoc est año mũdi 7.C.lxx.mēse 8.sacerdotiũ magnũ vl̓is ecclesiae christianꝝ a Iudea Romā in petro trāslatũ ē.Anōterini regiminis Angeli Orifielis 299.Chriianā religionẽ iis tp̃ibꝰ ml̓tiIudeoꝝ et amp; gentiliũ assumpserunt simplicissis ac rusticanis p̄dicantibus
-
 [segment 12]
 quos nō institutio humana, sed dei spūs illustrauit. Ad p̄mā simplici¬tatis innocentiā mūdus tum reuocari caepit. Vtrobiqꝫ spū Saturni Orifiele ip̄m gubernante, mixta sunt caelestia terrenis, & duo mūdi sceptra hoibꝰ data, spiritualiū videlicꝫ ac mūdanoꝝ, quoꝝ alterū cesari alteꝝ papae cōtulissae videtur altissimꝰ, ml̓ti em̄ christianoꝝ ꝑfide quā p̄dicabant a mundi rectoribus crudeliter interfecti. Circa finē regiminis Orifielis Hierusalē ꝑ romanos destruit̉, & Iudei in oēꝫ terrā dispergūtur Interfectis vndecies centum milibus, & venditis 80000. reliqui fugierunt. & sic romani ludeam penitus destruxerunt.
 Ordine 16. post Orifielē Anael spūs veneris regimine totius mūdi 3. vice resumpsit. Vltimo die Ianuarii Año cōditiōis caeli &; terrae 5315. A christi vero natiuitate 109. &; gubernauit orbē annis 354. mensibꝰ 4. vsqꝫ ad annos mūdi 5669. menses 4. Dominicae vero natiuitatis in carne 463. &; notandū quod pene toto tēpore istius regiminis Angeli veneris chrīanoꝝ ecclesia in ꝑsecutionibus floruit. &; p̄ualuit infinitis hoibꝰ milibus pro fide christi occisis. Hereses deniqꝫ plures his tp̄ibus in eccl̓ia pullulare caeperūt, quae nō sine labore et sanguine bonotum virorū cū tēpore fuerunt extinctae. Multi claruerunt iis tp̄ibus viri in om̄i genere scientiaꝝ doctissimi &; eloquētissimi. Theologi. Astronomi. Medici. oratores. historiographi. &; iis cōfimiles nō solū inter gētes sed etiā apud chrīanos. Cessauit tandē ꝑsecutio infideliū aduersus ecclesiā, posteaꝗ Cōstantinus caesar magnus fidē assumpsit. Año mūdi 5539. post mediū regimis ip̄iꝰ Anaelis angeli Veneris qͣuis etiam post ea in ꝑte fuerit aliquoties ꝑ impios turbata. māsit tn̄ multo tp̄e in toto quietissima. Ex hinc genus humanū quod a tp̄e Nini regis circa idolorū culturas ꝑ annos 2300. miserabiliter reuocatū. Artes variae subtilitatis his tṗibꝰ auctae sunt, &; ꝑ cōuenientia naturae veneris ornatū sumpserunt et incrementū. mutant em̄ hoīm cū tp̄e mores, Et corpora inferiora secundū influentiā superiorū disponunt̉. mens quidē libera est. &; influenza maculet suū. Angeli em̄ qui motores sunt orbium, nihil eorum quae natura cōstituit destruūt vel subuertūt. Cometa Insolitae magnitudinis Cōstantini mortem p̄cessit. Arriana heresis in ml̓tis locis turbauit ecclesiā sanctā. In fine huiꝰ, regiminis tp̄e Iuliani caesaris cruces apparuerūt in lineis vestibus hoīm. In Asia et palestina secuta sunt bella et pestilentiae, fames, in iisdem locis in quibus cruces B
-
 [segment 13]
 apparuerūt his quoqꝫ tṗibꝰ circa annos dn̄i 360.franci in Germania sumpserūt initiū, qui postea Galliā deuastantes suo noīe victa franciā nūcupauere.Descriptio franciae fuit magnitudine longa et lata.Cuiꝰ Metropolis,Mogūtia.Nunc vero herbipolis sola.Bauari,sueui,Rhenenses,Saxones,Thuringi et circūfiti pōtificatus magnā hodie ꝑtem frangiae in Germania occupant.Itē anno gubernationis huiꝰ Anaelis 280.romanū inclinari cępit imperiū,cū vrbs capta fuit a Gottis et incēfa,sede priꝰ imꝑiali sub Cōstantino in graeciā trāflata,qđ inimicū fuit,& causa totiꝰ inclinatiōis Monarchiae.Nā circa finē huiꝰ regimēti Anaelis surrexerūt Radagisus,Alaricꝰ,Athaulfusqꝫ reges gottoꝝ ltē postea Gensericꝰ Vuandaloꝝ,Athila quoqꝫ humorū q̄ totā Europā ꝓuagantes imperiū miserabiliter lacerauerūt vt in his historiis patet.Post Anaelē ordine17.Zachariel spūs Iouis regimē vłe tertia vice resumpsit prima die lunii Anno mūdi 3669.menfe 4.Dominicae vero natiuitatis 463.mēfe 7.& p̄fuit 354.mensibꝰ 8.dn̄i aūt 817.Ml'ti his tp̄ibꝰ amore phiae chriane se ad heremū cōtulerūt,młta etiā apparuere portēta Cometes,terrae motꝰ,pluuia sanguinis,Merlinꝰ in Tūbe natꝰ mirāda p̄dixit in principio hꝰ regiminis Arcturus quē vulgo arcum appellāt rex Britaniae famosissimus barbaros vicit,pacē eccłiae reddidit,multa płia victor gessit,fidem cristi ampliauit,Galliā tota.Noruegiā,Datiā et multas ꝓuincias suo imperio subiugauit erat oīm sui tṗis regū gloriosissimꝰ qui post ml' ta egregia patrata nusq̃ cōparuit multis annis expectatus a britonibus redire,de quo mirabiles olim minimi cātilenas ediderūt,quo regnāte Anglia in flore fuit,cui terdena regna seruerūt,his tp̄ibꝰ Monachoꝝ in eccl̕ia dei ordinē cęperūt multiplicari.Theodicꝰ rex Gottorum Arrianus tota italiā possedit,Boetiū cōsulē occidit.erant oīa ꝑturba­tione plena,imperiū simul et eccłia,zeno et anastasius imꝑatores Arriani in oriente,theodicꝰ et sui successores in Italia,Honorius rex Vuandalorū in Affrica tyrannide exercebaut nō parua,Clodoneus tandē rex francorū in Gallia factus chr̄ianus et Gotthos superauit,et pacē rebus imposuit,licet no vbiqꝫ terrarū,tṗe sancti Benedicti Año chrianoꝝ quingentesimo vel circa,in principio regiminis hꝰ Angeli Zacharielis Iouis.ē ꝓpriū spūs imꝑia mutare et regna qđ in hac reuolutiōe factū multiplicitè historiae declarat.& quod ipse facere nō potuit Raphael Mercurii succeffori suo faciendū in Carolo francoꝛum ordinauit,multa em̄ regna sub his 350.annis defecerunt.Gottorū,Vuandaloꝝ,Burgundionū,Thuringorū,
-
 [segment 14]
 Alemannoꝝ,Bauarorũ,&amp; alia cõplura,Iustinianus imperator primꝰ rempub:legibus pulcherime ornauit.Viri sub Zachariele plures flo ruerunt,lufinjanus templū sanctae sophiae 400.turriū cōstātinopoli extruxit,Imperiū biꝑtitū cōfusum et amp; turbatiōibus plenū crebriꝰ fuit, signa multa his apparuere tēporibus,&amp; reperiu̾t in historiis,Cofdrai psarū rex hierusalẽ caepit,quē Eracleus postea occidit,Machomet Ar abs faracenoꝝ sectā introducit,his tp̃ibꝰ circa xp̄i annū 600.p quam imperiū romanū in Asia ex toto iam cernit̉ ablatū.Dagobertus rex franciae Anglos.qui tunc faxones dicebantur superans interfecit,No tandū qd̓ fides chrīana paulatim ab hinc in Asia et amp; Affrica caepit deficere sub intrante secta faracenorũ.quae iã totū mundū fedauit p̃ter so lam Europā in qua religio christi ꝑ monachos ordinis sancti Benedicti multipl̓r dilatata fuit.Circa annos dn̄i 774.cruces apparuerūt in vestibus hoĩm et amp;nō diu postea diuisum est imperiū Ro:facta tranflatone Monarchiae ad francosin Carolū qui eripuit de interitu eccl̓iā, fimul et imperiū,&amp; gessit płia multa,Nomen subeo Vuestgallorum in saxonia post victoriam caepit.Octauo decimo loco post Zacharielē Iouis angelū Raphael spūs Mer curii mūdi gubernatione 3.suscepit 2 die mensis nouēbris,Anno conditionis vniuersi 6023.menfe 8.Dominicae vero natiuitatis 817.&amp;p̃fuit orbi annis 354.mēsibus 4.vsqꝫ ad annos mūdi 6378.Dn̄icae vero 1171.In principio huiꝰ reuolutionis mercurii monarchia Romani imperii ficut diximꝰ in Carolū magnū trāflata est.post Carolū filiꝰ eius Ludouicus Impꝑauit annis 25.quo mortuo filii eius inter se dimicātes Imperii vires rursus extenuarūt.Normañ galliā deuaftarūt.Roma,bis fedat̉ a faracenis.fub Ludouico 2 sanguis plute coelo in Italiā ꝑ tri duū,in saxonia villa quedā eū omnibꝰ edificiis et amp; homibꝰ in momēto absorbet̉ hiatu terrae horribili,Circa dn̄i annos 910. motus in Italia facti funt magni,defecitqꝫ italia ab imperio francoꝝ p̃priosqꝫ fibi cō sttituit reges,quoꝝ primꝰ fuit Berengarius dux forouilii cui 7.p ordinem successerūt annis ferme qnquaginta,vsqꝫ ad imperii tranflationē ingermanos.Ad prim videlicet ottonē año et amp; christi 962.trāflatū fuit imperiū a frācis in Germãos,factusqꝫ fuit primus imperator Otto et amp; ex hinc Monarchia reformari caepit,cui filius Otto nepos Ottonum fidē,a sine liberis moriturus electores imperii postese instituit.Anno christianorū 1002.ficut permanent vsqꝫ in pn̄tem diem,Hierusalem iterum capitur a faracenis,portenta multa funt MacSomy Hugwiorũ Tonerfie
-
 [segment 15]
 [illegible]
 [segment 16]
@@ -387,7 +383,6 @@ erexit.Terrae motus maximi fuerūt.Hic Carolus multa
 circa Thelonea de nouo instituit in fauorē appellitās Carolo imꝑatori
 opposuit,sed nō valuit post Carolū filius eius Vuenceslaus imꝑavit
 annis 22.post quem Iodocus Marchio Morauiae,successit Sigismūdo
-
 [segment 17]
 Vuenceslai Germano, Vuenceslaus fuit depositus.lupoldꝰ dux Au¬
 striae cū 8 comitibus et plus 4000.a suitensibus in bello dimicās occi-
@@ -421,10 +416,8 @@ diae quoqꝫ bosnenß ducatũ de spetis.Achaiã Mytsenã,&plura reg-
 na in oriente Anno 1476.cõcursus stultorũ in francia germaniae fac¬
 tus est ad Niclaushausen.erroribus plenus 1480.Turci cū magno ex¬
 ercitu Rodianos obsederunt.fed non preualuerunt,eodem anno di-
-
 [segment 18]
 scedētes a Rhodis, hidruntū caeperunt, interfectis christianoꝝ plusq̃ 12000.folum 22.fuga elapsis.Et anno sequenti imperator Turcorum Machumet mortuꝰ est,cui Baysetus primogenitus in regno successit, impansiam in annū 27.Anno chrīanoꝝ 1486.Maximilianus Fride rici imꝑatoris filiꝰ rex Romanoꝝ Franckfordiae cōstituit. Caesar a Iulio papa Anno 1508.salutatus est,qui ordinē miliciae sancti Geor gij cōtra hereticos et amp; Turcos instituit,suitenses bello domuit.sicābros rebelles vs in hunc diē bello impugnat fortunabitur aduersus fae difragos oēs,rex Gallorū suo more ꝑfecutor imperii nouare insidiis cōpertus est,Omnipotēs tueatur samaelis imperio descriptos.Aanno 1508.veneti impio caesaris rebelles et amp; banno et amp; bello notati sunt,Erit ꝑtinatiae poena,satisfactiōis cōsultae p̄miū.Circa finē huius 3 reuoluti onis samaelis Altercatiōis imago trāsibit ad primū,&amp; erit ꝑditio mul torū,Nisi em̃ Y reducat deo ministrante ad αλφα erit alicuius mo narchiae,vel magni alicuiꝰ translatio regni,secta religionis consurget magna,veterū destractio religionū ne caput vnum amittat Bestia quarta.In samaele Mars primo p̄dixit diluuiū:Troianum in se cũdo excidiū,in tertio erit circa finem magnū vnitatis detrimentum ex p̄cedentibus iudicentur futura quae sequuntur.Non cōsumabitur Martis hec tertia reuolutio sine ꝓphetia et amp; nouae alicuius institutionis religionis.Ab hinc Anno christianorū 1508.restant anni vs ad finē gubernamenti samaelis 17.in quibus dabunt̉ ẜcantes initium malorum figure Anno em̃ chrīanoꝝ 1525.cruces in vestimētis hoīm visae añ decenniū quod p̄teriit susi ostent effectum.sed 13.ab hinc Iure cita tus locum dabis nescienti,Maior post fata refuges mihi in tertio nisi licet nebula tegas.
-Ordine vicesimo Gabriel angelus lune mūdi regimen tertio recipiet Anno mūdi 6732.mense 4.die mensis Iunij 4.Año chrīanoꝝ 15<Emphasis type="underline">2</Emphasis>5.&amp; mundū gubernabit annis 354.mens:4.vs ad annos mūdi 7086.&amp; mense 8.Dn̄icae vero natiuitatis 1879.mēses similiter II.hꝰ reuolutiōis futura series ꝓphetiā requirit Non haec assertiuę scripsi:sacratifs:caesar,quibꝰ cū iniuria orthodoxae fidei nulla est rōe credendū.Sunt vero qui mẽses in his supputauere lunares quibꝰ cōsentiendū si duxeris,mutāda sunt ea quae aliter scripsi,nihil admitto,nisi quod Ecclesia credit catholica et amp; doctorum eius auctoritate fuerit Comprobatum.Caetera vt vana conficta et amp; suprostitiosa refuto Et contemno.
+Ordine vicesimo Gabriel angelus lune mūdi regimen tertio recipiet Anno mūdi 6732.mense 4.die mensis Iunij 4.Año chrīanoꝝ 1525.&amp; mundū gubernabit annis 354.mens:4.vs ad annos mūdi 7086.&amp; mense 8.Dn̄icae vero natiuitatis 1879.mēses similiter II.hꝰ reuolutiōis futura series ꝓphetiā requirit Non haec assertiuę scripsi:sacratifs:caesar,quibꝰ cū iniuria orthodoxae fidei nulla est rōe credendū.Sunt vero qui mẽses in his supputauere lunares quibꝰ cōsentiendū si duxeris,mutāda sunt ea quae aliter scripsi,nihil admitto,nisi quod Ecclesia credit catholica et amp; doctorum eius auctoritate fuerit Comprobatum.Caetera vt vana conficta et amp; suprostitiosa refuto Et contemno.
 ¶Impressum Nurnberge impens Ioānis Haselbergs, Anno, XXII.
-
 [segment 19]

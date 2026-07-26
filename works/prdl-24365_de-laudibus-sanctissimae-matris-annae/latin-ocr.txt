@@ -56,7 +56,7 @@ Conclusio finalis cum exhortatione fraternitatis xvj.
 
 Epistola domī Iohānis tritemij
 abbatis Spanhemensis in librum de laudibus sanctissime anne.
-<Emphasis type="colored">A</Emphasis>nerabili religiosissimoqꝫ patri. dn̄o Rumuldo
+Anerabili religiosissimoqꝫ patri. dn̄o Rumuldo
 laupach Priori conuentus Franckfordensis. ordīs
 fratrum btē marie semꝑ v̓ginis de monte carmeli
 Iohannes de tritenhem abbas monasterij sancti
@@ -79,26 +79,60 @@ rescribere.promptos iuenies nos qui tibi et om̄ibus de singu¬
 lis que scripsimus rationem demōstremus.Post fineꝫ huiꝰ oꝑis
 quedam carmina de laudibus sancta adiuuximus.que
 nobis aduersis eruditis viris sūt transmissa Bale.Ex spanhem
-kalendis Iulias.Anno.</Emphasis>
-
+kalendis Iulias.Anno.
 [segment 2]
-<Incipit tractatus domini Johannis tritemij abbatis spanhemensis ordinis sctī benedicti. de laudibus venerabilis et beatissime matris dei genitricis Anne.</Incipit>
-<Paragraph>
-<Line><Initial type="decorated-drop">C</Initial>Oti ꝯpellit necessitas. et mentis perurget deuotio</Line>
-<Line>vt laudes beatissime matris dei genitricē Anne</Line>
-<Line>pro viribus ingenij ad edificacionē fideliū scribā.</Line>
-et quanta miseris pietate subuenire consueuerit.</Line>
-veraci narratione denunciem. Sed cū paupertatem</Line>
-ingenij mei considero impurus de sanctissima loqui ꝑtimesco.</Line>
-Quanta em̄ laude digna sit. que dei genitricē peperit. quis sermo</Line>
-explicabit. Uolo itaqꝫ aliquid ad honorem tāte matris cudere</Line>
-et timeo:quia quicquid dixero laudibꝰ eiꝰ minꝰ est: quicqͥd scrip</Line>
-sero rei maiestate ꝓcul inferius est Enīuero cuꝫ illius in miseros</Line>
-beneficia ad memoriā reuoco:tacere a laudibus eius etiā si volo</Line>
-non possum Hinc pietas maxima votū ꝓmeruit:deuotionē ex¬</Line>
-citauit: requirit honoris exhibitiouē. Deuota quoqꝫ(ne dicaz</Line>importuna.peticio amicoꝝ me non minus vt auderē impulit:de</Line>quoꝝ fide et or̄one nostra infirmitas fiduciā accepit. Quamuis</Line>igitur me peccatorē nouerim:quāuis regine celi sanctissima pa¬</Line>rentem digne laudare nō sufficiā:nequaqͣꝫ tamen a ꝓposito lau</Line>dis debeo recedere.ne ingratitudinis vicium videtur incurrisse.</Line><Emphasis type="colored">¶</Emphasis>Conabor pro deuotione mea qd̓ valeo.qꝛ nemo quod non potest</Line>a deo exigitur.nemo apud ueternū iudicē bone voluntatis va¬</Line>cius iudicatur.Laudabo igit̉ hō deā.famulus dn̄iam.peccatoꝛ</Line>sactissimā.Meqꝫ em̄ a laude dei peccatoꝛes cohibuit.qͥ in psal.</Line>dixit.Laudate dn̄m oēs gentes.laudate eū om̄es populi Enim¬</Line>uero dum gentes ad laudem dn̄i excitat.quid aliud quā peccato</Line>res vocat.Erant em̄ longe a iusticiaquia non deuꝫ.sed ydola co</Line>lebant.Nemo ergo tacere a laudibus dei ꝑmittitur.quādo etiā</Line>gentes ydolatre ad penitentiā vocant̉. Laudent ergo dn̄m oēs</Line>qui misericordiam eius percipiunt.laudant omnes qui in carne</Line>viiuunt.quia ipse est qui omnes condidit.ipse qui vitā dedit</Line>laudet iustus simul et peccator.illeg q̃ misericordia dn̄i ne cade¬</Line>ret seruatꝰ est.iste quia etiā postlne ineternū perireterectꝰ</Line><Emphasis type="colored">¶</Emphasis>Et si nō sit speciosa laus in ore peccatoriꝯ.neminē tamen a lau¬</Line>dibus dei excusat rea conscientia.cū ad penitēciā eius misericor¬</Line>dia omnes reseruentur.Ferat iustus laudem:peccatoꝛ confessio</Line>nez.Laudet ille quoniā gratia p̄seruāte fortiter stetit.ꝯfiteatur</Line>iste ꝙ misericordia subsequēte surrexit.Lauda aīa mea dominū</Line>laudabo deū meū in vita mea:psallā dño quādiu fuero Aperiam</Line>os meū ad confitendum dūo.mentē pariter aptabo et calamuz:</Line>
-</Paragraph>
+<Incipit tractatus domini Johannis tritemij abbatis spanhemensis ordinis sctī benedicti. de laudibus venerabilis et beatissime matris dei genitricis Anne.
 
+COti ꝯpellit necessitas. et mentis perurget deuotio
+
+vt laudes beatissime matris dei genitricē Anne
+
+pro viribus ingenij ad edificacionē fideliū scribā.
+
+et quanta miseris pietate subuenire consueuerit.
+
+veraci narratione denunciem. Sed cū paupertatem
+
+ingenij mei considero impurus de sanctissima loqui ꝑtimesco.
+
+Quanta em̄ laude digna sit. que dei genitricē peperit. quis sermo
+
+explicabit. Uolo itaqꝫ aliquid ad honorem tāte matris cudere
+
+et timeo:quia quicquid dixero laudibꝰ eiꝰ minꝰ est: quicqͥd scrip
+
+sero rei maiestate ꝓcul inferius est Enīuero cuꝫ illius in miseros
+
+beneficia ad memoriā reuoco:tacere a laudibus eius etiā si volo
+
+non possum Hinc pietas maxima votū ꝓmeruit:deuotionē ex¬
+
+citauit: requirit honoris exhibitiouē. Deuota quoqꝫ(ne dicaz
+importuna.peticio amicoꝝ me non minus vt auderē impulit:de
+quoꝝ fide et or̄one nostra infirmitas fiduciā accepit. Quamuis
+igitur me peccatorē nouerim:quāuis regine celi sanctissima pa¬
+rentem digne laudare nō sufficiā:nequaqͣꝫ tamen a ꝓposito lau
+dis debeo recedere.ne ingratitudinis vicium videtur incurrisse.
+¶Conabor pro deuotione mea qd̓ valeo.qꝛ nemo quod non potest
+a deo exigitur.nemo apud ueternū iudicē bone voluntatis va¬
+cius iudicatur.Laudabo igit̉ hō deā.famulus dn̄iam.peccatoꝛ
+sactissimā.Meqꝫ em̄ a laude dei peccatoꝛes cohibuit.qͥ in psal.
+dixit.Laudate dn̄m oēs gentes.laudate eū om̄es populi Enim¬
+uero dum gentes ad laudem dn̄i excitat.quid aliud quā peccato
+res vocat.Erant em̄ longe a iusticiaquia non deuꝫ.sed ydola co
+lebant.Nemo ergo tacere a laudibus dei ꝑmittitur.quādo etiā
+gentes ydolatre ad penitentiā vocant̉. Laudent ergo dn̄m oēs
+qui misericordiam eius percipiunt.laudant omnes qui in carne
+viiuunt.quia ipse est qui omnes condidit.ipse qui vitā dedit
+laudet iustus simul et peccator.illeg q̃ misericordia dn̄i ne cade¬
+ret seruatꝰ est.iste quia etiā postlne ineternū perireterectꝰ
+¶Et si nō sit speciosa laus in ore peccatoriꝯ.neminē tamen a lau¬
+dibus dei excusat rea conscientia.cū ad penitēciā eius misericor¬
+dia omnes reseruentur.Ferat iustus laudem:peccatoꝛ confessio
+nez.Laudet ille quoniā gratia p̄seruāte fortiter stetit.ꝯfiteatur
+iste ꝙ misericordia subsequēte surrexit.Lauda aīa mea dominū
+laudabo deū meū in vita mea:psallā dño quādiu fuero Aperiam
+os meū ad confitendum dūo.mentē pariter aptabo et calamuz:
 [segment 3]
 laudes beatissime matris anne qua possum deuotione cantabo.
 Nam si dei generaliter in sanctis suis laudare p̄cipimur. pa-
@@ -142,7 +176,6 @@ gis querimus. cur parentes eius nō amamꝰ. Qui progeniē im¬
 peratoris despicit. regi iniuriam facit. Si omnium imperatorem
 hiefum christum diligimꝰ. si maiestatem eius diuinā formida¬
 mus. dignum est vt autam eius venerabilem honorem. de cuius Aij
-
 [segment 4]
 nate vtero sine virisemine illum ꝓcessisse absqꝫ dubio credimus
 Quicquid laudis eius veneratiōi impēdimꝰ. ad summi regis ho-
@@ -187,10 +220,8 @@ D D D D D D D D C C C C C C D D D D D D O O O O O O D D D D D D I I I I I I D D 
 D D D D D D
 D D D D D D
 D D D
-
 [segment 5]
 qui non sum dignus faciem meam leuar e ad celos pre multitu¬dine iniquitatis mee.quantominus anne beatiffime laudes im puris labris andeam contingere.Gratia auteʒ tua sum id quod sum.et totuʒ qđ boni volo et possū.Tu enim domine voluntatē vt bona velit et bona fit.per graciam tuam illuminas.tu etiam es qui nobis operari pro bona volunteate prestas.In omnibus voluntatem nostram preuenientem gratiam tuam agnoscimus tua in bonis que volumus et facimus.sine nostris meritis dona predicamus.Nihil a nobis nisi malum.nihil a te prouenit nisi bonum.Cum ergo nihil possim boni a memetipso fine gracia tua.ad.te deuotus confugio.te humili subiectione interpello.vt quod merita mea p̄pediunt.gratie tue dono clemens largiaris Da mihi domine sedium tuarum affistricem sapientiam. vt me cum sit.et mecuz laboret omni tempore.et in hoc potifsimū ope in quo exigujs viribꝰ nomen tuum in sancta matre anna laudare constitui Tu etiā anna mater sanctiffima de cuius memoria agit̃. tu mihi folta benignitate adefe digneris.Vtad laudes tuas describendas idoneus efficiar.et meritis tuis ferophantes fidelis inueniar Domina mea.spes mea.aduocata mea.in omni tribulatione.laudare te cupienti nunc clemens adesto.et q̃ voluntatē ad scribendum multiplici beneficio prouocafti.impetra meritis tuis facultatem ingenio pauperi.vt digne te laudare sufficiat.Mihil nisi tuum honorem quero.Nihil nisi tibi complacere.desidero.non nisi recta et vera de tuis laudibus scribere intendo Hinc oro fer opem.da manuʒ auxilij.impetra gratiaʒ.Tu etiaʒ dei genitrix immaculata.que annam venerabile matrem fa mulos tuos honorare docufti.adefto mihi laudes eiꝰ describere cupienti meritis tuis.vt deuotio famuli tui debitum forciat effec tum in opere.quem gratia dei concepit in mente.Vos quoqʒ celefte patrie beati spūs qui infacratissimo matris et filie vginis fructu domino nostro hiefu christo exultatis.vestris orationibꝰ dignum me anne laudatorem reddite.et sanctifpiritus gratiam mihi impetrate.Si matrem et filiam in celefti gaudio colitis.dignum est vt laudatoribus earum in hac peregrinatione affiftatis.Vos etiam beatiffime Anne deuoti cultores nostris pijs studijs nolite detrahere.fed si in aliquibus ex infirmitate defeci mus per charitatem excufate.Nihil per contentionem fiue in anem gloriam a me scribitur.Nihil a pocriphe dubietatis alle gatur.nihil nisi probatum affumitur.Nihil recipio quod diuin is iuftutis obniet.Nihil scribo quod fidem christianam maf culet.Nihil introduco quod sanctis moribus non concordet
-
 [segment 6]
 non ergo mihi doctior te anna laudanti detrahat.nō mihi equa¬
 lis deroget.non mihi inferior insultet.Vincit quod verum est.
@@ -204,18 +235,27 @@ bitur.proficiat quibus offertur.cōducat quib⁹ exhibetur.Quid
 mihi de his q̇ foris sũt.Quid ad me qui nō recta sapiunt.Quid
 mihi de sancta preter rationem corrodūt.Illis displicere non ti¬
 meo.quoꝝ censuras et iudicia temeraria cognosco
-<Paragraph>
-<Line>Generalis ad omnes fideles ex</Line>
-<h2 type="sub">hortatio.</h2>
-<Paragraph>
-<Line><Initial type="decorated-drop">H</Initial>Vdite me qui diligitis quod bonū est:et queritis do¬</Line>
-<Line>minū.Legatione fungor.deuotione ducor.charitate</Line>
-<Line>impellor Mater genitricis dei misit me.Vt p̃dicē san¬</Line>
-<Line>ctissima merita sua.Et nūc venio ad vos nō in alto sz¬</Line>
-<Line>mone.sed simplex ad simplices.deuotos ad deuotos Si christiani</Line>
-<Line>estis.si boni estis.si graciā dn̄ice incarnationis diligitis.cur mi¬</Line>
-<Line>nistros eius id est parentes non amatis.Jpsi em̄ sunt de quib⁹ dei</Line>
-<Line>filius scđm carnem natus est.quoꝝ conuersatio si non extitisser</Line>
+
+Generalis ad omnes fideles ex
+
+hortatio.
+
+HVdite me qui diligitis quod bonū est:et queritis do¬
+
+minū.Legatione fungor.deuotione ducor.charitate
+
+impellor Mater genitricis dei misit me.Vt p̃dicē san¬
+
+ctissima merita sua.Et nūc venio ad vos nō in alto sz¬
+
+mone.sed simplex ad simplices.deuotos ad deuotos Si christiani
+
+estis.si boni estis.si graciā dn̄ice incarnationis diligitis.cur mi¬
+
+nistros eius id est parentes non amatis.Jpsi em̄ sunt de quib⁹ dei
+
+filius scđm carnem natus est.quoꝝ conuersatio si non extitisser
+
 sanctissima.nequaqͣꝫ deo fuisset tam accepta.Sed cum filiū suuꝫ
 vnigenitum de ipsis nasci voluit.q̇ sancti sibiꝗz grati fuerint.
 aperte demonstrauit Ex his vna pre om̄ibus deo gratissima.mr̄
@@ -232,12 +272,9 @@ tos eius secundum carnem deuote honorctis.E quibus post
 eius sanctissimam genitricem diua prima omnium
 vobis honora proponitur.cuius sancta merita humano ge¬
 neri per multa miracula quottidie demonstrantur.Eam vo¬
-bis in patronam assumite.eius memoriam deuotius celebrate.</Line>
-</Paragraph>
-
+bis in patronam assumite.eius memoriam deuotius celebrate.
 [segment 7]
 si sūmo gubernatori deo vultis cōplacere Credite mihi fratres quoniā vera dicturus sum. si venerabilem matrem ex toto corde diligitis et colitis. quantū ei deferat celestis imperator experien tia cognoscetis. Tante apud deū potestatꝭ est. vt quicquid ab eo pecierit. sine mora valeat obtinere. Quemadmodū rex celi geni trice̓ suā pre omnibus honorare credit̉:ita post illam pre cunctis sanctis matrem annaꝫ veneratur.Et plerūqꝫ anna fidelibꝰ suis impetrat:quod filia negat:nō quo illa postulata nesciat ꝯcedere sed vt matri deferens.nos ad eiꝰ venerationē videat̉ prouocare Sic quoqꝫ summꝰ imperator sanctoꝝ precibꝰ ad misericordiam flectitur:nō quo incipiat velle quod antea noluit. sed vt electis suis deferens nos ad honoreꝫ eoꝝ instrueret. Neqꝫ enī humano more deus flectitur.nec ad iram ex ꝑturbatiōe vnquā mouetur sed semper stabilis vult quod dum p̄cibus sanctorū mi fericordiam exhibet.non consiliū mutat.sed mitigat sententiaꝫ Ad impetrandā itaqꝫ dei misericordiā qꝛ merita nostra non sufficiunt.sanctoꝝ nobis suffragia implorāda sūt.vt qd̓ nostris me ritis non possumus.eoꝝ eodē aūt celestis patrie ciues etsi pro meritoꝝ qualitate sint dissimiles.tamen ad subueniendum miseris nostris pro varietate supplicantium si deuotio expostulet.actu et volūtate credit̉ esse ꝯcordes.quia dum fides postulantis aduocati iuuat.meritū ad impetrandum reddit duplicatum.Hec aūt nō coniectura sed experientia assequamur Om̄es aūt celestis patricius alciuius meritum duo ceci supplicatur accedūt vnus illumīat̉.alter in cecitate sua relinquit̉ Contemptꝰ sancti nullus ad esse creditur.sed diffidentia supplicantis arguitur.Sine fide nihil meretur deuotio.Consideratione certa ista premiserim.vt siquisqͣꝫ annā beatissima non tanta promptitudine qua ꝓmittimꝰ sibi ad esse senserit.non mendaci nos arguat.sed suā diffidentiaꝫ culpabilē agnoscat.Fiducia enī maxīa est apud deum et sanctos constans in ope fides.Amplius autē eos posse apud deū.qui sūt meritis excellentiores.nemo cristianus qui dubitet.Beatissima igitur dei genitrix semper virgo maria.sicut meritis et sanctitate omnibus sanctis pre eminet.ita potestate et maielitate re gina celi vniuersos iure creditur excellere.Ad eius dexteram.vt ita dixerim.beatissima matrem astare cōfidimus.cuius vitā extitisse sanctissima non ignoramus.Non erat ea inisrahel sanctior altera.q̄ in conceptiōe dei genitricis spiritui sancto vas sine macula ꝯstruxit.Deniqꝫ si helizabet mater precursoris dn̄i spiritusancto et ineffabili gaudio repleta credit̉.quantam decue rit sanctissimā dei parentis geniticē exultacio.gaudiū et gratia cogitur.Quantum differt rex a milite.tantuꝫ suo modo anne
-
 [segment 8]
 merita donis helizabet iure p̄feruntur Sancta helizabet peperit
 militē. anna dei genitrice Nō est ꝯꝑatio. vbi nulla est similitudo
@@ -338,7 +375,6 @@ et vos cum doctrinis vestris.in superbia et elatione ad infernū
 descenditis.Vobis sufficere creditis famam eruditiōis vestre.
 
 qua veterum exemplo apud posteritatem immortalitatem no¬
-
 [segment 9]
 minis acquiratis.Sed esto Fiat quod queritis.nomen vestrum
 
@@ -370,13 +406,11 @@ Gracia em̄ dei nō bene accipitur.quādo humana curiositate discutitur.Dum sapo
 Cap̄.iiij.
 Contra illos qui festum et memo riam sctē Anne lacerāt et deliciūt et impugnāt
 H Vditu ꝑcipe tu quisquis es.qui festiuā sacrosctē matris Anne memoriam vituperas.qui honorem eiꝰ impia loquacitate impugnas.qui cultores ei temeraria presumptiōe blasphemas.Quid tibi dis plicet in matre sanctissima dei genitricis.Nunquid de generem probas.Sancta est.deo di lecta est.Stulte et inispiens qui bonū in seruis dei qd̓ imitari deb ueras culpas.qui sanctis debitum honorem subtrahis.qui cul tores beatissime anne sine causa persequeris Improperas em̄ et dicis Cur noua festa assumitis.qui antiqua non celebratis Audi ꝓphane. Nunquid festum sancte Anne tibi nouū videtur.qd̓ ex veterū monimentis antiquissimū comprobatur.Si nouuꝫ est quomō sancti patres illud antiquitus celebrare potuerūt.Mo uuꝫ non est.in cuius honore sanctus Augustinus ante mille an nos elegantem fertur cōposuisse sermonē.Nouū esse nō poterit de quo antiquissima carmina extant Aut quēadmoduꝫ nouum esse poterit.cuius aureuꝫ.nomen antiquissimus kalendarijs re peritur insertum.Sed tibi et nouū et rarum est.qui memoriam eius nunqͣꝫ celebrasti.Meqꝫ em̄ noua esse potest beatissime ma tris anne memoria.cuius domus in qua habitare antiquitus cō sueuerat.non lōge post passionē dn̄i in ecclesiam sub eius nomine legitur consecrata Prope lugdunū monasterium nr̄i ordinis in insula barbara est.vbi in capella quadā vetustissima corpꝰ bea
-
 [segment 10]
-tissime matris anne cum multa reuerentia populi quiescit.quāꝫ sanctus longinus miles christi primum fundasse dicitur. et pre ciosissimas illas reliquias ab hierosolima secuꝫ deferens in eadē collocasse Huius rei in dicto cenobio antiquissima monimenta reperiuntur. Ista ne tibi noua videntur. Cessa igitur festo sanc tissime matris detrahere.cessa cultū eius dignissimuꝫ impio dēte lacerare. Noli odiū ꝑsonale diffundere.in omnes.noli propter paucoꝝ displicentiā oībus indignari.noli iniuriam hoīs efferre in superos.Cur lesus.forte ab hoīc.sanctos dei vocas in culpaꝫ Ressa obsecro cessa vindictam vniꝰ homīs vel paucoꝝ a sanctis sima matre anna velle exigere.Nolo sanctitatē eius viruperes. nolo eam suo honore priues.nolo deuotionem seruoruꝫ eius im pugnes.Si peccauerit homo in homineꝫ.placare poterit ei deus qui aut̄ peccat in sanctos dei.imparentes filique dei.in matrem ge nitricis dei.quis orabit pro eo.Quō poŧ desi habere ꝓpicium.qui sanctos eius et quidem sanctissimos habꝫ offensos Sancta em̄ anna om̄i honore digna est.que parere meruit dei genitriceꝫ sine labe criminis.cuius honorem qui minuit.iniuriā deo facit.Qūi potiꝰ si sapis.si intelligis.recede ab hac stulticia tua.fuge ab hac infania falsa.declina ab hac blasphemia pessima.et prīstini erro ris assume penitentiam.vt per compn̄ctionis lachrimas tāne phariam diluas culpan.Quod si non feceris.si in pertinacia tua perseueraueris.non impedies voluntatē dei.sed partem habe bis in sorte dyaboli.Deus sancta annam in ecclesia sua honorare disposuit quis eum prohibebit.Ecce reges et principes memo riam sancte anne religiosa deuotione concelebrant.ecce fideles po puli nomen eiꝰ vbique innocāt.et tu in inuidia tua cū dyabolo ta bescis. ꝯfūderis et insanis Monachi et religiosi vtriusque sexus totus eccl̓iarum dei clerus.festum sancte matris anne et memo riam cum singulari deuotione celebꝛant.et tu inuide canis ꝯtra om̄es latrarc presumis.Quid impie latras.quid scelerate mur muras.Lace abi.recede.noni sine graui animaduersiōe hec tua impietas vidicabitur.Quicunque em̄ honori et sanctitati beatif sime matris anne detraxerit.quicunque cultores eius blasphema uerit.fine confusione ab hac vita no migrabit.Confusiōe mala confundetur coramdeo et hominibus.opprobria et ignominis pessima cooperiet caput eius erit miscr et miserabilis.et nō erit qͥ calamitati eius condoleat.oībus diebꝰ quibꝰ fueritsuꝑ terrā. <Emphasis type="colored">¶</Emphasis> Quod omnipotens deus sanctam Bi<Gap reason="damaged" extent="ca. 1 char"/>
-
+tissime matris anne cum multa reuerentia populi quiescit.quāꝫ sanctus longinus miles christi primum fundasse dicitur. et pre ciosissimas illas reliquias ab hierosolima secuꝫ deferens in eadē collocasse Huius rei in dicto cenobio antiquissima monimenta reperiuntur. Ista ne tibi noua videntur. Cessa igitur festo sanc tissime matris detrahere.cessa cultū eius dignissimuꝫ impio dēte lacerare. Noli odiū ꝑsonale diffundere.in omnes.noli propter paucoꝝ displicentiā oībus indignari.noli iniuriam hoīs efferre in superos.Cur lesus.forte ab hoīc.sanctos dei vocas in culpaꝫ Ressa obsecro cessa vindictam vniꝰ homīs vel paucoꝝ a sanctis sima matre anna velle exigere.Nolo sanctitatē eius viruperes. nolo eam suo honore priues.nolo deuotionem seruoruꝫ eius im pugnes.Si peccauerit homo in homineꝫ.placare poterit ei deus qui aut̄ peccat in sanctos dei.imparentes filique dei.in matrem ge nitricis dei.quis orabit pro eo.Quō poŧ desi habere ꝓpicium.qui sanctos eius et quidem sanctissimos habꝫ offensos Sancta em̄ anna om̄i honore digna est.que parere meruit dei genitriceꝫ sine labe criminis.cuius honorem qui minuit.iniuriā deo facit.Qūi potiꝰ si sapis.si intelligis.recede ab hac stulticia tua.fuge ab hac infania falsa.declina ab hac blasphemia pessima.et prīstini erro ris assume penitentiam.vt per compn̄ctionis lachrimas tāne phariam diluas culpan.Quod si non feceris.si in pertinacia tua perseueraueris.non impedies voluntatē dei.sed partem habe bis in sorte dyaboli.Deus sancta annam in ecclesia sua honorare disposuit quis eum prohibebit.Ecce reges et principes memo riam sancte anne religiosa deuotione concelebrant.ecce fideles po puli nomen eiꝰ vbique innocāt.et tu in inuidia tua cū dyabolo ta bescis. ꝯfūderis et insanis Monachi et religiosi vtriusque sexus totus eccl̓iarum dei clerus.festum sancte matris anne et memo riam cum singulari deuotione celebꝛant.et tu inuide canis ꝯtra om̄es latrarc presumis.Quid impie latras.quid scelerate mur muras.Lace abi.recede.noni sine graui animaduersiōe hec tua impietas vidicabitur.Quicunque em̄ honori et sanctitati beatif sime matris anne detraxerit.quicunque cultores eius blasphema uerit.fine confusione ab hac vita no migrabit.Confusiōe mala confundetur coramdeo et hominibus.opprobria et ignominis pessima cooperiet caput eius erit miscr et miserabilis.et nō erit qͥ calamitati eius condoleat.oībus diebꝰ quibꝰ fueritsuꝑ terrā. ¶ Quod omnipotens deus sanctam Bi
 [segment 11]
 annā in matrē sue genitricis elegerit ante mōi ꝯstitutione̓. Ca .v.
-<Initial type="decorated-drop">S</Initial>Icut oīpotēs deus añ mōi ꝯstitionē tꝑs quo nas-
+SIcut oīpotēs deus añ mōi ꝯstitionē tꝑs quo nas-
 ceretur in carne disposuit. sic etiaꝫ putes de quibꝰ
 quasceretur ab eterno p̄ordinauit Meqꝫ em̄ inuenit
 parentes dei filius. sed p̄misit. qui eos sine tꝑe ad
@@ -386,14 +420,14 @@ dicere potuit illud quod de eterna dei sapientia scribitur. Un̄s
 possedit me ab initio viarum suaꝝ. anteqͣ quicqͥ faceret a princi
 pio. ab eterno ordinata sum. et ex antiquis. Erat ante mundi cō¬
 stitutionē in mẽte diuina nō per naturā facta. sed per graciā pre¬
-or<Gap reason="damaged" extent="ca. 1 char"/> <Emphasis type="colored">D</Emphasis>ere digna est honoranda. quā grā dei p̄ueniendo in
-n<Gap reason="damaged" extent="ca. 2 chars"/> genitricis disposuit. et semper conseruando sanctissimam
-ei<Gap reason="damaged" extent="ca. 3 chars"/> . Vere sancta et omī honore digniffima parens. que nobis
+or Dere digna est honoranda. quā grā dei p̄ueniendo in
+n genitricis disposuit. et semper conseruando sanctissimam
+ei . Vere sancta et omī honore digniffima parens. que nobis
 vito ianctious normā p̄buit. et in exhauste pietatis fonteꝫ de suo
 pectoꝛe produxit. non potuit esse nisi sanctissima que tam p̄ciosū
 thesaurū in suo vtero portauit. Archa testamēti nobilissima oīm
 virtutū ornatu splendida extitit. in qua vrna illa fuit recondita.
-que verum manua erat virgo paritura. Q<Emphasis type="colored">ue</Emphasis> quanto honore dignꝰ
+que verum manua erat virgo paritura. Que quanto honore dignꝰ
 anne venter credendum est. qui dei gazophilacium factus inesti¬
 mabilis p̄cij thesaurū baiulauit. Mon est dubitatū fratres cha¬
 rissimi sed firma deuotione credendum. beatam annaꝫ ineffabili
@@ -415,8 +449,7 @@ inhabitans nunqͣꝫ ne ad momentū quidē postea deseruit. sed sꝑ
 eam custodiens et dirigens speciali dono pre cunctis mortalibus
 illuminauit. Huius sacratissime illuminationis participeꝫ fuisse
 beatissimā virginis genitricem credimus. non solū quando vir¬
-ginem adhuc clausam portabat in vtero. sed etiā cunctis postea<Gap reason="damaged" extent="ca. 1 char"/>
-
+ginem adhuc clausam portabat in vtero. sed etiā cunctis postea
 [segment 12]
 diebus quibus vixit in mundo. Enim uero qua spūssanctus dig-
 nā dei parentē effecerat.non sine maximis gracie sue donis possi-
@@ -443,9 +476,11 @@ imbecilles resonet.debiles erigit et sanat.erectos in virtute ꝯfir-
 mat.Impossibile est eam pro cultoribus suis oranteꝫ non exau-
 diri.que omnipotenti deo tam p̄ciosum de suo pectore thalamuꝫ
 construxit.
-<Paragraph>
-<Line><Initial type="decorated-drop">Q</Initial>uam iusta laucta et deo accepta.</Line>
-fuerit vita et conuersatio beatissime matris anne.Cap̄.vi.</Line>
+
+Quam iusta laucta et deo accepta.
+
+fuerit vita et conuersatio beatissime matris anne.Cap̄.vi.
+
 Di monimenta sctōꝝ patrū sedula deuotione per-
 legerit.quanta sanctitate vita beatissime matris
 anne resplenderit inuenire potest.De qua sctūs
@@ -454,11 +489,12 @@ tanta iusticia.innocentia et puritate claruisse meminit.vt pareꝫ
 in israhel non habuerit.Monorius quoqꝫ presbiter augustudu-
 nensis vir sanctus et eruditus in speculo ecclesie quedaꝫ de lau-
 dibus sancte matris anne sermone luculento edidit.et quaꝫ sctā
-semper vixerit.breui compendio demōstranit.Sanctus cyruillꝰ</Line>
+semper vixerit.breui compendio demōstranit.Sanctus cyruillꝰ
+
 ep̄s alexandrinus cultor quondā montis et oꝛdinis carmeli.cuꝫ
 de ortu beate dei genitricis semper virginis marie ad celestinuꝫ
 papam primum scriberet.de vita et conuersatione sancte Anne
-multa laudum p̄coma inferuit.Sed quid necesse est me doctores</Paragraph>
+multa laudum p̄coma inferuit.Sed quid necesse est me doctores
 
 multos allegare incognitos.cū btũs Hieroniꝰ p̄sbiter vniuerso
 
@@ -521,7 +557,6 @@ ctore charitas dei gratuim inuenit sibi domiciliũ.de cuiꝰ sanguĩe
 purissimũ dei filio spūssanctus edificauit tabernaculum.Digna
 
 parens dignissime parẽtis.quae prima oīm saluatoris nostri ma¬
-
 [segment 13]
 turauit aduentũ In eam o fratres mentis vestre oculos dirigite
 
@@ -543,13 +578,11 @@ in oꝑe.sobra in consuetudine.hūilis in mente.Nemo vnquaʒ ꝑ
 
 vicos et plateas discurrentem illam reperit.nemo in domibus
 
-vicinaruʒ nutiliter fabulantē auduit.nemo ad choras et spe<Gap reason="damaged" extent="ca. 2-3 letters"/>
+vicinaruʒ nutiliter fabulantē auduit.nemo ad choras et spe
 
 tacula vnqua illa astitisse iuuenit. Domi manē a Iuuentute sua didicit. laborare aliquid manibus consueuit. foris videri ab hominibus nō quesivit Concordiam in bono et pacē cū vicinis obseruare studuit. nemini iniuriā fecit. verbo vel ope 'neminem p̄turbauit. Raro videbatur in publico. in plateis cum mulierculis.fabulantibus non sedebat.et in colloquio detrahentium nō stetit Nouerat em̄ prudentissima mulier multiloquio non deesse peccatum.iccirco omni custodia seruavit cor suā.ne vnqͣꝫ in sermone offenderet Sanctis itaqꝫ studijs et exercitijs intenta.exsterili mater effici meruit.sicut om̄ipotens deꝰ ab initio preordinauit.Concepit ergo mulier sancta de coniuge sancto.concepit sine originali macula.peperit sine culpa.O sancta et prius inaudita conceptio.Concepit a viro.sed nulli vnqua crimini hec fuitobnoxia conceptio.Concepit scd̓m nature ordinē.sed preternature condutudinē.Sancta et continuis laudibꝭ celebranda conceprioque matrem sine filio parat.de qua chorus angeloiubilat.totusqꝫ in orbe terrarū mundus exultat.Vere spūhonora da conceptio.q̄ om̄ipotentī deo prius grata extitit.quaꝝimpleta fuit.Vere digna conceptio.que spūsancto preseruantea tanta puritate sumpsit exordium.vt disposita fuerit concipereet parere deū.Colenda est igit̉ nobis summa deotione annasanctissima parens.que matrem dei sine macula concepit.Quā digna deo hostiam obtulit.quando sanctissimā filiam intēplopresentauit.Deniqꝫ ad matris sanctermerita declarandapretinet ꝙ filiam quā concepit et peperit.statim ab infantia dominoassecrauit.Qualis conversatio matris.talis et filie institutio fuitNemo docere aliū potest quod ip̄e non didicit.nemo filios beneinstituit.male institutus.Frequēter ad mores parentū filij p̄ficiunt.et quod actitari ab illis viderint libentius amplectunturSanctissime filie condigna mater.vt a qua traxerat sinemateriam carnis.ab ea sugeret instituta pietatis.Vtramqꝫdeigracia preuenerat.vtrāqꝫ repleuerat.sed erat in matre prior.infilia copiosior.Docuit scd̓a mater filiā quod ip̄a prius aparētibꝰdidicit.quamuis institutione humana opus non habuit.quamspiritus sanctus conceptu adimplevit.Neqꝫ em̄ materna eraditiōe indiguit.q̄ celesti grā plena fuit Discite omnes filias vr̄asad honore dei instituere.mūdi pompas nō amare.publicum spūspectū fugere.domī residere.Spūs nanqꝫ sectūs odit publicumpure mētis diligit secretum.Quid per vicos et plateas discursit?si honestatem uͥgines amatis.Ad mariā archangelus venit nōin publico sed in secreto.nō in platea loquentē.sed in camera tacente.Apl̓i spiritūnō in foro.sed clausi in domo acceperūt QđB .ij.
-
 [segment 14]
-beatiffima v̓go 8 mr̄e.immo a spūsctō didicit.solert custodiuit Illa vagos discurfus vitare ꝯsueuerat.maria in domo solitaria manebat.In vtramqꝫ respicite.matres in matrem.virgines in virginem.Credite mihi non decet vestram honesteaz delectari in publico:non expedit virgines salutari in foro:quia reuerētiaʒ honestatis minuit:qui frequenter ad publicum vadit.Virgini tas cum verecunda fit:publicum fugit.Sine verecundia non est syncera virginitas:nec potest pura manere nimis publica <Emphasis type="colored">Quod</Emphasis> laucta mater anna filiam sua beatiflimā dei genitricē sine originali macula ocepit.<Above>Ca.vij.</Above><Initial type="decorated-drop">O</Initial>Poniaʒ ad beatissime matris anne declaranda san citat? merita multū conducit:ꝙ dei genitriceʒ sine originalis reatus macula peperit.nequaq̄ a nobis tanti prerogatiua honoris silencio est transeunda Et quidē scilꝰ hanc puriffimaʒ conceptioneʒ in fignuʒ positā cui a multis vsqʒ in hodieriuʒ diem contraducitur:qui dum nature consuetudinē volūt defendere:gratiam dei non verentur impugnare. Quid stolidi latrant:quid imperiti murmurat:An non licet deo quod vult facere.Eccè conceptionem dei genitricis sine macula purā veneratur ecclesia:ecce festum celebrat deuotiōe annua.et hoīes captiosi eā temeraria presumptione maculare laborant.Sancti et eruditiflimi viri p̃teriti et presetes vario scribēdi genere suis lucubrationibus conceptionē hanc macule originali nunq̄ sub ia cuisse predicant.et adhuc filij adam eam temere impugnant.Om̄es diuerfcoꝝ pene ordinū religiones puriffimā semp extitisse ꝯfitentur.credunt.et predicant.quos dānare velle tanquā errēt extreme dementie est Ecce viri seculares.religtofi.monachi de uoti atqʒ eruditi metro et profa oceptionē semper puriffimaʒ ce lebrant.et homines tepidi et sine eruditione quibus nomen phi nosse satis esse videtur.sanctitatem dei genitricis conmaculare nituntur.Multi inquā doctiflimi viri varia in eius defensionem sintagmata ediderunt.quis vnq̄ eruditꝰ contrariuʒ scripsit.Sed tu nomine quidē tuo indigne nicator.qui os tnuʒ in celum ponens contra puriffimā dei genitricem impie blasphemafti.nō sine graui id animaduerfione dei fecerisquippe qui non pietate sed impietate moueris ad fribendum Deniqʒ ftulte temeritati rue per viros eruditos vario fitili genere super abunde nouimus esse responsum.Meqʒ em̄ nostris armis.sed dei virtute abscedis confufus.nec errorē tuū damno.sed arrogantiam.sed temerita tem.sed p̃sumptionem.Scio em̄ de ꝯceptione virginis Marie hesitare non esse peccatū.quā deus voluit esse occultā.sed eam
-
+beatiffima v̓go 8 mr̄e.immo a spūsctō didicit.solert custodiuit Illa vagos discurfus vitare ꝯsueuerat.maria in domo solitaria manebat.In vtramqꝫ respicite.matres in matrem.virgines in virginem.Credite mihi non decet vestram honesteaz delectari in publico:non expedit virgines salutari in foro:quia reuerētiaʒ honestatis minuit:qui frequenter ad publicum vadit.Virgini tas cum verecunda fit:publicum fugit.Sine verecundia non est syncera virginitas:nec potest pura manere nimis publica Quod laucta mater anna filiam sua beatiflimā dei genitricē sine originali macula ocepit.Ca.vij.OPoniaʒ ad beatissime matris anne declaranda san citat? merita multū conducit:ꝙ dei genitriceʒ sine originalis reatus macula peperit.nequaq̄ a nobis tanti prerogatiua honoris silencio est transeunda Et quidē scilꝰ hanc puriffimaʒ conceptioneʒ in fignuʒ positā cui a multis vsqʒ in hodieriuʒ diem contraducitur:qui dum nature consuetudinē volūt defendere:gratiam dei non verentur impugnare. Quid stolidi latrant:quid imperiti murmurat:An non licet deo quod vult facere.Eccè conceptionem dei genitricis sine macula purā veneratur ecclesia:ecce festum celebrat deuotiōe annua.et hoīes captiosi eā temeraria presumptione maculare laborant.Sancti et eruditiflimi viri p̃teriti et presetes vario scribēdi genere suis lucubrationibus conceptionē hanc macule originali nunq̄ sub ia cuisse predicant.et adhuc filij adam eam temere impugnant.Om̄es diuerfcoꝝ pene ordinū religiones puriffimā semp extitisse ꝯfitentur.credunt.et predicant.quos dānare velle tanquā errēt extreme dementie est Ecce viri seculares.religtofi.monachi de uoti atqʒ eruditi metro et profa oceptionē semper puriffimaʒ ce lebrant.et homines tepidi et sine eruditione quibus nomen phi nosse satis esse videtur.sanctitatem dei genitricis conmaculare nituntur.Multi inquā doctiflimi viri varia in eius defensionem sintagmata ediderunt.quis vnq̄ eruditꝰ contrariuʒ scripsit.Sed tu nomine quidē tuo indigne nicator.qui os tnuʒ in celum ponens contra puriffimā dei genitricem impie blasphemafti.nō sine graui id animaduerfione dei fecerisquippe qui non pietate sed impietate moueris ad fribendum Deniqʒ ftulte temeritati rue per viros eruditos vario fitili genere super abunde nouimus esse responsum.Meqʒ em̄ nostris armis.sed dei virtute abscedis confufus.nec errorē tuū damno.sed arrogantiam.sed temerita tem.sed p̃sumptionem.Scio em̄ de ꝯceptione virginis Marie hesitare non esse peccatū.quā deus voluit esse occultā.sed eam
 [segment 15]
 inipugnare.et temerarie diffinire quod nescias. inauditi est sce-
 teris.Si ea que nescimus quo animo fiant in partem melioꝛem
@@ -593,20 +626,16 @@ nes sanctos illius offenditis.Armatis vos argumentis scolafti,
 cis et pietate nudi est.Quicquid pro defensione opinionis ve-
 stre adducitis.a timore dei alienum est.non enim dei honorem
 queritis.qui puritatem genitricis illius impugnatis Sʒ audite
-
 [segment 16]
 concilium meū. et mutate ꝓpositū vestrum. Redite aliquando ad vosmetipsos quia tempus est. et nolite opinionem incertam p̄sumptuose defendere. quam indiscussam sine peccato potestis pertransire. Si deum diligitis. si hiesum christum saluatorē oīm amatis.genitrici eius sanctissime tantam iniuriam facere. de qua nulli licet sanctissima sentire. Conceptionem eius semper purissimā credere.non necessitatis sed pietatis est. non credere humane tarditis. Non credēdo aūt impugnare. et opinioneꝫ contrariā velle defendere.non solum crimine non caret. sed etiā magne.temeritatis et stulticie est.Enimuero temeritas iure reprehenditur vbi pietas remūerať. Ne parū cuiqƺ videať esse peccatum.quod in deum et eius genitricem committitur.Qui autē dei filium diligit.os suum contra matris honorem nō aperit.pu¬ritati eius.nō detrahit.opinionē incertā pertinaciter non defēdit et quia vbi deuotio hūilium recipit p̄mium.p̄sumptio supboruꝫ īueniet tormentuꝫ.Digna em̄ dei mater fuisse creditur sine originali macula concipi.que illum erat virgo paritura.qui tocius deleret crimina mundi.Digna quoqƺ tali conceptiōe btā mater anna extitit.cuius inclita conuersatio deo gratissima fuit Nolo mireris dei genitricem preter nature consuetudinē.ab originali preseruatam crimine.quā sibi mansionē parauerat deus infusor gratie.Considera natam dei genitricem.et non miraberis sine macula conceptionem.Magna sunt que dicuntur.sed vera.sed sancta.sed genitricem dei decentia.cuius conceptionem preuenit gracia.et hinc miratur natura Miramur et nos quoniaꝫ fideliter credimus.Aduersarij aūt non credentes non mirant.sed cōfun duntur.Silipotes ista capere.crede.si non capis.noli discutere.si non vis peccare.Melius est enim de puritate beatissime dei genitricis cum reuerentia tacere.qƺ indigna loqui.Cura itaqƺ ea q̄ non potes intelligere.hūili silentio semp̄ honorare.
-<Paragraph>
-<Line>Onemadmodum beatissima ma¬</Line>
-<Line>ter anna filiā sua dulcissima dn̄o pn̄tauit in templo.</Line>
-</Paragraph>
-<Heading type="other">
-<Line><Emphasis type="colored">Ca.</Emphasis>viiij.</Line>
-</Heading>
-<Paragraph>
-<Line><Initial type="decorated-drop">I</Initial>N principio volūis regum legimus ꝙ anna vxor helchane samuel filiuꝫ suū que a dn̄o postulauerat post annos ablactatiōis ad templū deo seruituꝝ obtulit.Intantū vero grata deo extitit samuelis oblatione.vt eū nō folū in sacerdotē heli repudiato eligēt.sed etiaꝫ spū prophetie.et sapiētie impleret Quid fratres qđ nobis p samuelis oblato<Above>m</Above>a matre pn̄tatť.O quā grata extitit oīpotēti deo ista oblatio.in qua iam tunc preparabatur vnigenito dignissima mansio</Line>
-</Paragraph>
 
+Onemadmodum beatissima ma¬
+
+ter anna filiā sua dulcissima dn̄o pn̄tauit in templo.
+
+Ca.viiij.
+
+IN principio volūis regum legimus ꝙ anna vxor helchane samuel filiuꝫ suū que a dn̄o postulauerat post annos ablactatiōis ad templū deo seruituꝝ obtulit.Intantū vero grata deo extitit samuelis oblatione.vt eū nō folū in sacerdotē heli repudiato eligēt.sed etiaꝫ spū prophetie.et sapiētie impleret Quid fratres qđ nobis p samuelis oblatoma matre pn̄tatť.O quā grata extitit oīpotēti deo ista oblatio.in qua iam tunc preparabatur vnigenito dignissima mansio
 [segment 17]
 Elegerat eam deus ante mundi constitutionẽ et p̃elegerat eam.
 et quod sine tꝑe disposuit.hac presentatiõe adimplevit.Quãtaʒ
@@ -664,19 +693,15 @@ Illa magne
 Illa magna
 Illa magna
 I
-
 [segment 18]
 Quod diua mater anna in maximo apud deum et om̄es sanctos honore habeatur Cap̄. ix Redimus autē et absqꝫ vlla hesitatione tenemus diuā annā dei genitricis parentē singularis apud deū esse meriti et honoris.quo non sibi tantū sufficiens ad gloriā.sed nobis quoqꝫ idonea et potens fit ad subventionē.Nam si apl̓os ceterosqꝫ sanctos apud deum potentes esse confidimus.dei parētes potēssimos necesse est credamus.Anna em̄ sanctissima mulier intantum oīpotenti deo cōplacuit.vt genitricē vnigeniti sui ex ea nasci voluerit cuiꝰ matri nunqͣꝫ dedicasset vterū.nisi magne sanctitatis inuenisset meritū Dicit nanqꝫ scriptura.Spūssancius discipline effugiet fictum.nec habitabit in corꝑe subdito peccatis Nihil in beatissima ma tre anna fictum extitit.nihil quod deum potuisset offendere fuit sed erant om̄ia recta.munda et sancta.et habitationi spūssancti condigna.Merito igitur post filiā proxima deo creditur in gloria.que tantum placere potuit in hac vita.Non mihi stolidus disputator obijciat veteris testamenti sanctos minoris extitisse meriti ꝙͣ noui.cum tempus sanctitateꝫ nō tribuat.sed fidei grā Annam excipio.quaqꝫ non tam veteris ꝙͣ noui testamenti ama tricem agnosco Ipsa enim archam noui testamenti cōdidit.quā noueqꝫ mensibus in suo vtero portauit.Neqꝫ em̄ sanctitatē tempus minuit.quam dei specialis gratia cognedit.Tanta vero gra beatissimam annam preuenerat.vt similē virtute et sanctitate in israhel suo tempore non haberet.Congruum itaqꝫ esse videtur vt apud deum p̄ceteris valeat in gloria.que ante alios claruit in vita.Enimuero sicut dei filius matrem suam p̄cessat amor vbi exuberat virtus.non desinit affectus vbi continuatur dilectio non perit cognationis amor vbi meritis gl̓ia debetur.Lessat affectio carnalis.vbi nō est generatio carnis.Sed nū cessat amoꝛ vbi diligit.affectus vbi continuat̉ dilectio non perit cogna­tionis amor vbi meritus gl̓ia debetur.Essat fa teor in btīs affectio carnalis.cessat etiā generatio carnis.sed non cessat amoi cognatiōis.cū inter illos sit oībus cōmunis.Nemo em̄ vnqͣꝫ carnē suam odio habuit.Neqꝫ em̄ tam immitis est dei filius.Vt non diligat sāctos parentes suos.carnesuam visceras sua.Aut quomodo suos parentes nō diligeret.qui omnes san ctos et famulos suos amat.Dicit enim.Ego diligentes me diligo Quis deū supra parētes eius scd̓m carne̓ vnꝙͣ diligere po tuit.De sanguine eoꝝ sine macula incarnatus est.lacte pastus cura nutritus.Absit ergo vt putemus annam beatissimam dei
-
 [segment 19]
 filij auiam sine maximo honore esse in patria. que deo taz ꝓxima extitit in terra.Si dn̄s hiesus rex celi diligentes se diligit. yntes suos merito pre oībus amare credēdū est.nec possunt in celestia patria esse sine speciali gloria.quos oīpotens deus in terra tam insolita repleuerat gracia.Anna igit dei filio post matrem virginem credimus esse ꝓximā.et potentem pro miseris aduocata cui nihil rex celi denegat.sed in omnibus que pecierit faciez eius vt dilectiffime parentis honorat.Eam quoqꝫ trinitas tota dili¬git.eam chorus angelicꝰ colit.eā oēs celestis patrie ciues vt regine sue matrem honorabilē maxima reuerentia venerātur: nec immerito.Mam si regem diligunt.auiam eius iure venerantur Honor em qui paren tibus impenditur.filijs exhibetur.Minꝰ aūt regem amare conuncit. qui patrē et matrē totamqꝫ ꝑgeniē illius nō veneratur.Plus etiam dolere solem̄s de iniurijs pa- rentum nr̄oꝝ qͣꝫ de ꝓprijs.Quare hoc.misi ꝙ ꝯtumelia illis irrogata in nobis gemīat.Mon enĩ solos parentes sed et nos graui credimus iniuria notatos pari modo sicut ꝯtumeliam parentū nostrā credimus.sic honorē illis exhibitū reputamꝰ.Quicquid ergo honoris diue matri anne impendimus absqꝫ dubio deo ex¬hibitū credamus.Dicit enim nobis in euāgelio dn̄s.Quicquid vni ex minimis meis feceritis.mihi fecistis.Si om̄e quod mini-mis in christum credentibꝰ impendit sibi factū asserit.quātoma gis in illis id fieri credendū est.qui non modo minimi apud eum sed maximi et potētissimi sunt Non sūt vltimi apud dei filiū parents eius.non minimi sed maximi.non parui sed potentiffimi.Quicquid ergo venerationis illis impendimꝰ.duplicatū apud deū minime dubitemus.Etem si reuelatiōibus credēdū est.bea-tissima virgo cuidā deuoto apparnit.sibi qꝫ inter cetera dixit Si diligis me.honora matrē meā.et quicquid illi reuerentie impē-deris.mihi dupliciter gratū erit.Nunc ergo fratres si dei genitrice diligimꝰ.si ꝯplacere regine celi desideramꝰ.matrē eiꝰ ven-rabilem sedula deuotione honoremus.et pias in omni tribula-tione adiutrices ambas inueniemꝰ.Ecce angeli dei et oēs sancti annā venerant et diligūt.et nos ab honore eiꝰ muti filemꝰ.No-bis non illis qui iā exultant in patria.sctōꝝ intercessiones necef-sarie sūt.et ideo decet nos in eoꝝ veneratiōe semper esse deuotos Nos inquam qui adhuc viuimus in carne et peregrinamur a dn̄o.nos oportet illos superne patrie ciues precipua deuotione colere.vt eoꝝ suffragijs adiuti.ad gaudia que inhabitāt possi-mus peruenire Inter oēs aūt sanctos dei genitricē preeminere credimus et annā venerabilē eiꝰ parentē.quaꝝ si deuoti et culto-res fuerimus.nulla aduersa nobis nocebunt.
-
 [segment 20]
 Quod beata mater anna potens sit apud deum deuote se inuocantibus subuenire.
 Cap̄.x.
 Ancta et beatissima dei parentis mater cuʒ sit in regno celorum dei filio ac genitrici eius meritis et charitate q̃ proxima.non est dubitandum quin potens sit nostris miserijs impetrare auxilium.si tamen deuotio mentis nostre in eam sedulo feratur Mon potest nō esse pyssima que matrem misericordie in suo vtero portauit.Quam pia cꝫ ꝑ otens.qͣ prompta sit ad hūanas miserias repelēdas.tot pene sunt testes.quot eiꝰ deuoti reperiunt cultores.Potens enim est in palacio summi imperatoris.quaʒ deus supplicantem exaudit pro sua reuerentia.et quicquid postulauerit concedit sine mora Ille de auctoritate et potētia eius dubitet.qui nescit eā genuisse regina angelorum.Ille de pietate beatissime matris hesitet.qui saluatorē mundi de sanguine eiꝰ nobilissimo processisse ignorat.
 Potens est et deo q̃ proxima.pia est nostrisqƺ necessitatiꝰ inclina nata hominibus beneficia solet concedere.vt memoriae merita multa honore discant iugiter habere.Confidēter itaqƺ ad piā patronā accedite.sedulis eas precibus pulsate.quia potēs est vobis im petrare veniam potens est vos perducere ad eternā vitā Nihil deestei quod necessitatibus potest ꝓficere.nihil non hę quod nos potest iuuare.cui semꝑ adest facultas vt possit.pietas vt velit.Mihil ergo dubitemꝰ fratres.nihil hesitemus.quonia nobis aderūt certa suffragia.si nō desit fides firma.De qua cūqƺ tribulatioe ad eā clamauerimꝰ promptum inueniemꝰ auxilium: si nomini eius deuotum inpendamus officium.Cupitis scire fra tres quid vobis prestare valeat hec sanctissima mulier.Audite Anna tristicīa fugat.carnis libidine exterminat.pauptatē sub leuat.infirmitates curat.aduersa mitigat.contraria sedat.vicia eliminat.virtutes plantat.ingeniu illuminat.affectum purgat crimina relaxat.Quisquis igitur in bonis studijs fortunā habes cōtrariā.quisquis tēpestatē huiꝰ peregrinatiōis sentis aduersaʒ sanctam annam deuotis precibus inuoca sedulis.matrem orati onibus pulsa.et inuenies consolationis inopinate remedia Ipa enim est miseris tutum refugium.egris certum remedium.deso latis indeficiens solacium.Quid dubitas eam accedere.q̄ et potens et voluntaria est te iuuare.Mihil a te terrenū requiritur non aurum.nō argentum.sed cor tantum in deum et sanctam annam deuotiōe porrectū.Quid ergo formidas.Quid fluctua:
-
 [segment 21]
 Crede mihi non est tribulatio.nō angustia.non necessitas q̄ ante
 preces anne possit subsistere Quicqͥd te grauat.quicqͥd molestat
@@ -690,7 +715,7 @@ preces votine concurrent.Beatus homo qui annā continus de¬
 uotione ac sedulis p̄cibus habueris aduocatam.
 ¶Quod sancta mater Anna ut pijs-
 sima aduocata in maxīo a nobis honore fit habēda Ca.xi
-<Emphasis type="colored">V</Emphasis>anto honore quātaqꝫ reuerētia beatissima anna sit
+Vanto honore quātaqꝫ reuerētia beatissima anna sit
 a nobis honoranda ex iam dictis sufficienter perpen¬
 dimus.quādo in celesti patria ab ipso,summo deo et
 oībus sanctis.tātis et quidē ineffabilibꝰ p̄conijs lau¬
@@ -701,17 +726,17 @@ eā vt piam patronā inuocare et honorare oportet.Enimuero cū
 maxima reuerētia a nobis colenda est.ꝑ cuiꝰ patrociniū oīa md̓i
 labētis mala securi possumꝰ euadē.Et vere dignis sꝑ venerāda
 laudibus mr̄ qͣ redēptiōis nr̄e ortū suo clausū sub pectore porta-
-uit.<Emphasis type="colored">M</Emphasis>erito inquā honoranda est.q̄ nobis dei genitricē sine ma¬
+uit.Merito inquā honoranda est.q̄ nobis dei genitricē sine ma¬
 cula peꝑit.ꝑ quā dei filiꝰ md̓o saluator aduenit.Sicut ergo bea
 tissimā dei parentē veneramus et colimꝰ ꝙ nobis redēptoꝛē v̓go
 immaculata peꝑit.ita et annā honoꝛare nos decet ꝙ matrē nob̓
-saluatoꝛis sine culpa effudit.nisi matreꝫ habere<Illegible reason="blot" extent="ca. 1 char"/>mus.vnde filia
+saluatoꝛis sine culpa effudit.nisi matreꝫ haberemus.vnde filia
 prouenisset.nemo dubitet.nemo fluctuet.nemo cogitationibus
 iniquis estuet.quia nisi an̄a fuisset sanctissima.in matrē genitri,
 cis dei non fuisset electa.Decebat aūt eam qͣ dei matrē erat pa-
 tura om̄i sanctitate fulgore decoratā.qꝛ genitrix non cuiuslibet
 v̓ginis erat futura.sed illius qua inter creaturas dei puras hu¬
-manas purioꝛ sanctioꝛ ve nulla potuisset inneniri.<Emphasis type="colored">E</Emphasis>rat ergo bea
+manas purioꝛ sanctioꝛ ve nulla potuisset inneniri.Erat ergo bea
 tissima an̄a ad hoc officiuꝫ digna ex dei dono.erat digna ex vite
 merito.erat etiā digna ex legis testimonio.Digna inquā fuit dei
 genitricē parere.q̄ deū suꝑ oīa nouerat aāre.q̄ legē eiꝰ sine off:siōe
@@ -743,53 +768,69 @@ Si annã aduocata quis habuerit:om̃es in celo sanctos patronos
 
 habebit.Diligamꝰ ergo matrẽ fratres charissimi: q̃ nos potest
 
-introducere ad conspectũ dei Deo em̃ et grata et ꝓxima est.</li>
-<heading type="main">
- <line>De festo et commemoratione san¬</Line>
- <Line>ctissime anne a nobis sꝑ in honore habendis . ¶Ca.xij.</Line>
-</heading>
-<Paragraph>
- <Line><Initial type="decorated-drop">D</Initial>Eniqʒ si annã felicissimã dei genitricis parentẽ dili</Line>
- <Line>gimus :si eam honore condigno prosequi volumus</Line>
- <Line>oportet vt festũ eius honorabile quod est septimo</Line>
- <Line>kaleđas augusti annua deuotione celebremꝰ Neqʒ</Line>
- <Line>hoc nobis pro deuotione nostra credamꝰ sufficere.nisi ꝯmemora¬</Line>
- <Line>tione eiꝰ tanqͣ patrone singularissime.sepiꝰ curremꝰ frequẽtare</Line>
- <Line>O siaduersarius nobis nouitatẽ huiꝰ festi falso voluerit obijc̃
+introducere ad conspectũ dei Deo em̃ et grata et ꝓxima est.
 
+De festo et commemoratione san¬
+
+ctissime anne a nobis sꝑ in honore habendis . ¶Ca.xij.
+
+DEniqʒ si annã felicissimã dei genitricis parentẽ dili
+
+gimus :si eam honore condigno prosequi volumus
+
+oportet vt festũ eius honorabile quod est septimo
+
+kaleđas augusti annua deuotione celebremꝰ Neqʒ
+
+hoc nobis pro deuotione nostra credamꝰ sufficere.nisi ꝯmemora¬
+
+tione eiꝰ tanqͣ patrone singularissime.sepiꝰ curremꝰ frequẽtare
+
+O siaduersarius nobis nouitatẽ huiꝰ festi falso voluerit obijc̃
 [segment 22]
-respondeamꝰ.Festa noua nequaꝙ introducumꝰ.sed antiqua re¬</Line>
- <Line>nouamus.Et de hoc satis me in superioribus credo disputasse.</Line>
- <Line>quibus satisfiffactũ deuotis anne cultoribꝰ nõ dubito.Porro cu¬</Line>
- <Line>riosis et elatꝭ velle satisfacere supfluũ est.quippe quos pietas nõ</Line>
- <Line>mouet.deuotio nõ excitat.charitas nõ inflãmat.Credant itaqʒ</Line>
- <Line>beate anne deuoti cultores et absqʒ vlla hesitatione teneãt.festuʒ</Line>
- <Line>eius antiquũ effe.et a veteribꝰ cum maxima reuerentia celeb<Emphasis type="colored">r</Emphasis>a<Illegible reason="blot" extent="ca.1 char"/>i
+respondeamꝰ.Festa noua nequaꝙ introducumꝰ.sed antiqua re¬
 
-consuetũ.sicut decuit sanctiffimã dei parentis genitricem Nam</Line>
- <Line>in iudea et regionibus transmarinis a fidelibus christianis com¬</Line>
- <Line>memoratio eius erat celeberrima.quousqʒ tadẽ p̃occupata ab</Line>
- <Line>infidelibus terra longo tꝑe fuit mihi neglecta.In europe auteʒ</Line>
- <Line>regionibus festum eiꝰ nõ erat ita celebrę ꝓpterea qđ multi ex his</Line>
- <Line>ad fidẽ tardius ꝑuenerunt.Certis tamen in locis europe solen¬</Line>
- <Line>nis anne semp̄ fuit memoria.que per fideles de palestina venie¬</Line>
- <Line>tes fuerat instituta.Probat hoc in diuersis ecclesijs in honoreʒ</Line>
- <Line>eius antiquitus erecta altaria.ꝓbant etia hoc vetustissima ora¬
+nouamus.Et de hoc satis me in superioribus credo disputasse.
+
+quibus satisfiffactũ deuotis anne cultoribꝰ nõ dubito.Porro cu¬
+
+riosis et elatꝭ velle satisfacere supfluũ est.quippe quos pietas nõ
+
+mouet.deuotio nõ excitat.charitas nõ inflãmat.Credant itaqʒ
+
+beate anne deuoti cultores et absqʒ vlla hesitatione teneãt.festuʒ
+
+eius antiquũ effe.et a veteribꝰ cum maxima reuerentia celebrai
+
+consuetũ.sicut decuit sanctiffimã dei parentis genitricem Nam
+
+in iudea et regionibus transmarinis a fidelibus christianis com¬
+
+memoratio eius erat celeberrima.quousqʒ tadẽ p̃occupata ab
+
+infidelibus terra longo tꝑe fuit mihi neglecta.In europe auteʒ
+
+regionibus festum eiꝰ nõ erat ita celebrę ꝓpterea qđ multi ex his
+
+ad fidẽ tardius ꝑuenerunt.Certis tamen in locis europe solen¬
+
+nis anne semp̄ fuit memoria.que per fideles de palestina venie¬
+
+tes fuerat instituta.Probat hoc in diuersis ecclesijs in honoreʒ
+
+eius antiquitus erecta altaria.ꝓbant etia hoc vetustissima ora¬
 
 toria.et duiersa patrũ de laudibꝰ anne sintagmata.Sed quid an¬
 
 tiquitatẽ huiꝰ fefti conamur defendere.quã nemo bonꝰ et deutꝰ
 
-volet impugnare.Contra rebulos nõ est nobis in pñtiarũ dispu<Illegible reason="blot" extent="ca.1 char"/></Line>
-</Paragraph>
+volet impugnare.Contra rebulos nõ est nobis in pñtiarũ dispu
 
 tare.quos ad cultū sanctissime anne nunqꝫ poterimꝰ v̓bis ꝑsua¬dere.Siue ergo noua ab his ꝯmemoratio tanta estimeť siue ano¬tiqua parū refert.illud tm̄ nobis elabrandū est vt a fidelibus etdeuotis cristianis cū oī reuerētia celebret̉. ¶Mā si festa alioꝝ san¬ctoꝝ christi anna deuotiōe ꝑcolimꝰ.quare festū anne deo dilectissimę nō celebremꝰ.Meqꝫ em̄ ceteris scitis meritꝭ et gl̓ia inferiorest.qͣ tante dignitatis adhuc mortalis extitit.vt matrē eiꝰ pare¬ret.qͥ immortalis sꝑ in celo viuit Et sicut specialissimis patronisnostris quottidie ꝯmemonationē aliquā facimꝰ.ita quoqꝫ de sctāanna quēadmodū deuotio recta suggesserit om̄i die laudis aliqddeo offeramꝰ.Et si deuoti cultores ad honorē eius sꝑ debeant esseparati.tamē in natali eius p̄cipue dobent esse solliciti.qn̄ comemo¬ratatio eius nō solū in terris agit̉.sed etiā in celis votiuis lantdibus sanctoꝝ honorat̉.Deuotioni etiā ꝯgruit et decet pietatē.Vt sicut dies sabbati ad honorē sctīssime dei geniticis a clero etpopulo missis et or̄onibus colit̉.ita ꝯmemoratio matris eius adaminus in hebdomada semel celebret̉.Rei siquidē familiaris sollicitudine adeuotiōc cito distrahimur.ad quam necesse est vt velsemel in hebdomada reparemur.ne si honorē venerabilis Annediucius differimꝰ.eiꝰ patrociniū tepidi amittamꝰ.Ad hanc memoriam hebdomadā celebrandā t̓cia feria satꝭ videt̉ ꝯgrua.in qͣ etnata fuisse legit̉ et mortua.Deniqꝫ in multis locis ꝯsuetudo laudabilis obtinuit.vt nō minori reuerētia ī ꝯmemoriōeꝫ sctē annecteria tercia feria celebret̉.qͣꝫ sabbati dies in memoria dei geniticis iceccłia fideliū agit̉.Uidimꝰ em̄ apud sicambros et grunes terciaperemp in honore beate anne missas decantari.lūiaria incēdioblatiōes fieri.pauꝑes vberiꝰ recreari.Mouimus etiā apud il¬los quosdam beate deuotos cultores qͥ ob honorem hiesu.Marie et anne om̄i feria tercia tres in altari eius incendebantcandelas.tres speciales faciebant elemosinas.totidēqꝫ veniasaccipiebant siue disciplinas.Orgine auctōe duxit ista ꝯsuetudo exmiraculo sctēanne qd̓ ꝯtigit in pannonia.vbi iuuenē desolatū atꝫpauperrimū ad magnos honores diniciasqꝫ promouit.Si quishuius rei noticiā habere desiderat.dictum miraeulum legat.qđintercultores btē anne adeo nūc vulgatū ē vt neminē latere poslit Meqꝫ solū in tercia feria.sed oī die quātū vniuscuiusqꝫ reqͥritdeuotion hec ita fieri a multis agnouimꝰ.Sacerdotes ergo dn̄iqͦcupiūt sctīssime matris deuoti cultores existē.p̄ eiꝰ ꝯmemoratiōe ad mīꝰ semel studeāt ī hebdomada deuote celebrare.Qui¬cūqꝫ eā sibi deuotionē in ꝯsuetudine assūpserit.crediꝰ q̇ piā ad¬uocatis in oī necc̄itate annā habebit.Nullꝰ itaqꝫ a laude tāte patrōe sileat.nullꝰ a deuotiōe in eā torpeat,nullꝰ ꝯmemonatione eiꝰEij
-
 [segment 23]
 intermittat Anna etem̄ grā .siue donatio interp̄tat̉. Nomē tāte parēti cōueniēs. qd̓ nō casu nascenti credīꝰ impositū. sꝫ a deo preordinatū. Recte namqꝫ interp̄tat̉ grā. qͣ nr̄eꝫ grē fuit paritura. Recte grā. ꝑ cuiꝰ intercessionē grā dei fidelibꝰ impetrat̉. Interpretat̉ etiā donās siue donatio. qꝛ eos qͦs in suo honore deuotos reperit. multꝭ grē donis locupletes facit. Recte donatio ꝑ quā peccatoꝝ donat̉ remissio. Quicūqꝫ gͦ pondere pctōꝝ p̄mit̉. quicunqꝫ tentationū iaculis pulsat̉. ad finū matris anne fidenter ꝯfugiat. p̄ces et mūera deuotiōis offerat. et nil erit qd̓ ꝯtra eū in malū p̄ualeat Anna em̄ grā d̓r. scđm nomē suū postulāti grāꝫ impetrare nō desinit. si deuotā fidē inueniter Dēs itaqꝫ fideles festa factissime mr̄is colite. in elꝰ ꝯmemoratione exultate. sedulas quoqꝫ p̄ces adeā fundite. qꝛ potēs ē vos ab oī tribulatione liberare. Jubilate dn̄o dco nr̄o oēs qͥ sctāꝫ annā diligitis. laudate nomē dn̄i omnes fideles populi. qui matre dei geniticis et v̓ginis amatis. Annā vobis in patronā assumite. eamqꝫ deuotis or̄onibꝰ honorate. et fidelem semꝑ aduocatam inuenietis.
 ¶ Quibus exercitijs et deuotionibꝰ beatissimā matre annā debeamus honorare. ¶ Cap̄. xiij.
-<Initial type="decorated-drop">O</Initial>rantū beatissima mater a nia suis meritis apud oīpotētē deū valeat audiuimꝰ. quāto honore digna sit scimus. restat nūc. vt quēadmoduꝫ nobis hōnorada sit breuiter dicāꝰ. Et quāuis ꝓpter varieta teꝫ deuotiōis de mō veneratiōis nō possit a nobis poni regula generalis. conabimur tn̄ quātū possumꝰ ꝑsuadere omnibus vt nullꝰ si tante matris laude per ignorantiam se possit excusare Et quidē imprimis unicuiqꝫ modū laudandi deuotio constituet. qͣ quāto maior fuerit. tanto modus vtilior erit. Quemadmoduꝫ ceteros solemus venerari sanctos diuerfis cerimonias. istā quoqꝫ sed copiosius honoramus. Habes modū. applica desiderium. Si forte breuis nimium tibi videor. latiorem accipe modum Reges principes. et ecclesiaꝝ pontifices. si beatam annā honoremanet in eius memoriam capellas et oratoria erigant. p̄bendas instituant cenobia fundant. O īones quoqꝫ ad eā sedulas faciant. memoria celebrent. pauperes et egenos ob eius reuerentiaꝫ pascant. Quo studio sanctos venerantur ceteros fidespeciales. non inferiori diuam maureꝫ annam sed obundantiori nouerint honorandam Ip̄i quoqꝫ fidelium presules eundeꝫ veneratiōis modū habeāt atqꝫ festum sanctissime matris anne in suis dyocesis celebrari ab oībus instituant Indulgētias ad anne cultū fidelibus conferat fraternitates ad eius honorem confirmēt. or̄onū libamina eius noī
-
+Orantū beatissima mater a nia suis meritis apud oīpotētē deū valeat audiuimꝰ. quāto honore digna sit scimus. restat nūc. vt quēadmoduꝫ nobis hōnorada sit breuiter dicāꝰ. Et quāuis ꝓpter varieta teꝫ deuotiōis de mō veneratiōis nō possit a nobis poni regula generalis. conabimur tn̄ quātū possumꝰ ꝑsuadere omnibus vt nullꝰ si tante matris laude per ignorantiam se possit excusare Et quidē imprimis unicuiqꝫ modū laudandi deuotio constituet. qͣ quāto maior fuerit. tanto modus vtilior erit. Quemadmoduꝫ ceteros solemus venerari sanctos diuerfis cerimonias. istā quoqꝫ sed copiosius honoramus. Habes modū. applica desiderium. Si forte breuis nimium tibi videor. latiorem accipe modum Reges principes. et ecclesiaꝝ pontifices. si beatam annā honoremanet in eius memoriam capellas et oratoria erigant. p̄bendas instituant cenobia fundant. O īones quoqꝫ ad eā sedulas faciant. memoria celebrent. pauperes et egenos ob eius reuerentiaꝫ pascant. Quo studio sanctos venerantur ceteros fidespeciales. non inferiori diuam maureꝫ annam sed obundantiori nouerint honorandam Ip̄i quoqꝫ fidelium presules eundeꝫ veneratiōis modū habeāt atqꝫ festum sanctissime matris anne in suis dyocesis celebrari ab oībus instituant Indulgētias ad anne cultū fidelibus conferat fraternitates ad eius honorem confirmēt. or̄onū libamina eius noī
 [segment 24]
 mpendant Abbates quoqꝫ et ceteri monachoꝝ rectores iu suis
 cenobijs memoriā anne deuote celebrent.capellas et altaria con-
@@ -835,18 +876,16 @@ anna.ex qua sine macula caro tua ꝓcessit v̓ginea amen.
 dr reuelasse.Si cui nec ista placet.faciat ꝓ sua deuotione or̄onem
 oliā beatissime matris anne honoribꝰ ꝯgruā.put melius potu¬
 Cij
-
 [segment 25]
-erit Sũt et alia sãcte exercitatiõis plura studia q̃ in vniuscuiusqꝫ arbitrio et deuotiõe sūt posita.Semp mens deuota inueniet: quo sanctissimā anna debitis laudibus honoret.In ieiunijs et lachri¬ mis.in elemosinis et oꝛomibus.in venijs et disciplinis.in carmine et lectionibus.a nobis est honorada felicissima mater.Sʒ offen¬ dit nō mediocriter ꝙ nullā de sancta matre cōgruentē inue¬ nimus historiā.que honori et festo eiꝰ p̄ oīa cōueniat.Varia enim est et nō satis.vt multis videť.elegās historia q̃ a multis diuer¬ simode iā in vsu habetur.transeo ꝙ tantis meritis minus digna.et in plerisqꝫ locis videat̉ apocripha Neqꝫ vna tantū sed plures inueninuntur.p̄ut vniciuiqꝫ visũ est addentibus q̃ minùs sunt ap¬ probata.Quid dicam de misse officio qd̓ simili varietate in multl̓ ꝯfusum cernimus.Canrat̉ a plerisqꝫ officiū qd̓ quidaꝫ deuotariꝰ mutatis sensibus v̓boꝝ sed manēte melodia de officio btē marie sabbatino elicuit.qd̓ deuotiõi minus videt̉ cōducere.dū audito¬ res melodie sil̓itudine decepti nō de sãcta anna sed de dei genitrice putant celebrari.Si placet materia.mutet̉ saltē melodia.Possēt tn̄ hec oīa facile emēdari.si alicuius pōtificis auctoritas interue¬ niret.qua freti eruditi in his viri historia et officium lēsu et melo¬ dia regulatum et scripturis approbatum componerent<Gap reason="damaged" extent="ca. 2-3 letters"/>cultores multipliciter in hac vita parit̓ et in futura remunerat Capi.xiiij</Line>
-<Paragraph>
-<Initial type="decorated-drop">S</Initial>Crebra miraculoꝝ exhibitio reuerentiā sanctorũ meretur.beata anna maximo honore dignissima est. que deuotis suis cultoribus tot ac tāta vn̄ficia quo¬ tidie impendit.vt nemo sit qui om̃ia possit enarare Scimus equidē multa et noua et antiqua sancte anne miracula. sed nō est nostri ꝓpositi his iā animū intēdere.q̃ in dubiū a multis agnouimus vocari.nō quod falsitatis aliquid in se contineant sꝫ qd̓ moderni hoīes qui sibi docti videntur pleriqꝫ miraculis non credant sed detrahant Nolumus ergo dare occasionē detrahēdi.neqꝫ in suspitionē pn̄tem exponere tractatū.ne dicerēt non recta nos scribere sed apocripha.Nemo enim intelligit.nemo credit.nemo capit quāta deus amatoribus sãcte anne quottidie bn̄ficia ꝑferat nisi quē deuota experiētia informat.Scimus aut̉ per inuo¬ cationē sctē anne multos viros potētes eruditos nobiles et igno¬ biles.vgines et mulieres.iuuenes.et senes.a maximis tribulati¬ onibus sepe liberatos.a periculis ereptos.in necessitatibus mi¬ rabiliter adiutos.Multos etiā vtriuisqꝫ sexus hoīes religiosos</Line>
-<Paragraph>
-<Initial type="decorated-drop">S</Initial>erit Sũt et aliasacte exercitatiõis plura study q̃ in vniuscuiusqʒ arbitrio et deuotiōe sũt posita.Semp mens deuota iunieniet: quo sanctissimā anna debitis laudit honoret.In ieunijs et lachrimis.in elemosisinis et oꝛomibus.venijs et disciplinis.in carmine et lectionibuz nobis est honorada felicissima maternobis est honora deuotam mater.Sʒ offendit non mediocriter ꝙnullā de sancta matre cōgruentemue nimus historia.quae honori et festo eiꝰ p̄ oiā cōueniat.Varia enimest et no satis.vt multis videt̉.elegas historia q̇ a multis diuersimode ia in vsu habetur.transeop̄ tantis meritis minus dignat.et in plerisqʒ locis videat̉ apocrifha Neqʒ vna tantū sed pluresinueninuntur.p̄vncicuiqʒ visū est addentibus qi minùs suntap probata.Quid dicam demisse officio qđ simili varitate in multl̓ ꝑfusum cernimus.Canrati a plerisqʒ officiū qđ quidaꝫ deuotiꝰmutatis sensibus vboꝝ sed manete melodia de officio bte mariesabbatino elicuit.qđ deuotiõi minus videť cōducere.dũ auditoresmelodie sil̓itudine decepti non de sãcta anna sed dei genitriceputant celebrari.Siplacet materia.mutet̃ saltē melodia.Possẽttñ hec oiā facile emēdari.si alicuius pōtifcis auctoritas interueniret.quafreti eruditi in his virihistoria et officium lēsu et melodiarregulatum et scripturis approbatum componerentscultores multipliciter in hac vitaparit̉ et infutura remuneratCapi.xiiij</Line>
-<Paragraph>
-<Initial type="decorated-drop">S</Initial>Crebra miraculos exhibitio reuerentiam sanctorũmeretur.beata anmaximohonore dignissima est. que deuotissuis cultoribus totac tantaquo tidie impendivt nemosit qui omnia possit enarareScimus equidemulta et noua et antiquasancteannamiracula. sed no estnostri ꝓpositisibianimaintenderq̇ in dubiu amultisagnouimus vocarinõ quod falsitatis aliquidin se contineant sꝫqđ moderni hoiesqui sibi doctividentupleriqʒ miraculis noncredantsed detrahant Nolumusergo dare occasionemdetraheindneqʒ insuspitionepnitem exponertratcū.ne diceretnon rectanos scribere sed apocriphaneo enim intelligitenomecredit.nocomcapituquanta deusamatoribus sãcteanne quottidienbnficia ꝑferat nisi quēdeuota experiētiainformat.Scuminaut̉ per inuocationemscitanne multosviropotenreseruditosnobiles et ignobilesmulieres.iuenes.et senestaxibizsepe liberatos.a perilis ereptoin necessitatibusmirabiliteradiutos.Multosetia vtriuiszsexushoiesreligios</Line>
-<Paragraph>
-<Initial type="decorated-drop">S</Initial>erit Sũta aliasacte exercitiōis plura study q̇ in vniuscuiusq3 arbitrio et deuotiāsũt posita.Sempmens deuota iunieniet: quo sanctissimā anna debitus laudit honoret.In ieunijset lachrimis.in elemosinis et oꝛomibuvenijs et disciplinis.carmine et lectionibuz nobisin felicissima mater.
+erit Sũt et alia sãcte exercitatiõis plura studia q̃ in vniuscuiusqꝫ arbitrio et deuotiõe sūt posita.Semp mens deuota inueniet: quo sanctissimā anna debitis laudibus honoret.In ieiunijs et lachri¬ mis.in elemosinis et oꝛomibus.in venijs et disciplinis.in carmine et lectionibus.a nobis est honorada felicissima mater.Sʒ offen¬ dit nō mediocriter ꝙ nullā de sancta matre cōgruentē inue¬ nimus historiā.que honori et festo eiꝰ p̄ oīa cōueniat.Varia enim est et nō satis.vt multis videť.elegās historia q̃ a multis diuer¬ simode iā in vsu habetur.transeo ꝙ tantis meritis minus digna.et in plerisqꝫ locis videat̉ apocripha Neqꝫ vna tantū sed plures inueninuntur.p̄ut vniciuiqꝫ visũ est addentibus q̃ minùs sunt ap¬ probata.Quid dicam de misse officio qd̓ simili varietate in multl̓ ꝯfusum cernimus.Canrat̉ a plerisqꝫ officiū qd̓ quidaꝫ deuotariꝰ mutatis sensibus v̓boꝝ sed manēte melodia de officio btē marie sabbatino elicuit.qd̓ deuotiõi minus videt̉ cōducere.dū audito¬ res melodie sil̓itudine decepti nō de sãcta anna sed de dei genitrice putant celebrari.Si placet materia.mutet̉ saltē melodia.Possēt tn̄ hec oīa facile emēdari.si alicuius pōtificis auctoritas interue¬ niret.qua freti eruditi in his viri historia et officium lēsu et melo¬ dia regulatum et scripturis approbatum componerentcultores multipliciter in hac vita parit̓ et in futura remunerat Capi.xiiij
 
+SCrebra miraculoꝝ exhibitio reuerentiā sanctorũ meretur.beata anna maximo honore dignissima est. que deuotis suis cultoribus tot ac tāta vn̄ficia quo¬ tidie impendit.vt nemo sit qui om̃ia possit enarare Scimus equidē multa et noua et antiqua sancte anne miracula. sed nō est nostri ꝓpositi his iā animū intēdere.q̃ in dubiū a multis agnouimus vocari.nō quod falsitatis aliquid in se contineant sꝫ qd̓ moderni hoīes qui sibi docti videntur pleriqꝫ miraculis non credant sed detrahant Nolumus ergo dare occasionē detrahēdi.neqꝫ in suspitionē pn̄tem exponere tractatū.ne dicerēt non recta nos scribere sed apocripha.Nemo enim intelligit.nemo credit.nemo capit quāta deus amatoribus sãcte anne quottidie bn̄ficia ꝑferat nisi quē deuota experiētia informat.Scimus aut̉ per inuo¬ cationē sctē anne multos viros potētes eruditos nobiles et igno¬ biles.vgines et mulieres.iuuenes.et senes.a maximis tribulati¬ onibus sepe liberatos.a periculis ereptos.in necessitatibus mi¬ rabiliter adiutos.Multos etiā vtriuisqꝫ sexus hoīes religiosos
+
+Serit Sũt et aliasacte exercitatiõis plura study q̃ in vniuscuiusqʒ arbitrio et deuotiōe sũt posita.Semp mens deuota iunieniet: quo sanctissimā anna debitis laudit honoret.In ieunijs et lachrimis.in elemosisinis et oꝛomibus.venijs et disciplinis.in carmine et lectionibuz nobis est honorada felicissima maternobis est honora deuotam mater.Sʒ offendit non mediocriter ꝙnullā de sancta matre cōgruentemue nimus historia.quae honori et festo eiꝰ p̄ oiā cōueniat.Varia enimest et no satis.vt multis videt̉.elegas historia q̇ a multis diuersimode ia in vsu habetur.transeop̄ tantis meritis minus dignat.et in plerisqʒ locis videat̉ apocrifha Neqʒ vna tantū sed pluresinueninuntur.p̄vncicuiqʒ visū est addentibus qi minùs suntap probata.Quid dicam demisse officio qđ simili varitate in multl̓ ꝑfusum cernimus.Canrati a plerisqʒ officiū qđ quidaꝫ deuotiꝰmutatis sensibus vboꝝ sed manete melodia de officio bte mariesabbatino elicuit.qđ deuotiõi minus videť cōducere.dũ auditoresmelodie sil̓itudine decepti non de sãcta anna sed dei genitriceputant celebrari.Siplacet materia.mutet̃ saltē melodia.Possẽttñ hec oiā facile emēdari.si alicuius pōtifcis auctoritas interueniret.quafreti eruditi in his virihistoria et officium lēsu et melodiarregulatum et scripturis approbatum componerentscultores multipliciter in hac vitaparit̉ et infutura remuneratCapi.xiiij
+
+SCrebra miraculos exhibitio reuerentiam sanctorũmeretur.beata anmaximohonore dignissima est. que deuotissuis cultoribus totac tantaquo tidie impendivt nemosit qui omnia possit enarareScimus equidemulta et noua et antiquasancteannamiracula. sed no estnostri ꝓpositisibianimaintenderq̇ in dubiu amultisagnouimus vocarinõ quod falsitatis aliquidin se contineant sꝫqđ moderni hoiesqui sibi doctividentupleriqʒ miraculis noncredantsed detrahant Nolumusergo dare occasionemdetraheindneqʒ insuspitionepnitem exponertratcū.ne diceretnon rectanos scribere sed apocriphaneo enim intelligitenomecredit.nocomcapituquanta deusamatoribus sãcteanne quottidienbnficia ꝑferat nisi quēdeuota experiētiainformat.Scuminaut̉ per inuocationemscitanne multosviropotenreseruditosnobiles et ignobilesmulieres.iuenes.et senestaxibizsepe liberatos.a perilis ereptoin necessitatibusmirabiliteradiutos.Multosetia vtriuiszsexushoiesreligios
+
+Serit Sũta aliasacte exercitiōis plura study q̇ in vniuscuiusq3 arbitrio et deuotiāsũt posita.Sempmens deuota iunieniet: quo sanctissimā anna debitus laudit honoret.In ieunijset lachrimis.in elemosinis et oꝛomibuvenijs et disciplinis.carmine et lectionibuz nobisin felicissima mater.
 [segment 26]
 et seculares a grauissimis tentationibus carnis et spūs meritis
 anne multociens cōperimꝰ liberatos. alios in egestate et pauꝑ-
@@ -887,26 +926,27 @@ De om̄ibus vero que in genere ꝯmemorando dūtaxat ꝑstrinxīꝰ
 exempla specialiter facta in promptu habemꝰ quibꝰ nō incerta
 scribere sed facta in veritate possemꝰ enarrare Verū nō est nr̄i
 xpositi historiā texere sed laudes diue matris anne quanta po-
-
 [segment 27]
 terimus simplicitate declarare Neqꝫ em̄ ꝓpter miracula colēda dixerim. sed in deū pietatē. Tot ac tanta de beata nr̄e anna mihi innotuere miracula. vt si oīa vellem scribere. cogeret hunc tra ctatum nimiū ampliare. Dīm miraculoꝝ maximū est: si meritis eius cōpunctioneꝫ veniāqꝫ peccatoꝝ nostroꝛū mereamur accipē si malam consuetudinem vincere: si ad eternam vitam peruenire In hunc finem nobis et non alium colenda est.
-<Heading type="sub">
-<Emphasis type="colored">Capi.xv</Emphasis>
-De fraternitate beatiffime matris</Line>
-</Heading>
-onne qͣꝫ vtilis et necc̃aria sit maxīe nr̄is temporibꝰ.</Line>
-Dia nouissimis his diebus refrigescente charitate</Line>
-multoꝝ abundat iniquitas: necessariū nobis valde ē fratres mei: vt sicut pene quottidie peccando la bimur: sic quoqꝫ per crebꝛa sancte exercitiōis flu dia in bona voluntate om̄i die renouemur Nulla em̄ tam sancta vnqͣꝫ fuit institutio moꝛbꝰ hūianis: que cū tꝑe a p̄mitiuo feruore nō tepuerit. Sic oēs religionū ordines successu tꝑis deficiētes a p̄ma sui institutione recesserūt. qui nisi maioꝝ industria. ad semi tas vite regularis sepius fuerint reformati: sꝑ in deformitate sua ꝑmanerēt. In christianis quoqꝫ sil̓e agit̉. qͥ hodie a p̄mittiua fidei institutiōe lōge desecisse inueniunt̉.</Line>
-Vbi est nūc prustinꝰ nr̄e fidei friguit charitas et oīa religiōis studia pariter cum illa ex hoībꝰ vt plurimū perierunt. Quis credat quātuꝫ christiane fidei mali moꝛes iactarā intulerint. Ecce deo ꝓpter scelera hominū ꝑmit t ēte. infideles sarraceni. thurci. tharteri ceteriqꝫ catholice fidei hostes. asiam. affricā. greciā. hellespontū. magnam europe ꝑteꝫ trucidatis christianis in suā potestatē redegerunt. adeo vt vice sima pars orbis que olim fuit hodie non sit christiana. Et reuera nisi om̄ipotētꝭ dei miseratio reliquias in europa dimissas ꝯseruet breui de cristiano noīe factū erit.</Line>
-Lum ergo nr̄is pctīs p̄grauati non simus dei misericordiam impetrare sufficientes. sanctorum suffragia sedulis orationibus nobis imploranda sunt. vt eorum meritis placatus ineternus arbiter veniā nobis et pacem con cedat quam non meremur. Et ne deuotio extempę vt moris est deficiat. magna cura elaborandum est. quatenus mutua cohor tatione fratrum perfeuerantiam consequatur.</Line>
-Hinc mos in dei eccl̓ia laudabilis inoleuit. vt fideles ꝯgregatiōes in honore quo rundam sanctoꝛū instituant. quas pro augenda deuotiōe frater nitates vocant. Sic faciunt milites ad honorem sinct i Georgij Sebastiani martirꝭ sagittarij. Iacobi apostoli ex galicia pegrini</Line>
 
+Capi.xv
+De fraternitate beatiffime matris
+
+onne qͣꝫ vtilis et necc̃aria sit maxīe nr̄is temporibꝰ.
+
+Dia nouissimis his diebus refrigescente charitate
+
+multoꝝ abundat iniquitas: necessariū nobis valde ē fratres mei: vt sicut pene quottidie peccando la bimur: sic quoqꝫ per crebꝛa sancte exercitiōis flu dia in bona voluntate om̄i die renouemur Nulla em̄ tam sancta vnqͣꝫ fuit institutio moꝛbꝰ hūianis: que cū tꝑe a p̄mitiuo feruore nō tepuerit. Sic oēs religionū ordines successu tꝑis deficiētes a p̄ma sui institutione recesserūt. qui nisi maioꝝ industria. ad semi tas vite regularis sepius fuerint reformati: sꝑ in deformitate sua ꝑmanerēt. In christianis quoqꝫ sil̓e agit̉. qͥ hodie a p̄mittiua fidei institutiōe lōge desecisse inueniunt̉.
+
+Vbi est nūc prustinꝰ nr̄e fidei friguit charitas et oīa religiōis studia pariter cum illa ex hoībꝰ vt plurimū perierunt. Quis credat quātuꝫ christiane fidei mali moꝛes iactarā intulerint. Ecce deo ꝓpter scelera hominū ꝑmit t ēte. infideles sarraceni. thurci. tharteri ceteriqꝫ catholice fidei hostes. asiam. affricā. greciā. hellespontū. magnam europe ꝑteꝫ trucidatis christianis in suā potestatē redegerunt. adeo vt vice sima pars orbis que olim fuit hodie non sit christiana. Et reuera nisi om̄ipotētꝭ dei miseratio reliquias in europa dimissas ꝯseruet breui de cristiano noīe factū erit.
+
+Lum ergo nr̄is pctīs p̄grauati non simus dei misericordiam impetrare sufficientes. sanctorum suffragia sedulis orationibus nobis imploranda sunt. vt eorum meritis placatus ineternus arbiter veniā nobis et pacem con cedat quam non meremur. Et ne deuotio extempę vt moris est deficiat. magna cura elaborandum est. quatenus mutua cohor tatione fratrum perfeuerantiam consequatur.
+
+Hinc mos in dei eccl̓ia laudabilis inoleuit. vt fideles ꝯgregatiōes in honore quo rundam sanctoꝛū instituant. quas pro augenda deuotiōe frater nitates vocant. Sic faciunt milites ad honorem sinct i Georgij Sebastiani martirꝭ sagittarij. Iacobi apostoli ex galicia pegrini
 [segment 28]
 Nunc ergo si istas sil̓esqꝫ sctōꝝ fraternitates ad impetrandam dei misericordia populo credimꝰ vtiles.q̄ in memoriaꝫ btīssime dei genitricis et anne sctīssime matris eiꝰ instituunt incōpabilit confidimꝰ meliores.Quāto em̄ dei mater cū sua venerabili genu trice meritis et sanctitate reliquos in celo sanctos precellit.tāto fraternitatis nomī eius dicata locuz retinet eminentiorē.Vnde pia deuotione moti fideles.vt eā prompta apud deū aduocatam merent habere sub noīe rosarij ad honorē eiꝰ fraternitatē insti tuerunt.que ia per diuerfas mūdi regiones adeo vulgata est vt nulla pene fit prouincia in qua nō plures habeant Qōsideras tes aūt deuoti btissime anne cultores ꝙ ex his fraternitatibꝰ de uotio fideliū possit ꝓficere.exemplo rosarij laudabilē cō gregationē ad honorē sancte matris cogitaureūt erigere.quatenus nomen et laudes tante patronae multorum noticiā valeant ꝑuenire.Cepit itaqꝫ hec sancta fraternitas in Osnabur gensi dyocesi.et ꝑ Cunradū dicte eccl̓ie pontificē ante hoc ferme decentium sub friderico tercio confirmata.miraculisqꝫ vt fertur comprobata.valde multiplicata est.Deinde rumuldus de Lau pach prior conuentus carmelitarū.Franckfordeñ.maximꝰ diue matris anne cultor et amator ad instantiā quorundā notabilia institutioꝝ eandē fraternitatem in predicto suo cōuentu instituit qua Bertoldus de Henneberg eccl̓ie magūtine reuerēdissimꝰ archiepsul ꝯfirmauit.sūmusqꝫ potifex innocētius anno pontificatus sui octavo eandē apl̓ica auctoritate approbavit.Et quidē digna institutio.vt fratres carmelite qui titulo beatissime dei genitricis specialiter sunt iusignes.in matris quoqꝫ laudibꝰ existant prōptiores Magnus hodie et copiosius ꝑsonaruꝫ nūer vtriusqꝫ sexꝰ in hac fraternitate est.qui mira et multa ꝓ honore sctē anne qͦttidie faciūt et impēdūt.Sed in diuerfis locis hec ea dem veneranda fraternitas a fidelibus erigit.et congrua deuo tione celebratur.Inueniunt.tamen boni detractores.qui eam impio dente lace rant.p̄dita p̄sūptiōe impugnāt Quid vobis in hac fraternitate sanctissima displicet.o ꝓphani detractores.Quid contra eā habe bitis.Proferre vt audiam Dicitis. Supersticiose sunt iste fra ternitates.quoniā fidē catholicā infirmā reddūt.debitū.deo cul tum subtrahunt.obedientia eccl̓iaꝝ parrochiali contemnunt.Jnsuꝑ.inquiunt.oblationes consuetas ac debitas suis sacerdo tibus negāt.monachis et fraternitatibus suis copiosa munera offerūt.et ecclesias suas matrices vacuas et ruinosas dereliquū Hec sūt capita partis aduerse.crimīa accufatiōis inique.obiecta detractiōs scelerate His ꝑ ordinem nos breuiter rūdemus
-
 [segment 29]
 Fraternitas ista beatissime'mr̄is anne.nō est suꝑsticiosa.ficutvos dicitis o impij calūniatores.sed est vera. sed recta. sed sctā in qͣ dei cultus non minuit̉ sed augetur.obedientia nō spernit̉ sed cōmendat̉ Fides etiā catholica nō infirnat̓ ꝑ sctām fraternitatem istam sicut vos putatis sed renouatur et defendit̉. dum ꝑ sancte charitatis exercicia vt formata fit illustrat̉. Quod vero ꝑrochia les eccl'ias desertas gemitis.vestris est non mediocriter impu-tandū delictis.qui lac et lanā de ouibus dn̄i exigitis.ipsas tamen oues nō pascitis vt opoꝛtuerat imprimis.neqꝫ custoditis Quid vobis oblatiōes negari fingitis.qui multis diuicijs abundatis Omnium pastoꝝ vicarius christus est.si fideles voluerit esse in audiendis missis liberos.non est qui valeat eum ꝓhibere Vos monachoꝝ priuilegia non oīa vidistis.neqꝫ videbitꝭ Quis nesciat qͥ pro marsupijs vestris bellū cōtra sanctas fraternita-tes geritis.et monachos non amore dei.sed auri laceratis.Ecce summus pontifex fraternitatem istam confirmauit.ecce magū.tinus archiepūs Bertholdus quo nō ē p̄stantior alter eā aucto ritate ordinaria approbauit.et vos inisipientes adhuc murmu-ratis Cessate obsecro cessare ab hac stulticia.et nolite rep̄hēdere qd̓ tātos pōtifices cognoscitꝭ approbasse.Credite mihi nō est bonū tantop̄ hoīm deuo tionē erga sctāꝫ annā velle ꝓhibere.Cōfusioni maxīe appropiat qui os suū contra sanctā annā laxat.Si verbis meis nō creditis obseruate eos qui tales sūt et vera me dixisse experiētia cognof-cetis.Temerariū est reprehendere bonū.quod ad salutē multis cernit̉ prouenire.Multae ex huius felicissime fraternitatis cele-bratione bona deuotꝭ hoībꝰ ꝓueniūt.quibꝰ ab ea extranei vt plu rimū vacui existūt.Ad charitatem quoqꝫ dei et ꝓximi cultores suos allicit.fraterne dilectiōis ꝯcordiā facit.a vicijs et pctīs re-uocat.ad suꝑne felicitatꝭ amorē desideriū inflammat.Trāfeo quot misse quot or̄ones quot elemosine.quot sctā oīm mētes inflāmet.qanta de-uotione.quāta pax quātaqꝫ in eccl̓ia catholica concordia redun-dare posset Enim uero si omnes in hanc fraternitatē cōcurrerēt fieri posset vt amore sanctis anne a mutuis iniurijs desiste-rent.et in obseruantia mandatoꝝ dei ala criores redderent Vera etemͣ fraternitas.fraternū colit.et nutrit amorem.nec deuotio pa-titur esse diffimiles.qͦs obseruatia tante ꝯgregationis in amore sanctissime anne fecerit concordes O quis det vt hec sancta fra-ternitas ꝑ totū christianū orbē diffusa celebret̉.vt oēs fideles iñ
-
 [segment 30]
 amorē diue anne rapiant̉. et dū se in vnitate sancta p̄ueniunt.a bellis et contumelijs mutuis ob tante patrone reuerentiā quiescant.vtilis plane ac semper honorāda fraternitas.qͣ fidē oꝑibꝰ format.spem erigit.charitatē excitat.deuotionē inflāmat.Per eā nanqꝫ torpor a mētibus fideliū excutitur.et feruoꝛ sancte nouitatis inspiratur.Qui hanc oppugnat insanit.qui contra eaꝫ loquitur.dementi dementioꝛ est.qui illam destruere nitit̓. saluti inuidet christiane.Multaque adhuc dicenda fuerant.nisi me rei familiaris occupatio sibi vendicasset.Que aut in aduersarios eius a me dicta sunt non inuehendi animo sed corrigendi emendandi intentione sūt prolata Confido tamen paucos esse.qui se contra sanctā matrē et eius fraternitatē opponant.
 ¶ Conclusio huius operis et exculatio insufficiētie auctoris cū exhortatiōe fraternitatis Ca.xvi.Odamuis plura de laudibus sctīssime matris anne proposuerim a principio describere tamē abhinc iā mihi placuit cessare.ne si tractatum in immensum extenderē deuotionē lectoris nimia ꝓlixitate suffocarem.Opportet em̄ eos qͥ alijs cupiūt p̄suadere breues sermone inueniri.et sentenciaꝝ maiestate copiosos.A primo nequaqͣꝫ me confido deuiasse.quid vero in scd̓o peregrim.iudicabūt hi qͥ nr̄aꝫ qualēcuuqꝫ lucubrationē lecturi sūt.Satis feci ꝓmissioni mee.satis quoqꝫ feci amicis.sed neqꝫ deuotioni mee.neqꝫ dignitati materie satisfactū est.Plus volui qͣꝫ potui.et minus feci qͣꝫ volui Deniqꝫ quis annā beatissime dei genitricis parentē.dignis laudibus venerari sufficiat.Fateor itaqꝫ de sanctissima matre me loqui indignum.qui sum homo peccator et delictis inuolutus a iuuentute mea.Meqꝫ tamen tacere a laude eius potui.quia mihi necessitas incumbebat.et vehementer p̄cibus amicoꝛuꝫ vallata vrgebat deuosio.At posteaqͣꝫ hucusqꝫ ventū est.excellentia materie impacientē caloꝛis estat oppreffit me vt āmodo silentio honoꝛare debeam quam laudare non sufficio.Quecumqꝫ autem inhoc opere a me dicta et scripta sūt.sancte romane eccl̓ie atꝫ omnibus catholicis eruditis viris subicio.a quorum diffinitive nūquā dissentire intēdo.Quicquid sacrosancta romana ecclesia credendum determinat.mihi fides firmissima erit.Postremo sermonem ad vos conuertimus amici.cultores.fratres et sorores sanctissime matris Anne rogantes vt ea que ad laudem tante matris a nobis ex magna deuotione scripta sunt.in bo nam partem accipientes.sanctam patronā deuosis orationibus
@@ -953,7 +993,6 @@ Primitias nostre pariens sanca anna salutis
 Nos cum prole tua cumqꝫ nepote iuua
 Rodulfꝰ agricola in suo de sctā anna carmīe inter alia sic.
 Di
-
 [segment 31]
 Anna parens summe genitrix veneranda parentis
 Que pandis populis prima salutis iter
@@ -1025,7 +1064,6 @@ Anna tui fetus natalem credere fas est
 Te circum angelicos concelebrasse choros Aue.
 Anna quid ethereaṁ metuis tractatare puellam
 Arridet matri. tristia nulla facit Aue Dij
-
 [segment 32]
 Anna capesse animos en lactea ad vbera tendit Aue.
 Gnata. manus teneras et tua colla petit. Aue.
@@ -1102,7 +1140,6 @@ Iesse sic viruit sturps venerabilis
 Fit dignus.remouens pontificis probra
 Sic nos anna nepoti
 Puros ferre preces para D iiij
-
 [segment 33]
 Commendes puero quem pia castitas
 Mate parturijt.nos prece poscimus
@@ -1223,7 +1260,6 @@ Proterit elatos.deponit honore potentes
 Et sinit vt magna scandala sepe ferant
 Hoc patet et firum manet.anna colentibus offert
 Leta.sed infensis tristia plura refert
-
 [segment 34]
 Ergo viri moneo tante seruite patrone
 Feminensqꝫ chorus assit amore simul
@@ -1344,7 +1380,6 @@ patres quidam de ordine fratrum beate marie sꝑ
 virginis de monte carmeli rogabant.ne defensionem purissime
 ꝯceptionis mariane obmitterem.Itaqꝫ precibus eoꝝ et alioqui
 iusta ratione persuasus.septimū huiꝰ oꝑis caput.de conceptione
-
 [segment 35]
 dei parētis et v̓ginis p̄notaui.qd̓ ne quisquā aliter qͣꝫ mea habet
 intentio suscipiat.lectorem putauī admonendū. Noui em̄ nec

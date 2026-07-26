@@ -44,7 +44,6 @@ Anno M. D. C. V. III.
 
 Lectori s.
 Monendus[unclear] Candide Le[unclear] literarum R. & S. (in hoc Opere alia numeris, alia characteribus, alia verbis vel in pagina super[unclear] scriptarum, vel in margine adiectarum) illam rubrica, seu rubri coloris, hanc vero atramenti, seu nigri coloris notam esse. Quin et hoc observabas: singulos singularum capitum titulos itidem rubrica elle depingendos et ornandos. Cuius rei momentum e praefixa Operi Clau[unclear] petas, licet. Vale.
-
 [segment 2]
 Kodak
 Gray Scale 0 1 2 3 4
@@ -136,7 +135,7 @@ SERENISSIMVM PRINCIPEM, DO-
 MINVM PHILIPPVM, COMITEM PALATIVM
 Rheni, Ducem Bauariae, Sacrique Imperij Prin-
 cipem Electorem, etc.
-<Initial type="decorated-drop">A</Initial>NTIQVISSIMOS Sapientes, quos Graeco ser-
+ANTIQVISSIMOS Sapientes, quos Graeco ser-
 mone Philosophos appellamus, siquae vel naturae,
 vel artis reperissent arcana, ne in prauorum homi-
 num notitiam deuenirent, varius occultasse modis
@@ -149,7 +148,6 @@ non paruae apud suos aestimationis praetereò: nostrosque et amp; Philosa-
 phos et amp; Poëtas doctißimos intermitto, qui fabulis cōscribendis ope-
 ram nauantes, aliud imperitis, at que aliud eruditis hominib.
 ): ( 2 narra-
-
 [segment 4]
 PRAeFATIO.
 narrationis serie sagaci adinuentione tradiderunt. Hos ego Sapien-
@@ -210,7 +208,6 @@ nisterium  profectũ nostrum (per quorũ intelligentiam omnia istius
 artis secreta reuelantur) sunt nobis sine numero infiniti  penitus
 incõprehensibiles: ita nec huius artis nostrae, q̃ Steganographiã se-
 creta
-
 [segment 6]
 PREFATIO.
 creta et arcana et mysteria, nulli mortaliū, quantumcunque studio-
@@ -256,7 +253,6 @@ tate, &amp;c.
 Kodak
 Gray Scale
 0 1 2 3 4
-
 [segment 7]
 PRAeFATIO.
 vsum, nō de deceat virum sapientē, Christianum bonum atque fidelem. Nam et amp; ego Christianus sum, &amp; monasticae conuersationi voluntarie addictus: cu-
@@ -295,7 +291,7 @@ tur à spiritu principali Pamersyel, anoyr madriel per ministerium
 ebra sothean abrulges utrasbiel. Et nadres ormenu i tules
 rablion hamorphiel. Ad hos fit commissio o-
 mniuum cum exorcismo.
-<Gap reason="damaged" extent="ca. 1-2 characters"/>
+
 HVIVS primi capituli est multum difficilis et amp; peri-
 culis plena operatio, propter superbiam et amp; rebelli-
 onem spirituum eius, qui non obediunt alicui, nisi
@@ -316,8 +312,7 @@ autem proteruiam eorum experiri omnino voluerit et amp; probare
 ea quae diximus effe vera, hunc modum obferandum nouerit.
 Praeparet chartam in quam scripturus est cum Inuocatione di-
 uini nominis, in nomine Patris et amp; Filij et amp; Spiritus S. Deinde verò
-scribat in ea quamcunque narrationem voluerit simplicem et aper<Gap reason="damaged" extent="ca. 1 character"/>7
-
+scribat in ea quamcunque narrationem voluerit simplicem et aper7
 [segment 8]
 apertã, quam omnes legentes intelligent, latino, patrio vel quo-
 libet alio sermone. Cum autem sederit ad scribendum versus O-
@@ -369,7 +364,7 @@ vnd behalt diesen vnsern Anschlag bey dir in hoher geheym/rc.
 AD NOTIFICANDVM HOC SECRETVM Roth.
 Vasallo cum latiori intentione mittentis scribatur
 fic vel alio modo:
-<Gap reason="illegible" extent="ca. 1 word"/>
+
 Omnipotens sempiterne Deus qui omnia creasti ex nihilo, miscrere nostri
 per vnigenti filij tui in cruce morientis amarissimã passionẽ, qui cõce
 ptus de spiritu sc̃cto sine cõmixtione virili natus est ex purissima scp̄ Vir-
@@ -382,7 +377,6 @@ cero feruore diligentes mandatis semper cum deuotione obediamus, &amp;
 mutuo amore ingiter proficientes nihil dinceps amemus terrenum, nihil
 quereramus caducũ. Tu enim es Dominus Deus noster, qui nos ad imaginẽ et similitudinem tuam ab initio creasti cum non essemus: quem mortuum pro peccatis nostris et amp;
 A 2 sepul-
-
 [segment 9]
 4 STEGANOGRAPHIAE
 sepultum tertia die à mortuis resuscitasti, eumque gaudentibus suis discipu-
@@ -422,7 +416,6 @@ Ecce iam habes plagas orbis vniuersas, quas nosse in operatione huius artis in p
 Russus oportet te scire singulorum principium primos substitutos, quot sint in numero quibus secreta mysteria committuntur: Vt scias eorum ordines, quomodo rursus emit-tendi ad officia sua, quot ipsi habeant illuminatores in die, quot luci-
 A 3
 Roth.
-
 [segment 10]
 6 STEGANOGRAPHIEE lucifugos in nocte, quosque amicos et quantos soleant formidare inimicos, & de his omnibus docebo te in presenti tabula, quae dicitur tabula directi-onis.
 Schw. Roth. S. R. G. R. S.
@@ -479,7 +472,6 @@ malitiosisus, vel minus in arte peritus. Non opus est omnes sinul
 aduocare, sed pauci sufficiunt et aliquando vnus satisfacere po-
 test operanti, siue operatio nocturna sit, siue diurna. Nam cum
 fint
-
 [segment 11]
 3 STEGANOGRAPHIAE
 sint beneuoli, quieti et tranquilli: frequentius soliuagi sunt, quā
@@ -515,12 +507,11 @@ malefactorum, incarceratione, punitione, sicut sub-
 iecto demonstrauimus ex-
 emplo.
 INTEN-
-
 [segment 12]
 LIBER PRIMVS.
 INTENTIONIS SECRETVM, QVOD Roth.
 non literis, sed Spiritibus secundae mansionis committatur.
-<Gap reason="damaged" extent="ca. 1-2 characters"/>
+
 DELATVS est quispiam principem, cui aliquod crimen imponi-
 tur lase maiestatis vel quodlibet aliud: vult eũ puniri per suū officia-
 lem à quo longe discungitur. Sed ei scribere id ipsum nō vult, ne manifesta-
@@ -552,10 +543,9 @@ infixos exulesque:quoniam Saluator noster tu es Iesu, qui neminem despicis
 gaudium indeficiens &; sempiterna foelicitas sanctorum es spes nostra, Chri¬
 stianorum gloria, Angelorum lumen, remunerator inuiectorũ Martyrum,
 corona virginum, honestas viduarum. Bone Iesu exaudi nos humiles, cla-
-<Gap reason="damaged" extent="ca. 1-2 characters"/>man.
+man.
 B
 0 1 2 3 4 Gray Scale
-
 [segment 13]
 [illegible]Liber Primus.
 Cap. III.
@@ -563,7 +553,7 @@ CVIVS PRINCEPS CAMUEL, HABENS Roth.
 sub se spiritus praesidentes durnis operationibus 10. & nocturnis si-
 militer 10. cum subseruitoribus totidem, quorum officium est
 mittentis nunciare aduentum, Vias Iter.
-<Emphasis type="italic">N</Emphasis>ERTIAe mansionis ad Eurum primus et amp; supremus
+NERTIAe mansionis ad Eurum primus et amp; supremus
 omnium Spiritus vocatur Camuel, valde beneuolus et amp; promptus ad mittendum suos substitutos ad eum
 qui in hac scientia secundũ formam debitam opera-
 tur. Paucos quidem habet ministrós, sed omnes bonos, volunta-
@@ -593,7 +583,6 @@ Hic habes in tabula 10. angelos Camuelis qui prae sunt diei cũ
 substitutis suis in numero, &amp; totidem qui praesunt nocti, cum
 fuis B2
 Kodak Gray Scale
-
 [segment 14]
 12 STEGOGRAPHIAE
 suis quoque subseruientibus. Vltimi autem sicut cernis nullum
@@ -693,14 +682,12 @@ bẽt amice legendũ: illa signũ recognofcens nunciũ aduocat oc-
 cultũ, audit confuliũ, remandat confenfu:accedis, intras, potitis.
 Mors Iesu Christi genus humanũ viuficauit, cuius vita innocẽter affli-
 cta liberauit nos ab omni calamitate. Ergo honoremus humilitatem eius in nobis
-
 [segment 16]
 18 STEGANOGRAPHIAE nobis resistendo tentationib.vitiorum.in standeg. in omnib.enorum ope-rũ.Christus Iesus saluauit animas nostras Gratiās dicamus eternas nostro redemptori p̄ssimo quoniam omnes reduxit ad tutas exuuias.cuius nomē cum ferno re laudemus omni tempore.praeoccupantes faciē sanctißimam e- eius nostris orationibus; viuamus virtuose in amore rectitudinis.abijciētes tumultum mundalium negotiorum.iusticie normam sequamur.vitijs no-xiiis risistam us deuotissime.lachrymisqꝫ negligentias abluamus in maxima soliciudine memores futuri iudicij.cuius mastimabilis horror inferni poe-nis nequequam inferior.Anno Dominicae natiuitatis M.D. Id.Mar-tij.Cum has smilefue acceperit literas is cui mittuntur in arte peritus factat quod nouit secundū eiis institut a facienda, vert atqꝫ se ad aspectum Euroaustri Cuius hoc signum? & legat contestationem spirituum q̄ uost talis: Aseliel murnea casmadymbularcha vadusyn atybelron diuel arsephontisi pa normys orleuo tadon Venotibasramyn.His contestatis cōtinuet operationem artis,& audiet secretum mittentis.
 CAP.V.
 Roth. CVIVS PRINCEPS SVPREMVS,BARMIEL nomine,moratur in Austro,habens sub se 10.principes,qui praesunt diei.&20.qui praesunt nocti cum seruatoribus eorum:& sunt super secretis nunciandis,que pertinent ad traditiones castrorum.
-<Gap reason="damaged" extent="ca. 3-4 chars"/>
+
 VINTAe mansionis in Austro ad meridiem prin-ceps magnus vocatur Barmiel,habens sub suo do-minio principales duces 10.qui praesunt diei cum subseruatoribus eorum et amp; 20.numero,qui praesunt operationibus nocturnis cum famulis eorum.Qui ideo plures sunt numero,quam diurni;quia frequentius operatio huius mansionis fit in nocte quam in die.Eorum enim officium est nuntiare secretas traditiones castrorum et amp; ciuitatum,maxime temporibus nocturnis.Tu autem cum volueris in hac arte ope-rari per Barmielem,voca vnum ex principibus eius,quęcun-que volueris:statim veniet ad te cum 20.seruitaribus,quia nun-quam solus aūt cum paucioribus incedere consuevit aliquot principum huius mansionis.Secretum,vero tuum non famu-lis quia superbi et amp; malitiosi sunt,sed principi committe,quia bonus,
-<Gap reason="damaged" extent="ca. 3 chars"/>
 
 LIBER PRIMVS.
 F7
@@ -737,7 +724,6 @@ nō valet, quā cupit, rem arte pertemptat, corrumpit mercede custo des,
 consilium nulli confident, nec literis quidem, ne deprehensus ille nō conse-
 quatur intentum,isti mercedē cum vita amittant. Ad Mansionē Barmie-
 lis se C
-
 [segment 17]
 18
 STEGANOGRAPHIAE
@@ -778,7 +764,7 @@ CVIVS SVPREMVS PRINCEPS GEDIEL
 in Austro-africo mansionem agens, sub se habet 20.in die, & toti-
 dem in nocte cum seruitoribus eorum, qui officium annun-
 ciandi ea, quae pręcauada, pericula habent.
-<Initial type="decorated">E</Initial>XTAe mansioni quae est in Austro -africo pręsidet
+EXTAe mansioni quae est in Austro -africo pręsidet
 princeps magnꝰ Gediel qui habet sub dominio suo
 alios duces principales 20.in die, totidẽ in nocte
 cum multis seruitoribus eorum. Horum officium
@@ -807,7 +793,6 @@ operari; conuerte te ad Austro -africum; quoniã omnes ibi cum
 principe suo Gediel omni tempore morantur: fac, quae nofti
 secundum ordinem effe facienda. Haec est Conjuratio:
 C 2 Gedi-
-
 [segment 18]
 20
 STEGOGRAPHIAE
@@ -865,7 +850,6 @@ rum officium est nunciare consilia principum amicis.
 EPTIMAe mansionis princeps primus et supremus
 vocatur Asiriel, & habitat in ea plaga orbis, quam appellamus ad Africũ,
 habẽs sub se 20. principes, qui praesunt dici, & totidem, qui praesunt nocti: qui
-
 [segment 19]
 22 STEGANOGRAPHIAE omnes sub se multos habent famulos. Si duo duces vocentur ab operante ad ministerium artis ex diurnis; semper 20. famulos ha- bent seruientes sibi: similiter et cum nocturnis fit. Quare si vnũ vocaueris tantum ex principibus, maxime nocturnis: non 20. sed 10. famulos eum habere duntaxat comprobatur. Diurnos nõ vocabis, nisi ad minimum duos; quoniam soli venire nõ consueuerunt: ex nocturnis vnũ vel duos, sicut placuerit, aduocare poteris. Si vocaueris duos, 20. si vnum, 10 famulos in coniuratione ex more noueris esse addendos. Et vt scias, qui soli, & cum socio qui sint vocandi; tabulam considera.
 Roth. S. R. S. X. R. S. Cusiel
@@ -917,7 +901,6 @@ tatis Iesu Christe,doce nos tuam imitari doctrinam.Sumus (proh dolor)
 vitijs multis inuoluti,operibus bonis nudi.Slua nos Iesu Christe,
 ne pereamus.O Summa veritas viufica nos,refugium animarum refri-
 geran-
-
 [segment 20]
 24
 STEGANOGRAPHIAE
@@ -925,7 +908,7 @@ gerantissimum: esto nobis turris fortitudinis. Tu enim viuificator noster es, tu
 rum. Tu mortuorum Viuificator fragilitatem nostram respice. Iesu Christe dulcissime adiuua nos fragiles seruos tuos, quatenus per viam veritatis sine offensione incedentes requiem consequamur aeternam, O pÿssime domine Iesu mitiga labores exilij nostri. Et cum finis istius vitae caperit appropinquare, nobis misericorditer subuenire tunc digneris, quatenus ante faciem virtutis tuae aduersarius ruat conterritus, fugiantque procul omnium malorum prouocatores diaboli, mortis aeternae principes, saenissimique nostri persecutores. Rogamus per virtutem nobilissimae mortis tuaae dulcissime Iesu: non despicias nos inutiles seruos in die exitus nostri, quos redimore voluisti sanguine tuo: Laua excessus nostrós, quatenus intrare gaudia patriae coelestis, expectantibus nos angelis, mereamur. Amen.
 Scripsi ego Ioan.Trith. Abbas, e idibm
 Martij, M.D.
-<Gap reason="unknown" extent="decorative mark"/>
+
 LITERAS idcirco mittimus ad eum, cui fuerit spiritus quo-
 que mittendus, quia nullus principum aut seruorum ex ipsis spiritibus venit, nisi vocetur, neque ad mitten tem, neque ad e-
 um, cui mittendus est. Vt ergo sciatis, oui mittitur, à qua man-
@@ -968,7 +951,6 @@ Rouiel Athiel 30 Chafor 30 Aliel 30
 Roth. Schw. R. S.R. S.
 Fariel Vessur 30 Potiel 30 Espoel 30
 D Arach
-
 [segment 21]
 26 STEGANOGRAPHIAE
 Roth. Schw. R. S. X. S.
@@ -989,7 +971,7 @@ Fabelronthufy. Apparente spiritu, quem vocasti, committe ei
 secretum tuum perfertendum secure, nihil hasitans omnino, ta-
 cite loquens ad ipsum, fi in medio aliorum fueris, vt nosti.
 Roth. Sit mentis tuae secretum tale. —.
-<Illegible reason="faded" extent="ca. 1 word"/>
+
 H abes arcana in scientis occultis philosophia, astrorum Magia, Cabala
 Arithmetica, vel quibuslibet artibus, que scire optas amicum prope
 vel procul absentem: sed sunt talia, qua nec literis nec nunciis committere
@@ -1004,8 +986,8 @@ lium tuũ nostri generis esse participem voluisti, vt redimeret diaboli-
 ca inuidia nos miserrimos, qui sola benignitate, redũdans formã nostri suf-
 cepit incorruptam ex flore virginalis veteri, archãgelo sancto Gabriele inisi-
 nuãte, quod Virgo conceptura beatiffimo tuo spiritu perpetua Virgo perma-
-neret, immaculata, clarior hominib<Illegible reason="faded" extent="ca. 1 char"/> spiritibus praeminentior.
-Genuie<Illegible reason="faded" extent="ca. 2 chars"/>
+neret, immaculata, clarior hominib spiritibus praeminentior.
+Genuie
 Kodak Gray Scale
 
 [illegible]
@@ -1017,7 +999,7 @@ Tharas, qui moratur in occidente habens subse duces pro actionibus
 diurnis 30.& pro nocturnis totidem:quorum officium est
 annunciare secreta familiaria
 amicorum.
-<Illegible reason="faded" extent="ca. 1 word"/>
+
 N O N ae mansionis quae est in occidente equinoctia-
 li habitator est Malgaras maximus princeps occi-
 dentis, qui habet sub se 30. duces qui praesunt diei,
@@ -1057,7 +1039,7 @@ funt,reliqui vero terni . Cum volueris habere tres aut duos au
 vnum,caue ne erres innominibus eorum.Sicut tabula te docet,
 ita facias absque immutatione,ne periculum incidas.
 Carmen Coniurationis.Roth.
-<Emphasis type="italic">M</Emphasis>ALGARAS ador chamefo bulueriny marefo bodyr Cadu-
+MALGARAS ador chamefo bulueriny marefo bodyr Cadu-
 mir auiel casmyo tedy pleotyn viordi care viorba,chame-
 ron vesy thuriel vlnauy,bueue meuo chasmironty naor ernyfo,
 chony barmo caleuodyn barfo thubra fol. Coniuratione dicta
@@ -1080,13 +1062,12 @@ mittis arcanum:vadit ille,perfert fideliter omnia:
 fi quid ad te fuerit commiffum,re-
 fert.
 D3 Lite-
-
 [segment 23]
 30
 STEGOGRAPHIAE
 Literas qualescunque volueris, scribe, in quibus nullius
 vereare conspectum.
-<Emphasis type="italic">S</Emphasis>ALVTEM et amp; charitatem.Dilectissime et amp; singularissime amice, prae-
+SALVTEM et amp; charitatem.Dilectissime et amp; singularissime amice, prae-
 sentiũ lator, ex Ruremunda oriundus valde in amicos nõtros beneficus et amp; gloriosa (quem vt humaniter excipias, rogo tibi necessitatem sua ex-
 ponet: Qui cũ mihi veteri necessitudine semper fuerit conjunctus pro viri-
 bus meis, dulcissimum iudicarem releuare benestiijsque cumulare illum. Et
@@ -1113,14 +1094,13 @@ rem hominibus aestimares.Iussus fenestram aperire,aperit,naturamq́ ingenio tran
 exhiberi zelosū defensorẽ mei se amat,ludit egregie,mirandaq́ facit pror-
 fus insuetis incredibili.a.Vale. Ioan.Trith.Abbas Sancti Martini in Span-
 heim scripsit.3 Id.Marty.Anno M.D.
-<Emphasis type="italic">P</Emphasis>
+P
 Has aut quasilbet altas cũ acceperit cui mittũtur, amicus signũ intelli-
 git principis esse Occidentis:vnde praemissis ex more praemittendis ad Occiden-
 tem se vertit,vocat Spiritũ,inuisibilem missum contestans,vt visibi-
 lis fiat,nec cuiquam dicat.Carmen Spiritus.
-<Initial>M</Initial>ALGARAS apro chameron asoty mesary throes Zameda
+MALGARAS apro chameron asoty mesary throes Zameda
 sogreal paredon adre Caphoron onatyr tirno beofy.Cha-
-
 [segment 24]
 [illegible]32
 STEGANOGRAPHIAE
@@ -1132,13 +1112,12 @@ Ecce habes de principibus Dorothielis ex quolibet ordine diurno scilicet et amp;
 Roth. Ponamus mentis quodcunque arcanum literis com-mittendum.
 E St tibi negotiũ, in re qualibet spirituali ad principem, valde et amp; arduum et amp; secretum, quod nulli mortalium nec literis quidem putas credẽdum. Vis illud seire principem? Literas pro paupere Clerico supplicatorias aut quaslibet alias fingis ad eum
 Kodak Gray Scale 100%
-
 [segment 25]
 eum: vocas spiritum, committis illi secretum: fideliter agit o-
 omnia.
 Literas qualescunque volueris dabis, in quibus non
 verearis quicquam.
-<Emphasis type="italic">S</Emphasis>Ignifico Gratia Vestra Illustrissime Princeps, Conradum Hummel be-
+SIgnifico Gratia Vestra Illustrissime Princeps, Conradum Hummel be-
 neficiatum super altare sancti Euangelistae Iohannis defunctum esse
 nocte praeterita. Ne autem Gratia Vestra vel vni ex imperitis vel indignis,
 quorum reor grandè numerum affuturam vt fieri solet) altare dictum ex-
@@ -1152,7 +1131,7 @@ ruditum, modestum continentem, temperatum, amoremque religionis Gra-
 tiae Vestrae nouerim esse placiturum. Eritque beneficiis exhibitis, non ingra-
 tus, sed perpetuo memor. Datae ex Spanheim. pridie Idus Martij, Anno
 domini nostri M. D. Ioan. Tritth.
-<Emphasis type="italic">E</Emphasis>
+E
 Cum has meas vel quasi libet alias acceperit literas princeps,
 aut alter, cui mittuntur, in arte peritus: signo Dorothielis co-
 gnito se vertat ad Chorum (vbi ipse spiritus cum ducibus et ser-
@@ -1164,8 +1143,8 @@ smiel hayrno, fabelrunthon. Completo carmine isto si moram
 fecerit spiritus in veniendo; iterum legat vsque tertio: & si-
 ne omni dubio visibilis apparebit, & reuelabit
 ad aurem commissa.
-<Emphasis type="italic">C</Emphasis>
-AP.</Emphasis>
+C
+AP.
 
 14 STEGANOGRAPHIAE
 CAP. XI.
@@ -1196,13 +1175,12 @@ R:
 Ansed
 Kodak
 Gray Scale
-
 [segment 26]
 LIBER PRIMVS.
 Schw. R. S. X. S. R. X. G.
 Ansoel 40 Saddiel 40 Asuriel 20 Pathyr 20
 Godiel 40 Sobiel 40 Almoel 20 Marae 20
-Barfos 40 Oßidiel 40 <Emphasis type="underline">m</Emphasis> RP
+Barfos 40 Oßidiel 40 m RP
 Burfa 40 Adan 40 Laspharon 10 Ethiel 10
 Ex quadraginta principibus Vsielis, qui praesunt operationi-
 bus diurnis habes 14. cum seruitoribus eorum 400. in numero,
@@ -1239,7 +1217,7 @@ nuncio confidis, ne per aestum in palam &;in periculum incidas,
 ille nuntium, vocat amicum. Venit, iuuat, participat.
 Literas, vt volueris, scribito, in quibus nihil omnino
 fit metuendum.
-<Emphasis type="italic">M</Emphasis>Itto tibi orationem, quam edidi in nuptiis cuiusdam mei amici Deus
+MItto tibi orationem, quam edidi in nuptiis cuiusdam mei amici Deus
 omnium Creator humanique generis Redemptor, omniumq́;, Salua-
 tor, ne genus humanum periret, etia̅ nuptiarum sacramentum instituit le-
 gimus enim quod prime homini Euam iunxerit mulierem, dixeritque:
@@ -1260,7 +1238,6 @@ sime colite: vanos, noxios, superstitiososque mores gentilium abhorrete. Do-
 ctrinas Euangelicas seruate et amp; viuite secundum praecepta Dei. Carnis volu-
 ptates fugite, vosque honestos et amp; bonos exhibete, puritatem mentis solicite
 custo-
-
 [segment 27]
 custodientes nolite maculare. Mementote obsecro, quid in sancto Euange-
 lio Christus Dominus noster clamauerit: Beati mundi corde: qui sc.
@@ -1291,7 +1268,7 @@ CVIVS SPIRITVS ET SVPREMVS IMPERA-
 tor Cabariel moratur ad eam plagam orbis, qui Circius à
 vento dicitur, habet sub se 70. principes in die,
 totidem in noctẽ.
-<Gap reason="damaged" extent="ca. 1-2 words"/>VODECIMAM orbis descripti mansionem, quae
+VODECIMAM orbis descripti mansionem, quae
 est versus eam plagam, à qua ventus Circius inflat,
 Cabariel Imperator magnus inhabitat cum infini-
 tis Spiritibus, inter quos sunt ad operationem Ste-
@@ -1332,23 +1309,22 @@ Ponamus pro exemplo quoddam arcanum nulli omnino
 confidendum.
 IDELEM habes amicũ,cui faues,vt tibi ipsi,sed procul absen-
 tẽ,cui reveruro nostiponẽdas à potẽtiore insidias in via aut quo-
-
 [segment 28]
 Liber Primus.
 quolibet alio vel loco vel modo. Auiscare cupis nescientem: sed periculum tibi magnum instaret auisanti, si fieret palam. Vnde nec literis committendum, ne legantur ab aliquo: nec homini confidendum, ne reuelari contingat. Vt ergo amicus tu securus, amicus fit: vocas spiritum, committis arcanum: fit.
 Literas mittis amico familiares vel orationem deuotam, quae videri patiatur.
-<Paragraph>
- <Line><Initial type="simple">C</Initial>ommodaueram tibi Codicem meum de gestis Longobardorum Volumen Bedae de temporibus, que ovo remittas. Decet enim sapientem maximè Christianum, fidem vbique seruare promissam. Beneficiorum obliuisci, diuinis nostris institutis humanis crimen perhibetur. Ne incurras tam peccabilem reatum. Misi tibi volumina mea, vt ea aliquando restitutas. Libros verò graecos tibi gratis donavi, quorum intuitu te merito regratiscantem nobis fideliorem exhiberes. Vale, ex Spanheim, Idibus Martij. Anno domini M. D.</Line>
-</Paragraph>
-<MarginalNote placement="right_margin">
- <Line>8</Line>
-</MarginalNote>
+
+Commodaueram tibi Codicem meum de gestis Longobardorum Volumen Bedae de temporibus, que ovo remittas. Decet enim sapientem maximè Christianum, fidem vbique seruare promissam. Beneficiorum obliuisci, diuinis nostris institutis humanis crimen perhibetur. Ne incurras tam peccabilem reatum. Misi tibi volumina mea, vt ea aliquando restitutas. Libros verò graecos tibi gratis donavi, quorum intuitu te merito regratiscantem nobis fideliorem exhiberes. Vale, ex Spanheim, Idibus Martij. Anno domini M. D.
+
+8
+
 Cum has aliasue quaslibet abs te missas literas amicus receperit; cognito signo Cabarielis, vertat se ad orbis plagam illam, à qua Circius progreditur ventus; praemissis ex more praemit-tendis, hanc legat sub silentio orationem.
 Carmen Coniurationis.
-<Paragraph>
- <Line><Initial type="simple">C</Initial>Abariel afiar paremon chiltan amedyn sayr pemadon chul-ty mouayr sauępor peatha mal frimaston dayr pean cothur no fabelrusyn elsoty chelmodyn. Hoc carmine dicto versus Cir-cium, angelus statim apparebit visibilis, referans illi com-missum arcanum; referetque tibi, si quid ille commiserit,</Line>
-</Paragraph>
-CAP.</Line>
+
+CAbariel afiar paremon chiltan amedyn sayr pemadon chul-ty mouayr sauępor peatha mal frimaston dayr pean cothur no fabelrusyn elsoty chelmodyn. Hoc carmine dicto versus Cir-cium, angelus statim apparebit visibilis, referans illi com-missum arcanum; referetque tibi, si quid ille commiserit,
+
+CAP.
+
 01234
 Kodak Gray Scale
 
@@ -1360,7 +1336,7 @@ habitans directe ad Septentrionem, sub quo sunt 50. principes, qui
 praesunt diurnis operantibus nostris, & totidem qui noctu-
 nus: quorum est nunciare tra-
 ditiones.
-<Illegible reason="faded" extent="ca. 1 word"/>
+
 ERTIA decima mansio est in Septentrio, cuius
 spiritus et supremus imperator est Raysiel, qui ha-
 bet sub suo dominio duces 50. qui praesunt opera-
@@ -1386,7 +1362,6 @@ Sequel 50 Dubarus 50 Betafiel 30 Vuel 30
 Sadar 50 Armena 50
 Terach 50 Albhadur 50
 Thaniel
-
 [segment 29]
 LIBER PRIMVS.
 41
@@ -1403,7 +1378,7 @@ secundum horas intentas, elige ex ordine disposito quem vo-
 lueris, &amp; voca eum à Septentrione (quoniam omnes ibi moran-
 tur) per istud Carmen,
 Carmen Coniurationis.
-<Emphasis type="italic">R</Emphasis> Aysiel astruano chameron fosiel onear Vemabi parnothon
+R Aysiel astruano chameron fosiel onear Vemabi parnothon
 fruano Caspiel sufre bedarym bulifeor pean Curmaby Layr
 Vaymeor pesarym adoreꝰ odiel Vernabi peatha darsum lasphe-
 nō deuior Camedonton phorsy lasbenay to charmon druson
@@ -1417,7 +1392,7 @@ compellas, nihil metuens: te enim vt dominum reuereri co-
 gentur.
 Habeo secretum, quod nulli consido perferendum,
 huiusmodi.
-<Emphasis type="italic">P</Emphasis> Ono casum. Amicus est mihi quispiam nobilis et amp; doctus, quē
+P Ono casum. Amicus est mihi quispiam nobilis et amp; doctus, quē
 noui secreto necandum per sicarios quosdam mercede con-
 ductos. Auisare palam nō audeo, quia mihi pèriculosum: in cau-
 fa fa-
@@ -1432,7 +1407,7 @@ blicum, etiam si ex inimico tentari contingeret, non for-
 mido.
 Literas mitto familiares amico, in quibus nul-
 lum formido periculum.
-<Emphasis type="italic">M</Emphasis>aximum nobilitatis ornamentum, Iustitiam Philosophiamq́; dede-
+Maximum nobilitatis ornamentum, Iustitiam Philosophiamq́; dede-
 cus Impietatem Ignorantiã definit vetustas. Quid enim pulchri-
 us, quàm litteris virtutibusq́; ornare nobile genus, quod militat. Hoc pluri-
 mum caeterosque militantes complures nobilissimos viros reperimus, no-
@@ -1457,7 +1432,6 @@ diderunt, q̃r memoriam laudumq́; titulos immortalitate donarūt. Ad-
 de quod Christianis studiũ literarum summum honestissimum euolandi
 ad Caelum pręstat adiumentum. A scripturis enim contemplari incipimus
 divinarũ illustrationum coruscantem honorabilemque maiestatem, nobis alio-
-
 [segment 30]
 LIBER PRIMVS.
 43
@@ -1469,7 +1443,7 @@ in arte peritus ; signo Raysielis cognito, praemissis ex more con-
 fuetis, ad Septentrionem se vertat, & spiritum hoc carmine vo-
 cet.
 Carmen coniurationis.
-<Gap reason="illegible" extent="ca. 1 char"/>
+
 R Aysiemyltran, fruano fiar chasmy clymarfo pean Sayr pul-
 tho chultusa medon veputsandly tusan axeyr affion. His
 dictis spiritus missus statim visibilis apparebit, referabitque tibi
@@ -1486,7 +1460,7 @@ tur Symiel, qui habitat ad Aquilonem, habens sub se principes
 IO.qui praesunt operationibus diurnis, cum famulis multis:
 quorum officium est familiare secretum
 perferre.
-<Gap reason="illegible" extent="ca. 1 char"/>
+
 QVARTA decima mansio est ad Aquilonem, distans
 à principio Septentrionis 2I. gradibus, & modicum
 amplius: cuius supremus Imperator est Symiel, qui
@@ -1517,7 +1491,7 @@ principes. Tu autem cum hac ipsa scientia volueris operari: prę-
 missis rite praemittendis, te conuertas ad Aquilonem, &; eo mo-
 do, quo tibi tradidi, coniura ducem, vt veniat peri istud Carmen.
 Carmen ad spiritus.
-<Emphasis type="italic">S</Emphasis>Ymiel myrno chamerony the or pasrô ãdiueal fanerosthi so-
+SYmiel myrno chamerony the or pasrô ãdiueal fanerosthi so-
 fear Carmedon Charnothiel peasor sofitrã fabelrusy thyrno
 pamerosy trelno chabelron chymo churmabon, asiel peasor
 carmes nabeyros toys Camalthonty. His dictis eo quo necessse
@@ -1525,15 +1499,15 @@ est modo, spiritus adebit abs te vocatus ad obedeĩdum in omni-
 bus mandatis tuis, si fuerit operatio per nocturnos spiritus acti-
 tanda: &; si cito non apparuerint, nõ desistas propterea, sed vrge-
 as eos repetitione carmini: &; compulsi obedient.
-Pro <Gap reason="damaged" extent="ca. 1-2 words"/></Line>
+Pro 
+
 Kodak Gray Scale
 0 1 2 3 4
-
 [segment 31]
 LIBER PRIMVS.
 Pro exemplo ponamus quodcunque arcanum nulli
 penitus committendum.
-<Initial type="simple">H</Initial>ABES aliquod negotium secretissimum ad amicum, quod
+HABES aliquod negotium secretissimum ad amicum, quod
 te et amp; ipsum concernit: cuius manifestatio tibi et amp; illi perpe-
 tuum vel damnum vel confusionem inferret. Certe nec literis
 tuto creditur ne ab aliquo legantur, nec committitur nuncio,
@@ -1544,14 +1518,14 @@ suspectas.
 Ioannes Tritthemius Abbas Spanheimensis ordinis
 Sancti Benedicti optimo adolescenti Iaco-
 bo Trithemio, fratri charrissimo, S.D.
-<Initial type="drop">L</Initial>ITERIS incumbens conserva humilitatem Cordis. Mores boni iuuenes decorant, efficuntque nobilibus clariores. Scientia litterarũ adornat
+LITERIS incumbens conserva humilitatem Cordis. Mores boni iuuenes decorant, efficuntque nobilibus clariores. Scientia litterarũ adornat
 iuuenẽ sanctitatẽ amante sine moribꝰ institiae carebit honore sciẽtia. Adolescẽs vanitatibus vitij sꝙ immersus, sapientiae cõtẽptor, non diligit sapien-
 tiã verã, quàm virtutibus inquirendam esse memineris. Moribus decoratur institutio erudiendorum iuvenum, quoniam sanctis artibus confertur honor Coelestis infructuosaque scientia tormentis eternis cruciabitur. Virtuti bus et amp; literis scientia proficit: vttrumque deficit vicijs maculatum. Sperne voluptates, vt experimento intelligas sapientiae veritatem. Vale.
 Recipiens has literas in arte Steganographiae peritus, mox,
 vt viderit characterem principis Symielis, quid sibi faciendum fit, intelligendo percipit: vertensque praemissis praemittendis,
 ad Aquilonem, coniurationem dicit.
 Coniuratio.
-<Initial type="simple">S</Initial>Ymiel marlos chameron pyrcohi pean fruary fabelrontiga-
+SYmiel marlos chameron pyrcohi pean fruary fabelrontiga-
 celto siargoti melassor hialbrany ordu
 F 3 Ca-
 
@@ -1563,7 +1537,7 @@ CVIVS SVPREMVS IMPERATOREST AR-
 madiel, qui moratur in ea parte orbis, vnde Boreas ven-
 tus flare consueuit, habens subse multos
 principes.
-<Emphasis type="italic">ANSIONEM quintã decimam ad Borealem plagam</Emphasis>
+ANSIONEM quintã decimam ad Borealem plagam
 inhabitat Armadiel magnus imperator, habens sub
 suo imperio multos duces et amp; principes cum seruitori-
 bus eorum, à quibus centum deputati sunt super o-
@@ -1572,13 +1546,14 @@ que praesint nocturnis atque diurnis actionibus nostris in Ste-
 ganographia ad voluntatem operantis. Horum officium est
 principibus et amp; magnis viris nunciare secretissima arcana ope-
 rantis cum maxima fidelitate et amp; mysterio. Ex his nominabimus
-potiores aliquos, qui nobis sufficiunt ad intentionem.</Line>
+potiores aliquos, qui nobis sufficiunt ad intentionem.
+
 R. Q.R. S. R. S. R. G.
 Massar 50 Orariel Pandiel 10 10 60 60 50
 Parabiell 40 Oryn Carasiba 20 20 70 70 40
 Laiel 30 Samiel Asbibiel 30 30 80 80 30
 Caluarnya 20 Afmael Masayr 40 40 70 70 20
-Alferiel 10 Iaziel Oeniel 50 50 60 60 <Emphasis type="italic">10</Emphasis>
+Alferiel 10 Iaziel Oeniel 50 50 60 60 10
 Habes iam ex Spiritibus Armadielis 15. numero cum subser-
 uitoribus suis 1260.qui secundum diuisionem 24.horarum in sex
 partes eum ducibus suis venire vocati ad operantem solent, fi
@@ -1589,7 +1564,6 @@ hanc artem, sine qua nihil omnino proficies:qua,vt oportet,
 cognita, vertes te ad Boream, faciens, quae
 ars requirit.
 Con-
-
 [segment 32]
 LIBER PRIMVS.
 Coniuratio.
@@ -1608,7 +1582,7 @@ nit, diligentissime obseruans literas famulorum, sine quibus
 nusquam procedunt: & ne erres in numero, ordine dominio
 corum, cauc.
 Coniuratio.
-<Emphasis type="italic">B</Emphasis>aruchas maluear chemorsyn charnotiel bason ianocrime-
+Baruchas maluear chemorsyn charnotiel bason ianocrime-
 dufyn aprilty casmyron fayr pean cauoty medafon peroel
 chamyrfyn cherdiel auenos nofear penaon fayr chauelontige-
 nayr pamelron frilcha madyrion onetiel fabelronthos. Hac
@@ -1622,21 +1596,20 @@ diumque pastoris, mihi vero ordini ac bono communi detri-
 mentum inferret. Vnde nec tradendum literis, nec homini cui-
 quam committendum. Vt fimus vterque securi, artis ministrum
 aduoco spiritum, commendo arcanum.
-<Emphasis type="italic">Literas quales volo transmitto, quas legi ab omni-</Emphasis>
-<Emphasis type="italic">bus non recusabo.</Emphasis>
+Literas quales volo transmitto, quas legi ab omni-
+bus non recusabo.
 Ioannes Trittemius Abbas Spanheimensis ordinis San-
 cti Benedicti religiofo fratri Nicolao ex Dureckhein,
 Monacho Coenobij Hirsaugiensis eiufdem ordinis, fince-
 ram in domino charitatem.
-<Emphasis type="italic">C</Emphasis>Vm fciam charissime frater te amatorem bonarũ artium, me te exhor-
+CVm fciam charissime frater te amatorem bonarũ artium, me te exhor-
 tarū vehementer delectat, quatenus perfeuerare velis inquirendis re-
 volutēdisque rugiter librorum secretis, qua nobis ostendunt faelicitatis iter,
  tramite expedito redire in patriam, quam peccando perdidimus, ad q̃ā
 nos flagrantes reducet amor mitissimi clementissimi saluatoris nostri in
 scripturis sanctis occultatus nobis, fi exornauerimue mētem virtutibus ex-
 ercitatētes nos in studio sancto, fine dubio conferendus. Quid enim in exilio
-uiic,</Emphasis>
-
+uiic,
 [segment 34]
 LIBER PRIMVS.
 inserabili vagantibus salubrius dulciusue esse poterit quā literis sedulo in-
@@ -1704,13 +1677,12 @@ est aliotum ducum principum, qui generaliter praefunt omni-
 bus diurnis: vocatur ex eis certus numerus, quot voluerit ope-
 rator,
 Kodak Gray Scale
-
 [segment 35]
 LIBER PRIMVS.
 rator, cum duce nominato. Alij autem in quadruplici ordine sunt famuli principū duodecim; & veniunt semper eũ eis in or-
 dinibus suis. Cum ergo volueris operari per istos praemissis praemittendis ista est coniuratio.
 Carmen.
-<Emphasis type="italic">AMESIEL aphroys chemeryn mear aposyn. Layr peã noema ouear ma fere cralty caleuo thorteam chameron ianoar pe lyn Layr, baduson iesy melros ionatiel delassar rodiuial meron fauean fabelron clumarsy preos throen benarys sauean demosy non laernoty chamedonton.</Emphasis> His rite completis, aderit generalis arcanorum nuncius quem vocasti, promptus, fidelis, penitus-que secretus.
+AMESIEL aphroys chemeryn mear aposyn. Layr peã noema ouear ma fere cralty caleuo thorteam chameron ianoar pe lyn Layr, baduson iesy melros ionatiel delassar rodiuial meron fauean fabelron clumarsy preos throen benarys sauean demosy non laernoty chamedonton. His rite completis, aderit generalis arcanorum nuncius quem vocasti, promptus, fidelis, penitus-que secretus.
 :—:
 Amicum voluerim auisare occulte de ho-mine malo.
 ESt homo quispiam sub apparentia honestatis malus blatte-rator: is sciens me posse apud amicum, commendatorias ad eum postulat à me literas; negare non valeo, nec decipi ami-cum volo ab illo fraudulenter. Scribo literas, circumcellionem laudo mirum in modum, legit, exultat, apertam infidian di viam sibi pollicetur oblatam. Do literas, abit laetus, voco spiritum, mitto ad amicum, vt auiset illum, meumque manifestet arca-num.
@@ -1718,7 +1690,7 @@ Literas mitto commendatorias illi placentes qui commendatur.
 Ioannes Tritth. Abbas Spanheimensis Ioanni Vigilio, domino Vua-
 ckor, vtriusque Iuris Doctori clarissimo Salutem
 dicit.
-<Emphasis type="italic">L</Emphasis>Atorem praesentium ad te mitto, <Emphasis type="italic">Vigili amantissime,</Emphasis> hominẽ profecto cunctis adornatũ virtutibus, omnibue eruditiissimum in scripturis aestimatum G 3 matum
+LAtorem praesentium ad te mitto, Vigili amantissime, hominẽ profecto cunctis adornatũ virtutibus, omnibue eruditiissimum in scripturis aestimatum G 3 matum
 Kodak Gray Scale
 
 54 STEGANOGRAPHIAE
@@ -1735,7 +1707,7 @@ arte Steganographiae probatus: cognito signo Carnesielis, se
 vertat ad Orientem, & praemissis praemittendi, dicat istam con-
 iurationem.
 Conjuratio.
-<Emphasis type="italic">C</Emphasis>Arnesiel aptysi chameron to pemalroyn phroys Cadur
+CArnesiel aptysi chameron to pemalroyn phroys Cadur
 mearmol benadron Vioniel faviron army pean arnotiel fa-
 belronthusyn throe chabelron sauenear medaloys vear olme-
 nadab cralty sayr. Carmine dicto, spiritus missus iam visi-
@@ -1773,7 +1745,6 @@ N otes
 R. Carnsiel
 R. Carnsiel
 R
-
 [segment 36]
 56 STEGANOGRAPHIAE
 rum officium est nunciare generaliter omnia et singula superius
@@ -1793,7 +1764,7 @@ tem ad amicum volueris aliquid nunciare occultum versus Au-
 strum manentem, fac quae secundum artem requiruntur, & dic
 coniurationem.
 Coniuratio Spiritus.
-<Emphasis type="italic">C</Emphasis>Aspiel aloyr chameron noeres padyr diuiel prolsyn veat
+CAspiel aloyr chameron noeres padyr diuiel prolsyn veat
 maduson cralnoti fruon phorsy larsonthon thiano pemar-
 son theor. Caueos adeueos friato briosi panyeldrubon madiel
 sayr fabelrusyn gonear pean noty nabusran.
@@ -1839,7 +1810,6 @@ Cathurmy meresyn elso peano tailrian Caspio fuar Medon cli-
 barsy Caberosyn vlty pean Vearches pemasy natolbyr melda-
 ry noe Cardenopen men for diuieladro.
 H exmo-
-
 [segment 37]
 STEGANOGRAPHIAE
 ex more subiunctis, nuncius inuisibilis apparebit, referens amu-
@@ -1849,135 +1819,85 @@ CVIVS PRINCEPS SVPREMVS DICITVR
 Amenadiel, habitans in Occidente: qui habet sub se duces
 300. Comites vero 500. seruos pene innu-
 meros.
-<Table>
- <TableRow>
- <TableCell role="header">
- <Line>Roth.</Line>
- </TableCell>
- <TableCell role="header">
- <Line>Schw.</Line>
- </TableCell>
- <TableCell role="header">
- <Line>A.</Line>
- </TableCell>
- <TableCell role="header">
- <Line>G.</Line>
- </TableCell>
- <TableCell role="header">
- <Line>X.</Line>
- </TableCell>
- <TableCell role="header">
- <Line>Y.</Line>
- </TableCell>
- <TableCell role="header">
- <Line>Z.</Line>
- </TableCell>
- </TableRow>
- <TableRow>
- <TableCell>
- <Line>Vadros</Line>
- </TableCell>
- <TableCell>
- <Line>Rapsiel</Line>
- </TableCell>
- <TableCell>
- <Line>Almestel</Line>
- </TableCell>
- <TableCell>
- <Line>30</Line>
- </TableCell>
- <TableCell>
- <Line>50</Line>
- </TableCell>
- <TableCell>
- <Line>300</Line>
- </TableCell>
- <TableCell>
- <Line>500</Line>
- </TableCell>
- <TableCell>
- <Line>3000</Line>
- </TableCell>
- </TableRow>
- <TableRow>
- <TableCell>
- <Line>Camiel</Line>
- </TableCell>
- <TableCell>
- <Line>Lamael</Line>
- </TableCell>
- <TableCell>
- <Line>Codriel</Line>
- </TableCell>
- <TableCell>
- <Line>30</Line>
- </TableCell>
- <TableCell>
- <Line>50</Line>
- </TableCell>
- <TableCell>
- <Line>300</Line>
- </TableCell>
- <TableCell>
- <Line>500</Line>
- </TableCell>
- <TableCell>
- <Line>3000.</Line>
- </TableCell>
- </TableRow>
- <TableRow>
- <TableCell>
- <Line>Lusiel</Line>
- </TableCell>
- <TableCell>
- <Line>Zoeniel</Line>
- </TableCell>
- <TableCell>
- <Line>Balsur</Line>
- </TableCell>
- <TableCell>
- <Line>30</Line>
- </TableCell>
- <TableCell>
- <Line>50</Line>
- </TableCell>
- <TableCell>
- <Line>300.</Line>
- </TableCell>
- <TableCell>
- <Line>500.</Line>
- </TableCell>
- <TableCell>
- <Line>3000,</Line>
- </TableCell>
- </TableRow>
- <TableRow>
- <TableCell>
- <Line>Musiriel</Line>
- </TableCell>
- <TableCell>
- <Line>Curfas</Line>
- </TableCell>
- <TableCell>
- <Line>Nadroc</Line>
- </TableCell>
- <TableCell>
- <Line>30.</Line>
- </TableCell>
- <TableCell>
- <Line>50.</Line>
- </TableCell>
- <TableCell>
- <Line>300:</Line>
- </TableCell>
- <TableCell>
- <Line>500:</Line>
- </TableCell>
- <TableCell>
- <Line>300<Emphasis type="underline">0</Emphasis>.</Line>
- </TableCell>
- </TableRow>
-</Table>
+
+Roth.
+
+Schw.
+
+A.
+
+G.
+
+X.
+
+Y.
+
+Z.
+
+Vadros
+
+Rapsiel
+
+Almestel
+
+30
+
+50
+
+300
+
+500
+
+3000
+
+Camiel
+
+Lamael
+
+Codriel
+
+30
+
+50
+
+300
+
+500
+
+3000.
+
+Lusiel
+
+Zoeniel
+
+Balsur
+
+30
+
+50
+
+300.
+
+500.
+
+3000,
+
+Musiriel
+
+Curfas
+
+Nadroc
+
+30.
+
+50.
+
+300:
+
+500:
+
+3000.
+
 A MENADIEL Imperator, spiritus Occidentis su-
 premus habet sub suo dominio principes poten-
 tiores siue duces 300. subduces siue comites non
@@ -1997,9 +1917,7 @@ seruitores famulos secundum 24. horas diei noctis, quas isti
 In quibus si erraueris, nihil proficies, forsitan periculum ali-
 quod incideres. Oportet enim volentem in Steganographia
 operari, non solum in arte nostra esse peritum, sed etiam in o-
-<Gap reason="damaged" extent="ca. 3-4 letters"/>nibus.</Line>
-</Table>
-
+nibus.
 [segment 38]
 LIBER PRIMVS.
 mnibus diligentissimum, quia per patuam in operatione negli-
@@ -2071,7 +1989,6 @@ AD Septentrionem habitat magnus princeps De-
 mortiel, habens sub sua dominio principes &; duces
 principales 400. quos mittit in ministerium huius
 artis secundum ordines suos cum subducibus et comi-
-
 [segment 39]
 LIBER PRIMVS.
 comitibus: quorum numerus minor non est 600. ad nuncian-
@@ -2082,7 +1999,7 @@ numero comitum &; seruorum secundum ordines suos in horis.
 R. S. R. S. X. S.
 Arnibiel Doriel Medar 40 600 400 60 40
 Cabarym Mador Churibal 40 600 100 60 100
-Menador Carnol Dabrynos 40 600 <Gap reason="illegible" extent="ca. 2 chars"/> 60 40
+Menador Carnol Dabrynos 40 600  60 40
 Burisiel Dubilon Chomiel 40 600 | 400 | 60 | 40|
 Iam habes ex 400. ducibus Demorielis nominatos 12. &amp; ex
 subducibus, comitibus et amp; seruis 4560. in numero, qui cum ipsis
@@ -2091,7 +2008,7 @@ Cum ergo volueris per aliquem ex his ducibus in Steganogra-
 phia operari, vertas te ad Septentrionem sicus moris est, &amp; prae-
 missis quę requiruntur ad artem, dic coniurationem.
 Carmen coniurationis.
-<Emphasis type="italic">D</Emphasis>Emoriel onear dabursoy Cohyne chamerson ymeor pean
+DEmoriel onear dabursoy Cohyne chamerson ymeor pean
 olayr chelrusys noeles schemlaryn venodru patron mysel-
 rochadarbon veuaon maferos ratigiel personay lodiol camedõ-
 nasiel fabelmerusin sosiel chamarchoysyn. Completo carmine,
@@ -2118,7 +2035,7 @@ nullius vereantur conspectum.
 Ioannes Trittem. Abbas Spanheimensis Iacobo
 VVymfelingo, Sletstatino, Theologo, poetae et o-
 ratori facundissimo Salutem.
-<Emphasis type="other">M</Emphasis>axime vellem Iacobe Vvimpfelinge, satisfaceres vel sero tandẽ pol-
+Maxime vellem Iacobe Vvimpfelinge, satisfaceres vel sero tandẽ pol-
 licitationi tuae expectationi de te meae. Scis autẽ, quid sis pollititus;
 &amp; quid expectem, non ignoras. Non Monachum sed cum monachis viue-
 re te cupio. Accelera pariter viuamur. Ecce hora instat nostri transitus val-
@@ -2133,9 +2050,8 @@ exhibita, nobis valde vtilia, sędulo cogitantes recompensémus, nostros e-
 mendando reatus, bonis moribus iugiter refulgentes. quatenus poenitentiae
 lachrymisq́; placare districtum iudicis examen properantis ad sedem iudi-
 candi, valeamus, qui se terribilem ostendet proiectis, iocundum electis. Vale
-ex Spanheim, quinto decimo Calẽd. April. Anno domini M.D.CW Cum</Emphasis>
+ex Spanheim, quinto decimo Calẽd. April. Anno domini M.D.CW Cum
 Kodak Gray Scale
-
 [segment 40]
 LIBER PRIMVS.
 Cum literas acceperit is, cui mittuntur, in arte peritus: faciat primo quod ars ipsa requirit : deinde conuerfus ad Septentrio-nem, ficut moris eft, proferat coniurationem.
@@ -2169,7 +2085,7 @@ ratore suo absente non semper voluntarij sunt ad obediendum
 in omnibus operanti. Cum ergo per hũc principem operari vo-
 lueris; praemissis praemittendis, dic coniurationem.
 Carmen Coniurationis.
-<Illegible reason="faded" extent="ca. 2-3 chars"/>
+
 G Eradielonayr bulefar modran fazeuo nabor vie-
 lis proyn therdial masre reneal Chemarson cuhadiam al-
 mona faelty penoyt satodial chramel nadiarsi thorays V ayr pe-
@@ -2182,7 +2098,6 @@ aut ferui ex numero horae fine principe, ficuti volueris fe-
 cundum horas, vt supra dixi-
 mus.
 Arca-
-
 [segment 41]
 [illegible]66 STEGANOGRAPHIAE
 ta, spiritus missi apparebunt tibi visibiliter, tibique manifesta-
@@ -2191,7 +2106,7 @@ CAP. XXII.
 CVIVS PRINCEPS EST BVRIEL NOCTVR-
 nus, Lucifugus, & habitans in lacubus foraminibus terrae:
 & non fit operatio per eum nisi in nocte.
-<Gap reason="illegible" extent="ca. 1 word"/>
+
 P O S T Geradielem sequitur Buriel, princeps qui-
 dem magnus, sed peruersus nequam, qui omnes
 alios spiritus ( maxime principes) odit, perfequi-
@@ -2215,14 +2130,13 @@ Habemus in hac descriptione tabulae ex principibus Burielis
 12. cum famulis 880. qui secundum 12. horas noctis in aequales,
 quas planetarum appellamus, cum ducibus singulis in ordine
 fuo
-
 [segment 42]
 [illegible]68
 STEGOGRAPHIAE
 Literas confingam, qualescunque voluero,
 quae neminem vereantur, nempe vt sunt
 istae.
-<Illegible reason="faded" extent="ca. 1-2 words"/>
+
 SAluator nõter Iesus Christus, qui humanum genus cruore suo in Cruce
 moriens redemit, sollicite absque intermißione est à nobis laudandus: ipse
 sugabit mortem, Etiamque nobis aeternam se timentibus amantibusque spo-
@@ -2235,7 +2149,7 @@ negabitur. Consideremus breuissimam gloriam mundi, quoniam vana est:
 transit velocissime, nosque cum illa omni hora corrumpitur. Humiliemus
 ergo corda nostra omní tempore, nunquam deficientes. Anno M. D. 13.
 Cal. April.
-<Illegible reason="faded" extent="ca. 2-3 words"/>
+
 Cum has aut alias quaslibet susceperit literas is, cui mittun-
 tur, in arte peritus: cognito signo Burci lis, praemissis praemitten-
 dis, terram inspiciat, &amp; Coniurationem dicat.
@@ -2246,7 +2160,6 @@ syn. Dicto carmine, spiritus omnibus inuisibilis, tibi visibilis
 apparebit, &amp; arcanum sibi commißum fideli-
 ter diceat.
 CAP.
-
 [segment 43]
 LIBER PRIMVS.
 CAP. XXIII.
@@ -2254,7 +2167,7 @@ CVIVS SPIRITVS ET PRINCEPS SVPRE-
 mus vocatur Hydriel,& moratur in aquis:habens subse du-
 ces 100 comites 200 famulos pene innume-
 rabiles.
-<Illegible reason="faded" extent="ca. 3 chars"/>
+
 ST alius inter principales Spiritus princeps, qui
 vocatur Hydriel, &; moratur in aquis,pifcinis,lacu-
 bus,paludibusque,& mari, & circa fōtes,cifternas et flumina habens sub suo dominio adminus 100.du-
@@ -2323,7 +2236,7 @@ CAP. XXIV.
 CVIVS PRINCEPS VOCATVR PYRICHIEL,
 habens sub se duces, principes, comites, famulos multos,
 quorum numerus incertus est.
-<Emphasis type="italic">P</Emphasis>YRICHIEL princeps quidam Spirituum supremus nobis ab arte nostra videtur omnino abijciendùs: quia satis beneuolus esse perhibetur.
+PYRICHIEL princeps quidam Spirituum supremus nobis ab arte nostra videtur omnino abijciendùs: quia satis beneuolus esse perhibetur.
 Non habet sub se duce aut principes more caeterorum, sed tantum comites et amp; subseruitores, quorum incertusest numerus. Sunt qui dicant cum duces sub se habere et amp; princi-
 pes, qui nobis videntur proprietatem et amp; cõfuetudinem eius non
 satis intelligere : quippe qui comites et amp; seruitores pro ducibus
@@ -2336,7 +2249,6 @@ Nemariel Cuprisiel 400 30 30 10 10
 Habes iam octo ex comitibus Pyrichielis cum famulis adobsequium deputatis secundum ordinem horarum. Cum itaque
 per istos dictos iam Spiritus operari volueris: voca vnum ex eis,
 quem
-
 [segment 44]
 72 STEGANOGRAPHIAE
 quem volueris: & cum iterum operaris alia vice, tunc vocabis alterum immediate sequentem : & simili modo cùm caeteris faciendum memineris. Praemissis itaque ex more praemittendis in arte generaliter, dic coniurationem istam.
@@ -2366,7 +2278,7 @@ CVIVS IMPERATOR ET PRINCEPS EMONI-
 el vocatur, habens subduces principes 100. comites subser-
 uitores multos : qui habent officium generale su-
 per omnia.
-<Illegible reason="faded" extent="ca. 2-3 chars"/>
+
 H VIVS Capituli princeps Emoniel cum ducibus et principibus suis vagus instabilis est, frequen-
 ter in nemoribus habitat, non fugit lucem, bene-
 uolus promptus ad omnia quaecunque manda-
@@ -2384,7 +2296,6 @@ Phanuel Nasiniel Musiniel 10 20 100 20.
 K Habes
 Kodak Gray Scale
 0 1 2 3 4
-
 [segment 45]
 14 STEGANOGRAPHIAE
 Habes nunc ex ducibus Emonielis 12. cum subducibus &; ser-
@@ -2398,9 +2309,9 @@ secundum artem generaliter esse facienda: &; postea lege istam
 coniurationem, tacite sub silentio nominans spiritum vocan-
 dum.
 Carmen Coniurationis.
-<Emphasis type="italic">EMoniel aproifi chamerufyn thulnear peanos meuear, pan-</Emphasis>
-<Emphasis type="italic">droy cralnotiel narboy mauy fabelrontos, arliel chemorfyn</Emphasis>
-<Emphasis type="italic">nety pranfobyr diuiciel malros ruelty perfon roab chrumeltufyn.</Emphasis>
+EMoniel aproifi chamerufyn thulnear peanos meuear, pan-
+droy cralnotiel narboy mauy fabelrontos, arliel chemorfyn
+nety pranfobyr diuiciel malros ruelty perfon roab chrumeltufyn.
 Hac Coniuratione dicta eo modo, quo ars ipsa requirit, spiritus
 quem vocafti apparebit, paratus obedire ad omnia, quaecunque
 mandaueris ei, quia benevolus &; fidelis est.
@@ -2432,7 +2343,7 @@ Postquam literas acceperitis, cujmittuntur,in arteStegano-
 graphiae perfecte imbutus : faciat, sicut nouit secundum artem
 esse faciendum : quibus praemissis, Coniurationem subiungat.
 Carmen coniurationis.
-<Emphasis type="italic">E</Emphasis>Moniel lebos chamerothy meor pemorfy dyor medulorfyn
+EMoniel lebos chamerothy meor pemorfy dyor medulorfyn
 fray pean,Crymaf y melrofyne vati chabaryn dayr.Aschre
 cathurmofabelton erfoyt marduse. Carmine rite completo,
 spiritus vocatus aderit in forma fibi confueta,reuelabitque tibi
@@ -2443,7 +2354,7 @@ CVIVS SVPREMVS IMPERATOR ICOSIEL
 vocatur,habens sub se duces siue principes 100.comites siue
 subduces 300.fervorum non est mihi certus nu-
 merus adhuc.
-<Initial type="decorated-drop">I</Initial>COSIEL inter spiritus aëreos est vnus ex potiori-
+ICOSIEL inter spiritus aëreos est vnus ex potiori-
 bus Imperator magnus et amp; potens in arcanis Stega-
 nographiae, habens sub se principes ducalis ordinis
 100.Comites vero 300. fervorum certum numerum
@@ -2452,7 +2363,6 @@ mibus libenter cum hominibus versetur.Nã postea quã ex duci-
 bus eius quempiam semel debite cõiuratum ad te vocaueris cũ
 comitibus fuis: si volueris, vt omnibus diebus vitae tuae tecum
 perma-
-
 [segment 46]
 76 STEGANOGRAPHIAE
 permaneat: deputa ei vnum locum secretum et abstrusum in do-
@@ -2476,17 +2386,17 @@ tes virginea. Cum itaque volueris operari per aliquem eorum,
 fac quae secundum artem funt facienda, subiunge istam Con-
 iurationem.
 Coniuratio.
-<Emphasis type="italic">I</Emphasis>Cosiel aphorsi chamersyn thulneas ianotiel menear peanos
+ICosiel aphorsi chamersyn thulneas ianotiel menear peanos
 erasnotiel medurfan matory fabelron erfonial cathurmõs la-
 ernoty beffaym alphayt lamedontinael cabelron. Coniuratio-
 ne rite completa, spiritus aderunt vocati fine mora, quibus arca-
 num tuum ad amicum secure poteris committere.
 Literas mittendas ad placitum facias. Arcanum fit,
 qualecunque volueris.
-<Above>
+
 Micus mihi fit procul absens in arte Steganographiae peri-
 tus, ad quem mihi fit magnum secretum arcanum, quod non
-</Above>
+
 Kodak Gray Scale
 0 1 2 3 4
 
@@ -2517,12 +2427,11 @@ CVIVS SVPREMVS SPIRITVS ET PRIN-
 CEPS VOCATUR Soleuiel, habens sub suo dominio duces principales
 200. subduces &; comites 200. seruitores innu-
 merabiles.
-<Gap reason="damaged" extent="ca. 3 characters"/> NTER eos spiritus, qui cum hominibus, in arte Ste-
+ NTER eos spiritus, qui cum hominibus, in arte Ste-
 ganographiae peritos mores habentibus, libenter
 conuersantur, est quidam Soleuiel nomine, non
 ultimus inter principes huius artis, qui habet se
 K 3 duces
-
 [segment 47]
 78 STEGANOGRAPHIE
 duces principales 200. subduces siue comites similiter 200. qui inter se hunc ordinem infallibiliter obseruant, vt qui hoc anno sunt duces, anno sequente sint comites, fiantque alternatis vici-bus ex ducibus comites, ex comitibus similiter duces. Seruorum autem certum numerum non adhuc reperi, qui et ipsi ordines suos inter se secundum horarum dispositionem custodiunt.
@@ -2530,7 +2439,7 @@ R. R. R.
 Inachiel Nadrufel Axosiel 20 20 200 200 Praxeel Cobusiel Charoel 20 20 2 200 Morucha Amriel Murfiel 20 20 Penador 20 20200 Almodar Prasiel 200
 Hic habes ex principibus Solouielis 12. quorum sex primi sunt isto anno duces, & reliqui sex comites: sequenti anno isti erunt duces, & illi comites, & ita confequenter, alternatis semper vi-cibus. Subseruitorum numerum collegi 1840. Quanquam sint plutes quos nondum numerare potui. Cum autem per istos Spi-ritus operari volueris, esto constans animo et fortis, nec terrea-ris ab eorum aspectu, cum videris eos in forma serpentum ap-parere cum capite virgineo. Deinde fac, quae sunt secundum ar-rem facienda; quibus praemissis, subiunge istam coniurationem.
 Carmen coniurationis.
-<Illegible reason="faded" extent="ca. 3 chars"/>
+
 S Oleuiel marfoy chamerufyn oniel dabry diuel pean vear, lasmyn cralmoty pedaros drumes, pean vear chameron loes madur noty basray exxo nadrus peliel thabron thyrfö ianothin vear perasy loes pean nothyr fabelron bauesy drameron efchi-ran pumelon meor dabrios crimorfief peny year nameroy lyer-noti pralsones. Completo rite carmine, Spiritus aderunt vocati in confueta forma, quibus committas arcnam.
 Arcanum ponamus ad placitum.
 A Micum procul absentem, in arte Steganographia antea pe-ritum, super quibusdam periculis imminentibus auisandum duco. Sed publicum vereor, quum de alieno periculo facerem proprium: quod euitare vt possim, non literis, non hominibus com-
@@ -2561,7 +2470,6 @@ Spiritus missus ab operante visibilis apparebit,reuelans omnia commissa fidelite
 & siquid remandare voluerit operanti,eidem Spiritui
 committat.
 CAP.
-
 [segment 48]
 80 STEGANOGRAPHIE.
 CAP. XXVIII.
@@ -2569,7 +2477,7 @@ CVIVS SVPREMVS SPIRITVS ET IMPERA-
 tor est Menachiel, qui habet sub se principes siue duces 20.
 comites 100. seruos incerti numeri, qui suis obe-
 diunt ducibus.
-<Illegible reason="faded" extent="ca. 3-4 chars"/>
+
 Q VAMVIS ad omnem Steganographiae operatio-
 nem, quae diximus, copiose nobis videantur suffi-
 cere: ne tamen ea, quae sumus experts, obliuioni
@@ -2582,7 +2490,7 @@ ces 20. comites 100. seruos multos, quorum mihi incertus est
 numerus, qui omnes in commissis sunt fideles et amp; optimi nuntij
 in causis magnis regum et amp; principum, per quos operabimur mi-
 rabilia.
-<Illegible reason="faded" extent="ca. 3-4 chars"/>
+
 X. X. X.
 Larmol Benodiel 20 10 100 Barchiel Nedriel
 Drassiel Charsiel 20 10 100 Amasiel Curafyn
@@ -2601,7 +2509,7 @@ LIBER PRIMVS.
 candus secundum tempus &; horas: praemissisque premittendis,
 dic Coniurationem.
 Coniuratio.
-<Illegible reason="faded" extent="ca. 1 char"/>
+
 M Enadiel marfoy peanos onael camerusyn theorianothy o-
 fayr melros tudayr penorsyn sachul tarno rosevas peathan
 asiel morfoy maplear casmyron fstoreal marpenu nosayr pelno
@@ -2627,7 +2535,6 @@ honorabiles estote: vanitates contemnite: Deum humiliter inuocate: nolite
 concupiscere mundum, amaritudinem infundentem. Anno M D. 9. Cal.
 April. d-
 L Cum
-
 [segment 49]
 12 STEGANOGRAPHIE
 Cum has literas acceperitis cui mittuntur, ante in arte peri-
@@ -2665,7 +2572,6 @@ Habe-
 
 LIBER PRIMVS.
 Habemus iam nominatos ex principibus Macarielis 12. cum seruis numeratis 400. secundum vices &; ordines suos. Cum itaque per eos in Steganographia (caue ne voces pauciores quam quatuor ad minus ex praenominatis) volueris operari: praemissisex more praemittendis, dic istam Coniurationem.Carmen.Macariel myrno chamerosy purmy maresyn amos peanamolradu, chabor ianoes fabelron dearsy chadoñ vlyses Almos rutiel pedaron deabry madero neas lamero dearsy, thubra dorpilto melrosyne draoꝛ chalmea near, parmon dearsy charon alnodiel parsa radean, maroy reneas charso gnone, melrosin te dranso casmar ebroset.Landrys masfayr therafonte noel amalan.Hoc carmine dicto, spiritus vocati aderunt in diuerfa specie apparentes, &; frequenter quidem capite cum virgineo, corpore &; cauda definentes in formam draconis, muoluentes &; reuoluentes se quadruplici ordine.Arcanum fit ad principem.PRaefectus regis aut principis, in terra feu provincia conftitu-tus,intellexit delatione secretiffima hostes in breui propofiftum habere prouinciam irrumpendi: vult auisare principemfed nuntiis non poteft, quia torquendi funt ab aduerfariis in via vt tradant arcanum:nec literis, quoniam omnes aperiuntur per eos. Vocat ergo spiritum, committit arcanum,literas fingit aljenas.Literas fingamus nihil conducentes.Rogamus, amicorũ suauißime, tuum exemplar Tertulliani nobilißimisapientiflimiq́; viri nobis vt velis veteris amicitiae intuitu refcribendum velociter mittere,Bernardig.Epistolã ad templarios.Tertulliano glo-riosum Catholice sancctitat is nomes cuncti exhibitũ antiquit̃inter noftros:nobileque, lume scimꝰ illũ fidei sacra nõ remanfitsse ultimũ.Actio-nib.erat eximius,gloriofus diuinae legis inftructor affertor noftre libertatis L 2 deuo-
-
 [segment 50]
 34 STEGANOGRAPHIAE deuotissimus.Licet in aliquibus reprehendatur, scripsit tamen,fidem expõnendo nostram,honoranda volumina.Habebat autem Coniugem zelosam,religionis nostrae amatrixem:humilitate et innocentia nobilem.castitate gloriosã.Extant rectaeinstitutionis ipsius nonnullae elucubrationes lauda-biles,dulces exuberantesque doctrinae multae:Epistolae breues nō inutiles,nos ad inquisitionem aeternae gloriarę honorifice gratioseque hortantes.8.Cal.A-pril.Anno M.D.Ioannes Trittem.scripsit.
 Cum has literas aut quasilbet alias acceperitis cui mittuntur,in arte Steganographiae antea peritus:cognito signo Macarielis faciat,quae sunt ex more facienda,subiungens Carmen.
@@ -2710,7 +2616,6 @@ ius manifestatio mihi periculum, damnum illi afferret non
 paruum. Vt ergo omnia maneant inter me &; illum secreta: non
 homini, non literis, sed spiritui commendo arcanum.
 L 3 Lite-
-
 [segment 51]
 [illegible]LIBER PRIMVS.
 87
@@ -2719,7 +2624,7 @@ CVIVS PRINCEPS SVPREMVS VOCATVR
 Bydiel, habens subsuo dominio duces 20. comites vero 200.
 Seruorum incertus est numeris: sunt multi
 valde.
-<Illegible reason="faded" extent="ca. 1 word"/>
+
 AD HVC vnus restat è Spiritibus supremis, nobis ad
 operationem Steganographiae deputatus: vltimus
 quidem in ordine, sed cum primis dignitate: cuius
@@ -2743,12 +2648,11 @@ seruis multis, qui ordinem suum obseruare nouerunt secundum
 imperium ducum et amp; principum. Cum autem per istos in hac ar-
 te operari volueris: praemissis praemittendis, dic coniuratio-
 nem.
-Car<Illegible reason="blot" extent="ca. 3 characters"/>
-
+Car
 [segment 52]
 ‡ STEGANOGRAPHIAE
 Carmen coniurationis.
-<Illegible reason="faded" extent="ca. 1 word"/>
+
 B Ydiel marchan chamerosi philtres maduse veac casmyron
 cralnoti: pean deuoon fabelios eltida camean veor. Oniel
 vear thyrso liernoty : ianos prolsato chanos elastry peanon elsa-
@@ -2794,7 +2698,7 @@ IN QVO PRAESCRIPCTORVM FIT QVAE-
 dam necessaria recapitulatio. Inseruntur cautelae nonnullae,
 quae volentibus exercere artem Steganographie
 sunt obseruandae.
-<Emphasis type="italic">P</Emphasis>OSTQVAM (Deo maximo superbenedictolaus)
+POSTQVAM (Deo maximo superbenedictolaus)
 nō sine ingenti et amp; continuo labore officia spirituum
 supremorum Steganographiae noistrae prae caeteris
 fauentium descripsimus: ne volentes per eos ope-
@@ -2817,8 +2721,6 @@ la in hac et amp; sequenti pagina.
 | | | | | | |300 |K|
 | | | M | | | | |K|
 | | | | | | | |12 Ca-
-<Gap reason="damaged" extent="ca. 1-2 characters"/>
-
 [segment 53]
 [illegible]Liber Primus.
 torum sapientiae, nec natura iuuat, cum hanc nostrae adinuen-
@@ -2855,7 +2757,6 @@ tam in circulo quam in singulis tabulis atque capitulis) differẽ-
 tiam, loca,nomina,ordines et officia supremorum Spirituu̇, du-
 ces quoqueeorunde, & quot sint comites in numero ; que ordinẽ
 M 2 obser-
-
 [segment 54]
 obseruent, & quot praesint substitutis: vt nouerit haec in coniura tione exprimere.Nisi enim omnia ista diligenter custodierit ar- tis operator, non poterit proficere, nec ad intentionis suę effe- ctum peruenire.Rursus diligenter attendat, quando vnusquif- que ad quae officia siue arcana spiritus sit vocan- dus, ad quam orbis plagam habitet:ne erret vel in locis, vel in omnibus singulorum aliquorumque, quos vocare voluerit.
 Item fit auifatus omnis in hac scientia operaturus, vt atten dat diligentissime, vt coniurationum verba debite pronunciet, in quibus magna vis operationis nostrae confiftit:quoniam dum in coniurationibus error committitur:spiritus vocati vocan di non solum non obediunt, sed etiã omnino reluctantur.Con sequenter vero praemonitus fit, ne alterum vocet pro altero, fed vnum quemque in ordine, tempore officio suo : quemadmo dum à nobis pene in omnibus istius libri capitulis sufficienter eft dictum.Nam si vel ex errore, vel ex qualibet alia negligentia, alterum vocauerit pro altero: nihil in operatione sua profice ret,sed periculum sibi prouocaret.
@@ -2873,7 +2774,7 @@ Rheni, Ducemque Bauariae, Sacri Imperij Ar-
 chidapiferum ac Principem E-
 lectorem.
 PRAEFATIO.
-<Initial type="decorated-drop">N</Initial>º precedenti libro, Dei summi auxilio freti, v-
+Nº precedenti libro, Dei summi auxilio freti, v-
 num et amp; triginta per ordinem spiritus supremos
 artis nostrae Imperatores cum ducibus, comitibus et amp; seruitoribus suis nobis ad operationem necessa-
 riis non sine magno sudore digessimus: quorum et-
@@ -2886,7 +2787,6 @@ pientum traditionem sint ad varias operationes diuersosque et mirandos effectus 
 xat,non supersitionem, imitari: vt sumamus sine laesione Chri-
 stiani nominis ab eis quodnobis ad nostrum conducit propositum:
 reliqua vero tanquam magicis artibus plena, &amp; fidei nostrae con-
-
 [segment 55]
 PRAEFATIO.
 traria ssternendo transeamus. Singulis itaque horis tam diurnis quam nocturnis deputatos per secretum Salomonis, cognominati Hermetis, in suo de Magia volumine Spiritus principales tanquam artis supremos imperatores cum caeteris officialibus, nobis ad opera- tionem propositam necessarius, assumentes prosequemur: dabimusque &; modum &; doctrinam omnibus in hac arte studiosis, quibus mentium suarum conceptum secretum &; arcanum qualibet hora tutiori consilio patefaciant amicis. Quilibet namque princeps suis Spiritibus, ducibus, comitibus &; seruitoribus tanquam speculator praefidet: ad cuius praeceptum vocati à nobis legitimo carmine veni- unt: arcana commissa perferunt, &; se nobis obedientes promptofque in omnibus ostendunt. Sed cum denuo Spirituiꝰ mentionem sim habiturus, rursus mihi reor esse praefandum: Nihil in hac arte nostra haberi friuolum: nihil Euangelica traditioni aut Catholicae fidei contrarium: nihil omnino tradi superstitiosum. Omnia enim, que vel inpraecedente volumine diximus, vel in sequentibus dicturi sumus, naturalibus, licitis &; honestis sunt subnixa principijs: solisque peregrinis institutionibus velatum mysterium, &; verba nominibus inuoluta spirituum, lectorem requirunt eruditum. Vtimur enim ministerio Spiritus ad velandum secretum, quod noceret reprobis publi- catum. Et ne quis in horarum supputatione ex errore deficiat:: horas planetarum tam in die, quam in nocte, nos accepiffe noscat.
@@ -2898,7 +2798,7 @@ SAMAEL SVPREMVS IMPERATOR PRI-
 mae horae diei praesidet: qui habet suo imperio duces, comites et amp;
 seruos complures, quos mittit in hac hora tantum vocatos ad
 operantem in Steganographia expertum.
-<Emphasis type="italic">P</Emphasis>RIMAe horae diei, quae in ortu folis fumit exor-
+PRIMAe horae diei, quae in ortu folis fumit exor-
 dium, Spiritus Imperator Samael dicitur: qui
 habet sub suo imperio duces , comites, subferui-
 tores plurimos : qui vocati per operãtem in hac ho-
@@ -2926,18 +2826,17 @@ Charpon Nestoriel 10 100 1000 α ß
 Darofiel Chremas 10 100 1000 10 20
 Monasiel Meresyn 10 100 1000 20 10
 Habe-
-
 [segment 56]
 LIBER SECVNDVS.
 Habemus iam ex ducibus magni Samaelis 4. &amp; ex comitibus totidem, ex seruitoribus ex triplici ordine 4440. quorum mini-sterium ad omnem operationem artis Steganographiae, quo ad primam horam diei, copiose nobis sufficit.
 Cum itaque in prima hora operari in arte volueris, cha-racterem domini ascendentis scribe in schedulam primo, deinde lunae: postea reliquorum planetarum omnium secundum ordinem consuetum, &amp; in fine characterem signi eadem hora a-scendentis. Cumque hoc compleueris, scribe in dorso eiusdem schedulae istam coniurationem cum silentio, tacens:
 Coniuratio.
-<Initial type="simple">S</Initial>Amael afluar onayr myscolayar madiel cuhiel naniel nabruys satiel atharbiel nadian naslon, ranyalcoha pemarson. Hac Coniuratione scripta in schedula, vt praefertur, pulchre, clare et amp; distincte literas mittendas ad eum, quem volueris scire arcanum, aptabis, in quacunque forma tibi placuerit: quia nihil refert, quales (modo nullum in se secretum contineant literae mit-tendae) formatę fuerint. Deinde, literis etiam scriptis, voca vnũ aut duos ex comitibus secundum ordinem, si multis vicibus in hac ipsa hora diei prima operaris, &amp; dic coniurationem praescriptam ex eadem schedula, fortiffima intentione, nihil metuens: qua rite completa, spiritus vocati statim apparebunt tibi visibiles in forma familiari, sibique consueta: placidi, beneuoli, ad omnia promptiffimi seruitiiS occurrẽtribus: quibus apparentibus committe principaliori inter eos arcanum tuum, dicens: Ame-niel tibi per virtutem occultam huius Coniurationis mando, vt ad Albertum Goëler de Rauenspurg, praefectum in Creutze-nach, quanto citius pergas, eiꝙue ex meo nomine dicas sic vel fic. His dictis subiunge verbum secretum, quod non est scribdum: statimque spiritus auolabit. Literas autem charactere Samaelis obsignatas (sicut moris est) per nuncium mitte, in quibus nullum contineatur secretum, &amp; que nullius vereantur conspectum.
+SAmael afluar onayr myscolayar madiel cuhiel naniel nabruys satiel atharbiel nadian naslon, ranyalcoha pemarson. Hac Coniuratione scripta in schedula, vt praefertur, pulchre, clare et amp; distincte literas mittendas ad eum, quem volueris scire arcanum, aptabis, in quacunque forma tibi placuerit: quia nihil refert, quales (modo nullum in se secretum contineant literae mit-tendae) formatę fuerint. Deinde, literis etiam scriptis, voca vnũ aut duos ex comitibus secundum ordinem, si multis vicibus in hac ipsa hora diei prima operaris, &amp; dic coniurationem praescriptam ex eadem schedula, fortiffima intentione, nihil metuens: qua rite completa, spiritus vocati statim apparebunt tibi visibiles in forma familiari, sibique consueta: placidi, beneuoli, ad omnia promptiffimi seruitiiS occurrẽtribus: quibus apparentibus committe principaliori inter eos arcanum tuum, dicens: Ame-niel tibi per virtutem occultam huius Coniurationis mando, vt ad Albertum Goëler de Rauenspurg, praefectum in Creutze-nach, quanto citius pergas, eiꝙue ex meo nomine dicas sic vel fic. His dictis subiunge verbum secretum, quod non est scribdum: statimque spiritus auolabit. Literas autem charactere Samaelis obsignatas (sicut moris est) per nuncium mitte, in quibus nullum contineatur secretum, &amp; que nullius vereantur conspectum.
 N Arca-
 
 68 STEGANOGRAPHIAE
 Arcanum fit, qualecunque occurrit.
-<Illegible reason="faded" extent="ca. 1-2 words"/>
+
 SIt arcanum magnum, arduumque secretum, qualecunque
 pro tempore occurrit &; tale, quod nulli debeat communica-
 ri: nec literis credendum, nec tabellionibus: quia non est in hac
@@ -2967,8 +2866,7 @@ atq́ue secure, quem sine timore ita audiat cum magna in-
 dustria, vt si aliquis circumsederit, ne vel nutu vel
 verbo spiritum indicet praesen-
 tem.
-CAP.<Gap reason="damaged" extent="ca. 2-3 letters"/>
-
+CAP.
 [segment 57]
 LIBER SECVNDVS.
 CAP. II.
@@ -2977,7 +2875,7 @@ uorym. Cuius princeps et supremus spiritus est Anael, qui habet
 sub suo Imperio duces 10.comites, praesidentes
 100,Seruorum et subseruentium non est
 certus numerus.
-<Illegible reason="faded" extent="ca. 2-3 words"/>
+
 PRAeSIDENS et amp; Imperator secundae horę diei prin-
 cipalis vocatur Arael, qui habet sub suo Imperio
 deputatos in ministerium huius artis Steganogra-
@@ -3034,7 +2932,6 @@ pro maximis atque grauissimis occultis tractatoribus naturae zelo bono, quẽ
 habuere philosophi antiquissimi. Habeo autem tibi gratias longe immorta-
 les, frater mi dulcissime, qui glutinum mutui tenuisti inuiolatum. Hoc n.
 fami-
-
 [segment 58]
 LIBER SECVNDVS.
 familiari negocio, quod graui modestia diligẽtißime procurasse videris, plana cognoui:quod factum laudo: gratiasque habeo nunquam moriuras. Itaque
@@ -3074,7 +2971,7 @@ CVIVS HORA VOCATVR DANZVR, ET
 spiritus eius imperator supremus est Vequaniel, qui habet sub
 suo dominio duces 20. comites 200. Seruorum non
 est numerus.
-<Illegible reason="faded" extent="ca. 3 chars"/>
+
 ERTIA hora diei appellatur Danfur, cuius supre-
 mus spiritus &; imperator vocatur Vequaniel, habēs
 sub suo imperio duces 20. comities 200. Servorum
@@ -3085,7 +2982,7 @@ uoluntarij ad obedientiam, sed vocati in pulico sine lesione aut
 periculo vocantis minime possunt. Amant enim secretum, sicut et amp; caeteri omnes, qui horis et amp; earum operationibus praesunt.No-
 mina vero omnium non noui, sed paucorum tantum, quae reue-
 lantibus ipsis in hanc tabulam redacta nobis sufficiunt.
-<Illegible reason="faded" extent="ca. 1 char"/>
+
 X. R. X. R.
 Asmiel Drelmech Gemarij 20 20 200 200
 Persiel Sadiniel Xantiel 20 20 2oo 200
@@ -3097,22 +2994,21 @@ ad omnes huius artis operationes in hora tertia diei sufficiunt.
 Cuma ergo volueris in hac hora Spiritum pro aliquo nuntio
 perferendo ad amicum vocare: non pauci oires, quam ad minus
 duces duo,comites totidem cum feruis eorum vocentur. Si au-
-tem <Gap reason="damaged" extent="remainder of line"/></Illegible>
-<Illegible reason="faded" extent="ca. 5 chars"/>
-Kodak Gray Scale
+tem 
 
+Kodak Gray Scale
 [segment 59]
 LIBER SECVNDVS.
 103
 tem plures vel pauciores vocare volueris; poteris quidem, sed oportebit coniurationem habere ad imperatorem vniuersalem, sine cuius mandato non violant ordinem suum Spiritus. Itaque scribe in chartam nouam, characterem domini ascendentis, cae-terosque per ordinem planetarum, cum signo domus duodeci-mae, eo modo, quo institutio artis requirit. In dorso chartae scri-be istam Coniurationem.
 Coniuratio.
-<Emphasis type="italic">V</Emphasis>Equaniel, odiel mesrij reuoj sotiel mear iamy otiel aslofian yrsoti breotion drearij fabel merusin. Coniuratione scripta subiunctisque his, que requiruntur ex arte; dic eam voce submis-sa, ne à quoquam audiatur: &amp; statim venient spiritus vocati, quos vt videris, committe potiori secretum, quem facile cognosces ex habitu: quia semper, qui primus est inter caeteros spiritus, co-ronatus apparet.
+VEquaniel, odiel mesrij reuoj sotiel mear iamy otiel aslofian yrsoti breotion drearij fabel merusin. Coniuratione scripta subiunctisque his, que requiruntur ex arte; dic eam voce submis-sa, ne à quoquam audiatur: &amp; statim venient spiritus vocati, quos vt videris, committe potiori secretum, quem facile cognosces ex habitu: quia semper, qui primus est inter caeteros spiritus, co-ronatus apparet.
 Arcanum fit qualecunque.
 S Ecretum tibi sit qualecunque ad amicum absentem, quod nec literis, ne à quopiam legantur, sit committendum, nec tabel-lioni, ne quauis occasione aut precio corruptus aut metu te tra-dat in publicum. Voca spiritum horae deputatum, committe illi arcanum, nil metuens: perfert fideliter.
 Literas formabis ad placitum.
 Ioannes Tritthemius Abbas Spanheimensis Arnol-do Bostio, Carmelitae Gandauensi, Conphiloso-pho, salutem et amp; charita-
 tem.
-<Emphasis type="italic">C</Emphasis>Vm te amatorem artium humanatis nouerim, deuotumꝙ Christia-nae fidicitatorẽ, maximum ꝗ̈, sautorem omnĩ philosophorũ, libenter gratifi-
+CVm te amatorem artium humanatis nouerim, deuotumꝙ Christia-nae fidicitatorẽ, maximum ꝗ̈, sautorem omnĩ philosophorũ, libenter gratifi-
 
 104 STEGANOGRAPHIAE
 gratificor petitionibus tuis mira voluptate amicitiae adductus. Librum de
@@ -3147,7 +3043,6 @@ mus angelus appellatur Vathmiel, qui habit sub se
 deputatos ad hanc artem Steganographię duces
 nominatiissimos io.comites vero 100.seruorum in-
 finitus
-
 [segment 60]
 LIBER SECVNDVS.
 105
@@ -3173,14 +3068,14 @@ cterem domini ascendentis domus duodecimae cum caeteris
 scribe in charta noua: in eius dorso istam Coniurationem, fic-
 ut decet.
 Coniuratio.
-<Emphasis type="italic">V</Emphasis> Athmiel adres rheareso rafe rheotij venofi sayr fatiel cafa
+V Athmiel adres rheareso rafe rheotij venofi sayr fatiel cafa
 irsoti verotiel does ro fabel merufin. Deinde, posteaquam
 praemiseris ea quae funt ex more praemittenda: eandem Coniu-
 rationem submissa voce dicas: statim spiritus vocati aderunt,
 ad minus vnus dux vnus comes, cum seruitoribus corũ prom-
 pti ab obediendum tuis mandatis.
 Argumentum secreti nuncii.
-<Emphasis type="italic">S</Emphasis>It arcanum qualecunque, magnum valde secretum, quod
+SIt arcanum qualecunque, magnum valde secretum, quod
 nullum omnino scire velis praeter vnum. Voca spiritús horae
 O depu-
 
@@ -3217,7 +3112,6 @@ uet dominum ascendentis eiusdem horę signum domus duo-
 decimae: scribatque eorum characteres cum caeteris in charta,
 cum aliis quae requiuntur ad operationem, dicat que postea con-
 iurationem supra dictam, viso spiritu ista verba: Camerusin apoy-
-
 [segment 61]
 [illegible]108 STEGANOGRAPHIAE
 ad omnem operationem praesentis horae sufficit. Cum itaque
@@ -3249,7 +3143,6 @@ tiam fpernere:operibuf artifusque,faecularibus occupari.Bone frater quida-
 gis? turbafinos fatuoque zelaris bilingues:odium,amaritudinem,rifax,
 contentioneffque amas,bonitatem odis,bilinguis es,contentiosus,fuperbus.
 Fatne
-
 [segment 62]
 LIBER SECVNDVS.
 Fatue quid agis? Tempus adest ocyus secundum iustitiam corrigendi Zelose has negligentias tuas: zelumque amaritudinis flagellis humilitatū nisi accurras humiliter nobis infringere officio Zelare cogimur cōtra omnia, quae actitas fidei moribusque Catholicis seditiosa Vale ex Spanh. prid. Cal. April. Anno M.D.
@@ -3264,7 +3157,7 @@ Arnebiel Gamyel Nedabar 10 100 , 100
 Charuch Ienotriel Permon 10 100 100
 Medusiel Sameon Brasiel 10 100 200
 Nathmiel Trasiel Camosiel 10 10 100
-Pemiel Xamyon Euadar 10 100 <Gap reason="illegible" extent="ca. 3 chars"/> 100
+Pemiel Xamyon Euadar 10 100  100
 O 3
 
 [illegible]
@@ -3281,19 +3174,28 @@ CVIVS HORA VOCATVR HAMARYM, ET
 Spiritus eius Barquiel, habens sub suo imperio duces 10.co-
 mites 100. Seruorum mihi non est cert us nu-
 merus.
-<Emphasis type="italic">EPTIMA hora diei vocatur Hamarym, ange-</Emphasis>
-<Paragraph>
-<Line>lus eius appellatur Barquiel: qui habet sub suo im</Line>
-<Line>perio duces 10. comites 100. Seruorum magnus </Line>
-<Line>incertus est numerus. Quorum omnium ministeria</Line>
-<Line>per vices ordines suos ad omnem operationem Steganogra-</Line>
-<Line>phiae in hora diei septima nobis abunde sufficiunt. Cum autem</Line>
-<Line>operari volueris per Spiritus praedicti imperatoris in septima</Line>
-<Line>hora: non voces pauciores, quam ad minus vnum ducem, v-</Line>
-<Line>num comitem, qui habent seruos sibi deputatos, quilibet in or-</Line>
-<Line>dine suo. Vt autem habeas ad manum nomina aliquorum ducũ:</Line>
-<Line> comitum, per quos queas operari: tabulam attende.</Line>
-</Paragraph>
+EPTIMA hora diei vocatur Hamarym, ange-
+
+lus eius appellatur Barquiel: qui habet sub suo im
+
+perio duces 10. comites 100. Seruorum magnus 
+
+incertus est numerus. Quorum omnium ministeria
+
+per vices ordines suos ad omnem operationem Steganogra-
+
+phiae in hora diei septima nobis abunde sufficiunt. Cum autem
+
+operari volueris per Spiritus praedicti imperatoris in septima
+
+hora: non voces pauciores, quam ad minus vnum ducem, v-
+
+num comitem, qui habent seruos sibi deputatos, quilibet in or-
+
+dine suo. Vt autem habeas ad manum nomina aliquorum ducũ:
+
+ comitum, per quos queas operari: tabulam attende.
+
 Table
 | R. | Abrasiel | Harmiel | Pasriel | 10 | 10 | 100 |
 | --- | --- | --- | --- | ---:| ---:|---|
@@ -3335,7 +3237,6 @@ Salut. dicit.
 C Ommodauerã libros tibi meos sub conditione restituendi, miles cha-
 rissime Bunane: sed ecce minime eos restituisti quos in breui remittere
 debuif-
-
 [segment 64]
 LIBER SECVNDVS.
 debuisses.Contra legem facis, quam si des Catholica de promißione sanctuit: non differas, quod promisisti, soluere cunctis : non decet bonum et honestũ virum, ortum parentibus maioribusque nobilibus, violare promißum. Pro- miseras autem breui diligentiffime restituere. Leuitatis est quasi ad Calen-
@@ -3370,8 +3271,7 @@ principalis appellatur Osmadiel secundũ Picatri-
 cem in magicis: qui habet sub imperio suo duce;
 P 10.co-
 
-114 STEGANOGRAPHIAE 10. comites 100. seruos innumerabiles deputatos non solum ad operationem Steganographiae nostrae, sed etiam ad multa expe- rimenta magica. Et dicit Salomon Iudaeus, cognomento Her- mes, in libro de natura spirituum: quod omnes isti praenomina- to Osmadaeli obedientes et subiecti duces et comites in diuersis transformationibus ad libitum operantis venire consueuerunt: quemadmodum ab operante iussi fuerint. Sed iam aliquo- rum nomina ponamus. R. X. R. X. Sarfiel Demaros Mariel 10 10 100 100 Amalym Ianofiel Remasyn 10 10 1oo 100 Chroel Larfuty Theoriel 10 10 1 oo 100 Mesial Vemaël Framion 10 10 1 oO 100 Lantribotz Thribiel Ermiel 10 10 OO 100 Ex ducibus quinque, & ex comitibus 10. iam nominatos in tabula habemus, qui nobis ad omnem operationem huius horę sufficiunt. Cum autem per eos operari volueris in Steganogra- phia: scribe in chartula munda cum characteribus et coniura- tionibus consuetis: & primo subiunctis subiungendis, dic ipsam coniurationem scriptam, quae est talis. Conjuratio. <Emphasis type="italic">O</Emphasis> Smodael aneor ersotynes as, hays layr Caphrayn thelreas meair penarsy. Hoc Coniurationis carmine dicto, spiritus vocati aderunt, prompti et obedientes ad omnia. Arcanum du- ci committas, non comiti, nisi ille fuerit absens: quia semper principaliori inter venientes debet commendari. Argumentum secreti ad placitum. <Emphasis type="italic">S</Emphasis>It nobis arcanum qualecunque (quod velimus scire amicum procul absentem) & tale quod non velimus venire ad alicu- ius al-
-
+114 STEGANOGRAPHIAE 10. comites 100. seruos innumerabiles deputatos non solum ad operationem Steganographiae nostrae, sed etiam ad multa expe- rimenta magica. Et dicit Salomon Iudaeus, cognomento Her- mes, in libro de natura spirituum: quod omnes isti praenomina- to Osmadaeli obedientes et subiecti duces et comites in diuersis transformationibus ad libitum operantis venire consueuerunt: quemadmodum ab operante iussi fuerint. Sed iam aliquo- rum nomina ponamus. R. X. R. X. Sarfiel Demaros Mariel 10 10 100 100 Amalym Ianofiel Remasyn 10 10 1oo 100 Chroel Larfuty Theoriel 10 10 1 oo 100 Mesial Vemaël Framion 10 10 1 oO 100 Lantribotz Thribiel Ermiel 10 10 OO 100 Ex ducibus quinque, & ex comitibus 10. iam nominatos in tabula habemus, qui nobis ad omnem operationem huius horę sufficiunt. Cum autem per eos operari volueris in Steganogra- phia: scribe in chartula munda cum characteribus et coniura- tionibus consuetis: & primo subiunctis subiungendis, dic ipsam coniurationem scriptam, quae est talis. Conjuratio. O Smodael aneor ersotynes as, hays layr Caphrayn thelreas meair penarsy. Hoc Coniurationis carmine dicto, spiritus vocati aderunt, prompti et obedientes ad omnia. Arcanum du- ci committas, non comiti, nisi ille fuerit absens: quia semper principaliori inter venientes debet commendari. Argumentum secreti ad placitum. SIt nobis arcanum qualecunque (quod velimus scire amicum procul absentem) & tale quod non velimus venire ad alicu- ius al-
 [segment 65]
 LIBER SECVNDVS.
 ius alterius notitiam; & saepe contingere potest: Ne ergo vel ta-
@@ -3381,7 +3281,7 @@ securi.
 Ioannes Trittemius Abb. Spanh. ordinis Sancti Be-
 nedicti Domino Conrad. Abb. Sancti
 Stephani Herbipolensi, S.D.
-<Emphasis type="italic">H</Emphasis>
+H
 E xij t rumor de Lympurgensi Abbate, quod dimiserit fratrem Ioannem
 Feilsdorfensem, virum fidelem, temporalium rerũ maxime peritũ:
 nouosque introduxerit monachos Panti moranos, ipsosq́; sibi deputauerit of-
@@ -3413,7 +3313,7 @@ CVIVS HORA VOCATVR KARRON , ET
 nomen supremi Angeli eius est Quabriel, habens sub suo Im-
 perio duces 10 . comites 100 . Seruorum non est
 certus numerus.
-<Illegible reason="faded" extent="ca. 2-3 chars"/>
+
 N O N A hora diei vocatur Karron , &amp; spiritus eius
 principalis appellatur Quabriel, qui habet sub suo
 Imperio multos et amp; pene innumerabiles duces , co-
@@ -3435,12 +3335,11 @@ Sed nunc iam aliquorum ducum et amp; comitum nomina expona-
 mus.
 R. R. R. R.
 Astroniel Kranos Trubas 10 10 10 100
-Charmy Menas Xermiel 10 10 10 <Emphasis type="underline">100</Emphasis>
-Pamory Brastel Lameson 10 10 1<Illegible reason="faded" extent="ca. 2 chars"/> 100
+Charmy Menas Xermiel 10 10 10 100
+Pamory Brastel Lameson 10 10 1 100
 DamyeL Nefarym Zaznor 10 10 1O 100
 Nadriel Zoymiel Ianediel 10 10 1o 100
 Hic
-
 [segment 66]
 LIBER SECVNDVS.
 Hic iam habemus nominatos duces 5.comites 10.numera-
@@ -3506,7 +3405,6 @@ rium nomina scire,vocet vnum ex nominatis in tabula, &amp; inter-
 roget eum: &amp; audiet, quaecunque voluerit:&amp; quotquot volue-
 rit scire,perfecte sciét ex illo.
 Armo-
-
 [segment 67]
 LIBER SECVNDVS.
 R. R. R. R.
@@ -3572,7 +3470,6 @@ ei vndecima, in experimentis varijs. Ex his deputati sunt ad o¬
 perationem Steganographiae per ordines suos multi. In primo
 ordine sunt 10. in secũdo 30. in quarto 40. in quinto
 500.in
-
 [segment 68]
 LIBER SECVNDVS.
 500.in sexto 600. in septimo 700. in octauo 800. in nono 900.
@@ -3606,10 +3503,10 @@ B Ariel mylan theory madruson alfayr dreschym taparoys me-
 ar moas layr penason.Praemissî premittendis,didistam con-
 iurationem, sicut oportet: &; statim spiritus vocati apparebunt
 quos vocasti: committe eis secretum, quodcunque habueris.
-Q Consti<Gap reason="damaged" extent="ca. 1 char"/>
+Q Consti
 
 123 STEGANOGRAPHIAE Constitutio arcani cuiuscunque.
-<Emphasis type="italic">E</Emphasis>St nobis arcanum ad amicum, siue ad alium quemlibet in ar-
+ESt nobis arcanum ad amicum, siue ad alium quemlibet in ar-
 te nõstra peritum, quod neque per literas neque per tabel-
 lionem significate possumus, quia periculum vtrobique formi-
 damus. Vocamus itaque spiritum, commendamus potiori se-
@@ -3618,7 +3515,7 @@ Literarum tenor ad placitum.
 Ioan. Tritth. Abbas Spanh. ordinis diui Benedicti, fra-
 tri Quirino, Monacho Corbeiensi in
 Francia, S.
-<Initial>D</Initial>E Genitrice perpetuae Virginis Mariae transmitto orationem meam,
+DE Genitrice perpetuae Virginis Mariae transmitto orationem meam,
 quam nuper postulasti Quirine: Aue benignissima mater Anna,
 Mariae Virginis parens fulgentissima: tu omnium invocantium te adiurrix
 fidelissima: tu querentium te nobile refugium: quietum sanctitatis benefi-
@@ -3638,9 +3535,8 @@ missi apparebunt.Quos vt videris, dicenda sunt ad principalio-
 rem inter eos ista verba: chamerusin maslotiel vear reneas lier-
 noty trismy penafon.Cum haec verba dicta fuerintad spiritum
 inter alios potiorem, qui ex habitu et amp; corona facile cognosci-
-tur et amp; semper alios praecedit: mox reuelabit arcanum in aurem.</Emphasis>
-CAP<Gap reason="damaged" extent="ca. 1 character"/>
-
+tur et amp; semper alios praecedit: mox reuelabit arcanum in aurem.
+CAP
 [segment 69]
 LIBER SECVNDVS.
 123
@@ -3649,7 +3545,7 @@ CVIVS SPIRITVS MAGNVS IMPERATOR
 sub suo dominio multos habet principes, duces, comites &; fa-
 mulos. Hora vocatur Naybalon, &; spiritus e-
 ius Beratiel.
-<Illegible reason="faded" extent="ca. 4 chars"/>
+
 D VODECIMA hora diei vocatur Nahalon, &; ange-
 lus eius supremus Imperator appellatur Beratiel:
 qui secundum Salomonem Iudaeum sub Imperio
@@ -3665,7 +3561,7 @@ ligens et amp; perfectus operator in arte, quos et amp; quot voluerit in ho-
 ra diei duodecima, poterit aduocare. Omnes autem huius ho-
 rae principes, duces et amp; comites (secundum sententiam Razielis)
 formas assumunt ad placitum operantis.
-<Illegible reason="faded" extent="ca. 1 char"/>
+
 X. X. X. X.
 Camaron Plamiel Edriel 10 100 10 100
 Astrofiel Nerostiel Choriel 10 100 10 100
@@ -3685,21 +3581,21 @@ dentis ipsius horae, & domum duodecimae: & characterem vtri-
 usque cum ceteris necessariis in chartula munda scribe, & in e-
 ius dorso istam coniurationem.
 Coniuratio.
-<Emphasis type="italic">B</Emphasis>Erathiel Odiel irfotirodu dreor rauezo melros ethiel aty no
+BErathiel Odiel irfotirodu dreor rauezo melros ethiel aty no
 diel hayres penafon. Deinde, praemissis omnibus praemitten-
 dis ex more, dic istam coniurationem debito modo : & statim
 spiritus vocati apparebunt. Tunc potiori committas arcanum,
 secundum institutionem artis: & fideliter obediet in omnibus.
 Argumentum secreti cuiuscunque ad placitum,
 quod occurrit.
-<Emphasis type="italic">E</Emphasis>St nobis amicus procul absens: huic periculũ scimus immi-
+ESt nobis amicus procul absens: huic periculũ scimus immi-
 nere, quod ipsum latet: auisare illum cupimus, sed ob certas
 causas in aperto non audemus. Vocamus ergo secundum ho-
 ram huic operationi deputatos spiritus: arcanum secure com-
 mendamus.
 Literas, ad placitum formatas, signo spi-
 ritis obfirmamus.
-<Emphasis type="italic">O</Emphasis>Mnis, qui de rebus temporalibus gloriatur, virtuosus nequaquam re-
+OMnis, qui de rebus temporalibus gloriatur, virtuosus nequaquam re-
 stat appellandus &; qui amat res transitorias, non potest amator esse
 Iustitiae: quoniam Catholica integritas detestatur hominem cupiditatibus
 inhiantem. Sancta enim religio fidei Christianae mundi amorem interdicit
@@ -3708,7 +3604,6 @@ nam amittit. Catholicus non Catholicè viuens Christum negasse arguitur:
 &; qui amat res temporales, bonus esse Catholicus non dicitur. Qui creator ē
 amat, gaudia inquirit rerum spiritualium. Christi amator cunctas mundi
 volupta-
-
 [segment 70]
 LIBER SECVNDVS.
 125
@@ -3718,7 +3613,7 @@ CAP.XIII.
 CVIVS HORA VOCATVR OMALHARIEN,
  angelus eius supremus appellatur Sabrathan,qui habet
  sub suo imperio principes,duces,comites et seruos multos.
-<Initial type="decorated-drop">P</Initial>RIMA hora noctis vocatur Omalharien, ange-
+PRIMA hora noctis vocatur Omalharien, ange-
 lus eius appellatur Sabrathan, qui multos alios Spi-
 ritus sub se habet, diuersis operationibus magicis deseruientes temporibus ordinibus suis, sicut te-
 statur Hermes Salomon Iudaeus in magicis expertissimus. Ex his ad operationem artis nostrae multi per vices ordines suos deputati sunt. In primo enim ordine sunt 10.in secundo 20. in tertio 30.in quarto 40. in quinto 500.in sexto 600. in septimo 70.
@@ -3754,7 +3649,6 @@ raris. Non est tutum in leuibus causis aduocare Spiritus: sed v-
 bi ministeria humana deficiunt, eorum in
 arte requirantur.
 Lite-
-
 [segment 71]
 [illegible]128 STEGANOGRAPHIAE
 CAP. XIV.
@@ -3762,7 +3656,7 @@ CVIVS HORA VOCATVR PANEZVR, ET
 angelus eius imperator supremus appellatur Tartys, qui ha-
 bet sub se principes, duces, comites et seruos
 multos.
-<Illegible reason="faded" extent="ca. 3-4 chars"/>
+
 ECVND A hora noctis vocatur Panezur, &amp; angelus
 eius appellatur Tartys, habēs sub suo imperio prin-
 cipes, duces, comites subseruitores multos, quos
@@ -3788,7 +3682,6 @@ Ormezyn Fromezyn Venomiel 100 10 100 10
 Chabriz Ramaziel Ienaziel 100 10 100 10
 Praxiel Granozyn Xemyzin 100 10 100 10
 Hic
-
 [segment 72]
 LIBER SECVNDVS.
 Hic habemus nominatos ex ducibus Tartys 6. ex comitibus 12.
@@ -3852,7 +3745,6 @@ verba cum forti intentione dixerit ad ducem principalem:
 Statim placide accedens revulabit ar-
 ganum.
 CAP.
-
 [segment 73]
 LIBER SECVNDVS.
 CAP. XV.
@@ -3860,7 +3752,7 @@ CVIVS HORA VOCATVR QVABRION,ET
 Angelus eius supremus appellatur Serquanich, habens sub Im-
 perio suo principes, duces, comites et famulos mul-
 tos sine numero.
-<Illegible reason="faded" extent="ca. 1 word"/>
+
 ERTIA hora noctis appellatur Quabrion, cuius
 Imperator et Angelus supremus est Serquanich,
 habens sub suo Imperio principes, duces et comi-
@@ -3911,7 +3803,7 @@ CVIVS HORA VOCATVR RAMERZY, ET
 angelus eius supremus Imperator dicitur Iefischa, qui habet sub
 Imperio suo principes,duces,comites ministe-
 riales spiritus multos.
-<Gap reason="unknown" extent="decorative mark"/>
+
 QVARTA hora noctis vocatur Ramerzy,cuius an-
 gelus appellatur Iefischa , habens sub suo imperio
 principes,duces, comites ministeriales Spiritus
@@ -3942,7 +3834,7 @@ dominum ascendentis et amp; totam figuram coeli, &amp; fac omnia se-
 cundum quod tibi praecipimus, scribens omnia in schedulã mũ-
 dam,&amp; in eius dorso istam coniurationem.
 Coniuratio.
-<Illegible reason="faded" extent="ca. 3-4 chars"/>
+
 Efischa osiel mea rathyr lays mean theor dreochis fazan mo-
 ab lofeas ersoti breo pornys tayr penarson. Deinde subiunctis
 subjungendis,cum dixeris coniurationem ipsam debito modo,
@@ -3952,7 +3844,6 @@ Arcanum fit ad placitum.
 A Recanum qualecunꝗ: tibi pro tempore occurrit,quod ve-
 lis absentẽ in hac hora noctis quarta scire:Spiritibꝰ potes se cure
 01
-
 [segment 75]
 cure committere:modo fit tale, quod nec per literas nec per nũ-
 cios illi tuto possis intimare. Ea enim,quae sine periculo vel per
@@ -3967,7 +3858,7 @@ mo, religioso domino, Ioanni Weißdorffen nuncu-
 pato, Ioannes Ouilis Spanheimensis humilis
 Abbas, gaudia Coelo-
 rum.
-<Initial type="simple">M</Initial>Oniales Sancti Ruperti te gubernatorem suum nimia auiditate cõcu-
+MOniales Sancti Ruperti te gubernatorem suum nimia auiditate cõcu-
 piscunt,teque humili rogant benevolentia,quatenus rerum tempora
 liũ gubernationem ipsius monasterii suscipias.Seruire deuotis Christi vir-
 ginibus, laudabile est at que meritorium.Bonum habes rerum Spiritualium
@@ -3981,8 +3872,8 @@ num sapientiam procul notabiliter excedit. Gregem sibi creditũ optime no-
 uit regere:Zelosiusque virginum Christi custos est,quarũ claustrum seruat
 firmiffime.Non timeas sub eo tam honestis seruire monialibus,qui nouit
 sponsas Christi secundum legem monastricam optimã discretionẽ guber-
-na<Above>n</Above>ciꝰ virtute et amp; Zelo fidei Christiani tibi libenter in necessitate subueniet.
-Hunc virũ tã clarum benignum p<Emphasis type="underline">ro</Emphasis>feor cū habeas familiarẽ:ego guber-
+nanciꝰ virtute et amp; Zelo fidei Christiani tibi libenter in necessitate subueniet.
+Hunc virũ tã clarum benignum profeor cū habeas familiarẽ:ego guber-
 naculũ tã religiosarũ virginũ libenter assumas.Laborẽ tuũ Christus aeter-
 nis gau-
 
@@ -4004,7 +3895,7 @@ CVIVS HORA VOCATVR SANAYFAR, ET
 angelus eius supremus imperator dictus est Abasdarhon,qvi
 habet sub suo dominio duces, comites famu-
 los multos.
-<Gap reason="illegible" extent="ca. 1 word"/>
+
 VINTA hora noctis vocatur Sanayfar, cuius ange-
 lus primus supremus imperatordictus est Abas-
 darhon, qui habet sub suo dominioprincipes,duces,
@@ -4016,7 +3907,6 @@ decimo100000.Et per hos fit omnis operatio Steganogra-
 phiaeinquanta hora no-
 ctis.
 Meniel
-
 [segment 76]
 LIBER SECVNDVS.
 X. R. X. R. 137
@@ -4042,7 +3932,7 @@ ra noctis: obserua dominum ascendentis, & tam ipsum, quam to-
 tam dispositionem Caeli in schedula munda conscribe cum cae-
 teris quae docuimus, & in eius dorso istam coniurationem.
 Coniuratio.
-<Illegible reason="blot" extent="ca. 1 word"/> Basdarhon morca lafias tharuean buel dreschin tayr moab
+ Basdarhon morca lafias tharuean buel dreschin tayr moab
 ersoty layt pornys theori mean asar penason. Subiunctis de-
 inde subiungendis, mox, vt ipsam coniurationem dixeris, appa-
 rebunt tibi spiritus, quos vocasti, parati ad omnia
@@ -4050,21 +3940,21 @@ quae praeceperis eis.
 S Argu-
 
 139 STEGANOGRAPHIAE Argumentum secreti occurrentis.
-<Illegible reason="faded" extent="ca. 2-3 words"/>
-Acanum quodcunque habueris, quod alioquin sine pericu<Above>lo</Above>
+
+Acanum quodcunque habueris, quod alioquin sine periculo
 amico notum facere procul aut existenti nō vales,
 potiori ex spiritibus eo ritu et amp; forma committe, quibus secun-
 dum artem oportet, nihil metuens: quia beneuoli et amp; fideles
 sunt.
 Literae formentur ad placitum.
-<Illegible reason="faded" extent="ca. 4-5 words"/>
+
 Fides Catholica neminem saluat, qui ardorem diuini amoris contemnit.
 Credere et amp; Zelum amoris diuini non habere, nihil omnino conducit
 redemptioni anime. Plures autem inueniuntur nunc homines fide glorian-
 tes Catholica, sed pauci habent fidei Christianae opera: sed ociosa fides mori-
 tur. Credunt multi, sed mandata Dei pauciffimi obseruant. Heu zelus cre-
 dentium debilis: quo habere fortirem homines etiam increduli possunt,
-habentque complures. Poenis cruciabuntur Inferni gentiles homineq<Above>ue</Above>, qui
+habentque complures. Poenis cruciabuntur Inferni gentiles homineque, qui
 non credunt saluatorem nostrum hominem factum omnipotentis filium.
 Exeruciabuntur autem suppliciis grauioribus omnes, qui credunt in mun-
 dum venisse Dei filium, hominemque factum zelo redemptionis humanae:
@@ -4084,7 +3974,6 @@ totam coeli dispositionem consideret, obseruet et amp; scribat cum
 tenore coniurationis et amp; aliis necessarijs in schedulam mundam:
 subiunctisque subiungendis, &amp; dicta coniuratione, cum vide-
 rit
-
 [segment 77]
 LIBER SECVNDVS.
 ric spiritus missos sibi astates, dicat ad potiorem ista verba: Cha-
@@ -4095,7 +3984,7 @@ CAP. XVIII.
 CVIVS HORA VOCATVR THAAZARON, ET
 Angelus eius appellatur Zaazenach, multis prae-
 sidens spiritibus.
-<Emphasis type="italic">EX TA</Emphasis> hora noctis appellatur Thaazoron, nomen Angeli eius est Zaazenach, qui habet sub Im-
+EX TA hora noctis appellatur Thaazoron, nomen Angeli eius est Zaazenach, qui habet sub Im-
 perio suo principes duces, comites ministre-
 riales pene innumerabiles, qui diuersis operatio-
 nibus magicis praesunt per vices ordines suos. In primo ordi-
@@ -4104,7 +3993,7 @@ ne sunt 10. in secundo 20. in tertio 30. in quinto
 mo 100. in vdecimo 1000. Cum autem
 eos volueris vocare, in quacunque specie tibi placuerit, prom-
 pti sunt omnino obedientes, sicut testantur praedicti sapien-
-tes, nos sumus experti.</Emphasis>
+tes, nos sumus experti.
 R. R. R. R.
 Amonazii Tuberiel Pammon 100 100 100 10
 Menoriel Humaziel Dracon 100 100 10 10
@@ -4127,13 +4016,12 @@ Ioan. Trittem. Abb. Spanh.Adę fullonis ex folitariaartium philosophiae doctori 
 M Emor esto promißionis tuae quam Christo suscipiens Catholicam fidẽvoto solenni obtulisti. Aeterna laetitia, quibusc est promissã Panteñibus, an
 Kodak Gray Scale
 0 1 2 3 4
-
 [segment 78]
 bus an fordidis? Sine dubio promittitur temporales voluptates et gaudia praesentis vit ae intuitu aeternae quietis futurae contemnentibus, aeternumque Deum amantibus. Amatoribus Dei nouimus praemia optima esse promissa: sed amat oribus mundi, Christianisque reprobis Deus praeparauit amarißimas poenas inferni. Qui fidem habet; sed habere diuinum amorem negligit, infidelis est de fide quoque frustra presumit. Diuini Zelator amoris, qui Christianam fidẽ deuotis ac bonis operibus quotidie exornare non desinit: exercitans se humiliter in artibus pietatis. Vale .14. Cal. Mai. Anno Domin. incar. M D.
 Cum literas acceperit, charactere Spiritus horae consignatas, is cui mittuntur in arte peritus: observata in primis figura coeli, ipsis cum reliquis nec effarijs conscribat: ac deinde completis omnibus quae ad operationem pertinent, dictaque coniuratorne praescripta, cũ Spiritus apparuerit visibilis, dicat: Chamerusi ferion notiel aseuomy rean, badian, lasso fear veobry hastoripe son. His dictis, Spiritus reuelabit arcanum sibi commissum fideliter et secretissime operanti in aurem.
 CAP. XIX.
 CVIVS HORA VOCATVR VENAYDOR, ET angelus eius appellatur Mendrion, habens sub imperio principes, duces, comites &; ministeriales pene innumerabiles.
-<Initial type="decorated">S</Initial>EPTIMA hora vocatur Venaydor, cuius angelus et amp; supremus Spiritus dicitur Mendrion, qui habet sub suo imperio multos alios Spiritus, tanquam principes, duces, comités et amp; ministeriales; qui ad diuersas operationes in magicis sunt deputati. Ex his ad Steganographiam et amp; eius operationes in septima hora noctis deputati sunt per vices et amp; ordines suos principes, duces et amp; comités cum seruitoriibus suis multi numero. In primo ordine sunt 10. in secundo 20. in tertio 30. in quarto 40. in sexto 60. in septimo 70. in octa-
+SEPTIMA hora vocatur Venaydor, cuius angelus et amp; supremus Spiritus dicitur Mendrion, qui habet sub suo imperio multos alios Spiritus, tanquam principes, duces, comités et amp; ministeriales; qui ad diuersas operationes in magicis sunt deputati. Ex his ad Steganographiam et amp; eius operationes in septima hora noctis deputati sunt per vices et amp; ordines suos principes, duces et amp; comités cum seruitoriibus suis multi numero. In primo ordine sunt 10. in secundo 20. in tertio 30. in quarto 40. in sexto 60. in septimo 70. in octa-
 
 142 STEGANOGRAPHIAE
 in octauo 80.in nono 90. in decimo 100. in vndecimo 1000. in duodecimo 10000.Hi omnes per vices vocantur et veniunt ad operationem.
@@ -4150,13 +4038,12 @@ nobis hac vice ad omnem operationem sufficiunt cum subfer-
 uitoribus suis. Veniunt autem Spiritus isti, vt Hermes Hebraeus et Raziel Arabs testantur, in quacunque forma iussi fuerint ab eo,
 qui secundum artem operatur. Qui autem non fuerit in arte nostra perfectus:non obedientiam, sed perandum accesserit. Tu autem cū in se-ptima hora noctis aliquid peristos Spiritus operari volueris; ob-serua dominum ascendentis, & totius coeli figuram, quam cum reliquis in arte praeceptis scribas in charta munda, inq́; eius dor-so istam coniurationem.
 Coniuratio.
-<Illegible reason="faded" extent="ca. 3 chars"/>
+
 M Endriō suriaco breotnirus ersoy neuo, omear nycos lays er-
 sota theory pornys Azā meā lasias astopenason. Deinde sub
 iūctis subiūgedis, dictaq́; coniuratione sicut oportet: statim
 Spiritus vocati apparebunt tibi ad omnia parati.
 Arca-
-
 [segment 79]
 LIBER SECVNDVS.
 Arcanum fit qualecunque.
@@ -4217,23 +4104,22 @@ obserua dominum ascendentis, &amp; tam ipsum quam totam dis-
 positionem Caeli in chartam mundam scribe, &amp; in eius dorso
 cum caeteris ex more consuetis istam coniurationem.
 Coniuratio.
-<Emphasis type="italic">N</Emphasis>Arconiel aples pornya nauelo meas. Triome ilneas azyfan
+NArconiel aples pornya nauelo meas. Triome ilneas azyfan
 lafias my bression ersoti penason. Deinde subiunctis ex mo-
 re subiungendis, &amp; dicta coniuratione, spiritus vocati aderunt
 in ea forma, quam eis sumenda praeceperis, ad omnia prompti.
 Argumentum secretum.
-<Emphasis type="italic">A</Emphasis>Rcanum, quod volumus scire amicum procul absentem, si
+ARcanum, quod volumus scire amicum procul absentem, si
 nec literis cófidimus nec tabellionibus: in octaua hora no-
 ctis potiori ex spiritibus Narcorielis committamus, nihil omni-
 no metuentes, q̃noniam omnes fideles funt, &amp; ad
 obedientiam paratissimi.
 T Lite-
-
 [segment 80]
 140
 STEGOGRAPHIAE
 Literas formemus ad placitum.
-<Initial type="simple">O</Initial>Benignissime Iesu, gratias ago pietati tuae sanctiissimae, qui sanguine
+OBenignissime Iesu, gratias ago pietati tuae sanctiissimae, qui sanguine
 tuo genus humanum patri coelesti reconciliasti, pendens eleuatus in
 Cruce miserabiliter Floridam nobilissimi corporis tuuentutem propter nos
 vulneribus duris subdidiisti, vt hominem viuificares mortuum. Gratias i-
@@ -4247,8 +4133,8 @@ tiae tuae, Redemptor meus, viuificador meus? Compatior tuis laboribus
 lachrymisq́; feruentibus, &; sanctissimis vulneribus corporis tui benedi-
 cens Saluator benignissime Iesû gratias ago, indulgentiam fa-
 cinorum postulans. Anno Domini M.D. 13. Kal. Maij. scripti hanc
-orationem <Emphasis type="italic">τυμβοὶ λαοῦ τε γῆ μου</Emphasis>..
-<Paragraph>
+orationem τυμβοὶ λαοῦ τε γῆ μου..
+
 Cum literas, qualescunque fuerint, charactere Narcorie-
 lis consignatas, acceperit is cui mittuntur in arte peritus: domi-
 num ascendentis eadem hora obseruet, &amp; tam ipsum, quam to-
@@ -4258,151 +4144,96 @@ tione, cum viderit sibi astare spiritus, dicat ad potiorem ista ver-
 ba: Medaro Castotiel va reneas thafny thyrmo thea penason.
 His dictis secundum huius artis institutionem, mox spiri-
 tus principalis accedet propius, &amp; arcanum ver-
-bum indicabit.</Paragraph>
-CAP.<Gap reason="illegible" extent="ca. 2-3 chars"/>
+bum indicabit.
 
+CAP.
 [segment 81]
 LIBER SECVNDVS.
 CAP. XXI.
 CVIVS HORAVOCATVR ZESCHAR , ET
 spiritus eius appellatur Pamiel,multos sub se habens
 principes.
-<Table>
- <TableRow>
- <TableCell role="header">
- <Line>R.</Line>
- </TableCell>
- <TableCell role="header">
- <Line>R.</Line>
- </TableCell>
- <TableCell role="header">
- <Line>R.</Line>
- </TableCell>
- <TableCell role="header">
- <Line>R.</Line>
- </TableCell>
- </TableRow>
- <TableRow>
- <TableCell>
- <Line>Demaor</Line>
- </TableCell>
- <TableCell>
- <Line>Comary</Line>
- </TableCell>
- <TableCell>
- <Line>Befranzij</Line>
- </TableCell>
- <TableCell>
- <Line>I0 I00</Line>
- </TableCell>
- <TableCell>
- <Line>I0</Line>
- </TableCell>
- <TableCell>
- <Line>I00</Line>
- </TableCell>
- </TableRow>
- <TableRow>
- <TableCell>
- <Line>Nameal</Line>
- </TableCell>
- <TableCell>
- <Line>Matiel</Line>
- </TableCell>
- <TableCell>
- <Line>Iachorez</Line>
- </TableCell>
- <TableCell>
- <Line>I0 I06</Line>
- </TableCell>
- <TableCell>
- <Line>I0</Line>
- </TableCell>
- <TableCell>
- <Line>I00</Line>
- </TableCell>
- </TableRow>
- <TableRow>
- <TableCell>
- <Line>Adrapon</Line>
- </TableCell>
- <TableCell>
- <Line>Zenoroz</Line>
- </TableCell>
- <TableCell>
- <Line>Xanthir</Line>
- </TableCell>
- <TableCell>
- <Line>I0 I09</Line>
- </TableCell>
- <TableCell>
- <Line>I0</Line>
- </TableCell>
- <TableCell>
- <Line>I00</Line>
- </TableCell>
- </TableRow>
- <TableRow>
- <TableCell>
- <Line>Chermel</Line>
- </TableCell>
- <TableCell>
- <Line>Brandiel</Line>
- </TableCell>
- <TableCell>
- <Line>Armapy</Line>
- </TableCell>
- <TableCell>
- <Line>I0 I08</Line>
- </TableCell>
- <TableCell>
- <Line>I0</Line>
- </TableCell>
- <TableCell>
- <Line>I06</Line>
- </TableCell>
- </TableRow>
- <TableRow>
- <TableCell>
- <Line>Fenadroz</Line>
- </TableCell>
- <TableCell>
- <Line>Euandiel</Line>
- </TableCell>
- <TableCell>
- <Line>Druchas</Line>
- </TableCell>
- <TableCell>
- <Line>I0 I12</Line>
- </TableCell>
- <TableCell>
- <Line>I6</Line>
- </TableCell>
- <TableCell>
- <Line>I09</Line>
- </TableCell>
- </TableRow>
- <TableRow>
- <TableCell>
- <Line>Vemasiel</Line>
- </TableCell>
- <TableCell>
- <Line>Tameriel</Line>
- </TableCell>
- <TableCell>
- <Line>Sardiel</Line>
- </TableCell>
- <TableCell>
- <Line>I0 I34</Line>
- </TableCell>
- <TableCell>
- <Line>I6</Line>
- </TableCell>
- <TableCell>
- <Line>I08</Line>
- </TableCell>
- </TableRow>
-</Table>
+
+R.
+
+R.
+
+R.
+
+R.
+
+Demaor
+
+Comary
+
+Befranzij
+
+I0 I00
+
+I0
+
+I00
+
+Nameal
+
+Matiel
+
+Iachorez
+
+I0 I06
+
+I0
+
+I00
+
+Adrapon
+
+Zenoroz
+
+Xanthir
+
+I0 I09
+
+I0
+
+I00
+
+Chermel
+
+Brandiel
+
+Armapy
+
+I0 I08
+
+I0
+
+I06
+
+Fenadroz
+
+Euandiel
+
+Druchas
+
+I0 I12
+
+I6
+
+I09
+
+Vemasiel
+
+Tameriel
+
+Sardiel
+
+I0 I34
+
+I6
+
+I08
+
 ON A hora noctis vocatur Zeschar, &amp; Angelus e-
 ius supremus Imperator appellatur Pamyel: qui ha-
 bet more praecedentium sub Imperio suo multos
@@ -4411,7 +4242,8 @@ primo namque ordine sunt io.in secundo 2o.in tertio 3o. in quar-
 to 4o.in quinto 5o.in sexto 6o.in septimo 7o.in octauo 8o. in no-
 no 9o,in decimo 100.in vndecimo 10000.
 Nos autem in operationibus Steganographiae non indigemus
-his omnibus,cum pauci nobis sufficiant.</Line>
+his omnibus,cum pauci nobis sufficiant.
+
 Hic iam habemus ex spiritibus Pamielis I8.principes:qui per
 vices suas aliquando sunt duces, aliquando comites : quorum
 ordines qui nescierit, frustra in hac arte laborabit. Ministros si-
@@ -4420,12 +4252,11 @@ bus operantur mirandos effectus. Cum itaque per eos in nona
 hora noctis operari in Steganographia volueris , obserua domi-
 num ascendentis eiusdem horae,aototam figuram caeli:&amp; scribe
 omnia in charta munda, &amp; in dorfo ipsius chartulae istam con-
-iurationem.<Gap reason="unknown" extent="ca. 4 chars"/>Coniu<Gap reason="unknown" extent="ca. 1 char"/>
-X <Emphasis type="other">2</Emphasis>
-
+iurationem.Coniu
+X 2
 [segment 82]
 148 STEGANOGRAPHIAE Coniuratio.
-<Illegible reason="faded" extent="ca. 2 words"/>
+
 Amyel lyraz lasian mauelo breothis thirmoã ersoti layr por-
 nis theory moar azas, penafon. Deinde completis omnibus
 quae praecipiuntur in arte, dicipsam coniurationem,diligentif-
@@ -4500,14 +4331,13 @@ CVIVS HORA VOCVR AALACHO, ET
 angelus eius supremus Imperator appellatur Dardariel: qui
 habet sub suo imperio duces, comites et spiritus
 multos.
-<Gap reason="damaged" extent="ca. 1-2 words"/>
+
 N DECIMA hora noctis vocatur Aalacho, &; Spiri-
 tus eius imperator supremus appellatur Dat-
 dariel, habens sub suo imperio multos potentis-
-simos principes &; duces : qui praesunt comitibus et amp; mini-</Gap>
+simos principes &; duces : qui praesunt comitibus et amp; mini-
 Kodak Gray Scale
 0 1 2 3 4
-
 [segment 84]
 [illegible]LIBER SECVNDVS.
 153
@@ -4527,7 +4357,7 @@ que per aliquem vel aliquos eorum operari volueris: fac omnia
 quae sunt in arte Steganographiae praecepta: &; posquam com-
 pleueris omnia, dic istam coniurationem cum attentione.
 Coniuratio.
-<Illegible reason="faded" extent="ca. 3 chars"/>
+
 Dardariel pirno nadeuym pornis melto, nachir pheon pli-
 ros euali estafrī thyrmano, Oniel maniel, veat raby cralno-
 ti Vemy Throe orbasiel asar rauean. Purgiel near iano masiel ar-
@@ -4541,7 +4371,6 @@ committe eis, quicquid in II. hora noctis nunciare volueris a-
 mico prope vel procul absenti, nihil haefitans fecundum ar-
 tem.
 V Ioan.
-
 [segment 85]
 154 STEGANOGRAPHIAE Ioan. Trittem. Abb. Span. Cornelio Gyrardi Gaudensi, Canonico Diui Augusti prope Leidis, S.D.
 Dominus noster Iesus Christus, mitissimus animarum nostrarum sal-
@@ -4573,7 +4402,7 @@ CVIVS HORA VOCATVR XEPHAN , ET
 Angelus eius supremus Imperator dictus est Sarandiel:habens
 sub se principes,duces,comites et seruos
 multos.
-<Illegible reason="faded" extent="ca. 1 char"/>
+
 DODECIMA hora noctis, quae contingit auroram,
 vocatur Xephan, & Angelus eius appellatus est Sa-
 andiel: qui habet suo imperio multos spiritus,
@@ -4588,18 +4417,17 @@ quae tamen semper velant et amp; abscondunt sub quibusdam tegu-
 mẽtis aut frondibus,ne videantur.In facie autem sunt pulcher-
 rimi,beneuoli et amp; iocundi,&amp; ad omnem obedientiam operantis
 promptissimi et amp; hilares.
-<Illegible reason="faded" extent="ca. 1 char"/>
+
 R. R. R.
 Adoniel Marachy Hardiel 10 20 00 20 10
 Damasiel Chabrion Nefriãs 10 20 0 20 10
 Ambriel Nestoriel Irmanotz 10 20 20 20
 Meriel Zachriel Gerthiel 10 20 .00 20
-Denaryz Naueriel Dromiel 10 20 <Gap reason="illegible" extent="ca. 3 chars"/> 20 10
+Denaryz Naueriel Dromiel 10 20  20 10
 Emarion Damery Ladrotꝰ 10 20 40 20 10
 Kabriel Namael Melanas 10 20 60 20 10
 Hic iam habemus ex bonis spiritibus Sarandielis duces I4.&amp;
 V Z comi-
-
 [segment 86]
 156 STEGANOGRAPHIAE comites 7.Cum multis seruitoribus eorum, qui nobis in duode-cima hora noctis ad omnem operationem sufficiunt. Cum itaque volueris operari per eos in vltima hora noctis:obserua et facomnia quae pręcepimus,diligẽter:& postea dic coniurationem.Coniuratio.Sarandiel marfo porne ioniel schendiel iano Nati chilpresiosaschar meon prissi dyon volayr penason. Carmine dicto,statim spiritus vocati astabunt ad omnia parati.Constitutio nunciandi arcani.CVm videris spiritus in forma tibi astare peregrina : non ter-rearis, quia boni, beneuoli funt,neminem laedentes et mon-strosam formam , ne quem exterreant, quasi semper abscondunt,facie pulcherrima apparentes. Committe secure, quic-quid in hora noctis volueris scire amicum.Literae formentur,vt placet.OMiser homo,& vere miserabilis,eur non attendis omnium tempora-lium instabilitatem?& cur te non moriturũ breui cogitas? Memĩto,quod primus homo promeruit:quod mandatum violauit.Vtinã,sicut opta-uit Balaam,moriatur anima nostra iustorum morte, vt contemnentes vo-luptates pręsentes, & vanos mundi honores,simus immaculati custodiẽtesnos ab omni peccato.Sed non curamus, quosque tandem horrendavin-cula mortis incidimus,cruciandi in perpetuum.Felicẽ illum existimo.qui-ista pręcogitat.Igitur ò homo proijce mundũ sicut fecit Dei filius:c̃y cogita,quanta ex eius amore mala nos sequantur.Multa enim periculo nobis ingeri:& quoniam suis amatoribus est damnabilis,merito contemnitur. Veest dignus aterna morte amator mundi.Quid tibi prodest iste mundus;miserabilis homo?qui dum amatur,fugit:dū pręsens est,transit:dum exaltat,derecit: dum blanditur,decipit.dum floret,arescit : dū amatores suos emittit,ad perpetuas miserias transmittit.Anno M.D..2.Calend Maij.Acce-
 
@@ -4614,7 +4442,7 @@ IN QVO DOCEBIMVS MODVM ET FOR-
 mam generalem accedendi ad hanc artem Steganographiae,
 et operandi in ea sine periculo, cum maxima
 vtilitate.
-<Initial type="decorated">Q</Initial>VICVNQVE adhuius artis nostrae occultae scienti-
+QVICVNQVE adhuius artis nostrae occultae scienti-
 am accedere desiderat: quicunque operari per eam
 mirabilia et multis commodo sa periculis optat: in-
 primis oportet eum ornatum esse virtutibus, et con-
@@ -4640,7 +4468,6 @@ V 3 et lt;&lt;
 Kodak
 Gray Scale
 0 1 2 3 4
-
 [segment 87]
 158 STEGANOGRAPHIAE et amp; luna in oppositione completa, sole clare splendẽte: &amp; fit Mer-
 curius in ascendente coniunctus Veneri aut Ioui, si fieri potest:
@@ -4667,10 +4494,11 @@ trarium, vel pactum cum doemonibus implicite vel explicite
 quomodo libet latenter esse absconditum.
 Coniuratio Generalis ante accessum ad artem
 à Magistro dicenda.
-<Emphasis type="italic">M</Emphasis>Esari cosmeniel archea sameor eritas.
+MEsari cosmeniel archea sameor eritas.
 Dricho mosayr usio noes veso tureas.
 Abrithios naselion pyrno chyboyn ormon.
-Ceruali myrbeno lian saucaeo sayr.</Line>
+Ceruali myrbeno lian saucaeo sayr.
+
 Rhy-
 
 LIBER SECVNDVS.
@@ -4707,7 +4535,7 @@ latinum Rheni, Ducem Bauariae, Imperij-
 que Sacri Principem Electo-
 rem.
 PRAEFATIO.
-<Initial type="decorated-drop">P</Initial>OSTQVAM, auxiliante Domino nostro Iesu
+POSTQVAM, auxiliante Domino nostro Iesu
 Christo Saluatorum fidelium animarum, primos ar-
 tis nostrae libros duos compleuiamus, in quibus Ste-
 ganographiam nostram vt cunque descripsi mus:
@@ -4721,7 +4549,6 @@ Cum autem desiderio sciendi vehementissime ducerer: coepi velle
 experiri dictionum veritatem: &amp; post multos labores tandem in-
 ueni ipsam scientiam experientia probatam. Maximum est hu- iuf
 Kodak Gray Scale 0 1 2 3 4
-
 [segment 88]
 PRAEFATIO.
 165
@@ -4803,12 +4630,11 @@ iungentes.
 X 2 CAP.
 Kodak
 Gray Scale
-
 [segment 89]
 164
 CAP. I.
 DE ORIFIELE, PRIMO ET SVPREMO ANGELO Saturni, & de operationibus, quae fiunt per eum.
-<Initial type="decorated-drop">S</Initial>ATVRNVS, planetarum omnium altior supre-
+SATVRNVS, planetarum omnium altior supre-
 mus motu natura tardus, frigidus, quia remotus,
 difficilis, grauis, à puncto sui principii 650. annis vf-
 que ad punctum primae stationis in quolibet signe
@@ -4852,7 +4678,8 @@ est per Orifielem: sub secundis per Sadaelem: sub tertijs per Po-
 mielem: &amp; sub vltimis tribus per Morifielem. Et omnes opera-
 tiones secundum motum Saturni aut prosperum effectum ac-
 cipiunt aut debilem. Sed iam tabulam pun-
-ctualem ponamus.</Line>
+ctualem ponamus.
+
 X 3 Tabn-
 
 160
@@ -4940,7 +4767,6 @@ LIBERTIVS.
 684 714
  K.
 696
-
 [segment 90]
 STEGANOGRAPHIAE.
 Medio motu Saturni in secundum diem, gradum et horam ex tabulis communibus cognito, diligenter inprimis obseruãdum scias, vtrum fit directus an retrogradus; purus, proprius, mixtus aut confusus. Hoc autẽ ex tabulis communibus non inuenies. Id circo praescriptam tabulam ordinauimus, in qua punctum principij motus eius finis poteris inuenire qualibet hora, diuisis gradibus fit nul intercurrentibus in particulis minutorũ. Ita videlicet ad quodlibet minutũ in duas, tres vel quatuor partes horarias secundum proportionem motus puri aut confusi, hoc est, aliorum planeta rum coniunctione separatione obseruata, diuidatur: im possibile est enim vel per stellas vel per Spiritus stellatum te pofle ad effectum huius artis perueneri, nisi motu punctuali cognitio diligentissime obseruato tuas operationes ad qualitates planetarum proprias noueris pręcise ordinare. Nam in diuerfis gradu bus, signis, diebus, horis, minutis, secundis, ter tijs quartis planeta rum effectus, quo ad hanc scientiam, diuer fimode variantur. In quolibet enim gradu 25. mutationes diuersas obseruauirmus inuenimus: vnde quemlibet gradum in totidem partes diuidere principales necessarium nobis videbatur. Ista autem diuisio non habet locum per omnes gradus, sed in illis duntaxat, in quibus stellę nobis ad hanc artem cõducentes oriuntur, cum qui bus fit operatio ad significandum absentibus omne, quod volum us, ministerio Spirituum fine literis, sicut dicemus. Itaque prima tabula diuisionis graduum motus Saturni, quam praemissimus, primae quartae diei vel noctis deseruit perpetuo in his, quae pertinet ad operationem Saturni principũ eius; secunda vero ad sectandas tres horas, tertia ad tertias, quarta ad quartas. Deinde subiecumus punctualem ordinẽ motus ipfius Saturni in ascendente, quando videlicet fuerit in vnox ex primis quatuor signis, cujus sunt Aries, Taurus, Gemini Cancer. De reliquis octo signis etiam tabulam ordinabimus confequen tem.
@@ -4957,7 +4783,7 @@ Tabula prima.
  633 685 638 697 634 } 721
  23 25 642 696 24 } R.714
  641 679 633 K.691 642 } 24
- 650 682 <K.S.13> S.648 } 724
+ 650 682  S.648 } 724
  642 22 644 682 643 } 710
  634 690 648 684 6 721
  24 692 643 24 719
@@ -4969,9 +4795,9 @@ Tabula prima.
  692 nꝑR.
  691 663
  21 673
- 681 <K.R.> 668.
+ 681  668.
  696 18
- 692 674 <S.>
+ 692 674 
  684 671
  24 668
  675
@@ -5021,7 +4847,6 @@ S. 668 { 659 { 717
 646 . 710 { Ω
 Ω
 Kodak Gray Scale
-
 [segment 91]
 LIBERTIVS.
 R.
@@ -5088,7 +4913,7 @@ tum nuncios arcanum.
 De primo Angelo Saturni, qui est principalis, & vocatur O-
 rifiel, qui primam quartam Saturni
 obseruat.
-<Illegible reason="faded" extent="ca. 1 word"/>
+
 PRIMVS et amp; principalis angelus Saturni, sicut in prae-
 cedentibus diximus, vocatur Orifiel, qui cum caere-
 ris angelis planetarum in ordine suo orbem regit
@@ -5148,7 +4973,6 @@ hor. 2. hor.3.
  .R+.
  His
 Kodak Gray Scale
-
 [segment 94]
 LIBERTIVS.
 His diligentissime consideratis, Orificelem Saturni constat esse separatum à Saturno 25 gradibus, &amp; 15. minutis: est ad Orientem, à primo puncto motus Saturni 625. gradatio-nibus distans, à fine motus 25. minutis. His cognitis, fac imaginem ex cera, vel pingē in chartam nouam figuram Orifielis in modum viri barbati et amp; nudi, stantis super taurum varij coloris, habentis in dextra librum, &amp; in sinistra calamũ quem dum facis, dic: Fiat haec imago magni Orifielis plena, perfecta et amp; apta nunciare mentis meae secretem N. filio N. amico meo secure, fideli-ter et amp; integre, Amen. Scribe in fronte nomen tuum cum encausto ex oleo rosarum temperato, &amp; in pectore nomen amici tui abscentis diceens, Haec est imago N. filii N. cui per Angelum Saturni Orifielem nunciatur mentis meae conceptum, Amen. In fronte imaginis scribe Merion et amp; in pectore Troesda. Deinde coniunge ambas imagines simul, dicens: In nomine Patris et amp; Filij et amp; Spiritus sancti, Amen. Audi Orifiel princeps Stellae Saturni, &amp; per virtutum omnipotentis Dei adiuro te, auscultate: pręcipio et amp; mando tibi per virtutem istius imaginis tuae, vt nuncios N. filio N. hanc intentionem meam (explicetur intentio) quantocy-us secure, secrete et amp; fideliter, nihil obmittens eorum, quae eum volo scire, &amp; quae tibi commendaui. In nomine Patris et amp; Filijs et amp; Spiritus Sancti, Amen. Deinde inuolue ipsas imagines sic connectas simul panno loto cum aqua albi sine, &amp; pone eas in vas mobile, quod appellant sapientes Indix pharnat alronda: &amp; cooperi illud superius diligenter cum corio raso, ac pone in introitu alicuius habitationis claufra, vbicunque volueris, ad spaciũ 24. horarum: &amp; sine omni hesitatione tuum desiderium intra illas 24. horas perfecte adimpletur: scietaque amicus tuo us absens intentionem in omni forma perfectissime, sicut eam super imaginem dixeristi (quantumcunq̃ prolixa fuerit) &amp; quicquid illum ex te scire volueris, sciet in illis 24. horis perfecte et amp; secre-tissime: ita qđ nunquam in aeternum aliquis homo poterit hoc percipere aut scire sine voluntate tua aut amici tui. Et est magnum secretum, qđ nullus sapientum ante nos literis commendare ausus fuit. Amicus autem ille tuus siquid te scięt Z
@@ -5169,7 +4993,7 @@ quam similitudinem proportionatam, ita vt imagines hominũ
 esse cognoscantur. Qui autem eas pulchre depingere voluerit et amp; poterit: nihil impediet, nec prodest.
 De secundo Angelo Saturni, qui est primus sub Orifiele et vocatur Sadael, praesidens secundae quar-
 ta Saturni.
-<Emphasis type="italic">S</Emphasis>ECVNDVS Angelus Saturni vocatur Sadael, qui
+SECVNDVS Angelus Saturni vocatur Sadael, qui
 est primus sub Oriﬁele in ordine constitutus, &amp;
 habet secúdam partem post suum principem, tam
 in die quam in nocte, in operibus et amp; temporibus
@@ -5183,9 +5007,9 @@ qualis fit motus, &amp; vbi sit Spiritus mouens astrum, quantum re-
 cesserit, &amp; quantum eleuetur à centro sui motus, quantum cun-
 que distet à puncto quolibet totius circuli siue sphaerae. Ad
 horum scientiam consequendam est ta-
-bula haec.</Line>
-<Emphasis type="italic">Have</Emphasis>
+bula haec.
 
+Have
 [segment 95]
 LIBERTVS.
 R. S. R. S. R. S.
@@ -5295,10 +5119,9 @@ Gray Scale
 * * *
 * * *
 * *
-
 [segment 96]
 PROEMIVM IO. TRITHEMII.
-<Initial type="decorated-drop">A</Initial>Ntiquos Philosophos artis et amp;
+ANtiquos Philosophos artis et amp;
 naturae, qui reperissent secreta
 ad prauorum hominum ne de-
 uenirent notitiam variis occul-
@@ -5380,7 +5203,6 @@ deueniret, totus ordo turbaretur, fides periret
 publica, literae, instrumenta, scripturae omnes,
 ipsiq́; hominum fermones in suspicionem gra-
 uissimam verterentur. Nemo iam literis quan- A 3 tum-
-
 [segment 97]
 tumcunque bonis, sanctis ac honestis deinceps
 crederet:nullus epistolis adhiberet fidem, quan-
@@ -5412,33 +5234,32 @@ MODVS PRIMVS OCCVLTE
 scribendi fit per singulas primas literas di-
 ctionum singularium:cuius
 hoc signum I.
-<Initial type="decorated-drop">P</Initial>Rimus itaque modis occulte scribendis est talis: Cum volueris
+PRimus itaque modis occulte scribendis est talis: Cum volueris
 aliquid scribere ad amicum secrete, vt nemo tuam intelligat,
 voluntatem praeter eum cui scribis, tunc acciße quamcunque
 volueris narrationem Latinam quam non necesse sit occultari,
 cuius dictiones omnes sic ordine, quatenus prima cuiuslibet di-
 ctionis littera verbum reddant, quod volueris, quemamodum in subiecto ar-
-gumento vel exemplo te docebo, verum iste mediu<Above>m</Above> non satis est tutius, quia fa-
+gumento vel exemplo te docebo, verum iste medium non satis est tutius, quia fa-
 cilie ab industrio homine posset deprehends, sionis sapiens expe reuis sum. In le-
 genden quidem facilis est sed cum difficultate scribitur, quia laboriosum est
 dictione ad propositionem conuenientes semper in promptu habere. Huius au-
 tem modi ponamus exemplum, cuius textus apertus Latinus, tenor vero (e-
 certus) Tentonice innueiatur conscriptus, videlicet:
 Exemplum primi Modi.
-<Gap reason="damaged" extent="ca. 1-2 words"/>
-L<Emphasis type="underline">Veidum iubar aeterna beatitudinis excellentiff.</Emphasis>, Rex-gubernator et amp; ta-
-<Gap reason="damaged" extent="ca. 3-4 letters"/>tor robustissime vniuersorum virtuose viuentium, exultum refugium
+
+LVeidum iubar aeterna beatitudinis excellentiff., Rex-gubernator et amp; ta-
+tor robustissime vniuersorum virtuose viuentium, exultum refugium
 debitum, virtus, vnanimitas, vinculum omnium, latitia lugentium, exulta-
 sio sancta tristium, virtus fragilium, nutritior egentium, saluque tribulato-
 rum, miserorum adiutor, nobilium triumphator, administrator graziarum,
 guberna et amp; rege vitam servorum tuorum, sanans infirmitates nostras, salua-
 tor omniuum, decus vincentiam animarum, lucidissimum lumen, esuri entium
 refugium, benignissime amator servorum tuoꝛum, virtutem eterne remune-
-rator, mitis animaru<Above>m</Above> glorificator seruientium tibi, vinisifica nos Domine vt
+rator, mitis animarum glorificator seruientium tibi, vinisifica nos Domine vt
 moribus
 Kodak Gray Scale
 0 1 2 3 4
-
 [segment 98]
 8 Claus Steganographiae
 moribus bonis decorati iugiter exulistemus. Fortitudo vera nos fortifica, vt
@@ -5457,7 +5278,7 @@ an der Landpforten warten / da wöllen wir mit vnserm
 Gezeugerscheinen / rc. Et sic consequenter quātum
 volueris.
 Cautelae obseruandae.
-<Emphasis type="italic">O</Emphasis>Bserandum verò quod supradictiu modui, sicut diximus, non satis
+OBserandum verò quod supradictiu modui, sicut diximus, non satis
 est tutus in rebus arduis, quis max ut aliqua inceperit de literis habe-
 ri suspicio, facile secretum ab altuto poterit deprebendi. Sequentes itaque, mo-
 di, sunt tutiores: vt patet. Simul obseruandum, si isto vel aliis modis alienū
@@ -5466,14 +5287,14 @@ ex ħ times duo puncta si volueris; compleo q̄libet secreti tui verbo, vt sen-
 tentia textus exterioris complexa facias virgulam fic, vel è converso vt libet,
 tutius tamen videtur, vt nec puncta nec virgule fiant, &amp; fit non in verbo
 secreti, sed raro periodi signum eumilibet modi, nec super primam li-
-teram nec post ultimam pone, quemadmodum feci superius</Emphasis>
-in occulto tenore. Lieber Ge<Gap reason="damaged" extent="ca. 1 char"/>
+teram nec post ultimam pone, quemadmodum feci superius
+in occulto tenore. Lieber Ge
 trewer/ rc.
 Extensio
 
 Ioannis Trithemij Abb.Spanh.
 Extensio huius modi primi.
-<Gap reason="damaged" extent="ca. 1 char"/>
+
 M Odus ipse primus secrete scribendi sicut &; ceteri pere omnes multi-
 plici diuersitate potest variari. Ita vt iu, qui supradictum ordinem
 secretandi perfecte intelligit, alios ex eo inferendos modo aut dssi-
@@ -5482,9 +5303,10 @@ dum simul ut reliquos variare. Videlicet vt prima linea secreti fit conscia,
 secunda non, vel si tanta fuerit, illa non sit, &; sic consequenter occultator, ecre-
 torum prout voluerit, vitatur alternis lineis vel totis vel dimidia tie a prin-
 cipio literarum searum vsque, ad finem descendendo, vel à fine ascenndo ad
-principium. Addo etiam, quod ab viro que latere descendentes &; ascen-</Gap>
-<Illegible reason="faded" extent="ca. 1 word"/>
-tes alterum secus sententiae seui occulture potestibꝰ amari variis tamque diuersis</Line>
+principium. Addo etiam, quod ab viro que latere descendentes &; ascen-
+
+tes alterum secus sententiae seui occulture potestibꝰ amari variis tamque diuersis
+
 modis, ut in enōdis his Oedipo opus sit. Mei aute ex propositi nunc est pre-
 mos simplices scribendi modo ostendere, &; his qui digni &; idonei sunt mul-
 ta scire, occasionem tribuere, qua valeant ex minimis maxima elegantiue
@@ -5497,19 +5319,20 @@ narrationis textus in aperto propositi alerna positione varient: Ita vi-
 delicet vt cum prime dictionis prima litera intentioni occultae test monium
 perhibet, sequentis verbi littera prima ab officio secreti muneris vacet. Pst-
 quam 3 non fit a ministerio vacua, quarta manet ociosa, &; sit consequen-
-ter semper dictiones alterna vicibuꝰ mixte secroto deseruantur, &; publicae</Line>
+ter semper dictiones alterna vicibuꝰ mixte secroto deseruantur, &; publicae
+
 orationi congruentes ab occultorum significatione prudenti ordine recedant,
 &amp; iste modo in omni lingua mundi facilis continet &; satis ad nuncian-
-dum que volueris secreta mihi tuitus esse videtur cuius exemplum tale est.</Line>
+dum que volueris secreta mihi tuitus esse videtur cuius exemplum tale est.
+
 Exemplum secundi modi.
 I theranos lesu dulci ossime, extrema salus beatorum spirituꝝ, &; nostres
 creatus indulge, gemitusque, pauperum exaudi, mutiga tribulatione no-
 stras, renoua vetusta: em morbos vitiorum sana, virtutes tribute, exules susci-
 pe, reosque, absolve. Bone lesu, remitte misericorditer excessus quoslibet no-
-B stres,</Gap reason="damaged" extent="ca. 1 char"/>
+B stres,
 Kodak Gray Scale
 0 1 2 3 4
-
 [segment 99]
 10 Clauis Stegographiae
 stros, quoniam grauiter peccanimus et seperelapse sumus: dulcissime salua-
@@ -5535,7 +5358,7 @@ Lieber Getreuwer/ Bringer dieses Brieffs hat et-
 was mißhandelt/ ist vnser Befehl/ du wöllst jn gefäng-
 lich behalten uff vnser zukommen/ ꝛc.
 Exemplum Secreti Latini.
-<Emphasis type="italic">H</Emphasis>Umana salutis amator, qui creauit omnia, nobis indixit obedientiam:
+HUmana salutis amator, qui creauit omnia, nobis indixit obedientiam:
 mandatorium, cui omnes renemur obedire et obsequi. Praemium san-
 ctae obedientia erit; sempiterna felicitas timentibus Deum. Christe obedi-
 entiam in omnibuij invitari studeamus, vt vitam aeternam promissam nobis
@@ -5578,13 +5401,12 @@ delictū baptismus industit quotidianą agenda poenitentia. Manet ante mors Alph
 corporis quatenus humilitati Deum timeamus, qui eripuit nos peccando r̄. valet 9.
 īā amisi mus, virtuose conseruando iterū diuino lumine vivamus. O lesurex
 B2 caelorum
-
 [segment 100]
 [illegible]Ioannis Trithemij Abb.Spanh.
 duo sequenter valentes. Duo enim vacantes solum in fine verbi mysterij per duo pariter completi ponuntur, sicut patebit.
 Exemplum Quarti.
-<Illegible reason="faded" extent="ca. 1 word"/>
-P<Above>ro</Above>Affio Iesu Christi genus humanum viuificans, cuius vita innocenter af-
+
+ProAffio Iesu Christi genus humanum viuificans, cuius vita innocenter af-
 flicta liberavit nos ab omni calamitate quoniam huius humilitatem sal-
 nabitur in necessitate, sed desurbabuntur vitiosis, eritque mors bonorum copi-
 osa. Laudem C. J. dicamus, qui animas nostras redemit: Gratias agamus
@@ -5600,11 +5422,11 @@ Tenor supradicti secretus.
 Ich wil noch Heint vmb II.an der Pforten klopffen/ wart mein/vnd laß mich ein/ etc. &amp; sic de reliquis.
 Modus quintus prima vacante per 2.signifi-
 cantes procedit quodlibet vacante alterno concludit.
-Q<Emphasis type="underline">V</Emphasis>ntus modus non mulium quarto d similis prima vacante per duas significatinas ex more procedit, secreti cujuslibet verbum una va-
+QVntus modus non mulium quarto d similis prima vacante per duas significatinas ex more procedit, secreti cujuslibet verbum una va-
 cance includens sine aequalium semper dua significatiue dictiones una va-
 cante clauduntur, sin res in equalium significauiua solitaria inter duas stabit vacantes, huiuimodi quoque, ponamus exemplum.
 Exemplum Quinti.
-I<Emphasis type="underline">U</Emphasis>ste viuenter foelicitatem consequetur, nulla exaltabit virtus alibi quam
+IUste viuenter foelicitatem consequetur, nulla exaltabit virtus alibi quam
 humilitas, sola nisi temeritas condemnabit. Si foelicitates requiris amo-
 rem iustitiae tene, et ali si timam gloriam consequeri, semper Zelator verti-
 tatis esto, noli arxare mendacium, corrumpit honestatẽ pudicam, tempes-
@@ -5612,7 +5434,6 @@ rantians,
 B 3
 Kodak Gray Scale
 0 1 2 3 4
-
 [segment 101]
 14 Clauis Steganographiae
 rantiam dissoluit. Fuge vanitatem mundi, quoniam breuissima est. Amator
@@ -5655,9 +5476,9 @@ Gray Scale
 16 Claus Stegographiae omnes poterit multiplici di seritate variari pro ut unicumque industrio vi- sum fuerit pro sui secreti occultatione connenire, sed iam huius modi sequen-
 ter ponamus exemplum.
 Exemplum Septimum.
-<Illegible reason="faded" extent="ca. 2 words"/>
+
 Lumen indeficiens omnium sanctorum beatitudo ac creator v-
-I.C. <Gap reason="illegible" extent="ca. 3 characters"/> uersitis et amp; rector miserere nobis, nos infirmi gementes et amp; sien-
+I.C.  uersitis et amp; rector miserere nobis, nos infirmi gementes et amp; sien-
 tes misericordiam tuam rogamus largire nobis virutem vincendi tentati-
 ones Diaboli, vt euis tibi duria laboribus requiem mereamur, O saluator dulci-
 issime precor sernos humiles respice inutilisqꝫ famulos, sis in nos misericors,
@@ -5685,17 +5506,17 @@ expectantibus nobis pie concedant, Amen.
 Tenor supradicti occultus.
 Lieber Getrewer/ dein Geschäfften haben wir ver-
 standen/
-
 [segment 103]
 standen/ Heynd vmbꝰ.wart vnser gar stille / auff daß wir dem Feind fuͤrkommen/vnd sie niderlegen.
 Modus octauus per tres vacantes totidem-
 que significatiuas dictiones alter-
 natim procedit.
-<Emphasis type="italic">Q</Emphasis>uemadmodum sextus per duas, ita videlicet vt vnum quodcunque verbum mystricum equalium syllabarum apertae narrationis sententi-am ita compleat, vt sine fine tres vacantibus locis fuerint sequens non ab oci- eßi, sed à tribus significatiuis inchoetur. Si verbum secreti inequalium fuerit syllabarum, est in consorium sui recipiet, donec syllabe ante periodum aliquo modo tandem fiat ut aequales.</Line>
-Exemplũ octauum.
-<Emphasis type="italic">O</Emphasis>Mnipotens sempiterne Deus benignissime remunerator aequitatis qui filium tuum nostri generis eße participem voluisti, vt redimat diu inperditione miserrima constitutos sola bonitate redundans formam no- stram suscipiens in corruptam ex flore virginalis utori Archangelo sancto Gabriele infinuante, quae virgo conceptura beatißimo spiritu in eternum virgo permaneret; immunis criminis, hominibus angelisque praeminentior vniuersis genuit regem omnipotentem Deum et amp; hominem, sanctissima Gre- uerendissima virgo Maria viriles consortii omnino nescia fine dolore pa- riens, semperq́ talis altissima immaculata consistens. Mater virgo sancta Ie- su Christi Dei virtute creata, humilibus omni nota loco, hominibus aliꝰ cha- ritate plena, omni laude dignissima existens, semper q́ virgo permanens, an- gelorum beatißimas quam tunc filius in omnibui que postulauerit largißi- ma dignatione admittit; eamque vt matrem reverendissimam veneratur o- mnibus creaturis excellentiorem, qui nihil unquam exeranti negare con- sueuit, sed repente sanctiß. voluntari eius consentit, omnia concedens, huius tandem pauperum adnocatu meritis. Igitur nobilissima virginis Marie pra- clave merita venerantes, Domine Imperator vniuersitatis oramus, vt lumen veritatis nobis infundas, sordes criminum detergas, gratiam et amp; maxime o- mni tempore te requirentibus veraciter impendas, tentationes auferas, vir- tutem vincendi exorantibus nobis concedas, amorem tuum nebis induas, ca- C stitatem</Line>
-Kodak Gray Scale 01
+Quemadmodum sextus per duas, ita videlicet vt vnum quodcunque verbum mystricum equalium syllabarum apertae narrationis sententi-am ita compleat, vt sine fine tres vacantibus locis fuerint sequens non ab oci- eßi, sed à tribus significatiuis inchoetur. Si verbum secreti inequalium fuerit syllabarum, est in consorium sui recipiet, donec syllabe ante periodum aliquo modo tandem fiat ut aequales.
 
+Exemplũ octauum.
+OMnipotens sempiterne Deus benignissime remunerator aequitatis qui filium tuum nostri generis eße participem voluisti, vt redimat diu inperditione miserrima constitutos sola bonitate redundans formam no- stram suscipiens in corruptam ex flore virginalis utori Archangelo sancto Gabriele infinuante, quae virgo conceptura beatißimo spiritu in eternum virgo permaneret; immunis criminis, hominibus angelisque praeminentior vniuersis genuit regem omnipotentem Deum et amp; hominem, sanctissima Gre- uerendissima virgo Maria viriles consortii omnino nescia fine dolore pa- riens, semperq́ talis altissima immaculata consistens. Mater virgo sancta Ie- su Christi Dei virtute creata, humilibus omni nota loco, hominibus aliꝰ cha- ritate plena, omni laude dignissima existens, semper q́ virgo permanens, an- gelorum beatißimas quam tunc filius in omnibui que postulauerit largißi- ma dignatione admittit; eamque vt matrem reverendissimam veneratur o- mnibus creaturis excellentiorem, qui nihil unquam exeranti negare con- sueuit, sed repente sanctiß. voluntari eius consentit, omnia concedens, huius tandem pauperum adnocatu meritis. Igitur nobilissima virginis Marie pra- clave merita venerantes, Domine Imperator vniuersitatis oramus, vt lumen veritatis nobis infundas, sordes criminum detergas, gratiam et amp; maxime o- mni tempore te requirentibus veraciter impendas, tentationes auferas, vir- tutem vincendi exorantibus nobis concedas, amorem tuum nebis induas, ca- C stitatem
+
+Kodak Gray Scale 01
 [segment 104]
 18 Claus Steganographiae.
 stitatem, obediensiam, temperantiam, benignitatem, abstinentiam, ceterasque virtutes omnium lacrymis deuota exerestationis nobis miser corditer largiaris. Amen.
@@ -5703,7 +5524,7 @@ Tenor supradicti occultus.
 Bringer dieses Brieffs/ gibt sich grosser Kunst auß/ ich halte aber nicht viel darvon/ versucht jhn wol/ getrawet nicht. Ioh. Trith.
 Nonus modus à tribus vacantibus incipit, & per totidem significantes alternatis vi-
 cibus singulariter procedit.
-<Gap reason="illegible" extent="ca. 2-3 words"/>
+
 N Onus modui átribuis vacanti bus cum octauo incipit, &amp; per totidem significa tiones alter natim d. sourren singula verba mystica ante peri o-
 dum concludit aequisyllaburn, hoc est, trium et amp; trium per totidem ociosas conclu di tur, redundantes vero, si due per duas, &amp; si vna per vnam simile liter
 vacantem terminatur, ita si vis vt sequenti mystica dictio semper tribus va-
@@ -5723,18 +5544,9 @@ tuas alacri integritate, qui postquam mouitus abste tandem fuerit. Quod si
 feceris gratias habeo immortal es age vt amorem sincerum in nos tuum ne-
 gotio comprobemus. Quod illi feceris mihi velim scias factūm, qui ibi im-
 mortales gratis agere curabo. Ipse autem amicus Euerhardus restituet, vi-
-delices</Gap>
-<Gap reason="illegible" extent="ca. 1-2 words"/>
-<Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/>
-<Gap reason="illegible" extent="ca. 2-3 words"/>
-<Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/>
-<Gap reason="illegible" extent="ca. 2-3 words"/>
-<Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/>
-<Gap reason="illegible" extent="ca. 2-3 words"/>
-<Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/>
-<Gap reason="illegible" extent="ca. 2-3 words"/>
-<Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="ca. 1 word"/> <Gap reason="illegible" extent="
+delices
 
+     <Gap reason="illegible" extent="
 [segment 105]
 Ioannis Trithemij Abb.Spanh.
 delicet mutuum. Soluet enim promissa in stabili stabilitate t. nere nec fal-
@@ -5763,14 +5575,13 @@ Tenor supradicti occultus.
 Heynd vmb Eins ist der Pastor von Kirchberg ge-
 storben/ nit eyl so sehr mit dem hingeben. Ioh.Tr.
 Vndecimus modus per quatuor alternatim discurrit, et verbum significantibus vincutum, vacuis concludit.
-<Emphasis type="italic">V</Emphasis>Ndecimus modus a quatuor vacantibus semper incipitur, et per totidem significatiuas alternatim procedens, in ociosis ulismis significantibus pares terminatur omnia enim occultando capiuntur a quatuor ociosis intitium, et quod literas significatinas supra quatuor restantes inuenieris, tot va-
-cua ad finem noueris apponendas, de quo ponatur exemplum.</Emphasis>
+VNdecimus modus a quatuor vacantibus semper incipitur, et per totidem significatiuas alternatim procedens, in ociosis ulismis significantibus pares terminatur omnia enim occultando capiuntur a quatuor ociosis intitium, et quod literas significatinas supra quatuor restantes inuenieris, tot va-
+cua ad finem noueris apponendas, de quo ponatur exemplum.
 Exemplum vndecimi modi.
-<Emphasis type="italic">S D.Mitto tibi orationem, quam edidi in nuptiis eiusdem mei amici: Omnium creator Deus, humani generis redemptor optimusque saluator, ne
+S D.Mitto tibi orationem, quam edidi in nuptiis eiusdem mei amici: Omnium creator Deus, humani generis redemptor optimusque saluator, ne
 species ipsa periret, etiam nuptiarum vtsum confecravit. Legimus enim quod primo homini etiam immandauerit matrimonium dixeritque, Crescite et multiplicamini. Legem indicens conservanda humanitatē et in Evangelio dignatus est nuptias sanctificare miraculis de Deo bene merentes, seruantes castititem, hominibꝰ autem plus confert qui pudicū corum Zelum humanastatīs assument. Vos ergo qui connubium beatum exemplo nostri assumptis et mandato saluatoriis qui nonnunquam miraculis, ego vero verbis intitu-
-tum religionis ad nuptiarum honorem collaudabo. Hominibus vobis quibus nuntie igitur nuptias debemus et magnum coningium puberum religiosumque</Emphasis>
+tum religionis ad nuptiarum honorem collaudabo. Hominibus vobis quibus nuntie igitur nuptias debemus et magnum coningium puberum religiosumque
 genne
-
 [segment 106]
 Ioannis Trithemij Abb.Spanh.
 genus quo humanum seruator : nisi enim vsus nuptiarum extitisset, ruissec-
@@ -5838,7 +5649,6 @@ Barbaros oppugnare es, referentes gestarum suarum memoriam posteritati
 commendarunt. Quorum tamen prouocatus exemplo litteras humanitarie
 artisque bonas evoluere, non cessas armis streuus studio, sic veteres omnes
 primo pos
-
 [segment 107]
 Ioannis Trithemij Abb.Spanh.
 principes sapientissime consueuere opes non thesauris seruandas includere. Sed in vsum literarum conferre honestissimum ad foelicitatem tendentibus iter existimanta beneficium litterarum, quo efficitur Respubl immortalis. Enim- netero scientia scripturarum ex istrinis viuis sepulturae dicitur. Ignominiosam calamitatem hominibus adfert, bestisq́; similes facit, vera nobilitas animum eruditione et virtutibus splendidum facere et consueuit. Infinitus est fructus litera-rum, qui gloriam et sanctitatem animis nostris comparat in caelis seque im-mortalem terrigenis ostendit. Adde quod amor scripturae, cum carnis incendia, noxia spiritui, extinguit, sola scientia veteribus illis philosophis memoriam optimam nominisque, immortalitatem contulit apud omnem posteritatem, conclusus semper hominibus venerandam. Maioribus quoque studi- um philosophia reddit gloriosos et splendidos tranquillitatę amatores, justos, mansuetos passionum animi victores, luxus turpitudiniq́; fortiffimos contemptores, facilis his ad Deum conscensus, sancta exercitia honestatis exemplar, omniunque, virtuti norma, splendescit in contemplatione coelestiū ducleiter eleuatum. Diuinariū illustrationē consequuntur honorem Deo chāri, hominibus reuerendi. Hec imitare, literis incumbas, foelicitatem vise operationibꝰ rectis confirma. Vale. Ioh. Trith. Abb. scripsi.
@@ -5850,7 +5660,7 @@ M Odius 14. semper à vacante sumit exordium, & per ordinem signifi-catimum rite
 Exemplum
 
 24 Clauis Steganographiae Exemplum XIV.
-<Emphasis type="italic">S</Emphasis>D.Literis incumbas cum humili submissione, esto benignus, ignoran-
+SD.Literis incumbas cum humili submissione, esto benignus, ignoran-
 tiam diligentißime caue.Nam doctrina instituto cel-bris,honestate sub-
 li mis, Eruditio moribus illustris,cunctis honoribus preferenda, parum vale et amp;
 vitijs immersa scientia, sedula eruditio nobilem fa et lt;it semper vitae virtutibꝰ
@@ -5866,18 +5676,17 @@ wie du wol weist.
 Modus XV. Ab vnitate signante incipit vf-
 que ad octonarium numerum alter-
 natim procedit.
-<Emphasis type="italic">M</Emphasis>Odus 15.Vnum praemittit, ociosum alterum, subdit significatiuum,
+MOdus 15.Vnum praemittit, ociosum alterum, subdit significatiuum,
 deinde duas alternatiuas consequentur tres et amp; sic vsque,ad octo, porro
 ab octonio per septem, de inde per sex, &amp; ita consequenter vsque ad vnita-
 tem,i et amp;rum fit descensus, &amp;rufus eodem modo ascensus et amp; descensus ad v-
 nitatem,q̃toties necessarium fuerit.
 Exemplum XV.
-<Emphasis type="italic">I</Emphasis>Llustrissime Princeps,cum humili subiectione salutem,bonis iure disciplinis instituendi sunt principes,&amp; virtutibus eruditioneq́, Remp.inuste te-neant scientiq́,gubernare,gloriosissima namque, authoritas ducum est, armis et amp; literis simul incumbere,bello exterminari hostem,artibusque literarum
+ILlustrissime Princeps,cum humili subiectione salutem,bonis iure disciplinis instituendi sunt principes,&amp; virtutibus eruditioneq́, Remp.inuste te-neant scientiq́,gubernare,gloriosissima namque, authoritas ducum est, armis et amp; literis simul incumbere,bello exterminari hostem,artibusque literarum
 decorare animum fortitudine simul et amp; sapientia regnare. Deus illustrator
 excellentissimus cordium omnium nobilem scientiam tribuit nobis, quam-
 gratia vestra pro viribus curabo.Habet enim insigne ministerium lucidum
 intelle-
-
 [segment 108]
 Ioannis Trithemij Abb. Spanh.
 25
@@ -5949,7 +5758,6 @@ licam fidem, Christus gloriosius omnipotens futura tribuit vitam, nemo pra-
 norum operum vitam beatam habebit, homo fidelis sequitur Christum te-
 nendo virtutem operibui bona declaratur, 7 catholicum nomen
 Christia-
-
 [segment 109]
 [illegible]28.
 Clauis Steganographiae
@@ -5960,7 +5768,7 @@ mens Gottes.
 Modus XIX. semper post vnam vacantem:
 duas ponit significatiuas literis prae-
 dicto modo translatis.
-<Gap reason="illegible" extent="ca. 1 word"/>
+
 M Odus 19. vnam vacantem premittis, cui semper duas significati-
 quas transpositis litteris ad placidum subiungit, ita vt semper post v-
 nam ociosam transpositam dua sequantur significantes et transposite. Hee-
@@ -5983,26 +5791,28 @@ Tenor supradicto occultus..
 Lieber Getreuwer/ heut vmb zehen wart vnser mit
 vierhundert Pferden an der Pforten.
 Modus
-
 [segment 110]
 [illegible]
 [segment 111]
 30 Clauis Steganographiae Modus XXI. Alternatis dictionibus significatiuis literis in secundum transpositis vtitur.
-<Paragraph>
-<Line><Initial type="simple">M</Initial>odui 21. alternis dictionibus utitur, quarũ prima est vacua, secunda vero significativa tertiũ iterum vacua, quartanequaque ociosa; &amp; sic consequenter vsque ad finem proposita narrationis, littere in- distionem significa tinam prime omnes sunt. in secundam consequentem transposite, ita vt pro litera A, accipiatur c. pro o, accipiatur e. &amp; sic confequenter vsque, ad finem alphabeti, porro pro x, capiatur a, pro z verò b. Groeca autem y, nobie ad vulgare nomen non est necessaria,ideoquein omnibus alphabetis sequentibus obmitienda, sed iam huiusmodi ponamus exemplum.</Line>
-</Paragraph>
+
+Modui 21. alternis dictionibus utitur, quarũ prima est vacua, secunda vero significativa tertiũ iterum vacua, quartanequaque ociosa; &amp; sic consequenter vsque ad finem proposita narrationis, littere in- distionem significa tinam prime omnes sunt. in secundam consequentem transposite, ita vt pro litera A, accipiatur c. pro o, accipiatur e. &amp; sic confequenter vsque, ad finem alphabeti, porro pro x, capiatur a, pro z verò b. Groeca autem y, nobie ad vulgare nomen non est necessaria,ideoquein omnibus alphabetis sequentibus obmitienda, sed iam huiusmodi ponamus exemplum.
+
 Exemplum XXI.
-<Paragraph>
-<Line><Initial type="drop">S</Initial>Tuis respondere lteris gaudere, ita Christus me gaudere faciat,</Line>
-<Line>transmitteremq́; volumina flagitata, si tandem habussem, Zelatus sum</Line>
-reor proximis at que granissimis occultis tractatoribus nuper Xelo bono quam</Line>
-habuere philosophi acuratissimi, haberuerim autem tibi gratias longe immortales</Line>
-frater mi dulcissime, qui gloriam mutuum tenes inuiolatam, hoc enim familiari negotio quod graui modestiae diligentissime vide-</Line>
-rie plane cognoui, qui facta laudo gratiaq́;, habebo nũquam moraturas, ideoque morem gerens tuis petitionibus mox esse cuperẽ, se postolata nouit Christus, haberem, Ficini hic magistri translationem nusquam latinam vidi Pici Mirandulani, epipstolam venice amate rafteor legisse. Idecirco ne graue feras tuas tam petitiones frustrari, veritas summa Christi tui, nil zenebra occultant, examinaterque cordium me tibi gratificari non potuisse caetera optima celare virtutem lucraque contemnere plurima velociter, landem existimas veram, pure Christum diligere, fac queso quatenus sacerdos existas operibus, Christumque pure, quem iuberis timere diligat verius amator Christi seruatur Zelo animarum, nihilque proponit Christi mandatis quoniam nouit timorem Dei zelum animi optimum, amor beatitudinis Deum zelotem amando vera anima regia enim cognitio saluatoris piaq́; observantia catholica fidei, gratiasque ugere omnipotentis Deo Iesu Christo, gloriosius bonorum omnium largitor, conferat. tibi aeternitatis amorens, catalogoque fallicium Christianorum inscribat. Vale.</Line>
-</Paragraph>
+
+STuis respondere lteris gaudere, ita Christus me gaudere faciat,
+
+transmitteremq́; volumina flagitata, si tandem habussem, Zelatus sum
+
+reor proximis at que granissimis occultis tractatoribus nuper Xelo bono quam
+
+habuere philosophi acuratissimi, haberuerim autem tibi gratias longe immortales
+
+frater mi dulcissime, qui gloriam mutuum tenes inuiolatam, hoc enim familiari negotio quod graui modestiae diligentissime vide-
+
+rie plane cognoui, qui facta laudo gratiaq́;, habebo nũquam moraturas, ideoque morem gerens tuis petitionibus mox esse cuperẽ, se postolata nouit Christus, haberem, Ficini hic magistri translationem nusquam latinam vidi Pici Mirandulani, epipstolam venice amate rafteor legisse. Idecirco ne graue feras tuas tam petitiones frustrari, veritas summa Christi tui, nil zenebra occultant, examinaterque cordium me tibi gratificari non potuisse caetera optima celare virtutem lucraque contemnere plurima velociter, landem existimas veram, pure Christum diligere, fac queso quatenus sacerdos existas operibus, Christumque pure, quem iuberis timere diligat verius amator Christi seruatur Zelo animarum, nihilque proponit Christi mandatis quoniam nouit timorem Dei zelum animi optimum, amor beatitudinis Deum zelotem amando vera anima regia enim cognitio saluatoris piaq́; observantia catholica fidei, gratiasque ugere omnipotentis Deo Iesu Christo, gloriosius bonorum omnium largitor, conferat. tibi aeternitatis amorens, catalogoque fallicium Christianorum inscribat. Vale.
+
 Tenor
-<Gap reason="illegible" extent="ca. 1-2 words"/>
-<Stamp description="Herzog August Bibliothek Wolfenbüttel"/>
 
 Ioannis Trithemij Abb.Spanh.
 31
@@ -6013,7 +5823,7 @@ zu Spanheim gemacht.
 Modus XXII. Seruata literarum transpositio-
 ne iam dicta, post duas ociofas totidem
 ponit significatiuas.
-<Illegible reason="faded" extent="ca. 2-3 chars"/>
+
 M Odus 22. á reb.ociosis incipit et amp; duas mox significatiuas adiungit, sicq̃,
 per duas uacuas et amp; significantur totam narrationem apertam atque
 occultam alternatis vicibus concludit, litera prima dictionum significatina-
@@ -6039,13 +5849,12 @@ dis nostri oculos Zelo sanctitissimo sui amoris exornet, Faciat atque nos amo-
 rem caelestium bonorum atque desideriis infimis exemptos, vanos honores
 dabent consemnere, quatenus artis sublimia vice quoque grandia secreta
 penetrare
-
 [segment 112]
 32 Clauis Stegographiae
 penetrare queamus huiusque continuum ad gloriam desiderium purificato
 officij quo catholicam fidem semper honestissimis exornemus moribus vir-
 tute humilitatis quotidie meliores descripici amus caduca non
-queramus placere hominibus Tu magnus veriusque Philosophus es dimitte omnia et inuenies omnia, &amp; inuentio proxi<Emphasis type="underline">m</Emphasis>a mortis quatenus errantem offendit Vale.
+queramus placere hominibus Tu magnus veriusque Philosophus es dimitte omnia et inuenies omnia, &amp; inuentio proxima mortis quatenus errantem offendit Vale.
 Tenor supradicti occultus.
 Was ich dir hab geben zubehalten / soltu bewahren vnd niemand geben dann mir allein.
 Modus XXIII. Qualibet litera in quartū translatata alternatis vicibus seu dictionibus,
@@ -6054,7 +5863,7 @@ M Odus 23 ab una ociosa semper incipit cui statim unani significatiua madiungit 
 Ael bft eg dh ei sk hl i ko lp mq nr os pd qul rx sz ta sb xc zd.
 Modus vero iste sicus et amp; ceteri omnes multipliciter poterit variari ut sint iam alternis utitur ita binis trinis pluribus vtatur si gnum tunc huius modi quaratur et amp; aliorum semper immobiliter est obseruandum quoniam non varietatem modi sed ordinem respice mysterij
 Exemplum XXIII.
-S D Ea qua mihi solvenda proposui Christo adiuuante resolvi mihi quid tum profuisse facias sententiam remque omnem breuire mihi rescribas velim retulit mihi nuper frater gratius amicus quoque tunc nostris resuscitatum fui se iuuenem omnem Christi invocationem ex mor<Emphasis type="underline">t</Emphasis>uis referentem miranda horrendaque apud inferos prauorum Christianorum narrantem tormenta eorum scilicet qui Christum peruerse agendo crucifixerunt illius maxima reos qui benignissima redemptionis benefecium obtinere extisterunt semper Christo ingratii penitueque obcecati neglexerunt. fulm<Above><Emphasis type="underline">n</Emphasis></Above>
+S D Ea qua mihi solvenda proposui Christo adiuuante resolvi mihi quid tum profuisse facias sententiam remque omnem breuire mihi rescribas velim retulit mihi nuper frater gratius amicus quoque tunc nostris resuscitatum fui se iuuenem omnem Christi invocationem ex mortuis referentem miranda horrendaque apud inferos prauorum Christianorum narrantem tormenta eorum scilicet qui Christum peruerse agendo crucifixerunt illius maxima reos qui benignissima redemptionis benefecium obtinere extisterunt semper Christo ingratii penitueque obcecati neglexerunt. fulmn
 Kodak Gray Scale 01
 
 Ioannis Trithemij Abb. Spanh.
@@ -6091,7 +5900,6 @@ morem mihi fratres bilingues odium amari, rixas contentionesque auferunt
 bonitatem operibus malis; bonis esto quotidie splendide, famam quoqꝫ aspi-
 re sum, animam ernato sanctitate, instititiā continentia; zelumque habeto E nominis
 Kodak Gray Scale 0 1 2 3 4
-
 [segment 113]
 34 Clavis Steganographiae
 nominis tui: Zelato amicorum fratrumque honestissimum nomen optimum
@@ -6104,7 +5912,7 @@ dir sagen.
 Modus XXV. Instar praecedentis omnes
 significatiuas recipit, sed quamlibet
 in sextam transponit.
-<Emphasis type="italic">M</Emphasis>Odus 25.instar precedente nullam vacuam recipit, sed omnes sunt,
+MOdus 25.instar precedente nullam vacuam recipit, sed omnes sunt,
 significatiua dictiones quas admittit, quia non opus est ociosus ali-
 quas interponere,eum non sit hoc in mundo,qui sine arte libri huius notitiam
 secretam his modie scriptam valeat innenire, nihilominùs quicunque ad
@@ -6118,10 +5926,11 @@ sextam transponuntur sequentem, vt suo loco monstrabimus, sequuntur 25.
 modi Alphabetisuperius dicti,in quo pro A capiatur g. quia sexta est post
 a.pro b.c.i.d.k.el.fm.gn.h.o.ip.kq.tr.ms.nt.o.u.px.qz.ra.sb.tc.
 ad.x.e.zf.
-<Emphasis type="italic">Cum</Emphasis> igitur tam isto quam aliis modis scribere aliquid volueris proposito
+Cum igitur tam isto quam aliis modis scribere aliquid volueris proposito
 alphabeto ad hoc ordinato primas literas significatiuas in vnam scedulam,
 conscriptas,eorum te ponas, quemadmodum pro exemplo consequenter fa-
-cimus.</Line>
+cimus.
+
 H.l.o.g.r.v.c.g.r.r.d.h.a.p.l.w.p.s.o.k.p.a.b.t.s.k.l.o.s.p.r.p.s.o.d.t.k.r.g.
 b.b.p.l.f.g.s.k.b.l.o.d.s.
 Exemplum
@@ -6160,14 +5969,13 @@ L.q.k.p.n.e.b.m.t.m.m.b.b.q.c.d.u.x.s.i.l.x.c.p.w.q.d.e.n.l.e.c.g.s.l.q.k.p.
 s.m.b.n.h.b.m.v.i.
 Cum isto modo volueris scribere literas dictionum vacantium, sient dixi-
 E a mus
-
 [segment 114]
 36 Clavis Steganographiae
 mus interpone ab vna vacante semper incipiens cui mox primam significati-
 uarum dictionum literam coniunges, quemadmodum nos in secundo exemplo
 fecisse probabis.
 Exemplum XXVI.
-<Emphasis type="italic">S</Emphasis>P. Commendaueram tibi libres meos sub conditione restituendi mille
+SP. Commendaueram tibi libres meos sub conditione restituendi mille
 charissime bona, sed ecce minime eos restituisti, quos in brevi remittere
 debusses, facis contra legem, quam fides catholica de promissione sanxit, noli
 diuitius quam promisisti spernere conditionem. Non decet bonum et amp; hone-
@@ -6181,19 +5989,19 @@ deras fieri, &amp; aliis vicissimum facere liberaliter oportere. Ego libros expo
 meos, quos tibi supplicandis commendaueram, longorem excusationem,
 quam ad Cal. Graecas pertendio non cupio, dimitte mentem meam breuibus,
 tenes nobilitatem, tuae honestissimae familie, Bunnesind, considera genus tuum,
-mihíque volumina mearemitte. Vale.</Emphasis>
+mihíque volumina mearemitte. Vale.
 Tenor supradicti occultus.
-<Emphasis type="italic">Dieser wil dich viel fangen/ hûte dich vor jhm/ er ist</Emphasis>
-voller Boßheit/vnnd wildich erfahren. <Emphasis type="italic">Haec est in-</Emphasis>
+Dieser wil dich viel fangen/ hûte dich vor jhm/ er ist
+voller Boßheit/vnnd wildich erfahren. Haec est in-
 tentio secreti.
 Modus XXVII. Alternis dictionibus vtitur,
 &amp; litera quaelibet significantium in octa-
 uam seq. transfertur.
-<Emphasis type="italic">M</Emphasis>Odus 27. praemissa vna vacante alteram significatinnã immediate sub-
+MOdus 27. praemissa vna vacante alteram significatinnã immediate sub-
 iicit et amp; ita consequenter alternis vicissitudinibus procedit litterâ vero
 uniulibet dictionis significantis primam transfert in octauam postea in pro-
 ximam sequentem, ita vt pro litera A.capituri .pro b k. pro c l., &amp; sic con-
-sequenter: vt alphabetum postscriptum clarius demonstrat.</Emphasis>
+sequenter: vt alphabetum postscriptum clarius demonstrat.
 Di.
 
 Ioannis Trithemij Abb.Spanh.
@@ -6208,25 +6016,25 @@ S D.Exii t rúmor de Limburgensi abbate, qui dimiserit fratrem Fleisder-fensem v
 Jan.Anno Domini 1499.Ioh.Trith.Abb.
 E3 Modus
 Kodak Gray Scale
-
 [segment 115]
 38 Clauis Steganographiae
 Modus XXVIII. Praecedentis instar dictionibus alternis vtitur, & significante literam
 in nonam transfert.
-<Emphasis type="italic">M</Emphasis>Odus 28 instar precedentis alternis dictionibus vtitur, quartū prima est vacua, secunda signifcativa, tertia iterum vacua, quarta significa-
+MOdus 28 instar precedentis alternis dictionibus vtitur, quartū prima est vacua, secunda signifcativa, tertia iterum vacua, quarta significa-
 tiua, & sic consequenter literam autem quamlibet in nonam sequenti trans-
 fert, ita vt pro A e apitatur k pro b l pro c m. & sic consequenter, sicut in-
 alphabezo patebit secreto, scilicēdum vero quod iste modus multipliciter va-
 riatur, sicut et cateriomnes, sed cum alicui volueris pro admiratione dare
 legendum quippiam istius rei artem nescienti, cauere capias singulas signifi-
-catiuas, sed alterius, quia tutiu est alphabetum.</Line>
+catiuas, sed alterius, quia tutiu est alphabetum.
+
 Ak bl om dn eo fp gg hr is kt lu mx nZ oa pb qcd se tf ng xh zi.
 Tenor Secreti.
 Lieber Guardian/ diese zween Brüder haben sich sehr vchristlich gehalten mit worten vnd wercken.
 Literae significantes.
 Vso lodgkd.nfkz,noepogggodiggozildgnokroz,esmreodoazqoseeff.uswr,gorkrn,oizxßf.gggadfoz,niggodm to Zr,qorkrn.oZ.xsf ggg adfoz ngg odmoZ.
 Exemplum XXVIII.
-<Emphasis type="italic">S</Emphasis>D. Religiose venerandeque pater, scio quod omnia amicis libenter con-
+SD. Religiose venerandeque pater, scio quod omnia amicis libenter con-
 cedis optata, propterea deprecor humiliter quatenus in tactum Katholi-
 cae pietatis diutius apud nos detentos summa cum charitate tuos Zelesor fra-
 tres non aggreferas, oportuit namque eos me obsecrante manere, gloriosum
@@ -6237,7 +6045,8 @@ mis decoratum, frater religiosus atque catholicus nostram latitiam pulchre
 ornavit sanctissimo Zelo discipline. Exultauimus enim sine dissolutione men-
 tis semper religiosissime conseruantes, Erat nobis omnibꝰ strenue denotus ar-
 que oratione simillimum, apter diviniui Ecclesieq́ animarum quarum pietate
-ernatus,</Line>
+ernatus,
+
 Kodak
 Gray Scale
 
@@ -6255,7 +6064,7 @@ Trithemius Abbas.
 Modus XXIX. Alternis dictionibus vtitur,
 &amp; quaelibet litera significantium prima
 in decimam transfertur.
-<Emphasis type="italic">M</Emphasis>Odus 29. similiter alternis dictionibus ut precedentes vtitur, incipiēs
+MOdus 29. similiter alternis dictionibus ut precedentes vtitur, incipiēs
 ab una vacante, cui mox subiungitur altera significatiua, iterum una
 vacua, iterumque, significatiua vna, &amp; tam consequenter usque ad finem pro-
 posita narrationis, littera autem cuiuilibet dictionis significatiua prima in-
@@ -6272,14 +6081,14 @@ Sh I g s / I ot .n.s./I g.Ih/e/I.l.m.e.p.a.c.p.e.f.ot.f.m.e.t.p.q.f.p.o.t.f.g.
 p.s.l.a.m.b.f.a.p.c.u.al.m.p.r.p.q.e.h.p.p.z.p.v.l.e.a.n.f.g l.p.e.m.p.o.e.h/r.p.
 g.o.t.n.s.n.s.u.p an tabbltx.
 Exemplum XXIX.
-<Emphasis type="italic">S</Emphasis>D.Cum fis artium humanitatis studiosissimus, gaudebis vtique opinior
-te innenisse nonum studiorum sociūm, iste qui vbi has litteras exhibet</Line>
-vir
+SD.Cum fis artium humanitatis studiosissimus, gaudebis vtique opinior
+te innenisse nonum studiorum sociūm, iste qui vbi has litteras exhibet
 
+vir
 [segment 116]
 40 Clavis Steganographiae vir multa scientie est, summus philosophus, subtilissimus arithmeticus, eloquentissimus Rhetor, mathematicus profundissimus, omnifurieque excellenter doctus, ornatissime loquitur, Tulliananitens facundia, nistibi essem amicius tantum, virum penitus retinuissem, quando, eo familiariter vsus philosophorum doctissimum expertusum, tibi maxime faueo tantum gratanter siscipias philosophum, quem tibi singulari amicitia inducitur mitto, teque benevolum illi familiaremque exhibendo philosophum summum probabis. vidi queden artium secreta literis ornatissimis mandata quibus patranc miranda. Respondere cum per propositas sibi grauissimas quastiones ex tempore homo doctissimus potest in proponendo utitur Zelo disputandi pröptissimo. Hunc ego quatenus liberaliter humaniter que excipias omnium arciun bonarum humanitate &; familiaritate doctissimus grauissimique desensor. Enimuero poterit te erudire in multis quoniam Philosophus est ornatissima doctrina, egregius historiolegus, periitissimus Rhetor quoque promptus, &amp; Geometer acutissimus. O vtinam tales essent nostri quicunque studentes, qui tumido pectore necessarium contemnunt studium. Iste vero stimodiosus philosophie, &amp; alias scientias, atque, artes profunde amat, continuè tractat, &amp; acutissime penetrat, Hunc ergo amore siscipito, liberali vultu trachta fidelis Christiannm confirma. Vale ex Sponheim Non. Ian. Anno Domini 1499. Ioannes Trithemius.
 Modus XXX. Alternis dictionibus progreditur et amp; litera significatiua in vndecimam transfertur.
-<Emphasis type="italic">M</Emphasis>Odus 30. ab una vacante incipiens per alternas dictiones progrederetur, ita ut semper post unam vacantem alteram significatinam per totam narrationis feriem ponat, quemadmodum in precedenti quoque modo et amp; aliis ostendimus: Porro per quartam literam significantis dictionis prima sequens post eam capiatur vndecima ita vt pro A, capiatur m. pro b. n. pro c. o. &amp; sic consequenter vt patet in alphabeto.
+MOdus 30. ab una vacante incipiens per alternas dictiones progrederetur, ita ut semper post unam vacantem alteram significatinam per totam narrationis feriem ponat, quemadmodum in precedenti quoque modo et amp; aliis ostendimus: Porro per quartam literam significantis dictionis prima sequens post eam capiatur vndecima ita vt pro A, capiatur m. pro b. n. pro c. o. &amp; sic consequenter vt patet in alphabeto.
 Am, bn, eo, dp, eq, fr, gs, ht, iu, kx, wz, ma, nb, oc, pd, qe, rs, sgth, ni, xk, zl.
 Tenor Secreti.
 Sie haben mir geschrieben daß ich zu jhm komme/ aber ich komme nicht / du schreibest mir denn vorhin.
@@ -6290,12 +6099,11 @@ Ioannis Trithemij Abb. Spanh.
 Literae significatiuae.
 Gqqttnqbaufsgotfuqnqbpmguo tliutaxcaaqmnqfnotxcaa qbnothpigotsquqqghaqfpmbicftub.
 Exemplum XXX.
-<Emphasis type="italic">S</Emphasis>D. Degenitride perpetue Maria Virginis tibi erationem mitto sicut nuper postulasti: Quae vitia amantissima benigna mater alma Maria virgo parens fulgentissima. Tu summe vnitatis quoque ei gratissima, tu o-minium inuocantium auxiliatrix fidelissima, tu quarentium te nobile refugium. quotidie namque sanctitatis beneficum salua pauperum aduocatu mitissima, consolatrix gementium, pulcherrima virtutum, apotheca orna-tissima. Aue tristium refoillatrix benignissima, fideliumque Christi a-micorum promotrix celeberrima, gaude Anna solamen maerentium, gau-de nobilitatis fastigium, spesque certa fidelium laborantium, veniam nobis pe-tentibus impetra, tremendum Iudicem Christianitatis mitigat, compunctos corde adiuua, auferas animas nostras quasumus, tua bonitate sanctifica, be-nedicta tu virgo mater honestissima, que peperit integerrima, virgoque genuit Saluatoriem omnipotentem Dei filium, manens tamen virgo semper quoque purissima. Nuncius Gabriel quamplenam gratia salutauit, huma-nitate matrem. Aue mater seu indulgentia sons inexhauribilis pietate, ful-genz pietate maxima magnitudine beneficiorum cuuctis reuerendissima, iuis intercede pro famulis, nos tuis orna virtutibus vt beatudinem confe-quamur posthuius vita termīsum benignitate saluatoris omnium fidelium.
-<Emphasis type="italic">&amp;</Emphasis> qui sanguine viuificauit miferos nos te intercedente sua benignitate pie suscipiat mortuus, Amen. Vale.ex Sponheim. 7. Iduum Januarij, Anno Domini 1499.Ioh.Trith.Abb.
+SD. Degenitride perpetue Maria Virginis tibi erationem mitto sicut nuper postulasti: Quae vitia amantissima benigna mater alma Maria virgo parens fulgentissima. Tu summe vnitatis quoque ei gratissima, tu o-minium inuocantium auxiliatrix fidelissima, tu quarentium te nobile refugium. quotidie namque sanctitatis beneficum salua pauperum aduocatu mitissima, consolatrix gementium, pulcherrima virtutum, apotheca orna-tissima. Aue tristium refoillatrix benignissima, fideliumque Christi a-micorum promotrix celeberrima, gaude Anna solamen maerentium, gau-de nobilitatis fastigium, spesque certa fidelium laborantium, veniam nobis pe-tentibus impetra, tremendum Iudicem Christianitatis mitigat, compunctos corde adiuua, auferas animas nostras quasumus, tua bonitate sanctifica, be-nedicta tu virgo mater honestissima, que peperit integerrima, virgoque genuit Saluatoriem omnipotentem Dei filium, manens tamen virgo semper quoque purissima. Nuncius Gabriel quamplenam gratia salutauit, huma-nitate matrem. Aue mater seu indulgentia sons inexhauribilis pietate, ful-genz pietate maxima magnitudine beneficiorum cuuctis reuerendissima, iuis intercede pro famulis, nos tuis orna virtutibus vt beatudinem confe-quamur posthuius vita termīsum benignitate saluatoris omnium fidelium.
+&amp; qui sanguine viuificauit miferos nos te intercedente sua benignitate pie suscipiat mortuus, Amen. Vale.ex Sponheim. 7. Iduum Januarij, Anno Domini 1499.Ioh.Trith.Abb.
 Modus XXXI.Per alternas dictiones progreditur, &amp; litera significatiua in duo-decimam mutatur.
-<Emphasis type="bold">M</Emphasis>Odus 31. à vacante vna per alternas ociosas vite significatuas vicissime progreditur, ita ut semper post vnam dictionem vacare unã significa-tiuã subiungatur, pro litera autem prima cuiuslibet de cetero is mysterij secre-
+MOdus 31. à vacante vna per alternas ociosas vite significatuas vicissime progreditur, ita ut semper post vnam dictionem vacare unã significa-tiuã subiungatur, pro litera autem prima cuiuslibet de cetero is mysterij secre-
 Fti due-
-
 [segment 117]
 42 Claus Steganographiae si duo decima sequens post eam accipitur, ita ut pro A.n.pro o.p.capiatur vt huiusmodi alphabeto sequente ostendemus.
 Alphabetum.
@@ -6304,7 +6112,7 @@ Tenor Secreti.
 Der alt Abt von Fleißdorff wil den von Reinharts born die Nasen abschneiden.Haec est intentio my-
 sterij sequentis.
 Literae significatiuae.
-Orgnairueikdcsarxhqagsshxaqrekaegrtcungqiho<Emphasis type="underline">dge</Emphasis>
+Orgnairueikdcsarxhqagsshxaqrekaegrtcungqihodge
 qxrenhrenohpuerxqrc.
 Exemplum XXXI.
 S D.Omnis qui de rebus tẽporalibus eleemosynas virtutibus mundar agit,
@@ -6338,13 +6146,13 @@ S D.Omnipotens Deus creator aeternus omnium, quiper filium Christum,
 nos Christianos redemit, Zeulum dedit amoris catholicis per lumen gratie
 credentiibus nobis piętatem infinuans dedit et amp; liberalissime suum dilectum
 natum hominem ex carceribus libera nos omnes credentes de potestate Tar-
-tarei lugentes, destruens carcere<Above>em</Above>tenebrosissimum rabulamque devincens.
+tarei lugentes, destruens carcereemtenebrosissimum rabulamque devincens.
 Quid tibi Christe nos Christiani reddere digne paterimus homines infirmi
 sine operibus iustitiis fidem catholicam profitestorantes ergo deuotissime te
 redemptorem nostrum summis laudibus concelebramus, dicentes: Lapis tibi
 aeterne omnium saluator benignissime qui redemisti nos sanguine tuo fragi-
 ditatem nostram zelo confirma tuꝰ amori, salua nos dulcissime saluator Ie-
-su,cordibusquenostria zelum sidei infunde. Sanctus est ze<Emphasis type="underline">l</Emphasis>i tuus, compun-
+su,cordibusquenostria zelum sidei infunde. Sanctus est zeli tuus, compun-
 tionem operarum in cordibuz quaerentium te Christe Iesu benignissime illu-
 stra,Christe Iesu benignissime lumen aeternum, illumina tenebras seruorum
 euorum bonitate solita,Saluator Iesu salua animas nostras eterna conferens
@@ -6353,9 +6161,8 @@ rantibus salva Christianos famulos licet dignissimos, consigna nos zelo tuo
 humiliter petimus,Amen.Vale ex Spouheim,6.Iduum Ian.Anno Domini
 1499.Ioh Trith.
 F 2 MODVS
-
 [segment 118]
-44 Clauis Steganographiae Modus XXXIII. Alternis dictionibus proce- dens vt superiores primam significa- tiuam transfert in 14. <Initial type="simple">M</Initial>Oduc 33 narrationem secundam ab una vacante incipit, &amp; instar pre- cedētis per alternas vicissim procedit. pro prima vero cuiui libet dictio- nis significatiuae literam sequentem post eam loco 14. accipit, ut pro A ca- pitur p. pro b q pro c r. &amp; sic consequenter iuxta ordinem alphabeti huius modi qui sequitur. Alphabetum. Ap bq cr df et fu gx ia kb lc. md. ne. os. pg. qb. ri sk rl. um xn. zq. Tenor Secreti. Er ist noch new/ versuch jhn vor gantz wol ehe denn jhm viel vertraut. Er trinckt auch gern Wein vnnd ist wunderlich. Haecest intentio Secreti huius. Literae significatiuae. Toaklefrzetmmmtikmrzazemfixpelommfctztsteazdmatomtilipmltiliaerblp mrzxtiemmstaemesakl mmfe carz Exemplum XXXIII. <Initial type="simple">I</Initial>Oannes Trithemius, Sanctis monialibus in monte olim Ruperti catholi- cam fidem lucida virginitate exornantibꝰ foelicitatem, continuo religio- nis sanctissimꝭ zelo pre memorati regis maximi famulum mittimus nobis multo expostulatum tempore virum magnum virum intemporali- bus experientur. Ioannem vestris caritatibus notum monasterij Uleidorfen- fis religionis feruore zelosum, multo tempore Abbate, nouamq́; Abbatiam libere dimittentem accessi propterea sicut vobis commisseram monasterium Limpurgense, in quo Christo seruebat precibus continuis et amp; sanctũ lectio- nibus scripturarum occupatus cum monachis eiusdem descenderet, tempo- raliumque rerum suscioperet curam, procuratorque fieret cellarius Abbas Limpur<Gap reason="damaged" extent="ca. 2 letters"/>
+44 Clauis Steganographiae Modus XXXIII. Alternis dictionibus proce- dens vt superiores primam significa- tiuam transfert in 14. MOduc 33 narrationem secundam ab una vacante incipit, &amp; instar pre- cedētis per alternas vicissim procedit. pro prima vero cuiui libet dictio- nis significatiuae literam sequentem post eam loco 14. accipit, ut pro A ca- pitur p. pro b q pro c r. &amp; sic consequenter iuxta ordinem alphabeti huius modi qui sequitur. Alphabetum. Ap bq cr df et fu gx ia kb lc. md. ne. os. pg. qb. ri sk rl. um xn. zq. Tenor Secreti. Er ist noch new/ versuch jhn vor gantz wol ehe denn jhm viel vertraut. Er trinckt auch gern Wein vnnd ist wunderlich. Haecest intentio Secreti huius. Literae significatiuae. Toaklefrzetmmmtikmrzazemfixpelommfctztsteazdmatomtilipmltiliaerblp mrzxtiemmstaemesakl mmfe carz Exemplum XXXIII. IOannes Trithemius, Sanctis monialibus in monte olim Ruperti catholi- cam fidem lucida virginitate exornantibꝰ foelicitatem, continuo religio- nis sanctissimꝭ zelo pre memorati regis maximi famulum mittimus nobis multo expostulatum tempore virum magnum virum intemporali- bus experientur. Ioannem vestris caritatibus notum monasterij Uleidorfen- fis religionis feruore zelosum, multo tempore Abbate, nouamq́; Abbatiam libere dimittentem accessi propterea sicut vobis commisseram monasterium Limpurgense, in quo Christo seruebat precibus continuis et amp; sanctũ lectio- nibus scripturarum occupatus cum monachis eiusdem descenderet, tempo- raliumque rerum suscioperet curam, procuratorque fieret cellarius Abbas Limpur
 
 Ioannis Trithemij Abb.Spanh.
 45
@@ -6388,7 +6195,6 @@ Literae significatiuae.
 Eg kzuufuerfunfunkttukgehmeqfgceeufrutinfrqnkef thuenafueufrnahdwstubfatqa hue. F 3 Exem-.
 Kodak Gray Scale
 0 1 2 3 4
-
 [segment 119]
 [illegible]Ioannis Trithemij Abb.Spanh.
 47
@@ -6399,7 +6205,7 @@ Vxlrino hgm: chbrgmsxlabxenthffogerfenw
 xgfrolgxsexcngethnocxeftehmuxloguzxblx
 urothefgrrxg.mtbcz.
 Exemplum XXXV.
-<Emphasis type="italic">M</Emphasis>Ihi venerande in Christo Patri Limpurgeni aeconomo, cum tali do-
+MIhi venerande in Christo Patri Limpurgeni aeconomo, cum tali do-
 mino Ioanne Vleisdorffense nuncupato Ioannes ouilis Spanheimensis
 humilis Abbas gaudium coelorum Moniales S. Ruperti gubernatorem,
 suum nimia auditate concupiscunt teque humili rogant benenolentia,
@@ -6423,9 +6229,8 @@ Anno Domini 1449.
 Modus XXXVI. Instar praecedentis alternis
 dictionibus vtitur, &amp; prima signifi-
 cantis in 71. transfertur.
-<Emphasis type="italic">M</Emphasis>Odus 36. à vacante incipiens significantem q̃ coniungit alternis dictio-
+MOdus 36. à vacante incipiens significantem q̃ coniungit alternis dictio-
 nibus
-
 [segment 120]
 48 Clauis Steganographiae
 nibus utitur, & prima cuiuslibet significatiua dictionis in 17. post illam so-
@@ -6441,7 +6246,7 @@ Haec est intentio mysterij sequentis.
 Kasac zgdorpih gshxxfcsxzdhzpihnufocsmdhx spihbze
 pcmoadhzznopdohnihdedchbzafshbz̄h.
 Exemplum XXXVI.
-<Emphasis type="italic">F</Emphasis>ides catholica non saluat nihil ardore divini, nominie fulciatur, crede et amp;
+Fides catholica non saluat nihil ardore divini, nominie fulciatur, crede et amp;
 zelum amoris Dei non hic nihil omnino conducit redemptioni anime,
 pluris namque homines nunc inueniuntur fide gloriantes catholica, sed pau-
 cis sunt fidei Christiana opera operantes, sine peribus fides moritur, credunt,
@@ -6466,7 +6271,7 @@ Modus
 Modus XXXVIII. Vicissim alternatis vtitur, &amp;
 prima significatiuae dictionis in 19.
 transfertur.
-<Emphasis type="italic">M</Emphasis>odus 38 per alternas dictiones vicissim progreditur instar priorum, cu-
+Modus 38 per alternas dictiones vicissim progreditur instar priorum, cu-
 sua dictionis significatiue prima in 19. sequentem ex ordine transfer-
 tur, ita pro A capitalr v. prob.x. pro c.z. &amp; sic consequenter, vt patet in
 alphabeto subscripto, poteris nihilominus et amp; hunc variare modum, ut non-
@@ -6484,9 +6289,9 @@ R r f p b a u p e n k o p z e r r b o q r f b h r x b h r l k a f o o b a f k a 
 k biuxaabpbrkkakfimqpfxalzenkeroafouhp
 pbfbobfkconpqdrabocobrka.
 Exemplum XXXVIII.
-<Emphasis type="italic">O</Emphasis>Mniūm rerum pater Rex et amp; factor hominē primum creauit Adam,
+OMniūm rerum pater Rex et amp; factor hominē primum creauit Adam,
 cui vxorem in paradiso coniunxit virginem significans catho-
-licam ecclesiam pasteribus ceniunctam.</Emphasis>
+licam ecclesiam pasteribus ceniunctam.
 Modus
 
 Ioannis Trithemij Abb.Spanh.
@@ -6511,16 +6316,16 @@ Bggsgprecgaspezclfcpzfhmkolgqrkglpxrbsbcqqiglg
 esxlhapxlaqafixeggrbgafusscpbpolahmbepglssgeeedel
 elgqusgerelfschbgaf.
 Exemplum XXXIX.
-<Gap reason="illegible" extent="ca. 1 word"/> O <Emphasis type="italic">Benigissime Iesu gratias ago pietati tue sanctissima, qui sanguine tuo</Emphasis>
-<Gap reason="illegible" extent="ca. 2 words"/> genus humanum patri tuo reconciliasti, pendens elevatus in cruce mi¬
-<Gap reason="illegible" extent="ca. 3 words"/> serabiliter, quassato corpore animo tristi, facie consputa, portansque nostra
-<Gap reason="illegible" extent="ca. 4 words"/> crimina per zeliū ineffabilis charitatis nostros īniores sanasti, floridā iuuen-
-<Gap reason="illegible" extent="ca. 5 words"/> tutē corporis propter nos vulneribus durissimis fudisti atque hominē viuisicasti,
-<Gap reason="illegible" extent="ca. 6 words"/> mortuum, nimia karitate deueltus, katholicamque restituens cōmunionē mori.
-<Gap reason="illegible" extent="ca. 7 words"/> laboriosissime voluisti. Gratias igitur quas possum redemptori tibi charismo</Line>
-<Gap reason="illegible" extent="ca. 8 words"/> ago, gemens et lacrymans memoriam passionis tue. Christe saluator reme¬
-G2 morans.</Line>
+ O Benigissime Iesu gratias ago pietati tue sanctissima, qui sanguine tuo
+ genus humanum patri tuo reconciliasti, pendens elevatus in cruce mi¬
+ serabiliter, quassato corpore animo tristi, facie consputa, portansque nostra
+ crimina per zeliū ineffabilis charitatis nostros īniores sanasti, floridā iuuen-
+ tutē corporis propter nos vulneribus durissimis fudisti atque hominē viuisicasti,
+ mortuum, nimia karitate deueltus, katholicamque restituens cōmunionē mori.
+ laboriosissime voluisti. Gratias igitur quas possum redemptori tibi charismo
 
+ ago, gemens et lacrymans memoriam passionis tue. Christe saluator reme¬
+G2 morans.
 [segment 122]
 52 Claus Steganographiae
 morans. O benignissime Iesu salua me bonitate tua solita, mihique cuncta;
@@ -6543,7 +6348,7 @@ poris tui benedicens. O benignissime gratias immortales ago, respice famu-
 lum tuum, Amen. Joh. Trith.
 Modus XL. Alternis dictionibus vtitur, quamlibet literam significatiuam pri-
 mam in 21. transfert.
-<Emphasis type="italic">M</Emphasis>Odus 40. instar praeceđentium alternis dictionib ibidẽ vacua signiﬁcativa vtitur, prima littera cuiuslibet signiﬁcative dictionis in 21.
+MOdus 40. instar praeceđentium alternis dictionib ibidẽ vacua signiﬁcativa vtitur, prima littera cuiuslibet signiﬁcative dictionis in 21.
 proximae sequentem que est vltima nostrî per ordinem transfertur, ita ut pro
 A, capiatur z., pro b,a.pro c,b.& sic consequenter, vt patet in alphabeto hu-
 ius 40. modi quod sequitur post. Iste modus autem si conc et amp; cateri omnes in di-
@@ -6553,8 +6358,8 @@ Alphabetum.
 Az.ba.cb.dc.ed.fe.gf.hg.ih.ki.lk.ml.nm.on.po.q.porq.fr.tj.
 nt.xn.zz.
 Literae significantes.
-<Emphasis type="italic">An bggh mstlamtisz qs lh mz mednpabgz f dah.</Emphasis>
-<Gap reason="illegible" extent="ca. 3-5 characters"/>
+An bggh mstlamtisz qs lh mz mednpabgz f dah.
+
 Kodak Gray Scale
 
 Ioannis Trithemij Abb. Spanh.
@@ -6566,7 +6371,7 @@ Noch heynt vmb 9. wart mein an dem Schlag bey
 der Brucken/ da wil ich dich suchen hinder den Bäu-
 men.
 Exemplum LX.
-<Gap reason="illegible" extent="ca. 1-2 words"/>
+
 A Gite miseri poenitentiam nunc breui tribulationes generis nostri gra-
 quissimas ab hominibus infidelibus morteaque crudelissima sustinebi-
 tis indurati, Turca in Christianitatem longe lateque ab Ungaria ma-
@@ -6587,10 +6392,9 @@ butione, orantes Deum intentissime quatenus nos conuertat sanctis dimissis mi-
 fericorditer, liberans nos ab inimicis, qui animas nostras conantur tradere
 merti, Anno Domini, CCCC.XCIX.XI.Cal Martij.
 Ioannes Trithemius Abbas Sponheimensis.
-G. 3 CAPL<Gap reason="damaged" extent="ca. 1 char"/>
+G. 3 CAPL
 Kodak Gray Scale
 0 1 2 3 4
-
 [segment 123]
 54 Claus Steganographiae
 CAPITVM II.
@@ -6641,7 +6445,7 @@ s. z. k. s. i. sequitur.
 Exem-
 
 56 Clauis Stegographiae Exemplum primi.
-<Emphasis type="italic">T</Emphasis>Empus transit zelemur quie: lis sinceritate<Above>m</Above> leuem humiliter mentes
+TEmpus transit zelemur quie: lis sinceritatem leuem humiliter mentes
 ligendo nostra quotidie errata. Tempus ligendi adest; mundemus te-
 nebras motuum, linquemus hoc seculum, fugientes desidia torporem, tenea-
 mus Zelum catholicae sanctitatis. Amen. Ioannes Trithemisus Abbas scripsit
@@ -6649,22 +6453,21 @@ mus Zelum catholicae sanctitatis. Amen. Ioannes Trithemisus Abbas scripsit
 Secundus Modus alternis dictionibus vtitur,
 &amp; literae significantium in secundam
 praecedentis transferuntur.
-<Emphasis type="italic">S</Emphasis>Ecundus vero modus huius Capituli ab una vacante incipiens alternis
+SEcundus vero modus huius Capituli ab una vacante incipiens alternis
 dictionibus, ociosa et amp; significatiua per ordinem proposita narrationis uti-
 tur, &amp; prima littera cuiuilibet significatiuae dictionis in secundam immedia-
 te praecedentem translata anticipatur, vt pro A, accipiatur x. pro b, z. pro
 c a. &amp; sic consequenter, vt patet in tabula rotunda hic posita, quam in al-
 phabeto plani quod propter faciliorem modum scribendi posuimus. Rubra
 autem littera nostrum visitatum sunt alphabetum, ex quo qualibet eorum
-in hoc modo scribendi nigra in rota<Above>n</Above>dā superposita, ad propositum narratio-
-nem mystice accipitur.</Emphasis>
-Alphabe<Emphasis type="underline">s</Emphasis>
+in hoc modo scribendi nigra in rotandā superposita, ad propositum narratio-
+nem mystice accipitur.
+Alphabes
 XZ
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 1234567890 .I. II. III. IV. V. VI. VII. VIII. IX. X. XI. XII.
 P Q R S T V U X Z A B C D E F G I K L M N O P R S T V U Z A B C D E G I K L M N P R S T V U 2345678
 Kodak Gray Scale
-
 [segment 124]
 Ioannis Trithemij Abb.Spanh.
 57
@@ -6677,7 +6480,7 @@ Literae significantes.
 G.afz gbcpgafhm k.jmlqrsibxl vskg rg qbj eq
 etp mgr.
 Exemplum secundi.
-<Initial type="simple">C</Initial>reator generis humani aspice Deus famulos tuos Zelo rectitudinis gu-
+Creator generis humani aspice Deus famulos tuos Zelo rectitudinis gu-
 berna quatenus bene conuersantes consequamur praemium gaudium
 coelestium. Adiuua nos fragiles miserosque homines sanctisque moribus exorna
 catholica pietatis sancto queasumus, mentes nostras lumine illustra quatenum
@@ -6708,8 +6511,9 @@ Bringer diß Brieffs ist ein boͤser Knab/ nit getraw jhm zuviel.
 Literae significatiuae.
 Xobkdlboafpxofbcopfpqbfklxbgkuxbkfogdbgorbfibzefb.
 Exemplum tertij..
-<Emphasis type="other">H</Emphasis>arissimum optimum benignissimumque catholicorum defensorem bea¬
-nedicentes opportunè adoramus fideli erper Christum omnis faciat. bonam charitatem fideli ponat, quietem beatitudinis fides catholica Christuma laude per bona opera, gaudeat. catholicus victor Christus bonis catholicis qđ fallic quotidie deuo: ssime benedicat, quoniam ornatius religionis baltheo fullo <Gap reason="illegible" extent="ca. 3-4 chars"/> </Line>
+Harissimum optimum benignissimumque catholicorum defensorem bea¬
+nedicentes opportunè adoramus fideli erper Christum omnis faciat. bonam charitatem fideli ponat, quietem beatitudinis fides catholica Christuma laude per bona opera, gaudeat. catholicus victor Christus bonis catholicis qđ fallic quotidie deuo: ssime benedicat, quoniam ornatius religionis baltheo fullo  
+
 Kodak Gray Scale
 0 1 2 3 4
 
@@ -6731,7 +6535,6 @@ tem iste modus cum cateris variari per alternas, binas vel plures sed quasi
 per singulas procedẽdo significatiua plurã secreta manifesta pos-
 sumus occultare placuit nobis propter breuidatem hunc modum assumere.
 Kodak Gray Scale
-
 [segment 125]
 60 Clauis Steganographiae Alphabetum.
 At.bu.cx.dz.ca.fb.gc.bd.ce.k.f.lg.mh.ni.ok.pl.qm.rn.so.tp.uq.xr.zs.
@@ -6740,9 +6543,9 @@ Der Pfarrer von Bing ist vmb eins verschieden/ lug nach der Pfarꝛ. Hae est seq
 Literae significatiuae.
 Zanldania q k i veice opdeipqh uaeioꝗanoxdae Zaigqe ritxd Zan ldennai.
 Exemplum IV.
-<Emphasis type="italic">Z</Emphasis> Elatorem animarum nostrarũ laudaturi diuino amore nos iugiter accedamus quascunque calumnias inutiles vanitates aternas iucunditas cupientes, ecce omnia prater Deum et amp;iust tiam pretereunt. Quare hanc vitam amamus exitioque immergi optamus, quare abducimus nos, oremus Chr̃stum deotioni sꝫ amoris eterni zelatorem assidua instantia, grani bus quotidie commaculamur impelli, murquo tentationibus Christe dulcissime zelum amoris nobis largire dulcedinũ tui, nec noccat animabus iniquietas, Amen. Ioh. Tristh. scripsito. Calend Martii, Anno domini M. ID.
+Z Elatorem animarum nostrarũ laudaturi diuino amore nos iugiter accedamus quascunque calumnias inutiles vanitates aternas iucunditas cupientes, ecce omnia prater Deum et amp;iust tiam pretereunt. Quare hanc vitam amamus exitioque immergi optamus, quare abducimus nos, oremus Chr̃stum deotioni sꝫ amoris eterni zelatorem assidua instantia, grani bus quotidie commaculamur impelli, murquo tentationibus Christe dulcissime zelum amoris nobis largire dulcedinũ tui, nec noccat animabus iniquietas, Amen. Ioh. Tristh. scripsito. Calend Martii, Anno domini M. ID.
 Modus quintus singulis significatiuis vtitur et amp; quaelibet litera in quintam ante se transmutatur.
-<Emphasis type="italic">M</Emphasis> O lus quintus autem huius secundi capituli ad instar precedẽtiis nullas dictiones vacuas recipit, sed per singulas significatiuas mysteriũ proce- dit. Nec credo aliquem huius artis inscium occultata per hos modos posse aliquando inuenire, dum etiam artem scienti et amp; non bene usitato fit difficile omnia penetrare: littere autem omnium dictionum latentes mysterij transcurrunt in quintam immediate pręcedentem, ita vt pro a capiatur sꝫ que est in circulo alphabeti.
+M O lus quintus autem huius secundi capituli ad instar precedẽtiis nullas dictiones vacuas recipit, sed per singulas significatiuas mysteriũ proce- dit. Nec credo aliquem huius artis inscium occultata per hos modos posse aliquando inuenire, dum etiam artem scienti et amp; non bene usitato fit difficile omnia penetrare: littere autem omnium dictionum latentes mysterij transcurrunt in quintam immediate pręcedentem, ita vt pro a capiatur sꝫ que est in circulo alphabeti.
 Quinta.
 
 Ioannis Trithemij Abb. Spanh.
@@ -6766,7 +6569,7 @@ Kodak Gray Scale
 0 1 2 3 4
 
 62 Clavis Steganographiae Exemplum Quinti.
-<Emphasis type="italic">G</Emphasis>ranibus issistentes mentis humiliter pufculamꝫ gram̃mata tua nouas
+Granibus issistentes mentis humiliter pufculamꝫ gram̃mata tua nouas
 Zelotes trinitatis honestum nobis dona benus zelus malum persequitur
 nō operatur, petimꝰe humiliter Christe piissime paster succurre, morbis gra-
 uibus dilectio heu sum uo gravati veniam miseris prasta optime redemptor. leo
@@ -6774,7 +6577,7 @@ Trith. Abbat posui 7. Calen Martij, Anno M I D.
 Modus sextus per omnes significantes pro-
 greditur &; gramma quodlibet in 6.
 praecedens collocatur.
-<Initial>M</Initial>Odus sextus huius quoque capituli per omnes dictiones significantes
+MOdus sextus huius quoque capituli per omnes dictiones significantes
 prioris instar progreditur, nullam prorfici vacanțem admittens &; sc̄-
 creci mysterij literę omnecūtra transposita sunt, vt pre A capiatur sexta pro-
 cedens in rotula que est r, pro b, s. pro c, t. pro d, i, pro e, x, pro f, z, pro g, A,
@@ -6783,7 +6586,6 @@ merum numero alfabeto suppositum facile &; sine labore potest scrie, quan-
 cum vnaqueqꝫ litera distat ab alia &; quotasti in ordine viriusqꝫ alphabeti.
 Pam sequitur rotula.
 Alpha-
-
 [segment 126]
 Ioannis Trithemij Abb.Spanh.
 63
@@ -6797,7 +6599,7 @@ Literae significantes.
 Gengefuͤm xgfbgetuquoxbhlmfxfxlemnuxgoobexlfsa
 txl
 Exemplum VI.
-<Gap reason="illegible" extent="ca. 1-2 words"/>
+
 Gloriosum clementem nostrum generationẽ conditorẽ factoremꝙ vni-
 uersitatis Christianam memoriam Christi gestorum faciens humili-
 tatũ genubus cũ uło tempore vendicat. Quare obmutescimus. Aspiciamus
@@ -6805,11 +6607,11 @@ Christum baualantem humeris lignum maiestatem redimentem famulos
 Christus ligne confixum moritur nobis Christe crucisfixe glorificator optime a-
 mnium credensium baualantes exaudi, Christo lumen fulgidum Christe tri-
 umphator Christianos libera. Anno Domini. M.I.D.g. Calen.Martij,Iovan.
-Trithemi<Above>ci</Above> abbas componuit.
+Trithemici abbas componuit.
 Modus septimus per omnes significatiuas pro-
 greditur et amp; in 7.praecedentem literae trans-
 ponuntur.
-<Gap reason="illegible" extent="ca. 1 word"/>
+
 S Eptimus autem modus huius capituli nullam ociosam recipit, sed in nar-
 rationẽ occulti mysterij per significantes singulas precedet. Verum tũ
 ꝑaauula secreti mysterij omnia transponuntur in 7.quamlibet litterã imme-
@@ -6819,7 +6621,7 @@ rij. Ita in 7.precedentem conuenienter sunt. transposite vt pro A,q capiatur,
 qua septimo distat: ab eo loco retrorsum numerando, sicut numerus supposi-
 tus clare indicat., pro b capiatur r, pro c,s.&amp; ita consequenter secundum or-
 dinem rotule subsequentis.
-Alpha<Gap reason="illegible" extent="ca. 1 character"/>
+Alpha
 
 64 Clauis Steganographiae
 Alphabetum planum.
@@ -6827,7 +6629,7 @@ Aq.b.r.c.f.dt.cv.fx.gz.ha.ib.ke.ld.me.nf.o.g.ph.q.i.mk.l.t.m.vn.xo.zp.
 Intentio secreti mysterij.
 T.b.l.b.l.m.x.q.l.m.q.u.b.f.c.u.s.c.e.q f.r.v.t.p.d.n.b.v.b.f.f.k.l.m.a.rv.f.b.f.t.s.v.e.x.v.d.t.v.s.q u.s.a.v.k.f.v.l.m.n.f t.l.n.a.m.s.v.b.f.s.b.v.p:f.l.m.
 Exemplum VII.
-<Emphasis type="italic">Temporalium bonorum latitia blandis lubricisque malis Christianis</Emphasis>
+Temporalium bonorum latitia blandis lubricisque malis Christianis
 quietem laetitia mortali variis bellis fatigat caro vanitas seculi crimi-
 nosis est qui futuri regni beatitudinem temere vili pendunt dati nequitie
 boni nullius bestia foriores tramitem vite catholice lucidum mise-
@@ -6858,7 +6660,6 @@ Ap.bq.er.df.et.fu.gx.hz.i.a.kb.lo.md.ne.of.pg.qh.rj.sk.tl.
 w.m.xn.zo.
 Intentio secreti mysterij.
 Deine Feindt werden Morgen umb neun herkommen/ I
-
 [segment 127]
 66 Claus Steganographiae men/ mit zehen Pferden / da hab dich vor zurichten.
 Literae significantes.
@@ -6879,7 +6680,7 @@ MID . Kal. Martij.
 Modus nonus omnibus significatiuis vti-
 tur, &amp; in nonam praecedentem quae-
 libet litera transfertur.
-<Emphasis type="italic">Alpha</Emphasis>
+Alpha
 M odus nonus huius precedentis capituli in occultando proposito my-
 sterij per omnes significatiuos institutionem siue ordinẽ dirigit va-
 cantem nullam penitus admittit. Omnes autem litterae secreta narratione in-
@@ -6888,7 +6689,7 @@ ne alphabeti ante eam sicut pater tam in rotula quam in alipherba plano. Pro
 b. capiatur p. pro e. q. sic consequente. Modus autem iste sicut ceteri o-
 mnes in alios multos variari potest, non solum per alternas, binas ternarie,
 sed etiam nalijs tam diverse dispositionibus, vt ex quolibet modo insi-
-miti possint fieri.</Line>
+miti possint fieri.
 
 Ioannis Trithemij Abb.Spanh.
 67
@@ -6900,11 +6701,11 @@ Die Sachsen versamblen ein groß Volck/ nit weiß ich off wem es gehe/ sihe dich
 Literae significatiuae.
 R .z.s.i.o.w.i.s.d.l.s.h.i.s.o.c.j.b.s.d.z.d.v.h.e.z.i.l.a.b.q.a.d.z.k.l.b.j.z.i.z.q.x.u.t.li.f.d.z.i.v.s.x.i.s.x.s.r.z.q.x.s.u.h.
 Exemplum noni.
-<Emphasis type="italic">Religionis Zeletes saluator Jesu omnium mitissime inuocantes suscipe</Emphasis>
-<Gap reason="illegible" extent="ca. 1 word"/>
-<Emphasis type="italic">debiles libera seruos humiles, indulge orantibus crimina supplices bea-</Emphasis>
-<Gap reason="illegible" extent="ca. 2 words"/>
-<Emphasis type="italic">tifica seda disturbia salutem zelantibus Dominum veram humilitatem.</Emphasis>
+Religionis Zeletes saluator Jesu omnium mitissime inuocantes suscipe
+
+debiles libera seruos humiles, indulge orantibus crimina supplices bea-
+
+tifica seda disturbia salutem zelantibus Dominum veram humilitatem.
 I a
 expeditius
 Kodak
@@ -6922,7 +6723,7 @@ Spanheimensis.
 Modus decimus singulis significatiuis vtitur,
 &amp; in decimam praecedentem quaeli-
 bet litera transfertur.
-<Initial type="simple">D</Initial>Ecimus modui huius capituli, more precedentium in occultando my-
+DEcimus modui huius capituli, more precedentium in occultando my-
 sterio singulis dictionibus significantibus vtitur cum nulla penitus admiscetur. Sicut vera esset difficile ad occultationem intentionis siue
 congruentiam orationis per singulas dictiones componere poteris tam in isto
 quam in aliis modis pene omnibùs uti alternis, binis, ternis, quaternis, vel es-
@@ -6930,30 +6731,24 @@ tam pluribus. Omnes autẽ littera cum sint significatiua instar precedentium,
 in hoc modo decimo in decimam precedentem se litteram anticipata tran-
 sumtur, ita ut pro A capiatur n, quia in ordine alphabeti iuxta rotule de-
 monstrationem io ante eã pro b, capiatur o pro c.p.pro d.q.&amp; ita consequen-
-cer per totum alphabetum, sicut patet in circumferentiam mediã intuiti.</Line>
-Alpha-
+cer per totum alphabetum, sicut patet in circumferentiam mediã intuiti.
 
+Alpha-
 [segment 128]
 [illegible]70 Cl.Steganogr.Ioh.Trith.Abb.Spanh.
 Modus vndecimus, vt praecedens singulis
 significatiuis vtitur,&amp; literae in II.
 anticipantur.
-<Emphasis type="italic">M</Emphasis>Odus vndecimus mort precedentium singulis dicti en:bus significanti-
+MOdus vndecimus mort precedentium singulis dicti en:bus significanti-
 bus in occultando mysterio progreditur,cuiꝫ vacans nulla penitus ad-
 misceatur.Porru licet omnes in vndecimam p̄cedentem immediate trans-
-ponuntur, sicut patet clare entuensi alphabetum in rotula.</Line>
-<Gap reason="illegible" extent="ca. 1 line"/>
-<Figure>
-<Description>Circular diagram illustrating an alphabetic substitution cipher for a Vigenère-like system, showing key words 'FINIS' at its center surrounded by letters of the alphabet arranged in concentric circles. The outermost circle is labeled numerically from 26 to -1 (likely representing positions or values).</Description>
-</Figure>
-<Paragraph>
-<Line>. FINIS .</Line>
-<Gap reason="illegible" extent="ca. 3 lines"/>
-<Gap reason="illegible" extent="ca. 4-5 lines"/>
-<Gap reason="illegible" extent="ca. 2-3 lines"/>
-<Gap reason="illegible" extent="ca. 2-3 lines"/>
-<Gap reason="illegible" extent="ca.
+ponuntur, sicut patet clare entuensi alphabetum in rotula.
 
+>
+
+. FINIS .
+
+<Gap reason="illegible" extent="ca.
 [segment 129]
 [illegible]
 [segment 130]
@@ -7010,7 +6805,6 @@ SPINE, BACK, And ALL THe Parts THEREFORE; Also, The NeweSt Surger Y For Operatio
 VOL. XIV. CONCERNING ThE BlADDeR (bladder); ALSO, THE NEWEST SURGEY FOR OPERATION ON BlADDEr, PROSTATE-GLAND, etc., Measuring
 OF BONES, PrINCIPLEs AND PRACTICEs OF DENTISTry, PHARMACY, ECt.
 VOL. XV. CONCERNING THA T Part of THE LUNGS (lungs) which is not mentioned in Vol.V.; Also, THE NEWEST SURGY For Operations on THAT Part oF THE LUNGs, BRONCHIS, HEART, BRAin, SKELE
-
 [segment 131]
 Clavis generalis triplex
 IN LIBROS STE-
@@ -7118,7 +6912,6 @@ notata demonstrant, hic inferius per nume-
 ros abbreuiationis caufa, cunctae regulae va-
 rationes demonstrabũtur, in quibus exemplis
 a 3 ofignum I
-
 [segment 132]
 6 CLAVIS GENERALIS STEGAN.
 o signum vel 2ccr arithmeticum, quoties posi-

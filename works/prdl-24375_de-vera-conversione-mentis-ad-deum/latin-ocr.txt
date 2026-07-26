@@ -7,7 +7,6 @@ Et placet: et legitur quicq̃d tritemius abbas
 Eruit ex adytis grecia docta tuis.
 Sũ tantũ seruate virũ. quia dogma salutis
 Oꝛnat: et ad christũ qđ sit oꝛigo refert.
-Hain 15638
 
 Joannes tritemius abbas spanhemensis. Ioanni en¬
 gellender iuriscōsulto.oratoriqꝫ facundissimo.Salutē.
@@ -44,8 +43,7 @@ Uale.Ex spanheym.Anno .M.D.Ment Nouemi
 bris Die vicesima·
 
 Oratio joannis tritemij abbatis Spanhemensis de vera conversione mentis ad suum principium.
-<Initial type="decorated">D</Initial>ixime vellem patres reuerendi ac summpere oꝑtarē ut mens mea eū diuini numinis esset cōsecuta splendorem quo vnicū institucōnis nostre scopon verā liberā et ab infimis absolutū animi cōuersionē adip̄m essentie sue principiū decū optimū maximū cōcinna ꝓpria et apta facerem oratione manifestū Credo em̄ nihil a me in hac synodo sancta hoc maximo tꝑe quo prohpudor om̄es pene malis affectionibus occęcati a cognicōne et amore summī incōmutabilijs principij turpiter oberramus aut honestius aut vtilius posse dici qͣꝫ de mentis conuersione ad deū cũ id omne qđ sacratissimis legibus maiorumqƺ institutis volūtarij ꝓ deo mancipati in hac vita mortali agimus nihil aliud nobis qͣꝫ reditū ē cōmeatum animi ad centrū beatitudinis sue qđ deus est debeat ꝑsuadere Scimus autē  anima ꝑ amorē adsuū principiū dulciter et libere conversa cũ separatur ac corpore adip̄m deū tanqͣꝫ ad centrum quietis sue immobile leta cōuertitur in ip̄o felix ac sine fine beata ꝑmanens nullis deinceps ꝑturbacōnibus vrgetur Nihil ergo patres his qui deū amant dulcius in hac vita vnqͣꝫ cōtingere potest qͣꝫ de vera mentis cōversione ad suū principiū vel loqui cōtinue vel audire quo ip̄a semꝑ maiorē in modū et ad infimoꝝ cōtemptū et ad amorē supernoꝝ ꝓuocat Et ego patres quāqͣꝫ nullius sum erudicōnis inter vos nulluisqƺ meriti apud deū consensus nihil tamē ad hanc dicendi prouinciā ulegatus magis conari soleo qͣꝫ ea ꝓ viribus in mediū afferre que vos mūdi cōtemptores reddant et animos vros in delio si p̄ iudices mei testimoniū mihi ꝑhibebitis nitorem coruscantis eloquentie oracōnibus a me habitis nunqͣꝫ adbibui: interruptrices sententiarū quas introductio .ij.
-
+Dixime vellem patres reuerendi ac summpere oꝑtarē ut mens mea eū diuini numinis esset cōsecuta splendorem quo vnicū institucōnis nostre scopon verā liberā et ab infimis absolutū animi cōuersionē adip̄m essentie sue principiū decū optimū maximū cōcinna ꝓpria et apta facerem oratione manifestū Credo em̄ nihil a me in hac synodo sancta hoc maximo tꝑe quo prohpudor om̄es pene malis affectionibus occęcati a cognicōne et amore summī incōmutabilijs principij turpiter oberramus aut honestius aut vtilius posse dici qͣꝫ de mentis conuersione ad deū cũ id omne qđ sacratissimis legibus maiorumqƺ institutis volūtarij ꝓ deo mancipati in hac vita mortali agimus nihil aliud nobis qͣꝫ reditū ē cōmeatum animi ad centrū beatitudinis sue qđ deus est debeat ꝑsuadere Scimus autē  anima ꝑ amorē adsuū principiū dulciter et libere conversa cũ separatur ac corpore adip̄m deū tanqͣꝫ ad centrum quietis sue immobile leta cōuertitur in ip̄o felix ac sine fine beata ꝑmanens nullis deinceps ꝑturbacōnibus vrgetur Nihil ergo patres his qui deū amant dulcius in hac vita vnqͣꝫ cōtingere potest qͣꝫ de vera mentis cōversione ad suū principiū vel loqui cōtinue vel audire quo ip̄a semꝑ maiorē in modū et ad infimoꝝ cōtemptū et ad amorē supernoꝝ ꝓuocat Et ego patres quāqͣꝫ nullius sum erudicōnis inter vos nulluisqƺ meriti apud deū consensus nihil tamē ad hanc dicendi prouinciā ulegatus magis conari soleo qͣꝫ ea ꝓ viribus in mediū afferre que vos mūdi cōtemptores reddant et animos vros in delio si p̄ iudices mei testimoniū mihi ꝑhibebitis nitorem coruscantis eloquentie oracōnibus a me habitis nunqͣꝫ adbibui: interruptrices sententiarū quas introductio .ij.
 [segment 2]
 nes scripturarū locales nōnulli appellant. vsqꝫ ad inui-
 diam obmisi: ne uel simplicioribus sensum necessarie ad-
@@ -79,11 +77,9 @@ pauca dicturi.summi et incōmutabilis boni excellentissi
 mā bonitatem humiliter inuocemus:que sola ad se sua
 nos misericordia et pietate cōuertere potest.cum non sit
 volentis neqꝫ currentis dei.cuius gratia
-presto est amantibus.et dicamus.</Emphasis type="other">¶</Emphasis> Ueni sce spiritus.
-<Gap reason="damaged" extent="remainder of line, approx 10-12 characters"/>
+presto est amantibus.et dicamus.¶ Ueni sce spiritus.
 
 Si quis patres existimat me aut nouarū rerū cupi¬dum.aut vana gloriola motū.hanc oꝛationē de mentis cōuersione habiturū.vehementer errat.cū ip̄a religionis nr̄e a viris sanctissimis instituta ꝓfessio.nihil aliud fit qͣꝫ trames quidā ip̄ius animi nr̄i.libere.tranquille.et absolu lute sese ꝑ sancti amoꝛis exerciciū quādiu viuit in carne.ad suū principiū cōuertere.ip̄iqꝫ vniri ꝑpetuo cupientis.Obid mūdū.et om̄ia que in mūdo sunt scd̓m vim inisti tucōnis nr̄e voluntarie moti reliquimus.nos.nr̄a om̄ia.ip̄amqꝫ voluntatē ꝓpriam in manus alterius ꝓ dei amo re corā sanctis om̄ibus nō ob aliam causam resignauī¬ mus.qͣꝫ ut animus noster nihil habens in hoc mūdo cui delectabiliter inherere queat.semꝑ trāquillus.quietus.liber et ab om̄ibus que videntur in terris vere absolutus ad amoeꝛē summi boni.quotidianis et quidem sanctiss¬ mis exercitijs.sine impedimento cuiuscūqꝫ rei sese valeat eleuare.Dicitenī quidā in sanctis.Scrutari legē possūt vtcūqꝫ quieti.Si mūdi a strepitu.libera coꝛda vacent.Et rursus de supnoꝝ cōtēplacōne que sola christianoꝝ sapientia est ait.Tranquislā et vacuā curis sapiētia men tem.Imbuit.et placidi pectoris hospes erit.Que cū ita sint.inter oīa que nobis racō salutis nr̄e afferre solet.nihil est ꝺe quo et frequētius et studiosius merito simus ad mo nendi.qͣꝫ ut p̄sentis vite breuitatē.et inistantē emigracōis nr̄e terribilē necessitatē ꝓ viribus quotidie memorātes.animū nostrū a terrenis om̄ibus semꝑ sollicite subirraha mus: qui summo nunqͣꝫ poterit vniri prīcipio:nisi cū a ceteris om̄ibus absolutus et liber.sibi ip̄i fuerit vnitus.Sed ad hec ꝑsuadendū.nemo idoneus.nemo sufficiēs.nemo recte ordoꝛinus nisiquē diuinus amoꝛ singulari dono gratie sue fecit expertū.vsqꝫ adeo vt quisquis intel lectū ꝑ fensibilia cōfundit.aut passionibus carnis ꝑtur bat affectum.non plus ad eternoꝝ fit contemplationem dispositus.qͣꝫ uel noctua ad lucem.uel ad colorū cogni tionem occus.In huius rei mysteriū ad montem arden¬ a iij
-
 [segment 3]
 tem diuino lumīe moyses.futurus dux populi.nō prius est ausus accedere q̄ exutis indumentis pedū.p que de signantur affectiones mundane.nudus et absolutus.ad diuinoꝝ contemplationē est admissus.Et magnus ille ꝓpheta esaias.cum mysticā visionem dei omnipotentis in folio eleuato residētis vidisset memor fragilitatis sue contremuit:nec se ingerere diuinis spectaculis vlterius consensit.quousqꝫ vnus de seraphin aduolans ardenti calculo metuētis ora purgasset.Et nos patres quotiēs de summo et incōmutabili bono.vel dicturi sumus vel audituri.deponamus calciamenta mundialiū affectio num illud metuētes quod deus hominibus viciosis suā maiestatem scrutari ausis cōminatur dicēs.Bestia que tetigerit montē.lapidibus obruatur.Mentem quoqꝫ nostrā per desideriū amoris intimi fursum erigamus.ut calculo diuini feruoris attacta.digna fiat diuinoꝝ spec taculoꝝ mystica inspectione repleri.Dico enim vobis qui in hoc auditorium hominis imperiti.conuenistis. deum nemine sine aliquali preuia cognitione veraciter posse amare.cognitionem autē opificem amoris nulli contingere.qui non fit prius affectu purgatus ab om̄ odio vel amore.eorum que sunt in mūdo et que carnis motū sequūtur.Cognitio summi boni in nobis causat amorem.amor quoqꝫ ꝑficit cognitionem.Nam et del filius ad patrem de credentibus dixit.Hec est vita eter na ut cognoscant te folū verum deum.et quem misisti iesum christum.Ergo ex cognitione amor.et ex amore summi boni fruitio sempiterna nobis oritur.Summū illud incōmutabile bonū.quod deū appellamus.a quo omne bonū in celo et in terra est et nominatur.et nostrū et angelicum intellectū longe incomparabiliter transcendit.quippe cum fit supra omnem positionem:ad cuius cognitionem potius affectu q̄ intellectu mēs nostra ab ip̄o adiuta promouetur.Animus enim noster ab om̄i hijs terrenis passionibus rite mundatus.ad deū ascen-
 
@@ -117,8 +113,7 @@ nem est summū ineffabile bonum. ꝑfecta et singu-
 laris omniū causa.et super omnem ablationem excel-
 lentia eius: simpliciterqꝫ absoluta ab omnibus que co-
 gitari.intelligi.aut dici possunt a nobis vel a quoquā in
-mundo.et vltra omnia.Enimuero quicquid nos men<Gap reason="damaged" extent="ca. 2-3 letters"/>
-
+mundo.et vltra omnia.Enimuero quicquid nos men
 [segment 4]
 te concipere. intellectu capere. aut ore proferre possumus.
 mus. non est deus. Quod autē ille est. nos nec scire. nec
@@ -182,14 +177,12 @@ vnicolor actu.virtuteqꝫ omnicolor.Quid est hoc qđ tibi
 visus de lumine nūciauit? Hoc ne est lumen qđ dixit?
 Nihil vnqua audiui obscurius definiri.Quonā pacto
 fieri potest ut nihil sit obscurius lumie quo nihil est cla-
-
 [segment 5]
 rius.quādo ꝑ illud clarent omnia? Uide qͥd sensus ad incōprehensibile lumen̄ quādo neqꝫ ip̄m in quo est et mouetur lumen materiale recte comp̄hendere po test.Quo circa traditionē sensuū cccā despicientes ascen damus hincad sublimem mentis speculam.si forte ip̄a mens quid fit lumen nobis insinuare queat quod inte nebris lucere ꝑhibetur. ¶ O mens que recte cũcta me tiris.dicito mihi nūquid forte lumen qđ in tenebris lu cet est ip̄e deus:quo etiā nihil clarius est.nihilqꝫ obscu rius.Nihil clarius qƺ deum esse.esseqꝫ ad summū poten tem sapientemqꝫ et bonū:hoc em̄ auribus nostris que cūqꝫ ab eo sunt facta ꝓclamat.ut nemo sit surdior illo qui tantū rerū omniū sonitū srepitūqꝫ non audit:nihil contra obscurius qƺ quid sit deus.ut nihil sit tenebrosius illo qui sibi opinatur hoc esse clarissimū.At mens ca men lumine catholice fidei illustrata.quā ꝑ sciennā intel lectus ad cognitionē supnoꝝ erecta.respondebit.Deus est pater luminū apud quē nō est trāsmutatio.ꝑ quā ex tinguatur vel minuatur:neque vicissitudinis obumbra cio.ꝑ quā vel vicissim subeat noctē.vel aliquē patiatur defectū.Rursus dicet.deum esse lucē in qua tenebre nō sunt vlle:formam in qua nihil est informe.formositatem quoqꝫ in qua nihil est deformē.Sed ista quid ad cum qui suꝑ omnia est.omnēqꝫ positionem in infinitū longe trāscendit:quę ea que sunt ex nihilo fecit:increatus.eter nus.immobilis.incomprehensibilis semp̄ existens.nihil eoꝝ est que fecit qui omnia fecit.Ergo mens supernoꝝ auida linque sensus.trāsgredere rationē.te quoqꝫ ip̄am in affectū cordis subducens transcendito.etsi non alijs tibi saltem summi et incōmutabilis boni gustū amando comparare non pigriteris.omnes imagines similitudin nesqꝫ vniuersas post te relinquens:quatenꝰ a te ip̄a atqƺ ab omnibus libere et absolute ac pure excedendo ad suꝑ substantialē diuine caliginis radiū.sublatis omnibus et absoluta ex omnibus nuda et sola possis euolare.Intel lectum interea tuū captiuū ducito.immo sepultum sine.
 
 affectū quantū potes amando dilatare curato. quoniā deū nequaqƺ intelligendo potes cōprehendere.quando suꝑ omnē intellectū procul eminet.ad quē tamen aman do tibi patet accessus.si mūda fueris.si mitis.si tranquilla.si ab om̄ibus absoluta.tibiqʒ metip̄i recte vni ta.Non decipiaris gustu velim.quoniā quicqͥd videris.
 quicqͥd apprehenderis.quicqͥd dixeris.non est deus.et quod ille est.tu fragili induta corpusculo.neqʒ scire.neqʒ intelligere.neqʒ si omnibus mundi linguis donata esses edicere villatenus potes.Enitere tamen cum sobrietate prudenti non aliter qƺ purificata prorsus ab affectionibus carnis.nulliusqʒ animas in hoc mūdo nisi solius dei.passionibus actualiter exuta.placida et tranquilla.sine omni ꝑturbatione quieta.Sūmi boni radius inte suā bonitatē transfudit qua.deus ip̄e monstrat̉ tibi lux esse inuisibilis.incomprehensibilis.veritas veritatis cuiusqʒ.rerūqʒ omniū causa.cuius splendor immo po- tius vmbra est lux ista visibilis atqʒ finita causa visibli lium.cuiꝰ natura est ut ceteris alia queqʒ declaret.Deo autē inuisibili luci cuncta ꝑ se vere clareqʒ cōspicua sunt.qui illuminat omnē hominē venientē in hūc mundū.ꝑ quem om̄ia facta sunt et sine quo factū est nihil quod fa ctum est.Sed noli ratio confidere sensibus quādo oīm rerum principū deū lumenqʒ indeficiens mystica sollicitudine inuestigare pergis.Obtusi enī sunt omnes corporis sensus:nihilqʒ de summa veritate ꝑcipiūt.Visus tibi nō satis nūciauit delumine:ceteri nullo modo.Re motum a sensibus procul omne spirituale.
 ¶ Conscende sublimem illā mentis speculam ratio veritatis amica.sensibus omnino sopitis.que cum sit lummen quoddam intellectuale.intelligentiaqʒ luminosa.immo ab inuisibili lumine quadam participatione illuminate.cuius obiectū est ip̄m intelligibile lumen.ip̄a te manuducere potest ad verticē diuīe caliginis in qua veritas sūma lucē habitat inaccessibile.Quid em̄ ad inui sibilia visus quādo sensualis lux est que tantū sensibilem
-
 [segment 6]
 accipit datqꝫ splendorem? Ad mentẽ cõuertere ip̃amqꝫ
 ab omni prorius iniquitate purgatã. que te rationẽ esse
@@ -263,7 +256,6 @@ ponūtur: qne causa mystice ac secrete paucis et quidem
 solis mũdis cordibus note sapientie obuoluūtur.ne ab
 immũdis facile diuinoꝝ mysterioꝝ caperētur archana.
 que solis puris sanctitatis amatoribus qui omnē pueri/
-
 [segment 7]
 lemphantasiā in saceris speculacōnibus destruētes om̄in
 no. sufficientes sunt mētis trāscendere cacumen. ad sum-
@@ -328,7 +320,7 @@ mortis articulo posse comprehendi credendus est.Ergo
 viuite mortales dum viuito mãcipati amore fi-
 nem vite semꝑ attendentes.qui quanto vobis minus est
 cognitus:tanto amplius metuendus.
-<Initial type="simple">A</Initial>ge nunc anima ꝑscrutare vbi nam ille sit qui omnẽ
+Age nunc anima ꝑscrutare vbi nam ille sit qui omnẽ
 mundũ cum tanta pulchritudine creauit.qui tam excel-
 lentem nobis contulit vitam.qui amantibus se lucidas
 eternasqꝫ mansiones in celo promissit. Ip̄am in om̃ibus
@@ -337,7 +329,6 @@ qua pulchrum est consistere:pulchrius tamen et magis
 necessariũ animũ in pulchro iam existentem.vnde nam
 hec sint et vndè pulchra fiant investigare.Opportet sa-
 ne ipsum pulchrorum auctorem eorum nullũ b ij
-
 [segment 8]
 penitus esse.alioquin pars quedam eoꝝ erit que fecit.qd̓ ratio nō admittit.Est ergo principiū ip̄e deus suꝑ om̄ia qui om̄ia fecit: quē nullus intellectus cōprehendere po test quia supra omnē intellectū est.qui omnē intellectum creauit.qui in spū et veritate colitur amore purissimi affe ctus inuisibilis cernitur.qͥ semꝑ incōmutabilis ꝑmanēs.nō se.sed nos ad imaginem pietatis.nr̄a facit affectione mutari.Qui cū om̄ia fecerit om̄iaqꝫ possit rerū oīm in effabile principlū.nō est circūscriptibile.sed immensum.incōprehensibile.om̄ia includens.om̄ia implens.om̄ia cōtinens.Et quia immensum est.magnitudinē nullā ha bet:cū magnitudo solū in rebus locum habet externis.Iam vero opoꝛtet ip̄m magnitudinis auctore. non esse participem magnitudinis.qui cū magnus dicitur.nō est quātitas vlla.sed magnitudo illius est.nihil illo esse po tentius nihilqꝫ sublimius.cui non sit neqꝫ in celo neqꝫ in terra qd̓ valeat cōparari.Preterea ꝙ dicimus ip̄m deū ꝑ omnia secula seculoꝝ.perqꝫ vniuersum vbiqꝫ regnare:neqꝫ significat in eo mensura.neqꝫ vasta rursus immensi tatem.alioquin quo naͣ pacto reliqua metiretur.neqꝫ fi gurā aut formā in eo vllā fingere licet:qui ppe cū illa incōprehensibilis diuinitas.et pulchritudinis immēsa ma iestas om̄e qd̓ fingi.cogitari.cōprehendi.aut dici potest.infinitis cōparationibus procul et in immēsam excedat.nihilqꝫ fit eoꝝ que mortalis homo vnqͣs intellexit vel intelligere potuit.de qua recte exclamauerit.ꝓpheta esaias Uere tu es deus absconditus.deus israel saluator.qui ponis tenebras latibulū tuū.et lucē habitas inaccessibilem.a cuiꝰ sapientia stultus factus est omnis homo.O pulchritudo diuine maiestatis immensa.solo affectu amanti gustabilis.suꝑ om̄ia menti desiderabilis:cuius neqꝫ figurā neqꝫ formā accipe possumꝰ vllam.sūmoꝑe nobis desideranda et amaͥda.cuiꝰ immensus est amor.quā cognoscere et amare eterna beatitudo est.Neqꝫ em̄ hic finitus est amor:quando neqꝫ amatū quidē ip̄m est finitu.sed eius amor est infinitus eterna felicitate semper
 
@@ -377,7 +368,6 @@ supeminet:pulchriqꝫ intelligibilis illic sup̃ omnē intel¬
 lectum pulchritudo.decorqꝫ extat ip̄a bonitas summa:
 ab om̃ibus que nō sunt.liberū.absolutū semp̃
 existens.rerū oīm viuens principium.animi rationalis b iij
-
 [segment 9]
 summū et incōmutabile bonū. semꝑ vbiqꝫ p̄sens.Quod cū primū illuxerit animo iam sereno et ab infimis puri¬ ficato mirificū accendit amorē: quādo videlicet formas omnes intencōnesqꝫ.nō solū imaginabiles.sed etiā intellectuales mente transcendens exuerit.tūc ꝑ amorē infini niti boni seip̄m despiciens.et om̄ia que vel dei vel cogito tari possunt gaudio letatur ineffabili.Quod quidē non solum post vitā p̄sentem.verū etiam in hac vita consequi animus.quādoqꝫ potest.ut purgatus ab infimis sibiqꝫ metipi libere redditus et vnitus.ꝑ amori desideriū ita sursum feratur manente ꝓpria affectuose in deū quo penitus oblitus oīm que in mūdo sunt.sed et seip̄m nesciens gaudio inesarrabili.Nouerūt hec qui sunt experti.quoꝝ virtutes illis si tempus admitte¬ ret in facie obijcere possenti:qui cū sint carnales et vicijs dediti.velamen suꝑ cor habentes expansum.mysticam theologiam sanctoꝝ et vitā contemplatiua.nihil verita¬ tis habere somniantes.in opinione hominis indocti ut ip̄i dicere solent ꝓ qualitate affectionū confingi arbitrātur.de quibus dixit sanctus apl̓us.Animalis homo nō p̄cipit ea que sunt spūs em̄ est illi:et nō potest intelligere quia spiritualiter exanimal̓.Et sanctus iudas apl̓us.Hi sunt inquit qui segregant semetippos.animalesspiritu mō habentes.Infelices illi qui terrenis curis et voluptatibus carnis semetipos immergūt.qui vanā huius mūdi scientiā venātur.cū honoribus falsis: quoꝝ sicut mens semꝑ infimis occupata.nunqͣꝫ se a sen sibilibus nouit excutere:ita ad diuini amoris dulcedinē nō assurgit.Erratis o mortales et vehementer quidem erratis.qui aut vanis studijs intenti.aut curis mūdi de¬ mersi.aut carnis voluptatibus seu passionibus malis oppressi.vos deū vel cognoscere vel amare putatis.Fieri naqꝫ non potest vt mens que aliud quoduis amat circa quod occupatur.summū et incōmutabile bōnū qd̓ deus est.pure amare queat.aut illi ꝑ desideriū aliquādo copulari:sed oportet neqꝫ boni neqꝫ mali aliud quicquam in
 
@@ -401,45 +391,64 @@ mus. ꝑ quā mens ip̄a in cognitionē summi boni vtcūqꝫ
 
 ascendens. diuini amoris modo sanctis exercicijs ꝑscue¬
 
-ret instans mereatur nancisci dulcedinem.</p>
-<Paragraph>
-
+ret instans mereatur nancisci dulcedinem.
 [segment 10]
-<Line>¶ Primus itaqꝫ gradus est purgatio ip̄ius animi ab</Line>
- <Line>om̄i videlicet affectione corruꝑibiliū rerū. actionūqꝫ et</Line>
- <Line>cupiditatū. ut sit mūdus. quietus. tranquillus absolu¬</Line>
- <Line>tus a curis. vacuus a desiderijs malis. liber ab om̄i amo</Line>
- <Line>re carnali: sibiqꝫ metip̄i innata pulchritudine ꝓ viribus</Line>
- <Line>vnitus. Anime naͣqꝫ pulchritudo naturalis a summa</Line>
- <Line>pulchritudine formata. corpis assumpti cōmixtione fe¬</Line>
- <Line>datur: quēadmodū et auro accidit turpitudo. si glebis</Line>
- <Line>terrels offundatur. quas siquis excusserit purum subito</Line>
- <Line>restat aurū: idqꝫ iam pulchrū cū ab alienis fuerit segre</Line>
- <Line>gatū. sua videlicet ad pulchritudinē puritate cōtentum.</Line>
- <Line>Eadem racōne anima ab his cupiditatibus segregata.</Line>
- <Line>quas nimio corꝑis cōmercio in se cōcepit. a ceterisqꝫ per¬</Line>
- <Line>turbacōnibus liberata. deletis iam maculis. quas cor¬</Line>
- <Line>porea familiaritas longa cōsuetudine inusserat: atqꝫ ita</Line>
- <Line>sola sibi relicta ꝓculdubo turpitudinē omnē ab aliena</Line>
- <Line>natura prius imbibitā. expurgauit: amissaqꝫ pulchritu</Line>
- <Line>dine rursus inuenta. iā primū diuine cognicōnis. ip̄mqꝫ
+¶ Primus itaqꝫ gradus est purgatio ip̄ius animi ab
 
-magis difficilem gradū ascendit. Quapropter scriptu¬</Line>
- <Line>rarū oracula recte quidē vaticinātur. animā nō purgatā</Line>
- <Line>in p̄senti vita a peccatis in carne cōtractis. post mortem</Line>
- <Line>apud inferos in scenio iacentē cruciari. Impurū naͣqꝫ ob
-</Line>
- <Line>prauitatē sua admodū sues corpore</Line>
- <Line>sordidi. sceno et sordibus delectant̉. Quidnā aliud vera
-temperātia est. qua sola maxime decoratur religio mona</Line>
- <Line>stica: quā corporeis voluptatibus no indulgere. sed eas</Line>
- <Line>tanqͣs impurissimos animi morbos ꝓcul effugere. Foro</Line>
-</Paragraph>
+om̄i videlicet affectione corruꝑibiliū rerū. actionūqꝫ et
+
+cupiditatū. ut sit mūdus. quietus. tranquillus absolu¬
+
+tus a curis. vacuus a desiderijs malis. liber ab om̄i amo
+
+re carnali: sibiqꝫ metip̄i innata pulchritudine ꝓ viribus
+
+vnitus. Anime naͣqꝫ pulchritudo naturalis a summa
+
+pulchritudine formata. corpis assumpti cōmixtione fe¬
+
+datur: quēadmodū et auro accidit turpitudo. si glebis
+
+terrels offundatur. quas siquis excusserit purum subito
+
+restat aurū: idqꝫ iam pulchrū cū ab alienis fuerit segre
+
+gatū. sua videlicet ad pulchritudinē puritate cōtentum.
+
+Eadem racōne anima ab his cupiditatibus segregata.
+
+quas nimio corꝑis cōmercio in se cōcepit. a ceterisqꝫ per¬
+
+turbacōnibus liberata. deletis iam maculis. quas cor¬
+
+porea familiaritas longa cōsuetudine inusserat: atqꝫ ita
+
+sola sibi relicta ꝓculdubo turpitudinē omnē ab aliena
+
+natura prius imbibitā. expurgauit: amissaqꝫ pulchritu
+
+dine rursus inuenta. iā primū diuine cognicōnis. ip̄mqꝫ
+
+magis difficilem gradū ascendit. Quapropter scriptu¬
+
+rarū oracula recte quidē vaticinātur. animā nō purgatā
+
+in p̄senti vita a peccatis in carne cōtractis. post mortem
+
+apud inferos in scenio iacentē cruciari. Impurū naͣqꝫ ob
+
+prauitatē sua admodū sues corpore
+
+sordidi. sceno et sordibus delectant̉. Quidnā aliud vera
+temperātia est. qua sola maxime decoratur religio mona
+
+stica: quā corporeis voluptatibus no indulgere. sed eas
+
+tanqͣs impurissimos animi morbos ꝓcul effugere. Foro
 
 citudo vero nihil metuere eoꝝ que transitoria sunt.neqʒ ip̄am quidē mortem.que nō est njsi quedā anime a corꝑe separatio.quā nō metuit animus qui solus esse desiderat: suoqʒ in eternum principio feliciter vniri.Preterea quid aliud magnanimitas.qͣ rerū mortaliū ꝓ diuino amore cõtemptus? Et prudentia quidē intelligentia est inferio ra declinans.animũqʒ erigens ad superna.His anima instituta doctrinis.jaqmꝗ a sordibus vicioꝝ purgata.ra tio et pulchritudo sibi vnita euadit: qđ nullis deinceps voluptatibus carnis summo principio aduerfis cõcedat.in pulchritudem intellectũqʒ mirifice redacta.diuini splendoris radio proficit illustrata.
 ¶ Secũdus gradus est cognitio diuinoꝝ operũ.quo rum cũ pulchritudinē mens in multis et diuerfis specie bus admirando cõsiderat:fieri nō potest vt non sursum aliquādo ad tante pulchritudinis auctore cũ desiderio amoris sese attollat.Unde et sanctus apl̄s dicit ad rho manos.inuisibilia dei a creatura mundi per ea que facta sunt:intellecta conspici.Om̃is enī pulchritudo mundi a summa pulchritudine formata est: ad cuiꝰ cognitionē nos sua varietate inuitat:vsqʒ adeo vt nihil illo fit stilo tius.qū tanta pulchrorũ varietas.ad cõtemplationem summe pulchritudinis non accendit.Ip̄a quoqʒ series scripturarũ qđ aliud nobis insinuat.qͣ summũ illud incõ mutabile bonũ deum.in principio creasse celũ et terrã.et omia que ip̄ius celi ambitu cõtinentur.ꝑ ip̄mqʒ facta miracula ac stupenda quoꝝ non est numerus.que nos suo clamore nisi lapidibus simus duriores ad cognitio nem summe veritatis quasi manibus cõpellunt.
 ¶ Tercius gradus est cõtemplatio ordinis quo opera inferiora reducũtur ad superiora gradatim.Cũ em̃ mũ dus suꝑcelestis atqʒ etiam celestis sitoꝛdinatissimus.ne cessarioꝛdinatus est etiā sublunaris:in quo cũ inferion ra hoīe sint oꝛdinata ergo multo magis humana.Sin gula igitur hominibꝰ cõtingentia iuste diuinitus ꝺispen santur.quāqͣ nos eoꝝ lateat causa.Sũma nāqʒ proui C
-
 [segment 11]
 dentia tam pulchro tamqꝫ manifesto mundū ordine guo-
 bernat.ut bonitatis sapientie sue nō sic euidentius indiciū aliūde nobis inquirendū.qͣꝫ in eo qđ ip̄a uobis vniuersi machina ordinata ꝓclamat.
@@ -450,7 +459,7 @@ bernat.ut bonitatis sapientie sue nō sic euidentius indiciū aliūde nobis inqu
 ris:vlterius amore ip̄ius boni.concitus ex statut intellectuali trāsformeris in bonū superius intellectu.vbi sedes quieta sancte cōtemplacōnis.animā sancta suo peramorē vnit principio.ip̄a quidē in sua essentia manēte.abstracta aūt ab om̄ibus alienis.fit vnū ꝑ gratiā cū deo
 
 nōꝑ naturā.hic in parte post mortē.in toto.
-<Initial type="simple">¶</Initial> Ascendū itaqƺ nobis oꝓatres ad ip̄m summū ho-
+¶ Ascendū itaqƺ nobis oꝓatres ad ip̄m summū ho-
 num.qd̓ anima om̄is appetit:in quo solo eternā beatia-
 tudinē cōsequutura est:si cōuersa ad ip̄m ꝑ amorē discco-
 dit a corꝑe. Ingrediatur ergo atqƺ ꝓgrediat̉ quicūqƺ po-
@@ -485,13 +494,11 @@ templare.at si nondū te cognosces pulchrum et ab om̄i
 feditate corporee familiaritatis purgatū.statuariū imita
 bere.qui vbi stuuā optat pulchrā.partē quidē abscindit.
 C ij
-
 [segment 12]
 partim quoqꝫ dirigit.et expolituris abradit.partim leui gat et abstergit: donec faciem in statua exprimat specio/ sam. Ita et tu. tolle superuacua: obliqua dirige: obscura purgando collustra.neqꝫ desinas circa statuā tuā elabo¬ rare. quousqꝫ diuine virtutis fulgor tibi subrutilē: cera nasqꝫ firmiter in maiestate pura sancta qꝫ temperantiā sen dentem. Cū vero mūdus euaseris.atqꝫ purus iam habi tauersis ip̄e tecū.nihil videlicet habens impedimenti quo minus sic vnus efficiaris.neqꝫ rursus habens aliud qͥcqͣs intus tecū admixtū.sed totus ip̄e liber.abstractus.et ab¬ solutus ab om̃ibus passionibus carnis.et affectionibus malis.visus ip̄e tuus interior iam recte ordinatus et pu rificatus mentē ad cōtemplationē incircūscriptibilis lum minis.vtcumqꝫ sustollere potest.At vero si forte oculus mentis qui est ip̄e affectus.vel sordibus infectus.necdū purgatus. vel ignauia debilis in spectaculū lucidissimū intendatur caligabit protinus nihilqꝫ discernet.Mentis em̄ oculus alter intellectus alter affectus dicitur: qui nisi mūdati ambo legitime fuerint accendentē ad speculationem diuinoꝝ cecū potius reddent ac insanū: qͣꝫ diuini luminis participem.Nam quicunqꝫ adhuc passionibus carnis deditus.necdū vere mortificatis animo.secundū regulā monasticā ad cōtemplationem incircūscriptibils pulchritudinis temerarius accesserit: reuerberatus mox ab immenso lumine cecus abbit.magnisqꝫ erroribus plenus.Dicit em̄ sanctus ꝓpheta dauid.Iniquitatē si aspexi in corde meo:nō exaudiet me dn̄s.Et vir sapiēs ad ꝓpositū cōcludens ait.Jn maliuolā animā nō intro¬ ibit sapientia: nec habitabit in corpę subdito peccatis.Iam vobis et ꝓfessioni vr̄e attendite o claustrales.qui in partē vite cōtemplatiue vocati.et ob id curis om̃ibus absoluti.fideliūqꝫ manducatis elemosynas.ne vobis intermittendi studiū p̄beretur occasio si de necessarioīs corpori sollicitudinē ageretis.Quid facitis? Ubi indoicta vobis dulcissima cōtemplationis tranquillitas? Heu heu.om̃es ad vitā cōtplatiuā sumus vocati: et
 
 dulcedinē cōtemplationis pene om̄es ignoramus. Ranrissimus est hodie monachus et multo rarioꝛ abbas qui exemplo sanctoꝝ patrū vite cōtemplatiue det operā. īmosi dici phas est. pauci quid sit cōtemptatio hoc tꝑe nouerūt. Propterea o monachi cũ nō sitis qđ esse secundū intitutionē vestrā deberetis: mali estis. Om̄is em̄ qui nō est quod esse debet male est: mali autē retributio infernꝰ. Recte autē dicitur bonū pulchrumqꝫ anime in eo consistere.vt deo sit sil̓is quadam pulchritudine puritatis et amoris.abstracta ab om̄ibus que ip̄am efficere turpem solent.quādo nō nisi inter silla.fieri vnio potest.Quisqͥs ad ea animi puritatē accesserit vt sapere incipiat ea que dicimus.facile deincepˢ acres quoslibet affectus.carna lesqꝫ siue terrenos amores.contemnet proculqꝫ abiīciet om̄ia que prius pulchra videbantur.Maximū hic extremūqꝫ nobis ꝓpositū est certamen.cuius gratia prorsus elaborandū ne forte relinquamur optime huiꝰ contemplationis exꝑtes.quā quisquis assequitur in p̄senti vita.ad futurā euadit felici visione beatus.contra vero qui non cōsequitur est infelix.Non em̄ miser est.qui diuicijs.pecunijs.vasis aureis argenteisqꝫ et honoribus caret:neqꝫ qui possessiones splēdidas.pulchros equos.nobilem vxorem.liberos ingenuos et formosa corporanon cōsequitur.neqꝫ qui a potentia.abbacia.prelatura.principatu.regnoqꝫ excidit.neqꝫ is qui aut morbis.aut inopia et contumelia in hoc mūdo afficitur.que cunctabreui sunt transitura.sed qui summi boni caret possessionepro qua certe om̄ia regna imperiaqꝫ terre tociuset maris atqꝫ celi oportet abīcere:si relictis his om̄ibusatqꝫ spretis ad tanti boni speculationē nobis concedatur ingressus.
 Finis oracōnis Ioannis tritemij abbatis habite in capl̓o annali erffordie apđ sanctū Petrū.Anno dn̄i.M.D.penultima die meͦ Augusti ꝑ eundem.
-
 [segment 13]
 Ex epl̓a Libanꝰ galli platonicł viri doctissimi.
 Orationem vero tuā de salutari ad deū cōuersione non possum nō probare. Dulcis est illa quidē nec tamen ocio sa: et cũ placida fluat instar fontis purissimi. grauibus tamen est et exquisitis referta sententijs. ut diligēs lector intelligat te hominē esse plurime lectionis. ingenio singulari. ac summa doctrina predictū. Utinā illi quos rae pophagos iure dixerim nō fedarent illo to dicendi genere christianā theologiam. aut saltem equo animo fer rent eam a barbaris qui et ip̄am fecere barbatā in pristinum statū et dignitatē ab optimis viris grece latineqƺ doctis postlimini iure vindicari. In quos videlicet barbaros adolescentie p̄ceptores qui se doctos profitentur indocti nō iniuria excandescens frater joannes annius vir doctus et integer exclamat in ꝓlogo questionali sup̄ philonem dicens. Proh impietas scriptura sacra manifesta est. testimoniū dei lucidum est. sapientiā prestans paruulis. Non egent lr̄e diuine plicis. non inuolucris. non replicis. quia hec non sapientiā prestant paruulis: sed eoꝝ animos in confuso relinquūt. et  omnē vitam animos hominū aberrare compellūt. ut de grecis diosdorus scribit in .ijj. libro. Non qui plicant. non qui repli cant. sed qui explicant et elucidant me vitā eternā habebunt ut sacre lr̄e contestantur.
