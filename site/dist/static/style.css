@@ -717,6 +717,34 @@ tr.tier-f .tier-letter { color: #e8654a; }
 .pp-missing { font-style: italic; background: rgba(200, 74, 48, 0.10); }
 .pp-grid > div:nth-last-child(-n+3):not(.pp-head) { border-bottom: none; }
 
+/* Collapsed "Latin only — not translated" rows: a compact summary instead of a
+   tall Latin cell opposite an empty English cell. The full Latin is revealed
+   on demand via <details>. Keeps long works with many untranslated segments
+   scannable instead of a wall of red placeholders. */
+.pp-latin-only { font-size: 0.85rem; color: var(--ink-muted); padding: 0.5rem 1rem; }
+.pp-latin-only-details > summary {
+  cursor: pointer; font-style: italic; list-style: none; padding: 0.15rem 0;
+  color: var(--ink-muted);
+}
+.pp-latin-only-details > summary::before { content: "\25B8\00a0"; color: var(--gilt-deep); }
+.pp-latin-only-details[open] > summary::before { content: "\25BE\00a0"; }
+.pp-latin-only-details > summary:hover { color: var(--gilt-bright); }
+.pp-latin-body {
+  margin-top: 0.5rem; padding: 0.6rem 0.8rem; border-left: 2px solid var(--rule-faint);
+  font-size: 0.92rem; color: var(--ink-faded); white-space: pre-wrap; font-variant-ligatures: none;
+}
+
+/* Active-row highlight: the segment currently in view has both its Latin and
+   English cells tinted so the reader can always see which pair belongs
+   together, even when row heights differ. */
+.pp-latin.is-active { background: color-mix(in srgb, var(--paper-cool) 82%, var(--gilt) 18%); }
+.pp-english.is-active { background: color-mix(in srgb, var(--void-2) 88%, var(--gilt) 12%); }
+.pp-n.is-active { background: color-mix(in srgb, var(--void-ink) 80%, var(--gilt) 20%); }
+.pp-n.is-active a { color: var(--gilt-bright); }
+@media (prefers-reduced-motion: reduce) { .pp-latin, .pp-english, .pp-n { transition: none; } }
+.pp-latin, .pp-english, .pp-n { transition: background-color .18s ease; }
+
+
 @media (max-width: 760px) {
   .pp-grid { grid-template-columns: 1fr; gap: 0; }
   .pp-head { display: none; }

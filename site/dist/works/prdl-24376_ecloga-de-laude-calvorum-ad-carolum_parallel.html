@@ -334,7 +334,7 @@
   <div class="pp-head pp-col-n" aria-hidden="true">#</div>
   <div class="pp-head">Latin (source OCR)</div>
   <div class="pp-head">English</div>
-  <div class="pp-n" id="seg-1"><a href="#seg-1">1</a></div>
+<div class="pp-n" id="seg-1" data-segment="1"><a href="#seg-1">1</a></div>
   <div class="pp-latin" lang="la" data-segment="1">Jnc.
 3a
 1047.
@@ -379,7 +379,7 @@ Carmina cōuicij cerritus carpere caluos Conatus cecinit celebrētur carmīe cal
 Prooemiū quo camene inuitantur ad laudem caluoꝝ.
 Armina clarifone caluis cantate camene Cōmere cōdigno conabor carmīe caluos. Contra cirrosi crines cōfundere colli. Cantica cōcelebrent callētes clara camene.
 Collaudent caluos collaudent crimine cluras Carpere conātes caluos.crispante cachinno Conscendat teli.caluoꝝ causa cacumen. Conticeant cūcti cōcreto crine comati Territo caluos caluentes carmine cūctos Consona cōiunctim cantet̉ carmīa caluis
-Quod caluities in quoda p̄la&lt;Gap reason=&#34;illegible&#34; extent=&#34;ca. 1 char&#34;/&gt;gio futuroꝝ quibusqꝫ ꝓuenire videat̉ Capl&#39;m.i.
+Quod caluities in quoda p̄lagio futuroꝝ quibusqꝫ ꝓuenire videat̉ Capl&#39;m.i.
 Armina clarisone caluis cātate camene Cū crescit capitis ceruice corona. Consortē cleri cōsignat confore caluū Capturū clarā christo cedente coronam. Ceu crines capitlis cōuellens crimīa cordis. Corde creatorē conspectat corpore celum. Celicolas ciues cupiens contingere cultu. Crimina cū curis cōdemnat cūcta caducis Teli conscensus.concentū celicolarum. Cupiens cupide.collaudat cuncta creantē.
 Caluos cātores abbates doctores etiā et ep̄os esse atqꝫ sacerdotes. Cap&#39;l&#39;m.j. a ij
 
@@ -484,7 +484,7 @@ Roused to the contest, the bald man is cunning in battle:<br />
 he tramples, he strikes, he forces the long-haired to yield;<br />
 he takes captives, and pens the captured by the neck.</p>
 <p><em>Readings.</em> The English follows the 1496 print, checked line by line against the Bavarian State Library scan. Every word of the poem begins with the letter c; several apparent OCR errors are the print's own. The prooemium's fifth line ends "crimine cluras" (so the print; "cluras" is corrupt, perhaps for "claras"); in chapter 4 the print's "curros" is evidently for "cirros" ("curls"), and its "capros" ("goats") in the final line for "captos" ("the captured") — though "goats" would not be beyond this poet. The epigraph's "Conatus" is the participle ("attempting"), not a name.</p></div>
-  <div class="pp-n" id="seg-2"><a href="#seg-2">2</a></div>
+<div class="pp-n" id="seg-2" data-segment="2"><a href="#seg-2">2</a></div>
   <div class="pp-latin" lang="la" data-segment="2">Laus caluoꝝ experientia artis medicine tam farmatine q̄ cyrurgie. Cap̄.v.
 Armina clarisone caluis cātate camene
 Comperies caluos columē cōferre cerebro.
@@ -686,8 +686,10 @@ the singable song stands complete for the illustrious bald.</p>
 <p><em>Here ends the poem of Hucbald the monk to Charles, in praise of the bald.</em></p>
 <p>[The remaining leaves carry only the stamps of the Royal Library, Munich.]</p>
 <p><em>Readings.</em> The English follows the 1496 print, checked line by line against the Bavarian State Library scan; the print's irregular chapter numbering has been normalized. Where the print itself errs, the error is the printer's, not the poet's: "Cetam curuauit" (ch. 6) is corrupt, perhaps for "caelum" ("He arched the vault"); "curros" (ch. 10) is for "cirros" ("curls"); the second line of ch. 10 is partly unclear in the print and "his censure renowned" is conjectural, as is the knotted couplet "Censetur certe… consecutura" in ch. 8. In ch. 5, "Cōtrectās" is "contrectans" ("handling [the steel]"), "cacexia" is cachexia, and the "cauterized neck" ("cocta ceruice") is literal surgery. In ch. 9 the closing phrase "celeste catinum" ("a heavenly vessel") plays on Paul as the "vessel of election" (Acts 9:15).</p></div>
-  <div class="pp-n" id="seg-3"><a href="#seg-3">3</a></div>
-  <div class="pp-latin" lang="la" data-segment="3">[illegible]</div>
+<div class="pp-n" id="seg-3" data-segment="3"><a href="#seg-3">3</a></div>
+  <div class="pp-latin pp-latin-only" lang="la" data-segment="3"><details class="pp-latin-only-details"><summary>Latin only &mdash; not translated</summary>
+      <div class="pp-latin-body">[illegible]</div>
+    </details></div>
   <div class="pp-english pp-missing" data-segment="3"><span class="muted">[no translation available for this segment &mdash; see <a href="../methodology.html#latin-only-display-segments-in-the-parallel-viewer">Methodology</a>]</span></div>
 </div>
 
@@ -725,14 +727,18 @@ the singable song stands complete for the illustrious bald.</p>
 @media print{.pp-seg-indicator{display:none}}
 </style>
 <script>
-// Track the segment nearest the viewport top and reflect it in the indicator.
+// Track the segment nearest the viewport top: reflect it in the indicator and
+// highlight both columns of the active row so the reader can always see which
+// Latin and English belong together. Clicking a cell scrolls its counterpart
+// into view, keeping the two sides in step.
 (function(){
   var ind=document.getElementById('ppSegIndicator');
-  if(!ind)return;
-  var nEl=ind.querySelector('.pp-seg-n');
+  var nEl=ind?ind.querySelector('.pp-seg-n'):null;
   var segs=[].slice.call(document.querySelectorAll('[id^="seg-"]'));
   if(!segs.length)return;
   var byId={};segs.forEach(function(s){byId[s.id]=parseInt(s.id.slice(4),10);});
+  var grid=document.querySelector('.pp-grid');
+
   function currentSeg(){
     var top=window.innerHeight*0.33, best=null, bestDist=Infinity;
     for(var i=0;i<segs.length;i++){
@@ -744,18 +750,50 @@ the singable song stands complete for the illustrious bald.</p>
     }
     return best;
   }
+
+  var activeSeg=null;
+  function setActive(segEl){
+    var n=segEl?byId[segEl.id]:null;
+    if(n===activeSeg)return;
+    activeSeg=n;
+    if(grid)grid.setAttribute('data-active-seg',n==null?'':String(n));
+    var cells=[].slice.call(document.querySelectorAll('[data-segment]'));
+    cells.forEach(function(c){
+      c.classList.toggle('is-active', segEl!==null && c.getAttribute('data-segment')===String(n));
+    });
+  }
+
   var ticking=false;
   function update(){
     if(ticking)return;ticking=true;
     requestAnimationFrame(function(){
       var cur=currentSeg();
-      if(cur){
-        nEl.textContent=byId[cur.id];
-        ind.classList.add('is-visible');
-      }
+      if(cur&&nEl){nEl.textContent=byId[cur.id];if(ind)ind.classList.add('is-visible');}
+      setActive(cur);
       ticking=false;
     });
   }
+
+  // Click a Latin or English cell to bring its counterpart into view.
+  function counterpart(cell){
+    var n=cell.getAttribute('data-segment');
+    if(!n)return null;
+    var isLatin=cell.classList.contains('pp-latin');
+    var sel=isLatin?'.pp-english[data-segment="'+n+'"]':'.pp-latin[data-segment="'+n+'"]';
+    return grid?grid.querySelector(sel):null;
+  }
+  if(grid){
+    grid.addEventListener('click',function(e){
+      var cell=e.target.closest('[data-segment]');
+      if(!cell)return;
+      var other=counterpart(cell);
+      if(other){
+        setActive(document.getElementById('seg-'+cell.getAttribute('data-segment')));
+        other.scrollIntoView({behavior:'smooth',block:'center'});
+      }
+    });
+  }
+
   window.addEventListener('scroll',update,{passive:true});
   window.addEventListener('resize',update);
   update();

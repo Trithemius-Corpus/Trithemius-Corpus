@@ -41,7 +41,7 @@ REGIA
 MONACENSIS.
 TYPOGRAPHVS LECTORI
 Salutem.
-<Emphasis type="other">C</Emphasis>Vm hortatu quorundam, candide Lector, Poly-
+CVm hortatu quorundam, candide Lector, Poly-
 graphiam Ioannis Trithemiꝰ denud meis sumpti-
 bus divulgare constituissem? in id sedulò incubui, vt et amp; emendatior et amp; noua acceßione auctior prodiret:
 Conquisitis itaqƺ vndiqƺ varijs editionibus eas cũ ne-
@@ -61,7 +61,7 @@ CAESAREM EPISTOLA
 IOANNIS TRITHEMII,
 Abbatis S. Iacobi Herbipolensis,
 in Polygraphiam.
-<Initial type="decorated-drop">N</Initial>AeREBAM nutans animo
+NAeREBAM nutans animo
 Maximiliane Caesar inuictissi-
 me, &; mecum ipse aliquantu-
 lum subdubitabam, operę pre-
@@ -113,7 +113,7 @@ cundum praeceptum charitatis Dei. Cum igi-
 tur
 
 EPISTOLA 5
-tur oirnes nomen tuum ad astra ferant laudibu<Emphasis type="italic">s</Emphasis>
+tur oirnes nomen tuum ad astra ferant laudibus
 te mitissimum humanissimmꝙ; prędicent vni-
 uersi, cur mihi singulariter te seueriorem suspi-
 carer: deinceps causa non fuit, praesertim vbi
@@ -158,7 +158,6 @@ Aprilis. Anno Christi millefimo
 qingentesimo
 octauo.
 PINAX
-
 [segment 3]
 PINAX SIVE IN-
 DEX LVCVRATIONVM
@@ -166,7 +165,7 @@ IOANNIS TRITHEMII, PRIMO
 Spanheimensis, ac postea S. Iacobi
 Herbipolensis Ab-
 batis.
-<Initial type="decorated-drop">I</Initial>OANNE Trithemius Abbas, in vil-
+IOANNE Trithemius Abbas, in vil-
 la Trittenheim, Treuerensis dioecesis ad
 ripas Mosellae fluminis nascitur, prima
 die mensis Februarij, hora vndecima,
@@ -244,7 +243,6 @@ vnum. Ad Vdalricum canonicum Coloniensem super
 quaestionibus in Euangeliũ Ioannis, librovm. Ad
 cuntem super quaestionibus Psalmorum, librovm vnũ.
 A 5 A4
-
 [segment 4]
 IO TRITHMII.
 Ad praesidentes capituli annalis de obseruantia Burs-
@@ -335,7 +333,6 @@ tionem Domini quadringentesimo trigesimo tertio,
 ni, vsqꝫ in vicesimum octauum et amp; nonum annum Ma-
 ximiliani Caesaris. Ad Laurentium Vvirciburgensem
 Episce-
-
 [segment 5]
 LVCVRATIONES 13 Episcopum, orientalisq́; Franciae ducem, epitoma siue breuiarium scripsit eorundem voluminum hi-storiarum libros tres. Ad eundem de ducibus et amp; episcopis Francorum Vvirciburgeniū, librum vnum. De miraculis ad memoriam Dominae nostrae S. Mariae apud Dittelbach ostensis, libros duos. De miraculis eiujusdem in vrticeto apud Helprunnam ostensis libros sex. Apologeticum in Carolum Bouillum, ea quae non intellexit calumniantem, librum vnum.De origine et amp; regibus Francorum, librum vnum.Chronicon monasterij sui, cui nunc praesidet, diui Iacobi apud Vvirciburgo, libroꝝ vnum.Ad Albertum ex Marchionibus Brandenburgij archiepiscopum Moguntinũ et amp; Magdeburgensem,vitam diuini archipraesulis,libros tres. De eiusdem à Maguntiaco translatione in Saxoniam,librum vnum.Ad Ioannem Comitem Palatinum,Bauariaeq́; Ducem,&amp; Comitẽ in Spanheim,apud Symeren residentem, de origine,regebus,ac Ducibus Bauarorum simul et amp; Comitum Palatinorũ et amp; Spanheimeniū,libros quatuor. De demonibus et amp; artibus profanis,maleficos et amp; superstitiosis laboria menta explodit, confunlit et amp; euertit.Epistolarum Herbi poleniū,quas in eascripsit abbatia, libros qua-tuor.Scripsit etiam alia minora complura,suae et amp;amp;a-micorum deuotioni congrua,vt sunt,Cursus,rosariũ missale
 
@@ -406,7 +403,6 @@ IOM
 C
 1075
 (2)
-
 [segment 6]
 17
 IOANNIS TRI-
@@ -415,7 +411,7 @@ DIVI IACOBI HERBI-
 POLENSIS IN POLYGRA-
 phiam ad Maximilianum I. Cae-
 farem Praefatio.
-<Initial type="decorated-drop">L</Initial>EGIMVS complures veterũ
+LEGIMVS complures veterũ
 sapientes, Philosophos, Reges et Principes, olim varios atque mul-
 tiplices excogitauisse modos,
 quibus nuncijs suis ad loca re-
@@ -498,7 +494,6 @@ Brabantia natum, siue Namurci Germania non ha-
 buit. Singulis regni praefectis, singulos contulit arte
 Bubones. Nortmanni ex Gothiae finibus egreßi, cum
 b 2
-
 [segment 7]
 10 PRAEFATIO AD
 olim crudeliter Galliam deuastarent, vocatis è Grae-
@@ -561,7 +556,6 @@ auro, propterea sapiente mens sana in corpore bene
 I
 
 22 PRAEFATIO AD morigerato, quae desiderio sublimioris intelligentiae fursum acta, cum per similitudinem binarij à terna- rio redierit in vnitatem, deinceps iam facile ad denarium consurget. Pythagoras Samius ille philosophus, discipulos monuit non esse quaternarij obliui- scendum, in quo prima numerandi perfectio comprehenditur. Sic etenim numeramus, Vnum, duo, tria, quatuor. Siste mentem, habes namque decem. Denarius enim perfectionis est caput. Quid sunt vndecim, nisi denarius &; vnitas? Quid viginti? Bis decem. Quid triginta? Terdecem. Centum habes, &; à quaternario minimè receßisti. Et quid sunt centum, nisi decies decem? Pro unda in his latent mysteria, &; paucis sunt manifesta. Amore breuitatis silentio plures praeterimus, qui naturam arte iuuantes, arcanis prudentiam adhibuerunt, &; quod nescientibus multis videbatur impoßibile, sagaci studio in vsum facilem produxerunt. Culta mens grãdia potest, &; qui adhaeret Deo, intelligentia fit mundo altior. Multa sunt mysteria regum, &; curis plena consilia, in quibus confidentia requiritur &; fides, quae rara nocet credenti, &; dubium etiam cum adest, saepius admittit. Operaecriculum idcirco fuerit Principes omnes philosophos esse, atque singulari praeditos sapientia, iustos, manusuetos, beneuolos, &; munificentia insignes, vt nec ab alijs facile queant supplantar. Sola prudentiae comes iustitia, principem efficite gloriosum. Ad memorati Principis &; domini Electoris
-
 [segment 8]
 MAXIMIL. I. CAESAREM.
 23
@@ -625,7 +619,6 @@ intelligent omnes maturo factum consilio, quod ha-
 ctenus manet in tenebris opus Steganographiae sepul-
 tum, non quod temeraria Bouilli iudicia metuam:
 A S
-
 [segment 9]
 26 PRAEFATIO AD
 sed ne causam pluribus videar dare similibus de me
@@ -684,7 +677,7 @@ PINAX SIVE IN-
 DEX EORVM QVAE
 IN PRIMO LIBRO
 tractantur.
-<Initial type="simple">I</Initial>N primo huius Polygraphiae nostrae libro dictiones
+IN primo huius Polygraphiae nostrae libro dictiones
 Latini sermonis, quotquot cernuntur, per ordi-
 nem ternarij nostri locantes distribuimus: quarum v-
 su et amp; ministerio cuncti per orbem principes in qui-
@@ -708,7 +701,6 @@ tent. Quod cùm ratione sit factum, nemo vir bonus
 in malum recipiat, cum omnibus idoneus ex his ad
 altiora posset, modo velit, proficere. Mihi autem hac
 vice
-
 [segment 10]
 PINAX LIBRI I.
 vice non placuit altiora in lucem profundere, cum
@@ -803,7 +795,6 @@ cum scias nihil in mundo esse tam bonum et san-
 ctum, quo reprobi non saepius abutantur
 EO.
 31
-
 [segment 11]
 32
 EORVM QVAe IN
@@ -839,7 +830,7 @@ EORVM QVAe IN
 TERTIO POLYGRA-
 PHIAE LIBRO CONTINEN-
 tur, indicium.
-<Initial type="simple">I</Initial>N tertio Polygraphiae libro fines praescriptae natio-
+IN tertio Polygraphiae libro fines praescriptae natio-
 nis nostrae consilio rationis transgreßi, ad peregri-
 na ducimur, &amp; in medio Francorum essentialiter
 constituti per imagines et amp; similitudines barbarorum
@@ -867,7 +858,7 @@ INDICVLVS SIVE
 PINACION EORVM
 QVAE TRACTANTVR
 in libro quarto.
-<Initial type="simple">I</Initial>N quarto Polygraphiae librum confidimus
+IN quarto Polygraphiae librum confidimus
 binario, quem remotis obstaculis cunctis, sine la-
 bore difficultatis, primo intuitu reduximus ad vni-
 tatem. Vnde circulo isthic vtimur in magnis, lineae
@@ -890,7 +881,7 @@ EORVM QVAe IN
 LIBRO QVINTO TRA-
 CTANTVR INDEX SIVE
 Pinacion.
-<Initial type="simple">I</Initial>N quinto Polygraphiae libro Latinorum literas,
+IN quinto Polygraphiae libro Latinorum literas,
 quibus et amp; nos Germani vtimur, per ordinem ta-
 bulis inscripsimus duabus, quarum altera dicitur re-
 cta, altera verò nuncupatur auersa. His orchemata
@@ -910,16 +901,16 @@ quamuis nullum bubonibus inferat nocumentum.
 Tu autem, qui huius opera intellectum confecutus
 fueris, omnem literarum metathefin apud
 nostrates, &amp; Latinos facilè
-penetrabis.</Line>
-62 INDI<Gap reason="damaged" extent="ca. 1 char"/>
+penetrabis.
 
+62 INDI
 [segment 12]
 36
 INDCVLVS SIVE
 PINACION EORVM
 QVAE IN SEXTO LIBRO
 continentur.
-<Initial type="drop">I</Initial>N sexto, qui Polygraphiae nostrae liber est vltimus,
+IN sexto, qui Polygraphiae nostrae liber est vltimus,
 introducta narratione mentali, omnium ferè prae-
 cedentium signorum et graduum minutias per ordi-
 nem expreßimus, & cum arithmeticis distributioni-
@@ -967,7 +958,7 @@ QVAe SINT HVIVS
 OPERIS NOSTRI PO-
 LYGRAPHIAE CAVSAE,
 simul et vtilitates.
-<Initial type="simple">L</Initial>Aborem verò praesentis operis,& rarum,& ar-
+LAborem verò praesentis operis,& rarum,& ar-
 duum non alia ratione assumpsimus,quàm vt
 indigentium vtilitati prouideremus. Indigentium
 dico,non cibo,sed opitulamine mystico-
@@ -1003,7 +994,6 @@ pollicitos quam pollicemur. Tertia verò vtilitas,
 quod Romani sermonis imperitum, non solum in pau-
 cis docebũ horis quod pollicemur, scribere, ac legere,
 sed
-
 [segment 13]
 LITATIS OPERIS.
 sed etiam intelligere, si prudenter munus officij ad-
@@ -1103,7 +1093,7 @@ NEM TOTIVS OPERIS
 Polygraphiae Ioannis Trithemij
 Abbatis Paeapolitani,
 Praefatio.
-<Emphasis type="other">N</Emphasis>EMO, qui legerit ista, vt con-
+NEMO, qui legerit ista, vt con-
 fido, me aut superbum iudicabit
 aut superfluum, propterea quòd
 Polygraphiam nuper à me com-
@@ -1115,7 +1105,6 @@ quid enim nocere potest vulgatum, mystico fuerat
 sermone rationabiliter occultandum. Materia verò,
 quam in Polygraphia tractamus, ad Reipublicae com-
 modum
-
 [segment 14]
 modum inter viros bonos multum est bona, vtilis &;
 bonesta, quam idcirco rationabili causa per suasi con-
@@ -1147,7 +1136,7 @@ tur, opacitate mysteriorum, ab eius intelligentia
 retrahatur. Etenim nisi me fallat opinio, erit sua
 maie-
 
-44 EXPOSITIO maiestati opus tanto gratius et vtilius, quanto et brevius fuerit et clarius. In primis igitur senten- tiam propositi nostri, quae sub diuerfis in Prologo con- tinetur aenigmatibus inuoluta, Domino largiente, breuiter explicabimus: deinde per singulos Polygra- phiae libros, operandiꝙ́, modos, regulas, & differentias, iuxta ordinem quae restant necessaria, succinctim pro viribus ingenij expandemus. Quae o- mnia, vt citius cupientibus scire fiant peruia, seria tim ostendemus per exempla, erimuꝙ́, breuioe res, quo fieri causa permittit et ratio. CLAVIS EXPLANATIONIS POLYGRAPHIE IOAN NIS TRITHEMII AB baris Paeapolitani. Expositio in Prologum. <Initial type="decorated">C</Initial>MNIS intentio nostra in toto Po lygraphie opere circa eam versatur sententiam, qua modos traderemus certos occultè scribendi, per quos Re ges et Principes, nobiles et ignobiles, sacer<Gap reason="damaged" extent="ca. 2 letters"/>
+44 EXPOSITIO maiestati opus tanto gratius et vtilius, quanto et brevius fuerit et clarius. In primis igitur senten- tiam propositi nostri, quae sub diuerfis in Prologo con- tinetur aenigmatibus inuoluta, Domino largiente, breuiter explicabimus: deinde per singulos Polygra- phiae libros, operandiꝙ́, modos, regulas, & differentias, iuxta ordinem quae restant necessaria, succinctim pro viribus ingenij expandemus. Quae o- mnia, vt citius cupientibus scire fiant peruia, seria tim ostendemus per exempla, erimuꝙ́, breuioe res, quo fieri causa permittit et ratio. CLAVIS EXPLANATIONIS POLYGRAPHIE IOAN NIS TRITHEMII AB baris Paeapolitani. Expositio in Prologum. CMNIS intentio nostra in toto Po lygraphie opere circa eam versatur sententiam, qua modos traderemus certos occultè scribendi, per quos Re ges et Principes, nobiles et ignobiles, sacer
 
 IN PROLOGVM.
 45
@@ -1183,9 +1172,8 @@ uet,
 46 EXPOSITIO
 
 uet, metas tamen habens regulatas, omnes sibi
-
 [segment 15]
-occurrentes de suspicione rei latentis facit sollici<Emphasis type="underline">tos</Emphasis>. Explanatio. Licet nemo queat mysterium ar<Emphasis type="underline">canum</Emphasis> latens, sub transpositione literarum facilè ad intellectum comprehendere, facit tamen eos haec scri<Emphasis type="underline">ptura</Emphasis> in quorum peruenerit manus de latibulo rei introclusa suꝑiciosos. Mysterium. Archimedes il<Emphasis type="underline">le</Emphasis> Syracusius mathematicum facile princeps, al<Emphasis type="underline">bam</Emphasis> suam conuenientem institutis volucrem nu<Emphasis type="underline">dam</Emphasis> per caput et amp; pedes, &amp;c. Explanatio. Archime<Emphasis type="underline">des</Emphasis> duos bacillos vnius longitudinis et amp; spißitudinis dolari fecit in rotundum vel quadrum alterum sibi retinuit, alterum absenti amico suo con<Emphasis type="underline">signauit</Emphasis>. Et quotiens alteri scribere aliquid secretius voluit, albam volucrem, id est, papyri sche<Emphasis type="underline">dulam</Emphasis> latitudinis paruae, sed longitudinis bacilli du<Emphasis type="underline">plicati</Emphasis>, ligno circumvolvens cum cera inferius et amp;<Emphasis type="underline">superius</Emphasis> colligauit. Scripsit postea in schedulam à lateribus continenter sibi ad congeriem artificiosè <Addition>33</Addition>coniunctam quicquid voluit, deinde schedulam a baculo relaxauit, apparuitque mox inter literas tan<Emphasis type="underline">ta</Emphasis> distantia, vt nec vna quidem dictio co<Emphasis type="underline">baereret</Emphasis>. Vertebat similiter scripsit. Nec erat quisquam huius industriae nescius qui potuisset investigare se<Emphasis type="underline">cretum</Emphasis>. At ille qui alterum habebat bacillum, sche<Emphasis type="underline">dulam</Emphasis>cum accepisset, affixit, &amp; in ordinem litteras priorem reuocauit. Mysterium. Marcus Tull. Cice<Emphasis type="underline">ro</Emphasis><Gap reason="damaged" extent="ca. 1 char"/>fa<Gap reason="damaged" extent="rest of line"/></Line>
+occurrentes de suspicione rei latentis facit sollicitos. Explanatio. Licet nemo queat mysterium arcanum latens, sub transpositione literarum facilè ad intellectum comprehendere, facit tamen eos haec scriptura in quorum peruenerit manus de latibulo rei introclusa suꝑiciosos. Mysterium. Archimedes ille Syracusius mathematicum facile princeps, albam suam conuenientem institutis volucrem nudam per caput et amp; pedes, &amp;c. Explanatio. Archimedes duos bacillos vnius longitudinis et amp; spißitudinis dolari fecit in rotundum vel quadrum alterum sibi retinuit, alterum absenti amico suo consignauit. Et quotiens alteri scribere aliquid secretius voluit, albam volucrem, id est, papyri schedulam latitudinis paruae, sed longitudinis bacilli duplicati, ligno circumvolvens cum cera inferius et amp;superius colligauit. Scripsit postea in schedulam à lateribus continenter sibi ad congeriem artificiosè 33coniunctam quicquid voluit, deinde schedulam a baculo relaxauit, apparuitque mox inter literas tanta distantia, vt nec vna quidem dictio cobaereret. Vertebat similiter scripsit. Nec erat quisquam huius industriae nescius qui potuisset investigare secretum. At ille qui alterum habebat bacillum, schedulamcum accepisset, affixit, &amp; in ordinem litteras priorem reuocauit. Mysterium. Marcus Tull. Cicerofa
 
 IN PROLOGV.
 47
@@ -1216,7 +1204,6 @@ Francorum Rege, cum anno dominica Natiuitatis
 quadringentesimo vigesimo quarto fines Gallorum
 potenter intraret, & reliqua. Explanatio. Fran-
 corn̄
-
 [segment 16]
 48 EXPOSITIO
 corum reges ex eo tempore, quo fines Scythicos ano ante Christi Natiuitatem CCCCXXX. cum gente sua egreßi ad ostia Rheni, vbi nunc est Gelria, consederunt, per annos fere nongentos cum Gallis continuè bellum gesserunt, eosq́; tandem sibi violenter fecêre subiectos, quemadmodum in primo annualium nostrorum volumine scripsimus. Ex his Faramundus Rex memoratus, vt securè nuncios destinaret, quas nemo sine ipsius voluntaria institutione cogitauit, nec paucis, sed multis alphabetis nouis vtebatur. Mysterium. Clodius Crinitus Faramundi filius, & post eum rex Francorum, qui sibi Galliam totam subiu-gauit, Romanis extinctis, quos reperit in ea, paternis adinuentis vtebatur in scriptis arcanis. Explanatio. Rex iste propria et noua confinxit alphabeta, & singulis ducibus suis singula tradidit, omniumq́; penes se notitiã solus ipse retinuit. Mysterium Carolus nomine Magnus, sexagesimus tertius Francorum rex, qui primus ex Francis diadema imperij portauit, & reliqua. Explanatio. Iste Pipini regis maior natu filius, Brabantae dux in comitatũ Namurcen-si, Leodiensibus contermino natus legitur, licet q̃dam in vico Ingelenheim haud procul à Maguntia naturum asserant, varios etiam modos inuenit scri-bendi, & Nannone Grammatico ministrante suffragium, alphabeta excogitauit diuersa, quib. praefectis regni
@@ -1281,7 +1268,6 @@ re nemo sufficit qui artis nescierit arcanum. Secun-
 dum verò Hyphasmaticum dicitur quo rebus certis
 in panno scribitur, quod exiccatum videri potest
 minimè,
-
 [segment 17]
 IN PROLOGVM.
 minimè, donec madefactum in aqua frigida cerna-
@@ -1310,9 +1296,11 @@ ipso nesciente qui officium gerit nunciantis, inuentis
 Steganographiae manet adscriptum. Enimuero cùm
 regibus &; principibus occurrãt negotia multa, quo-
 rum suis interdum vicarijs procul absentibus non sa-
-tu tutò scientiam per literas vsitatas dare confidunt</div>
-<page>51</page>
-<signatureMark>d 2</signatureMark>
+tu tutò scientiam per literas vsitatas dare confidunt
+
+51
+
+d 2
 
 52 EXPLANAT. IN PROLOG.
 operaeprecium fuerit quemlibet eorum modos scri-
@@ -1342,7 +1330,7 @@ EXPLANATIO QVAE
 IN PRIMO LIBRO POLY-
 graphiae obscuriora
 videntur.
-<Gap reason="damaged" extent="ca. 1-2 characters"/>
+
 Vamuis in primo libro Polygraphiae nihil
 contineatur ob scuri, tamen ne simpliciori-
 bus eius conscriptio fortaßis profunda videatur, bre-
@@ -1365,7 +1353,6 @@ genio praeditus, viresq́;, necessarias inquisitioni ap-
 posuerit, latentium in his doctrinarum, inueniet sub-
 tiliora &; mirabiliter prius ignorata, planè intelli-
 get mirabiliora. Nihilominus apertus iste scribendi d 3
-
 [segment 18]
 54 EXPOSITIO.
 modus sufficiet ad omnia, cum eum totiens repetere
@@ -1455,7 +1442,6 @@ suum latens Theutonicè scribat sub Latia
 oratione sine aliqua diffi-
 cultate.
 SE-
-
 [segment 19]
 57
 SEQVNTVR
@@ -1463,7 +1449,7 @@ NVNC REGVLAE SI-
 VE CAVTELAE IN OPERA-
 tione huius libri obser-
 uandae.
-<Initial type="simple">P</Initial>Rima regula siue cautela te monet, vt mentis
+PRima regula siue cautela te monet, vt mentis
 tuae arcanum, quod amico nunciare volueris
 absenti, artem scienti, ac librum Polygraphiae haben
 ti, quanto potueris diligentius in schedulam scribas
@@ -1483,7 +1469,8 @@ III. Tertio cauendum mmopere, ne quod alpha-
 betum per negligentiam transilias, de quo non vnam et amp; arcano conuenientem dictionem mas. Simili-
 ter prouidendum vt quotiens extra seriem alphabe-
 ti occurrit dictio vna vel plures, superiorem lineam
-capias totam, vel inferiorem, &amp; non vtramque.</Line>
+capias totam, vel inferiorem, &amp; non vtramque.
+
 d s
 
 58 CAVTEAE
@@ -1547,7 +1534,6 @@ militer w geminatum pro quarta et vicesima li-
 tera suscepimus, quod nobis in sermone Theuto-
 nico est omnino necessarium. XI. Vndecimo noue-
 rit ille, qui literas ex Polygraphia scriptas recipit</gen-
-
 [segment 20]
 60 CAVTELAE
 legendas, quoniam intelligentia opus est in lectione.
@@ -1609,7 +1595,6 @@ da etiam in secundo diligenter admonemus. In sola
 narratione orationis manifesta diuersitas orta cer-
 nitur, q̃ioniam illa de domino nostro Dei filio com-
 ponitur, ista verò ad matrem semper intactam virgi-
-
 [segment 21]
 LIBRI II.
 63
@@ -1667,14 +1652,13 @@ TERTIO POLYGRA-
 PHIAE NOSTRAE LIBRO
 continentur obscura, ex-
 planatio.
-<Initial type="decorated-drop">N</Initial> tertio Polygraphiae libro nouiter
+N tertio Polygraphiae libro nouiter
 excogitatum occultè scribendi modum
 tradidimus, satis quidem securum et amp;
 tutum, sed intuentibus cunctis de la-
 tente arcano suspectum. Nullus enim
 quantumlibet eruditus latens mysterium sine peri=
 e
-
 [segment 22]
 66 EXPLANATIO tia traditionis inueniet , quippe cum nec apertam queat intelligere scripturam . Ordinauimus autem dictiones confictas nihil in se, sed literas duntaxat alphabeti sibi praepositas repraesentantes, per quas o- mnia mentis tuae secreta scribere ac nota facere po teris amico securißimè quantumcunque absenti. Ar- tus verò insciij et ignari cum viderint scripturam, lin guam aliquam putabunt esse peregrinam, & quid contineat penitus ignorabunt. Tu autem cum ali- quid per huius libri modum scribere aut nunciare volueris absenti, cura inprimis vt omnes et singulas dictiones ab inuicem propriè distinguas, ita quod v naquaeque clarißimè ab alia queat discerni, ne is cui scribis, aut vnams pro duabus, aut duas capiat pro v na,quia magnum partutiret errorem. Ponamus hu ius rei exemplum: Abrin madon badis, cadulur pa su, adin loroff masara damis, boda omo dromidrus vares mastron phosat, galos, prosol fane lemoros, aro soca bilneso, hamol heliet rhamil festa doron hubor rodex.In hac narratione facti sermonis haec breuis ar cani sententia continetur amici de periculo auifan tis amicum. Non venias ad curiam, quia rex tibi indignatur. Cernis quam facilis,tutus et securus fit i- ste modus scribendi et nunciandi quodcunque vo lueris ad amicum ipsum intelligentem. In omnibus tamen noueris cauendum, vt prius est dictum, ne plus quàm dictionem capias de quolibet alphabeto, nec rursum aliquod transilias alphabetum . Quotiens narra-
 
@@ -1690,7 +1674,7 @@ ueas turpiter in voces prorumpentem.
 EXPLANATIO LI-
 BRI POLYGRAPHIAE
 nostrae quarti.
-<Initial type="simple">I</Initial>N quarto Polygraphiae libro similiratione dictio-
+IN quarto Polygraphiae libro similiratione dictio-
 nes à nobis conflictas sub ordine alphabetico loca-
 uimus, sed in vno solo consultè à praecedente discre-
 pamus. Nam in praecedenti libro nihil in se dictio-
@@ -1730,14 +1714,13 @@ tera significantes in tertio vel in quarto di-
 ctionis loco ponantur dictioni-
 bus alteratis.
 EX-
-
 [segment 23]
 69
 EXPLANATIO IN
 QVINTVM LIBRVM PO-
 LYGRAPHIAE NOSTRAE
 breuis.
-<Initial type="simple">I</Initial>N quinto Polygraphiae libro varios occultè scri-
+IN quinto Polygraphiae libro varios occultè scri-
 bendi modos per transpositionem literarum com-
 munium tradidimus, tali coordinatione dispositos,
 quod eorum velamine omnia tuto scribere ac nun-
@@ -1753,7 +1736,7 @@ grammata, totiens consurgunt ex arte decies cente-
 na millia, per ordinem alphabeta. Post haec tabulam
 distributimꝰ auersam, quae totiens consurgent in a-
 liam, q̃ tiens literam mutauimus à capite primam.
-Est <Gap reason="illegible" extent="ca. 1 word"/> litera in prima tabula recta B. &amp; in auer-
+Est  litera in prima tabula recta B. &amp; in auer-
 Ja Z. In quarum locum quotiens reposueris quam-
 libet aliam, variatam, totiens inuenies tabulam per
 omnia nouam, &amp; ita vsque ad infinitum. Deinde
@@ -1790,9 +1773,9 @@ di similis est illi, qui obseruatur in tabulis transposi-
 tionis literarum, vt videlicet scripturus ad regulam
 orchematis, de quolibet alphabeto nigram capias li-
 teram duntaxat vnam, quam scriptam minio demon-
-strat à capite. Ad cuius intellectũ ponamus exemplũ.</Line>
- e 4
+strat à capite. Ad cuius intellectũ ponamus exemplũ.
 
+ e 4
 [segment 24]
 72 EXPLANAT. LIB. V.
 Prdh. ifrqyn. bdyen. zhkt. sxsol. inq Sententia cu-
@@ -1822,7 +1805,7 @@ SEXTI ET VLTIMI
 POLYGRAPHIAE LI-
 BRI EXPLANATIO
 breuis.
-<Initial type="simple">I</Initial>N sexto et amp; vltimo Polygraphiae libro quosdam ve-
+IN sexto et amp; vltimo Polygraphiae libro quosdam ve-
 terum characteres, quibus pro literis fuerunt vsi
 comportauimus, vt si quis proprium sibi alphabe-
 tum ex eis voluerit vsurpare poßit, quanquam me-
@@ -1901,7 +1884,6 @@ wwf c lxx www m c c
 wwg c xxxx wwn d c x
 wwh c C wwp dcc c xx
 wwi c CC wwq dccc suffi-
-
 [segment 25]
 76 EXPLANATIO
 Sufficientem numerandi modum per literas La-
@@ -1973,7 +1955,6 @@ numero, &; eius iam ponitur similitudo.
 Ponamus &; huius alphabeti exemplum. Gquog, ozuqi,
 ykar, din, vc, qacquxua, riqdik v99i, aqqurixrlz,
 skci,
-
 [segment 26]
 LIBRI VI.
 79
@@ -2003,8 +1984,7 @@ liquam Astronomiae pertinere omnia existimet. Or-
 dinauimus autem duodecim alphabeta iuxta nu-
 merum viginti quatuor loco literarum tribuentes, quo-
 rum primum arietis ab vnitate incipit, &amp; in viginti
-quatuor terminatur. Consulimus tamen in rebus magnis</Magnis>
-<Gap reason="damaged" extent="ca. 1-2 words"/>
+quatuor terminatur. Consulimus tamen in rebus magnis
 
 SO EXPLANATIO magnis et arduis ab vnitate cauendum, propterea quod is scribendi modus propter ipsam facilè poßit eße suspectus. Verum quicunque naturali sua vo- luerit industria vti prudenter, ex nostris inueniet subtiliora, & quae nos non satis polita tradidimus, facilè reddet meliora. In orchemate numerali ma- gna latent arcana, quae si quis propriè intellexerit, plura numerorum mysteria penetrabit. Nobis enim nec tempus erat nec ratio hac vice omnia profunde- re in publicum, sed nostro iudicio satis fuerit quod fecimus pro institutione illorum quibus olim placebunt inuenta, vt modos habeant plures non so- lum occultè scribendi quodcunque voluerint ad par- ticipes industriae absentes, sed modum etiam vnum producendi in plures meliores et subtiliores iuxta v- niusciusque capacitatem intelligentiae. Item cùm orchemata numerorum satis in locis suis sint aperta et manifesta, simul et earum tabulae expansae, non fuit isthic necessarium simuldicitareplicare, ne proli- xitas nimia exemplum generaret.Sed per nu- merorum figuras ponere secre- tius non existimaui necessarium, cum nulla sit in mo- do sciendi difficultas apud omnes, qui in vel medio- cri vigent ingenio. Simili facilitate signa numeran- di vetustissima quae reduximus in lucem poterunt in- telligi et comprehendi, quibus numerorum cognitio producitur in infinitum. Quotiens enim minori nu- mero virgula supraponitur, millenarius designatur.Nam
 
@@ -2022,14 +2002,13 @@ Trithemij abbatis Paeapolitani ad Maximilianum I
 Caesarem.
 f
 [Decorative tailpiece]
-
 [segment 27]
 82
 APOLOGIA IOAN-
 NIS TRITHEMII
 PRAEPOSITA STE-
 ganographiae.
-<Initial type="decorated-drop">A</Initial>NTIQVOS Philosophos et amp; Sa-
+ANTIQVOS Philosophos et amp; Sa-
 pientes artis ac naturae, si quae reperis-
 sent secreta, ne ad notitiam prauo-
 rum hominum deuenissent, varijs oc-
@@ -2115,7 +2094,6 @@ tes, quos ipse nondum apprehendit. Est enim haec
 scientia chaos infinitae magnitudinis, quod nemo com
 prehendere potest. Quia quantumlibet doctus in
 bac
-
 [segment 28]
 TRI THEMII.
 hac arte fueris, minus tamẽ est, quod intelligis, quam
@@ -2130,7 +2108,7 @@ Patricij Francofordensis, cum exemplis eo-
 rum, quae ab Authore vel praeterita
 funt vel minus perspicuè
 tractata.
-<Gap reason="unknown" extent="decorative ornament"/>
+
 MAGNVS ex his Romano-
 rum Imperator.) De hac ra-
 tione scribendi videatur Sueto-
@@ -2203,7 +2181,6 @@ norem contineat supposita fora-
 minibus, scribes eam sententiam, atque item in alia
 atque alia demum imple spacia primae membranae sen-
 tentias complendo, implendo donec sensus f 4
-
 [segment 29]
 EXPOSITIO.
 constee. Hanc secundam sententiam complebis in
@@ -2292,7 +2269,6 @@ cis eadem prona foemur laeuum desuper comprehen-
 des. Septuaginta millia cum dicis foemori
 superpones. Octoginta millia cum dicis,eandem pro-
 nam
-
 [segment 30]
 EXPOSITIO.
 91
@@ -2389,7 +2365,6 @@ Primum genus dermaticon.) Hoc Strata-
 gema vulgo etiam militibus notum. Plinius (nisi
 fallor) lib. 26. aliud tradit. Tythimalum (inquit)
 nostri
-
 [segment 31]
 94 EXPOSITIO.
 nostri herbam lactariam vocant, alij lactucam Capri
@@ -2485,7 +2460,6 @@ tergum Praebeat,inq́; suo corpore verba feret. Tutae
 quoq́; est,fallitq́; oculos è lacte recenti,Litera carbo-
 nis puluere tange leges. Fallit &; humiduli quae fiet
 acu-
-
 [segment 32]
 EXPOSITIO.
 acumine lini, Efferet occultas parua tabella notas,
@@ -2578,7 +2552,6 @@ tates quae tactum afficiunt, per figuras, magnitudi-
 nes, numeros, per motum aut statum quarumcun-
 que rerum, vt funt partes corporis, per gestus digito=
 g 2
-
 [segment 33]
 100 EXPOSITIO.
 rum oculorum nutus, etc. Quae quidem omnia si re-
@@ -2667,7 +2640,6 @@ ea quae praedixi miranda, quam ego scribere aut cre-
 dere poßis, tamen omnia sunt purè naturalia, sine
 deceptione aliqua, sine supersitione, sine magica ar-
 te, sine
-
 [segment 34]
 EXPOSITIO.
 103
@@ -2719,7 +2691,7 @@ strusa latent, Deo volente, seorsim
 agemus.
 PRIMVS LIBER
 Polygraphiae.
-<Initial type="decorated-drop">Q</Initial>VATVOR sunt atque viginti si-
+QVATVOR sunt atque viginti si-
 gnorum sermonis Latini grammata,
 quae per ordinem praeposita totidem
 symanticis dictionibus, ad votum v-
@@ -2728,7 +2700,6 @@ copiosißimè per omnia deseruiunt arcanis. Sic autem para-
 
 EXPOSITIO.
 paraphrasmata sunt artificialiter ordinata, quod sermonem penitus Latinum efficiunt, si de quolibet ordine vna duntaxat capiatur. Et notandum quoda ratione sermonis nostri Theutonici, vicesima quarta littera w, in fine alphabeti assumitur, cum reliquae omnes vtriusque linguae ministerio perfungantur. Consignantes tali per ordinem industria locauimus, vt quamlibet de vnaquaque susceperis linea, summae deductione facta manebit concordia. Circumspectione tamen opus est, vt de qualibet syntaxeos linea non capias nisi vnam, & nullam monas binario facit iniuriã. Prouidendum quoque vt quotiens ad operazionem cabalisticam accedis, prius noctis minuta oꝫ singula numeres, eaꝙ; sequentis diei gradibus proportione debita coniungas. Quod si minutis arcano instituto diei gradibus finetenus non sufficiunt, cur sor ventosus ad archimensorem prudentẽ est confilio reducendus. Nec obstat si casu fortuito nox in caput diei recidat, cum prudens operator in arte tantundem per volũtariam appositionem à fron te poßit discedere, quanto noctem viderit diei lucem superare. Et hoc per totum Polygraphiae opus de singulis est capitulis intelligendum. Eam tamen considerationem vnitate dicimus, quabina-rius noto reuersionis indiculo, ne aberrare contingat, certificetur. Ex monade per constitutum binarius stabit, efficiturque, monas. Nihil hic frustra ponitur, nihil sine causa vel ociosum allegatur. Propterea mo g 5
-
 [segment 35]
 106 EXPOSITIO.
 nemus necessario, vt omnis qui hoc Polygraphiae o-
@@ -2903,7 +2874,6 @@ Y Dilectio Y inaccessibilis
 Z Munificentia Z eminentissimi
 w Perfectio w clementissimi
 A crea.
-
 [segment 36]
 LIBER I.
 A creatoris A christianis
@@ -2918,8 +2888,8 @@ I conseruatoris I cunctis
 K rectoris K nobis
 L auctoris L bonis
 M artificis M iustis
-N dominantis N pijs <Emphasis type="italic">semper</Emphasis>
-O dominatoris O sanctis <Emphasis type="italic">vbique</Emphasis>
+N dominantis N pijs semper
+O dominatoris O sanctis vbique
 P regis P mansuetis
 Q regentis Q sanctificatis
 R imperatis R iustificatis
@@ -3090,7 +3060,6 @@ Y salutarium Y ignorare:
 Z spiritualium Z nescire
 w immortalium w abhorrere
 k 4 Abo-
-
 [segment 37]
 120 POLYGRAPHIAE
 A bona A aeternae
@@ -3280,7 +3249,6 @@ Y factoris Y iustorum
 Z nutritoris Z mitium
 w fabricatoris w sperantium
 A in-
-
 [segment 38]
 LIBER I.
 125
@@ -3465,7 +3433,6 @@ Y indulgentissime Y reducendi
 Z ouanter Z reuersuri
 w gaudenter w transituri
 i 3 A Ecce
-
 [segment 39]
 134 POLYGRAPHTAE A miseri B miselli C infoelices D miserandi E miserrimi F miserabiles G infoelicissimi H abiectissimi I vanissimi K iniqui L iniusti M caduci N abiecti O stulti P fatui Q insipientes R desidiosi S sultissimi T fatuissimi V inquissimi X negligentes Y negligentissimi Z obliuiosissimi w corruptibiles A ho-
 
@@ -3605,7 +3572,6 @@ w expectatis
 A Nunc
 
 140 POLYGRAPHIAE A Nunc B Igitur nunc C Nunc ergo D Ergo nunc E Nunc itaque F Ita que nunc G Quocirca H Propterea I Quapropter K Propter quod L Proinde M Ideoque N Obid O Et ideo P Eia nunc Q Igitur R Itaque S Quare T Vos igitur V Vos ergo X Vos itaque Y Quamobrem Z Vos nunc w Nunc vos A fratres B confratres C mortales D homunciones E commilitones F homines G populi H fideles I christiani K christicolae L terrigenae M terrestres N credentes O orthodoxi P terreni Q mundani R mundiales S miserandi T miserable V miserrimi X mifelli Y miferi Z pauperes w pauprimi A cogi-
-
 [segment 40]
 LIBER I.
 14I
@@ -3792,7 +3758,6 @@ X societate X supercoelestium
 Y praesentia Y coelestium
 Z astantia Z martyrum
 w praedestinatōrū w iugi-
-
 [segment 41]
 148 POLYGRAPHIAE A iugiter B cernere C continue D contueri E suspicere F aspicere G respicere H perspicere I conspicere K inspicere L prospicere M contemplari N speculari O participare P communicare Q habere praesentẽ R coram habere S diligere T amare V mirari X admirari Y ammirari Z cognoscere w agnoscere A Bea-
 
@@ -3849,7 +3814,6 @@ X electa X claritas
 Z praedulcis Z foelicitas
 w dulcissima w concordia
 A defi.
-<Gap reason="damaged" extent="ca. 1-2 characters"/>
 
 LIBER I.
 157
@@ -3958,7 +3922,6 @@ Y confiditis Y reuelatorem
 Z praestolamini Z sanctificatem
 w glorificatis w iustificatem
 A mun-
-
 [segment 42]
 LIBER I.
 A mundi A omnipotentem
@@ -4145,7 +4108,6 @@ X laetitiam X aeternitatis
 Y patriam Z maiestatis
 W quietem W prophetarum
 l A Opis
-
 [segment 43]
 162 POLYGRAPHIAE A O pie B mitis C dulcis D colende E adorande F opijssime G pientissime H benedicte I iustissime K cunctipotens L sanctissime M potentissime N clementissime O sapientissime P benignissime Q metuende R adorabilis S dulcissime T misericors V reuerendiss. X misericordiss. Y praestãtissime Z inspector w plasmator fabricator moderator imperator conseruator gubernator conditor creator factor rector pater rex saluator motor dominator redemptor viuificator instaurator renouator seruator inspector A no-
 
@@ -4162,8 +4124,8 @@ H saeculi H intende
 I mundi I respicito
 K orbis K aspicito
 L vniuersi L inspicito
-M vniuersitatis M conspicito <Emphasis type="italic">in nos</Emphasis>
-N inuisibilium N perspicito <Emphasis type="italic">in nos</Emphasis>
+M vniuersitatis M conspicito in nos
+N inuisibilium N perspicito in nos
 O viuentium O suspicito
 P mortalium P respicias
 Q hominum Q aspicias
@@ -4213,7 +4175,7 @@ H compatiare H concedens
 I com̄patiaris I expurgans
 K subuenias K obliuiscens
 L subueni L purgans
-M condesce<Emphasis type="underline">n</Emphasis>do nobis M delens <Emphasis type="italic">omniū</Emphasis>
+M condescendo nobis M delens omniū
 N subuenito nobis N expians cunctorū
 O succurras O lauans
 P succurrito P abluens
@@ -4308,7 +4270,6 @@ X visibilium X Recognosce
 Z naturalium Z Cognosce
 w naturae w Intellige
 A bo-
-
 [segment 44]
 L I B E R I.
 169
@@ -4500,7 +4461,6 @@ X aspiratione X nunciorum
 Y intima Y obedientium
 Z praecordia Z discipulorum
 w corda w Peti-
-
 [segment 45]
 176 POLYGRAPHIAE
 A Petimus A saluari
@@ -4686,7 +4646,6 @@ Y Enimuero Y christiani
 Z Etenim Z christicola
 w Certe w vicarij
 A vani
-
 [segment 46]
 LIBER I.
 183
@@ -4849,7 +4808,6 @@ Y interminam Y Recogitamus
 Z supernam Z Dolemns
 w infinitam w Geminus
 A rector
-
 [segment 47]
 LIBER I.
 189
@@ -4970,7 +4928,7 @@ H pessimis H facinoribus
 I nociuis I offensionibus
 K perniciofis K iniquitatibus
 L creberrimis L impietatibus
-M quotidianis M offensis <Emphasis type="italic">intuam</Emphasis>
+M quotidianis M offensis intuam
 N grauioribus N culpis cōtra tuam
 O detestandis O malis
 P abominandi P dictis
@@ -4982,7 +4940,7 @@ V mortiferis V desiderijs
 Y letalibus Y impuritatibus
 Z letiferis Z inquinamentis
 W motalibus W inquinationibus
-ñ A pie<Gap reason="damaged" extent="ca. 1 char"/>
+ñ A pie
 
 194 POLYGRAPHIAE
 A pietatem A Vitijs
@@ -5008,8 +4966,7 @@ V misericordiam X Transgressionib.
 X mundificationẽ Y Temeritatibus
 Z excellentiam Z Voluptatibus
 w serenitatem w Concupiscentijs
-A exi<Gap reason="damaged" extent="ca. 1-2 characters"/>
-
+A exi
 [segment 48]
 LIBER I.
 195
@@ -5173,7 +5130,6 @@ Y resistente Y victoriosissime
 Z opponente Z fulgentissime
 w repugnante w praestantissime
 A pa-
-
 [segment 49]
 LIBER I.
 201
@@ -5364,7 +5320,6 @@ X impij X sagena
 Y infidi Y captione
 Z dolosi Z deceptione
 w scelerati w dia-
-
 [segment 50]
 208 POLYGRAPHIAE
 A diaboli A Aeterne
@@ -5547,7 +5502,6 @@ S christianorum S benedicantium
 T orthodoxorum T desiderantium
 V X Y Z w discipulorum w affirmantium
 A folium
-
 [segment 51]
 LIBER I.
 215
@@ -5706,7 +5660,6 @@ Y beatitudini Y illuminator
 Z mansuetudini Z illustrator
 w serenitati w redemptor
 A omni
-
 [segment 52]
 LIBER I.
 221
@@ -5815,7 +5768,6 @@ X expurges X supplicantium
 Y emendes Y deprecantium
 Z iustifices Z desiderantium
 w auferas w vitia
-<Gap reason="damaged" extent="ca. 1-2 characters"/>
 
 LIBER I.
 235
@@ -5896,7 +5848,6 @@ X charorum X supremis
 Y Z charissimorum Z paradiso
 w amantissimoru w vranicis.
 p 2 A Om̃.
-
 [segment 53]
 228 POLYGRAPHIAE
 A miseri A mortales
@@ -6082,7 +6033,6 @@ Y caresej Y caletes
 Z condrufi Z caderes
 w curiofolitae w cadurci
 A cauil-
-
 [segment 54]
 LIBER I.
 235
@@ -6275,7 +6225,6 @@ Y molestia Y destruet
 Z moestitia Z deuastet
 retributio W circumdero
 q A putet.
-
 [segment 55]
 842 POLYGRAPHIAE
 A putatis A Attendite
@@ -6441,7 +6390,6 @@ Y cupidissimis Y parthis
 Z truculentis Z praedonibus
 w truculentissimis w hideamphoteris
 q 4 A quoti-
-
 [segment 56]
 248 POLYGRAPHIAE
 A quotidie A turbant
@@ -6632,7 +6580,6 @@ Y quinfaijos Y latis
 Z quiritiriam Z claris
 w chymchitalim w praeclaris
 A pulcher-
-
 [segment 57]
 LIBER I.
 255
@@ -6821,7 +6768,6 @@ Y Nunc ergo Y comites
 Z Nunc itaque Z capitanei
 w Nunc igitur w imperatores
 r3 A chri-
-
 [segment 58]
 262 POLYGRAPHIAE
 A christianorum A ocio
@@ -7011,7 +6957,6 @@ Y picardia Y rodiana
 Z flandria Z cyprum
 w nostra
 A nostra
-
 [segment 59]
 LIBER I.
 269
@@ -7160,10 +7105,10 @@ G orthodoxorum G sanctissimi
 H credentium H potentissimi
 I baptizatorum I omnipotentis
 K fidelium K cunctipotentis
-L humilium L fortissimi dei qua<Above>tenus</Above>
+L humilium L fortissimi dei quatenus
 M sanctorum M altissimi tenus
 N electorum N beatiss. dei quate-
-O bonorum O gloriofi<Above>nus</Above>
+O bonorum O gloriofinus
 P rectorum P magni
 Q iustorum Q aeterni
 R viuentium R clementis
@@ -7175,7 +7120,6 @@ Y pauperum Y robustissimi
 Z nostrum Z gloriosissimi
 w vestrum w benignissimi
 A seruos
-
 [segment 60]
 LIBER I.
 275
@@ -7365,7 +7309,6 @@ Y conuocauit Y Refugiamus
 Z reuocauit Z Adoremus
 w expiauit w Rogemus
 s s A pium
-
 [segment 61]
 882 POLYRRIAE
 A pium A creatorem
@@ -7530,7 +7473,6 @@ Y ascencionem Y immitte
 Z dignationem Z immittas
 w miserationem w largire
 A veram
-
 [segment 62]
 258 POLYGRAPHIAE
 A veram A spem
@@ -7691,7 +7633,6 @@ X O pater X viuentium
 Y O rex Y plorantium
 Z O defensor Z miserorum
 w O remunerator w confidentium t 3 A cru-
-
 [segment 63]
 294 POLYGRAPHIAE
 A crucifixe A miseri
@@ -7829,7 +7770,7 @@ Finem
 
 LIBER I.
 299
-<Initial type="simple">F</Initial>Inem adesse libri Polygraphiae nostrae pri-
+FInem adesse libri Polygraphiae nostrae pri-
 mi gaudemus, quo ad ea quae restãt prom-
 ptiores effecti, quae sint ingenÿ vires iudica-
 mus tentandum. Turbant enim nonnũquam
@@ -7854,8 +7795,7 @@ beant scientiam et facultatem. Omnia quae
 artis continentur in orbe à puncto procedunt,
 quorum atomi lineam constituunt orbicula-
 rem, & luminis multitudine rectam. Quic-
-quid</Line>
-
+quid
 [segment 64]
 300 POLYGRAPHIAE quid extra lineam est, diei communi ratione deseruit, non nocti. Nox enim terminos mi- nutiarũ et paraphraseon semper inclusa nun quam egreditur. Quotiens igitur cum li neam rectam diei transieris, & nocturnae syn taxeos propositum non impleueris, caput retor queas ad caudam, & colligatione facta fiat li gamentum vtriufque ad inuicem. Vmbram sic ordina, vt solem non confundat similitudine vocis. Nec reuereare pudorem, si prima cal culatione dies non comprehenderit vmbram, sed linearum minutias connumera, donec pro portio necessaria ad votum subsequatur. Po teris etiam à primo saltum facere in secundũ, sciens quod in prima creatione dierum fa ctum est vespere et mane dies vnus. Propter ea vespere consummato, diem reduc in sequen tem, & signo dato per punctum binario simul et monadi notum fige mysterium. Verùm quo hanc euĩtare difficultatem poßis, orbis nostri totius, magnas revolutiones per gradus distin gue arithmeticos, & vbi dies pro nocte repe titur, notam Archimedis impone volanti, ne ternarius immaturus reditum ad unitatem bina-
 
@@ -7889,7 +7829,7 @@ ORDI-
 NIS SANCTI BENEDICTI,
 Polygraphiae liber secundus capit
 initium.
-<Initial type="decorated-drop">R</Initial>ATIO numerandi morta-
+RATIO numerandi morta-
 lium, arte naturam conatur
 imitari monadis nullũ cal-
 culum admittentis. Vnde
@@ -7950,7 +7890,6 @@ rio, si modus intelligitur à magistro.Nos au-
 tem ratione persuasi sub ministerio binarij
 
 consistimus et amp; partem totius minimam breuiter explicamus. Neque vt conatum erigermus ad grauiora datur occasio, quae sinobis offeratur acceptabilis, nos aspernabimur potiora cupientibus facere manifesta.
-
 [segment 65]
 Scriptum est enim: Vbi nō est auditus, ne sermonem effuderis vnquam. Secūdum igitur Polygraphiae librum adjcientes primo, formam eiufdem tenemꝰ et amp; modũ, paraphrasmata in lumine diei octo et amp; trecēta simpliciprogressione locātes pro memoria honorbili, castissimae Dei genetricis, que si tempusaffuisset opportunũ, &amp; venustiora dare pote-ritas, vt et amp; nitorem apponat materiae, &amp; sufficientem progressum formae.Primus cuius-libet artis inuentor maiora trāsmittit ad posteros, quia cum sint artis dura et amp; inconsue-ta principia, nulla reperitur subtilis adinentio ab origine consummata.Ex Peapoli, quae et amp; Herbipolis, vrbe Francorum orientalium, duodecima die mensis Februarij.Anno Domini M.D.VIII.A Or-
 
@@ -8008,9 +7947,6 @@ Y charissimi
 Z dulcissimi
 w fortissimi
 A summi
-<Gap reason="illegible" extent="ca. 1-2 words"/> <Illegible reason="faded" extent="ca. 4 characters"/>
-<Gap reason="damaged" extent="small hole at bottom left edge of page"/>
-<Gap reason="damaged" extent="small hole near 'summi' at bottom right edge of page"/>
 
 LIBER II.
 307
@@ -8093,7 +8029,6 @@ Y veneremur Y iustiﬁcatrix
 Z colamus Z saluatio
 w recolamus w saluatrix
 u 3 A no-
-
 [segment 66]
 210 POLYGRAPHAE
 A nostrum A porta
@@ -8215,7 +8150,7 @@ V lugentium V tentationi
 X viuentium X vanitati
 Y mortalium Y irae dei
 Z hominum Z offensioni
-w fragiliu<Above>m</Above> w voluptati
+w fragilium w voluptati
 A subie-
 
 LIBER II.
@@ -8270,7 +8205,6 @@ X segregata X illuxisti
 Y confirmata Y euasisti
 Z priuilegiata Z luxisti
 w reluxisti A labe
-
 [segment 67]
 LIBER II.
 317
@@ -8430,7 +8364,6 @@ Y abnegaueris Y miserbiles
 Z derelinquas Z perditos
 w confundas w desolatos
 A mali
-
 [segment 68]
 LIBER II.
  328
@@ -8570,7 +8503,6 @@ Z deuotorum Z ergasterium
 w contritorum w promptuarium
 A pacis
 [Illegible: reason="faded", extent=1 character]
-
 [segment 69]
 LIBER II.
 329
@@ -8732,7 +8664,6 @@ X aeterno X praeseruatore
 Y supremo Y dispositore
 Z clarissimo Z ordinatore
 w pientissimo w directore A coeli
-
 [segment 70]
 LIBER II.
 335
@@ -8895,7 +8826,6 @@ Y lunae Y formationem
 Z maris Z aeditionem
 w locationem
 A pienter
-
 [segment 71]
 LIBER II.
 341
@@ -9080,7 +9010,6 @@ X percipimus X distributor
 Y imbuimur Y dispositor
 Z moderator Z ordinator
 w aeter-
-
 [segment 72]
 348 POLYGRAPHAE
 A aeternus A dilexit
@@ -9254,7 +9183,6 @@ V emicuit W liberrima
 T illuxit W liberrima
 Z paratur W liberrima
 A ora
-
 [segment 73]
 LIBER II.
 A ora A culpis
@@ -9392,7 +9320,6 @@ X purissimam X sanctificauit
 Y venustissimam Y praeseruauit
 Z amantissimam Z praerogauit
 w praeclarissimam w priuilegiauit A foeli-
-
 [segment 74]
 LIBER II.
 361
@@ -9555,7 +9482,6 @@ Y amplis Y praedicandam
 Z multis Z sublimandam
 w sanctis w perorandam
 A meri-
-
 [segment 75]
 LIBER II.
 367
@@ -9667,7 +9593,6 @@ Y praeuaricatoris Y schuraym
 Z supplantatoris Z luthealis
 w veneratoris w misalethis
 A miserẽ
-<Illegible reason="blot" extent="ca. 1-2 words"/>
 
 LIBER II.
 A misere A tenuit
@@ -9747,7 +9672,6 @@ X Emicabat Y inuisibilis
 Y Emicuit Z magnifici
 Z Processit w pijssimi
 A 3 A dei
-
 [segment 76]
 374 POLYGRAPHIAE
 A dei A semper genitus
@@ -9937,7 +9861,6 @@ X corripuit X christianorum
 Z proiecit Z catholicorum
 w restrinxit w orthodoxorum
 A vitam
-
 [segment 77]
 LIBER II.
 381
@@ -10101,7 +10024,6 @@ Y Feruenter Y gementibus
 Z Diligenter Z labentibus
 w Feruentissime w tribulatis
 A magna
-
 [segment 78]
 LIBER II.
 387
@@ -10265,7 +10187,6 @@ Y foueri Y pijssimis
 Z iuuari Z gloriosis
 w seruari w fructuosis
 A meritis
-
 [segment 79]
 LIEB II.
 393
@@ -10429,7 +10350,6 @@ X administrans X subuentionibus
 Z ministrans Z patrocinjus
 w exhibens w petitionibus
 A Roga-
-
 [segment 80]
 LIBER II.
 A maxima
@@ -10509,9 +10429,7 @@ C pauperum C adores
 D mortalium D perores
 E viuentium E postules
 F gementium F expostules
-G moerentium G intercedas H interuenias I interpelles K interloquaris L proloquaris M impiores p nobis N loquaris O depocas P expocas Q pocas R roges S petas T expetas V preceris X deprecis Y flagites Z efflagites w affistas A miseri<Above>s</Above> <Illegible reason="faded" extent="ca. 1 char"/>ba<Gap reason="damaged" extent="remainder of word"/></Illegible>
-<Gap reason="damaged" extent="entire line"/>
-<Gap reason="damaged" extent="entire line"/>
+G moerentium G intercedas H interuenias I interpelles K interloquaris L proloquaris M impiores p nobis N loquaris O depocas P expocas Q pocas R roges S petas T expetas V preceris X deprecis Y flagites Z efflagites w affistas A miseris ba
 
 LIBER II.
 403
@@ -10594,7 +10512,6 @@ Y viuentium Y tristitia
 Z christianorum Z timor
 w pauor
 C 3 Amor-
-
 [segment 81]
 406 POLYGRAPHIAE
 A mortis A adesse
@@ -10781,7 +10698,6 @@ X euangelistis X coelicam
 Z confessoribus Z coelestem
 w praedestinatis w diuinam
 A Pater
-
 [segment 82]
 LIBER II.
 413
@@ -10975,7 +10891,6 @@ Y viuentibus Y alimentum
 Z inferioribus Z commeatum
 w fustentaculum
 D 2 Ano-
-
 [segment 83]
 420 POLYGRAPHIAE A nostrum B necessarium C semperium D preparatum E perpetuum F auiternum G aeternum H supercoelestium I sanctum K purum L lucidum M vranicum N viuificum O salutiferum P saluberrimum Q robustissimum R solidissimum S fortissimum T suauissimum V magnificum X maximum Y optimum Z candidum w desideratum A da
 
@@ -11087,7 +11002,7 @@ V subuenimus V infidiatoribus
 X benefacimus X calumniatorib⁹
 Y consentimus Y persequentibus
 Z exhibemus Z offensoribus
-w ostendimus w nos<Gap reason="damaged" extent="ca. 1 char"/>
+w ostendimus w nos
 
 LIBER II.
 425
@@ -11102,8 +11017,8 @@ H homines H perducito
 I infirmos I perduxeris
 K miseros K produceris
 L mortales L producito
-M credentes M producas <Emphasis type="underline">in</Emphasis>
-N miserandos N conducas <Emphasis type="underline">in</Emphasis>
+M credentes M producas in
+N miserandos N conducas in
 O miserabiles O conduxeris
 P christianos P conducito
 Q christicos Q abducito
@@ -11115,7 +11030,7 @@ X pusillos X introducas
 Y contritos Y deducas
 Z pauidos Z introductoris
 w debiles w deducas
-D 5 A tenta-<Gap reason="damaged" extent="remainder of line"/></Line>
+D 5 A tenta-
 
 426 POLYGRAPHAE
 A tentationem A libera
@@ -11143,7 +11058,6 @@ Y obstinationem Y serua
 Z displicentiam Z defende
 w desolationem w redime
 A nos
-
 [segment 84]
 LIBER II.
 427
@@ -11308,7 +11222,6 @@ X medicus X pijssimus
 Y Z misericordiss.
 Z incomprehens.
 w w A Salue
-
 [segment 85]
 434 POLYGRAPHIAE
 A Salue A regina
@@ -11457,8 +11370,8 @@ H progeniti H erroris
 I procreati I moestitiae
 K ramusculi K vanitatis
 L homunciones L protoplasti
-M homines M perditionis <Emphasis type="italic">ad te</Emphasis>
-N sequaces N displicentiae <Emphasis type="italic">ad te</Emphasis>
+M homines M perditionis ad te
+N sequaces N displicentiae ad te
 O posthumi O deuiationis
 P serui P concupiscentiae
 Q rami Q maledictionis
@@ -11496,7 +11409,6 @@ Y vigilamus Y desolati
 Z festinamus Z abiecti
 w afficimur w afflicti
 A flentes
-
 [segment 86]
 LIBER II.
 441
@@ -11538,8 +11450,8 @@ H condensitate H Continue
 I profunditate I Hilariter
 K asperitate K Incessanter
 L densitate L Indefinenter
-M exulatione M Quaesumus <Emphasis type="italic">ergo</Emphasis>
-N captiuitate N Petimus <Emphasis type="italic">ergo</Emphasis>
+M exulatione M Quaesumus ergo
+N captiuitate N Petimus ergo
 O captione O Rogamus
 P vmbra P Oramus
 Q mora Q Ob hoc
@@ -11686,7 +11598,6 @@ X infantem X alimenti
 Y Z seminis
 Z w susceptum w partus
 A nobis
-
 [segment 87]
 448 POLYGRAPHIAE
 A nobis A exilium
@@ -11781,8 +11692,8 @@ H Laetare H plasmatoris
 I Valeto I viuificatoris
 K Valeas K imperatoris
 L Vale L mediatoris
-M Aue M iesu christi <Emphasis type="italic">anid</Emphasis>
-N Eia N salutis <Emphasis type="italic">anid</Emphasis>
+M Aue M iesu christi anid
+N Eia N salutis anid
 O Viue O virtutis
 P Viuas P pietatis
 Q Viuito Q puritatis
@@ -11793,7 +11704,7 @@ V Congaueto V altitonantis
 Y Congadeas Y omnipotentis
 Z Gratulare Z summi regis
 w Congaude w regis superni
-<Gap reason="damaged" extent="ca. 2-3 chars"/>
+
 F a A mater
 
 452 POLYGRAPHIAE A mater B humilium C credentium D afflictorum E desolatorum F exulantium G naufragantium H lachrymantium I plorantium K gementium L lugentium M flentium N mitium O exulum P egentium Q moerentium R dolentium S pauperum T miserorum V miserabilium X infirmantium Y christianorum Z christicolarum w mortalium A sanctisc. Anna ɔ T ɔ V ɔ Y ɔ Z ɔ W ɔ X ɔ Q ɔ P ɔ L ɔ I ɔ K ɔ G ɔ F ɔ E ɔ D ɔ C ɔ B ɔ A ɔ Ae ɔ Ω ɔ ω ɔ ♀ ɔ ♣ ɔ ♠ ɔ ♡ ɔ ♢ ɔ ♤ ɔ ♥ ɔ ♦ ɔ ♧ ɔ ♨ ɔ ♪ ɔ ♫ ɔ ♬ ɔ ♭ ɔ ♮ ɔ ♯ ɔ ♰ ɔ ♱ ɔ ♲ ɔ ♳ ɔ ♴ ɔ ♵ ɔ ♶ ɔ ♷ ɔ ♸ ɔ ♹ ɔ ♺ ɔ ♻ ɔ ♼ ɔ ♽ ɔ ♾ ɔ ♿ ɔ ♓ ɔ ♔ ɔ ♕ ɔ ♖ ɔ ♗ ɔ ♘ ɔ ♙ ɔ ♚ ɔ ♛ ɔ ♜ ɔ ♝ ɔ ♞ ɔ ♟ ɔ ♠ ɔ ♠ ɔ ♣ ɔ ♣ ɔ ♤ ɔ ♤ ɔ ♦ ɔ ♦ ɔ ♠ ɔ ♦ ɔ ♣ ɔ ♦ ɔ ♤ ɔ ♣ ɔ ♥ ɔ ♣ ɔ ♧ ɔ ♣ ɔ ♩ ɔ ♣ ɔ ♪ ɔ ♣ ɔ ♫ ɔ ♣ ɔ ♬ ɔ ♣ ɔ ♭ ɔ ♣ ɔ ♮ ɔ ♣ ɔ ♨ ɔ ♣ ɔ ♩
@@ -11825,7 +11736,6 @@ Y iustissima Y institutrix
 Z praeclarissima Z imperatrix
 w praefulgida w conductrix
 A nupta-
-
 [segment 88]
 454 POLYGRAPHIAE
 A nuptarum A ora
@@ -11987,7 +11897,6 @@ vale. Ex Peapoli penultima die mensis
 Februarÿ. Anno Domini
 M.D.VIII.
 IOAN-
-
 [segment 89]
 460
 IOANNIS TRI-
@@ -11996,7 +11905,7 @@ ORDI-
 NIS SANCTI BENEDICTI,
 liber Polygraphiae III. ini-
 tium sumit.
-<Initial type="decorated-drop">Q</Initial>VID à primordio creationis hu-
+QVID à primordio creationis hu-
 manae vnitatem linguae confudit?
 Nónne diuisio corporum, & varie-
 tas animorum? Nam vt veritas in
@@ -12050,7 +11959,6 @@ rationes
 rationes.In illis noctem dies illuminat,in iastis verò dies à lumine vacat. Illic vmbrá lux circunducit in lumine,isthic autem coecus caecum illuminat,& visum sine oculis existens et permanens quem nõ habet tenebris ministrat.Hic nox diem caligine perpetua obnubilat,& ambulans in tenebris sine lu-mine coeco ducatũ praestat.Haec paraphras-mata cunctis per mundum hominibus de-feruiunt,& in omni lingua quodlibet arca-num tutò,securè,ac sine periculo ad cabali-sticumbinarium transmittunt.Barbaris ri-sum mouet Latinitas,& suspicionem Lati-nis ipsa barbaries generat.Refert tamen ni-hil aut parum,quoniam suspicio quantum-libet fuerit,mysterium nihilominus omne secretissimum continebit.Ad mentem re-gulas et praeceptaquae tradidimus operator studiosusreuocet,neinutiliter et invanum sibi et alijslaboret.Intelligentia enim opus est,sine qua nullius artis constabit vtilitas.I-tetpaucis ostendimusad maxima,&finitimodum dedimusad infinita.Ex datis et ac-ceptis,facilè maiora parāturamicis.Lector memento notam retrogradaminomilo-co posse configi,quo usque notam appre-hendas quietis.Vale.Ex Peapoli prima die Martij,Anno Domini 1508. A Abra
 
 A Abra B Abre C Abri D Abro E Abru F Abras G Abres H Abris I Abros K Abru L Abran M Abren N Abrin O Abron P Abrun Q Abral R Abril S Abril T Abrol V Abrul X Abrax Y Abrex Z Abrix w Abrox A mada B made C madi D mado E madu F madas G mades H madis I mados K madus L madan M maden N madin O madon P madun Q madal R madel S madil T madol V madul X madax Y madex Z madix w madox A badar B bader C badir D bador E badur F badan G baden H badin I badon K badun L badas M bades N badis O bados P badus Q badal R badel S badil T badol V badul X badax Y badex Z badix w badox A Cada- 2 3 409
-
 [segment 90]
 464 I 2 3.
 A cadalan A pasa A adam 25
@@ -12204,7 +12112,6 @@ V rassut X madeban Y tharet 165
 X rassar Y madeben Z tharit 166
 Y rasser Z madebin w tharot 167
 Z rassir w madebon A mesa G 3
-
 [segment 91]
 470 I 2 .3 A mesa A baia A phosa 169 B mese B baie B phose 170 C mesi C baij C phosi 171 D meso D baio D phoso 172 E mesu E baiu E phosu 173 F mesal F baias F phosan 174 G mesel G baies G phosen 175 H mesil H baijs H phosin 176 I mesol I baios I phoson 177 K mesul K baius K phosun 178 L mesar L baial L phosar 179 M meser M baiel M phoser 180 N mesir N baijl N phosir 181 O mesor O baiol O phosor 182 P mesur P baiul P phosur 183 Q mesan Q baian Q phosal 184 R mesen R baien R phosel 185 S mesin S baijn S phosil 186 T meson T baion T phosol 187 V mesun V baion V phosul 188 X mesas X baiat X phosat 189 Y meses Y baiet Y phoset 190 Z mesis Z baijt Z phosit 191 w mosos w baiot w phosot 192 A gala
 
@@ -12312,7 +12219,6 @@ Y huben Y rodel Y medren 310
 Z hubin Z rodil Z medrin 311
 w hubon w rodol w medron 312
 A ophi-
-
 [segment 92]
 476 I 2 3
 A ophiran A darach A vana 313
@@ -12468,7 +12374,6 @@ Y dolef Y meraper Y faneret 454
 Z dolif Z merapir Z fanerit 455
 w dolof w merapor w fanerot 456
 H A adra
-
 [segment 93]
 482 1 2 3
 A adra A pesa A mezana 457
@@ -12628,7 +12533,6 @@ Y bedef Y nyset Y ramey 598
 Z bedif Z nysit Z ramoy 599
 w bedof w nysot w ramuy 600
 A astro-
-
 [segment 94]
 481 I 2 3
 A astrofal A guara A lodan 601
@@ -12761,7 +12665,6 @@ X solamet X afarat X mesay 717
 Y solamit Y afaret Y mesey 718
 Z solamot Z afarit Z mesoy 719
 w solamot w afarot w mesuy 720 A ome-
-
 [segment 95]
 1 2 3 498
 A omena A perodas A baran 721
@@ -12918,7 +12821,6 @@ X merei X dorax X adramat 861
 Y merij Y dorex Y adramet 862
 Z mero Z dorix Z adramit 863
 w mero w dorox w adramot 864 A dobar
-
 [segment 96]
 I 2 3 499
 A dobar A eloham A holam 865
@@ -13026,7 +12928,6 @@ Y damex Y genedet Y ameney 982
 Z damix Z genedit Z amenoy 983
 w damox w genedot w amenuy 984
 I 4 A baschay
-
 [segment 97]
 504 I 2 3
 A baschay A nas A caman 985
@@ -13144,7 +13045,7 @@ burgensis, quondam Spanheimensis, Or-
 dinis Diui Benedicti, quartus
 Polygraphiae Liber
 incipit.
-<Initial type="decorated-drop">C</Initial>RDO expostulabat ra-
+CRDO expostulabat ra-
 tionis quartum Polygra
 phiae nostrum librum,
 qualitate, inuentione facili-
@@ -13161,7 +13062,6 @@ tatem binarium reperitur dissensio:
 neque oportebit artis instrumentum o-
 perari volentẽ habere ad manum, quan-
 do pri-
-
 [segment 98]
 do primae succedens fine medio, latens ostendit mysterium. Vnde prudens, intelligẽs, &; expertus scientiam, omni tem pore &; loco, fatisfaciet operationi. Binarius ab vnitate recipit, vnde terna- rium producit. Facilis est huius crypto- logiae facie prima cognitio: posteaquam luna vel puncto vnico fuerit à sole illu- strata. Quamuis &; fieri possit, quòd gno sticus euadat industrius sine manudu- ctione magistri. Quod in isto tamen li- bro tantùm reor intelligendum, in prae- cedentium verò nullo. De sequentibus autem suo dabitur loco iudicium. Inter omnes quos dedimus praesentiatus cabalisticus arcanorum modus, istius li- bri quarti progressus facilior in infini- tum potest extendi. Quare sufficit me cupientibus ampliora formam tradidis- se simul &; causam exempli. Lumen in- telligentiae haec facilè penetrat omnia. Scripsi Peapolis, nona die Martij, Anno Domini millesimo quingen- tesimo octauo.
 A Baldach
@@ -13275,7 +13175,6 @@ Y nycanor Y tymolas Y tyrasat
 Z izachior Z azarias Z azifarat
 W duuesor W iuuaras w vuebrat
  K A iayma-
-
 [segment 99]
 514 POLYGRAPHIAE
 A iaymalo A cadon A samelech
@@ -13438,7 +13337,6 @@ Y tymolo Y syradas Y pysanor
 Z azulo Z azaridas Z oziamor
 w cuualio w cuuelas w cuualor
 K 4 A fare-
-
 [segment 100]
 520 POLYGRAPHIAE
 A saregon A panadox A hasolam
@@ -13597,7 +13495,6 @@ X axiomata X aziachym X aximas
 Y rymata Y symarym Y symonas
 Z azamata Z aziarym Z azarias
 w cuualta w huuarchym w buuaras A hamo-
-
 [segment 101]
 526 POLYGRAPHIAE
 A hamosin A nabal A panargos
@@ -13754,7 +13651,6 @@ X axion X axiora X aximas
 Y tyrimon Y symera Y rypidas
 Z azion Z azara Z azarepas
 w auuimilō w ouuymora w euuenulas A hama-
-
 [segment 102]
 532 POLYGRAPHIAE
 A hamalym A marbas A parason
@@ -13913,7 +13809,6 @@ Y lybidas Y mytela Y ryfiu
 Z azaras Z ezanula Z azariu
 w puuenas w iuuenula w cuualu
 A cades
-
 [segment 103]
 538 POLYGRAPHIAE
 A cades A madan A samaym
@@ -14050,7 +13945,7 @@ X exameras X axioli
 Y symaras Y ryniasi
 Z azurias Z azuli
 w cuuaras w cuuali
-A name<Gap reason="damaged" extent="remainder of word"/></Line>
+A name
 
 LIBER IV.
 143
@@ -14079,7 +13974,6 @@ Y tyrialo Y tymon
 Z azuphilo Z azaron
 W ruuero W buueson
 A madel
-
 [segment 104]
 544 POLYGRAPHIAE
 A madel A nafasor A parasan
@@ -14241,7 +14135,6 @@ Y tyrifas Y myparia Y rypai
 Z azarias Z ezaphria Z azafai
 w euuanas w ouucpila w auuadai
 M 3 De-
-
 [segment 105]
 Demonstratione poßibilitatis nouae adinuen-
 tionis nostra, quam breuiter nec minus suffi-
@@ -14278,7 +14171,7 @@ IOANNIS TRI-
 THEMII ABBATIS
 SANCTI IACOBI APOLITANI
 Polygraphiae liber quintus exordium capit.
-<Initial type="decorated-drop">E</Initial>A quae auxiliante Domino nostro Jesu Christo
+EA quae auxiliante Domino nostro Jesu Christo
 in quatuor praecedentibus libris pro comple-
 mento Polygraphiae nostrę vtcunque digessimus,
 rationabiliter exigunt, vt reliqua huiuf-
@@ -14321,7 +14214,6 @@ collocetur. Qualicunque modo scripseris
 ipsum aut memoriae tenaciter
 noueris cõmendandum, ne per obliuio-
 M5 nem
-
 [segment 106]
 554 POLYGRAP. LIB. V.
 nem lapsus, quod scripseras ipse legere
@@ -14410,7 +14302,8 @@ trorsum sunt xxiiij. Sinistorsum quoque totidem, deor-
 sum xxiij. &amp; sursum xxiij. Quae perxciij quater vi-
 gesies multiplicata in modum ouicis ad quatuor late-
 ra reducta faciunt alphabeta non minus quàm cxij.
-Sequitur eadem expansa tabula.</Line>
+Sequitur eadem expansa tabula.
+
 alco
 
 557
@@ -14426,7 +14319,6 @@ lae rectae.
 Haec est prima tabulae rectae figura expansionis, quinque habens alphabeta per metathesin, literis vt cernitur transpositis. In primo nanque alphabeto pro a accipitur b, pro b accipitur e, &amp; ita consequenter, vt partet clarius intuenti. In secundo alphabeto pro a accipiatur c. In tertio d, in quarto e, sicut ordinis docetur locatio.
 Expansio contineatur.
 Secun-
-
 [segment 107]
 558
 Secunda figura expansionis ta-
@@ -14508,7 +14400,6 @@ meritò nuncupatur. Nam alternatis committit errorem à duodecima retrorsum,
 nec in varians, nec īl. Quod cum norma dederit non vi-
 debatur alterandum.
 Continuatio tabulae. Secun-
-
 [segment 108]
 563
 Secunda figura expansionis ta-
@@ -14601,7 +14492,6 @@ funt nisi duo, prima in ordine alphabeta in ipsam respi-
 cientia, in quorum eclipsatur numero primo a. Reli-
 quas verò quatuor pro voto noua cudendi.
 OF-
-
 [segment 109]
 567
 ORCHEMA.
@@ -14750,7 +14640,6 @@ Scri-
 psi 16. Martij. Anno
 1508.
 Ordo
-
 [segment 110]
 574
 Ordo literarum nume-
@@ -14877,7 +14766,6 @@ dm. 500000 xxxxM. 3000000 MCM.
 dcM. 600000 lxM. 4000000 xCCM.
 DCCM. 700000 CM. 5000000 CCCM.
 O IOAN-
-
 [segment 111]
 578
 IOANNIS TRI-
@@ -14885,7 +14773,7 @@ THEMII ABBATIS
 SANCTI IACOBI MA-
 IORIS APOSTOLI HERBIPOLENFIS, liber Polygraphiae sextus
 initium sumit.
-<Initial type="decorated-drop">A</Initial>NTE omnem inuentionem et amp;
+ANTE omnem inuentionem et amp;
 vsum literarum in primordio
 mundi cùm homines adhuc ru-
 des essent ingenio, &amp; moribus
@@ -14910,7 +14798,6 @@ num diuersis artibus decorauit. Sub tribus autem in¬telligentijs memoratis Satu
 gentiam nominabant Zacharielem, quae dominium suscipiens mundi post Anaelem fecit homines domi-
 nandi cupiditate inquietos, venationes agere, tento-
 ria facere, & se varijs indumentis exornare.Facta est eo dominante pro Iouis qualitate, qui patrem regno priuauit, magna inter bonos malos diuisio, illis Deum inuocantibus, istis verò carni deditis mun-do. Sub eo regimine Adam primus homo est mortuus, testamentum omni relinquens posteritati semel mo- riendi.Quartus verò motor seu angelus Mercurij Ra phael post Zacharielem influens mundanis coepit an-no mundi millesimo quinquagesimo quinto in fine mensis Februarij, durauit vsque ad annum mundi millesimum quadringentesimum decimum, sub quo literarum vsus primo dicitur inuentus. Fuerunt au tem aliae literae tunc, vt referunt, ab his quas mundus hodie habet multum diuersae, ad formam similitu dinem arborum, plantarum, animalium excogi-tatae, quae tamen cum tempore postea multipliciter sunt immutatae, facilioremq́; formãdi modum sum-pserunt ornatum cultiorem. Mercurium enim fi-gmenta poetarum omnis literaturae praesidem esse di-xerunt, magna latere sub fabulis rerum arcana pro-mittentes. Humano post haec multiplicato genere, in omnem terram vbique, diffuso, non diu mansit vni- tas literarum, sed corporum animorum proculab inuicem diuisio, diuerfos varios inuenit modos scri-bendi, de quibus longa nobis narratio. Plato Philoso-phus
-
 [segment 112]
 phus in Phaedro, literas vsumq́; scribendi, simul et ra-
 tionem ponderum ludum alearum
@@ -14954,7 +14841,7 @@ DE ALPHABETO
 ET MODO SCRIBENDI
 Nortmannorum mirabili, eo tempore
 vastabant.
-<Initial type="simple">O</Initial>Mnes Graecorum et Palestinorum literae sunt
+OMnes Graecorum et Palestinorum literae sunt
 numerabiles, vt dictum est prius, cùm Lati-
 norum, quibus et nos coutimur Germani, duntaxat
 septem in numeros referantur, videlicet,c,d,i,l,m,y,
@@ -14985,14 +14872,11 @@ pro vicesima quarta nationis nostrae litera finetus
 apposuimus, quã iuxta Graeci numeri sic, nd forma-
 uimus. Hanc autem Nortmannorum scripturam ex
 sequenti ordine Graecarum literarum imita-
-tione ponamus.</div>
-<figure>
-<description>Alphabet and numbers arranged in a table: A 1 I Þ O T 13 17; B Z K 2 10 S 1H 18 ; C Y 3 L 4 II ⋓ 1G 19 ; D ß 4 m P̄ 5 z K 6 20 ; E e 5 n R 7 y X 8 21 ; F q 6 o S 9 1E 1S 3 KV 23 ; G h 8 p Q 1I 16 W 1K 24</description>
-</figure>
-<figure>
-<description>O 4 Hiins</description>
-</figure>
+tione ponamus.
 
+>
+
+>
 [segment 113]
 584
 Huius alphabeti ministerio Nortmanni quicquid
@@ -15017,9 +14901,10 @@ DE ALPHABETO
 ET RATIONE SCRIBENDI
 veterum Fran-
 corum.
-<Emphasis type="italic">G</Emphasis>Ermanos olim literas habuisse à Graecis plu-
+GErmanos olim literas habuisse à Graecis plu-
 rimorum opinio tenet, quos &; sermone vsos
-Graeco maximè in sacris constanter affirmant.</Line>
+Graeco maximè in sacris constanter affirmant.
+
 Dicunt
 
 585
@@ -15087,14 +14972,13 @@ CVM INVENIT.
 те шч Аръ съ у
 фо Шшрь фхз
 Quisquis vti voluerit praescriptis characteribus sub lineis more Graecorum non supra vt faciunt La-tini,nouerit esse scribendas. Similiter obseruandum quod literarum duplicium primae scribuntur in principio et amp; in medio dictionum, se-cundae verò semper in fine.
-
 [segment 114]
 588
 EX GRAMMATICIS
 OTFRIDI MONACHI
 VVISENBURGEN-
 SIS.
-<Initial type="drop">L</Initial>Egimus quòd Carolus Rex Francorum, cogno-
+LEgimus quòd Carolus Rex Francorum, cogno-
 mento Magnus, nationis suae misertus barba-
 riem Nannone Theobaldo, Albino, & Berengero ad-
 iutoribus linguam tentauit regulare Germanicam.
@@ -15180,7 +15064,6 @@ Hebraeorum more du-
 plices.
 Hichus
 1038647
-
 [segment 115]
 M A Q S X M N Y T V
 U B W H B N R Ψ ω
@@ -15316,7 +15199,6 @@ deducere progressionem, quemadmodum in praece-
 dente libro satis patet ostensum. Iam nunc alphabe-
 tum ex his ordinemus.
 P 2 A I A
-
 [segment 116]
 596
 a 1 a f 7 g ic 13 n ih 19 t
@@ -15389,7 +15271,7 @@ RABILI MODO SED NIMIS
 LABORIO SO SCRIBENDI
 M. T. Ciceronis, & post eum
 S.Cypriani Episcopi et Martyris.
-<Initial type="decorated-drop">N</Initial>ARCVSTullius Cic.facundas
+NARCVSTullius Cic.facundas
 Romanorumoratorlibrumscri-
 psit non paruae quantitatis no-
 tarum, quem S. Cyprianus Car-
@@ -15430,7 +15312,6 @@ videas Lector formam Ciceronis notandi
 paucas subÿcere notas sta-
 tuimus.
 appro-
-
 [segment 117]
 601
 V approbat W modestus epistola
@@ -15506,7 +15387,7 @@ ET NVERIS ALIISVE
 MVL TIS ET VARIIS MO-
 dis tuto scribere poßimus quaelibet
 secreta.
-<Initial type="simple">P</Initial>Verilia funt ista fateor, cum vnusquisque pro suo
+PVerilia funt ista fateor, cum vnusquisque pro suo
 captu arbitrio plura venustiora possit confin-
 gere alphabeta quàm nos in volumine consigna
 uimus. Propterea scienter plura obmittimus, quae simi-
@@ -15534,7 +15415,6 @@ chemate, quae lectione variata in modum erucis alpha-
 beta in se continebit sex nonaginta.
 Vide Tab. fol.605.hoc signo notat.
 (*) ** Orchema
-
 [segment 118]
 I m n o g
 p o u i l
@@ -15711,11 +15591,9 @@ Latinorum grammata transuersaliter à quatuor angulis sibi obuiantia locauimus, 
 praeberemus. Scribentibus opus erit industria, ne multitudo numerorum confundat memoriam vel intellectum.
  * *
  w z y x u t s r p o n m l k i g f e d c b A
-
 [segment 119]
 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z 1 2 3 4 5 6 7 8 9 0 Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz Ab Ac Ad Ae Af Ag Ah Ai Aj Ak Al Am An Ap Aq Ar As At Au Av Aw Ax Ay Az Ba Bb Bc Bd Be BfBg Bh Bi Bj Bk Bl Bm Bn Bo Bp Bq Br Bs Bu BV Wa Wb Wc Wd We WfWg Wh Wi Wj Wk Wl Wm Wn Wo Wp Wq Wr Ws Wu Wv Ww Xu Wy Wz Ba Ba Ba Ba Ba Ba Ba Ba Ca Ca Ca Ca Ca Ca Ca Ce Ce Ce Ce Ce Ce CfCe Ce Ce Ce Ce Ce CgCe Ce Ce Ce Ce Ce ChCe Ce Ce Ce Ce CiCi CiCi CiCi CiDi Di Di Di Di DiEe Ee Ee Ee Ee Ea Ea Ea Ea Ea Ea EbEb EbEb EbEb EcEc EcEc EcEc EdEd EdEd EdEd EfEf EfEf EfEf EgGg EgGg EgGg EhEh EhEh EhEh EjEj EjEj EjEj EkEk EkEk EkEk ElEl ElEl ElEl EnEn EnEn EnEn EpEp EpEp EpEp EqEq EqEq EqEq ExEx ExEx ExEx EyEy EyEy EyEy EzEz EzEz EzEz FaFa FaFa FaFa FgFg FgFg FgFgfHh HhHh HhHhfIi IiIi IiIIIfJj JjJj JjJJkfKk KkKk KkKKlfLl LlLl LlLLmfMm MmMm MmMMnfNn NnNn NnNNnfOo OoOo OoOOofPp PpPp PpPPqQq QqQq QqQQrRr RrRr RrRRsTs TsTstUu UuUu UuUUvVv VvVv VvVVwXx XxXx XxXXyYy YyYy YyYYzZz ZzZz ZzZZaa aa aa aabbbccc cccddddd eeee ffff gggg hhhh iiii jiji kkkk llll mmm mmmm nnnn oooo pooo qqqq rrr rr rrr ssss tttt uuu uu uuu vvv vv vvv wwww x xxx yyy zzz 1234567890AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZzaabbccccddddffffffiiijjjklmnopqrstuvwxzyaaaabbbbccccddeeffffiiijjjklmnopqrstuixyz1234567
 [Signature: J. H. D. M.]
-
 [segment 120]
 R A 2019-348765
 B I S G
@@ -15734,7 +15612,6 @@ THE PUBLICATION DATE IS JUNE 2020 AS INDICATED ON THE FRONT COVER.
 ALL OTHER NUMERALS APPEAR TO BE PART OF THE PRINTING PROCESS OR MANUFACTURING STAMP.
 PLEASE NOTE THAT THE TEXT CONTAINS ERRORS SUCH AS "CHEMI"CAL", "CHEMISTRY", "RESEARC"H", "CHEMI"T", [OCR artifact removed (vision-model repetition loop: 'CHEMISTRS' variants ×295); no corresponding text on the source page.]
 "CHEM
-
 [segment 121]
 606
 Prima tabula expansionis
@@ -15773,7 +15650,6 @@ mus. Nam ex illis quae iam exempli causa ostendimus,
 qui est intellectu idoneus maiora facilè consequetur.
 Omnia seruiunt arcanis.
 Secun-
-
 [segment 122]
 606
 Secunda tabula expansionis
@@ -15885,7 +15761,6 @@ rum singula per numeros alphabeta, quemadmodum
 Latinorum literis per ordinem videntur subiecta, vt
 qui per ea voluerit, sua mysteria velare tutius possit.
 A 18
-
 [segment 123]
 D Z ♒ ☉ ♋ ☇
 A 18 A 19 A 20 A 21 A 22 A 23 A 24
@@ -16003,7 +15878,6 @@ anno 1545. conscriptus et denuò
 editus.
 ANNO CHRISTI
 M. D. C.
-
 [segment 124]
 IOANNIS TRI-
 THEMI ABBATIS
@@ -16011,7 +15885,7 @@ SPANHEYMEN. LIBEL-
 LVS DE INTELLIGENTIIS
 coelestibus, orbes post Deum guber-
 nantibus.
-<Initial type="decorated-drop">V</Initial>ETERVM sententia est plurimo-
+VETERVM sententia est plurimo-
 rum, sapiẽtissime Caesar, mundum
 hunc inferiorem ordinatione pri-
 mi intellectus, qui Deus est, per se-
@@ -16026,14 +15900,10 @@ doctissimi hactenus praebuêre consensum,
 quam ego non asserendo, sed referen-
 do duntaxat facio tuae Maiestati
 Sacratiss. manife-
-stam.</Line>
-<Gap reason="illegible" extent="ca. 1 line"/>
-<Stamp description="ИСТОРИЯ ОБЩЕЙ И СТРАНАЖЕРІНГА"/>
-<Watermark description="O.M."/>
-<Gap reason="damaged" extent="Bottom edge of page"/>
+stam.
 
-<Initial type="decorated-drop">P</Initial>RIMVS Angelus, siue spiritus Sa-
-turni vocatur Orifiel, cui Deus mun- <Above>Orifiel.</Above>
+PRIMVS Angelus, siue spiritus Sa-
+turni vocatur Orifiel, cui Deus mun- Orifiel.
 dum à principio creationis gubernan
 dum commisit, coepitq́; regimen illius
 15.die mensis Martij,anno mundi pri-
@@ -16044,8 +15914,8 @@ nes fuerunt rudes et agresti, more bestiarum in so-
 litudine commorantes. Quod mea non indiget pro-
 batione, cum ex textu Geneseos omnibus fit mani-
 festum.
-<Paragraph>
-S Ecundus mundi gubernator est Anael, spiritus <Above>Anael.</Above>
+
+S Ecundus mundi gubernator est Anael, spiritus Anael.
 Veneris, qui post Orifielem regere caepit sui in-
 fluxum Planetae, anno mundi 354. mense quarto, hoc
 est 24. die mensis Iunÿ, &; mundum gubernauit an-
@@ -16061,7 +15931,7 @@ nirecithara canere, &; quicquidad Veneris pertinet
 rationem &; cultum excogitare,durauitq́; ista in ho-
 minbus lasciuia vitae ad diluuium, sumens argumen
 tum prauitatis suae.
-</Paragraph>
+
 Q 4 Tertius
 
 2 DE SECVNDEIS
@@ -16094,14 +15964,13 @@ mo ad modum seum formam arborum atq́;, plantarum
 excogitatae,quae tamen postea cum tempore &; cul-
 tiorem sumpsêre ornatum, &; caracterum faciem ad
 suum
-
 [segment 125]
 LIBELLVS.
 3
 suum gentes arbitrium mutauerunt. Musicalium quoque instrumentorum vsus sub regimen huius Ra-
 phaelis multiplicari coepit &; mercãtiarum primùm fuit commutatio per homines adinuenta: Nauigan-
 di quoque rudis audacia his temporibus primo fuit praesumpta, &; alia id genus multa.
-<Gap reason="illegible" extent="ca. 1 char"/>
+
 Vintus gubernator mundi fuit Samael, an- Samael.
 gelus Martis, qui coepit 26.die mensis Iunij,
 anno mundi 1417.gubernauit mundum annis 354.
@@ -16117,7 +15986,7 @@ minis Samael hunc manifestat suae medium excesse-
 rit quod idem de aliorum planetarum spiritibus est
 intelligendum, vt in historijs patet, qui omnes secun-
 dum proprietates naturae astrorum suorum,influunt et amp; operantur ad inferiora mundi huius.
-<Gap reason="illegible" extent="ca. 1 char"/>
+
 Extus mundi gubernator Gabriel Lu- Gabriel.
 nae,qui coepit post Samaelem Martis,28. die men
 Q5
@@ -16127,7 +15996,9 @@ sis
 
 fis Octobris, anno mundi 1771. mense 8. &; gubernauit orbem, 354. annos, menses 4.vsque, ad annos mudi.
 
-2126.His temporibus rursus multiplicati sunt homines,&; varias condiderunt vrbes.Et notandum,quod Hebraei dicunt diluuium factum,anno mundi,1656. sub regimine Martis.Sed septuaginta interpretes Isidorus &; Beda confirmant illud factũ,anno 2242. sub gubernatione spiritus Lunae Gabrielis, quod &; mihi veritati magis videtur consentaneum multipli catione,quam exprimere non est praesentis temporis.</Line><InterlinearNote>Michael.</InterlinearNote>S Eptimus mundi gubernator Michael fuit,Angelius Solis,qui coepit 24.Februarÿ,anno mundi secundùm communem supputationem 2126.&amp;; gubernauit orbem annis 354.menses quatuor,vsque,ad annum aetatis mundi,2480.menses 4.Sub Angeli Solis regimine sicuti historiae consonant veritati Reges inter mortales primùm esse coeperunt,inter quos Nemroth primus libidine dominandi super socios imperium tyrannidis inuasit.Cultus quoque Deorum stultitia hominum institutus fuit,&amp;; tenues suos ado rare principes vt Deos coeperunt.Variae etiam artes hoc tempore per homines fuerunt inventae:scilicet Mathematica,Astronomia,Magia,&amp; vnius Dei cultus diuerfis coepit exhiberi creaturis,&amp; veri cognitio Dei per superstitionem hominum in obliuionem pau latim deuenit.His quoque,temporib.Architectura inventa est,&amp;coeperunt homines politiorib.vti et amp; moribus et amp; institutis.</Line><InterlinearNote>Regum origo.</InterlinearNote><InterlinearNote>Idololatrię scaturigo.</InterlinearNote>Octauo</Line>
+2126.His temporibus rursus multiplicati sunt homines,&; varias condiderunt vrbes.Et notandum,quod Hebraei dicunt diluuium factum,anno mundi,1656. sub regimine Martis.Sed septuaginta interpretes Isidorus &; Beda confirmant illud factũ,anno 2242. sub gubernatione spiritus Lunae Gabrielis, quod &; mihi veritati magis videtur consentaneum multipli catione,quam exprimere non est praesentis temporis.
+Michael.S Eptimus mundi gubernator Michael fuit,Angelius Solis,qui coepit 24.Februarÿ,anno mundi secundùm communem supputationem 2126.&amp;; gubernauit orbem annis 354.menses quatuor,vsque,ad annum aetatis mundi,2480.menses 4.Sub Angeli Solis regimine sicuti historiae consonant veritati Reges inter mortales primùm esse coeperunt,inter quos Nemroth primus libidine dominandi super socios imperium tyrannidis inuasit.Cultus quoque Deorum stultitia hominum institutus fuit,&amp;; tenues suos ado rare principes vt Deos coeperunt.Variae etiam artes hoc tempore per homines fuerunt inventae:scilicet Mathematica,Astronomia,Magia,&amp; vnius Dei cultus diuerfis coepit exhiberi creaturis,&amp; veri cognitio Dei per superstitionem hominum in obliuionem pau latim deuenit.His quoque,temporib.Architectura inventa est,&amp;coeperunt homines politiorib.vti et amp; moribus et amp; institutis.
+Regum origo.Idololatrię scaturigo.Octauo
 
 OCTAVO dehinc ordine rursus Orifiel Saturni
 Angelus, mundum gubernare coepit 26. die
@@ -16159,7 +16030,6 @@ Deo colere et amp; honorare coeperūt, qui error plus quàm
 duobus millibus mundum occupauit annis. Introdu-
 centes Idololatrie incremen-
 tum.
-
 [segment 126]
 6 DE SECVNDEIS
 centes curiosos corporis ornatus, & varia genera mu-
@@ -16213,16 +16083,20 @@ mortui inter Deos relati putabantur. Videlicet Pho-
 noreus, qui leges et iudicia primus apud Graecos in-
 stituit, Sol, Minerua, Ceres, Serapis apud Aegyptios,
 & alij complures.
-<InterlinearNote>Prome</InterlinearNote>
-<InterlinearNote>theus.</InterlinearNote>
-<InterlinearNote>Phono-</InterlinearNote>
-<InterlinearNote>reus.</InterlinearNote>
-<Paragraph>
- <Line><Initial type="decorated-drop">O</Initial>Rdine vndecimo Raphael spiritus Mercurÿ i-</Line>
- <Line>terũ mundi regimen suscepit prima die men</Line>
- <Line>fis Iulÿ anno mundi 3543.mense 4.&amp; praefuit anni</Line>
- <Line>354.mensibus 4.vsque ad annum creationis Coeli et amp;</Line>
- <Line>ierrae 3897.&amp; 8.mensem. His verò tẽporibus,vt clarè
+Prome
+theus.
+Phono-
+reus.
+
+ORdine vndecimo Raphael spiritus Mercurÿ i-
+
+terũ mundi regimen suscepit prima die men
+
+fis Iulÿ anno mundi 3543.mense 4.&amp; praefuit anni
+
+354.mensibus 4.vsque ad annum creationis Coeli et amp;
+
+ierrae 3897.&amp; 8.mensem. His verò tẽporibus,vt clarè
 patet ex veterum historijs,homines sapientiae operam
 magis dederunt, inter quos fuerunt vltimi clarißimi
 viri Mercurius,Bachus,Omogyrus,Isis,Inachus,Ar-
@@ -16231,8 +16105,7 @@ tionibus et amp; mundo tunc profuerunt et amp; posteriori.
 Variae quoque his temporibus superstitiones in cultu-
 ra idolorum per homines fuerunt institutae,in canta-
 zionesq́; artes imaginum diabolicarum mirum in
-modum</Line>
-</Paragraph>
+modum
 
 8 DE SECVNDEIS
 
@@ -16246,12 +16119,11 @@ Hebraeorum populum à seruitute Aegyptiorum in libertatem vindcauit.
 
 Circa hoc tempus Saturnus, qui stercore agros pinguari docuit, & pro Deo habitus fuit.
 
-Cadmus inuentor literarum in Italia primus regnauit, post quem Saturnus, qui potens subregimine huius Raphaelis Angeli Mercu-rij legem populo suo per Mosen dedit in scriptis, quae Christi futura natiuitati in carne testimonium red-dit manifestum. Mirabilis quoque in mundo religionũ fuit suborta diuersitas. Multae quoque, his temporibus floruerunt Sybillae, prophetae, Arioli, Aruspices, Magi. Vates, vt Sybilla Erythrea, Delfica, Phrygiaq́; cum caeteris.</I> <Gap reason="illegible" extent="ca. 1 char"/> <Illegible reason="blot" extent="ca. 2 chars"/></Gap>
-
+Cadmus inuentor literarum in Italia primus regnauit, post quem Saturnus, qui potens subregimine huius Raphaelis Angeli Mercu-rij legem populo suo per Mosen dedit in scriptis, quae Christi futura natiuitati in carne testimonium red-dit manifestum. Mirabilis quoque in mundo religionũ fuit suborta diuersitas. Multae quoque, his temporibus floruerunt Sybillae, prophetae, Arioli, Aruspices, Magi. Vates, vt Sybilla Erythrea, Delfica, Phrygiaq́; cum caeteris.  
 [segment 127]
-<Paragraph><Initial type="simple">D</Initial>Vodecimo autem ordine mundum denuò re-gere coepit Samael Angelus Martis, 2. die mensis Octobr. anno mundi 3892. mense 8. durauitq́;, regimen eius annis 354. mensibus 4. vsque ad annos 4252. Sub cuius regimine fuit magnum illud ac fu-mosißimum excidium Troianum in Asia minore, fa-ctaq́;, est Monarchiae multorumq́;, Regnorum admi-randa mutatio et amp; multarum de nouo ciuitatum in-stitutio, vt Parisiensium, Moguntiae, Carthagini, Nea-polis, &amp; aliarum multarum. Multa etiam regna de novo</Line></Paragraph>
+DVodecimo autem ordine mundum denuò re-gere coepit Samael Angelus Martis, 2. die mensis Octobr. anno mundi 3892. mense 8. durauitq́;, regimen eius annis 354. mensibus 4. vsque ad annos 4252. Sub cuius regimine fuit magnum illud ac fu-mosißimum excidium Troianum in Asia minore, fa-ctaq́;, est Monarchiae multorumq́;, Regnorum admi-randa mutatio et amp; multarum de nouo ciuitatum in-stitutio, vt Parisiensium, Moguntiae, Carthagini, Nea-polis, &amp; aliarum multarum. Multa etiam regna de novo
 
-<MarginalNote placement="left_margin"><Emphasis type="underline">Excidium Troianũ.</Emphasis> <Illegible reason="faded" extent="ca. 1 word"/></MarginalNote><MarginalNote placement="left_margin"><Emphasis type="underline">Parisius.</Emphasis> <Gap reason="illegible" extent="ca. 1 char"/> <Illegible reason="faded" extent="ca. 1 word"/></MarginalNote><MarginalNote placement="left_margin"><Emphasis type="underline">Moguntia.</Emphasis> <Gap reason="illegible" extent="ca. 2 chars"/> <Illegible reason="faded" extent="ca. 3 chars"/></MarginalNote>
+Excidium Troianũ. Parisius.  Moguntia.  
 
 LIBELVS.
 9
@@ -16291,7 +16163,7 @@ Homerus.
 [Illegible: reason="scribbled", extent=ca. 1 word or symbol]
 
 10 DE SECVNDEIS
-<Illegible reason="faded" extent="ca. 2-3 chars"/>
+
 Rdine tertio decimo, Gabriel spiritus Lunae
 denuò regimen mundi suscepit 30. die Ianua-
 rij, anno ab origine vniuersi 4252. &amp; praefuit impe-
@@ -16318,8 +16190,7 @@ ruerunt, &amp; ex hinc philosophi et amp; poetae in precio ha-
 beri coeperunt. Imperauit autem Romae primus vrbi
 conditor Romulus anni 37.fratricida et amp; cultor sedi-
 tionis.Post quem Numa Pomp.anni 42.qui cultum
-Deorum ampliauit,tempore Ezechia Regis Iudao-<Gap reason="damaged" extent="ca. 1 char"/>TMN
-
+Deorum ampliauit,tempore Ezechia Regis Iudao-TMN
 [segment 128]
 LIBELLVS.
 12
@@ -16334,11 +16205,10 @@ R
 dos.
 
 12 DE SECVNDEIS dos, quod et de vltimis fecisset, nisi Rex suorum con- filio persuasus, eos ab interitu dato praetio redemis- set, quod pro omnibus fuerat postulatum. Item Ro- mani abrogatis Regibus duos per annum cōsules con- stituerunt. Phaleris tyrannus Siciliam ijs temporibus occupat. Magia quoque temporibus istis apud Reges Persarum magno in praetio fuit. Pythagoras philosophus et multi alij apud Graecos tunc floruerunt. Templum Hierosolymis et ciuitas reaedificatur. Esdras propheta libros Mosi cōbustos à Chaldaeis, qui et Ba- bylonij fuerunt dicti, memoria vsus pro Archetypo re- parauit. Xerxes Rex Persarum exercitum aduersus Graecos duxit, sed parum profecit. Roma capitur, incenditur et destruitur à Gallis, capitolio duntaxat excepto, tutato ab ansere, pugiles lassos suscitante. Atheniensium bella famosißima ijs quoque temporebus fuêre. Socrates et Plato philosophi tunc temperis vixerunt. Romani iterum abrogatis consulibus, Tribunos et Aediles instituerunt, fueruntq́; his temporibus multis calamitatib. inuoluti. Alexander quoque Magnus post regimen Michaelis exactum in Macedonia regnauit. Monarchiam Persarum in Dario destruxit, & suo imperio totam Asiam cum parte Europae subiugauit: vixit annis 125 mensibus quinque, post cuius mortem infinita bella furunt subsecuta, & multa mala, & diuisa est Monarchia in quatuor. Apud Hebraeos pro sacerdotio summomo concertari coeptum est. Regnum Syria inchoatur. Post-
-
 [segment 129]
 LIELLVS.
 13
-<Initial type="simple">P</Initial>Ost Michaelem ordine decimoquinto, iam ter-
+POst Michaelem ordine decimoquinto, iam ter-
 tio spiritus Saturni Orifiel, regimen orbis af-
 sumpsit, vltima die mensis Septembris, anno condi-
 tionis vniuersi 4960.mense 8. &amp; praefuit annis 354.
@@ -16411,7 +16281,6 @@ strueretur Babylon.Ab hinc regnum Iudaeorum abla-
 tum est,victimaeq et amp;iuge sacrificium cessauerunt,
 nec restituetur Iudaeis libertas,ante tertiam revolu-
 tionem
-
 [segment 130]
 LIBELVS.
 15 tionem Michaelis spiritus, haecꝙ fiet post Christi na-
@@ -16430,7 +16299,7 @@ tur, & Iudaei in omnem terram disperguntur, inter-
 feciꝰ vndecies centum millibus et venditis 80000.
 reliqui fugerunt, & sic Romani Iudaeam penitus de-
 struxerunt.
-<Gap reason="damaged" extent="small hole"/>
+
 Ordine 16. post Orifielem Anael spiritus Vene-
 ris regimen totius mundi tertia vice resum-
 psit, vltimo die Ianuarij. Anno conditionis Coeli et terra 5315. à Christi verò natiuitate 109. & guber-
@@ -16448,7 +16317,7 @@ caepeant, quae non sine labore et sanguine bonorum viro-
 LIBELLVS.
 17
 In Asia et Palestina secuta sunt bella, pestilentiae et fames in istis locis in quibus cruces apparuerunt. His quoque temporibus circa annos Domini 360.Franci in Germania sumpserunt initium, qui postea Galliam deuastantes suo nomine victam Franciam nuncupa-uêre. Descriptio Franciae fuit magnitudine longa et lata,cuius Metropolis Moguntia,nunc verò Herbipo- lis sola.Bauari,Rhenenses,Saxones,Thuringi et circumsiti Pontificatus magnam hodie partem Franciae in Germania occupant.Item anno gubernationis huius Anaelis 280.Romanum inclinari coepit imperium,cùm vrbs capta fuit à Gottis et incensa, sede prius imperiali sub Constantino in Graeciã translata,quod initium fuit et causa totius inclinationis Monarchiae.Nam circa finem huius regimenti Anae-lis surrexerunt Radagistes,Athaulfusque, Re-ges Gottorum.Item postea Gensericus Vandalorum,Athila quoque Hunorum,q; imperium miserabiliter lacerauerunt,vt in his historijs patet.
-<Gap reason="illegible" extent="ca. 1 char"/>
+
 P Ost Anaelem ordine 17.Zachariel spiritus Io-puis regimen vniuersale tertia vice resumpsit primae die Iunij,anno mundi 5669.mense 4.Do-minicae verò Natiuitatis 463.mense 7.& praefuit anni 354.mensibus quatuor,vsque ad annos mundi 6023 mensemque 8.Domini autem 817.Multi his temporibus amore philosophiae Christianae,sese ad E-remun contulerunt,multa etiã apparuêre portenta,
 R 4 Come-
 Frācorum Germano-rum origo siue initia.
@@ -16457,7 +16326,6 @@ Inclinatio Romani imperij.
 Gothorum Vandalo-rum.
 Hunorum irruptio-nes.q
 Come-
-
 [segment 131]
 18 DE SECVNDEIS
 Cometes,
@@ -16509,7 +16377,6 @@ est proprium spiritus, imperia mutare et amp; regna,quod
 in hac reuolutione factum,multipliciter historie de-
 clarant,&amp; quod ipse facere non potuit Raphael An-
 gelo
-
 [segment 132]
 LIBELLVS.
 23
@@ -16691,7 +16558,6 @@ QUARTA ET FOURDAY, MONTH, YEAR.
 TERTIA ET DAYS, MONTH, YEARS.
 ET UNA ET ONE MILLENDAR, DECADE, DOWENT, CENTURY, AND Measure of Time and
 SECTA
-
 [segment 133]
 24 DE SECVNDEIS
 tari terras Christinorum, Constantinopolim et amp; Gra
@@ -16754,7 +16620,6 @@ dã Ianuenfis à Turcis capitur,&; paulatim tota Grae-
 cia defecit à fide Christiana.Porrò enim tempore
 multa regna &; prouinciae Christianom à Turcis
 vaftantur &; tapiuntur.Multũ Christiani bella in-
-
 [segment 134]
 26 DE SECVNDEIS
 bellorum multus.
@@ -16834,7 +16699,6 @@ stitutionis religionis.Ab hinc anno Christianorum
 Maximili-
 nus Imp.
 Notabile
-
 [segment 135]
 28 DE SEPT. SECVND. LIBEL.
 1508.restant anni vsqꝫ ad finem gubernamenti Sa-
@@ -16846,12 +16710,12 @@ cruces in vestimentis hominum visae ante decennium
 quod praeterijt suum ostendent effectum, sed 13. ab
 hinc iure citatus locum dabis nescienti, maior post
 fata resurges misi licet nebula tegas.
-<sup>3</sup>
-O <Emphasis type="colored">Rdine vicesimo Gabriel Angelus Lunae mun-</Emphasis>
+3
+O Rdine vicesimo Gabriel Angelus Lunae mun-
 di regimen recipiet, anno mundi 6732.men-
-se 4.die mensis Iunij 4.anno Christianorum 1<Emphasis type="colored">5</Emphasis>25.
-<Emphasis type="colored">&amp;</Emphasis> mundum gubernabit annis 354. mensibus 4.vsqꝫ
-ad annos mundi 7086.<Emphasis type="colored">&amp;</Emphasis> mensem 8.Dominicae verò
+se 4.die mensis Iunij 4.anno Christianorum 1525.
+&amp; mundum gubernabit annis 354. mensibus 4.vsqꝫ
+ad annos mundi 7086.&amp; mensem 8.Dominicae verò
 natiuitatis 1879.menses similiter 11.Huius revolu-
 tionis futura series prophetiam requirit.
 Non haec assertiuè scripsi sacratißime Caesar, qui-
@@ -16859,9 +16723,9 @@ bus cum iniuriâ Orthodoxa fidei nulla est ratione
 credendum.Sunt verò qui menses in his supputauêre
 Lunares, quibùs consentiendum si duxeris, mutandae
 sunt ea, quae aliter scripsi.Manu quoqꝫ meá propriâ
-protestor,<Emphasis type="colored">&amp;</Emphasis> ore confiteor,quod in his omnibus nihil
-credo,nihil<sup>3</sup>, admitto vt vana conflicta <Emphasis type="colored">et</Emphasis> super-
-stitiosa refuto <Emphasis type="colored">et</Emphasis> con-
+protestor,&amp; ore confiteor,quod in his omnibus nihil
+credo,nihil3, admitto vt vana conflicta et super-
+stitiosa refuto et con-
 temno.
 Laus Deo omnipotenti.
 FINIS.
@@ -16880,7 +16744,7 @@ quod praeterijt suum ostendent effectum, sed 13. ab
 hinc iure citatus locum dabis nescienti, maior post
 fata resurges mihi in tertio nisi licet nebula tegas.
 Ordine vicesimo Gabriel Angelus Lunae mun-
-di regimen recipiet anno mundi 6729 men<Gap reason="damaged" extent="ca. 4-5 letters"/>n<Gap reason="damaged" extent="ca. 1 letter"/>
+di regimen recipiet anno mundi 6729 menn
 | | | | | | | |
 | 0 | 5 | 10 | 20 | 30 | 40 | 50mm|
 |___|_____|_____|________|__________|_________|
@@ -16909,7 +16773,6 @@ cruces in vestimentis hominum visae ante decennium
 quod praeterijt suum ostendent effectum, sed 13. ab
 hinc iure citatus locum dabis nescienti, maior post
 fata resurges mihi in tertio nisi licet nebula tegas.
-<Gap reason="illegible" extent="ca. 1 char"/>
-Ordine vicesimo Gabriel Lunae mun-
-di regimen recipiet, anno mundi 6732.men- <Gap reason="damaged" extent="remainder of line cut off by image edge"/>
 
+Ordine vicesimo Gabriel Lunae mun-
+di regimen recipiet, anno mundi 6732.men- 

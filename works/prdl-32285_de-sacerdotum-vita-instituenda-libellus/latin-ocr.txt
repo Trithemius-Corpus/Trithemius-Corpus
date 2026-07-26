@@ -56,7 +56,7 @@ GRATIA EPISCOPVS
 Gurcensis vniuerso Diaece-
 seos suae Clero gratiam et amp; salutem in
 Domino.
-<Initial type="decorated-drop">P</Initial>osteaꝗ̈ in ea tempora
+Posteaꝗ̈ in ea tempora
 incidimus, quibus maxi-
 mè, si vnꝗ̃ anteà, creber-
 rimis ad clerum exhor-
@@ -154,8 +154,7 @@ ad Nicolaum Mernicensem Presby
 terum de Sacerdotum Vita
 instituenda libellus.
 Caput primum.
-<Figure>
-</Figure>
+
 ETIS à me NICOLAE
 frater amantissime, &amp; cre
 bris Epistolis instas vt tibi
@@ -169,9 +168,9 @@ se res B
 B 10234567890-+*()_!~:;.?/`|&lt;&gt;
 &lt;&gt;==&lt;-&gt;=&lt;-&gt;&lt;-&gt;-&lt;-&gt;-&lt;--&lt;-&gt;
 &lt;-&gt;-&lt;-&lt;-&gt;-&gt;-&lt;-&amp;-&lt;-&gt;
-&lt;-&gt;-&lt;&gt;-&lt;-&gt;<Gap reason="damaged" extent="ca. 1 char"/>E<Gap reason="damaged" extent="ca. 1 char"/>
+&lt;-&gt;-&lt;&gt;-&lt;-&gt;E
 &lt;-&gt;-&lt;/Gap>
-&lt;-&gt;-&lt;</Gap>
+&lt;-&gt;-&lt;
 
 se res ita habeat, malo tamen aemulatio-
 nis subire iudicium, quàm charitatis in te
@@ -237,7 +236,6 @@ abiectis superfluatibus, libere ad
 Deum ascensum paremus in cogitatione.
 Crines namꝗ̈; capitis, superfluentes ter-
 rena
-
 [segment 3]
 renę designant actionis. Et sicut ex suꝑ-
 fluitate humoris crines capitis ꝓueniūt,
@@ -327,7 +325,6 @@ iam est vt plurimum status credentium,
 & est sicut populus, sic etiam Sacerdos.
 Omnes auaritiae student, à maiore vfq́;
 ad infimū
-
 [segment 4]
 ad infimū. Vę genti peccatrici, quae sem-
 per ad grauiora prolabitur, dum pari de
@@ -392,7 +389,7 @@ DE FUGIEN-
 DE FUGIENDO
 consortio mulierum.
 Caput secundum.
-<Initial type="decorated-drop">D</Initial>E foeminarum autem fa-
+DE foeminarum autem fa-
 miliaritate (quae sacerdoti-
 bus Dei ꝑniciosissima est)
 quid dicam, cum decretae
@@ -409,7 +406,6 @@ ronymum legislatorem meum constituit?
 Sacrosancta inquã Ecclesia vniuersalis
 dicta illius approbat, inter Canones pre-
 cepta
-
 [segment 5]
 cepta eius de hac materia lata locat, & tu cõtra tantam autoritatem prę sumis? Sed dieres: Legem hanc abrogauit consuetudo contraria, quae pro iure ex multo tempore est habenda. Sed mentitur iniquitas sibi, & stulta cõsideratione in semetipsa decipitur. Consuetudo bonis moribus cõtraria, nunꝗ legem aut tollere, aut constituere potest. Et quid tam contrariũ honestati sacerdotali, quã adolescentularum cõtubernio delectari? Periclitatur castitas, vbi inter mulierculas, sacerdotum transit societas. Prima enim fortiffima clericorum tentamenta, ex frequenti acceffu mulierum proueniũt. Multos prostrauit stulta pręsumptio, qui manibus (vt ita dixerim) instrumenta victoriae hostibus tradide-runt. Difficillimè vitatur periculum, si occafio non vitetur. Enimuerò dum foemina
 
@@ -514,10 +510,9 @@ ptura, nec differas de die in diem, quoniã
 
 quantò poenitentiam diutius distuleris,
 
-tantò minus aptus ad poenendum eris.</Line>
+tantò minus aptus ad poenendum eris.
 
-Ascende nunc mentis tuae speculam, & vide<Gap reason="damaged" extent="ca. 1 char"/>
-
+Ascende nunc mentis tuae speculam, & vide
 [segment 6]
 wide stultorum infaniam Sacerdotum, q̃
 à vilibus concubinis ducuntur captiui,
@@ -598,11 +593,10 @@ sed omnis sollicitudo in consolatione plo-
 rantis cõsumitur. Cadunt verba ex ore
 orantis confusa, crebrisq́; infantuli oscu-
 lis interrupta, adeò vt oratione cõpleta,
-vix se meminerit orasse. Interea nola<Emphasis type="colored">m</Emphasis>
-trahit Aedituus, ad sacrificandũ altare <Gap reason="damaged" extent="ca. 2-3 letters"/>com-</Line>
+vix se meminerit orasse. Interea nolam
+trahit Aedituus, ad sacrificandũ altare com-
 
 componitur, à populo in Ecclesia hieros expectatur. Accurrit lotis manibus in lotio pueri Sacerdos, vestes sacratas quanta potest festinatione induit, sacrificium DEI districta mente consumit. O conscientia, vbi interim manes, vbi contempta iaces? O tu miser ꝗ Dei filiũ pollutis manibus cõtractas, quousq́; animam tuam vulneras, laceras, et interim? Qua deniq́; temeritate accedis ad altare, corpore animo pollutus? Nisi magna omnipotẽtis Dei miseratio ad tempus tibi parceret, te in altari, Angeli provocati, indignatione graui percutent. Vbi est votum castitatis perpetuae, quod in manus Episcopi (cúm te ordinaret) promisisti? Vbi est sacerdotij tui assumpti reuerentia? Quousq́; longanimitatẽ Dei comtemnis? An ignoras quòd patientia Dei
-
 [segment 7]
 Dei ad poenitẽtiam te adducit? Tu autẽ secundùm duritiam tuam , & cor impae- nitens , thesaurizas tibi iram in die irae, & iusti iudicij Iesu Christi. Puto quidem in futurũ poenitere cogitas , sed quàm fit proxima , poenitentiae amputatrix mors minimè pensas. Enimuerò misericors DEVS, qui veniam poenitenti pro-misit , differenti diem crastinum non spo- pondit. Clericum autem, quem foemina cohabitans semel captiuum abduxerit, nunꝗ̈ aut rarò liberum, nisi morte inter-ueniente, dimittit. Transeo quòd multi concubinarũ dolis et maleficijs vsque adeò plerunq́; dementantur, vt se ab illarum turpissimo amore nequaquam possint excutere.Horret auditus facinora metricum, nec pudicitie synceritas au-dire patitur, qualia per Sacerdotum con-cubinas quandoq́; perpetrãtur.Ex Ka-tamenio
 
@@ -674,7 +668,6 @@ nitur ad pessima facta. Multos enim de-
 cepit incauta foeminarũ allocutio. Omni
 tempore vigilans esto, nec tibimetipsi vn
 quam
-
 [segment 8]
 quã confidẽdum duxeris, quãdiu in carne viuis. Complures enim in senectute lapsos agnouimus, qui sibi de victoria praeterita securi videbantur. Nunquam etenim deest homini tentatio, quousq́; in hac vita conuerfatur. Si verò curam do mesticam sine ministerio famulae probã assumito, de cuius cohabitatione nulla in populo suspicio oriri possit. Veruntamen hoc ante omnia caueas, ne in famulam maritatam sumas. Quod enim Deusconiunxit, homo non separet. Non caret suspicione mali, cohabitatio vxoris viri alieni. Volo te, quòad fieri potest, testimonium bonum habere ab omnibus. Reddant te aliena pericula cautum, & vbi multos cecisse conspicis, ne incautus ambulare velis. Memento quòd fortissimivirip̃ sapientissimi: Viri ab Origine Mundi vsque
 
@@ -781,7 +774,6 @@ narij ad remedia poenitentiae salutaris rà
 rò veniant, quia vitam adhuc diu
 prolongari sperant. In tantum quippe
 nonnulli
-
 [segment 9]
 nonulli diabolicis dementãtur illecebris,
 vt nihil aliud quàm carnalia cogitare ua
@@ -849,7 +841,7 @@ bonus erit.DE RE-
 
 DE REMEDIO CONTRALVXRIAM.
 Caput tertium.
-<Initial type="decorated-drop">C</Initial>Onsueuere Medici primùm
+COnsueuere Medici primùm
 aegrotis grauitatem morbi
 subtili disputatione ostẽde-
 re, &amp; tunc demum remedij
@@ -887,7 +879,6 @@ pata in aliquo exercitio. Exemplũ sume
 in sancto Dauid, qui occupatus bellicis
 rebus, luxuriã domuit: ociosus in domo
 consistens, adulterium commisit. Dum manus
-
 [segment 10]
 manus vacat ab opere, mens languet in cogitatione. Si ergo cupis libidinem vin- cere, ocium fuge. Quibus autem exerci- tijs tempus accõmodare debeas, paucis si placet, accipito. Mane assuescas ante lucem de somno exurgere, &; orationibus tam canonicis, quàm votiuis aliquantu- lum vacare. Cumque pensum seruitutis sacris deinceps uacabis, donec te ad Mis- sam celebrandam ex officio vocatum in- telligis. Post Missam orationibus denuò vacandum est, &; sacris meditationibus quàm deuotissimè insistendum. Denique manibus laborandum, domus curanda negotia, &; si qua pro necessitate fuerint ordinanda, cum Dei timore disponantur. Opus autem manuale Sacerdotis est, scri bere, codices à se vel ab alijs descriptos impressosuè ligare, caeterisq́; honestis la- boribus
 
@@ -975,7 +966,6 @@ nebit, & allidet paruulos suos ad petrã.
 Petra autẽ (inquit Apostolus) erat Chr̃s.
 Recordatio etenim Dominicae passionis,
 omniũ
-
 [segment 11]
 omnium tentationũ efficacissimum reme-
 dium est. Enimuerò quem Christi passio
@@ -1027,7 +1017,7 @@ DE LECTIONE ET
 STVDIO SCRIPTV-
 RARVM.
 Caput quartum.
-<Initial type="decorated-drop">S</Initial>CIO et amp; expertus sum,
+SCIO et amp; expertus sum,
 quòd efficacissimum contra
 omnes tẽtationes remediũ,
 est studiũ, &amp; lectio scriptu
@@ -1065,7 +1055,6 @@ multa legere et intelligere. Enimuerò si-
 cut dixit Magnus ille Gregorius Nazian
 zenus, & poﬅ cum Papa Romanus: Ars
 artium
-
 [segment 12]
 artium est regimen animarũ. Qui autem nihil in Scripturis sanctis didicit, quid alios docebit? Aut quam in praedicando Sacerdos vtilitatem auditoribus suis afferre poterit, q̃ scripturas nescit? Vẽ nunc temporibus nostris, in quibus est si-cut populus, sic Sacerdos. Studium scri- pturarum Sacerdotes nostri abijciũt, eru ditionem negligunt, pro libris scriptura-rum, aues et canes enutriunt. Uiderint Episcopi, qui tales idiotas et inscios ad sacerdotij dignitatem promouent, qui im-peritis pastoribus curam ouium Christi commēdant. Recede de consortio eorum, qui scientiã abijciunt, qui lectionem scri-pturarũ negligunt, qui studium contem-nunt. Nihil aliud, quam mundanum sa-piunt, nihil quam vanum diligunt, nihil nisi carnale intelligunt. Citò subuertẽt te si in conuentum eorum frequenter tran- fieris.
 
@@ -1113,7 +1102,7 @@ ptiuus abducitur, cõcordia fraternae dile
 ctionis violatur. Sacerdotes nostri mun
 danis
 
-<Initial type="simple">E</Initial>danis cupiditatibus effluunt , corrigere vitiofos non pręsumũt : quia se deliquisse in maioribus agnoscunt . Pauci etenim sunt , qui moribus sanctis in Ecclesia núc fulgeant , pauci com̃issum sibi gregem verbo exemplo debitè informant . Nec mi rum si minores vacent à studio scriptura rum , cùm inter Praelatos paucos inuenias , qui veterum exemplis inhaereant . Eliguntur enim vt plurimū non doctiores . Codices scripturarum aut nullos habent , aut paucos , quippe qui odio scientiam persequútur . Nihil adeò Ecclesiasticam dignitatẽ minuit , contemptibilem reddit , sicut ignorãtia Praelatorũ . Cum olim Episcopi , Abbates , ac caeteri Praelati Sacerdotes animű scripturis intenderét , non tam facilis criminibus et peccatis
+Edanis cupiditatibus effluunt , corrigere vitiofos non pręsumũt : quia se deliquisse in maioribus agnoscunt . Pauci etenim sunt , qui moribus sanctis in Ecclesia núc fulgeant , pauci com̃issum sibi gregem verbo exemplo debitè informant . Nec mi rum si minores vacent à studio scriptura rum , cùm inter Praelatos paucos inuenias , qui veterum exemplis inhaereant . Eliguntur enim vt plurimū non doctiores . Codices scripturarum aut nullos habent , aut paucos , quippe qui odio scientiam persequútur . Nihil adeò Ecclesiasticam dignitatẽ minuit , contemptibilem reddit , sicut ignorãtia Praelatorũ . Cum olim Episcopi , Abbates , ac caeteri Praelati Sacerdotes animű scripturis intenderét , non tam facilis criminibus et peccatis
 
 peccatis aditus patebat. Amor etenim ac
 scientia scripturarum, mundum docent
@@ -1137,7 +1126,6 @@ dit eos: quoniam qui auertit aures suas
 ne audiat legem, oratio eius erit execrabi
 lis.
 E 4
-
 [segment 13]
 lis. Non ergo mirentur Sacerdotes, quòd contemnunt laici, quoniam ipsi spernunt mandata Chri. Timeo autem uehemēter, in breui contra clerum grauiora futura. Sed de his hactenus. Tu verò, non quid alij faciant, sed quid tibi fit faciendum, considera. Multi enim ad sacerdotium in Ecclesia Dei uocati funt, pauci vero electi. Summopere igitur curandum nobis eft, vt qui in fortē Domini affciscimur, etiam eligamur. Quid prodeft hic sacerdotio breuiffimo tẽpore fungi, fi separari contingat à confpectu Dei? Nihil ergo melius, quàm incoelestibus defiderium figere, facrae lectionis ftudio infiftere, prae sentia pro Dei amore spernere, futura cogitare. Hinc Petrus in aurora dicit: Nil homini melius, quàm fi diuina legendo, figat ibi mentem, quò fibi vita venit. Legendis itaque fcripturis, continuũ ftudium
 
@@ -1171,7 +1159,7 @@ DE AVARITIA ET
 CVPIDITATE
 fugienda.
 Caput quintum.
-<Initial type="decorated-drop">Q</Initial>Vamquam in principio ser-
+QVamquam in principio ser-
 monis nostri cõtra auaritiã
 cupiditatem disputaue-
 rimus, certa nihilominus
@@ -1229,7 +1217,6 @@ laecem ex sibi commißis anime perirent.
 Sed mirum non est si alienam negligat, ꝗ́
 propriam damnat. Quisquis enim cor
 suum
-
 [segment 14]
 suum auaritię cupiditati semel submi-
 serit, nunꝗ̈ aut rarò liber erit. Semper
@@ -1250,7 +1237,7 @@ locat, lanam lac de ouibus recipit, sed
 gregem pascere contemnit. Vae (inquit
 Propheta) pastoribus, qui pascunt semet
 ipsos. Putant se à noxa liberos, qui per
-dispensationem summi Pontificis multa</romani>benefi-
+dispensationem summi Pontificis multabenefi-
 
 beneficia obtinent: sed quid requiratur ad istam impetrationem, non pensant.
 Tu autem sta, & noli trãsgredi terminos antiquos,
@@ -1319,7 +1306,7 @@ CONVERSATIONE
 Sacerdotũ exteriori.
 Caput sextum.
 
-<Initial type="decorated-drop">C</Initial>ONsidera nunc qualẽ con-
+CONsidera nunc qualẽ con-
 uersationẽ tuam debeas in-
 stituere, qualemq́; te opor-
 teat viuere, vt omnipotẽti
@@ -1333,9 +1320,9 @@ camini, qui fertis vasa Domini. Et Do
 minus dicit: Lauamini, mundi estote,
 auferte malũ cogitationũ uestrarũ ab ocu-
 lis meis, quiescite peruerse agere, discite
-benefacere, dicit Dominus omnipotens.</Line>
-F 2 Quantũ
+benefacere, dicit Dominus omnipotens.
 
+F 2 Quantũ
 [segment 15]
 Quantum verò ad exteriorem hominem pertinet, Apostolus Episcopum instruiens dicit: Oportet Episcopum irreprehensi-bilem esse, sobrium, pudicum, benignum, ornatum moribus, hospitalem, docibilem.
 Quicquid autem Episcopo in hoc loco pręcipitur, etiam cęteris Pręlatis et Presby teris mandatur. Et primùm qđem cũm dicit, eum oportere esse irreprehẽsibilem,
@@ -1360,7 +1347,7 @@ vacare. Esto mente corpore quietus,
 noli per vicos vicinorum domos di-
 scurrere, noli fabulis rusticorũ interesse.
 Minuit enim praesentia famam, parit
-in populo sacerdotis familiaritas contemptum.</font></line>
+in populo sacerdotis familiaritas contemptum.
 
 ptum. Rarus autem egressus in publicũ,
 magnam tibi in plebe reuerentiam matu-
@@ -1447,7 +1434,6 @@ cium prodeat, sermo turpis ex te nõ pro¬
 cedat: sed esto custos linguę tuae, ne offen¬
 
 das im
-
 [segment 16]
 das in sermone. Non sis acidiosus et pi-
 ger, neque somno inertiae deditus, sed
@@ -1520,7 +1506,6 @@ ratione sui trahere laborat. Stulta enim et dãnabilis abusio est, omissiones sc
 Hinc Hieronymus ait: Volvere verba et celeritate dicendi apud imperiũ vulgus admirationem suę facere, indoctorũ hominum est. Attrita frons interp̃tatur saepè quod nescit, & cum alijs suas erit, sibi quoque usurpat scientiam, quam non habet. Nihil tàm facilè, quàm vilemple beculam et indoctam concionem linguae volubi-
 
 volubilitate decipere, quę quicquid non intelligit, plus admiratur. Tu autem lo- quere quae decent sanam doctrinam, & imperitorum applausum noli quaerere, si locum inter doctos cupis inuenire. Curã animarũ imprudẽter noli cõcupiscere, ni- si prius te alios secundũ Ecclesiasti cam sanctione iustè didiceris gubernare. Magisteriũ etenim populi multis ꝑiculis subijcitur, quotidianis anguistijs tribulatur. Oportet enim rectorem anima rum sine crimine esse, sicut Dei dispensatorum, non iracundum, turpis lucri cupidum, sobrium, iustum, be- nignum, amplectẽtem qui secundũ doctrina est fidelem sermonem, vt potẽs sit exhortari in doctrina sana, eos q̃ contradicunt, arguere. Oportet eum qui rector
-
 [segment 17]
 rector animarum constitutus est, non mi-
 nus exemplo docere quàm sermone. Ac-
@@ -1630,7 +1615,6 @@ moueatur, aut corporali subdatur suppli-
 cio. Luxuriosa enim res est vinum, &
 contumeliosa ebrietas: omnis qui miscet̃ his,
 his,
-
 [segment 18]
 his, nō erit sapiēs. Qui absque vino ardet,
 ardore adolescētiae, & inflamatur calore
@@ -1704,7 +1688,7 @@ QVALIS DEBEAT ESSE
 SACERDOS IN CON-
 uersatione interna.
 Caput septimum.
-<Initial type="decorated-drop">Q</Initial>VO niam verò non sufficit
+QVO niam verò non sufficit
 ministro Christi honestam
 coram hominibus cõuersa-
 tionem ducere, nisi coram
@@ -1713,7 +1697,6 @@ parere, exhortor te vt cor tuum in timo-
 re omnipotentis dirigas, & nullas vnꝗ̈
 contra Deũ cogitationes admittas. Opor-
 tet enĩ
-<Gap reason="damaged" extent="ca. 1-2 words"/>
 
 tet enim Sacerdotẽ Dei sanctum esse mẽte
 corpore, & mundum in cogitatione.
@@ -1736,7 +1719,6 @@ in fide ꝓximũ odit. Christus enim Deus
 homo est. Totum ergo Christum non
 diligit, qui hominem odit. Nullum opus
 bonum
-
 [segment 19]
 bonum Deus accipit, nisi quod flamma
 charitatis in ara cordis accendit: Chari-
@@ -1825,7 +1807,6 @@ qui militãt Regi terreno, omnibus iussis
 eius obediunt, &amp;amp; quocunque mittuntur,
 parati et amp;amp; prompti sunt, nulla se vxoris
 vel
-
 [segment 20]
 vel liberorum gratia excusantes, ita mi
 litem Christi mandatis eius in omnibus
@@ -1885,12 +1866,12 @@ Terrarum
 
 Terrarum tenebras lumine dissipes:
 Purus terribili sacrifices DEO,
-Sacramen<Emphasis type="italic">ta</Emphasis>q; des, cum reuerentia,
+Sacramentaq; des, cum reuerentia,
 Emitis purpureo sanguine gentibus.
 Tu sedem Domini, tu solium tenes,
 Vt lumen fidei fallere nescium,
 Et legem, eloquio ac moribus, exprimas:
-Vt<Above><Emphasis type="italic">a</Emphasis></Above>; annum radijs Sol facit vtilem,
+Vta; annum radijs Sol facit vtilem,
 Sic mundum facias lumine fertilem.
 Tu regale decus magnifici Iouis
 Exaltata tenes, vt moderamine
@@ -1901,7 +1882,8 @@ Unxit sacrifico te Deus vnguine,
 Reddens omnigeno munere fulgidam.
 Cum sis ergo nitens multiplici bono,
 Si fortassè alijs, non mihi displices.
-Verùm sollicitè te monitam velim,</Line>
+Verùm sollicitè te monitam velim,
+
 Tecum
 
 49
@@ -1949,7 +1931,6 @@ Carnis templa tuae sordibus inquines,
 Vel mens illicitis aestuet ignibus.
 Saltem vos aliquis corripiat pudor,
 Mystae
-
 [segment 21]
 Mystae syderei principis inclyti,
 Ne post hac libeat subdere liberam
@@ -2034,7 +2015,7 @@ ALVD
 CARMEN DE
 DIGNITATE
 Sacerdotum.
-<Initial type="decorated-drop">V</Initial>IRI venerabiles Sacer-
+VIRI venerabiles Sacer-
 dotes DEI,
 Praecones altissimi, lucer-
 nae diei,
@@ -2068,7 +2049,6 @@ Cum pastores ouiium sitis constituti,
 Non estote desides sicut canes muti,
 Vobis non deficiunt latratus acuti,
 Lupus rapax inuidet ouiium saluti. Grex
-
 [segment 22]
 Grex fidelis triplici cibo sustinetur,
 Corpore Dominico, quo salus augetur,
@@ -2232,4 +2212,3 @@ Factus adulter?
 
 FINIS.
 Ex passis moneor commodo ferre malis. C.
-

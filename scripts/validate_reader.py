@@ -296,7 +296,7 @@ def validate_source_contracts(errors: list[str]) -> None:
         ('class="skip-link" href="#main"' in base, "base template has no main skip link"),
         ('<main class="container" id="main">' in base, "base template has no main target"),
         ('<div class="site-title">' in base, "site masthead still owns the page h1"),
-        ('class="pp-latin" lang="la"' in parallel, "parallel template does not identify Latin"),
+        ('class="pp-latin' in parallel and 'lang="la"' in parallel, "parallel template does not identify Latin"),
         (
             'aria-live="polite" aria-hidden="true"' not in parallel,
             "parallel template hides an aria-live region",

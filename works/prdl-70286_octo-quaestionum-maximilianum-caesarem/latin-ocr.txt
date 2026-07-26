@@ -11,7 +11,7 @@ Erläuterung
 
 Die Online verfügbaren digitalen Angebote der Wolfenbütteler Digitalen Bibliothek stehen allen Interessierten weltweit frei unter einer CC BY-SA Lizenz zur Nutzung zur Verfügung. Neben den in http://creativecommons.org/licenses/by-sa/3.0/de/legalcode ausgeführten allgemeinen Einschränkungen ist bei einer Nachnutzung Voraussetzung, dass a) der Urheber in der nachfolgend beschriebene Form genannt ist und dass b) das Angebot unter den gleichen Bedingungen, d.h. vor allem frei und unentgeltlich, erfolgt.
 
-a) Bei der Namensnennung (BY) ist Folgendes zu beachten (vgl. CC BY-SA, Abschnitt 4.a und 4.c). In Digitalisaten angebrachte Herkunftsnachweise – typischerweise die Fußleiste - dürfen als Nachweis nicht entfernt werden.<sup>1</sup> Zugleich muss auf der Angebotsseite an geeigneter Stelle, in jedem Fall aber innerhalb der Domain des Angebotes ein Nachweis in der folgenden Form angebracht werden: Sofern ein eigener persistenter Link (PURL, URN, etc.) verwendet wird, muss der persistente Link der Wolfenbütteler Digitalien Bibliothek über, unter oder neben dem eigenen persistenten Link stehen.
+a) Bei der Namensnennung (BY) ist Folgendes zu beachten (vgl. CC BY-SA, Abschnitt 4.a und 4.c). In Digitalisaten angebrachte Herkunftsnachweise – typischerweise die Fußleiste - dürfen als Nachweis nicht entfernt werden.1 Zugleich muss auf der Angebotsseite an geeigneter Stelle, in jedem Fall aber innerhalb der Domain des Angebotes ein Nachweis in der folgenden Form angebracht werden: Sofern ein eigener persistenter Link (PURL, URN, etc.) verwendet wird, muss der persistente Link der Wolfenbütteler Digitalien Bibliothek über, unter oder neben dem eigenen persistenten Link stehen.
 Im Druck:
 
 [CC BY SA logo]
@@ -21,9 +21,9 @@ oder
 [CC BY SA logo]
 http://diglib.hab.de/inkunabeln/14-astron/start.htm
 
-<sup>1</sup> Beigefügte Maßstäbe unterliegen nicht dieser Beschränkung und dürfen entfernt werden.
+1 Beigefügte Maßstäbe unterliegen nicht dieser Beschränkung und dürfen entfernt werden.
 
-<sup>2</sup>Zum Zitieren Wolfenbütteler Digitalisate s.: http://diglib.hab.de/?link=033
+2Zum Zitieren Wolfenbütteler Digitalisate s.: http://diglib.hab.de/?link=033
 
 Im Internet (HTML Quelltext):
 
@@ -35,7 +35,7 @@ z.B. © [Autorname] ist folgende Form einzuhalten:
 Im Druck:
 
 Im Internet (HTML Quelltext):
-Z.B © Flemming Schock. Work originally published by HAB Wolfenh et amp;amp;#x00FC;tte<Illegible reason="blot" extent="ca. 2 chars"/>&lt;a href="http://diglib.hab.de/edoc/ed000155/start.htm "&gt; http://diglib.hab.de/ed000155/<Illegible reason="faded" extent="start."/>htm</a><Illegible reason="faded" extent="ca. 3 chars"/></p>
+Z.B © Flemming Schock. Work originally published by HAB Wolfenh et amp;amp;#x00FC;tte&lt;a href="http://diglib.hab.de/edoc/ed000155/start.htm "&gt; http://diglib.hab.de/ed000155/htm
 
 b) Bei der Bereitstellung unter gleichen Bedingungen ist zu beachten, dass das Werk frei,
 unentgeltlich und im Geiste der Förderung der Kultur und Wissenschaften zur Verfügung gestellt
@@ -46,7 +46,6 @@ die Nutzer kostenpflichtig erwerben müssen, zugangsbeschränkte Online-Angebote
 Nutzungsarten, die ausschließlich auf Werbung oder andere nicht-wissenschaftliche Zwecke
 zielen. Für alle zuletzt genannten Fälle muss eine kostenpflichtige Sondernutzung vereinbart
 werden.
-
 [segment 2]
 Yg 51
 0 1 2 3 4 Gray Scale
@@ -77,7 +76,6 @@ MOGVNTIAE
 In Offici-
 na Typographica Ioannis Al-
 bini. Anno 1601.
-
 [segment 3]
 P I M V R O
 L
@@ -649,7 +647,6 @@ scripsi vnquam, vel scripturus sum, eius
 determinationi et iudicio totum
 volo esse subiectum.
 RIC-
-
 [segment 4]
 RICHARDI SBRVLII FO-
 ro Iuliani,
@@ -757,7 +754,6 @@ natij solarem, de terreno colligata non potest, scilicet di-
 cente Christophilo Paulo: quamdiu sumus in car-
 ne, peregrinamur â Domino, Deum cognoscere
 intelle-
-
 [segment 5]
 AD MAXIM. CAESAREM.
 intellectus est puri, simplicis atque perfecti, sed hu-
@@ -865,7 +861,6 @@ ans vanar,
 nup spiritu
 filipos par
 ex his que s
-
 [segment 6]
 AD MAXIM. CAESAREM.
 non potest humanus intelligere Deum, interme-
@@ -938,7 +933,6 @@ omnium quae cognitioni mortalium subiciuntur.
 Enimuerò cum sit super omnia, nihil eorum esse
 potest, quae illi sunt subiecta-Propterea pulchre si-
 mili-
-
 [segment 7]
 AD MAXIM. CAESAREM.
 7
@@ -1106,7 +1100,6 @@ telligatur à nobis, quamdiu morta-
 les in carne versamur.
 (*:*)
 (*) DE FI-
-
 [segment 8]
 AD MAXIM. CAESAREM.
 9
@@ -1153,7 +1146,6 @@ Christi posse saluari, quantumlibet sanctè vel
 iustè viuat, quantumlibet religionisuae paternae
 vel alteri confidat. Christus est salus, extra fidem
 Christianā nemo saluabitur. Adquid enim Christus Dei
-
 [segment 9]
 [illegible]12. IOA. TRITEMI OCTO QVAEST.
 ris,&quos declinaturos praenouit ad malum, in
@@ -1189,7 +1181,6 @@ virgine homo in tempore Mediator costituitis Dei et hominum, ipse est per quem a
 ad Deum, ipse est Salvator omnium fidelium de
 quo male fentis qui fine fide Christiana quaepiam
 posse
-
 [segment 10]
 AD MAXIM. CAESAREM.
 13
@@ -1268,7 +1259,6 @@ ficut et
 publica tione c
 enim C
 nitifico
-
 [segment 11]
 minem in qualibet secta extra fidem Iesu Christi af-
 firmauerit, vel in corde suo crediderit non est bo-
@@ -1341,7 +1331,6 @@ per poenitentiam, increduos verò condemnat per
 iusticiae aequitatem.
 Hinc interclufapulfauit animum quaestionoua:
 quid
-
 [segment 12]
 AD MAXIM. CAESAREM.
 17
@@ -1415,7 +1404,6 @@ Iam nunc in eos concludamus sententiã, qui no-
 bis, ista secundum Christi doctrinam catholice as-
 ferentibus, ardua consideratione obiciunt. Ad
 quid D millia scivir thanos rociar Arctim sacuir in Chr uocio, Quire repert califa midy taufa ternas nullifera nerbera arta du munda carum incroce uentru rium Quo distinctio dubio qui pa Der ch̃ ro falsa sed mihi quem liberam
-
 [segment 13]
 q̃d Deus omnipotenꝰ cum summe fit bonus, tot
 millia hominum creare voluit, quos ab aeterno prę-
@@ -1517,7 +1505,6 @@ initio for
 um natura
 iam pene
 DFG
-
 [segment 14]
 AD MAXIM. CAESAREM.
 21
@@ -1558,7 +1545,6 @@ mur,B 3
 22 IOA. TRITEMI OCTOQVAEST.
 mur tunc maiora et rariora inusitationis cuncta apparebunt. Modus autem in Deo faciendi miracula est voluntas incommutabilis Dei, qui cum sit omnipotens facit omnia quaecunque voluerit in coelo et interra. Ipse enim dixit, & facta sunt, ipse mandauit et creata sunt. Voluntas Dei ordinata est et sempiterna proptera miracula eius caeteris' incomparabiliter sunt maiora. Cunctis enim huius mun di miraculis maius est quod cernimus totum Vniuersum, & quicquid continetur in eo, Dei vouluate creatum. Operatur omnia diuina voluntas incommutabilis perfeuerans, quoniam et princi- pio caret et fine, sed quicquid vult Deus, semper vult, quia cum idem fit apud eum et velle et posse non est penes incommutabile laborare. Vnde cuncta miracula vniuerfalia quae conditor facit vniuersorum, & bonis et malis spectanda exhibuit. Atque post generalia, que iam vsu voluerunt apud mortales, in fingulis penè creaturis infinita quoque specia-liter miranda demonstrauit.
 Secundus miraculorum effector, bonus est Angelus, qui miranda plerumque mortalibus, tam virtute naturali, quam diuina potestate operatur.Mittuntur enim beatifsimi illi Spiritus ordinatione diuina in ministeriu fidelibus, qui et bonis et malisea quae sunt naturae beneficia praestant. Solis autem credentibus in Deum et dominum nostrum Iesum Christum donũ gratiae salutaris administrant.Vn-de nõ est dubium, ea miracula quae fiunt inuocatio-ne diuina nominis in Ecclesia sanctorum, ministeriorio et cooperatione ipsorum exhiberi, sed mirdandainfidelium, si quae vel hodiè fiunt vel olim factaleguntur, aut conflictaut ementita sunt, aut daemonũ ludificatione parantur.Non enim fieri potest vtmini-
-
 [segment 15]
 ministerio bonorum Angelorum infideles quique miracula faciant: Quoniam vbi Christus Iesus Dei filius nõ creditur,nulla gratiae signa per bonos spi-ritus impiis reprobis hominibus exhibentur.E-nimuerò cum sint in errore falsae religionis abstinati si quid miraculi fuerunt in sua aestimatione af-fecuti per ministerium fieri daemonum nullatenus est dubitandum.Nam cum sint bonis angelis om-nino dissimiles, nullam eorũ affequuntur familia-ritatem.Nullus enim contemptor fidei Christianae Deo placere potest,sed quisquis omnipotenti Deo displicere coïncitur familiaritate sanctorum angelorum procul dubio priuatur.Per hoctamen non retractamus omnem bono alicui spiritui commissum cuius ministerio,etiamsi sit incredulus Dei filio,beneficia naturę suscipiat,quam-uiscaddona gratiae non pertingat.His verò qui cre-dunt indominum nostrum Chrestum nõ sol-lum naturae beneficia conferunt,sed etiam gratie munera ministrant.Manifestum est ergò,quod si-quae fiunt apud infideles miracula,nõ Dei munere,neque sanctorum ministerio angelorum fieri pote-runt,cum extra vnitatem Ecclesiae omnes sint posi-ti signa per iusticiam publicam ab impijs neque-ant operari.Deus etenim sicut dictum est,iram su-am originalem ab homine non remouet nisi per fi-dem Iesu Christi,sed omnis qui incredulus est Dei filio,non videbit vitã aeternã,sed ira Dei manet su-per eum:Omnis ergo quẽ manet ira Dei,Deo placere nõ poterit, ideo qua ad eius preces fiũt miranda,non Dei virtute,nec angelorũ ministerio.sed daemonũ potius suppositione credãtur actitata Tertius mirandoru effector est diabolus,qui quasi Simia imitari cõciscit quodicunque viderit, mētesB4homi-
 
@@ -1597,7 +1583,6 @@ titantes, aut discurrenres laruati subitò crumpen-
 tes de latibulis fuis coaeuos nil latè suspicantes ex
 inopinato terrore concutiunt, & rurfus ne cognos-
 cantur
-
 [segment 16]
 AD MAXIM. CAESAREM.
 cantur se iterum abscondunt, qui cum nescientes
@@ -1670,7 +1655,6 @@ dicã maiora, sicut vos in plerisque probatio fecit ex-
 ptos quis neget daemones subtilioris naturae et amp; ma-
 ioris experiẽtię plura posse operari naturaliter mi-
 randa qui nullę hominũ sunt manifesta. Quar-
-
 [segment 17]
 AD MAXIM. CAESAREM.
 27
@@ -1744,7 +1728,6 @@ crudelitatem illorum. Sed nihil horum apud infi-
 deles agitur, vbi nec in operante sanctitas, neque in
 patiente fides orthodoxa inuenitur.
 Tertiò igitur miracula fecit homo mediante coope-
-
 [segment 18]
 cooperatione diabolicae prauitatis. Et hoc fieri po-
 test tripliciter, manifesta videlicet inuocatione dae-
@@ -1848,14 +1831,12 @@ perfida
 quorum
 del va
 ban.
-
 [segment 19]
 AD MAXIM. CAESAREM
 tos a spasmo negare non possim. Item verbis et herbis fortisimis quodam aperuiffe feras mihi constat, quod neg; Dei virtute, neg; violenția rerum appofitarum exiftimo factum. Innumera quae vidi, & audivi possim introducere similia, quorum effectus manefi quid alhid, quam quaedam damo num miracula sunt denig; nonulli homines ni- min curiosi qui characteribus schedulis, annulis, figuris, monilibus, & vocabulis ignotis fidei et confidentiam pertinaciter adhibentes mirandos sapè confequuntur effectus, quos neg; sanctitas merito, neg; Dei conceffos miferatione, fed persida potius credulitate subminiftraffe diabolum mini- mè dubiramus. Daemones enim maximam humani generis inuidiam habentes, vt animas perdant mortalium, libenter occurrunt vanis operationibus impiorum. Quid nam sunt alhid characteres et occulorum interpretationes nominum, quam efculenta quaedam et potagia daemoniorum? Qui- cunque characteribus mirabiles effectus promitten- tibus, fidei adhibet, & fidei Chrifti et Ecclesiam sanctorum implicite negauit. Heu quor hodie Christiani, quot cleri, quot facerdotes (vt ma- ioribus parcam) superfitionibus et multis et variis vtuntur in actionibus quotidianis, quibus implicatas daemonum, sequuntur pastiones, in contumeliam Chriftiana fidei et propriam con- demnationem. Et quia haec mala iam nimium funt inter Christianos multiplicata, retraxit omnipotens manum, & tradixit eos in distio- nem perdiforud vt exaectores poenarum illos feniant, quorum imitatione non Deo viuo et vero, fed vanis superfitionibus pertinaciter militabunt.
 Suppo-
 3: IOA, TRITEMII OCTO QVAEST.
 Suppositione autem daemonum miranda fieri manifeste cognoscimus si diligentius veritatem inquirimus. Iudzini namq, Seraceni, Pagani sue gentiles qui non credunt in Deum Dominum nostrum Iesum Christum, si qua faciunt miracula, non Dei virtute, non angelorum ministerio, non sanctitatis merito, fed daemonum credimus suppositione facta. Nam quotiens omnipotentem Deum, in cuius vigenitum filium non credunt, pro aliquius mirandi effectus miferatione inuocant, iuens diabolus, quid non est peccatoribus falsus, & quia non exaudit altissimus peccatores infideles, vreos in errorib. conferunt. pertinaces, fe occulte pro Deo inuocato applicat, & fi potefi, permittente domino, quod postulatur orribus praefat. Hac diabolus suppositione tanto, liberius vitur, quanto minus a fide Christi et Ecclesia sacramenti simperditur. Manet enim ira Dei super omnes infideles, qui non credunt in eius vigenitum filium, & fuit in potestate diaboli. Ac ideo fe inuocatibus, ingreit in loco Dei. Vnde in suis errorib, obecati Dei innocens, in cuius filii no credut quos in ira manetis audire cui deficit, falsus miraculorur operator diabolus accedit. Credunt ergo iudificationibus diaboli, qui credere cotemunt veris miraculis Dei. A daemonib. falla miracula suis coenientia errorib. accipunt, qui veritatem, id est, Christi, sequi credendo no luerit. Multi fuit apud infideles, qui vnu Dei creatorum omnium colentes, idola non adorant et firmiter credunt in sua fe fide faluandos. Veru quia mysterium dominice incarnationis credere deficiunt, manet super eos ira Dei, & in suis fatuitatis bus euaneunt, exiftantes si Deum esse proximum, in quem non recte credunt fubliciturunt daemon.
-
 [segment 20]
 AD MAXIM. CAESAREM.
 nibus, quorum falsis miraculis fidem adhibentes in suis errorib. mendacio confirmantur. Cuius rei si-
@@ -1899,7 +1880,6 @@ nia miracula veritatis. Vnde si qua hodie miranda
 faciunt, daemonum sunt opera et manifesti indicia
 erroris. Maximè enim demonẽs studio inuihilant, vt
 cos
-
 [segment 21]
 AD MAXIM. CAESAREM.
 35
@@ -1941,7 +1921,6 @@ uerò quamdiu versatur in corpore spiritus, nihil natura
 naturaliter intelligit sine ministerio sensus. Vnde non obniterer penitus, si confusum et rudem intellectum nõtrum pari concedant ministerio adiuuari. Cernimus enim in his qui plerumque amoris interni ad Iesum desiderio carnis modum contemplantes excedunt â terra sursum leuatos in aẽra, quos non sua dunctaxat acie mentis, sed diuina nihil ominus virtute pondus exedere corporale putamus. Tria igitur memorata opinionis principia incognita multis satisfaciunt mea sententia paucis, vt mens in corpore posita rem dico expertam. Cum profequerer adolescens studia literarum, in vno lecto quatuor eramus nocte quadam dormientes, furrexit è latere meo coaevus et dormiens vt solebat in somnis oculis clausis et luna introlucente quinta decima, quasi vigil circumambulabat, ascendit muros, & ciurum agilitate sua vincebat, lectum quoque secundo et tertio sopitus transcendit, caleauit nos pedibus omnes, nec magis sensimus pondus, quam simus nos contigisset exiguum. Quocunque dormiens corpus mouebatur subitò ianuarium omnes vltra aperiebantur clausurae. Altiora domus, aedificia velocissimè penetrauit et more passeris hęrebat in tectis. Visa loquor nõ va ga relatione audita. Haec animae nõ corporis videtur officia, quae sua naturali potestate, vt ita dixerrim, quasi liberè vtitur, quando ligatis sensibus carnis extra domicilium corporis euagatur. Sed cum non fit propositae quaestioni, materia ex omni parte conueniens, de causis horum mirabilium in aliud
 D
 D
-
 [segment 22]
 E S T.
 Vnde tem in-
@@ -2071,7 +2050,6 @@ scrip num
 nis,c̃e
 Papa mõdi
 qvon tum modi mylɔ nulo
-
 [segment 23]
 AD MAXIM. CAESAREM.
 nem, nunquam perceperunt. Quemadmodũ si pue-
@@ -2147,7 +2125,6 @@ est tarditas ingenij, nostri quoque impuritas desiderij
 quoties diuinas scripturas non rectè intelligimus,
 quando videlicet velamen pernitiosae occupationis
 super
-
 [segment 24]
 AD MAXIM. CAESAREM.
 super cordibus nostris manet expansum quod non
@@ -2216,7 +2193,6 @@ quam homo dare non potest. Nisi forsitan pergatis
 dicere insani conficta omnia, &amp; nihil restare post fa-
 taquam cineré, mētemque simul cum corpore subire
 interi-
-
 [segment 25]
 AD MAXIM. CAESAREM 43
 interitum, quae profefsio non minus vos infanos de-
@@ -2289,7 +2265,6 @@ bestia quae tetigerit montes lapidibus obruatur.
 Quid hic designatur per bestiam? nisi homines imi-
 tatione brutorum fine Dei amore viuentes in vo-
 luptatibus
-
 [segment 26]
 AD MAXIM. CAESAREM.
 45
@@ -2358,7 +2333,6 @@ stans nunquam errauit Christi
 pietate salua.
 * * *
 DE RE-
-
 [segment 27]
 AD MAXIM. CAESAREM 47
 DE REPROBIS ATQVE
@@ -2461,7 +2435,6 @@ Petrarcha
 tito filius
 cultans
 testis est
-
 [segment 28]
 AD MAXIM. CAESAREM.
 Dominum nostrum Iesum Christum per sanctitatis meritum fecerit Deo acceptabilem et amicum, sic enim de vere credentibus in Dominum Iesum scriptura dicit: Et eis dedit potestatem super omnia demonia. Imperant ergò démonibus homines mali, quos illis malevolentia similes; similúdo familiares et familiaritas proprios fecit atque subiectos. Quemadmodum si magno principi (quod fieri saepè contingit.) seruorum quispiam humili natus loco diuturna familiaritate coniunctus imperare dicatur; quo totum quod postulauerit sine contradictione assequitur, vt magis, ipse dominum regere, quam ab eo regi videatur. Iuxta hanc similitudinem homines mali et reprobi, qui à démonibus in eorum admittuntur familiaritatē et fiunt protractediore confidentia multum audaces, accipiunt simulatum in illos, ne dicam familiare imperium, quod prauissimae voluntatis similitudine meruerùt. Vnde quicquid â démonibus sibi ex cópacto implectio explicito concurrentibus expositione luctaverint accipiũt, nisi quoties ordinatione diuina prohibiti, p̃stare nequeunt quod petitur. Nec tamẽ passim reprobis et malis, ita occurrunt omnibus; sed illisduntaxat, cum quibus interueniente compacto aliquo foedera inierunt, vt sunt maleficae mulieres que homagium praestitere Diabolo: & inuocatores illidémonum quos visitato vocabulo Necromanticos vulgus nuncupat.
@@ -2503,7 +2476,6 @@ viuere. Maleficarum aliae carminibus, daemones
 aduocant, aliae praecationibus et sacrificijs eos al-
 liciunt, reliqui nefandis rebus et ceremonijs eos
 prouo-
-
 [segment 29]
 AD MAXIM. CAESAREM 51 prouocantes in adiutorium impietatis suae trahunt.
 Mirandum igitur non est, quod maleficae daemoni-
@@ -2576,7 +2548,6 @@ habere consortium. Certum est enim quod sancti et amp; Deo dilecti homines in pr
 rum Ecclesia maiora quondam bonorum coopera-
 tione spirituum beneficia praestitere mortalibus
 quam
-
 [segment 31]
 AD MAXIM. CAESAREM.
 quã prauorum hominum impietas dae-
@@ -2647,7 +2618,6 @@ bissimus, Deo cupit in omnibus videri comparan-
 dus. Enimuerò quemadmodum omnipotens Deus
 quaedam in Ecclesia sua Sacramenta instituit, quae
 digne A1 digne min signant perante fa petit, qua ranquam S his qithu assiste, malũ esse cit. Om̃ rum applicat in mate liquand Mulierr uata, eta tran ab ipsis occurru demon que pad monib fidem rantib rum do con pante tū peri infunie uit in l dumba extium neque demon malesque
-
 [segment 32]
 AD MAXIM. CAESAREM.
 digne ministrantibus ipso assistente salutarem de-
@@ -2720,7 +2690,6 @@ petratum: animo furens ac voluntate deprauata
 malefica: cooperatio quoque familiaris diabo-
 lica:
 lica: num no traci n necdia diabolo nullail fuerit Vtitu taqu quo mon cem omi conc diuer tivint qua P igno nec gi lu fa Ch ca lun mo nu qn gq
-
 [segment 33]
 AD MAXIM. CAESAREM 59 lica: & ante omnia permissio diuina. Quod si v- num istorum non concurrerit maleficium perpe trari non poterit. Nam si Deus non permitteret, nec diabolus quicquam nec malefica posset. Et si diabolus prauae mulieris voluntati non occurreret, nullũ illa maleficiũ ꝑpetraret. Rursũ si malefica de fuerit, diabolus maleficiũ nullatenus confumabit. Vtitur enim voluntate furentis maleficae diabolus, tanquam artifex instrumento ad operandum, sine quo non potest inferre maleficium. Et sicuti dae mones in potestate acumineque subtilitatis ab inui cem differunt, ita maleficarum potestas non est in omnibus vna, sed in singulis, pro vt daemonibus concurrunt natura subtilioribus vel grossioribus, diuersa. Multa enim sunt genera daemonum, &; cer tis inter se gradibus distant, ratione locorum, in quae cadentes à principio sunt detrusi. Primum quidem genus daemonum appellatur igneum, quod circa superiorem peruagatur aerem nec vnquam ante iudicij diem ad inferiora demer gitur, sed continuè sub regionibus permanentes lunaribus, nullum habent cum hominibus inter ra commertium. Quod verò sub luna permaneat, sanctus testatur Augustinus in opere de agone Christiano, sic dicens: daemones non habitant in caelo, vbi sol &; stellae sunt, sed omnes sub regione lunari versantur. Hinc motus vt reor, Apuleius, dae monia dixit animalia esse ignita, propterea quod Aristoteles confirmauit in fornacibus ardentibus quaedam animalia parua sapius visa volitasse pe nualis apta, quae totum aeuum suum diuersantur in igne, quoniã cum igne oriuntur &; cum eo extin guuntur, &; ad suum vnde venerant locum euane- fcentes
 
@@ -2760,7 +2729,6 @@ ful Ambrosius dicit, plenus est mundus sanctorum
 virtutum, quia plenus est nequiciarum. Vnde Pla-
 tonici daemones in aëre volantes in modum den-
 fissimae
-
 [segment 34]
 AD MAXIM. CAESAREM.
 61
@@ -2834,7 +2802,6 @@ dicuntur. Qui verò habitant in locis ficcioribus et amp; subaridis, quoties hom
 parent visibiles, in virose transformant. Diuer-
 farum
 A1 farum q̃ varij sāngi Iquoniã miter sec enim leg ma fit vil semꝑ in nescire docho explicat quentet genus pere Q in spe cauter funt pe de met tes que tissimi mos cutie mati cune riũ uerric ens a hom migia nt. Ve mino
-
 [segment 35]
 AD MAXIM. CAESAREM.
 63
@@ -2899,7 +2866,6 @@ miranda faciunt, daenonibus â Domino Deo
 limitata conceditur, &amp; quando ille
 nōpermittit, nihil operantur.
 DE PER-
-
 [segment 36]
 AD MAXIM. CAESAREM.
 65
@@ -2998,7 +2964,6 @@ mibon
 riente ni pery
 ne De
 DFG
-
 [segment 37]
 AEST.
 influentian
@@ -3142,7 +3107,6 @@ qđdem fi
 nil furio
 ctura co
 nu mihi lo
-
 [segment 38]
 AD MAXIM. CAESAREM.
 tat daemones tanta maleficia intercursu malefica-
@@ -3252,7 +3216,6 @@ tioni Cōntra
 ꝑ. Malatius
 extimans
 DFG
-
 [segment 39]
 AD MAXIM. CAESAREM.
 71
@@ -3293,7 +3256,6 @@ E 4 ti et Herzog August Bibliothek Wolfenbüttel Gray Scale 0 1 2 3 4
 72 IOA. TRITÉMII OCTO QVAEST.
 ti et postea cum eo in perpetuum gaudere. Qui vero maleficos non accedit propter ea, quoniam Deus prohibuit, malens vivere cum obferuantiis mandatorum Dei in aegestate et aegritudine, quam contra Deum in diuitiis et corporis fanitate, ille Deum veraciter diligit et integritatem fidei Christianae reet cultidit. Non sunt inter Christianos tollerandi, ò lacratissime Caesar, homines mente corrupti et reprobri circa fidem, qui per maleficia curant maleficiatos, qui furta ministerio daemonum revelant et adulteria, qui lapidum aut speculorum inspeçtione praenunciant futura. Non exaudiatis illos, precor, qui duinauri legi ignari huicmodi ministris daemonum imperio tuo exifiantim veiles, propter ea quod maleficio nouerunt maleficia disfolvere, quoniam ita perniciofa curatio corporum morrem inducit animarum, & facit homines à Deo creatori omnium recedere, & impiis apofatius daemonibus adharere, cum quibus poft mortem damnabuntur in aeternum.
 Secundario quare omnipotens Deus maleficio ladi permittat innocentes est augmentum meritorum, vt videlet probata eorum in tribulatio ne patientia, coronam gloria in calo digniorem merecatur. Nam vt facer inquit Augustinus: homo sibi ignotus est, quid ferre poftit quid non poftit: aliando meruit fe non poftit quod tamen poftit. cum accedit tentatio, quasi interrogator quidam homo inuenitur à se ipso qui prius latens néciebat seipsum. Diuus Archiaepofulus Petrus, antequam ei superuenisset tentatio et fe latebat et aliis, quam effet inconderatus et infirmus, accepit illa et apparuit infirmitas, quae latebat. Maxima itur hominis probatio tentatio est, sacra testante scriptura,
-
 [segment 40]
 AD MAXIM. CAESAREM.
 73
@@ -3367,7 +3329,6 @@ peccatum transeat impunitũ, ordinat iustus homi-
 nibus per misericordiam pro eorum delictis poenas
 temporales, impiis verò et reprobis per iusticiã ae-
 ternas.
-
 [segment 41]
 AD MAXIM. CAESAREM.
 75
@@ -3442,7 +3403,6 @@ enim frustra benedicuntur in Ecclesia Dei, sed vt
 sint quae diuinę protectionis munimen daemonibus
 estendant metuenda signacula. De pueris verò 
 infan-
-
 [segment 42]
 AD MAXIM. CAESAREM.
 97
@@ -3553,7 +3513,6 @@ test, fui r
 dictur, si
 potest, sibi
 nitam mihi
-
 [segment 43]
 AD MAXIM. CAESAREM 79 tione intelligemus: Deinde contemplemur terre- na omnia, quam ordinatissime singula quaeque in sua naturali dispositione nascuntur et procedunt, quod fieri non potest à casu, sed illius voluntate mouean-tur oportet, cuius facta et creata sunt potestate. Consequenter verò terram in medio locatam mun-di, veluti punctum siue centrum quod circulum ex-plicat aeque distanter totius vniuersi quo nihil pul-chrius, nihil ornatus, nihil denique magis delecta-bile sensui se potuit offerre contuendum. In hoc puncto molis immensae ab ipsa conclusa mole mi-rabiliter omnia cernimus ordinata, & nihil non or-dinatum posse relinqui, vt omnia, quae interdum fluitare nobis aliquo modo videntur, certo scia-mus penes ordinem nutu simplici ac penitus in-commutabili omnis machina totius vniuersi ex tot diuersis mobilibusque cõgesta ordinatissimè conspi-rat et regitur. Videmus certe in his, quae nostro sese ingerunt sensui, quoniam quanto in gubernatore .quolibet maior cum tempore consurgit intelligen-tia et potestas, tantò illic minus aliquid fortuito ca-su inordinatum potest contingere. Cum ergò sum-mus ille intellectus omnium creator, conferuator et rector omnipotens Deus mundum sua incom-mutabili prouidentia regat et gubernet, omnia suo continens sub imperio, nullus certe vnquam teme-ritati relinquitur locus, quae tantae maiestatis im-pediat voluntatem.
 Vniuersum igitur quod vspiam est vel esse po-test, sub vnius diuinae mentis imperio compraehen-ditur, cuius infallibile iudicium nihil subterfugere potest. Nobis autem inopinati casus accidunt, quo-niam mutabiles sumus et quotidiè ferè mutamur nu l-
@@ -3595,7 +3554,6 @@ Aut ergo Deus nihil extra fe intelligit vel agit,
 quod est falffum, aut agendo omnia et fingulae-
 tiam
 A tiam eadē enim fieri intelligere finanalo qui am obliga he omnia sed etiam habente runt, off pro viro prima citem,in q hanc bonū vr omnimaximi Quaeque facientes confec totum gantur maxime Etio recaetera de ficutura et di feffum ne et fa Eforts Dlisponitam Pernimus nec nefi
-
 [segment 44]
 AD MAXIM. CAESAREM.
 71
@@ -3668,7 +3626,6 @@ Alijverò neglectum se iri non ferentes,homi-
 nem propter intellectus praeeminentiã de numero
 corruptibilia exemerunt dicentes, Deum homi-
 nes curam prouidentiam habere,reliqua verò terre-
-
 [segment 45]
 AD MAXIM. CAESAREM.
 73
@@ -3731,7 +3688,6 @@ mus, vanum est totum ac nobis inutile, si ille de no-
 bis curam non habet vllam.
 Videant nunc et horreant, qui prouidentiam
 Dei
-
 [segment 46]
 DEI negant cum finem opinionis suae desperatio-
 nem omnium pessimam intueantur. Nemo igitur
@@ -3824,7 +3780,6 @@ permanere. Vnde si quid vel in aliis haberetur dictũ vel
 scriptũ aliter quã illa tenet, sentit, credit et amp; docet, vt verus obediẽtiae filius p̃sentiũ
 attestatione denũcio, &amp; volo simpliciter esse
 7
-
 [segment 47]
 esse haberi perpetuo reuocatum.Quo-
 circa maiestatem tuam sapientissime
@@ -3912,7 +3867,6 @@ Herzog AuguSt BibotheK
 
 Gray Scale 0 1 2 3 4
 [Blank Page]
-
 [segment 48]
 Gray Scale 0 1 2 3 4
 X

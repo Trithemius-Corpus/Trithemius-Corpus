@@ -83,7 +83,6 @@ Uenturam.sancti quā cecinere patres Aue.
 Anna geris clausam paradisum.arboꝛe vite
 Felicem.et cuncto ruris honoꝛe sacram. Aue.
 e ij
-
 [segment 2]
 Anna grauis gestas ortum quē flāmeus ensis
 Custodit cherubin nocte dieqꝫ calens.
@@ -195,7 +194,6 @@ Unipotens ac pijssime deus.qͥ beatā annā ingenitricis filij tui matrē eliger
 Explicit rosariū iudoci beissellij vtriusqꝫ iuris ꝓfessoris patricij aquensis.ad r.p.dn̄m ioannem tritemiū abbatem spanhemensem ordinis sancti benedicti.Ex aquisgrani tercio idus aprilis.Anno.Mccccxciiij.
 Ade wernheri themarenẜ Carmen de sanctiffima anna.Ad r.p.dn̄m joannē tritemiū abbatem.
 In laudes auie pangimus inclyte.Tordis plectra tesu chare nepos moue Nec tu nata canenti.Desis casta parens choror Regum progenies anna viro datur Infecunda diu se sterilem gemit.Prolem flendo precaturNec frustra lachryme fluūt.Promittūt sobolem nūcia celica Pregnans iūcta viro.deinde puerpera Nata prole probaturPer quā nostra venit salus.Iesse sic viruit stirps venerabilis Exit virga ferax germine fertili.Cuius flore refectiUicta morte reuiuimus.
-
 [segment 3]
 Hoc partu ioachim sistere delubris
 Fit dignus.remouens pontificis probra
@@ -301,7 +299,6 @@ Ducit in astra.
 Uota promentes. bona te precantes.
 Adiuua serua. refoue. guberna.
 Inclyta mater.
-
 [segment 4]
 ¶ Sit decus virtus supero tonanti
 Qui deus simplex pariterqꝫ trinus
@@ -456,6 +453,3 @@ VierFarbSelector Standard - Euroskala Offset
 19
 20 cm
 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0
-
-[Page intentionally blank]
-

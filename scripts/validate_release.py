@@ -89,19 +89,37 @@ LEAK_PATTERNS = [
     (re.compile(r"to seed reviewer"), "reviewer-seed note"),
 ]
 
+# Patterns that must never appear ANYWHERE — in Latin source artifacts or in
+# rendered pages. These are unambiguous model/prompt leaks (not phrases that
+# could occur in legitimate English translation).
 VISION_NARRATION_PATTERNS = [
     (re.compile(r"(?i)\bGiven that\b.*\b(?:image|page|transcribe|provided)\b"), "vision-model narration"),
     (re.compile(r"(?i)\bI (?:cannot|am unable to) transcribe\b"), "vision-model refusal/narration"),
     (re.compile(r"(?i)\bplease let me know\b"), "assistant conversational leak"),
-    (re.compile(r"(?i)\bprovided image\b"), "vision-model image description"),
-    (re.compile(r"(?i)\bThe image (?:provided|shows|displays)\b"), "vision-model image description"),
-    (re.compile(r"(?i)\bThis page serves as the frontispiece\b"), "vision-model image description"),
-    (re.compile(r"(?i)\bNo textual content is present\b"), "vision-model no-content narration"),
     (re.compile(r"(?i)\bThis description focuses solely\b"), "vision-model image description"),
     (re.compile(r"(?i)\bDescription: Positioned over\b"), "vision-model figure description"),
     (re.compile(r"(?im)^\s*Description:\s+"), "vision-model figure description"),
     (re.compile(r"(?i)\badhering strictly to instructions\b"), "prompt/instruction leak"),
     (re.compile(r"(?i)\bNo transcribed content follows\b"), "vision-model no-content narration"),
+    (re.compile(r"(?i)\bNo textual content is present\b"), "vision-model no-content narration"),
+    (re.compile(r"(?i)\bIf your query pertains\b"), "assistant conversational leak"),
+]
+
+# Patterns that must never appear in the LATIN SOURCE artifacts, but CAN
+# legitimately occur in English translations (e.g. "to the left side of the
+# altar" is normal translated prose). Checked only against latin-ocr.txt.
+LATIN_SOURCE_NARRATION_PATTERNS = [
+    (re.compile(r"(?i)\bprovided image\b"), "vision-model image description"),
+    (re.compile(r"(?i)\bThe image (?:provided|shows|displays)\b"), "vision-model image description"),
+    (re.compile(r"(?i)\bThis page serves as the frontispiece\b"), "vision-model image description"),
+    (re.compile(r"(?i)\bNo clear textual content can be discerned\b"), "vision-model no-content narration"),
+    (re.compile(r"(?i)\bJohannes Trithemius \(c\.\s*\d"), "wikipedia-style biographical hallucination"),
+    (re.compile(r"(?i)\bRoyal Library of Monaco\b"), "catalogue hallucination"),
+    (re.compile(r"(?i)\bBibliotheca Regia Monacensis refers to\b"), "catalogue hallucination"),
+    (re.compile(r"(?i)\bTo the (?:left|right|center(?:re|er)?) side of\b"), "vision-model layout narration"),
+    (re.compile(r"(?i)\bString/Binding Cord\b"), "vision-model binding description"),
+    (re.compile(r"(?i)\bFaint Text/Markings\b"), "vision-model margin reading"),
+    (re.compile(r"(?i)\[Page intentionally blank\]"), "vision-model blank-page narration"),
 ]
 
 PARALLEL_SOURCE_PLACEHOLDERS = {
@@ -568,11 +586,30 @@ def validate_no_leaks(result: Result) -> None:
 
 def validate_no_ocr_narration(result: Result) -> None:
     """Fail on OCR/vision-model prose that leaked into Latin source artifacts or
-    rendered public pages. These are not transcriptions; they are model chatter."""
-    targets: list[Path] = sorted(WORKS.glob("prdl-*/latin-ocr.txt"))
+    rendered public pages. These are not transcriptions; they are model chatter.
+
+    Universal patterns (model/prompt leaks) are checked against both the Latin
+    source artifacts and rendered HTML. Latin-source-only patterns (broad
+    English phrases that can legitimately occur in English translations, e.g.
+    "to the left side of the altar") are checked only against latin-ocr.txt.
+    """
+    latin_targets: list[Path] = sorted(WORKS.glob("prdl-*/latin-ocr.txt"))
+    html_targets: list[Path] = []
     if SITE.exists():
-        targets += [p for p in SITE.rglob("*.html") if "pagefind" not in p.parts]
-    for path in targets:
+        html_targets = [p for p in SITE.rglob("*.html") if "pagefind" not in p.parts]
+
+    for path in latin_targets:
+        try:
+            text = path.read_text(encoding="utf-8", errors="replace")
+        except Exception as exc:  # noqa: BLE001
+            result.error(f"{path.relative_to(ROOT)} could not be read for OCR narration scan: {exc}")
+            continue
+        for lineno, line in enumerate(text.splitlines(), 1):
+            for pattern, label in VISION_NARRATION_PATTERNS + LATIN_SOURCE_NARRATION_PATTERNS:
+                if pattern.search(line):
+                    result.error(f"{path.relative_to(ROOT)}:{lineno}: {label}")
+
+    for path in html_targets:
         try:
             text = path.read_text(encoding="utf-8", errors="replace")
         except Exception as exc:  # noqa: BLE001
