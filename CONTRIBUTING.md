@@ -42,6 +42,30 @@ If you open a pull request rather than an issue, add your correction to `works/<
 
 `site/dist/` is build output. It is committed because CI cannot rebuild it: `scripts/build_site.py` needs the working corpus, which is intentionally not in this repository. The maintainer rebuilds the site locally after content changes. Pull requests should not hand-edit anything under `site/dist/`; change the source files, and the site will be regenerated to match.
 
+## Reader changes
+
+Reader-facing changes must preserve semantic HTML, fragment targets, narrow
+reflow, and the representative short, long, cipher, and multi-witness pages in
+`data/reader_fixtures.json`.
+
+Run the dependency-free publication checks against the committed site:
+
+```console
+python scripts/validate_reader.py
+```
+
+When Chrome or Chromium is installed, run the representative desktop and
+mobile layout audit as well:
+
+```console
+python scripts/audit_layout.py --all-fixtures
+python scripts/audit_layout.py --all-fixtures --mobile
+```
+
+Set `TRITHEMIUS_SITE_DIST` to audit a clean build in another directory before
+replacing the committed release output. The browser executable can be selected
+with `TRITHEMIUS_CHROME` when it is not in a standard location.
+
 ## Issues or pull requests
 
 Either is fine. An issue with a precise citation is just as useful as a pull request, and lower friction for a single correction. For corrections across many chunks, a pull request against the relevant `ERRATA.md` files is easier to review. Free-form issues are open for anything the templates do not fit.

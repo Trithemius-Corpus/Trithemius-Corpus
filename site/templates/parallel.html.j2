@@ -10,7 +10,7 @@
                (None, "Latin / English reader")]) }}
 
 <header class="work-header">
-  <h2 class="work-title">{{ work.title }}</h2>
+  <h1 class="work-title">{{ work.title }}</h1>
   {% if work.title_en %}<p class="work-subtitle">{{ work.title_en }}</p>{% endif %}
   <p class="work-id"><code>{{ work.id }}</code> &middot; Latin source / English translation, segment&nbsp;by&nbsp;segment</p>
   <div class="badges">
@@ -66,7 +66,7 @@
   {% endfor %}
 </div>
 
-<div class="pp-seg-indicator" id="ppSegIndicator" aria-live="polite" aria-hidden="true">
+<div class="pp-seg-indicator" id="ppSegIndicator" aria-hidden="true">
   <span class="pp-seg-n">—</span><span class="pp-seg-of">/ {{ pairs|length }}</span>
 </div>
 

@@ -196,7 +196,7 @@ STYLE_C_TYPES = [
 INLINE_STYLE_C_TYPES = ("cipher-key", "cipher-grid")
 
 PROSE_DAMAGED_PUBLIC_INTRO = """\
-### About These Review Renderings
+## About These Review Renderings
 
 These passages preserve damaged prose rather than smoothing it into false
 certainty. They keep OCR loss, embedded cipher tenors, and conjectural readings
@@ -206,7 +206,7 @@ They should be treated as review renderings, not certified final editions.
 """
 
 UNTRANSLATED_PUBLIC_INTRO = """\
-### About These Recovered Passages
+## About These Recovered Passages
 
 These are Latin passages that were absent from the standard prose translation
 path and were recovered as separate scholarly renderings. They preserve
@@ -820,6 +820,25 @@ def render_markdown_file(src: Path) -> str:
     return rewrite_rendered_links(html)
 
 
+def floor_heading_levels(rendered_html: str, minimum_level: int) -> str:
+    """Keep embedded HTML below the host page's own heading hierarchy.
+
+    Translation chunks and special scholarly renderings are fragments, not
+    standalone documents. Their source Markdown sometimes begins with ``#``;
+    retaining that level would create competing page titles when the fragment
+    is embedded. Preserve text and attributes while raising only headings that
+    are above the supplied floor.
+    """
+    if minimum_level < 1 or minimum_level > 6:
+        raise ValueError("minimum_level must be between 1 and 6")
+
+    def replace(match: re.Match[str]) -> str:
+        level = max(minimum_level, int(match.group(2)))
+        return f"<{match.group(1)}h{level}"
+
+    return re.sub(r"<(/?)h([1-6])(?=[\s>])", replace, rendered_html)
+
+
 # Editorial markers like `[unclear]` get mis-parsed by the `extra` extension as
 # collapsed reference links, rendering as e.g. `<a href="charity">unclear</a>`.
 # `charity` is never a real link target — unwrap these back to plain text.
@@ -1291,6 +1310,7 @@ def _chunk_markdown_to_html(text: str) -> str:
     text = _convert_pipe_alphabets(text)
     text = _convert_numeric_tables(text)
     html = _strip_spurious_autolinks(markdown.markdown(text, extensions=["extra", "sane_lists"]))
+    html = floor_heading_levels(html, 2)
     return _wrap_style_c_wide_blocks(html)
 
 
@@ -1924,13 +1944,22 @@ def load_style_c(work: dict) -> dict:
             continue
         intro_path = type_dir / "_intro.md"
         if ct["key"] == "prose-damaged":
-            intro_html = _wrap_style_c_wide_blocks(_md_to_html(PROSE_DAMAGED_PUBLIC_INTRO))
+            intro_html = _wrap_style_c_wide_blocks(
+                floor_heading_levels(_md_to_html(PROSE_DAMAGED_PUBLIC_INTRO), 2)
+            )
         elif ct["key"] == "untranslated":
-            intro_html = _wrap_style_c_wide_blocks(_md_to_html(UNTRANSLATED_PUBLIC_INTRO))
+            intro_html = _wrap_style_c_wide_blocks(
+                floor_heading_levels(_md_to_html(UNTRANSLATED_PUBLIC_INTRO), 2)
+            )
         else:
             intro_html = (
                 _wrap_style_c_wide_blocks(
-                    _md_to_html(_clean_style_c_markdown(intro_path.read_text(encoding="utf-8"), ct["key"]))
+                    floor_heading_levels(
+                        _md_to_html(_clean_style_c_markdown(
+                            intro_path.read_text(encoding="utf-8"), ct["key"]
+                        )),
+                        2,
+                    )
                 )
                 if intro_path.exists() else ""
             )
@@ -1939,7 +1968,9 @@ def load_style_c(work: dict) -> dict:
             chunk_md = _clean_style_c_markdown(f.read_text(encoding="utf-8"), ct["key"])
             chunks.append({
                 "name": f.stem,
-                "html": _wrap_style_c_wide_blocks(_md_to_html(chunk_md)),
+                "html": _wrap_style_c_wide_blocks(
+                    floor_heading_levels(_md_to_html(chunk_md), 3)
+                ),
                 "pages": _facsimile_pages_for(work_id, f.stem, rec_pages),
             })
         out[ct["key"]] = {
@@ -1968,6 +1999,29 @@ def load_chapters(work_id: str) -> dict | None:
         return json.loads(p.read_text(encoding="utf-8"))
     except Exception:
         return None
+
+
+def chapters_with_rendered_anchors(
+    chapters: dict | None, rendered_html: str, prefix: str
+) -> dict | None:
+    """Return only chapter entries whose fragment targets were rendered.
+
+    A chapter boundary can point at a segment intentionally omitted from the
+    continuous English view. Publishing that entry would create a dead chapter
+    link even though the underlying chapter map is valid for the parallel
+    source view.
+    """
+    if not chapters or not chapters.get("entries"):
+        return None
+    visible = {
+        int(value)
+        for value in re.findall(rf'\bid="{re.escape(prefix)}-(\d+)"', rendered_html)
+    }
+    filtered = dict(chapters)
+    filtered["entries"] = [
+        entry for entry in chapters["entries"] if entry.get("n") in visible
+    ]
+    return filtered if len(filtered["entries"]) > 1 else None
 
 
 def stitch_english(
@@ -2009,8 +2063,9 @@ def stitch_english(
     joined = _convert_pipe_alphabets(joined)
     joined = _convert_numeric_tables(joined)
     html = _strip_spurious_autolinks(markdown.markdown(joined, extensions=["extra", "sane_lists"]))
+    html = floor_heading_levels(html, 2)
     # Wrap [bracketed] OCR/translator annotations (e.g. [unclear]) in spans so
-    # the scholarly-view toggle can reveal or hide them.
+    # the reader can distinguish them without hiding the underlying evidence.
     html = _wrap_annotations(html)
     # Swap the chapter placeholders for <section> wrappers. Each placeholder
     # opens a section that runs until the next placeholder (or end of body).
@@ -2192,8 +2247,8 @@ _ANNOT_RE = re.compile(r"\[(unclear|sic|ed\.?|lit\.?|tn\.?|note|trans\.?|ocr)\]"
 
 def _wrap_annotations(html: str) -> str:
     """Wrap OCR/translator annotation markers like ``[unclear]`` in
-    ``<span class="anno anno-unclear">[unclear]</span>`` so the reader's
-    scholarly-view toggle can reveal or hide them. Only acts inside text nodes
+    ``<span class="anno anno-unclear">[unclear]</span>`` for visible,
+    consistently styled editorial evidence. Only acts inside text nodes
     (skips tag attributes) by operating on text between ``>`` and ``<``."""
     def repl(m: re.Match[str]) -> str:
         tag = m.group(1).lower().rstrip(".")
@@ -2357,13 +2412,14 @@ def build_work(env: Environment, work: dict, english_html: str,
         elif "No corrections recorded" not in et:
             has_errata = True
             errata_html = _errata_markup(errata_path)
+    visible_chapters = chapters_with_rendered_anchors(chapters, english_html, "ch")
     return env.get_template("work.html.j2").render(
         work=work,
         intro=intro_html or None,
         english=english_html or None,
         has_parallel=has_parallel,
         style_c=style_c or None,
-        chapters=chapters,
+        chapters=visible_chapters,
         chapter_anchor="ch",
         related=related or [],
         citation=citation_text(work),
@@ -2530,7 +2586,7 @@ def main() -> None:
         encoding="utf-8",
     )
     license_text = (ROOT / "LICENSE").read_text(encoding="utf-8")
-    license_html = f"<h2>License</h2>\n<pre>{html_lib.escape(license_text)}</pre>"
+    license_html = f"<h1>License</h1>\n<pre>{html_lib.escape(license_text)}</pre>"
     (OUT / "LICENSE.html").write_text(
         render_simple_page(env, "License", license_html, "LICENSE.html"),
         encoding="utf-8",

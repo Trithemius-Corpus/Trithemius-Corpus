@@ -143,17 +143,18 @@ body.parchment {
 main.container { padding-bottom: 3rem; }
 
 /* ---- Typography ---- */
-h2, h3, h4 {
+h1, h2, h3, h4 {
   font-family: "Cormorant SC", "EB Garamond", serif;
   font-weight: 500; letter-spacing: 0.04em; color: var(--gilt-bright);
   margin-top: 2rem; margin-bottom: 0.5rem;
 }
-h2 { font-size: 1.75rem; }
-h3 {
+h1 { font-size: 1.75rem; }
+h2 {
   font-size: 1.32rem; padding-bottom: 0.3rem;
   border-bottom: 1px solid var(--rule-faint);
 }
-h4 { font-size: 1.12rem; color: var(--gilt); }
+h3 { font-size: 1.12rem; color: var(--gilt); }
+h4 { font-size: 1rem; color: var(--gilt); }
 
 p { margin: 0.8rem 0; }
 em { font-style: italic; color: var(--ink-faded); }
@@ -885,7 +886,7 @@ tr.tier-f .tier-letter { color: #e8654a; }
   /* fixed/floating UI must not overlay the printed text */
   .read-progress, .chnav, .back-to-top, .chapter-nav, .nav-toggle, .solve-callout-head { display: none !important; }
   .site-header::after, .site-footer::before { display: none !important; }
-  h2, h3, h4, .site-title a, .hero-title, .work-title, .pp-head { color: #1a1408 !important; text-shadow: none !important; }
+  h1, h2, h3, h4, .site-title a, .hero-title, .work-title, .pp-head { color: #1a1408 !important; text-shadow: none !important; }
   a { color: #5a3a10; }
   .pp-grid, .featured-item, .genre-cards li, .tier-table, .works-table, .meta-table, .cite-block, .style-c-facsimile img, .hero-figure img {
     background: #fff !important; border-color: #bbb !important; box-shadow: none !important;
@@ -1261,7 +1262,7 @@ tr.tier-f .tier-letter { color: #e8654a; }
 @keyframes tc-flash { 0% { background: rgba(205,168,78,0.22); } 100% { background: transparent; } }
 .tc-flash { animation: tc-flash 0.7s ease-out; border-radius: 2px; }
 
-/* --- Phase 2: reader toolbar, type panel, scholarly view, TTS --- */
+/* --- Reader toolbar, type panel, visible editorial annotations, and TTS --- */
 .reader-toolbar { display: flex; align-items: center; gap: 0.4rem;
   max-width: var(--body-max, 44rem); margin: 0 auto 0.8rem; flex-wrap: wrap;
   font-size: 0.82rem; }
@@ -1292,9 +1293,8 @@ tr.tier-f .tier-letter { color: #e8654a; }
 /* ragged-right (justified off) */
 .english-body.rt-ragged p { text-align: left; }
 
-/* Scholarly view: annotations are dimmed/hidden in clean mode, revealed when
-   .scholarly is set. In clean mode they show as a quiet marker dot so the
-   reader knows a note exists without the clutter. */
+/* Editorial uncertainty remains visible in the ordinary reader. These markers
+   must never depend on an optional mode for their discoverability. */
 .english-body .anno { font-size: 0.78em; font-family: "Iosevka",monospace;
   color: var(--vermilion); border-radius: 2px; padding: 0 0.15em; }
 .english-body .anno { background: rgba(200,74,48,0.08); }

@@ -9,7 +9,7 @@
                (None, work.title)]|select|list) }}
 
 <header class="work-header">
-  <h2 class="work-title">{{ work.title }}</h2>
+  <h1 class="work-title">{{ work.title }}</h1>
   {% if work.title_en %}<p class="work-subtitle">{{ work.title_en }}</p>{% endif %}
   <p class="work-id"><code>{{ work.id }}</code></p>
   {% if work.edition == 'trithemius-4b' %}<p class="work-edition"><strong>{{ work.edition_label }}</strong> &middot; prepared reading view</p>{% elif work.edition_label %}<p class="work-edition">Edition {{ work.edition_index }} of {{ work.edition_count }} of this text in the corpus &middot; <strong>{{ work.edition_label }}</strong>{% if work.is_primary %} &middot; cleanest source witness in this corpus{% endif %}</p>{% endif %}
@@ -67,7 +67,7 @@
 <aside class="solve-callout">
   <div class="solve-callout-head">
     <span class="solve-icon">&#128274;</span>
-    <h3>{{ solve.title }}</h3>
+    <h2>{{ solve.title }}</h2>
   </div>
   <p>{{ solve.blurb|safe }}</p>
   <div class="solve-callout-foot">
@@ -80,7 +80,7 @@
 {% if work_cover %}<div class="work-cover-wrap">{{ work_cover|safe }}</div>{% endif %}
 
 <section class="work-intro">
-  <h3>About this work</h3>
+  <h2>About this work</h2>
   {% if intro %}
   {{ intro|safe }}
   {% else %}
@@ -91,7 +91,7 @@
 </section>
 
 <section class="work-translation">
-  <h3>English translation</h3>
+  <h2>English translation</h2>
   {% if english %}
   {% include "_chapter_nav.html.j2" %}
   <div class="reader-toolbar" role="toolbar" aria-label="Reading controls">
@@ -122,7 +122,7 @@
 
 {% if style_c %}
 <section class="work-style-c" id="special-renderings">
-  <h3>Special scholarly renderings</h3>
+  <h2>Special scholarly renderings</h2>
   <p class="muted">
     Parallel presentations for cipher tables, grids, untranslated passages,
     and damaged prose. They keep uncertainty visible and should be read
@@ -142,7 +142,7 @@
 {% endif %}
 
 <section class="work-cite">
-  <h3>Cite this translation</h3>
+  <h2>Cite this translation</h2>
   <p class="muted">
     A machine translation should be cited as one, and checked against the Latin
     before quotation (see <a href="{{ url('methodology.html') }}#12-what-this-corpus-is-good-for-and-what-it-is-not">the limitations</a>).
@@ -153,7 +153,7 @@
 </section>
 
 <section class="work-links">
-  <h3>Artifacts</h3>
+  <h2>Artifacts</h2>
   <ul>
     {% if has_parallel %}<li><a href="{{ url('works/' + work.id + '_parallel.html') }}">Side-by-side Latin&nbsp;/&nbsp;English viewer</a></li>{% endif %}
     {% if style_c %}<li><a href="#special-renderings">Special scholarly renderings</a> (cipher tables and damaged passages, beside their facsimiles)</li>{% endif %}
@@ -165,7 +165,7 @@
 
 {% if related %}
 <section class="work-related">
-  <h3>More in {{ work.genre_label }}</h3>
+  <h2>More in {{ work.genre_label }}</h2>
   <ul class="related-list">
     {% for r in related %}
     <li><a href="{{ url('works/' + r.id + '.html') }}"><em>{{ r.title }}</em></a>
@@ -178,7 +178,7 @@
 
 {% if has_errata %}
 <section class="work-errata" id="errata">
-  <h3>Editorial corrections</h3>
+  <h2>Editorial corrections</h2>
   <details>
     <summary>This work has recorded editorial corrections. Click to view.</summary>
     {{ errata_html|safe }}

@@ -14,9 +14,9 @@
 {% macro text_card(t) %}
 <article class="text-card" data-search="{{ (t.title ~ ' ' ~ (t.title_en or '') ~ ' ' ~ (t.genre_label or '') ~ ' ' ~ (t.year or ''))|lower }}"
          data-genre="{{ t.genre }}" data-first="{{ '1' if t.first_english else '0' }}">
-  <h4 class="text-card-title">
+  <h3 class="text-card-title">
     <a href="{{ url('works/' + t.rep.id + '.html') }}"><em>{{ t.title }}</em></a>
-  </h4>
+  </h3>
   <p class="text-card-sub">
     {{ t.title_en }}{% if t.year %} &middot; {{ t.year }}{% endif %}
     {% if t.first_english %}<span class="badge first-en" title="No prior published English translation is known (see docs/PRIOR_TRANSLATIONS.md)">first English</span>{% endif %}
