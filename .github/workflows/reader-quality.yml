@@ -19,6 +19,9 @@ on:
       - "scripts/validate_passages.py"
       - "scripts/validate_reader.py"
       - "scripts/validate_study_reader.py"
+      - "scripts/build_publication_exports.py"
+      - "scripts/validate_publication_exports.py"
+      - "scripts/run_epubcheck.py"
       - "site/templates/**"
       - "site/static/**"
       - "site/dist/**"
@@ -42,6 +45,9 @@ on:
       - "scripts/validate_passages.py"
       - "scripts/validate_reader.py"
       - "scripts/validate_study_reader.py"
+      - "scripts/build_publication_exports.py"
+      - "scripts/validate_publication_exports.py"
+      - "scripts/run_epubcheck.py"
       - "site/templates/**"
       - "site/static/**"
       - "site/dist/**"
@@ -83,3 +89,9 @@ jobs:
           python scripts/validate_passages.py
           python scripts/validate_iiif.py
           python scripts/validate_study_reader.py
+
+      - name: Build and validate publication exports
+        run: |
+          python scripts/build_publication_exports.py
+          python scripts/validate_publication_exports.py
+          python scripts/run_epubcheck.py site/dist/editions/epub/*.epub

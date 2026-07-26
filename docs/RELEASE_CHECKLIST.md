@@ -10,6 +10,11 @@ corpus needed to regenerate every artifact from scans.
 - [ ] `python -c "import py_compile, glob; [py_compile.compile(f, doraise=True) for f in glob.glob('scripts/*.py')]"` - confirm all public scripts parse (the glob is expanded by Python, so this works in PowerShell and bash alike; `python -m py_compile scripts/*.py` only works where the shell expands the wildcard).
 - [ ] `python scripts/build_site.py` - rebuild static pages from committed release artifacts and available local working-corpus extras.
 - [ ] `npx pagefind --site site/dist` - rebuild search after the static site changes.
+- [ ] `python scripts/build_publication_exports.py` - rebuild all EPUB 3.3 and paged-HTML reading editions.
+- [ ] `python scripts/validate_publication_exports.py` - confirm package structure, metadata, provenance, caveats, and print contracts.
+- [ ] `python scripts/run_epubcheck.py site/dist/editions/epub/*.epub` - validate every EPUB with pinned official EPUBCheck 5.3.0 (PowerShell: pass `(Get-ChildItem site/dist/editions/epub/*.epub).FullName`).
+- [ ] Render a short, long, and cipher-heavy print edition with `npx @vivliostyle/cli build -d -s A5 -o output.pdf site/dist/editions/print/<work-id>/index.html`; visually inspect first, middle, table, and final pages.
+- [ ] Open the same short, long, and cipher-heavy EPUBs in two current reading systems (recommended: Thorium Reader and Calibre), checking navigation, reflow, tables, links, and large-text behavior.
 - [ ] Open `site/dist/index.html`, `site/dist/works.html`, `site/dist/scoreboard.html`, `site/dist/search.html`, one representative work page, one parallel viewer, one Style C page, and `site/dist/cipher-solutions.html`.
 - [ ] Confirm the release quality claim is `S=47 / A=0 / B=0 / C=0 / F=0`, 4,400 published chunks, 4,353 graded chunks, 4.63/5 mean faithfulness, and 0.0% confirmed hallucination.
 - [ ] Confirm `git status --short` contains only intentional release changes.

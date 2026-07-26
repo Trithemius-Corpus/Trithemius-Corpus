@@ -139,7 +139,7 @@ def parse_pages(errors: list[str]) -> dict[Path, ReaderHTMLParser]:
         errors.append("site/dist is missing")
         return pages
     for path in sorted(DIST.rglob("*.html")):
-        if "pagefind" in path.parts:
+        if "pagefind" in path.parts or "editions" in path.parts:
             continue
         parser = ReaderHTMLParser()
         try:
