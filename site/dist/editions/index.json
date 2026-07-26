@@ -1,0 +1,383 @@
+{
+  "schema_version": "1.0",
+  "edition_version": "2026-07-12",
+  "modified": "2026-07-12T00:00:00Z",
+  "works": [
+    {
+      "id": "prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive",
+      "title": "Trithemius Sui Ipsius Vindex",
+      "epub": "epub/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive.epub",
+      "print": "print/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/index.html",
+      "epub_sha256": "e44de7c91fc7ea1700a213c6a59316820ed49344cd720872014cdecd3a81bf97",
+      "source": "http://www.e-rara.ch/zuz/content/titleinfo/1761179"
+    },
+    {
+      "id": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+      "title": "Clavis Generalis Triplex in Libros Steganographicos",
+      "epub": "epub/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos.epub",
+      "print": "print/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/index.html",
+      "epub_sha256": "e0aa6db0464148cd434044be4a1078bee22546ed5a88c9336b27387d59d3d02e",
+      "source": "http://diglib.hab.de/drucke/fb-243/start.htm"
+    },
+    {
+      "id": "prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui",
+      "title": "Clavis Polygraphiae",
+      "epub": "epub/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui.epub",
+      "print": "print/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/index.html",
+      "epub_sha256": "cc11717681227b49d15c13f5877c63b5081662d53dff4aebe58598ca8ea93aa3",
+      "source": "http://diglib.hab.de/drucke/fb-128/start.htm"
+    },
+    {
+      "id": "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis",
+      "title": "Polygraphiae libri sex",
+      "epub": "epub/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis.epub",
+      "print": "print/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/index.html",
+      "epub_sha256": "37370eadb5368dddd2594b6b5620ee17a3418ea070b9a7b4bc7a693c8b358682",
+      "source": "http://daten.digitale-sammlungen.de/bsb00026190/image_1"
+    },
+    {
+      "id": "prdl-24390_polygraphiae-libri-vi",
+      "title": "Polygraphiae libri VI (Basel: Furter & Petri, for Haselberg, 1518)",
+      "epub": "epub/prdl-24390_polygraphiae-libri-vi.epub",
+      "print": "print/prdl-24390_polygraphiae-libri-vi/index.html",
+      "epub_sha256": "c7b4896b47d32ff15ccacacd717294ef5fb3f90d874a1a460c4c0ffcca78b376",
+      "source": "http://daten.digitale-sammlungen.de/bsb00029406/image_1"
+    },
+    {
+      "id": "prdl-24391_polygraphiae-libri-vi",
+      "title": "Polygraphiae libri VI",
+      "epub": "epub/prdl-24391_polygraphiae-libri-vi.epub",
+      "print": "print/prdl-24391_polygraphiae-libri-vi/index.html",
+      "epub_sha256": "5831b3be591b07751aeba25c7670f96e5ac12e29c188e0592e9a3e0a37e0dec4",
+      "source": "http://daten.digitale-sammlungen.de/bsb00038431/image_1"
+    },
+    {
+      "id": "prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius",
+      "title": "Liber de Scriptoribus Ecclesiasticis",
+      "epub": "epub/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius.epub",
+      "print": "print/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/index.html",
+      "epub_sha256": "4ffb5591b16a675f6e31b148a3858e1db5aabccd39c7a886f83cbf351e5b2c3a",
+      "source": "http://www.e-rara.ch/zuz/content/titleinfo/3202049"
+    },
+    {
+      "id": "prdl-70287_joh-tritthemii-de-scriptoribus-ecclesiasticis-liber",
+      "title": "Liber de Scriptoribus Ecclesiasticis",
+      "epub": "epub/prdl-70287_joh-tritthemii-de-scriptoribus-ecclesiasticis-liber.epub",
+      "print": "print/prdl-70287_joh-tritthemii-de-scriptoribus-ecclesiasticis-liber/index.html",
+      "epub_sha256": "549771877c317a515002f56e9e0ec4bf49af1fbc36f4746d7f938e0d4f2f4e4c",
+      "source": "http://diglib.hab.de/drucke/alv-df-99/start.htm"
+    },
+    {
+      "id": "prdl-24362_de-laude-scriptorum-manualium",
+      "title": "De Laude Scriptorum Manualium",
+      "epub": "epub/prdl-24362_de-laude-scriptorum-manualium.epub",
+      "print": "print/prdl-24362_de-laude-scriptorum-manualium/index.html",
+      "epub_sha256": "15dc45dabfecef4cf2486b3a86be591052ef7522f2a4042aeab642df8a41bf8f",
+      "source": "http://daten.digitale-sammlungen.de/bsb00037424/image_1"
+    },
+    {
+      "id": "prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis",
+      "title": "De Republica Ecclesiae et Monachorum Ordinis",
+      "epub": "epub/prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis.epub",
+      "print": "print/prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis/index.html",
+      "epub_sha256": "d898eaf845e6d3c13b720385a9a38b0d1a2e235feafe1de7c89f4f46eb93c970",
+      "source": "http://daten.digitale-sammlungen.de/bsb00040421/image_1"
+    },
+    {
+      "id": "prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis",
+      "title": "De Republica Ecclesiae et Monachorum Ordinis",
+      "epub": "epub/prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis.epub",
+      "print": "print/prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis/index.html",
+      "epub_sha256": "2cd2e729e79f6e9cabacf7cfcabd5c5c3c73304af24ebd7f2340c00861ecc886",
+      "source": "http://daten.digitale-sammlungen.de/bsb00040421/image_1"
+    },
+    {
+      "id": "prdl-24361_de-cura-pastorali",
+      "title": "De Cura Pastorali",
+      "epub": "epub/prdl-24361_de-cura-pastorali.epub",
+      "print": "print/prdl-24361_de-cura-pastorali/index.html",
+      "epub_sha256": "dff0cb955b229f8b48cc4e1968e5b9bef85d20f40a910154957b7c9ee87cbf00",
+      "source": "http://daten.digitale-sammlungen.de/bsb00040382/image_1"
+    },
+    {
+      "id": "prdl-24373_de-statu-et-ruina-monastici-ordinis",
+      "title": "De Statu et Ruina Monastici Ordinis",
+      "epub": "epub/prdl-24373_de-statu-et-ruina-monastici-ordinis.epub",
+      "print": "print/prdl-24373_de-statu-et-ruina-monastici-ordinis/index.html",
+      "epub_sha256": "ee3d6a1db7c236116a545557def440d0ce708839624549addbde2ba045558a35",
+      "source": "http://daten.digitale-sammlungen.de/bsb00040424/image_1"
+    },
+    {
+      "id": "prdl-24360_compendium-breviarium-primi-voluminis-annalium-historiarum-origine-regum",
+      "title": "Compendium sive Breviarium primi voluminis Annalium sive Historiarum de origine regum et gentis Francorum",
+      "epub": "epub/prdl-24360_compendium-breviarium-primi-voluminis-annalium-historiarum-origine-regum.epub",
+      "print": "print/prdl-24360_compendium-breviarium-primi-voluminis-annalium-historiarum-origine-regum/index.html",
+      "epub_sha256": "0fac57d60765ccc82bb429ef26f6656d836095621b75d69d8c480e7893c9f3c9",
+      "source": "http://daten.digitale-sammlungen.de/bsb00001934/image_1"
+    },
+    {
+      "id": "prdl-24363_de-laudibus-ordinis-fratrum-carmelitarum",
+      "title": "De Origine, Progressu et Laudibus Ordinis Fratrum Carmelitarum",
+      "epub": "epub/prdl-24363_de-laudibus-ordinis-fratrum-carmelitarum.epub",
+      "print": "print/prdl-24363_de-laudibus-ordinis-fratrum-carmelitarum/index.html",
+      "epub_sha256": "0bd5b963f30367ffa21f2d0684a04e5bbe382032f8f3feff2be06fe8d2b2bf03",
+      "source": "http://daten.digitale-sammlungen.de/bsb00040383/image_1"
+    },
+    {
+      "id": "prdl-24364_de-laudibus-sanctissimae-matris-annae",
+      "title": "De Laudibus Sanctissimae Matris Annae",
+      "epub": "epub/prdl-24364_de-laudibus-sanctissimae-matris-annae.epub",
+      "print": "print/prdl-24364_de-laudibus-sanctissimae-matris-annae/index.html",
+      "epub_sha256": "8c6ae6227f5a3e5f26a386433bf35e18cf81782c4e9baf550dcace8066082ee9",
+      "source": "http://daten.digitale-sammlungen.de/bsb00008347/image_1"
+    },
+    {
+      "id": "prdl-24365_de-laudibus-sanctissimae-matris-annae",
+      "title": "De Laudibus Sanctissimae Matris Annae",
+      "epub": "epub/prdl-24365_de-laudibus-sanctissimae-matris-annae.epub",
+      "print": "print/prdl-24365_de-laudibus-sanctissimae-matris-annae/index.html",
+      "epub_sha256": "50798cfa101634dbe27cdb2d024a7b2975265e5357c754625b7f68fb50735e95",
+      "source": "http://daten.digitale-sammlungen.de/bsb00040416/image_1"
+    },
+    {
+      "id": "prdl-24366_de-laudibus-sanctissimae-matris-annae-liptzk-1497",
+      "title": "De Laudibus Sanctissimae Matris Annae",
+      "epub": "epub/prdl-24366_de-laudibus-sanctissimae-matris-annae-liptzk-1497.epub",
+      "print": "print/prdl-24366_de-laudibus-sanctissimae-matris-annae-liptzk-1497/index.html",
+      "epub_sha256": "32f1d59a4ac581cb998fa08d984ab57e13bc4c9679b04b4ff9b782dd6ecd7b5b",
+      "source": "http://daten.digitale-sammlungen.de/bsb00040384/image_1"
+    },
+    {
+      "id": "prdl-24367_de-laudibus-sanctissimae-matris-annae-liptzk-1501",
+      "title": "De Laudibus Sanctissimae Matris Annae",
+      "epub": "epub/prdl-24367_de-laudibus-sanctissimae-matris-annae-liptzk-1501.epub",
+      "print": "print/prdl-24367_de-laudibus-sanctissimae-matris-annae-liptzk-1501/index.html",
+      "epub_sha256": "a4d83defc0dee9890f159caff39ef0773a21f18b58d7c061ecbcd61034ccfc63",
+      "source": "http://daten.digitale-sammlungen.de/bsb00011308/image_1"
+    },
+    {
+      "id": "prdl-70283_de-laudibus-sanctissimae-matris-annae-liptzk-1501-hab",
+      "title": "De Laudibus Sanctissimae Matris Annae",
+      "epub": "epub/prdl-70283_de-laudibus-sanctissimae-matris-annae-liptzk-1501-hab.epub",
+      "print": "print/prdl-70283_de-laudibus-sanctissimae-matris-annae-liptzk-1501-hab/index.html",
+      "epub_sha256": "f6cb70274fec11cbdc33781506f07a9761d2bdfef7605a5637ed6b4bc777b317",
+      "source": "http://diglib.hab.de/drucke/alv-el-230-5s/start.htm"
+    },
+    {
+      "id": "prdl-70284_de-laudibus-sanctissimae-matris-annae",
+      "title": "De Laudibus Sanctissimae Matris Annae",
+      "epub": "epub/prdl-70284_de-laudibus-sanctissimae-matris-annae.epub",
+      "print": "print/prdl-70284_de-laudibus-sanctissimae-matris-annae/index.html",
+      "epub_sha256": "8d1a3f724423953ae8108a8d39771f50244b6fbbce5ebfdf39e3a3320703102e",
+      "source": "http://daten.digitale-sammlungen.de/bsb00008347/image_1"
+    },
+    {
+      "id": "prdl-24385_liber-de-triplici-regione-claustralium-et",
+      "title": "Liber de Triplici Regione Claustralium et Spirituali Exercitio Monachorum",
+      "epub": "epub/prdl-24385_liber-de-triplici-regione-claustralium-et.epub",
+      "print": "print/prdl-24385_liber-de-triplici-regione-claustralium-et/index.html",
+      "epub_sha256": "efa73f787074bc609c23015d8de4c06f47cfecd1c9526bc416b568ba2654e73f",
+      "source": "http://daten.digitale-sammlungen.de/bsb00036941/image_1"
+    },
+    {
+      "id": "prdl-24386_liber-de-triplici-regione-claustralium-et",
+      "title": "Liber de Triplici Regione Claustralium et Spirituali Exercitio Monachorum",
+      "epub": "epub/prdl-24386_liber-de-triplici-regione-claustralium-et.epub",
+      "print": "print/prdl-24386_liber-de-triplici-regione-claustralium-et/index.html",
+      "epub_sha256": "c1063b3d221842fe75b7c39c038ccf3f100f232f12ee299923911ad0ecf95123",
+      "source": "http://daten.digitale-sammlungen.de/bsb00009848/image_1"
+    },
+    {
+      "id": "prdl-24378_institutio-vitae-sacerdotalis",
+      "title": "Institutio Vitae Sacerdotalis (Mainz, 1499)",
+      "epub": "epub/prdl-24378_institutio-vitae-sacerdotalis.epub",
+      "print": "print/prdl-24378_institutio-vitae-sacerdotalis/index.html",
+      "epub_sha256": "ab24953f1eba04f8397a7c7ee67b4f0579815d1331d3ae99c750c82eb4936ba1",
+      "source": "http://daten.digitale-sammlungen.de/bsb00040431/image_1"
+    },
+    {
+      "id": "prdl-24379_institutio-vitae-sacerdotalis",
+      "title": "Institutio Vitae Sacerdotalis (Mainz, 1504)",
+      "epub": "epub/prdl-24379_institutio-vitae-sacerdotalis.epub",
+      "print": "print/prdl-24379_institutio-vitae-sacerdotalis/index.html",
+      "epub_sha256": "e0574f2c2f811089b2a35e62d11cfeb3c6edcb11c5f24c731bc8121a6628b8a9",
+      "source": "http://daten.digitale-sammlungen.de/bsb00040435/image_1"
+    },
+    {
+      "id": "prdl-24380_admonitiones-exhortationes-monachos",
+      "title": "Admonitiones / Exhortationes ad Monachos",
+      "epub": "epub/prdl-24380_admonitiones-exhortationes-monachos.epub",
+      "print": "print/prdl-24380_admonitiones-exhortationes-monachos/index.html",
+      "epub_sha256": "2c59dc21255f73b963654a3b4b4d40baf7a7d1d31c99bd59e44d05009b4126b4",
+      "source": "http://www.archive.org/details/MN5032ucmf_2"
+    },
+    {
+      "id": "prdl-24381_octo-quaestionum-maximilianum-caesarem",
+      "title": "Liber Octo Quaestionum ad Maximilianum Caesarem",
+      "epub": "epub/prdl-24381_octo-quaestionum-maximilianum-caesarem.epub",
+      "print": "print/prdl-24381_octo-quaestionum-maximilianum-caesarem/index.html",
+      "epub_sha256": "4f634f1fa9acd221ecb77a65b29e6ef6b785a78bc6c7ddecb4413214c1507e04",
+      "source": "http://daten.digitale-sammlungen.de/bsb00036372/image_1"
+    },
+    {
+      "id": "prdl-24382_octo-quaestionum-maximilianum-caesarem",
+      "title": "Liber Octo Quaestionum ad Maximilianum Caesarem",
+      "epub": "epub/prdl-24382_octo-quaestionum-maximilianum-caesarem.epub",
+      "print": "print/prdl-24382_octo-quaestionum-maximilianum-caesarem/index.html",
+      "epub_sha256": "6d687227d7115b26753d49d343ae966df66f7644f0e60b2649bed2af6255368d",
+      "source": "http://daten.digitale-sammlungen.de/bsb00012794/image_1"
+    },
+    {
+      "id": "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+      "title": "De Septem Secundeis, id est, Intelligentiis sive Spiritibus Orbes post Deum Moventibus",
+      "epub": "epub/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus.epub",
+      "print": "print/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/index.html",
+      "epub_sha256": "abffef7306b803407a1b7ba33c21f13c3b224f56e977dcd105c9c69117e24d2e",
+      "source": "http://daten.digitale-sammlungen.de/bsb00013346/image_1"
+    },
+    {
+      "id": "prdl-70289_opera-historica-part",
+      "title": "Opera Historica, Part I",
+      "epub": "epub/prdl-70289_opera-historica-part.epub",
+      "print": "print/prdl-70289_opera-historica-part/index.html",
+      "epub_sha256": "c2ca8d2c0e22dae7ca15990823e66868db119f98bc84a9d0543f1d3c3574f7a0",
+      "source": "http://www.dilibri.de/ubtrdfg/content/titleinfo/377604"
+    },
+    {
+      "id": "prdl-70290_opera-historica-part-chronicon-hirsaugiense-sponheimense",
+      "title": "Opera Historica, Part II — Chronicon Hirsaugiense & Sponheimense",
+      "epub": "epub/prdl-70290_opera-historica-part-chronicon-hirsaugiense-sponheimense.epub",
+      "print": "print/prdl-70290_opera-historica-part-chronicon-hirsaugiense-sponheimense/index.html",
+      "epub_sha256": "fa2f33b31847615f3ecab793024aa36a8b82ca51b215f449b83d2059a3a9e2e2",
+      "source": "http://www.dilibri.de/ubtrdfg/content/titleinfo/385089"
+    },
+    {
+      "id": "prdl-24357_abbreviatura-recessuum-capitularium-patrum-ordinis-divi",
+      "title": "Abbreviatura Recessuum Capitularium Patrum Ordinis Divi Benedicti per Provinciam Moguntinam et Dioecesim Bambergensem",
+      "epub": "epub/prdl-24357_abbreviatura-recessuum-capitularium-patrum-ordinis-divi.epub",
+      "print": "print/prdl-24357_abbreviatura-recessuum-capitularium-patrum-ordinis-divi/index.html",
+      "epub_sha256": "73f5a5bbdefe65670cad510653604a916f587f5a07ed9ae3573c861671d4ade2",
+      "source": "http://daten.digitale-sammlungen.de/bsb00040381/image_1"
+    },
+    {
+      "id": "prdl-24368_de-operatione-divini-amoris",
+      "title": "De Operatione Divini Amoris",
+      "epub": "epub/prdl-24368_de-operatione-divini-amoris.epub",
+      "print": "print/prdl-24368_de-operatione-divini-amoris/index.html",
+      "epub_sha256": "ed5dc7109dfd2195122883964775a879dd70c8172837f1c72d1403255bdb2b3e",
+      "source": "http://daten.digitale-sammlungen.de/bsb00040419/image_1"
+    },
+    {
+      "id": "prdl-24369_de-purissima-et-immaculata-conceptione-virginis",
+      "title": "De Purissima et Immaculata Conceptione Virginis (Strasbourg: Hupfuff)",
+      "epub": "epub/prdl-24369_de-purissima-et-immaculata-conceptione-virginis.epub",
+      "print": "print/prdl-24369_de-purissima-et-immaculata-conceptione-virginis/index.html",
+      "epub_sha256": "33aa83a68ad7a2ffb0a82cbe70d76dd4f67854552c062a6230ea3cfe1f3ec76f",
+      "source": "http://daten.digitale-sammlungen.de/bsb00010726/image_1"
+    },
+    {
+      "id": "prdl-24370_de-purissima-et-immaculata-conceptione-virginis",
+      "title": "De Purissima et Immaculata Conceptione Virginis (Buda)",
+      "epub": "epub/prdl-24370_de-purissima-et-immaculata-conceptione-virginis.epub",
+      "print": "print/prdl-24370_de-purissima-et-immaculata-conceptione-virginis/index.html",
+      "epub_sha256": "2691344ded036b62d5a6b025ad907fa253f0d8dff3ca9f444455198f36af7201",
+      "source": "http://daten.digitale-sammlungen.de/bsb00032286/image_1"
+    },
+    {
+      "id": "prdl-24374_de-vanitate-et-miseria-humanae-vitae",
+      "title": "De Vanitate et Miseria Humanae Vitae",
+      "epub": "epub/prdl-24374_de-vanitate-et-miseria-humanae-vitae.epub",
+      "print": "print/prdl-24374_de-vanitate-et-miseria-humanae-vitae/index.html",
+      "epub_sha256": "3db2cbb2aeed335cd3680bc5c27a1d29c76da98ef1cc1484dc22a329e5e06c98",
+      "source": "http://daten.digitale-sammlungen.de/bsb00040426/image_1"
+    },
+    {
+      "id": "prdl-24375_de-vera-conversione-mentis-ad-deum",
+      "title": "De Vera Conversione Mentis ad Deum",
+      "epub": "epub/prdl-24375_de-vera-conversione-mentis-ad-deum.epub",
+      "print": "print/prdl-24375_de-vera-conversione-mentis-ad-deum/index.html",
+      "epub_sha256": "4a018f0e2d4a11b1e144d17abd1a451174c68c964ec5331b0fd9d4c95d6f20a5",
+      "source": "http://daten.digitale-sammlungen.de/bsb00040429/image_1"
+    },
+    {
+      "id": "prdl-24376_ecloga-de-laude-calvorum-ad-carolum",
+      "title": "Ecloga de Laude Calvorum ad Carolum (Hucbald of Elnon, transmitted by Trithemius)",
+      "epub": "epub/prdl-24376_ecloga-de-laude-calvorum-ad-carolum.epub",
+      "print": "print/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/index.html",
+      "epub_sha256": "73e34ce8729f427b4ac56d330c6806244292fd889696e81ee9d55ffe6e4773de",
+      "source": "http://daten.digitale-sammlungen.de/bsb00039449/image_1"
+    },
+    {
+      "id": "prdl-24393_sermones-et-exhortationes-ad-monachos-joa",
+      "title": "Sermones et Exhortationes ad Monachos",
+      "epub": "epub/prdl-24393_sermones-et-exhortationes-ad-monachos-joa.epub",
+      "print": "print/prdl-24393_sermones-et-exhortationes-ad-monachos-joa/index.html",
+      "epub_sha256": "e9a6ac539723fc7793a5b30f430c7b8befd371084af7ff33b72d43271b82c3eb",
+      "source": "http://daten.digitale-sammlungen.de/bsb00015470/image_1"
+    },
+    {
+      "id": "prdl-24394_sermones-et-exhortationes-ad-monachos-joa",
+      "title": "Sermones et Exhortationes ad Monachos",
+      "epub": "epub/prdl-24394_sermones-et-exhortationes-ad-monachos-joa.epub",
+      "print": "print/prdl-24394_sermones-et-exhortationes-ad-monachos-joa/index.html",
+      "epub_sha256": "65dce3f0ef7175afb0ef76a4cf4cff9ced0874a94f6dff45b93416e0826abc4e",
+      "source": "http://daten.digitale-sammlungen.de/bsb00019420/image_1"
+    },
+    {
+      "id": "prdl-32285_de-sacerdotum-vita-instituenda-libellus",
+      "title": "De Sacerdotum Vita Instituenda Libellus",
+      "epub": "epub/prdl-32285_de-sacerdotum-vita-instituenda-libellus.epub",
+      "print": "print/prdl-32285_de-sacerdotum-vita-instituenda-libellus/index.html",
+      "epub_sha256": "9dbbd022723d332157db51b0b693126da0443823032f9e09cea16e861b34b54a",
+      "source": "http://daten.digitale-sammlungen.de/bsb00036373/image_1"
+    },
+    {
+      "id": "prdl-32286_octo-quaestionum-maximilianum-caesarem",
+      "title": "Liber Octo Quaestionum ad Maximilianum Caesarem",
+      "epub": "epub/prdl-32286_octo-quaestionum-maximilianum-caesarem.epub",
+      "print": "print/prdl-32286_octo-quaestionum-maximilianum-caesarem/index.html",
+      "epub_sha256": "9d671bc80e321d41af543421b87e91bb866fa483fd9dcf7f6c050f399b852861",
+      "source": "http://daten.digitale-sammlungen.de/bsb00036371/image_1"
+    },
+    {
+      "id": "prdl-70285_e-rara_de-triplici-regione-claustralium-et",
+      "title": "Liber de Triplici Regione Claustralium et Spirituali Exercitio Monachorum",
+      "epub": "epub/prdl-70285_e-rara_de-triplici-regione-claustralium-et.epub",
+      "print": "print/prdl-70285_e-rara_de-triplici-regione-claustralium-et/index.html",
+      "epub_sha256": "8783c19ae8e994d0c0e8ae3357d4250429bb9ca2054a8f2aba957d848384a10b",
+      "source": "http://www.e-rara.ch/zuz/content/titleinfo/2581257"
+    },
+    {
+      "id": "prdl-70286_octo-quaestionum-maximilianum-caesarem",
+      "title": "Liber Octo Quaestionum ad Maximilianum Caesarem",
+      "epub": "epub/prdl-70286_octo-quaestionum-maximilianum-caesarem.epub",
+      "print": "print/prdl-70286_octo-quaestionum-maximilianum-caesarem/index.html",
+      "epub_sha256": "cc55f390d052feb26fe551d0f04de8a6f5b5731e44981e6b7a0b734c382785f0",
+      "source": "http://diglib.hab.de/drucke/yg-51-8f-helmst/start.htm"
+    },
+    {
+      "id": "prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae",
+      "title": "Veterum Sophorum Sigilla et Imagines Magicae (pseudo-Trithemian, 1612)",
+      "epub": "epub/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae.epub",
+      "print": "print/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/index.html",
+      "epub_sha256": "2d330388be3bbd8460072cdfbe52a348536455b94c22612771db1ff3590866cc",
+      "source": "http://www.dilibri.de/ubtrdfg/content/titleinfo/466737"
+    },
+    {
+      "id": "prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines",
+      "title": "Veterum Sophorum Sigilla et Imagines Magicae (pseudo-Trithemian, 1612; e-rara witness)",
+      "epub": "epub/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines.epub",
+      "print": "print/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/index.html",
+      "epub_sha256": "8b983c273e2e5f822d029d2ac05078e8176a4410de2eaa3fde32f731aff0b2fc",
+      "source": "http://www.e-rara.ch/zuz/content/titleinfo/2480555"
+    },
+    {
+      "id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam",
+      "title": "Steganographia, hoc est: Ars per occultam scripturam",
+      "epub": "epub/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.epub",
+      "print": "print/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/index.html",
+      "epub_sha256": "132c1d160e7c2394839681b348bbffed953516bd89e5d7e287eaf23e26ef972c",
+      "source": "http://gallica.bnf.fr/ark:/12148/bpt6k5832538j"
+    }
+  ]
+}

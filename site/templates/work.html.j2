@@ -211,6 +211,8 @@
     {% if has_tei %}<li><a href="{{ url('tei/' + work.id + '.xml') }}">Pilot TEI P5 export</a></li>{% endif %}
     {% if iiif_source %}<li><a href="{{ url('iiif/viewer.html') }}?manifest={{ url('iiif/' + work.id + '/manifest.json') }}#canvas=1">Zoomable facsimile viewer</a> / <a href="{{ url('iiif/' + work.id + '/manifest.json') }}">IIIF Presentation 3 manifest</a> ({{ iiif_source.provider }}; {{ iiif_source.mapping_precision }} text alignment)</li>{% endif %}
     {% if style_c %}<li><a href="#special-renderings">Special scholarly renderings</a> (cipher tables and damaged passages, beside their facsimiles)</li>{% endif %}
+    {% if work.edition != 'trithemius-4b' %}<li><a href="{{ url('editions/epub/' + work.id + '.epub') }}" download>EPUB 3.3 reading edition</a></li>
+    <li><a href="{{ url('editions/print/' + work.id + '/index.html') }}">Print-ready reading edition</a> (paged with Vivliostyle)</li>{% endif %}
     <li><a href="#" onclick="window.print();return false;">Download as PDF</a> (typeset via your browser&rsquo;s print dialog)</li>
     {% if work.source.url %}<li><a href="{{ work.source.url }}">Original source record</a>{% if work.source.download_url %} / <a href="{{ work.source.download_url }}">PDF</a>{% endif %} ({{ work.source.provider or 'provider' }})</li>{% endif %}
     <li><a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/tree/main/works/{{ work.id }}">Repository folder</a></li>

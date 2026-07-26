@@ -631,7 +631,8 @@ def validate_search_freshness(result: Result) -> None:
     index_mtime = pagefind_js.stat().st_mtime
     newer = [
         p for p in SITE.rglob("*.html")
-        if "pagefind" not in p.parts and p.stat().st_mtime > index_mtime + 1
+        if "pagefind" not in p.parts and "editions" not in p.parts
+        and p.stat().st_mtime > index_mtime + 1
     ]
     if newer:
         example = newer[0].relative_to(ROOT)
