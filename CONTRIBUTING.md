@@ -52,6 +52,7 @@ Run the dependency-free publication checks against the committed site:
 
 ```console
 python scripts/validate_reader.py
+python scripts/validate_passages.py --source-only
 ```
 
 When Chrome or Chromium is installed, run the representative desktop and
@@ -65,6 +66,11 @@ python scripts/audit_layout.py --all-fixtures --mobile
 Set `TRITHEMIUS_SITE_DIST` to audit a clean build in another directory before
 replacing the committed release output. The browser executable can be selected
 with `TRITHEMIUS_CHROME` when it is not in a standard location.
+
+Changes that split, merge, insert, or remove rendered blocks inside a source
+segment can change passage fragments. Review
+[`docs/PASSAGE_MODEL.md`](docs/PASSAGE_MODEL.md) before making such a change;
+published passage IDs require a redirect map when their sequence changes.
 
 ## Issues or pull requests
 

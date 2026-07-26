@@ -48,7 +48,7 @@
 <div class="read-progress" id="readProgress" aria-hidden="true"><span class="read-progress-pct" id="readProgressPct"></span></div>
 <header class="site-header">
   <div class="container">
-    <h1 class="site-title"><a href="index.html">Trithemius Corpus</a></h1>
+    <div class="site-title"><a href="index.html">Trithemius Corpus</a></div>
     <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="siteNav">
       <span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span>
     </button>
@@ -75,7 +75,7 @@
 <article class="prose">
 <h1 id="methodology">Methodology</h1>
 <p>How the Trithemius Corpus was made, checked, revised, and presented. This page distinguishes the <strong>recommended Trithemius 4B editions</strong> from the earlier source-witness editions, explains what the grades mean, and states where machine-produced text still requires caution.</p>
-<p><strong>Contents:</strong> <a href="#1-what-you-are-reading">What you are reading</a> · <a href="#2-source-acquisition">Sources</a> · <a href="#3-the-ocr-record">OCR</a> · <a href="#4-the-translation-record">Translation</a> · <a href="#5-pipeline-mechanics">Pipeline</a> · <a href="#6-grading-and-quality-tiers">Grading</a> · <a href="#7-the-remediation-record">Remediation</a> · <a href="#8-results">Results</a> · <a href="#9-per-work-provenance">Per-work provenance</a> · <a href="#10-special-scholarly-renderings-style-c">Special renderings</a> · <a href="#11-limitations-known-failure-modes">Limitations</a> · <a href="#12-what-this-corpus-is-good-for-and-what-it-is-not">Responsible use</a> · <a href="#13-what-was-tried-and-did-not-ship">Rejected approaches</a> · <a href="#14-code-data-and-reproducibility">Reproducibility</a></p>
+<p><strong>Contents:</strong> <a href="#1-what-you-are-reading">What you are reading</a> · <a href="#2-source-acquisition">Sources</a> · <a href="#3-the-ocr-record">OCR</a> · <a href="#4-the-translation-record">Translation</a> · <a href="#5-pipeline-mechanics">Pipeline</a> · <a href="#6-historical-automated-grading-and-current-review-status">Grading</a> · <a href="#7-the-remediation-record">Remediation</a> · <a href="#8-results">Results</a> · <a href="#9-per-work-provenance">Per-work provenance</a> · <a href="#10-special-scholarly-renderings-style-c">Special renderings</a> · <a href="#11-limitations-known-failure-modes">Limitations</a> · <a href="#12-what-this-corpus-is-good-for-and-what-it-is-not">Responsible use</a> · <a href="#13-what-was-tried-and-did-not-ship">Rejected approaches</a> · <a href="#14-code-data-and-reproducibility">Reproducibility</a></p>
 <h2 id="1-what-you-are-reading">1. What you are reading</h2>
 <p>The site now contains two related edition tracks.</p>
 <h3 id="recommended-trithemius-4b-editions">Recommended Trithemius 4B editions</h3>
@@ -301,11 +301,21 @@ and automated-QA coverage. Historical Sonnet scores remain in provenance data.</
 </ul>
 <h2 id="14-code-data-and-reproducibility">14. Code, data, and reproducibility</h2>
 <p>Site construction, edition assembly, validation, and audit scripts are in <code>scripts/</code>. Canonical quality data are in <code>data/_quality/</code>; earlier editions are in <code>works/</code>; T4B source editions are in <code>works-t4b/</code>; and corpus metadata are in <code>manifest.json</code> and <code>CITATION.cff</code>.</p>
+<p>Standard source-witness reading pages also publish deterministic passage and
+annotation indexes under <code>site/dist/data/passages/</code>. English paragraph, heading,
+list, table, quotation, and preformatted blocks receive stable fragments within
+their source translation segment. The corresponding Latin claim remains at
+segment precision; the index does not infer finer alignment from paragraph
+order. Three representative works additionally ship a constrained TEI P5 pilot.
+The identifier, annotation, migration, and compatibility policy is documented
+in <code>docs/PASSAGE_MODEL.md</code>.</p>
 <p>A complete site build runs:</p>
 <pre><code class="language-text">python scripts/build_site.py
 python scripts/build_t4b_pages.py
 npx pagefind --site site/dist
 python scripts/validate_release.py
+python scripts/validate_reader.py
+python scripts/validate_passages.py
 </code></pre>
 <p>The site can be rebuilt from the repository. The full OCR and translation production environment is documented but not turnkey: it depended on public institutional scans, local and cloud vision inference, and several commercial model APIs. Large page-image caches and private working-lane artifacts are not all included in the release.</p>
 <p>The release validator checks relationships among metadata, chunk ledgers, grades, chapter anchors, generated pages, and the search index. Validation guards against internal inconsistency; it does not replace philological review.</p>

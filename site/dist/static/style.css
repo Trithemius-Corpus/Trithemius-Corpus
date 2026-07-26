@@ -1272,11 +1272,26 @@ tr.tier-f .tier-letter { color: #e8654a; }
   border: 1px solid var(--rule-faint); border-radius: 3px; color: var(--ink-faded);
   font: inherit; font-size: 0.82rem; cursor: pointer; transition: all 0.12s; }
 .rt-toggle:hover { background: rgba(201,162,74,0.14); color: var(--ink); border-color: var(--gilt-deep); }
+.rt-toggle:disabled { opacity: 0.48; cursor: not-allowed; }
 .rt-toggle[aria-pressed="true"], .rt-toggle[aria-expanded="true"] {
   background: rgba(201,162,74,0.18); color: var(--gilt-bright); border-color: var(--gilt); }
 .rt-toggle.rt-reading { color: var(--vermilion); border-color: var(--vermilion); }
 .rt-toggle.rt-reading::after { content: " ❚❚"; font-size: 0.7rem; }
+.rt-passage-label { color: var(--ink-muted); font-family: "Iosevka",monospace;
+  font-size: 0.72rem; font-variant-numeric: tabular-nums; }
 @media (max-width: 560px) { .rt-toggle .rt-label { display: none; } }
+
+/* Stable fragment targets are ordinary document anchors and remain useful
+   without JavaScript. The active/cited passage gets a restrained margin cue
+   that does not change its layout or conceal editorial markers. */
+.english-body [data-passage-id], .passage-anchor { scroll-margin-top: 5rem; }
+.passage-anchor { display: block; height: 0; }
+.english-body [data-passage-id] { transition: box-shadow 0.15s ease; }
+.english-body [data-passage-id]:target,
+.english-body .passage-anchor:target + [data-passage-id],
+.english-body [data-active-passage="true"] {
+  box-shadow: -3px 0 0 rgba(201,162,74,0.55);
+}
 
 .rt-type-panel { display: flex; flex-wrap: wrap; align-items: center; gap: 0.9rem 1.2rem;
   max-width: var(--body-max, 44rem); margin: 0 auto 1rem; padding: 0.7rem 1rem;

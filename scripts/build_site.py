@@ -49,6 +49,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import facsimile_map  # noqa: E402  (shared chunk -> source-page mapping)
+import passage_model  # noqa: E402  (stable passage IDs + export artifacts)
 
 ROOT = Path(__file__).resolve().parents[1]
 TEMPLATES = ROOT / "site" / "templates"
@@ -2001,6 +2002,22 @@ def load_chapters(work_id: str) -> dict | None:
         return None
 
 
+def passage_source_lookup(work_id: str):
+    """Return a segment-to-source-page resolver for passage index records."""
+    rec_pages = facsimile_map.rec_pages_for_work(work_id)
+
+    def lookup(segment: int) -> dict:
+        pages, approximate = facsimile_map.pages_for_chunk(work_id, segment, rec_pages)
+        return {
+            "pages": [{"number": page, "label": str(page)} for page in pages],
+            "mapping_precision": (
+                "approximate" if approximate else ("exact" if pages else "unavailable")
+            ),
+        }
+
+    return lookup
+
+
 def chapters_with_rendered_anchors(
     chapters: dict | None, rendered_html: str, prefix: str
 ) -> dict | None:
@@ -2024,16 +2041,12 @@ def chapters_with_rendered_anchors(
     return filtered if len(filtered["entries"]) > 1 else None
 
 
-def stitch_english(
+def _stitch_english_marked(
     pairs: list[dict],
     chapters: dict | None = None,
     inline_style_c: dict[str, list[dict]] | None = None,
-) -> str:
-    """Concatenate the non-missing English chunks into one readable HTML body.
-
-    If `chapters` (a chapters.json dict) is supplied, wrap each chapter boundary
-    segment in `<section class="chapter" id="ch-N" data-seg="N">` so the
-    chapter-nav dropdown can anchor to it."""
+) -> tuple[str, set[int]]:
+    """Render joined English while retaining temporary source-segment markers."""
     chapter_segs = set()
     if chapters and chapters.get("entries"):
         chapter_segs = {e["n"] for e in chapters["entries"]}
@@ -2056,9 +2069,11 @@ def stitch_english(
             content = p["english"]
         if seg in chapter_segs:
             blocks.append(f"<!--CHAPTER-ANCHOR:{seg}-->")
+        if isinstance(seg, int):
+            blocks.append(f"<!--PASSAGE-SEG:{seg}-->")
         blocks.append(content)
     if not blocks:
-        return ""
+        return "", chapter_segs
     joined = "\n\n".join(blocks)
     joined = _convert_pipe_alphabets(joined)
     joined = _convert_numeric_tables(joined)
@@ -2067,11 +2082,42 @@ def stitch_english(
     # Wrap [bracketed] OCR/translator annotations (e.g. [unclear]) in spans so
     # the reader can distinguish them without hiding the underlying evidence.
     html = _wrap_annotations(html)
-    # Swap the chapter placeholders for <section> wrappers. Each placeholder
-    # opens a section that runs until the next placeholder (or end of body).
+    return _wrap_style_c_wide_blocks(html), chapter_segs
+
+
+def stitch_english(
+    pairs: list[dict],
+    chapters: dict | None = None,
+    inline_style_c: dict[str, list[dict]] | None = None,
+) -> str:
+    """Concatenate English chunks without exposing build-time markers."""
+    html, chapter_segs = _stitch_english_marked(pairs, chapters, inline_style_c)
+    html = passage_model.strip_passage_markers(html)
     if chapter_segs:
         html = _apply_chapter_anchors(html)
-    return _wrap_style_c_wide_blocks(html)
+    return html
+
+
+def stitch_english_with_passages(
+    work_id: str,
+    pairs: list[dict],
+    chapters: dict | None = None,
+    inline_style_c: dict[str, list[dict]] | None = None,
+    html_transform=None,
+) -> tuple[str, list[dict], list[dict]]:
+    """Render English and return its deterministic passage/annotation records."""
+    html, chapter_segs = _stitch_english_marked(pairs, chapters, inline_style_c)
+    if html_transform is not None:
+        html = html_transform(html)
+    html, passages, annotations = passage_model.identify_passages(
+        html, work_id, chapters
+    )
+    # Swap chapter placeholders only after passage extraction. The segment
+    # comments then delimit complete HTML fragments without artificial section
+    # boundaries, while the final document retains its chapter navigation.
+    if chapter_segs:
+        html = _apply_chapter_anchors(html)
+    return html, passages, annotations
 
 
 def polish_polygraphia_vocabulary_html(work_id: str, rendered: str) -> str:
@@ -2382,7 +2428,9 @@ def build_work(env: Environment, work: dict, english_html: str,
                chapters: dict | None = None,
                related: list[dict] | None = None,
                prev_work_id: str | None = None,
-               next_work_id: str | None = None) -> str:
+               next_work_id: str | None = None,
+               passage_count: int = 0,
+               has_tei: bool = False) -> str:
     work_dir = ROOT / "works" / work["id"]
     intro_html = render_markdown_file(work_dir / "intro.md")
     desc = intro_excerpt(work["id"]) or (
@@ -2426,10 +2474,12 @@ def build_work(env: Environment, work: dict, english_html: str,
         work_id=work["id"],
         work_title=work.get("title_en") or work.get("title") or work["id"],
         reading_body_has_title=bool(re.search(
-            r'<header class="work-title-leaf"|<h2>(?:Six Books of Polygraphy|Steganography: The Art of Hidden Writing)</h2>',
+            r'<header class="work-title-leaf"|<h2\b[^>]*>(?:Six Books of Polygraphy|Steganography: The Art of Hidden Writing)</h2>',
             english_html[:2500],
         )),
         reading_time=reading_time,
+        passage_count=passage_count,
+        has_tei=has_tei,
         has_errata=has_errata,
         errata_html=errata_html,
         prev_work=prev_work_id,
@@ -2664,6 +2714,22 @@ def main() -> None:
     # Clean stale work files from previous builds (old slugs renamed since).
     # Keep only files whose prdl- prefix matches a current manifest work id.
     current_ids = {w["id"] for w in works}
+    passages_out = OUT / "data" / "passages"
+    passages_out.mkdir(parents=True, exist_ok=True)
+    for artifact in passages_out.glob("*.json"):
+        artifact.unlink()
+    tei_out = OUT / "tei"
+    tei_out.mkdir(exist_ok=True)
+    for artifact in tei_out.glob("*.xml"):
+        artifact.unlink()
+    schemas_out = OUT / "data" / "schemas"
+    schemas_out.mkdir(parents=True, exist_ok=True)
+    for schema_name in (
+        "annotation.schema.json",
+        "passage-index.schema.json",
+        "trithemius-pilot.rng",
+    ):
+        shutil.copy2(ROOT / "data" / "schemas" / schema_name, schemas_out / schema_name)
     for f in works_out.glob("prdl-*.html"):
         # extract the prdl-NNNNN_slug from the filename (strip _parallel/_style-c-* suffixes)
         stem = f.name
@@ -2683,6 +2749,9 @@ def main() -> None:
     n_parallel = 0
     n_style_c_pages = 0
     n_untranslated_display = 0
+    n_passages = 0
+    n_passage_indexes = 0
+    n_tei_exports = 0
     misaligned: list[str] = []
     for w in works:
         pairs, stats = load_pairs(w["id"])
@@ -2703,9 +2772,33 @@ def main() -> None:
             sitemap_paths.append(f"works/{w['id']}_style-c-{ct_key}.html")
             n_style_c_pages += 1
         inline_style_c = _style_c_inline_lookup(w, style_c)
-        english_html = stitch_english(pairs, chapters, inline_style_c=inline_style_c) if pairs else ""
-        english_html = polish_polygraphia_vocabulary_html(w["id"], english_html)
-        english_html = polish_steganographia_html(w["id"], english_html)
+        passages: list[dict] = []
+        annotations: list[dict] = []
+        if pairs:
+            def polish(rendered: str) -> str:
+                rendered = polish_polygraphia_vocabulary_html(w["id"], rendered)
+                return polish_steganographia_html(w["id"], rendered)
+
+            english_html, passages, annotations = stitch_english_with_passages(
+                w["id"], pairs, chapters, inline_style_c=inline_style_c,
+                html_transform=polish,
+            )
+            passage_index = passage_model.build_passage_index(
+                w, pairs, passages, annotations,
+                generated_from=stats.get("source", "unknown"),
+                source_lookup=passage_source_lookup(w["id"]),
+            )
+            passage_model.write_passage_index(
+                OUT / "data" / "passages" / f"{w['id']}.json",
+                passage_index,
+            )
+            n_passage_indexes += 1
+            n_passages += len(passages)
+            if w["id"] in passage_model.TEI_PILOT_IDS:
+                passage_model.write_tei(OUT / "tei" / f"{w['id']}.xml", passage_index)
+                n_tei_exports += 1
+        else:
+            english_html = ""
         # prev/next work navigation (by manifest order)
         wi = works.index(w)
         prev_id = works[wi-1]["id"] if wi > 0 else None
@@ -2713,7 +2806,9 @@ def main() -> None:
         (works_out / f"{w['id']}.html").write_text(
             build_work(env, w, english_html, has_parallel, style_c, chapters,
                        related_by_id.get(w["id"]),
-                       prev_work_id=prev_id, next_work_id=next_id),
+                       prev_work_id=prev_id, next_work_id=next_id,
+                       passage_count=len(passages),
+                       has_tei=w["id"] in passage_model.TEI_PILOT_IDS),
             encoding="utf-8")
         sitemap_paths.append(f"works/{w['id']}.html")
 
@@ -2724,6 +2819,8 @@ def main() -> None:
           f"{len(sections)} genre pages, ciphers, methodology, limitations, LICENSE")
     print(f"  {len(works)} work pages; {n_parallel} parallel viewers; "
           f"{n_style_c_pages} Style C subpages")
+    print(f"  {n_passages} stable passages in {n_passage_indexes} indexes; "
+          f"{n_tei_exports} pilot TEI exports")
     print(f"  sitemap.xml ({len(sitemap_paths)} urls) + robots.txt")
     if misaligned:
         print(f"  [warn] {len(misaligned)} works had Latin/English count mismatch:")

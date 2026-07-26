@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar xmlns="http://relaxng.org/ns/structure/1.0"
+         ns="http://www.tei-c.org/ns/1.0">
+  <start>
+    <ref name="TEI"/>
+  </start>
+
+  <define name="xml-id">
+    <attribute name="id" ns="http://www.w3.org/XML/1998/namespace"><text/></attribute>
+  </define>
+  <define name="xml-lang">
+    <attribute name="lang" ns="http://www.w3.org/XML/1998/namespace"><text/></attribute>
+  </define>
+
+  <define name="TEI">
+    <element name="TEI">
+      <ref name="xml-id"/>
+      <ref name="teiHeader"/>
+      <ref name="text-group"/>
+      <ref name="standOff"/>
+    </element>
+  </define>
+
+  <define name="teiHeader">
+    <element name="teiHeader">
+      <element name="fileDesc">
+        <element name="titleStmt">
+          <element name="title"><text/></element>
+          <element name="author"><text/></element>
+        </element>
+        <element name="publicationStmt">
+          <element name="publisher"><text/></element>
+          <element name="availability">
+            <element name="licence">
+              <attribute name="target"><text/></attribute>
+              <text/>
+            </element>
+          </element>
+        </element>
+        <element name="sourceDesc">
+          <element name="bibl">
+            <mixed>
+              <choice>
+                <element name="ref">
+                  <attribute name="target"><text/></attribute>
+                  <text/>
+                </element>
+                <element name="note"><text/></element>
+              </choice>
+            </mixed>
+          </element>
+        </element>
+      </element>
+      <element name="encodingDesc">
+        <element name="projectDesc">
+          <element name="p"><text/></element>
+        </element>
+      </element>
+    </element>
+  </define>
+
+  <define name="text-group">
+    <element name="text">
+      <element name="group">
+        <element name="text">
+          <ref name="xml-lang"/>
+          <attribute name="type"><value>source-ocr</value></attribute>
+          <element name="body">
+            <element name="div">
+              <attribute name="type"><value>source-segments</value></attribute>
+              <zeroOrMore>
+                <element name="ab">
+                  <ref name="xml-id"/>
+                  <attribute name="n"><text/></attribute>
+                  <text/>
+                </element>
+              </zeroOrMore>
+            </element>
+          </element>
+        </element>
+        <element name="text">
+          <ref name="xml-lang"/>
+          <attribute name="type"><value>translation</value></attribute>
+          <element name="body">
+            <zeroOrMore>
+              <element name="div">
+                <attribute name="type"><value>segment</value></attribute>
+                <attribute name="n"><text/></attribute>
+                <attribute name="corresp"><text/></attribute>
+                <zeroOrMore>
+                  <choice>
+                    <element name="head">
+                      <ref name="passage-attributes"/>
+                      <text/>
+                    </element>
+                    <element name="p">
+                      <ref name="passage-attributes"/>
+                      <optional><attribute name="type"><text/></attribute></optional>
+                      <text/>
+                    </element>
+                  </choice>
+                </zeroOrMore>
+              </element>
+            </zeroOrMore>
+          </element>
+        </element>
+      </element>
+    </element>
+  </define>
+
+  <define name="passage-attributes">
+    <ref name="xml-id"/>
+    <attribute name="n"><text/></attribute>
+    <attribute name="corresp"><text/></attribute>
+  </define>
+
+  <define name="standOff">
+    <element name="standOff">
+      <element name="listAnnotation">
+        <zeroOrMore>
+          <element name="annotation">
+            <ref name="xml-id"/>
+            <attribute name="motivation"><text/></attribute>
+            <element name="note">
+              <attribute name="target"><text/></attribute>
+              <attribute name="type"><text/></attribute>
+              <text/>
+            </element>
+          </element>
+        </zeroOrMore>
+      </element>
+    </element>
+  </define>
+</grammar>

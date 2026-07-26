@@ -97,6 +97,14 @@
   <div class="reader-toolbar" role="toolbar" aria-label="Reading controls">
     <button type="button" class="rt-toggle" id="rt-type-toggle"
             aria-expanded="false" aria-controls="rt-type-panel" title="Type controls">&#9881;<span class="rt-label"> Type</span></button>
+    {% if passage_count %}
+    <button type="button" class="rt-toggle" id="rt-copy-link"
+            title="Copy a link to the current passage" disabled>&sect;<span class="rt-label"> Copy link</span></button>
+    <button type="button" class="rt-toggle" id="rt-copy-cite"
+            title="Copy a citation for the current passage" disabled>&#128203;<span class="rt-label"> Cite passage</span></button>
+    <span class="rt-passage-label" id="rt-passage-label" aria-hidden="true"></span>
+    <span class="sr-only" id="rt-passage-status" role="status" aria-live="polite"></span>
+    {% endif %}
     <span class="rt-spacer"></span>
     <button type="button" class="rt-toggle" id="rt-read"
             title="Read this page aloud">&#9655;<span class="rt-label"> Read aloud</span></button>
@@ -109,8 +117,8 @@
     <button type="button" id="rt-reset" class="rt-reset">Reset</button>
   </div>
   <div class="english-body">
-    {% if not reading_body_has_title %}<h2 class="reading-work-title">{{ work_title }}</h2>{% endif %}
-    {{ english|safe }}
+{% if not reading_body_has_title %}<h2 class="reading-work-title">{{ work_title }}</h2>{% endif %}
+{{ english|safe }}
   </div>
   {% else %}
   <p class="placeholder muted">
@@ -156,6 +164,8 @@
   <h2>Artifacts</h2>
   <ul>
     {% if has_parallel %}<li><a href="{{ url('works/' + work.id + '_parallel.html') }}">Side-by-side Latin&nbsp;/&nbsp;English viewer</a></li>{% endif %}
+    {% if passage_count %}<li><a href="{{ url('data/passages/' + work.id + '.json') }}">Passage and annotation index</a> ({{ passage_count }} stable English passages)</li>{% endif %}
+    {% if has_tei %}<li><a href="{{ url('tei/' + work.id + '.xml') }}">Pilot TEI P5 export</a></li>{% endif %}
     {% if style_c %}<li><a href="#special-renderings">Special scholarly renderings</a> (cipher tables and damaged passages, beside their facsimiles)</li>{% endif %}
     <li><a href="#" onclick="window.print();return false;">Download as PDF</a> (typeset via your browser&rsquo;s print dialog)</li>
     {% if work.source.url %}<li><a href="{{ work.source.url }}">Original source record</a>{% if work.source.download_url %} / <a href="{{ work.source.download_url }}">PDF</a>{% endif %} ({{ work.source.provider or 'provider' }})</li>{% endif %}
@@ -196,7 +206,16 @@
 {# Bake the work-ID list so the random-work button needs no fetch() (which
    is blocked on file://). Defined before base.html.j2's end-of-body script. #}
 <script>window.TC_WORK_IDS={{ all_work_ids|tojson }};</script>
-<script>window.TC_WORK={{ { 'id': work_id, 'title': work_title }|tojson }};</script>
+<script>window.TC_WORK={{ {
+  'id': work_id,
+  'title': work_title,
+  'citation': citation,
+  'passageCount': passage_count,
+  'passageIndex': url('data/passages/' + work.id + '.json') if passage_count else none,
+  'view': 'read',
+  'language': 'en',
+  'annotations': 'visible'
+}|tojson }};</script>
 <script src="{{ asset('reader.js') }}"></script>
 
 {% endblock %}

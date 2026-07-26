@@ -169,6 +169,7 @@ def main():
             call("Page.navigate", {"url": url})
             time.sleep(3.0)
             probe = """(function(){
+  if(!document.documentElement||!document.body) return JSON.stringify({notReady:true});
   var vw=document.documentElement.clientWidth;
   var docW=Math.max(document.body.scrollWidth,document.documentElement.scrollWidth);
   var hscroll=docW>vw+2;
@@ -202,26 +203,38 @@ def main():
   overflows=overflows.slice(0,5);
   var main=document.querySelector('main')||document.body;
   var mainChars=main?main.innerText.length:0;
-  return JSON.stringify({vw:vw,docW:Math.round(docW),hscroll:hscroll,badImgs:badImgs.slice(0,5),badImgN:badImgs.length,overflows:overflows,mainChars:mainChars});
+  var passageN=document.querySelectorAll('.english-body [data-passage-id]').length;
+  var passageLink=document.getElementById('rt-copy-link');
+  var passageToolsReady=!passageN||(passageLink&&!passageLink.disabled);
+  return JSON.stringify({vw:vw,docW:Math.round(docW),hscroll:hscroll,badImgs:badImgs.slice(0,5),badImgN:badImgs.length,overflows:overflows,mainChars:mainChars,passageN:passageN,passageToolsReady:passageToolsReady});
 })()"""
-            eid = call("Runtime.evaluate", {"expression": probe, "returnByValue": True})
             val = None
             err = None
-            deadline = time.time() + 6
-            while time.time() < deadline:
-                frame = ws_recv(sock)
-                if not frame:
-                    time.sleep(0.1); continue
-                try:
-                    msg = json.loads(frame)
-                except Exception:
-                    continue
-                if msg.get("id") == eid:
-                    res = msg.get("result", {})
-                    val = res.get("result", {}).get("value")
-                    if val is None and res.get("exceptionDetails"):
-                        err = res["exceptionDetails"].get("exception", {}).get("description", "")[:200]
-                    break
+            for _attempt in range(5):
+                eid = call("Runtime.evaluate", {"expression": probe, "returnByValue": True})
+                deadline = time.time() + 6
+                while time.time() < deadline:
+                    frame = ws_recv(sock)
+                    if not frame:
+                        time.sleep(0.1); continue
+                    try:
+                        msg = json.loads(frame)
+                    except Exception:
+                        continue
+                    if msg.get("id") == eid:
+                        res = msg.get("result", {})
+                        val = res.get("result", {}).get("value")
+                        if val is None and res.get("exceptionDetails"):
+                            err = res["exceptionDetails"].get("exception", {}).get("description", "")[:200]
+                        break
+                if val:
+                    try:
+                        if not json.loads(val).get("notReady"):
+                            break
+                    except (TypeError, json.JSONDecodeError):
+                        break
+                    val = None
+                time.sleep(0.5)
             results.append({"page": rel, "data": val, "err": err})
         # summary
         print("=== LAYOUT AUDIT ===")
@@ -238,6 +251,7 @@ def main():
             if d["hscroll"]: flags.append(f"HSCROLL(docW={d['docW']})")
             if d["badImgN"]: flags.append(f"BADIMG={d['badImgN']}")
             if d["overflows"]: flags.append(f"OVERFLOW={len(d['overflows'])}")
+            if not d.get("passageToolsReady", True): flags.append("PASSAGE-TOOLS-NOT-READY")
             # search/404 are intentionally compact / JS-populated — don't flag thin
             known_thin = r["page"].endswith("search.html") or r["page"].endswith("404.html")
             if d["mainChars"] < 200 and not known_thin:
