@@ -1,0 +1,338 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Witness Comparison &mdash; Trithemius Corpus</title>
+<meta name="description" content="A human-verified collation of Trithemius&#39;s Tetrastichon on Saint Anne across three early printed witnesses, with facsimiles and downloadable apparatus.">
+<link rel="canonical" href="https://trithemius-corpus.github.io/Trithemius-Corpus/witness-comparison.html"><meta property="og:type" content="website">
+<meta property="og:site_name" content="Trithemius Corpus">
+<meta property="og:title" content="Witness Comparison &mdash; Trithemius Corpus">
+<meta property="og:description" content="A human-verified collation of Trithemius&#39;s Tetrastichon on Saint Anne across three early printed witnesses, with facsimiles and downloadable apparatus.">
+<meta property="og:url" content="https://trithemius-corpus.github.io/Trithemius-Corpus/witness-comparison.html"><meta property="og:image" content="https://trithemius-corpus.github.io/Trithemius-Corpus/static/images/hero-steganographia-wheel.webp"><meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@trithemius_corpus">
+<meta name="twitter:title" content="Witness Comparison &mdash; Trithemius Corpus">
+<meta name="twitter:description" content="A human-verified collation of Trithemius&#39;s Tetrastichon on Saint Anne across three early printed witnesses, with facsimiles and downloadable apparatus.">
+<meta name="twitter:image" content="https://trithemius-corpus.github.io/Trithemius-Corpus/static/images/hero-steganographia-wheel.webp"><link rel="icon" type="image/svg+xml" href="static/favicon.svg">
+<meta name="theme-color" content="#100d12">
+<link rel="stylesheet" href="static/fonts.css">
+<link rel="stylesheet" href="static/style.css">
+<link rel="stylesheet" href="static/witness-comparison.css"><script>
+  // Apply the saved theme before first paint to avoid a flash of the wrong theme.
+  // 'auto' resolves from the OS colour-scheme preference (light→parchment,
+  // dark→steganographia) and is stored on a distinct attribute so the switcher
+  // can highlight 'auto' as active while the concrete theme paints immediately.
+  (function () {
+    function resolveAuto() {
+      try {
+        return window.matchMedia &&
+               window.matchMedia('(prefers-color-scheme: light)').matches
+               ? 'parchment' : 'steganographia';
+      } catch (e) { return 'steganographia'; }
+    }
+    try {
+      var t = localStorage.getItem('tc-theme');
+      if (t === 'auto') {
+        var r = resolveAuto();
+        document.documentElement.setAttribute('data-tc-theme', 'auto');
+        if (r !== 'steganographia') document.documentElement.setAttribute('data-theme', r);
+      } else if (t && t !== 'steganographia') {
+        document.documentElement.setAttribute('data-theme', t);
+      }
+    } catch (e) {}
+  })();
+</script>
+</head>
+<body class="parchment">
+<a class="skip-link" href="#main">Skip to content</a>
+<div class="read-progress" id="readProgress" aria-hidden="true"><span class="read-progress-pct" id="readProgressPct"></span></div>
+<header class="site-header">
+  <div class="container">
+    <div class="site-title"><a href="index.html">Trithemius Corpus</a></div>
+    <button class="nav-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="siteNav">
+      <span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span><span class="nav-toggle-bar"></span>
+    </button>
+    <nav class="site-nav" id="siteNav" aria-label="Site">
+      <a href="works.html" class="is-active" aria-current="page">Works</a>
+      <a href="ciphers.html">The Ciphers</a>
+      <a href="tools.html">Cipher Lab</a>
+      <a href="scoreboard.html">Quality</a>
+      <a href="methodology.html">Methodology</a>
+      <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus">GitHub</a>
+      <a href="search.html" class="nav-search" title="Search the corpus">&#128269; Search</a>
+      <span class="theme-switcher" role="group" aria-label="Theme">
+        <span class="theme-label" aria-hidden="true">Theme</span>
+        <button type="button" data-set="steganographia" title="Steganographia (celestial night)" aria-label="Steganographia theme"></button>
+        <button type="button" data-set="candlelight" title="Candlelight (warm dark)" aria-label="Candlelight theme"></button>
+        <button type="button" data-set="parchment" title="Parchment (light scholarly)" aria-label="Parchment theme"></button>
+        <button type="button" data-set="ink" title="Ink (high-contrast facsimile)" aria-label="Ink theme"></button>
+      </span>
+    </nav>
+  </div>
+</header>
+
+<main class="container" id="main">
+<article class="witness-edition" data-witness-comparison>
+  <header>
+    <p class="eyebrow">Human-verified witness comparison</p>
+    <h1>Tetrastichon on Saint Anne</h1>
+    <p class="lede">A four-line pilot collated directly from three digitized editions of <em>De laudibus sanctissimae matris Annae</em>. The display separates what the witnesses print from normalization and from OCR behavior.</p>
+  </header>
+
+  <aside class="comparison-caution">
+    <strong>OCR is not variation.</strong> This pilot finds no substantive verbal variation in the four lines. OCR output is retained only as a diagnostic record and is never promoted to the textual apparatus.
+  </aside>
+
+  <div class="layer-switch" role="group" aria-label="Transcription layer">
+    <button type="button" data-layer="diplomatic" aria-pressed="true">Diplomatic</button>
+    <button type="button" data-layer="normalized" aria-pressed="false">Normalized</button>
+  </div>
+
+  <section aria-labelledby="witnesses-heading">
+    <h2 id="witnesses-heading">The witnesses</h2>
+    <p class="comparison-help">Read each column independently. The restrained ribbons simply keep corresponding verse lines in view; they carry no claim about descent or dependence.</p>
+    <div class="comparison-stage">
+      <svg class="comparison-ribbons" aria-hidden="true"></svg>
+      <div class="witness-grid">
+        <article class="witness-card" id="witness-M1494">
+          <header><h3><span class="siglum">M1494</span> Mainz, 1494</h3><p>1r (scan 0001)</p></header>
+          <ol class="witness-lines witness-lines-diplomatic" lang="la">
+<li data-verse-line="1">Virginis almifice mater venerabilis anna</li><li data-verse-line="2">Excellens meritis. et pietate potens.</li><li data-verse-line="3">Nemo tristis abit qui te colit et veneratur.</li><li data-verse-line="4">Fers cunctis placidā quippe salutis opem.</li>          </ol>
+          <ol class="witness-lines witness-lines-normalized" lang="la" hidden>
+<li data-verse-line="1">Virginis almifice mater venerabilis Anna</li><li data-verse-line="2">Excellens meritis et pietate potens.</li><li data-verse-line="3">Nemo tristis abit qui te colit et veneratur.</li><li data-verse-line="4">Fers cunctis placidam quippe salutis opem.</li>          </ol>
+          <p class="witness-links"><a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00008347/canvas/1">Open facsimile at 1r (scan 0001)</a> · <a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00008347/manifest">IIIF manifest</a></p>
+          <details><summary>Bibliographic record</summary><p>Johannes Trithemius, De laudibus sanctissimae matris Annae (Mainz, 1494), BSB 4 Inc.c.a. 1121.</p></details>
+        </article>
+        <article class="witness-card" id="witness-L1497">
+          <header><h3><span class="siglum">L1497</span> Leipzig, ca. 1497</h3><p>19r (scan 0045)</p></header>
+          <ol class="witness-lines witness-lines-diplomatic" lang="la">
+<li data-verse-line="1">Virginis almifice mater venerabilis anna</li><li data-verse-line="2">Excellens meritis . et pietate potens</li><li data-verse-line="3">Nemo tristis abit qui te colit et veneratur</li><li data-verse-line="4">Fers cunctis placidam quippe salutis opem</li>          </ol>
+          <ol class="witness-lines witness-lines-normalized" lang="la" hidden>
+<li data-verse-line="1">Virginis almifice mater venerabilis Anna</li><li data-verse-line="2">Excellens meritis et pietate potens.</li><li data-verse-line="3">Nemo tristis abit qui te colit et veneratur.</li><li data-verse-line="4">Fers cunctis placidam quippe salutis opem.</li>          </ol>
+          <p class="witness-links"><a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00040384/canvas/45">Open facsimile at 19r (scan 0045)</a> · <a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00040384/manifest">IIIF manifest</a></p>
+          <details><summary>Bibliographic record</summary><p>Johannes Trithemius, De laudibus sanctissimae matris Annae (Leipzig: Melchior Lotter, ca. 1497), BSB 4 Inc.c.a. 1775.</p></details>
+        </article>
+        <article class="witness-card" id="witness-L1501">
+          <header><h3><span class="siglum">L1501</span> Leipzig, 1501</h3><p>18r (scan 0036)</p></header>
+          <ol class="witness-lines witness-lines-diplomatic" lang="la">
+<li data-verse-line="1">Virginis almifice mater venerabilis anna</li><li data-verse-line="2">Excellens meritis.et pietate potens</li><li data-verse-line="3">Nemo tristis abit qui te colit et veneratur</li><li data-verse-line="4">Fers cunctis placidam quippe salutis opem</li>          </ol>
+          <ol class="witness-lines witness-lines-normalized" lang="la" hidden>
+<li data-verse-line="1">Virginis almifice mater venerabilis Anna</li><li data-verse-line="2">Excellens meritis et pietate potens.</li><li data-verse-line="3">Nemo tristis abit qui te colit et veneratur.</li><li data-verse-line="4">Fers cunctis placidam quippe salutis opem.</li>          </ol>
+          <p class="witness-links"><a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00011308/canvas/36">Open facsimile at 18r (scan 0036)</a> · <a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00011308/manifest">IIIF manifest</a></p>
+          <details><summary>Bibliographic record</summary><p>Johannes Trithemius, De laudibus sanctissimae matris Annae (Leipzig: Melchior Lotter, 1501), BSB 4 Asc. 246.</p></details>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <section aria-labelledby="apparatus-heading">
+    <h2 id="apparatus-heading">Collation and classification</h2>
+    <div class="variant-summary" aria-label="Variation totals">
+      <span><strong>0</strong> Substantive</span>
+      <span><strong>1</strong> Orthographic / abbreviation</span>
+      <span><strong>4</strong> Punctuation</span>
+      <span><strong>0</strong> Unresolved</span>
+    </div>
+    <div class="table-scroll"><table class="apparatus-table">
+      <caption>Every classified textual variation unit; readings link back to their witness facsimiles.</caption>
+      <thead><tr><th scope="col">Line / class</th><th scope="col">Lemma</th><th scope="col">M1494</th><th scope="col">L1497</th><th scope="col">L1501</th><th scope="col">Editorial note</th></tr></thead>
+      <tbody><tr>
+        <th scope="row">2 · punctuation</th><td lang="la">meritis et</td>
+<td lang="la"><a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00008347/canvas/1">meritis. et</a></td><td lang="la"><a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00040384/canvas/45">meritis . et</a></td><td lang="la"><a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00011308/canvas/36">meritis.et</a></td>        <td>All witnesses print a point after meritis; only spacing differs. The normalized layer removes the medial point.</td>
+      </tr><tr>
+        <th scope="row">4 · orthographic</th><td lang="la">placidam</td>
+<td lang="la"><a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00008347/canvas/1">placidā</a></td><td lang="la"><a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00040384/canvas/45">placidam</a></td><td lang="la"><a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00011308/canvas/36">placidam</a></td>        <td>M1494 abbreviates final -m with a macron; the Leipzig witnesses spell the ending out.</td>
+      </tr><tr>
+        <th scope="row">2 · punctuation</th><td lang="la">potens.</td>
+<td lang="la"><a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00008347/canvas/1">potens.</a></td><td lang="la"><a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00040384/canvas/45">potens</a></td><td lang="la"><a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00011308/canvas/36">potens</a></td>        <td>M1494 closes the line with a point; no terminal point is visible in the Leipzig witnesses.</td>
+      </tr><tr>
+        <th scope="row">3 · punctuation</th><td lang="la">veneratur.</td>
+<td lang="la"><a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00008347/canvas/1">veneratur.</a></td><td lang="la"><a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00040384/canvas/45">veneratur</a></td><td lang="la"><a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00011308/canvas/36">veneratur</a></td>        <td>M1494 closes the line with a point; no terminal point is visible in the Leipzig witnesses.</td>
+      </tr><tr>
+        <th scope="row">4 · punctuation</th><td lang="la">opem.</td>
+<td lang="la"><a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00008347/canvas/1">opem.</a></td><td lang="la"><a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00040384/canvas/45">opem</a></td><td lang="la"><a href="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00011308/canvas/36">opem</a></td>        <td>M1494 closes the tetrastich with a point; no terminal point is visible in the Leipzig witnesses.</td>
+      </tr></tbody>
+    </table></div>
+  </section>
+
+  <section class="ocr-audit" aria-labelledby="ocr-heading">
+    <h2 id="ocr-heading">OCR audit trail</h2>
+    <p>These disagreements were checked against the scans and excluded from the apparatus. They describe machine recognition, not the transmitted text.</p>
+    <ul><li><strong>L1497</strong>: OCR <s lang="la">anns</s> → verified <span lang="la">anna</span>. The scan clearly prints anna.</li><li><strong>L1497</strong>: OCR <s lang="la">Memo</s> → verified <span lang="la">Nemo</span>. The scan clearly prints Nemo.</li><li><strong>L1501</strong>: OCR <s lang="la">auna</s> → verified <span lang="la">anna</span>. The scan clearly prints anna.</li><li><strong>L1501</strong>: OCR <s lang="la">Memo</s> → verified <span lang="la">Nemo</span>. The scan clearly prints Nemo.</li></ul>
+  </section>
+
+  <section class="comparison-provenance">
+    <h2>Editorial record and downloads</h2>
+    <p><strong>human-verified-from-facsimile</strong>, 2026-07-26. All four lines in all three witnesses were read directly from the linked BSB scans.</p>
+    <p>Diplomatic text preserves printed spelling, abbreviation marks, capitalization, and sentence punctuation while representing long s as s. Normalized text expands abbreviation marks and supplies consistent punctuation; it does not modernize vocabulary.</p>
+    <p><a download href="data/witness-comparisons/anna-tetrastichon.tei.xml">Download TEI apparatus</a> · <a download href="data/witness-comparisons/anna-tetrastichon.tsv">Download TSV</a> · <a download href="data/witness-comparisons/anna-tetrastichon.json">Download JSON</a></p>
+  </section>
+</article>
+<script src="static/witness-comparison.js" defer></script>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-cols">
+      <div>
+        <h4>Browse</h4>
+        <a href="works.html">The works</a>
+        <a href="works-trithemius-4b.html">Trithemius 4B editions</a>
+        <a href="ciphers.html">The ciphers</a>
+        <a href="scoreboard.html">Editorial status</a>
+      </div>
+      <div>
+        <h4>About</h4>
+        <a href="methodology.html">Methodology &amp; limitations</a>
+        <a href="LICENSE.html">License &amp; rights</a>
+      </div>
+      <div>
+        <h4>Project</h4>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus">Source on GitHub</a>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/blob/main/CONTRIBUTING.md">Contribute corrections</a>
+        <a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/blob/main/CITATION.cff">How to cite</a>
+      </div>
+    </div>
+    <p class="footer-byline muted">
+      Machine-assisted English translations of the Latin works of Johannes Trithemius (1462&ndash;1516).
+      Every translation is machine-produced and independently audited; for scholarly quotation, check the Latin.
+      Translations &amp; generated data: public domain (CC0). Methodology, docs &amp; code: CC BY 4.0. Compiled 2026 by Ian Carlos Fabin.
+    </p>
+  </div>
+</footer>
+<script>
+  // Mobile nav toggle — collapses the site-nav into a hamburger menu on
+  // narrow viewports. ARIA-expanded reflects state; clicking a link or
+  // outside closes it.
+  (function () {
+    var toggle = document.querySelector('.nav-toggle');
+    var nav = document.getElementById('siteNav');
+    if (!toggle || !nav) return;
+    function setOpen(open) {
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      toggle.setAttribute('aria-label', open ? 'Close menu' : 'Open menu');
+      nav.classList.toggle('is-open', open);
+    }
+    toggle.addEventListener('click', function () {
+      setOpen(toggle.getAttribute('aria-expanded') !== 'true');
+    });
+    // close on link click (mobile) and on Escape
+    nav.addEventListener('click', function (e) { if (e.target.tagName === 'A') setOpen(false); });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && toggle.getAttribute('aria-expanded') === 'true') setOpen(false);
+    });
+    // reset on resize back to desktop
+    window.addEventListener('resize', function () {
+      if (window.innerWidth > 760) setOpen(false);
+    });
+  })();
+
+  // Theme switcher — persists choice in localStorage under 'tc-theme'.
+  // Theme switcher — steganographia (default dark), parchment (light), ink
+  // (high-contrast), candlelight (warm dark), and auto (follow OS preference).
+  (function () {
+    var root = document.documentElement;
+    function resolveAuto() {
+      try {
+        return window.matchMedia &&
+               window.matchMedia('(prefers-color-scheme: light)').matches
+               ? 'parchment' : 'steganographia';
+      } catch (e) { return 'steganographia'; }
+    }
+    function applyTheme(t) {
+      // track the chosen theme (incl. auto) on data-tc-theme; paint the
+      // concrete theme on data-theme.
+      if (t === 'auto') {
+        root.setAttribute('data-tc-theme', 'auto');
+        var r = resolveAuto();
+        if (r === 'steganographia') root.removeAttribute('data-theme');
+        else root.setAttribute('data-theme', r);
+      } else {
+        root.removeAttribute('data-tc-theme');
+        if (t === 'steganographia') root.removeAttribute('data-theme');
+        else root.setAttribute('data-theme', t);
+      }
+    }
+    var current = 'steganographia';
+    try { current = localStorage.getItem('tc-theme') || 'steganographia'; } catch (e) {}
+    applyTheme(current);
+    // if OS preference changes while 'auto' is selected, re-resolve live
+    try {
+      window.matchMedia('(prefers-color-scheme: light)').addEventListener('change', function () {
+        if ((localStorage.getItem('tc-theme') || '') === 'auto') applyTheme('auto');
+      });
+    } catch (e) {}
+    document.querySelectorAll('.theme-switcher button[data-set]').forEach(function (btn) {
+      var pressed = btn.getAttribute('data-set') === current;
+      btn.setAttribute('aria-pressed', pressed ? 'true' : 'false');
+      btn.addEventListener('click', function () {
+        var t = btn.getAttribute('data-set');
+        try { localStorage.setItem('tc-theme', t); } catch (e) {}
+        applyTheme(t);
+        document.querySelectorAll('.theme-switcher button[data-set]').forEach(function (b) {
+          b.setAttribute('aria-pressed', b.getAttribute('data-set') === t ? 'true' : 'false');
+        });
+      });
+    });
+  })();
+  // Reading progress bar (overall page scroll) + percentage indicator
+  (function(){
+    var bar=document.getElementById('readProgress');
+    var pct=document.getElementById('readProgressPct');
+    if(!bar)return;
+    var ticking=false;
+    function onScroll(){
+      if(ticking)return; ticking=true;
+      requestAnimationFrame(function(){
+        var h=document.documentElement.scrollHeight-window.innerHeight;
+        var p=h>0?Math.min(1,window.scrollY/h):0;
+        bar.style.transform='scaleX('+p.toFixed(3)+')';
+        bar.classList.toggle('is-active', p>0.02);
+        if(pct){
+          var n=Math.round(p*100);
+          pct.textContent=n<1?'':n+'%';
+          pct.setAttribute('aria-hidden', (n<3).toString());
+        }
+        ticking=false;
+      });
+    }
+    window.addEventListener('scroll',onScroll,{passive:true});
+    window.addEventListener('resize',onScroll);
+    onScroll();
+  })();
+  // Random work button — uses the work-ID list baked in at build time (no
+  // fetch() needed, so it works on file://, HTTP, and GitHub Pages).
+  (function(){
+    var btn=document.getElementById('randomWorkBtn');
+    if(!btn)return;
+    var workIds=window.TC_WORK_IDS||[];
+    btn.addEventListener('click',function(e){
+      e.preventDefault();
+      if(!workIds.length){
+        // graceful fallback: go to the works listing
+        window.location.href=btn.href;
+        return;
+      }
+      var pick=workIds[Math.floor(Math.random()*workIds.length)];
+      // resolve relative to this page (works/<id>.html)
+      var base=btn.href.replace(/works\.html.*$/,'');
+      window.location.href=base+'works/'+pick+'.html';
+    });
+  })();
+  // Cipher substitution tables: tag each .table-scroll that overflows
+  // horizontally so the CSS right-edge scroll affordance (the ::after fade)
+  // only appears when there is actually more to scroll sideways.
+  (function () {
+    function tagScroll() {
+      document.querySelectorAll('.table-scroll').forEach(function (ts) {
+        if (ts.scrollWidth > ts.clientWidth + 2) ts.classList.add('scrollable-x');
+        else ts.classList.remove('scrollable-x');
+      });
+    }
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(tagScroll);
+    window.addEventListener('load', tagScroll);
+    var t; window.addEventListener('resize', function () { clearTimeout(t); t = setTimeout(tagScroll, 150); });
+  })();
+</script>
+</body>
+</html>

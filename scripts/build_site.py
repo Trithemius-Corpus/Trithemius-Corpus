@@ -2603,7 +2603,7 @@ def main() -> None:
     global ALL_WORK_IDS
     ALL_WORK_IDS = [w["id"] for w in works]
     sitemap_paths: list[str] = ["index.html", "works.html", "scoreboard.html",
-                                "ciphers.html", "cipher-solutions.html", "methodology.html",
+                                "ciphers.html", "cipher-solutions.html", "witness-comparison.html", "methodology.html",
                                 "LICENSE.html"]
 
     (OUT / "index.html").write_text(
@@ -2694,6 +2694,22 @@ def main() -> None:
                 "cipher-solutions.html",
                 "An executable scholarly edition of Clavis Modus II: printed evidence, transcription, extraction, substitution, and computed plaintext.",
                 nav="ciphers",
+            ),
+        ),
+        encoding="utf-8",
+    )
+
+    # Human-verified, source-linked pilot collation across three witnesses.
+    from build_witness_comparison import load_comparison, publish as publish_comparison
+    witness_comparison = load_comparison()
+    publish_comparison(witness_comparison)
+    (OUT / "witness-comparison.html").write_text(
+        env.get_template("witness_comparison.html.j2").render(
+            comparison=witness_comparison, url=make_url(0), asset=make_asset(0),
+            **page_meta(
+                "witness-comparison.html",
+                "A human-verified collation of Trithemius's Tetrastichon on Saint Anne across three early printed witnesses, with facsimiles and downloadable apparatus.",
+                nav="works",
             ),
         ),
         encoding="utf-8",

@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "witness-comparison.schema.json",
+  "title": "Trithemius witness comparison",
+  "type": "object",
+  "required": ["id", "title", "verified", "witnesses", "variation_units", "ocr_observations", "summary"],
+  "properties": {
+    "id": {"type": "string", "pattern": "^[a-z0-9-]+$"},
+    "verified": {"type": "object", "required": ["status", "date", "scope", "conventions"]},
+    "witnesses": {
+      "type": "array", "minItems": 2, "maxItems": 3,
+      "items": {"type": "object", "required": ["id", "siglum", "label", "locator", "manifest", "canvas", "image_service", "image", "diplomatic", "normalized"]}
+    },
+    "variation_units": {"type": "array", "items": {"type": "object", "required": ["id", "line", "type", "lemma", "readings", "note"]}},
+    "ocr_observations": {"type": "array", "items": {"type": "object", "required": ["witness", "reported", "verified", "type", "note"]}},
+    "summary": {"type": "object", "required": ["substantive", "orthographic", "punctuation", "ocr_error", "unresolved"]}
+  }
+}

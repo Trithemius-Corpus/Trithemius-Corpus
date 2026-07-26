@@ -1,0 +1,145 @@
+{
+  "$schema": "../schemas/witness-comparison.schema.json",
+  "id": "anna-tetrastichon",
+  "title": "Tetrastichon on Saint Anne",
+  "author": "Johannes Trithemius",
+  "work": "De laudibus sanctissimae matris Annae",
+  "language": "la",
+  "verified": {
+    "status": "human-verified-from-facsimile",
+    "date": "2026-07-26",
+    "scope": "All four lines in all three witnesses were read directly from the linked BSB scans.",
+    "conventions": "Diplomatic text preserves printed spelling, abbreviation marks, capitalization, and sentence punctuation while representing long s as s. Normalized text expands abbreviation marks and supplies consistent punctuation; it does not modernize vocabulary."
+  },
+  "witnesses": [
+    {
+      "id": "M1494",
+      "siglum": "M1494",
+      "label": "Mainz, 1494",
+      "bibliography": "Johannes Trithemius, De laudibus sanctissimae matris Annae (Mainz, 1494), BSB 4 Inc.c.a. 1121.",
+      "work_id": "prdl-24364_de-laudibus-sanctissimae-matris-annae",
+      "locator": "1r (scan 0001)",
+      "manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00008347/manifest",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00008347/canvas/1",
+      "image_service": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00008347_00001",
+      "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00008347_00001/full/1000,/0/default.jpg",
+      "diplomatic": [
+        "Virginis almifice mater venerabilis anna",
+        "Excellens meritis. et pietate potens.",
+        "Nemo tristis abit qui te colit et veneratur.",
+        "Fers cunctis placidā quippe salutis opem."
+      ],
+      "normalized": [
+        "Virginis almifice mater venerabilis Anna",
+        "Excellens meritis et pietate potens.",
+        "Nemo tristis abit qui te colit et veneratur.",
+        "Fers cunctis placidam quippe salutis opem."
+      ]
+    },
+    {
+      "id": "L1497",
+      "siglum": "L1497",
+      "label": "Leipzig, ca. 1497",
+      "bibliography": "Johannes Trithemius, De laudibus sanctissimae matris Annae (Leipzig: Melchior Lotter, ca. 1497), BSB 4 Inc.c.a. 1775.",
+      "work_id": "prdl-24366_de-laudibus-sanctissimae-matris-annae-liptzk-1497",
+      "locator": "19r (scan 0045)",
+      "manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00040384/manifest",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00040384/canvas/45",
+      "image_service": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040384_00045",
+      "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040384_00045/full/1000,/0/default.jpg",
+      "diplomatic": [
+        "Virginis almifice mater venerabilis anna",
+        "Excellens meritis . et pietate potens",
+        "Nemo tristis abit qui te colit et veneratur",
+        "Fers cunctis placidam quippe salutis opem"
+      ],
+      "normalized": [
+        "Virginis almifice mater venerabilis Anna",
+        "Excellens meritis et pietate potens.",
+        "Nemo tristis abit qui te colit et veneratur.",
+        "Fers cunctis placidam quippe salutis opem."
+      ]
+    },
+    {
+      "id": "L1501",
+      "siglum": "L1501",
+      "label": "Leipzig, 1501",
+      "bibliography": "Johannes Trithemius, De laudibus sanctissimae matris Annae (Leipzig: Melchior Lotter, 1501), BSB 4 Asc. 246.",
+      "work_id": "prdl-24367_de-laudibus-sanctissimae-matris-annae-liptzk-1501",
+      "locator": "18r (scan 0036)",
+      "manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00011308/manifest",
+      "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00011308/canvas/36",
+      "image_service": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00011308_00036",
+      "image": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00011308_00036/full/1000,/0/default.jpg",
+      "diplomatic": [
+        "Virginis almifice mater venerabilis anna",
+        "Excellens meritis.et pietate potens",
+        "Nemo tristis abit qui te colit et veneratur",
+        "Fers cunctis placidam quippe salutis opem"
+      ],
+      "normalized": [
+        "Virginis almifice mater venerabilis Anna",
+        "Excellens meritis et pietate potens.",
+        "Nemo tristis abit qui te colit et veneratur.",
+        "Fers cunctis placidam quippe salutis opem."
+      ]
+    }
+  ],
+  "variation_units": [
+    {
+      "id": "v1",
+      "line": 2,
+      "type": "punctuation",
+      "lemma": "meritis et",
+      "readings": {"M1494": "meritis. et", "L1497": "meritis . et", "L1501": "meritis.et"},
+      "note": "All witnesses print a point after meritis; only spacing differs. The normalized layer removes the medial point."
+    },
+    {
+      "id": "v2",
+      "line": 4,
+      "type": "orthographic",
+      "subtype": "abbreviation",
+      "lemma": "placidam",
+      "readings": {"M1494": "placidā", "L1497": "placidam", "L1501": "placidam"},
+      "note": "M1494 abbreviates final -m with a macron; the Leipzig witnesses spell the ending out."
+    },
+    {
+      "id": "v3",
+      "line": 2,
+      "type": "punctuation",
+      "lemma": "potens.",
+      "readings": {"M1494": "potens.", "L1497": "potens", "L1501": "potens"},
+      "note": "M1494 closes the line with a point; no terminal point is visible in the Leipzig witnesses."
+    },
+    {
+      "id": "v4",
+      "line": 3,
+      "type": "punctuation",
+      "lemma": "veneratur.",
+      "readings": {"M1494": "veneratur.", "L1497": "veneratur", "L1501": "veneratur"},
+      "note": "M1494 closes the line with a point; no terminal point is visible in the Leipzig witnesses."
+    },
+    {
+      "id": "v5",
+      "line": 4,
+      "type": "punctuation",
+      "lemma": "opem.",
+      "readings": {"M1494": "opem.", "L1497": "opem", "L1501": "opem"},
+      "note": "M1494 closes the tetrastich with a point; no terminal point is visible in the Leipzig witnesses."
+    }
+  ],
+  "ocr_observations": [
+    {"witness": "L1497", "reported": "anns", "verified": "anna", "type": "ocr-error", "note": "The scan clearly prints anna."},
+    {"witness": "L1497", "reported": "Memo", "verified": "Nemo", "type": "ocr-error", "note": "The scan clearly prints Nemo."},
+    {"witness": "L1501", "reported": "auna", "verified": "anna", "type": "ocr-error", "note": "The scan clearly prints anna."},
+    {"witness": "L1501", "reported": "Memo", "verified": "Nemo", "type": "ocr-error", "note": "The scan clearly prints Nemo."}
+  ],
+  "summary": {
+    "substantive": 0,
+    "orthographic": 1,
+    "punctuation": 4,
+    "ocr_error": 4,
+    "unresolved": 0
+  },
+  "editorial_note": "This pilot finds no substantive verbal variation in the four lines. OCR output is retained only as a diagnostic record and is never promoted to the textual apparatus."
+}
