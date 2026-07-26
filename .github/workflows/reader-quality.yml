@@ -18,6 +18,7 @@ on:
       - "scripts/validate_iiif.py"
       - "scripts/validate_passages.py"
       - "scripts/validate_reader.py"
+      - "scripts/validate_study_reader.py"
       - "site/templates/**"
       - "site/static/**"
       - "site/dist/**"
@@ -40,6 +41,7 @@ on:
       - "scripts/validate_iiif.py"
       - "scripts/validate_passages.py"
       - "scripts/validate_reader.py"
+      - "scripts/validate_study_reader.py"
       - "site/templates/**"
       - "site/static/**"
       - "site/dist/**"
@@ -80,3 +82,4 @@ jobs:
           python scripts/validate_reader.py
           python scripts/validate_passages.py
           python scripts/validate_iiif.py
+          python scripts/validate_study_reader.py

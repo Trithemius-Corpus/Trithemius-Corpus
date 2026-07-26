@@ -159,7 +159,10 @@
 
 <section class="work-translation">
   <h2>English translation</h2>
-<aside class="chnav" data-anchor="ch"
+<nav class="reader-modes" aria-label="Reading mode">
+    <a href="?view=read#study-reader" data-reader-mode="read" aria-current="page">Read</a>
+    <a href="?view=study#study-reader" data-reader-mode="study">Study</a>
+  </nav><aside class="chnav" data-anchor="ch"
        data-total="3"
        data-source="length">
   <div class="chnav-head">
@@ -405,9 +408,26 @@
             title="Copy a citation for the current passage" disabled>&#128203;<span class="rt-label"> Cite passage</span></button>
     <span class="rt-passage-label" id="rt-passage-label" aria-hidden="true"></span>
     <span class="sr-only" id="rt-passage-status" role="status" aria-live="polite"></span>
+    <button type="button" class="rt-toggle" id="rt-search-toggle" aria-expanded="false"
+            aria-controls="rt-search-panel" title="Search within this work">&#128269;<span class="rt-label"> Find</span></button>
     <span class="rt-spacer"></span>
     <button type="button" class="rt-toggle" id="rt-read"
             title="Read this page aloud">&#9655;<span class="rt-label"> Read aloud</span></button>
+  </div>
+  <form class="rt-search-panel" id="rt-search-panel" role="search" hidden>
+    <label for="rt-work-search">Find in this work</label>
+    <input id="rt-work-search" type="search" autocomplete="off" enterkeyhint="search">
+    <output id="rt-search-count" for="rt-work-search" aria-live="polite">No search</output>
+    <button type="button" id="rt-search-prev" aria-label="Previous match">&#8593;</button>
+    <button type="button" id="rt-search-next" aria-label="Next match">&#8595;</button>
+    <button type="button" id="rt-search-close">Close</button>
+    <div class="rt-match-strip" id="rt-match-strip" aria-hidden="true"></div>
+  </form>
+  <div class="study-options" id="study-options" hidden>
+    <span>Text layer</span>
+    <button type="button" data-text-layer="normalized" aria-pressed="true">Normalized English</button>
+    <button type="button" data-text-layer="diplomatic" aria-pressed="false">Diplomatic Latin OCR</button>
+    <button type="button" id="rt-annotations-toggle" aria-pressed="true">Annotations</button>
   </div>
   <div class="rt-type-panel" id="rt-type-panel" hidden>
     <label>Size <input type="range" id="rt-font" min="90" max="135" step="5" value="100"><output for="rt-font">100%</output></label>
@@ -416,7 +436,12 @@
     <label class="rt-check"><input type="checkbox" id="rt-justify" checked> Justified</label>
     <button type="button" id="rt-reset" class="rt-reset">Reset</button>
   </div>
-  <div class="english-body">
+  <div class="study-shell" id="study-reader">
+<aside class="study-minimap" id="study-minimap" aria-label="Chapter and reading progress" hidden>
+    <div class="study-progress" role="progressbar" aria-label="Reading progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span></span></div>
+    <ol id="study-minimap-list"></ol>
+  </aside>
+  <div class="english-body" data-study-pane="english">
 <h2 class="reading-work-title">On the True Conversion of the Mind to God</h2><section class="chapter" id="ch-1" data-seg="1">
 
 
@@ -503,6 +528,11 @@
 
 <p id="p-en-0013-0001" data-passage-id="p-en-0013-0001" data-passage-uri="trc:prdl-24375_de-vera-conversione-mentis-ad-deum:seg-0013:p-0001" data-segment="13"><em>From the letter of Libanus Gallus the Platonist, a most learned man.</em></p>
 <p id="p-en-0013-0002" data-passage-id="p-en-0013-0002" data-passage-uri="trc:prdl-24375_de-vera-conversione-mentis-ad-deum:seg-0013:p-0002" data-segment="13">As for your oration on the saving conversion to God, I cannot but approve it. It is sweet indeed, and yet not idle; and although it flows peacefully like a most pure spring, nevertheless it is filled with weighty and choice thoughts, so that the careful reader may understand that you are a man of very wide reading, singular talent, and endowed with the highest learning. Would that those whom I might rightly call <span class="anno anno-unclear" id="a-en-0013-0002-001" data-annotation-id="trc:prdl-24375_de-vera-conversione-mentis-ad-deum:seg-0013:p-0002:annotation-001">[unclear]</span> did not defile Christian theology with that <span class="anno anno-unclear" id="a-en-0013-0002-002" data-annotation-id="trc:prdl-24375_de-vera-conversione-mentis-ad-deum:seg-0013:p-0002:annotation-002">[unclear]</span> manner of speaking, or at least would bear with an even mind that it be claimed back, by right of return, from the barbarians who even made it barbarous, into its former state and dignity by the best men learned in Greek and Latin. Against those barbarians, namely teachers of youth, who, though untaught, profess themselves learned, Brother Joannes Annius, a learned and upright man, not unjustly growing indignant, cries out in the questionary prologue on Philo, saying: “O impiety! Sacred Scripture is manifest; the testimony of God is clear, giving wisdom to little ones. The divine letters have no need of folds, nor coverings, nor refoldings, because these do not give wisdom to little ones, but leave their minds in confusion, and throughout the whole of life compel the minds of men to go astray, as Diodorus writes concerning the Greeks in the third book. Not those who fold, not those who refold, but those who unfold and elucidate me shall have eternal life, as the sacred letters bear witness.”</p></section>
+  </div>
+<section class="study-latin" data-study-pane="latin" lang="la" aria-label="Diplomatic Latin OCR" hidden>
+    <h2>Diplomatic Latin OCR</h2>
+    <div id="study-latin-content"><p>Loading aligned Latin…</p></div>
+  </section>
   </div>
 </section>
 

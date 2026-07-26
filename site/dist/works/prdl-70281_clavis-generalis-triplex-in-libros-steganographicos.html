@@ -170,7 +170,10 @@
 
 <section class="work-translation">
   <h2>English translation</h2>
-<aside class="chnav" data-anchor="ch"
+<nav class="reader-modes" aria-label="Reading mode">
+    <a href="?view=read#study-reader" data-reader-mode="read" aria-current="page">Read</a>
+    <a href="?view=study#study-reader" data-reader-mode="study">Study</a>
+  </nav><aside class="chnav" data-anchor="ch"
        data-total="19"
        data-source="headings">
   <div class="chnav-head">
@@ -496,9 +499,26 @@
             title="Copy a citation for the current passage" disabled>&#128203;<span class="rt-label"> Cite passage</span></button>
     <span class="rt-passage-label" id="rt-passage-label" aria-hidden="true"></span>
     <span class="sr-only" id="rt-passage-status" role="status" aria-live="polite"></span>
+    <button type="button" class="rt-toggle" id="rt-search-toggle" aria-expanded="false"
+            aria-controls="rt-search-panel" title="Search within this work">&#128269;<span class="rt-label"> Find</span></button>
     <span class="rt-spacer"></span>
     <button type="button" class="rt-toggle" id="rt-read"
             title="Read this page aloud">&#9655;<span class="rt-label"> Read aloud</span></button>
+  </div>
+  <form class="rt-search-panel" id="rt-search-panel" role="search" hidden>
+    <label for="rt-work-search">Find in this work</label>
+    <input id="rt-work-search" type="search" autocomplete="off" enterkeyhint="search">
+    <output id="rt-search-count" for="rt-work-search" aria-live="polite">No search</output>
+    <button type="button" id="rt-search-prev" aria-label="Previous match">&#8593;</button>
+    <button type="button" id="rt-search-next" aria-label="Next match">&#8595;</button>
+    <button type="button" id="rt-search-close">Close</button>
+    <div class="rt-match-strip" id="rt-match-strip" aria-hidden="true"></div>
+  </form>
+  <div class="study-options" id="study-options" hidden>
+    <span>Text layer</span>
+    <button type="button" data-text-layer="normalized" aria-pressed="true">Normalized English</button>
+    <button type="button" data-text-layer="diplomatic" aria-pressed="false">Diplomatic Latin OCR</button>
+    <button type="button" id="rt-annotations-toggle" aria-pressed="true">Annotations</button>
   </div>
   <div class="rt-type-panel" id="rt-type-panel" hidden>
     <label>Size <input type="range" id="rt-font" min="90" max="135" step="5" value="100"><output for="rt-font">100%</output></label>
@@ -507,7 +527,12 @@
     <label class="rt-check"><input type="checkbox" id="rt-justify" checked> Justified</label>
     <button type="button" id="rt-reset" class="rt-reset">Reset</button>
   </div>
-  <div class="english-body">
+  <div class="study-shell" id="study-reader">
+<aside class="study-minimap" id="study-minimap" aria-label="Chapter and reading progress" hidden>
+    <div class="study-progress" role="progressbar" aria-label="Reading progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span></span></div>
+    <ol id="study-minimap-list"></ol>
+  </aside>
+  <div class="english-body" data-study-pane="english">
 <h2 class="reading-work-title">Threefold General Key to the Steganographic Books</h2>
 
 <p id="p-en-0001-0001" data-passage-id="p-en-0001-0001" data-passage-uri="trc:prdl-70281_clavis-generalis-triplex-in-libros-steganographicos:seg-0001:p-0001" data-segment="1">[Source illegible — OCR-damaged or non-textual material; the source page image is the authoritative witness.]</p>
@@ -9901,6 +9926,11 @@ The eighth mode thus: 20000 20000 20</p>
 <p id="p-en-0132-0005" data-passage-id="p-en-0132-0005" data-passage-uri="trc:prdl-70281_clavis-generalis-triplex-in-libros-steganographicos:seg-0132:p-0005" data-segment="132">The third and last general key is made thus: if you wished to write, “Have mercy, God,” etc., as above, you will do as follows: you will count all the letters of your meaning, and, however many there are, into that many parts you will divide them; for example, if you wish to divide two by three, for one part of the whole sentence set above you will have 45 letters. Once divided, 22 will come to one part; one remains, which you will always attach at the end to the rest. You will write them in the similar way indicated below; afterwards you will vary them by the rules stated above.</p>
 <p id="p-en-0132-0006" data-passage-id="p-en-0132-0006" data-passage-uri="trc:prdl-70281_clavis-generalis-triplex-in-libros-steganographicos:seg-0132:p-0006" data-segment="132">Mainsiemraebuers osmanmiuplotreuns iducourfu. And this verse is divided by two; by 3, however, it is made thus: Mefinaffme dnrcleuors reau onmitmnu raopbrouutsm. By 4, however, thus: Mi auipnlfoio et mr reanenbmrs ut edfu oesu muar nsmu. And thus by dividing we proceed up to eight parts; afterwards, for making the letters signify something to the reader, with other vowels inserted, you will have this by the preceding eight rules, proceeding in our book, except that you examine each conjuration at the beginning through each of our <span class="anno anno-unclear" id="a-en-0132-0006-001" data-annotation-id="trc:prdl-70281_clavis-generalis-triplex-in-libros-steganographicos:seg-0132:p-0006:annotation-001">[unclear]</span>, which will soon be clear to your industry with this key. Therefore we ask that, for the salvation of our soul, you be willing to say the Lord’s Prayer.</p>
 <p id="p-en-0132-0007" data-passage-id="p-en-0132-0007" data-passage-uri="trc:prdl-70281_clavis-generalis-triplex-in-libros-steganographicos:seg-0132:p-0007" data-segment="132"><em>End.</em></p></section>
+  </div>
+<section class="study-latin" data-study-pane="latin" lang="la" aria-label="Diplomatic Latin OCR" hidden>
+    <h2>Diplomatic Latin OCR</h2>
+    <div id="study-latin-content"><p>Loading aligned Latin…</p></div>
+  </section>
   </div>
 </section>
 

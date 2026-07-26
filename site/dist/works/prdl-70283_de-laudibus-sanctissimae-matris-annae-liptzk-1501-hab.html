@@ -166,7 +166,10 @@
 
 <section class="work-translation">
   <h2>English translation</h2>
-<aside class="chnav" data-anchor="ch"
+<nav class="reader-modes" aria-label="Reading mode">
+    <a href="?view=read#study-reader" data-reader-mode="read" aria-current="page">Read</a>
+    <a href="?view=study#study-reader" data-reader-mode="study">Study</a>
+  </nav><aside class="chnav" data-anchor="ch"
        data-total="2"
        data-source="length">
   <div class="chnav-head">
@@ -407,9 +410,26 @@
             title="Copy a citation for the current passage" disabled>&#128203;<span class="rt-label"> Cite passage</span></button>
     <span class="rt-passage-label" id="rt-passage-label" aria-hidden="true"></span>
     <span class="sr-only" id="rt-passage-status" role="status" aria-live="polite"></span>
+    <button type="button" class="rt-toggle" id="rt-search-toggle" aria-expanded="false"
+            aria-controls="rt-search-panel" title="Search within this work">&#128269;<span class="rt-label"> Find</span></button>
     <span class="rt-spacer"></span>
     <button type="button" class="rt-toggle" id="rt-read"
             title="Read this page aloud">&#9655;<span class="rt-label"> Read aloud</span></button>
+  </div>
+  <form class="rt-search-panel" id="rt-search-panel" role="search" hidden>
+    <label for="rt-work-search">Find in this work</label>
+    <input id="rt-work-search" type="search" autocomplete="off" enterkeyhint="search">
+    <output id="rt-search-count" for="rt-work-search" aria-live="polite">No search</output>
+    <button type="button" id="rt-search-prev" aria-label="Previous match">&#8593;</button>
+    <button type="button" id="rt-search-next" aria-label="Next match">&#8595;</button>
+    <button type="button" id="rt-search-close">Close</button>
+    <div class="rt-match-strip" id="rt-match-strip" aria-hidden="true"></div>
+  </form>
+  <div class="study-options" id="study-options" hidden>
+    <span>Text layer</span>
+    <button type="button" data-text-layer="normalized" aria-pressed="true">Normalized English</button>
+    <button type="button" data-text-layer="diplomatic" aria-pressed="false">Diplomatic Latin OCR</button>
+    <button type="button" id="rt-annotations-toggle" aria-pressed="true">Annotations</button>
   </div>
   <div class="rt-type-panel" id="rt-type-panel" hidden>
     <label>Size <input type="range" id="rt-font" min="90" max="135" step="5" value="100"><output for="rt-font">100%</output></label>
@@ -418,7 +438,12 @@
     <label class="rt-check"><input type="checkbox" id="rt-justify" checked> Justified</label>
     <button type="button" id="rt-reset" class="rt-reset">Reset</button>
   </div>
-  <div class="english-body">
+  <div class="study-shell" id="study-reader">
+<aside class="study-minimap" id="study-minimap" aria-label="Chapter and reading progress" hidden>
+    <div class="study-progress" role="progressbar" aria-label="Reading progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span></span></div>
+    <ol id="study-minimap-list"></ol>
+  </aside>
+  <div class="english-body" data-study-pane="english">
 <h2 class="reading-work-title">In Praise of the Most Holy Mother Anne</h2><section class="chapter" id="ch-1" data-seg="1">
 
 
@@ -734,6 +759,11 @@ which the learned man has brought forth for you in love.</p>
 <p id="p-en-0006-0007" data-passage-id="p-en-0006-0007" data-passage-uri="trc:prdl-70283_de-laudibus-sanctissimae-matris-annae-liptzk-1501-hab:seg-0006:p-0007" data-segment="6">When, moreover, I ask what learned man ever wrote the contrary, I do not intend this of the ancient fathers in general, but of those who hold another opinion after the determination of the aforesaid council. And so I censure only the obstinacy of certain ignorant men of this time, not the opinion of any learned men whatsoever who think otherwise, since I am not ignorant of the declaration of Pope Sixtus IV. It has seemed to me, however, in no way abhorrent from the holy Roman Church to hold the faith of the most pure conception, which she believes and venerates; and today this is shown by written documents. Finally, with the doctors of the universities of Paris, Cologne, Heidelberg, Erfurt, Vienna, Leipzig, [Thowingensis], Ingolstadt, Basel, Mainz, and of many others, and with almost all orders and Christ’s faithful spread throughout the whole Christian world, I do not fear to venerate the conception of the Mother of God and Virgin Mary as pure. Yet I do not admit obstinacy, but I wish to obey the Roman Church in all things as the mother, most reverently to be honored, of all churches.</p>
 <p id="p-en-0006-0008" data-passage-id="p-en-0006-0008" data-passage-uri="trc:prdl-70283_de-laudibus-sanctissimae-matris-annae-liptzk-1501-hab:seg-0006:p-0008" data-segment="6">This is the pure and sincere intention of my aforesaid chapter, in which I consider that no one who holds an opinion soberly and without obstinacy is disparaged. Farewell, reader.</p>
 <p id="p-en-0006-0009" data-passage-id="p-en-0006-0009" data-passage-uri="trc:prdl-70283_de-laudibus-sanctissimae-matris-annae-liptzk-1501-hab:seg-0006:p-0009" data-segment="6">This letter of the aforesaid lord Johannes, the abbot, is lacking from certain copies through carelessness and negligence; nevertheless he himself ordered that it be appended to all copies, and decreed that it be regarded by each reader as placed at the beginning.</p></section>
+  </div>
+<section class="study-latin" data-study-pane="latin" lang="la" aria-label="Diplomatic Latin OCR" hidden>
+    <h2>Diplomatic Latin OCR</h2>
+    <div id="study-latin-content"><p>Loading aligned Latin…</p></div>
+  </section>
   </div>
 </section>
 

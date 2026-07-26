@@ -30,6 +30,7 @@
     location.hash = `canvas=${index}`;
     viewer.open(tileSource(manifest.items[index - 1]));
     status.textContent = `${text(manifest.items[index - 1].label, `Image ${index}`)} — alignment may be ${text(manifest.metadata?.[0]?.value, "approximate")}.`;
+    if (window.parent !== window) window.parent.postMessage({ type: "tc:canvas", canvas: index }, window.location.origin);
   };
 
   if (!manifestUrl) {

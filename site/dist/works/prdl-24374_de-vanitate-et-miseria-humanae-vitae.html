@@ -159,7 +159,10 @@
 
 <section class="work-translation">
   <h2>English translation</h2>
-<aside class="chnav" data-anchor="ch"
+<nav class="reader-modes" aria-label="Reading mode">
+    <a href="?view=read#study-reader" data-reader-mode="read" aria-current="page">Read</a>
+    <a href="?view=study#study-reader" data-reader-mode="study">Study</a>
+  </nav><aside class="chnav" data-anchor="ch"
        data-total="5"
        data-source="length">
   <div class="chnav-head">
@@ -415,9 +418,26 @@
             title="Copy a citation for the current passage" disabled>&#128203;<span class="rt-label"> Cite passage</span></button>
     <span class="rt-passage-label" id="rt-passage-label" aria-hidden="true"></span>
     <span class="sr-only" id="rt-passage-status" role="status" aria-live="polite"></span>
+    <button type="button" class="rt-toggle" id="rt-search-toggle" aria-expanded="false"
+            aria-controls="rt-search-panel" title="Search within this work">&#128269;<span class="rt-label"> Find</span></button>
     <span class="rt-spacer"></span>
     <button type="button" class="rt-toggle" id="rt-read"
             title="Read this page aloud">&#9655;<span class="rt-label"> Read aloud</span></button>
+  </div>
+  <form class="rt-search-panel" id="rt-search-panel" role="search" hidden>
+    <label for="rt-work-search">Find in this work</label>
+    <input id="rt-work-search" type="search" autocomplete="off" enterkeyhint="search">
+    <output id="rt-search-count" for="rt-work-search" aria-live="polite">No search</output>
+    <button type="button" id="rt-search-prev" aria-label="Previous match">&#8593;</button>
+    <button type="button" id="rt-search-next" aria-label="Next match">&#8595;</button>
+    <button type="button" id="rt-search-close">Close</button>
+    <div class="rt-match-strip" id="rt-match-strip" aria-hidden="true"></div>
+  </form>
+  <div class="study-options" id="study-options" hidden>
+    <span>Text layer</span>
+    <button type="button" data-text-layer="normalized" aria-pressed="true">Normalized English</button>
+    <button type="button" data-text-layer="diplomatic" aria-pressed="false">Diplomatic Latin OCR</button>
+    <button type="button" id="rt-annotations-toggle" aria-pressed="true">Annotations</button>
   </div>
   <div class="rt-type-panel" id="rt-type-panel" hidden>
     <label>Size <input type="range" id="rt-font" min="90" max="135" step="5" value="100"><output for="rt-font">100%</output></label>
@@ -426,7 +446,12 @@
     <label class="rt-check"><input type="checkbox" id="rt-justify" checked> Justified</label>
     <button type="button" id="rt-reset" class="rt-reset">Reset</button>
   </div>
-  <div class="english-body">
+  <div class="study-shell" id="study-reader">
+<aside class="study-minimap" id="study-minimap" aria-label="Chapter and reading progress" hidden>
+    <div class="study-progress" role="progressbar" aria-label="Reading progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span></span></div>
+    <ol id="study-minimap-list"></ol>
+  </aside>
+  <div class="english-body" data-study-pane="english">
 <h2 class="reading-work-title">On the Vanity and Misery of Human Life</h2><section class="chapter" id="ch-1" data-seg="1">
 
 
@@ -560,6 +585,11 @@
 
 <p id="p-en-0023-0001" data-passage-id="p-en-0023-0001" data-passage-uri="trc:prdl-24374_de-vanitate-et-miseria-humanae-vitae:seg-0023:p-0001" data-segment="23"><span class="anno anno-unclear" id="a-en-0023-0001-001" data-annotation-id="trc:prdl-24374_de-vanitate-et-miseria-humanae-vitae:seg-0023:p-0001:annotation-001">[unclear]</span> work, because neither work nor reason, nor wisdom nor knowledge, will exist among the dead, whither you are hastening. Now is the time of penitence; now the days of labor, in which we can redeem our sins through holy exercises and, for small works, obtain the heavenly kingdom. The world passes away, and its desire; men die, and are snatched from our memory as though they had never been. Why do you trust in gold, O rich man? Why do you glory in power? Why do you not consider that you will shortly die? Put down your haughtiness; cast away vain confidence. Death does not fear honors, does not heed riches, does not distinguish age. It is one for all; it spares no one, reverences no one. As with the servant, so also with the lord; it makes the farmer equal to the prince; it equates scepters with mattocks. It renders equal judgment to all, pronounces a just sentence, accepts no person. It does not ask a man’s will; it imposes necessity on all. Whether a man is prepared to die or not, it does not weigh; it hastens to seize him for whom it has come; it gives no consideration to the words of one promising, however great they may be. In all the days in which a man lives upon the earth he hastens toward death, and, as if with eyes closed, blind, he hastens to the pit. No age is secure from death; no time is safe; no place under heaven has immunity. Age does not excuse a man who is to die; time does not free him; place does not preserve him. Since, therefore, at every age, place, and time we are subject to death, let us await it continually prepared, for it watches us at every moment. The doubtful, uncertain, and changeable death of the human condition diligently warns us that, being solicitous about our death, we should nowhere presume vainly. For Scripture says: Blessed is the man who is always fearful; but he who is hard of mind will fall into evil. Indeed, he who fears the coming of death guards himself from every negligence, so far as human frailty permits, and desires to be found ready in all things. Who is the one who fears death in a salutary way? He who, by fearing, lives well. The wicked fear and dread death, but in fearing they live badly. Fear profits nothing where there is no progress. For the rich of this world greatly fear the dominion of death, because, entangled in earthly desires, they are afraid to depart from this age, since they have loved nothing outside the world. He who is conscious of evil in himself dreads the coming of the judge. Indeed, he who does evil hates the light, fearing the correction of judgment. But what does it profit? Necessity drives us toward death, and human will cannot withstand it. After death judgment is at hand, where conscience will accuse as witness and justice will judge. Therefore, while we live in the flesh, let us prudently fear death; by fearing let us prepare ourselves, because we cannot escape. Let us do penance for past sins; let us beware of future ones; and thereafter let us strive to live in such a way that we may not fear death. A sound conscience always has joy, since it places its hope in the help of the Most High, whose commandments it humbly observes. But salvation is far from sinners, who seek earthly honors, who cultivate greed, who at all times seek the pleasures of the flesh. Deservedly such people fear death, for they do not have the testimony of a good conscience. For just as death is for the good an entrance from poverty to the kingdom, so for the reprobate it is an approach to hell. Blessed is the man who meanwhile is always fearful, who does not love the vanities of the world, who spurns perishable riches, who flees the desires of the flesh, who guards the commandments of God with humble devotion. Such a man awaits death securely, having confidence in the grace of God alone. For no one is holy by his own powers, but God works all things in all, who by his mercy may grant us eternal life. Amen.</p>
 <p id="p-en-0023-0002" data-passage-id="p-en-0023-0002" data-passage-uri="trc:prdl-24374_de-vanitate-et-miseria-humanae-vitae:seg-0023:p-0002" data-segment="23"><em>Printed in the noble city of Mainz by Peter Friedberg, in the year of the Virgin birth 1495.</em></p></section>
+  </div>
+<section class="study-latin" data-study-pane="latin" lang="la" aria-label="Diplomatic Latin OCR" hidden>
+    <h2>Diplomatic Latin OCR</h2>
+    <div id="study-latin-content"><p>Loading aligned Latin…</p></div>
+  </section>
   </div>
 </section>
 

@@ -159,7 +159,10 @@
 
 <section class="work-translation">
   <h2>English translation</h2>
-<aside class="chnav" data-anchor="ch"
+<nav class="reader-modes" aria-label="Reading mode">
+    <a href="?view=read#study-reader" data-reader-mode="read" aria-current="page">Read</a>
+    <a href="?view=study#study-reader" data-reader-mode="study">Study</a>
+  </nav><aside class="chnav" data-anchor="ch"
        data-total="3"
        data-source="length">
   <div class="chnav-head">
@@ -405,9 +408,26 @@
             title="Copy a citation for the current passage" disabled>&#128203;<span class="rt-label"> Cite passage</span></button>
     <span class="rt-passage-label" id="rt-passage-label" aria-hidden="true"></span>
     <span class="sr-only" id="rt-passage-status" role="status" aria-live="polite"></span>
+    <button type="button" class="rt-toggle" id="rt-search-toggle" aria-expanded="false"
+            aria-controls="rt-search-panel" title="Search within this work">&#128269;<span class="rt-label"> Find</span></button>
     <span class="rt-spacer"></span>
     <button type="button" class="rt-toggle" id="rt-read"
             title="Read this page aloud">&#9655;<span class="rt-label"> Read aloud</span></button>
+  </div>
+  <form class="rt-search-panel" id="rt-search-panel" role="search" hidden>
+    <label for="rt-work-search">Find in this work</label>
+    <input id="rt-work-search" type="search" autocomplete="off" enterkeyhint="search">
+    <output id="rt-search-count" for="rt-work-search" aria-live="polite">No search</output>
+    <button type="button" id="rt-search-prev" aria-label="Previous match">&#8593;</button>
+    <button type="button" id="rt-search-next" aria-label="Next match">&#8595;</button>
+    <button type="button" id="rt-search-close">Close</button>
+    <div class="rt-match-strip" id="rt-match-strip" aria-hidden="true"></div>
+  </form>
+  <div class="study-options" id="study-options" hidden>
+    <span>Text layer</span>
+    <button type="button" data-text-layer="normalized" aria-pressed="true">Normalized English</button>
+    <button type="button" data-text-layer="diplomatic" aria-pressed="false">Diplomatic Latin OCR</button>
+    <button type="button" id="rt-annotations-toggle" aria-pressed="true">Annotations</button>
   </div>
   <div class="rt-type-panel" id="rt-type-panel" hidden>
     <label>Size <input type="range" id="rt-font" min="90" max="135" step="5" value="100"><output for="rt-font">100%</output></label>
@@ -416,7 +436,12 @@
     <label class="rt-check"><input type="checkbox" id="rt-justify" checked> Justified</label>
     <button type="button" id="rt-reset" class="rt-reset">Reset</button>
   </div>
-  <div class="english-body">
+  <div class="study-shell" id="study-reader">
+<aside class="study-minimap" id="study-minimap" aria-label="Chapter and reading progress" hidden>
+    <div class="study-progress" role="progressbar" aria-label="Reading progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span></span></div>
+    <ol id="study-minimap-list"></ol>
+  </aside>
+  <div class="english-body" data-study-pane="english">
 <h2 class="reading-work-title">On the Seven Secondary Intelligences, that is, the Spirits Moving the Orbs after God</h2><section class="chapter" id="ch-1" data-seg="1">
 
 
@@ -533,6 +558,11 @@ whose page has an everlasting divine power.</p>
 <p id="p-en-0018-0002" data-passage-id="p-en-0018-0002" data-passage-uri="trc:prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus:seg-0018:p-0002" data-segment="18">In the year 1508 the Venetians, rebels against the empire of Caesar, were marked by both ban and war. The punishment of obstinacy will be the reward of satisfaction taken in counsel. Around the end of this third revolution of Samael, the image of Altercation will pass over to the first, and there will be the betrayal of many. For unless Y is brought back to alpha by God’s service, there will be a transfer of some monarchy, or of some great man, and of some kingdom; a great sect of religion will arise, the destruction of old religions. It must be feared that the fourth Beast may lose one head. In Samael Mars foretold first the flood; in the second, the destruction of Troy; in the third, around the end, there will be great damage to unity. From preceding things let the future things that follow be judged. This third revolution of Mars will not be completed without prophecy and the institution of some new religion. From this point, in the year of the Christians 1508, there remain 17 years until the end of Samael’s government; in these years those <span class="anno anno-unclear" id="a-en-0018-0002-001" data-annotation-id="trc:prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus:seg-0018:p-0002:annotation-001">[unclear]</span> will give the beginning of the evils of the figure. For in the year of the Christians 1525, crosses seen on men’s garments before the decade that has passed will show their effect. But 13 from here: cited by law, you will yield place to one who does not know; greater after death you will rise again for me in the third, for it is permitted that you cover yourself with cloud.</p>
 <p id="p-en-0018-0003" data-passage-id="p-en-0018-0003" data-passage-uri="trc:prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus:seg-0018:p-0003" data-segment="18">In the twentieth order, Gabriel, angel of the moon, will receive the government of the world for the third time in the year of the world 6732, in the fourth month, on the fourth day of the month of June, in the year of the Christians 1515; and he will govern the world for 354 years and 4 months, until the year of the world 7086 and the eighth month, and likewise of the Lord’s nativity 1879 and 11 months. The future sequence of this revolution requires prophecy. I have not written these things assertively, most sacred Caesar; each person to whom there is no injury to the orthodox faith may believe as he judges. There are indeed some who have reckoned lunar months in these matters; if you are led to agree with them, those things that I have written otherwise must be changed. With my own hand also I attest, and with my mouth I confess, that in all these things I believe nothing, I admit nothing, except what the Catholic Church believes and what has been approved by the authority of its doctors. The rest, as vain, fabricated, and superstitious, I reject and despise.</p>
 <p id="p-en-0018-0004" data-passage-id="p-en-0018-0004" data-passage-uri="trc:prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus:seg-0018:p-0004" data-segment="18">Printed at Nuremberg at the expense of Johannes Haselberg, in the year XXII.</p></section>
+  </div>
+<section class="study-latin" data-study-pane="latin" lang="la" aria-label="Diplomatic Latin OCR" hidden>
+    <h2>Diplomatic Latin OCR</h2>
+    <div id="study-latin-content"><p>Loading aligned Latin…</p></div>
+  </section>
   </div>
 </section>
 

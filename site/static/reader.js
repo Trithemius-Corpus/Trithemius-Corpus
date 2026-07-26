@@ -195,6 +195,10 @@
     var facsimile = $("#rt-facsimile");
     var active = null;
     var ticking = false;
+    var initialHash = decodeURIComponent(window.location.hash.slice(1));
+    var initialTarget = initialHash && document.getElementById(initialHash);
+    if (initialTarget && !initialTarget.hasAttribute("data-passage-id")) initialTarget = initialTarget.nextElementSibling;
+    var deepLinkUntil = initialTarget && initialTarget.hasAttribute("data-passage-id") ? Date.now() + 1500 : 0;
     if (!linkButton || !citeButton || !passageElements().length) return;
 
     function setActive(element) {
@@ -211,11 +215,15 @@
         var canvas = window.TC_WORK.iiifCanvasMap && window.TC_WORK.iiifCanvasMap[segment];
         if (canvas) facsimile.href = window.TC_WORK.iiifViewer + "#canvas=" + canvas;
       }
+      document.dispatchEvent(new CustomEvent("tc:passage", { detail: {
+        element: active, id: id, segment: active && active.getAttribute("data-segment")
+      }}));
     }
 
     function update() {
       ticking = false;
-      setActive(passageAtScroll());
+      if (deepLinkUntil > Date.now() && decodeURIComponent(window.location.hash.slice(1)) === initialHash) setActive(initialTarget);
+      else setActive(passageAtScroll());
     }
 
     function copyFallback(value) {
@@ -286,11 +294,12 @@
       var target = id && document.getElementById(id);
       if (target && !target.hasAttribute("data-passage-id")) target = target.nextElementSibling;
       if (target && target.hasAttribute("data-passage-id")) {
+        initialHash = id; initialTarget = target; deepLinkUntil = Date.now() + 750;
         setActive(target);
         flash(target);
       }
     });
-    update();
+    setActive(initialTarget && initialTarget.hasAttribute("data-passage-id") ? initialTarget : passageAtScroll());
   })();
 
   // ── 4. Footnote / errata popovers ─────────────────────────────────────────
@@ -304,7 +313,8 @@
     popover.id = "tc-reader-popover";
     popover.className = "tc-popover";
     popover.setAttribute("role", "tooltip");
-    popover.hidden = true;
+    if ("showPopover" in HTMLElement.prototype) popover.setAttribute("popover", "auto");
+    else popover.hidden = true;
     document.body.appendChild(popover);
     return popover;
   }
@@ -325,7 +335,8 @@
     var clone = src.cloneNode(true);
     $all("a[href^='#']", clone).forEach(function (a) { a.remove(); });
     p.appendChild(clone);
-    p.hidden = false;
+    if (typeof p.showPopover === "function") p.showPopover();
+    else p.hidden = false;
     var r = target.getBoundingClientRect();
     var pw = p.offsetWidth, ph = p.offsetHeight;
     var left = Math.max(8, Math.min(r.left, window.innerWidth - pw - 8));
@@ -347,8 +358,15 @@
     if (ids.length) target.setAttribute("aria-describedby", ids.join(" "));
     else target.removeAttribute("aria-describedby");
   }
+  function popoverIsOpen(element) {
+    try { return element && element.matches(":popover-open"); }
+    catch (e) { return false; }
+  }
   function hidePopover() {
-    if (popover) popover.hidden = true;
+    if (popover) {
+      if (typeof popover.hidePopover === "function" && popoverIsOpen(popover)) popover.hidePopover();
+      else popover.hidden = true;
+    }
     if (popoverTrigger && popover) removeDescription(popoverTrigger, popover.id);
     popoverTrigger = null;
   }
@@ -372,13 +390,187 @@
   document.addEventListener("click", function (e) {
     var a = e.target.closest && e.target.closest("a[href^='#fn-'], a[href^='#errata-'], a[href^='#note-']");
     if (a && showPopover(a, a.getAttribute("href"))) { e.preventDefault(); return; }
-    if (popover && !popover.hidden && !popover.contains(e.target)) hidePopover();
+    if (popover && (popoverIsOpen(popover) || !popover.hidden) && !popover.contains(e.target)) hidePopover();
   });
   document.addEventListener("keydown", function (e) {
-    if (e.key === "Escape" && popover && !popover.hidden) hidePopover();
+    if (e.key === "Escape" && popover && (popoverIsOpen(popover) || !popover.hidden)) hidePopover();
   });
 
-  // ── 5. Homepage continue-reading card ─────────────────────────────────────
+  // ── 5. Unified Read / Study / Source workspace ───────────────────────────
+  (function studyReader() {
+    var shell = $("#study-reader"), modeLinks = $all("[data-reader-mode]");
+    var latinPane = $("[data-study-pane='latin']"), sourcePane = $("[data-study-pane='source']");
+    var sourceFrame = $("#study-source-frame"), options = $("#study-options");
+    var minimap = $("#study-minimap"), minimapList = $("#study-minimap-list");
+    var progress = $(".study-progress"), activePassage = null;
+    if (!shell || !modeLinks.length || !window.TC_WORK) return;
+    var initialTarget = document.getElementById(decodeURIComponent(window.location.hash.slice(1)));
+    activePassage = initialTarget && initialTarget.hasAttribute("data-passage-id") ? initialTarget : passageAtScroll();
+
+    function selectedMode() {
+      var value = new URL(window.location.href).searchParams.get("view");
+      return ["read", "study", "source"].indexOf(value) >= 0 ? value : "read";
+    }
+    function sourceURL(segment) {
+      var canvas = window.TC_WORK.iiifCanvasMap && window.TC_WORK.iiifCanvasMap[String(segment)];
+      return canvas && window.TC_WORK.iiifViewer ? window.TC_WORK.iiifViewer + "#canvas=" + canvas : null;
+    }
+    function applyMode(mode, updateURL) {
+      if (mode === "source" && !sourcePane) mode = "study";
+      var hashTarget = document.getElementById(decodeURIComponent(window.location.hash.slice(1)));
+      var cursor = hashTarget && hashTarget.hasAttribute("data-passage-id") ? hashTarget : activePassage;
+      shell.setAttribute("data-mode", mode);
+      modeLinks.forEach(function (link) {
+        if (link.getAttribute("data-reader-mode") === mode) link.setAttribute("aria-current", "page");
+        else link.removeAttribute("aria-current");
+      });
+      if (latinPane) latinPane.hidden = mode !== "study";
+      if (sourcePane) sourcePane.hidden = mode !== "source";
+      if (options) options.hidden = mode === "read";
+      if (minimap) minimap.hidden = mode === "read";
+      if (mode === "source" && sourceFrame) {
+        var src = sourceURL(cursor && cursor.getAttribute("data-segment"));
+        if (src && sourceFrame.getAttribute("src") !== src) sourceFrame.setAttribute("src", src);
+      }
+      window.TC_WORK.view = mode;
+      if (updateURL) {
+        var url = new URL(window.location.href); url.searchParams.set("view", mode);
+        try { window.history.replaceState(null, "", url); } catch (e) {}
+      }
+      if (cursor) window.requestAnimationFrame(function () {
+        cursor.scrollIntoView({ block: "center", behavior: "auto" }); flash(cursor);
+      });
+    }
+    modeLinks.forEach(function (link) {
+      link.addEventListener("click", function (event) {
+        event.preventDefault(); applyMode(link.getAttribute("data-reader-mode"), true);
+      });
+    });
+
+    function renderLatin(data) {
+      var host = $("#study-latin-content"); if (!host) return; host.innerHTML = "";
+      data.segments.forEach(function (segment) {
+        var section = document.createElement("section");
+        section.className = "study-latin-segment"; section.id = "latin-seg-" + segment.segment;
+        section.tabIndex = 0; section.setAttribute("data-segment", segment.segment);
+        section.setAttribute("aria-label", "Latin source segment " + segment.segment);
+        var heading = document.createElement("h3"); heading.textContent = "Segment " + segment.segment;
+        var text = document.createElement("pre"); text.textContent = segment.latin || "[No Latin OCR available]";
+        section.appendChild(heading); section.appendChild(text); host.appendChild(section);
+        section.addEventListener("click", function () {
+          var target = $(".english-body [data-segment='" + segment.segment + "']");
+          if (target) { scrollToEl(target); target.setAttribute("tabindex", "-1"); target.focus({ preventScroll: true }); }
+        });
+      });
+      var activeSegment = activePassage && activePassage.getAttribute("data-segment");
+      var activeLatin = activeSegment && $("#latin-seg-" + activeSegment);
+      if (activeLatin) activeLatin.setAttribute("data-active-segment", "true");
+    }
+    function renderMinimap() {
+      if (!minimapList) return; minimapList.innerHTML = "";
+      chapters().forEach(function (chapter) {
+        var item = document.createElement("li"), link = document.createElement("a");
+        link.href = "#" + chapter.id; link.textContent = chapter.label;
+        item.appendChild(link); minimapList.appendChild(item);
+      });
+    }
+    if (window.TC_WORK.passageIndex && window.fetch) {
+      fetch(window.TC_WORK.passageIndex).then(function (response) {
+        if (!response.ok) throw new Error("passage index " + response.status); return response.json();
+      }).then(function (data) { renderLatin(data); renderMinimap(); }).catch(function () {
+        if (latinPane) latinPane.innerHTML = "<h2>Diplomatic Latin OCR</h2><p>The aligned layer could not load. Use the permanent Latin / English artifact link below.</p>";
+      });
+    }
+    document.addEventListener("tc:passage", function (event) {
+      activePassage = event.detail.element;
+      $all(".study-latin-segment[data-active-segment]").forEach(function (el) { el.removeAttribute("data-active-segment"); });
+      var latin = event.detail.segment && $("#latin-seg-" + event.detail.segment);
+      if (latin) latin.setAttribute("data-active-segment", "true");
+      if (sourceFrame && shell.getAttribute("data-mode") === "source") {
+        var src = sourceURL(event.detail.segment);
+        if (src && sourceFrame.getAttribute("src") !== src) sourceFrame.setAttribute("src", src);
+      }
+      var list = passageElements(), position = activePassage ? list.indexOf(activePassage) + 1 : 0;
+      var percent = list.length ? Math.round(position / list.length * 100) : 0;
+      if (progress) { progress.setAttribute("aria-valuenow", percent); progress.style.setProperty("--study-progress", percent + "%"); var bar = $("span", progress); if (bar) bar.style.height = percent + "%"; }
+    });
+    window.addEventListener("message", function (event) {
+      if (event.origin !== window.location.origin || !event.data || event.data.type !== "tc:canvas") return;
+      var segment = null;
+      Object.keys(window.TC_WORK.iiifCanvasMap || {}).some(function (key) {
+        if (Number(window.TC_WORK.iiifCanvasMap[key]) === Number(event.data.canvas)) { segment = key; return true; }
+        return false;
+      });
+      var target = segment && $(".english-body [data-segment='" + segment + "']");
+      if (target && target !== activePassage) {
+        var url = new URL(window.location.href); url.hash = target.id;
+        try { window.history.replaceState(null, "", url); } catch (e) {}
+        scrollToEl(target); flash(target);
+      }
+    });
+    $all("[data-text-layer]").forEach(function (button) {
+      button.addEventListener("click", function () {
+        shell.setAttribute("data-text-layer", button.getAttribute("data-text-layer"));
+        $all("[data-text-layer]").forEach(function (other) { other.setAttribute("aria-pressed", other === button ? "true" : "false"); });
+      });
+    });
+    var annotations = $("#rt-annotations-toggle");
+    if (annotations) annotations.addEventListener("click", function () {
+      var shown = annotations.getAttribute("aria-pressed") !== "false";
+      annotations.setAttribute("aria-pressed", shown ? "false" : "true");
+      shell.classList.toggle("annotations-hidden", shown);
+      window.TC_WORK.annotations = shown ? "hidden" : "visible";
+    });
+    applyMode(selectedMode(), false);
+    if (activePassage) document.dispatchEvent(new CustomEvent("tc:passage", { detail: {
+      element: activePassage,
+      id: activePassage.getAttribute("data-passage-id"),
+      segment: activePassage.getAttribute("data-segment")
+    }}));
+  })();
+
+  // ── 6. In-work search and match-density strip ────────────────────────────
+  (function inWorkSearch() {
+    var toggle = $("#rt-search-toggle"), panel = $("#rt-search-panel"), input = $("#rt-work-search");
+    var count = $("#rt-search-count"), strip = $("#rt-match-strip");
+    if (!toggle || !panel || !input) return;
+    toggle.setAttribute("data-search-ready", "true");
+    var matches = [], current = -1;
+    function clear() {
+      passageElements().forEach(function (el) { el.classList.remove("study-search-match", "study-search-current"); });
+      matches = []; current = -1; if (strip) strip.innerHTML = "";
+    }
+    function gotoMatch(index) {
+      if (!matches.length) return;
+      if (current >= 0) matches[current].classList.remove("study-search-current");
+      current = (index + matches.length) % matches.length;
+      matches[current].classList.add("study-search-current");
+      var url = new URL(window.location.href); url.hash = matches[current].id;
+      try { window.history.replaceState(null, "", url); } catch (e) {}
+      scrollToEl(matches[current]);
+      count.textContent = (current + 1) + " of " + matches.length + " matches";
+    }
+    function find() {
+      clear(); var query = input.value.trim().toLocaleLowerCase();
+      if (query.length < 2) { count.textContent = query ? "Enter at least 2 characters" : "No search"; return; }
+      var all = passageElements();
+      matches = all.filter(function (el) { return el.textContent.toLocaleLowerCase().indexOf(query) >= 0; });
+      matches.forEach(function (el) { el.classList.add("study-search-match"); });
+      if (strip) matches.forEach(function (el) {
+        var mark = document.createElement("span"); mark.style.top = (all.indexOf(el) / Math.max(1, all.length - 1) * 100) + "%"; strip.appendChild(mark);
+      });
+      count.textContent = matches.length ? matches.length + (matches.length === 1 ? " match" : " matches") : "No matches";
+      if (matches.length) gotoMatch(0);
+    }
+    toggle.addEventListener("click", function () { panel.hidden = !panel.hidden; toggle.setAttribute("aria-expanded", panel.hidden ? "false" : "true"); if (!panel.hidden) input.focus(); });
+    input.addEventListener("input", find);
+    panel.addEventListener("submit", function (event) { event.preventDefault(); gotoMatch(current + 1); });
+    $("#rt-search-prev").addEventListener("click", function () { gotoMatch(current - 1); });
+    $("#rt-search-next").addEventListener("click", function () { gotoMatch(current + 1); });
+    $("#rt-search-close").addEventListener("click", function () { clear(); input.value = ""; panel.hidden = true; toggle.setAttribute("aria-expanded", "false"); toggle.focus(); });
+  })();
+
+  // ── 7. Homepage continue-reading card ─────────────────────────────────────
   function renderContinueCard() {
     var host = $("#continue-reading");
     if (!host) return;
