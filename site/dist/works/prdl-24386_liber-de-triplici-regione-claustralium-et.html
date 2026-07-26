@@ -166,7 +166,10 @@
 
 <section class="work-translation">
   <h2>English translation</h2>
-<aside class="chnav" data-anchor="ch"
+<nav class="reader-modes" aria-label="Reading mode">
+    <a href="?view=read#study-reader" data-reader-mode="read" aria-current="page">Read</a>
+    <a href="?view=study#study-reader" data-reader-mode="study">Study</a>
+  </nav><aside class="chnav" data-anchor="ch"
        data-total="12"
        data-source="length">
   <div class="chnav-head">
@@ -457,9 +460,26 @@
             title="Copy a citation for the current passage" disabled>&#128203;<span class="rt-label"> Cite passage</span></button>
     <span class="rt-passage-label" id="rt-passage-label" aria-hidden="true"></span>
     <span class="sr-only" id="rt-passage-status" role="status" aria-live="polite"></span>
+    <button type="button" class="rt-toggle" id="rt-search-toggle" aria-expanded="false"
+            aria-controls="rt-search-panel" title="Search within this work">&#128269;<span class="rt-label"> Find</span></button>
     <span class="rt-spacer"></span>
     <button type="button" class="rt-toggle" id="rt-read"
             title="Read this page aloud">&#9655;<span class="rt-label"> Read aloud</span></button>
+  </div>
+  <form class="rt-search-panel" id="rt-search-panel" role="search" hidden>
+    <label for="rt-work-search">Find in this work</label>
+    <input id="rt-work-search" type="search" autocomplete="off" enterkeyhint="search">
+    <output id="rt-search-count" for="rt-work-search" aria-live="polite">No search</output>
+    <button type="button" id="rt-search-prev" aria-label="Previous match">&#8593;</button>
+    <button type="button" id="rt-search-next" aria-label="Next match">&#8595;</button>
+    <button type="button" id="rt-search-close">Close</button>
+    <div class="rt-match-strip" id="rt-match-strip" aria-hidden="true"></div>
+  </form>
+  <div class="study-options" id="study-options" hidden>
+    <span>Text layer</span>
+    <button type="button" data-text-layer="normalized" aria-pressed="true">Normalized English</button>
+    <button type="button" data-text-layer="diplomatic" aria-pressed="false">Diplomatic Latin OCR</button>
+    <button type="button" id="rt-annotations-toggle" aria-pressed="true">Annotations</button>
   </div>
   <div class="rt-type-panel" id="rt-type-panel" hidden>
     <label>Size <input type="range" id="rt-font" min="90" max="135" step="5" value="100"><output for="rt-font">100%</output></label>
@@ -468,7 +488,12 @@
     <label class="rt-check"><input type="checkbox" id="rt-justify" checked> Justified</label>
     <button type="button" id="rt-reset" class="rt-reset">Reset</button>
   </div>
-  <div class="english-body">
+  <div class="study-shell" id="study-reader">
+<aside class="study-minimap" id="study-minimap" aria-label="Chapter and reading progress" hidden>
+    <div class="study-progress" role="progressbar" aria-label="Reading progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span></span></div>
+    <ol id="study-minimap-list"></ol>
+  </aside>
+  <div class="english-body" data-study-pane="english">
 <h2 class="reading-work-title">On the Threefold Region of Cloister-dwellers and the Spiritual Exercise of Monks</h2><section class="chapter" id="ch-1" data-seg="1">
 
 
@@ -1592,6 +1617,11 @@ Let laughter be sparing, speech grave, gestures humble.</p>
 <p id="p-en-0129-0001" data-passage-id="p-en-0129-0001" data-passage-uri="trc:prdl-24386_liber-de-triplici-regione-claustralium-et:seg-0129:p-0001" data-segment="129"><em>So that I may not be more prolix than is fitting, I here set an end to the Compendium. For that venerable company of abbots of our annual Chapter instructed me to avoid prolixity in this place, lest lukewarm and worldly cloisterers make weariness their excuse. If the Lord Jesus gives me a life free from cares, which I have always desired, I shall try to satisfy both my own intention and another’s request. For, at the request of certain virgins dedicated to Christ, I have resolved to hand down a rule by which every devout cenobite may exercise himself, in the Lord’s passion, against all temptations. If, in this, they remain for a few months exercising themselves as they ought, he will by degrees sweetly fly from the humanity of Christ to his divinity through the ray of love. For to those who desire to come to the love of God, continual meditation on the Lord’s passion opens an easy entrance, because, while the mind through compassion is pierced by the memory of the benefits of so great a lover, burning with tears and desire it is lifted up to love. You, therefore, cloisterers dedicated to God, who have no leisure to attend to many things, receive these few things: in them, although there may not be a continual fire of love, yet for those who persevere it will be able to be renewed.</em></p>
 <p id="p-en-0129-0002" data-passage-id="p-en-0129-0002" data-passage-uri="trc:prdl-24386_liber-de-triplici-regione-claustralium-et:seg-0129:p-0002" data-segment="129"><em>Praise to God and to his mother for ever and ever. Amen.</em></p>
 <p id="p-en-0129-0003" data-passage-id="p-en-0129-0003" data-passage-uri="trc:prdl-24386_liber-de-triplici-regione-claustralium-et:seg-0129:p-0003" data-segment="129"><em>Here ends this Compendium, in which the business of the whole spiritual exercise is contained briefly and selectively. By Johannes Trithemius, Abbot. In the year from the reconciled divinity 1516. From the workshop of Melchior Lotter.</em></p></section>
+  </div>
+<section class="study-latin" data-study-pane="latin" lang="la" aria-label="Diplomatic Latin OCR" hidden>
+    <h2>Diplomatic Latin OCR</h2>
+    <div id="study-latin-content"><p>Loading aligned Latin…</p></div>
+  </section>
   </div>
 </section>
 

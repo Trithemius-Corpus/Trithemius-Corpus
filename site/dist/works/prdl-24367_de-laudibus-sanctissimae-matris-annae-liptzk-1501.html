@@ -166,7 +166,10 @@
 
 <section class="work-translation">
   <h2>English translation</h2>
-<aside class="chnav" data-anchor="ch"
+<nav class="reader-modes" aria-label="Reading mode">
+    <a href="?view=read#study-reader" data-reader-mode="read" aria-current="page">Read</a>
+    <a href="?view=study#study-reader" data-reader-mode="study">Study</a>
+  </nav><aside class="chnav" data-anchor="ch"
        data-total="7"
        data-source="length">
   <div class="chnav-head">
@@ -432,9 +435,26 @@
             title="Copy a citation for the current passage" disabled>&#128203;<span class="rt-label"> Cite passage</span></button>
     <span class="rt-passage-label" id="rt-passage-label" aria-hidden="true"></span>
     <span class="sr-only" id="rt-passage-status" role="status" aria-live="polite"></span>
+    <button type="button" class="rt-toggle" id="rt-search-toggle" aria-expanded="false"
+            aria-controls="rt-search-panel" title="Search within this work">&#128269;<span class="rt-label"> Find</span></button>
     <span class="rt-spacer"></span>
     <button type="button" class="rt-toggle" id="rt-read"
             title="Read this page aloud">&#9655;<span class="rt-label"> Read aloud</span></button>
+  </div>
+  <form class="rt-search-panel" id="rt-search-panel" role="search" hidden>
+    <label for="rt-work-search">Find in this work</label>
+    <input id="rt-work-search" type="search" autocomplete="off" enterkeyhint="search">
+    <output id="rt-search-count" for="rt-work-search" aria-live="polite">No search</output>
+    <button type="button" id="rt-search-prev" aria-label="Previous match">&#8593;</button>
+    <button type="button" id="rt-search-next" aria-label="Next match">&#8595;</button>
+    <button type="button" id="rt-search-close">Close</button>
+    <div class="rt-match-strip" id="rt-match-strip" aria-hidden="true"></div>
+  </form>
+  <div class="study-options" id="study-options" hidden>
+    <span>Text layer</span>
+    <button type="button" data-text-layer="normalized" aria-pressed="true">Normalized English</button>
+    <button type="button" data-text-layer="diplomatic" aria-pressed="false">Diplomatic Latin OCR</button>
+    <button type="button" id="rt-annotations-toggle" aria-pressed="true">Annotations</button>
   </div>
   <div class="rt-type-panel" id="rt-type-panel" hidden>
     <label>Size <input type="range" id="rt-font" min="90" max="135" step="5" value="100"><output for="rt-font">100%</output></label>
@@ -443,7 +463,12 @@
     <label class="rt-check"><input type="checkbox" id="rt-justify" checked> Justified</label>
     <button type="button" id="rt-reset" class="rt-reset">Reset</button>
   </div>
-  <div class="english-body">
+  <div class="study-shell" id="study-reader">
+<aside class="study-minimap" id="study-minimap" aria-label="Chapter and reading progress" hidden>
+    <div class="study-progress" role="progressbar" aria-label="Reading progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span></span></div>
+    <ol id="study-minimap-list"></ol>
+  </aside>
+  <div class="english-body" data-study-pane="english">
 <h2 class="reading-work-title">In Praise of the Most Holy Mother Anne</h2><section class="chapter" id="ch-1" data-seg="1">
 
 
@@ -997,6 +1022,11 @@ that hearts be chaste.</p>
 <p id="p-en-0037-0004" data-passage-id="p-en-0037-0004" data-passage-uri="trc:prdl-24367_de-laudibus-sanctissimae-matris-annae-liptzk-1501:seg-0037:p-0004" data-segment="37">Johannes Trithemius, abbot of Sponheim, sends greeting to the reader. Since recently, at the urging of friends, I had resolved to write something on the praises of the most holy mother Anne, certain fathers of the order of the brothers of Blessed Mary ever Virgin of Mount Carmel asked that I not omit the defense of the most pure conception of Mary. And so, moved by their prayers and otherwise by just reasoning, I designated the seventh chapter of this work for the conception of the Mother of God and Virgin. Lest anyone take it in a sense other than mine, I thought the reader should be warned. For I know, and it has not escaped me, that many most holy and most learned men once wrote that the Mother of God was subject to the stain of original sin, men who flourished long before the Council of Basel. Granting this opinion to its own time, I pass over it wholly untouched, and I do not intend to say or write anything at all against them. But indeed, if anything is seen to have been said by me rather harshly, let it be referred not to those who thought otherwise than we do, but only to the obstinate, who, prattling without learning, do not shrink from calling the defenders of the other opinion heretics. And my words show this, because they indicate the present time and not the past. For when I say, “Why do fools bark? Why do the inexperienced murmur?” it belongs to the present time, not to the past; and today the obstinate are reproved, not those in former times who thought otherwise. But when you ask who ever wrote the contrary, I do not bring charges against the ancient fathers, but I mean those who, after the determination of the aforesaid council, hold another opinion. And so I reproach only the obstinacy of certain unlearned men of this time, not the opinion of learned men, whoever they may be, who think otherwise, especially since I am not ignorant of the declaration of the supreme pontiff Sixtus IV. It has seemed to me, however, by no means alien from the holy Roman Church to venerate the faith of the most pure conception, which she believes and venerates, as is shown today by many documents. Finally, with the doctors of the universities of Paris, Cologne, Heidelberg, Erfurt, Vienna, Leipzig, Tübingen, Ingolstadt, Basel, Mainz, and many others, and with nearly all the orders and the faithful of Christ spread throughout the whole Christian world, I do not fear to venerate the conception of the Mother of God and Virgin Mary as pure. Yet I do not admit obstinacy, but I wish to obey the Roman Church in all things as the most reverend mother of all churches. This is the pure and sincere meaning of my aforesaid chapter, in which I think no one who holds an opinion soberly and without obstinacy is disparaged. Farewell, reader.</p>
 <p id="p-en-0037-0005" data-passage-id="p-en-0037-0005" data-passage-uri="trc:prdl-24367_de-laudibus-sanctissimae-matris-annae-liptzk-1501:seg-0037:p-0005" data-segment="37">This letter of the aforesaid lord Johannes the abbot is missing from certain copies through carelessness and negligence; yet he himself ordered it to be appended to all copies, and decreed that it be regarded as appended to each one.</p>
 <p id="p-en-0037-0006" data-passage-id="p-en-0037-0006" data-passage-uri="trc:prdl-24367_de-laudibus-sanctissimae-matris-annae-liptzk-1501:seg-0037:p-0006" data-segment="37">Printed at Leipzig by Melchior Lotter.</p></section>
+  </div>
+<section class="study-latin" data-study-pane="latin" lang="la" aria-label="Diplomatic Latin OCR" hidden>
+    <h2>Diplomatic Latin OCR</h2>
+    <div id="study-latin-content"><p>Loading aligned Latin…</p></div>
+  </section>
   </div>
 </section>
 

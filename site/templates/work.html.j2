@@ -93,6 +93,11 @@
 <section class="work-translation">
   <h2>English translation</h2>
   {% if english %}
+  {% if passage_count %}<nav class="reader-modes" aria-label="Reading mode">
+    <a href="?view=read#study-reader" data-reader-mode="read" aria-current="page">Read</a>
+    <a href="?view=study#study-reader" data-reader-mode="study">Study</a>
+    {% if iiif_source %}<a href="?view=source#study-reader" data-reader-mode="source">Source</a>{% endif %}
+  </nav>{% endif %}
   {% include "_chapter_nav.html.j2" %}
   <div class="reader-toolbar" role="toolbar" aria-label="Reading controls">
     <button type="button" class="rt-toggle" id="rt-type-toggle"
@@ -106,11 +111,30 @@
             title="Open the source image aligned to the current passage">&#128444;<span class="rt-label"> Facsimile</span></a>{% endif %}
     <span class="rt-passage-label" id="rt-passage-label" aria-hidden="true"></span>
     <span class="sr-only" id="rt-passage-status" role="status" aria-live="polite"></span>
+    <button type="button" class="rt-toggle" id="rt-search-toggle" aria-expanded="false"
+            aria-controls="rt-search-panel" title="Search within this work">&#128269;<span class="rt-label"> Find</span></button>
     {% endif %}
     <span class="rt-spacer"></span>
     <button type="button" class="rt-toggle" id="rt-read"
             title="Read this page aloud">&#9655;<span class="rt-label"> Read aloud</span></button>
   </div>
+  {% if passage_count %}
+  <form class="rt-search-panel" id="rt-search-panel" role="search" hidden>
+    <label for="rt-work-search">Find in this work</label>
+    <input id="rt-work-search" type="search" autocomplete="off" enterkeyhint="search">
+    <output id="rt-search-count" for="rt-work-search" aria-live="polite">No search</output>
+    <button type="button" id="rt-search-prev" aria-label="Previous match">&#8593;</button>
+    <button type="button" id="rt-search-next" aria-label="Next match">&#8595;</button>
+    <button type="button" id="rt-search-close">Close</button>
+    <div class="rt-match-strip" id="rt-match-strip" aria-hidden="true"></div>
+  </form>
+  <div class="study-options" id="study-options" hidden>
+    <span>Text layer</span>
+    <button type="button" data-text-layer="normalized" aria-pressed="true">Normalized English</button>
+    <button type="button" data-text-layer="diplomatic" aria-pressed="false">Diplomatic Latin OCR</button>
+    <button type="button" id="rt-annotations-toggle" aria-pressed="true">Annotations</button>
+  </div>
+  {% endif %}
   <div class="rt-type-panel" id="rt-type-panel" hidden>
     <label>Size <input type="range" id="rt-font" min="90" max="135" step="5" value="100"><output for="rt-font">100%</output></label>
     <label>Line height <input type="range" id="rt-line" min="140" max="200" step="5" value="162"><output for="rt-line">1.62</output></label>
@@ -118,9 +142,26 @@
     <label class="rt-check"><input type="checkbox" id="rt-justify" checked> Justified</label>
     <button type="button" id="rt-reset" class="rt-reset">Reset</button>
   </div>
-  <div class="english-body">
+  <div class="study-shell" id="study-reader">
+  {% if passage_count %}<aside class="study-minimap" id="study-minimap" aria-label="Chapter and reading progress" hidden>
+    <div class="study-progress" role="progressbar" aria-label="Reading progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span></span></div>
+    <ol id="study-minimap-list"></ol>
+  </aside>
+  {% endif %}
+  <div class="english-body" data-study-pane="english">
 {% if not reading_body_has_title %}<h2 class="reading-work-title">{{ work_title }}</h2>{% endif %}
 {{ english|safe }}
+  </div>
+  {% if passage_count %}<section class="study-latin" data-study-pane="latin" lang="la" aria-label="Diplomatic Latin OCR" hidden>
+    <h2>Diplomatic Latin OCR</h2>
+    <div id="study-latin-content"><p>Loading aligned Latin…</p></div>
+  </section>
+  {% endif %}
+  {% if iiif_source %}<section class="study-source" data-study-pane="source" aria-label="Source facsimile" hidden>
+    <h2>Source facsimile</h2>
+    <iframe id="study-source-frame" title="Zoomable institutional source facsimile" loading="lazy"></iframe>
+    <p><a id="study-source-external" href="{{ iiif_source.source_url }}">Open the institutional source</a></p>
+  </section>{% endif %}
   </div>
   {% else %}
   <p class="placeholder muted">

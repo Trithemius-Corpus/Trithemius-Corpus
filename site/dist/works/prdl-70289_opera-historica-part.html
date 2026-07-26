@@ -159,7 +159,10 @@
 
 <section class="work-translation">
   <h2>English translation</h2>
-<aside class="chnav" data-anchor="ch"
+<nav class="reader-modes" aria-label="Reading mode">
+    <a href="?view=read#study-reader" data-reader-mode="read" aria-current="page">Read</a>
+    <a href="?view=study#study-reader" data-reader-mode="study">Study</a>
+  </nav><aside class="chnav" data-anchor="ch"
        data-total="3"
        data-source="headings">
   <div class="chnav-head">
@@ -405,9 +408,26 @@
             title="Copy a citation for the current passage" disabled>&#128203;<span class="rt-label"> Cite passage</span></button>
     <span class="rt-passage-label" id="rt-passage-label" aria-hidden="true"></span>
     <span class="sr-only" id="rt-passage-status" role="status" aria-live="polite"></span>
+    <button type="button" class="rt-toggle" id="rt-search-toggle" aria-expanded="false"
+            aria-controls="rt-search-panel" title="Search within this work">&#128269;<span class="rt-label"> Find</span></button>
     <span class="rt-spacer"></span>
     <button type="button" class="rt-toggle" id="rt-read"
             title="Read this page aloud">&#9655;<span class="rt-label"> Read aloud</span></button>
+  </div>
+  <form class="rt-search-panel" id="rt-search-panel" role="search" hidden>
+    <label for="rt-work-search">Find in this work</label>
+    <input id="rt-work-search" type="search" autocomplete="off" enterkeyhint="search">
+    <output id="rt-search-count" for="rt-work-search" aria-live="polite">No search</output>
+    <button type="button" id="rt-search-prev" aria-label="Previous match">&#8593;</button>
+    <button type="button" id="rt-search-next" aria-label="Next match">&#8595;</button>
+    <button type="button" id="rt-search-close">Close</button>
+    <div class="rt-match-strip" id="rt-match-strip" aria-hidden="true"></div>
+  </form>
+  <div class="study-options" id="study-options" hidden>
+    <span>Text layer</span>
+    <button type="button" data-text-layer="normalized" aria-pressed="true">Normalized English</button>
+    <button type="button" data-text-layer="diplomatic" aria-pressed="false">Diplomatic Latin OCR</button>
+    <button type="button" id="rt-annotations-toggle" aria-pressed="true">Annotations</button>
   </div>
   <div class="rt-type-panel" id="rt-type-panel" hidden>
     <label>Size <input type="range" id="rt-font" min="90" max="135" step="5" value="100"><output for="rt-font">100%</output></label>
@@ -416,7 +436,12 @@
     <label class="rt-check"><input type="checkbox" id="rt-justify" checked> Justified</label>
     <button type="button" id="rt-reset" class="rt-reset">Reset</button>
   </div>
-  <div class="english-body">
+  <div class="study-shell" id="study-reader">
+<aside class="study-minimap" id="study-minimap" aria-label="Chapter and reading progress" hidden>
+    <div class="study-progress" role="progressbar" aria-label="Reading progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span></span></div>
+    <ol id="study-minimap-list"></ol>
+  </aside>
+  <div class="english-body" data-study-pane="english">
 <h2 class="reading-work-title">Collected Historical Works (Freher ed.), first part</h2>
 
 <p id="p-en-0001-0001" data-passage-id="p-en-0001-0001" data-passage-uri="trc:prdl-70289_opera-historica-part:seg-0001:p-0001" data-segment="1"><em>The Historical Works of Johannes Trithemius of Sponheim, first Abbot of Sponheim, then of St. James the Greater at Würzburg, a man most learned in his age: all the works of the first part that have so far been able to be found; partly recalled from old editions now disappearing and corrected according to the authority of the archetypes, partly now first published from manuscripts. A catalogue of them is shown on the reverse page. From the library of Marquard Freher, Palatine councillor. With a very full index. Frankfurt, printed by the Wechel press, at the shop of Claudius Marnius and the heirs of Johannes Aubrius. 1601.</em></p>
@@ -12860,6 +12885,11 @@ Sidonius, bishop of the Averni, what he wrote, and wha</p>
 <p id="p-en-0554-0003" data-passage-id="p-en-0554-0003" data-passage-uri="trc:prdl-70289_opera-historica-part:seg-0554:p-0003" data-segment="554">Valentinian Caesar, who reigned with Theodosius, attempts to destroy the Franks, 31.18; they are forced to retreat into Italy, ibid. 24; he makes the Franks tributaries, ibid. 27. Valentinian demands tribute from the Franks, 31.53. Valentinian the emperor dies by a noose, 32.51. Valentinian, Roman emperor, wages war with the Saxons <span class="anno anno-unclear" id="a-en-0554-0003-001" data-annotation-id="trc:prdl-70289_opera-historica-part:seg-0554:p-0003:annotation-001">[unclear]</span>, not far from the <span class="anno anno-unclear" id="a-en-0554-0003-002" data-annotation-id="trc:prdl-70289_opera-historica-part:seg-0554:p-0003:annotation-002">[unclear]</span>, 28.29. The Vascones are defeated by the Franks, 72.10. The prophecy of Hildegast concerning the arms and power of the king of the Franks, 21.30. Vadricius, monk of Strasbourg: what he wrote, and when, 141.50. [Vecheslinius?], from whom he received his name, 19.12. Vecchanus, high priest, prophet, and historiographer of the Franks, 19.4. Vecthania, priest of the Franks, perishes in water, 19.11. The priests of Venus, virgins, admit young men at certain times of the year, 66.27; afterward they are first forced to leave the temple of <span class="anno anno-unclear" id="a-en-0554-0003-003" data-annotation-id="trc:prdl-70289_opera-historica-part:seg-0554:p-0003:annotation-003">[unclear]</span>, ibid. 32. Truth proved by duel, 24.42. Vernus, bishop of Hispalis: what he wrote, and when, 249.21. Victor of Maximilian dies by the sword, 31.9. Victorius the African: what he wrote, and when, 205.36. Victorinus of Marseille, rhetor: what he wrote, and when, 228.6. Victorinus, bishop of [Pitriauium?]: what he wrote, 199.51. Victorinus Aquitanicus: what he wrote, and when, 232.30. Victorinus Buconius, bishop: what he wrote, and when, 233.16. Vigilius, deacon and monk: what he wrote, and when, 225.6. Vincentius, priest: what he wrote, and when, 233.31. Vincentius Gruner of Zwickau, doctor of Prague: what he wrote, and when, 152.15. When wine began among the Mosellans, 84.23. Seventy-one thousand virgins from Britain, to be sent to Armorica, are gathered at London, 30.10. The virgins are endangered at sea, 30.16; a great part are drowned, ibid. 20; captured by barbarians, they are killed, 22.63. The history of the virgins perishing at sea, 77.48. [Utellius?] the African: what he wrote, and when, 17.7. Vitas on the Moselle, handed over by the Franks from eastern Francia, 84.16. Queen Ulida, pregnant, is killed in a hunt together with her husband, 91.42. Vsinius, monk: what he wrote, and when, 23.17. Who the father of Saint Ursula was, 77.53. Ursula, a very beautiful virgin and very devoted to Christ, 29.16; she is sought by Conan as wife, 30.1. [Uther Pendragon?], son of the king of Britain, 39.14. Vulpiseu Welf legally acquires the duchy of Bavaria, dedicated to the rightful heir, 107.4.</p>
 <p id="p-en-0554-0004" data-passage-id="p-en-0554-0004" data-passage-uri="trc:prdl-70289_opera-historica-part:seg-0554:p-0004" data-segment="554">Walamirus, king of the Ostrogoths, together with the Huns devastates the empire, 37.4. Walricus, monk, 54.15. Walfridus, abbot of the monastery of St. Gall: what he wrote, and when he flourished, 12.4, 14.19, 17. Walther, king of the Franks, 33; how many years he reigned, 23.16; when he died, ibid. 6. From what origin the Vandals had their beginning, 83.5. Twenty thousand Vandals are slaughtered by the Franks, 83.5. The Vandals cross the Rhine, 33.4. Twenty thousand Vandals, together with their king Godgibst, are killed by the Franks, 34.11. The Vandals make Gobigsith king for themselves in Gaul, 33.11. The Vandals, leaving Gaul, occupy part of the Spains and dwell there for nearly thirty years, 34.5; they destroy Hippo <span class="anno anno-unclear" id="a-en-0554-0004-001" data-annotation-id="trc:prdl-70289_opera-historica-part:seg-0554:p-0004:annotation-001">[unclear]</span>, ibid. 6. The Vandals enter Francia and are put to flight, 93.10. Wanninus, monk and hermit, 14.9. Wandelbertius, deacon and monk of Prum: what he wrote, and when he flourished, 127.27, 25.20. Who Wandregisilus was, and when he flourished, 17.8. Wanius and Melga, kings of the Huns and Picts, devastate Britain, 30.46; they are driven into Ireland, ibid. 52. Wanni, king of the Huns, and Melga, king of the Picts, hired for pay by Gratian, afflict the borders of Germany and Gaul, 30.27. Three hundred eighty-five thousand Vascones are slaughtered in one day, 93.5. How far Wasthaldus carried the Frankish history, 4.13. Welf, duke of Bavaria, unjustly dismisses Ethelina his wife, 107.16; removed from the duchy, he is restored, ibid. 34; he sets out for the Holy Land, ibid. 36. Welf, duke of Bavaria, sends his son into Italy, 108.5. Wesel, the village where the Lippe flows into the Rhine, 97.18. The region of the Westphalians received into surrender by Charlemagne, 28.2; called Saxons, 46.38. Wilbertius, bishop of Chartres: what he wrote, and when, 243.12. William of Oppenbach, doctor of Paris: what he wrote, 149.3.</p>
 <p id="p-en-0554-0005" data-passage-id="p-en-0554-0005" data-passage-uri="trc:prdl-70289_opera-historica-part:seg-0554:p-0005" data-segment="554">William of Oppenbach, doctor of Paris, 149.3.</p></section>
+  </div>
+<section class="study-latin" data-study-pane="latin" lang="la" aria-label="Diplomatic Latin OCR" hidden>
+    <h2>Diplomatic Latin OCR</h2>
+    <div id="study-latin-content"><p>Loading aligned Latin…</p></div>
+  </section>
   </div>
 </section>
 

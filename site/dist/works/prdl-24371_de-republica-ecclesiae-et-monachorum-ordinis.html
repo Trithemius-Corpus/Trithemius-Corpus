@@ -166,7 +166,10 @@
 
 <section class="work-translation">
   <h2>English translation</h2>
-<aside class="chnav" data-anchor="ch"
+<nav class="reader-modes" aria-label="Reading mode">
+    <a href="?view=read#study-reader" data-reader-mode="read" aria-current="page">Read</a>
+    <a href="?view=study#study-reader" data-reader-mode="study">Study</a>
+  </nav><aside class="chnav" data-anchor="ch"
        data-total="3"
        data-source="length">
   <div class="chnav-head">
@@ -412,9 +415,26 @@
             title="Copy a citation for the current passage" disabled>&#128203;<span class="rt-label"> Cite passage</span></button>
     <span class="rt-passage-label" id="rt-passage-label" aria-hidden="true"></span>
     <span class="sr-only" id="rt-passage-status" role="status" aria-live="polite"></span>
+    <button type="button" class="rt-toggle" id="rt-search-toggle" aria-expanded="false"
+            aria-controls="rt-search-panel" title="Search within this work">&#128269;<span class="rt-label"> Find</span></button>
     <span class="rt-spacer"></span>
     <button type="button" class="rt-toggle" id="rt-read"
             title="Read this page aloud">&#9655;<span class="rt-label"> Read aloud</span></button>
+  </div>
+  <form class="rt-search-panel" id="rt-search-panel" role="search" hidden>
+    <label for="rt-work-search">Find in this work</label>
+    <input id="rt-work-search" type="search" autocomplete="off" enterkeyhint="search">
+    <output id="rt-search-count" for="rt-work-search" aria-live="polite">No search</output>
+    <button type="button" id="rt-search-prev" aria-label="Previous match">&#8593;</button>
+    <button type="button" id="rt-search-next" aria-label="Next match">&#8595;</button>
+    <button type="button" id="rt-search-close">Close</button>
+    <div class="rt-match-strip" id="rt-match-strip" aria-hidden="true"></div>
+  </form>
+  <div class="study-options" id="study-options" hidden>
+    <span>Text layer</span>
+    <button type="button" data-text-layer="normalized" aria-pressed="true">Normalized English</button>
+    <button type="button" data-text-layer="diplomatic" aria-pressed="false">Diplomatic Latin OCR</button>
+    <button type="button" id="rt-annotations-toggle" aria-pressed="true">Annotations</button>
   </div>
   <div class="rt-type-panel" id="rt-type-panel" hidden>
     <label>Size <input type="range" id="rt-font" min="90" max="135" step="5" value="100"><output for="rt-font">100%</output></label>
@@ -423,7 +443,12 @@
     <label class="rt-check"><input type="checkbox" id="rt-justify" checked> Justified</label>
     <button type="button" id="rt-reset" class="rt-reset">Reset</button>
   </div>
-  <div class="english-body">
+  <div class="study-shell" id="study-reader">
+<aside class="study-minimap" id="study-minimap" aria-label="Chapter and reading progress" hidden>
+    <div class="study-progress" role="progressbar" aria-label="Reading progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span></span></div>
+    <ol id="study-minimap-list"></ol>
+  </aside>
+  <div class="english-body" data-study-pane="english">
 <h2 class="reading-work-title">On the Commonwealth of the Church and the Order of Monks</h2><section class="chapter" id="ch-1" data-seg="1">
 
 
@@ -497,6 +522,11 @@ Deep knowledge will not be required of us at the Last Judgment, but a good life.
 
 
 <p id="p-en-0010-0001" data-passage-id="p-en-0010-0001" data-passage-uri="trc:prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis:seg-0010:p-0001" data-segment="10">[There is no need of going] to Athens for learning, because at home a sufficient Minerva is available to the diligent. But let us beware lest we become teachers of error to ourselves. Study that is almost solitary, unless it burns with the love of Christ, often begets error. Let us therefore apply the oil of compunction, and the learning of the Scriptures will be useful. Fathers, let us look to our commonwealth, and, as far as is possible for us, let us labor for its just <span class="anno anno-unclear" id="a-en-0010-0001-001" data-annotation-id="trc:prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis:seg-0010:p-0001:annotation-001">[unclear]</span>. Let each one of us strive to reform himself according to the Rule of Saint Benedict: let him flee vices, spurn pleasures, not love riches, despise the world. Let us be abbots of our brothers according to the Rule: shepherds in solicitude, fathers in charity. Let us feed them by word; let us feed them by example; let us feed them with nourishment. If anyone omits one of these, he will be a useless shepherd. Therefore you shepherds, remember to whom you are going to render account; and so stand watch over your custody solicitously, so that, concerning the sheep committed to you, you may be able to answer securely to the supreme shepherd. Adorn your commonwealth with morals; adorn it with saving knowledge; adorn it with piety; adorn it with love, so that, when in this brief misery you have ministered well, you may obtain an excellent rank in eternal happiness, which may the supreme shepherd Jesus Christ grant us, who lives and reigns without end. Amen.</p></section>
+  </div>
+<section class="study-latin" data-study-pane="latin" lang="la" aria-label="Diplomatic Latin OCR" hidden>
+    <h2>Diplomatic Latin OCR</h2>
+    <div id="study-latin-content"><p>Loading aligned Latin…</p></div>
+  </section>
   </div>
 </section>
 
