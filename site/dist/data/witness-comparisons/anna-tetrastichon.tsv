@@ -1,0 +1,16 @@
+unit	line	class	lemma	witness	reading	facsimile	note
+v1	2	punctuation	meritis et	M1494	meritis. et	https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00008347/canvas/1	All witnesses print a point after meritis; only spacing differs. The normalized layer removes the medial point.
+v1	2	punctuation	meritis et	L1497	meritis . et	https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00040384/canvas/45	All witnesses print a point after meritis; only spacing differs. The normalized layer removes the medial point.
+v1	2	punctuation	meritis et	L1501	meritis.et	https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00011308/canvas/36	All witnesses print a point after meritis; only spacing differs. The normalized layer removes the medial point.
+v2	4	orthographic	placidam	M1494	placidā	https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00008347/canvas/1	M1494 abbreviates final -m with a macron; the Leipzig witnesses spell the ending out.
+v2	4	orthographic	placidam	L1497	placidam	https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00040384/canvas/45	M1494 abbreviates final -m with a macron; the Leipzig witnesses spell the ending out.
+v2	4	orthographic	placidam	L1501	placidam	https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00011308/canvas/36	M1494 abbreviates final -m with a macron; the Leipzig witnesses spell the ending out.
+v3	2	punctuation	potens.	M1494	potens.	https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00008347/canvas/1	M1494 closes the line with a point; no terminal point is visible in the Leipzig witnesses.
+v3	2	punctuation	potens.	L1497	potens	https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00040384/canvas/45	M1494 closes the line with a point; no terminal point is visible in the Leipzig witnesses.
+v3	2	punctuation	potens.	L1501	potens	https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00011308/canvas/36	M1494 closes the line with a point; no terminal point is visible in the Leipzig witnesses.
+v4	3	punctuation	veneratur.	M1494	veneratur.	https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00008347/canvas/1	M1494 closes the line with a point; no terminal point is visible in the Leipzig witnesses.
+v4	3	punctuation	veneratur.	L1497	veneratur	https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00040384/canvas/45	M1494 closes the line with a point; no terminal point is visible in the Leipzig witnesses.
+v4	3	punctuation	veneratur.	L1501	veneratur	https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00011308/canvas/36	M1494 closes the line with a point; no terminal point is visible in the Leipzig witnesses.
+v5	4	punctuation	opem.	M1494	opem.	https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00008347/canvas/1	M1494 closes the tetrastich with a point; no terminal point is visible in the Leipzig witnesses.
+v5	4	punctuation	opem.	L1497	opem	https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00040384/canvas/45	M1494 closes the tetrastich with a point; no terminal point is visible in the Leipzig witnesses.
+v5	4	punctuation	opem.	L1501	opem	https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00011308/canvas/36	M1494 closes the tetrastich with a point; no terminal point is visible in the Leipzig witnesses.

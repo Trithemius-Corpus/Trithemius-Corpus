@@ -4,6 +4,7 @@ on:
   pull_request:
     paths:
       - "data/reader_fixtures.json"
+      - "data/witness_comparisons/**"
       - "data/iiif/**"
       - "data/iiif_sources.json"
       - "data/schemas/**"
@@ -19,6 +20,8 @@ on:
       - "scripts/validate_passages.py"
       - "scripts/validate_reader.py"
       - "scripts/validate_study_reader.py"
+      - "scripts/build_witness_comparison.py"
+      - "scripts/validate_witness_comparison.py"
       - "scripts/build_publication_exports.py"
       - "scripts/validate_publication_exports.py"
       - "scripts/run_epubcheck.py"
@@ -30,6 +33,7 @@ on:
     branches: [main]
     paths:
       - "data/reader_fixtures.json"
+      - "data/witness_comparisons/**"
       - "data/iiif/**"
       - "data/iiif_sources.json"
       - "data/schemas/**"
@@ -45,6 +49,8 @@ on:
       - "scripts/validate_passages.py"
       - "scripts/validate_reader.py"
       - "scripts/validate_study_reader.py"
+      - "scripts/build_witness_comparison.py"
+      - "scripts/validate_witness_comparison.py"
       - "scripts/build_publication_exports.py"
       - "scripts/validate_publication_exports.py"
       - "scripts/run_epubcheck.py"
@@ -90,6 +96,7 @@ jobs:
           python scripts/validate_iiif.py
           python scripts/validate_study_reader.py
           python scripts/validate_cipher_trace.py
+          python scripts/validate_witness_comparison.py
 
       - name: Build and validate publication exports
         run: |

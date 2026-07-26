@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Tetrastichon on Saint Anne</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Trithemius Corpus; generated deterministically from committed, human-verified data.</p>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="M1494">Johannes Trithemius, De laudibus sanctissimae matris Annae (Mainz, 1494), BSB 4 Inc.c.a. 1121. <ptr target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00008347/canvas/1" />
+          </witness>
+          <witness xml:id="L1497">Johannes Trithemius, De laudibus sanctissimae matris Annae (Leipzig: Melchior Lotter, ca. 1497), BSB 4 Inc.c.a. 1775. <ptr target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00040384/canvas/45" />
+          </witness>
+          <witness xml:id="L1501">Johannes Trithemius, De laudibus sanctissimae matris Annae (Leipzig: Melchior Lotter, 1501), BSB 4 Asc. 246. <ptr target="https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00011308/canvas/36" />
+          </witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg type="tetrastich">
+        <l n="1">
+          <seg type="normalized">Virginis almifice mater venerabilis Anna</seg>
+        </l>
+        <l n="2">
+          <seg type="normalized">Excellens meritis et pietate potens.</seg>
+          <app type="punctuation" xml:id="v1">
+            <lem>meritis et</lem>
+            <rdg wit="#M1494">meritis. et</rdg>
+            <rdg wit="#L1497">meritis . et</rdg>
+            <rdg wit="#L1501">meritis.et</rdg>
+            <note>All witnesses print a point after meritis; only spacing differs. The normalized layer removes the medial point.</note>
+          </app>
+          <app type="punctuation" xml:id="v3">
+            <lem>potens.</lem>
+            <rdg wit="#M1494">potens.</rdg>
+            <rdg wit="#L1497">potens</rdg>
+            <rdg wit="#L1501">potens</rdg>
+            <note>M1494 closes the line with a point; no terminal point is visible in the Leipzig witnesses.</note>
+          </app>
+        </l>
+        <l n="3">
+          <seg type="normalized">Nemo tristis abit qui te colit et veneratur.</seg>
+          <app type="punctuation" xml:id="v4">
+            <lem>veneratur.</lem>
+            <rdg wit="#M1494">veneratur.</rdg>
+            <rdg wit="#L1497">veneratur</rdg>
+            <rdg wit="#L1501">veneratur</rdg>
+            <note>M1494 closes the line with a point; no terminal point is visible in the Leipzig witnesses.</note>
+          </app>
+        </l>
+        <l n="4">
+          <seg type="normalized">Fers cunctis placidam quippe salutis opem.</seg>
+          <app type="orthographic" xml:id="v2">
+            <lem>placidam</lem>
+            <rdg wit="#M1494">placidā</rdg>
+            <rdg wit="#L1497">placidam</rdg>
+            <rdg wit="#L1501">placidam</rdg>
+            <note>M1494 abbreviates final -m with a macron; the Leipzig witnesses spell the ending out.</note>
+          </app>
+          <app type="punctuation" xml:id="v5">
+            <lem>opem.</lem>
+            <rdg wit="#M1494">opem.</rdg>
+            <rdg wit="#L1497">opem</rdg>
+            <rdg wit="#L1501">opem</rdg>
+            <note>M1494 closes the tetrastich with a point; no terminal point is visible in the Leipzig witnesses.</note>
+          </app>
+        </l>
+      </lg>
+    </body>
+  </text>
+</TEI>
