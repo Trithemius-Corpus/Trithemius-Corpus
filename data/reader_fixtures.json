@@ -1,0 +1,65 @@
+{
+  "schema_version": "1.0",
+  "description": "Representative generated pages used by reader-quality checks.",
+  "fixtures": [
+    {
+      "key": "short-prose",
+      "work_id": "prdl-24362_de-laude-scriptorum-manualium",
+      "reason": "Short prose and ordinary reading",
+      "pages": [
+        "works/prdl-24362_de-laude-scriptorum-manualium.html",
+        "works/prdl-24362_de-laude-scriptorum-manualium_parallel.html"
+      ]
+    },
+    {
+      "key": "long-prose",
+      "work_id": "prdl-24380_admonitiones-exhortationes-monachos",
+      "reason": "Very long reading and performance",
+      "pages": [
+        "works/prdl-24380_admonitiones-exhortationes-monachos.html",
+        "works/prdl-24380_admonitiones-exhortationes-monachos_parallel.html"
+      ]
+    },
+    {
+      "key": "cipher-facsimile",
+      "work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam",
+      "reason": "Cipher apparatus, tables, and facsimiles",
+      "pages": [
+        "works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html",
+        "works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam_parallel.html",
+        "works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam_style-c-cipher-key.html"
+      ]
+    },
+    {
+      "key": "long-multi-witness",
+      "work_id": "prdl-24390_polygraphiae-libri-vi",
+      "reason": "Long structured text, BSB witness, and Style C tables",
+      "pages": [
+        "works/prdl-24390_polygraphiae-libri-vi.html",
+        "works/prdl-24390_polygraphiae-libri-vi_parallel.html",
+        "works/prdl-24390_polygraphiae-libri-vi_style-c-cipher-key.html",
+        "works/prdl-24390_polygraphiae-libri-vi_style-c-cipher-grid.html"
+      ]
+    },
+    {
+      "key": "six-witness-family",
+      "work_id": "prdl-24364_de-laudibus-sanctissimae-matris-annae",
+      "reason": "Largest witness family",
+      "pages": [
+        "works/prdl-24364_de-laudibus-sanctissimae-matris-annae.html",
+        "works/prdl-24364_de-laudibus-sanctissimae-matris-annae_parallel.html"
+      ]
+    }
+  ],
+  "global_pages": [
+    "index.html",
+    "works.html",
+    "search.html",
+    "scoreboard.html",
+    "methodology.html",
+    "ciphers.html",
+    "cipher-solutions.html",
+    "tools.html",
+    "404.html"
+  ]
+}

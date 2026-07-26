@@ -69,6 +69,11 @@ def _year_label(work: dict) -> str:
 def build_cover_svg(work: dict, *, width: int = 800) -> str:
     """Return inline SVG markup for the work's typographic cover."""
     title = _clean_title(work.get("title_en") or work.get("title") or "Untitled")
+    # Several covers can be embedded on one browse page. SVG fragment IDs live
+    # in the containing HTML document, so a generic ``cv-bg`` would be
+    # duplicated and every rect could resolve to the first cover's gradient.
+    work_key = re.sub(r"[^a-zA-Z0-9_-]+", "-", str(work.get("id") or title)).strip("-")
+    gradient_id = f"cv-bg-{work_key or 'work'}"
     # shorten very long titles but keep readable
     if len(title) > 90:
         title = title[:87].rstrip() + "…"
@@ -128,12 +133,12 @@ def build_cover_svg(work: dict, *, width: int = 800) -> str:
      role="img" aria-label="Cover: {html.escape(title)}"
      class="work-cover" preserveAspectRatio="xMidYMid meet">
   <defs>
-    <linearGradient id="cv-bg" x1="0" y1="0" x2="0" y2="1">
+    <linearGradient id="{gradient_id}" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#1c1610"/>
       <stop offset="1" stop-color="#120d08"/>
     </linearGradient>
   </defs>
-  <rect width="{width}" height="{h}" fill="url(#cv-bg)"/>
+  <rect width="{width}" height="{h}" fill="url(#{gradient_id})"/>
   <!-- double gilt rule frame -->
   <rect x="22" y="22" width="{width-44}" height="{h-44}" fill="none"
         stroke="#c9a24a" stroke-width="1.4" opacity="0.85"/>

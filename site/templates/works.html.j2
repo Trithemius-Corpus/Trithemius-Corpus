@@ -4,7 +4,7 @@
 {% block body %}
 
 <section>
-  <h2>The works</h2>
+  <h1>The works</h1>
   <p class="muted">
     {{ n_texts }} distinct Latin texts across {{ n_editions }} printed editions,
     {{ n_first }} of them in English for the first time. Grouped by genre below
@@ -25,8 +25,8 @@
 <div id="view-genre">
   {% for s in sections %}
   <section class="genre-section" id="{{ s.slug }}">
-    <h3><a href="{{ url('genres/' + s.slug + '.html') }}">{{ s.label }}</a>
-      <span class="muted genre-count">{{ s.n_texts }} {{ 'text' if s.n_texts == 1 else 'texts' }}, {{ s.n_editions }} {{ 'edition' if s.n_editions == 1 else 'editions' }}</span></h3>
+    <h2><a href="{{ url('genres/' + s.slug + '.html') }}">{{ s.label }}</a>
+      <span class="muted genre-count">{{ s.n_texts }} {{ 'text' if s.n_texts == 1 else 'texts' }}, {{ s.n_editions }} {{ 'edition' if s.n_editions == 1 else 'editions' }}</span></h2>
     <p class="muted genre-blurb">{{ s.description }}</p>
     <div class="text-cards">
       {% for t in s.texts %}{{ text_card(t) }}{% endfor %}
@@ -37,12 +37,12 @@
 
 <div id="view-date" hidden>
   <section class="genre-section" id="by-date">
-    <h3>By date of composition <span class="muted genre-count">(earliest edition shown first)</span></h3>
+    <h2>By date of composition <span class="muted genre-count">(earliest edition shown first)</span></h2>
     <div class="text-cards">
       {% set ns = namespace(decade='') %}
       {% for t in texts_by_year %}
       {% set d = (t.year[:3] + '0s') if (t.year and t.year[:3].isdigit()) else 'undated' %}
-      {% if d != ns.decade %}{% set ns.decade = d %}<h4 class="decade-head">{{ d }}</h4>{% endif %}
+      {% if d != ns.decade %}{% set ns.decade = d %}<h3 class="decade-head">{{ d }}</h3>{% endif %}
       {{ text_card(t) }}
       {% endfor %}
     </div>

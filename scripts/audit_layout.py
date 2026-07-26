@@ -7,22 +7,55 @@ Checks per page:
   - text contrast issues (skipped — needs computed styles)
   - broken internal links (404) — via fetch
   - empty main content
-Reports a JSON summary.
+Reports a compact per-page summary.
+
+By default the audit visits global pages plus the primary page for each entry
+in ``data/reader_fixtures.json``. Pass ``--all-fixtures`` for every declared
+work, parallel, and Style C route; pass ``--mobile`` for the 390px viewport.
+The command exits nonzero when a page cannot be inspected or has a real layout
+issue.
 """
 import json
 import os
+import shutil
 import socket
 import subprocess
 import sys
+import tempfile
 import time
 import urllib.request
 from pathlib import Path
 
-CHROME = r"C:\Program Files\Google\Chrome\Application\chrome.exe"
 ROOT = Path(__file__).resolve().parents[1]
-DIST = (ROOT / "site" / "dist").resolve()
-PORT = 9483
-PROFILE = str(Path(os.environ.get("TRITHEMIUS_CHROME_PROFILE", ROOT / ".cache" / "chrome-audit")))
+DIST = Path(os.environ.get("TRITHEMIUS_SITE_DIST", ROOT / "site" / "dist")).resolve()
+FIXTURES = ROOT / "data" / "reader_fixtures.json"
+PROFILE_BASE = Path(os.environ.get(
+    "TRITHEMIUS_CHROME_PROFILE", ROOT / ".cache" / "chrome-audit"
+))
+
+
+def find_chrome() -> str | None:
+    configured = os.environ.get("TRITHEMIUS_CHROME")
+    candidates = [
+        configured,
+        r"C:\Program Files\Google\Chrome\Application\chrome.exe",
+        r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe",
+        shutil.which("google-chrome"),
+        shutil.which("google-chrome-stable"),
+        shutil.which("chromium"),
+        shutil.which("chromium-browser"),
+    ]
+    return next((value for value in candidates if value and Path(value).exists()), None)
+
+
+def default_pages(all_fixtures: bool) -> list[str]:
+    data = json.loads(FIXTURES.read_text(encoding="utf-8"))
+    pages = list(data.get("global_pages", []))
+    for fixture in data.get("fixtures", []):
+        fixture_pages = fixture.get("pages", [])
+        pages.extend(fixture_pages if all_fixtures else fixture_pages[:1])
+    # Keep declaration order while removing pages shared by two fixtures.
+    return list(dict.fromkeys(pages))
 
 
 def ws_recv(sock):
@@ -90,29 +123,39 @@ def connect(port):
     return sock
 
 
+def reserve_port() -> int:
+    """Ask the OS for an unused loopback port for this audit process."""
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as probe:
+        probe.bind(("127.0.0.1", 0))
+        return int(probe.getsockname()[1])
+
+
 def main():
-    pages = [a for a in sys.argv[1:] if not a.startswith("--")] or [
-        "index.html", "works.html", "scoreboard.html", "methodology.html",
-        "ciphers.html", "cipher-solutions.html", "search.html",
-        "404.html",
-        "works/prdl-24390_polygraphiae-libri-vi.html",
-        "works/prdl-24390_polygraphiae-libri-vi_parallel.html",
-        "works/prdl-24390_polygraphiae-libri-vi_style-c-cipher-key.html",
-        "works/prdl-24390_polygraphiae-libri-vi_style-c-cipher-grid.html",
-        "genres/crypto-occult.html",
-    ]
+    pages = [a for a in sys.argv[1:] if not a.startswith("--")]
+    if not pages:
+        pages = default_pages("--all-fixtures" in sys.argv)
+    chrome = find_chrome()
+    if not chrome:
+        print("Chrome/Chromium not found; set TRITHEMIUS_CHROME to its executable")
+        return 2
+    port = reserve_port()
+    PROFILE_BASE.parent.mkdir(parents=True, exist_ok=True)
+    profile = Path(tempfile.mkdtemp(
+        prefix=f"{PROFILE_BASE.name}-", dir=PROFILE_BASE.parent
+    ))
     proc = subprocess.Popen(
-        [CHROME, "--headless=new", "--disable-gpu", "--no-first-run",
-         "--no-default-browser-check", f"--remote-debugging-port={PORT}",
-         f"--user-data-dir={PROFILE}",
+        [chrome, "--headless=new", "--disable-gpu", "--no-first-run",
+         "--no-default-browser-check", f"--remote-debugging-port={port}",
+         f"--user-data-dir={profile}",
          "--window-size=" + ("390,1600" if "--mobile" in sys.argv else "1366,1500"),
          "about:blank"],
         stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
     sock = None
     try:
-        sock = connect(PORT)
+        sock = connect(port)
         if not sock:
-            print("CDP unreachable"); return
+            print("CDP unreachable")
+            return 2
         mid = [0]
         def call(method, params=None):
             mid[0] += 1
@@ -187,7 +230,9 @@ def main():
             d = r["data"]
             if not d:
                 extra = f"  ERR: {r.get('err')}" if r.get("err") else ""
-                print(f"  [??] {r['page']}: no data{extra}"); continue
+                print(f"  [??] {r['page']}: no data{extra}")
+                issues += 1
+                continue
             d = json.loads(d)
             flags = []
             if d["hscroll"]: flags.append(f"HSCROLL(docW={d['docW']})")
@@ -208,6 +253,7 @@ def main():
             for bi in d["badImgs"][:3]:
                 print(f"          bad img: {bi}")
         print(f"\n{issues} page(s) with REAL issues of {len(results)}")
+        return 1 if issues else 0
     finally:
         if sock:
             try: sock.close()
@@ -215,7 +261,8 @@ def main():
         proc.terminate()
         try: proc.wait(timeout=5)
         except Exception: pass
+        shutil.rmtree(profile, ignore_errors=True)
 
 
 if __name__ == "__main__":
-    main()
+    raise SystemExit(main())

@@ -284,6 +284,7 @@ def build_t4b_work_page(env, work: dict) -> str:
     # T4B uses the same numbered source segments as the published witness, so
     # its existing chapter map can drive the floating chapter navigator too.
     chapters = t4b_chapters(work_id)
+    chapters = bs.chapters_with_rendered_anchors(chapters, english_html, "seg")
 
     # intro
     intro_html = None

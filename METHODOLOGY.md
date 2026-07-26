@@ -2,7 +2,7 @@
 
 How the Trithemius Corpus was made, checked, revised, and presented. This page distinguishes the **recommended Trithemius 4B editions** from the earlier source-witness editions, explains what the grades mean, and states where machine-produced text still requires caution.
 
-**Contents:** [What you are reading](#1-what-you-are-reading) · [Sources](#2-source-acquisition) · [OCR](#3-the-ocr-record) · [Translation](#4-the-translation-record) · [Pipeline](#5-pipeline-mechanics) · [Grading](#6-grading-and-quality-tiers) · [Remediation](#7-the-remediation-record) · [Results](#8-results) · [Per-work provenance](#9-per-work-provenance) · [Special renderings](#10-special-scholarly-renderings-style-c) · [Limitations](#11-limitations-known-failure-modes) · [Responsible use](#12-what-this-corpus-is-good-for-and-what-it-is-not) · [Rejected approaches](#13-what-was-tried-and-did-not-ship) · [Reproducibility](#14-code-data-and-reproducibility)
+**Contents:** [What you are reading](#1-what-you-are-reading) · [Sources](#2-source-acquisition) · [OCR](#3-the-ocr-record) · [Translation](#4-the-translation-record) · [Pipeline](#5-pipeline-mechanics) · [Grading](#6-historical-automated-grading-and-current-review-status) · [Remediation](#7-the-remediation-record) · [Results](#8-results) · [Per-work provenance](#9-per-work-provenance) · [Special renderings](#10-special-scholarly-renderings-style-c) · [Limitations](#11-limitations-known-failure-modes) · [Responsible use](#12-what-this-corpus-is-good-for-and-what-it-is-not) · [Rejected approaches](#13-what-was-tried-and-did-not-ship) · [Reproducibility](#14-code-data-and-reproducibility)
 
 ## 1. What you are reading
 

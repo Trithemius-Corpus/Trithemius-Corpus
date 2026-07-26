@@ -1,0 +1,49 @@
+name: Reader quality
+
+on:
+  pull_request:
+    paths:
+      - "data/reader_fixtures.json"
+      - "METHODOLOGY.md"
+      - "scripts/audit_layout.py"
+      - "scripts/build_site.py"
+      - "scripts/build_t4b_pages.py"
+      - "scripts/make_cover.py"
+      - "scripts/validate_reader.py"
+      - "site/templates/**"
+      - "site/static/**"
+      - "site/dist/**"
+      - ".github/workflows/reader-quality.yml"
+  push:
+    branches: [main]
+    paths:
+      - "data/reader_fixtures.json"
+      - "METHODOLOGY.md"
+      - "scripts/audit_layout.py"
+      - "scripts/build_site.py"
+      - "scripts/build_t4b_pages.py"
+      - "scripts/make_cover.py"
+      - "scripts/validate_reader.py"
+      - "site/templates/**"
+      - "site/static/**"
+      - "site/dist/**"
+      - ".github/workflows/reader-quality.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  reader-contracts:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate committed reader
+        run: python scripts/validate_reader.py

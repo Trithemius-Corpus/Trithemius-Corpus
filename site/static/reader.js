@@ -9,6 +9,13 @@
   function $(sel, ctx) { return (ctx || document).querySelector(sel); }
   function $all(sel, ctx) { return Array.prototype.slice.call((ctx || document).querySelectorAll(sel)); }
 
+  function scrollBehavior() {
+    try {
+      return window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches
+        ? "auto" : "smooth";
+    } catch (e) { return "auto"; }
+  }
+
   // ── 1. Reading-progress sync ──────────────────────────────────────────────
   // Store scroll fraction per work; the homepage surfaces the most-recent.
   function progressKey(id) { return "tc-progress-" + id; }
@@ -72,7 +79,7 @@
     if (!el) return;
     var r = el.getBoundingClientRect();
     var top = window.pageYOffset + r.top - window.innerHeight * 0.3;
-    window.scrollTo({ top: Math.max(0, top), behavior: "smooth" });
+    window.scrollTo({ top: Math.max(0, top), behavior: scrollBehavior() });
   }
 
   function chapters() {
@@ -138,9 +145,11 @@
   // Any link to an in-page anchor (#fn-*, #errata-*, #note-*) shows its target
   // as a hover/focus popover instead of jumping.
   var popover = null;
+  var popoverTrigger = null;
   function ensurePopover() {
     if (popover) return popover;
     popover = document.createElement("div");
+    popover.id = "tc-reader-popover";
     popover.className = "tc-popover";
     popover.setAttribute("role", "tooltip");
     popover.hidden = true;
@@ -151,6 +160,11 @@
     var p = ensurePopover();
     var dest = href.charAt(0) === "#" ? document.getElementById(href.slice(1)) : null;
     if (!dest) return false;
+    if (popoverTrigger && popoverTrigger !== target) {
+      removeDescription(popoverTrigger, p.id);
+    }
+    popoverTrigger = target;
+    addDescription(target, p.id);
     // use the footnote's own content (or its parent li/aside)
     var src = dest;
     if (dest.tagName === "A" && dest.parentElement) src = dest.parentElement;
@@ -170,7 +184,22 @@
     p.style.top = top + "px";
     return true;
   }
-  function hidePopover() { if (popover) popover.hidden = true; }
+  function addDescription(target, id) {
+    var ids = (target.getAttribute("aria-describedby") || "").split(/\s+/).filter(Boolean);
+    if (ids.indexOf(id) < 0) ids.push(id);
+    target.setAttribute("aria-describedby", ids.join(" "));
+  }
+  function removeDescription(target, id) {
+    var ids = (target.getAttribute("aria-describedby") || "").split(/\s+/)
+      .filter(function (value) { return value && value !== id; });
+    if (ids.length) target.setAttribute("aria-describedby", ids.join(" "));
+    else target.removeAttribute("aria-describedby");
+  }
+  function hidePopover() {
+    if (popover) popover.hidden = true;
+    if (popoverTrigger && popover) removeDescription(popoverTrigger, popover.id);
+    popoverTrigger = null;
+  }
 
   document.addEventListener("mouseover", function (e) {
     var a = e.target.closest && e.target.closest("a[href^='#fn-'], a[href^='#errata-'], a[href^='#note-']");
@@ -180,9 +209,21 @@
     var a = e.target.closest && e.target.closest("a[href^='#fn-'], a[href^='#errata-'], a[href^='#note-']");
     if (a) hidePopover();
   });
+  document.addEventListener("focusin", function (e) {
+    var a = e.target.closest && e.target.closest("a[href^='#fn-'], a[href^='#errata-'], a[href^='#note-']");
+    if (a) showPopover(a, a.getAttribute("href"));
+  });
+  document.addEventListener("focusout", function (e) {
+    var a = e.target.closest && e.target.closest("a[href^='#fn-'], a[href^='#errata-'], a[href^='#note-']");
+    if (a) hidePopover();
+  });
   document.addEventListener("click", function (e) {
     var a = e.target.closest && e.target.closest("a[href^='#fn-'], a[href^='#errata-'], a[href^='#note-']");
-    if (a && showPopover(a, a.getAttribute("href"))) { e.preventDefault(); }
+    if (a && showPopover(a, a.getAttribute("href"))) { e.preventDefault(); return; }
+    if (popover && !popover.hidden && !popover.contains(e.target)) hidePopover();
+  });
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape" && popover && !popover.hidden) hidePopover();
   });
 
   // ── 4. Homepage continue-reading card ─────────────────────────────────────
@@ -280,30 +321,7 @@
     });
   })();
 
-  // ── 6. Scholarly-view toggle ──────────────────────────────────────────────
-  // Reveals [unclear] / OCR-variant / translator-note spans (hidden by default
-  // in clean reading mode). The spans are wrapped at build time; the toggle just
-  // flips a class on the body.
-  (function scholarlyToggle() {
-    var body = $(".english-body");
-    var btn = $("#rt-scholar-toggle");
-    if (!body || !btn) return;
-    var KEY = "tc-scholarly";
-    var on = false;
-    try { on = localStorage.getItem(KEY) === "1"; } catch (e) {}
-    function apply() {
-      body.classList.toggle("scholarly", on);
-      btn.setAttribute("aria-pressed", on ? "true" : "false");
-    }
-    apply();
-    btn.addEventListener("click", function () {
-      on = !on;
-      try { localStorage.setItem(KEY, on ? "1" : "0"); } catch (e) {}
-      apply();
-    });
-  })();
-
-  // ── 7. "What is this?" cipher explainer (first visit) ─────────────────────
+  // ── 6. "What is this?" cipher explainer (first visit) ─────────────────────
   // First-time visitors get a one-paragraph popover anchored to the first
   // inline cipher table on a work page. Dismissible; remembered per browser.
   (function cipherIntro() {
@@ -332,7 +350,7 @@
     setTimeout(reveal, 1200);
   })();
 
-  // ── 8. Audio narration (SpeechSynthesis proof of concept) ─────────────────
+  // ── 7. Audio narration (SpeechSynthesis proof of concept) ─────────────────
   // Reads the work's English aloud, highlighting the current sentence. Play /
   // pause / stop. Pure client-side via the Web Speech API.
   (function audioNarration() {
@@ -343,6 +361,12 @@
     var sentences = [];
     var idx = 0;
     var playing = false;
+
+    function setPlaying(on) {
+      playing = on;
+      btn.classList.toggle("rt-reading", on);
+      btn.setAttribute("aria-pressed", on ? "true" : "false");
+    }
 
     function gather() {
       sentences = [];
@@ -360,7 +384,7 @@
       if (sentences[i]) sentences[i].el.classList.add("tc-read-hl");
       var r = sentences[i] && sentences[i].el.getBoundingClientRect();
       if (r && (r.bottom < 0 || r.top > window.innerHeight))
-        sentences[i].el.scrollIntoView({ block: "center", behavior: "smooth" });
+        sentences[i].el.scrollIntoView({ block: "center", behavior: scrollBehavior() });
     }
     function speak(i) {
       if (i >= sentences.length) { stop(); return; }
@@ -369,15 +393,16 @@
       utter = new SpeechSynthesisUtterance(sentences[i].text);
       utter.rate = 0.95;
       utter.onend = function () { if (playing) speak(idx + 1); };
-      utter.onerror = function () { stop(); };
+      utter.onerror = function () { if (playing) stop(); };
       window.speechSynthesis.speak(utter);
     }
-    function play() { gather(); if (!sentences.length) return; playing = true; btn.classList.add("rt-reading"); speak(idx); }
-    function pause() { playing = false; window.speechSynthesis.cancel(); btn.classList.remove("rt-reading"); }
-    function stop() { playing = false; window.speechSynthesis.cancel(); idx = 0; clearHL(); btn.classList.remove("rt-reading"); }
+    function play() { gather(); if (!sentences.length) return; setPlaying(true); speak(idx); }
+    function pause() { setPlaying(false); window.speechSynthesis.cancel(); }
+    function stop() { setPlaying(false); window.speechSynthesis.cancel(); idx = 0; clearHL(); }
+    setPlaying(false);
     btn.addEventListener("click", function () {
       if (playing) pause();
-      else if (window.speechSynthesis.speaking) { playing = true; window.speechSynthesis.resume(); btn.classList.add("rt-reading"); }
+      else if (window.speechSynthesis.speaking) { setPlaying(true); window.speechSynthesis.resume(); }
       else play();
     });
     document.addEventListener("keydown", function (e) {
