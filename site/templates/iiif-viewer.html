@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Facsimile viewer — Trithemius Corpus</title>
+  <link rel="stylesheet" href="../static/iiif-viewer.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to facsimile</a>
+  <header class="viewer-header">
+    <a href="../index.html" class="viewer-home">Trithemius Corpus</a>
+    <div class="viewer-heading">
+      <p id="manifest-title">Facsimile viewer</p>
+      <p id="viewer-status" role="status" aria-live="polite">Loading institutional images…</p>
+    </div>
+    <nav aria-label="Facsimile pages">
+      <button id="previous-canvas" type="button" aria-label="Previous image">←</button>
+      <label>Image <input id="canvas-number" type="number" min="1" value="1" inputmode="numeric"> <span id="canvas-total"></span></label>
+      <button id="next-canvas" type="button" aria-label="Next image">→</button>
+    </nav>
+  </header>
+  <main id="main">
+    <h1 class="sr-only">Zoomable source facsimile</h1>
+    <span id="canvas=1" hidden></span>
+    <div id="openseadragon" aria-label="Zoomable source image"></div>
+  </main>
+  <footer class="viewer-attribution">
+    <span id="required-statement">Source attribution is loading.</span>
+    <a id="institutional-source" href="#">Open the institutional source</a>
+    <a id="manifest-link" href="#">IIIF manifest</a>
+  </footer>
+  <noscript>This viewer requires JavaScript. The institutional source link remains available in each work's source record.</noscript>
+  <script src="https://cdn.jsdelivr.net/npm/openseadragon@6.0.2/build/openseadragon/openseadragon.min.js" crossorigin="anonymous"></script>
+  <script src="../static/iiif-viewer.js"></script>
+</body>
+</html>

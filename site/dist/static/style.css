@@ -1265,7 +1265,10 @@ tr.tier-f .tier-letter { color: #e8654a; }
 /* --- Reader toolbar, type panel, visible editorial annotations, and TTS --- */
 .reader-toolbar { display: flex; align-items: center; gap: 0.4rem;
   max-width: var(--body-max, 44rem); margin: 0 auto 0.8rem; flex-wrap: wrap;
-  font-size: 0.82rem; }
+  font-size: 0.82rem; position: sticky; top: 0.5rem; z-index: 4;
+  padding: 0.35rem; border-radius: 4px;
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  backdrop-filter: blur(8px); }
 .reader-toolbar .rt-spacer { flex: 1; }
 .rt-toggle { display: inline-flex; align-items: center; gap: 0.3rem;
   padding: 0.3rem 0.6rem; background: rgba(201,162,74,0.06);

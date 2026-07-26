@@ -4,6 +4,8 @@ on:
   pull_request:
     paths:
       - "data/reader_fixtures.json"
+      - "data/iiif/**"
+      - "data/iiif_sources.json"
       - "data/schemas/**"
       - "METHODOLOGY.md"
       - "requirements.txt"
@@ -12,6 +14,8 @@ on:
       - "scripts/build_t4b_pages.py"
       - "scripts/make_cover.py"
       - "scripts/passage_model.py"
+      - "scripts/iiif_model.py"
+      - "scripts/validate_iiif.py"
       - "scripts/validate_passages.py"
       - "scripts/validate_reader.py"
       - "site/templates/**"
@@ -22,6 +26,8 @@ on:
     branches: [main]
     paths:
       - "data/reader_fixtures.json"
+      - "data/iiif/**"
+      - "data/iiif_sources.json"
       - "data/schemas/**"
       - "METHODOLOGY.md"
       - "requirements.txt"
@@ -30,6 +36,8 @@ on:
       - "scripts/build_t4b_pages.py"
       - "scripts/make_cover.py"
       - "scripts/passage_model.py"
+      - "scripts/iiif_model.py"
+      - "scripts/validate_iiif.py"
       - "scripts/validate_passages.py"
       - "scripts/validate_reader.py"
       - "site/templates/**"
@@ -71,3 +79,4 @@ jobs:
         run: |
           python scripts/validate_reader.py
           python scripts/validate_passages.py
+          python scripts/validate_iiif.py

@@ -1,0 +1,20 @@
+:root { color-scheme: dark; font-family: system-ui, sans-serif; }
+* { box-sizing: border-box; }
+body { margin: 0; background: #16130f; color: #f5efe2; display: grid; grid-template-rows: auto 1fr auto; min-height: 100vh; }
+.viewer-header, .viewer-attribution { display: flex; gap: 1rem; align-items: center; padding: .65rem 1rem; background: #211c16; z-index: 2; }
+.viewer-heading { flex: 1; min-width: 12rem; }
+h1, p { margin: 0; }
+#manifest-title { font: 600 1rem/1.3 Georgia, serif; }
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+.skip-link { position: fixed; left: 1rem; top: -5rem; z-index: 5; background: #fff; color: #111; padding: .6rem; }
+.skip-link:focus { top: 1rem; }
+#viewer-status { color: #cabfae; font-size: .8rem; }
+a { color: #f0c77b; }
+nav { display: flex; align-items: center; gap: .4rem; white-space: nowrap; }
+button, input { font: inherit; min-height: 2.3rem; }
+button { min-width: 2.3rem; }
+input { width: 4.5rem; }
+#main, #openseadragon { min-height: 28rem; height: 100%; background: #0b0907; }
+.viewer-attribution { font-size: .82rem; flex-wrap: wrap; }
+.viewer-attribution span { flex: 1; min-width: 18rem; }
+@media (max-width: 700px) { .viewer-header { align-items: stretch; flex-wrap: wrap; } .viewer-heading { order: -1; flex-basis: 100%; } nav { margin-left: auto; } }
