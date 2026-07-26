@@ -9,6 +9,7 @@ corpus needed to regenerate every artifact from scans.
 - [ ] `python scripts/validate_release.py` - confirm manifest/work metadata, quality ledgers, docs, links, search assets, and junk-file checks pass.
 - [ ] `python -c "import py_compile, glob; [py_compile.compile(f, doraise=True) for f in glob.glob('scripts/*.py')]"` - confirm all public scripts parse (the glob is expanded by Python, so this works in PowerShell and bash alike; `python -m py_compile scripts/*.py` only works where the shell expands the wildcard).
 - [ ] `python scripts/build_site.py` - rebuild static pages from committed release artifacts and available local working-corpus extras.
+- [ ] `python scripts/validate_cipher_trace.py` - recompute the executable Modus II trace and verify its evidence labels, accessible controls, text equivalent, and downloads.
 - [ ] `npx pagefind --site site/dist` - rebuild search after the static site changes.
 - [ ] `python scripts/build_publication_exports.py` - rebuild all EPUB 3.3 and paged-HTML reading editions.
 - [ ] `python scripts/validate_publication_exports.py` - confirm package structure, metadata, provenance, caveats, and print contracts.

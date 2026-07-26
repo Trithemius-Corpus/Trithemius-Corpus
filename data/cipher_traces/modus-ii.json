@@ -1,0 +1,60 @@
+{
+  "$schema": "cipher-trace.schema.json",
+  "id": "clavis-modus-ii-p251",
+  "title": "Modus II: from printed letters to German",
+  "work_id": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+  "edition": "Clavis generalis triplex (1608)",
+  "facsimile": {
+    "printed_page": 251,
+    "crop": "static/images/cipher-crops/modus_02_p251.webp",
+    "region_note": "The crop preserves the Alphabetum, Intentio, Literae significantes, and Exemplum secundi on printed page 251.",
+    "evidence_status": "printed-evidence"
+  },
+  "passage": {
+    "id": "trc:prdl-70281_clavis-generalis-triplex-in-libros-steganographicos:seg-0113:p-0010",
+    "label": "Clavis parallel reader, cipher-apparatus segment 113",
+    "href": "works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_parallel.html#seg-113",
+    "precision": "segment",
+    "note": "The stable passage index identifies the printed Intentio within this containing source segment."
+  },
+  "alphabet": "abcdefghiklmnopqrstvxyzw",
+  "printed_substitution_pairs": [
+    "az", "bw", "ca", "db", "ec", "fd", "ge", "hf", "ig", "kh", "li", "mk",
+    "nl", "om", "pn", "qo", "rp", "sq", "tr", "vs", "xt", "yv", "zx", "wy"
+  ],
+  "cover": {
+    "label": "Exemplum secundi (cover prose sample)",
+    "tokens": ["C", "Reator", "genyri", "humani", "apice", "Deus", "famelis", "suor", "Zelo", "rellitudine", "gu", "berna", "quatenus", "bene", "conueniant", "sancti", "celestiumus", "praemium", "gaudium", "exultium"],
+    "significant_positions": [3, 5, 7, 9, 11, 13, 15, 17, 19],
+    "status": "transcription-repair",
+    "method": "OCR-preserving sample of the Latin Exemplum. After the initial printed marker, alternate words are significant; their initials are read in order. OCR errors remain unresolved, so this sample demonstrates the extraction rule but is not silently forced to agree with the separately printed cipher line."
+  },
+  "cipher_stream": {
+    "label": "Literae significantes",
+    "transcription": "g.a.f.z.g.b.c.p.g.a.f.h.m.k.s.m.l.q.r.s.i.b.x.l.v.s.s.k.g.r.g.q.b.s.e.q.e.t.p.m.g.r",
+    "status": "transcription-repair",
+    "method": "Human/vision reading of the printed, period-separated letter line; periods are editorially represented as separators."
+  },
+  "extraction": {
+    "rule": "For the cover, take the initial of every alternate significant word after the marker. For the separately printed Literae significantes, read each period-separated letter from left to right and remove separators without reordering.",
+    "result": "gafzgbcpgafhmksmlqrsibxlvsskgrgqbseqetpmgr",
+    "status": "inferred-operation"
+  },
+  "decode": {
+    "rule": "Invert the printed plaintext-to-cipher Alphabetum and substitute one letter at a time.",
+    "result": "ichaiderichkomvonstvldznyvvmitisdvgsgxroit",
+    "status": "inferred-operation"
+  },
+  "intentio": {
+    "diplomatic": "Ich bittedich komm von stund an zu mir es thut sehr noth",
+    "normalized_letters": "ichbittedichkommvonstvndanzvmiresthvtsehrnoth",
+    "translation": "I beg you, come to me at once; it is very urgent.",
+    "status": "printed-evidence"
+  },
+  "editorial_note": "The substitution is fully reproducible, but the decoded transcription matches only part of the printed Intentio because several tiny Fraktur cipher letters remain uncertain. The edition therefore preserves the computed output and the printed target separately; it does not silently repair the cipher stream.",
+  "provenance": [
+    "Facsimile crop derived from the corpus scan of printed page 251.",
+    "Cipher-line transcription confirmed by human inspection against a vision-assisted read; unresolved letter readings remain visible through the mismatch.",
+    "The plaintext Intentio and explicit Alphabetum are printed on the same page."
+  ]
+}

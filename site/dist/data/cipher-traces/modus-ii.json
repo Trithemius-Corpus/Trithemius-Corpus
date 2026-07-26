@@ -1,0 +1,428 @@
+{
+  "$schema": "cipher-trace.schema.json",
+  "id": "clavis-modus-ii-p251",
+  "title": "Modus II: from printed letters to German",
+  "work_id": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+  "edition": "Clavis generalis triplex (1608)",
+  "facsimile": {
+    "printed_page": 251,
+    "crop": "static/images/cipher-crops/modus_02_p251.webp",
+    "region_note": "The crop preserves the Alphabetum, Intentio, Literae significantes, and Exemplum secundi on printed page 251.",
+    "evidence_status": "printed-evidence"
+  },
+  "passage": {
+    "id": "trc:prdl-70281_clavis-generalis-triplex-in-libros-steganographicos:seg-0113:p-0010",
+    "label": "Clavis parallel reader, cipher-apparatus segment 113",
+    "href": "works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_parallel.html#seg-113",
+    "precision": "segment",
+    "note": "The stable passage index identifies the printed Intentio within this containing source segment."
+  },
+  "alphabet": "abcdefghiklmnopqrstvxyzw",
+  "printed_substitution_pairs": [
+    "az",
+    "bw",
+    "ca",
+    "db",
+    "ec",
+    "fd",
+    "ge",
+    "hf",
+    "ig",
+    "kh",
+    "li",
+    "mk",
+    "nl",
+    "om",
+    "pn",
+    "qo",
+    "rp",
+    "sq",
+    "tr",
+    "vs",
+    "xt",
+    "yv",
+    "zx",
+    "wy"
+  ],
+  "cover": {
+    "label": "Exemplum secundi (cover prose sample)",
+    "tokens": [
+      "C",
+      "Reator",
+      "genyri",
+      "humani",
+      "apice",
+      "Deus",
+      "famelis",
+      "suor",
+      "Zelo",
+      "rellitudine",
+      "gu",
+      "berna",
+      "quatenus",
+      "bene",
+      "conueniant",
+      "sancti",
+      "celestiumus",
+      "praemium",
+      "gaudium",
+      "exultium"
+    ],
+    "significant_positions": [
+      3,
+      5,
+      7,
+      9,
+      11,
+      13,
+      15,
+      17,
+      19
+    ],
+    "status": "transcription-repair",
+    "method": "OCR-preserving sample of the Latin Exemplum. After the initial printed marker, alternate words are significant; their initials are read in order. OCR errors remain unresolved, so this sample demonstrates the extraction rule but is not silently forced to agree with the separately printed cipher line."
+  },
+  "cipher_stream": {
+    "label": "Literae significantes",
+    "transcription": "g.a.f.z.g.b.c.p.g.a.f.h.m.k.s.m.l.q.r.s.i.b.x.l.v.s.s.k.g.r.g.q.b.s.e.q.e.t.p.m.g.r",
+    "status": "transcription-repair",
+    "method": "Human/vision reading of the printed, period-separated letter line; periods are editorially represented as separators."
+  },
+  "extraction": {
+    "rule": "For the cover, take the initial of every alternate significant word after the marker. For the separately printed Literae significantes, read each period-separated letter from left to right and remove separators without reordering.",
+    "result": "gafzgbcpgafhmksmlqrsibxlvsskgrgqbseqetpmgr",
+    "status": "inferred-operation"
+  },
+  "decode": {
+    "rule": "Invert the printed plaintext-to-cipher Alphabetum and substitute one letter at a time.",
+    "result": "ichaiderichkomvonstvldznyvvmitisdvgsgxroit",
+    "status": "inferred-operation"
+  },
+  "intentio": {
+    "diplomatic": "Ich bittedich komm von stund an zu mir es thut sehr noth",
+    "normalized_letters": "ichbittedichkommvonstvndanzvmiresthvtsehrnoth",
+    "translation": "I beg you, come to me at once; it is very urgent.",
+    "status": "printed-evidence"
+  },
+  "editorial_note": "The substitution is fully reproducible, but the decoded transcription matches only part of the printed Intentio because several tiny Fraktur cipher letters remain uncertain. The edition therefore preserves the computed output and the printed target separately; it does not silently repair the cipher stream.",
+  "provenance": [
+    "Facsimile crop derived from the corpus scan of printed page 251.",
+    "Cipher-line transcription confirmed by human inspection against a vision-assisted read; unresolved letter readings remain visible through the mismatch.",
+    "The plaintext Intentio and explicit Alphabetum are printed on the same page."
+  ],
+  "computed": {
+    "extracted": "gafzgbcpgafhmksmlqrsibxlvsskgrgqbseqetpmgr",
+    "decoded": "ichaiderichkomvonstvldznyvvmitisdvgsgxroit",
+    "cover_sample_initials": "gafzgqccg",
+    "mapping": [
+      {
+        "plain": "a",
+        "cipher": "z"
+      },
+      {
+        "plain": "b",
+        "cipher": "w"
+      },
+      {
+        "plain": "c",
+        "cipher": "a"
+      },
+      {
+        "plain": "d",
+        "cipher": "b"
+      },
+      {
+        "plain": "e",
+        "cipher": "c"
+      },
+      {
+        "plain": "f",
+        "cipher": "d"
+      },
+      {
+        "plain": "g",
+        "cipher": "e"
+      },
+      {
+        "plain": "h",
+        "cipher": "f"
+      },
+      {
+        "plain": "i",
+        "cipher": "g"
+      },
+      {
+        "plain": "k",
+        "cipher": "h"
+      },
+      {
+        "plain": "l",
+        "cipher": "i"
+      },
+      {
+        "plain": "m",
+        "cipher": "k"
+      },
+      {
+        "plain": "n",
+        "cipher": "l"
+      },
+      {
+        "plain": "o",
+        "cipher": "m"
+      },
+      {
+        "plain": "p",
+        "cipher": "n"
+      },
+      {
+        "plain": "q",
+        "cipher": "o"
+      },
+      {
+        "plain": "r",
+        "cipher": "p"
+      },
+      {
+        "plain": "s",
+        "cipher": "q"
+      },
+      {
+        "plain": "t",
+        "cipher": "r"
+      },
+      {
+        "plain": "v",
+        "cipher": "s"
+      },
+      {
+        "plain": "x",
+        "cipher": "t"
+      },
+      {
+        "plain": "y",
+        "cipher": "v"
+      },
+      {
+        "plain": "z",
+        "cipher": "x"
+      },
+      {
+        "plain": "w",
+        "cipher": "y"
+      }
+    ],
+    "rows": [
+      {
+        "position": 1,
+        "cipher": "g",
+        "decoded": "i"
+      },
+      {
+        "position": 2,
+        "cipher": "a",
+        "decoded": "c"
+      },
+      {
+        "position": 3,
+        "cipher": "f",
+        "decoded": "h"
+      },
+      {
+        "position": 4,
+        "cipher": "z",
+        "decoded": "a"
+      },
+      {
+        "position": 5,
+        "cipher": "g",
+        "decoded": "i"
+      },
+      {
+        "position": 6,
+        "cipher": "b",
+        "decoded": "d"
+      },
+      {
+        "position": 7,
+        "cipher": "c",
+        "decoded": "e"
+      },
+      {
+        "position": 8,
+        "cipher": "p",
+        "decoded": "r"
+      },
+      {
+        "position": 9,
+        "cipher": "g",
+        "decoded": "i"
+      },
+      {
+        "position": 10,
+        "cipher": "a",
+        "decoded": "c"
+      },
+      {
+        "position": 11,
+        "cipher": "f",
+        "decoded": "h"
+      },
+      {
+        "position": 12,
+        "cipher": "h",
+        "decoded": "k"
+      },
+      {
+        "position": 13,
+        "cipher": "m",
+        "decoded": "o"
+      },
+      {
+        "position": 14,
+        "cipher": "k",
+        "decoded": "m"
+      },
+      {
+        "position": 15,
+        "cipher": "s",
+        "decoded": "v"
+      },
+      {
+        "position": 16,
+        "cipher": "m",
+        "decoded": "o"
+      },
+      {
+        "position": 17,
+        "cipher": "l",
+        "decoded": "n"
+      },
+      {
+        "position": 18,
+        "cipher": "q",
+        "decoded": "s"
+      },
+      {
+        "position": 19,
+        "cipher": "r",
+        "decoded": "t"
+      },
+      {
+        "position": 20,
+        "cipher": "s",
+        "decoded": "v"
+      },
+      {
+        "position": 21,
+        "cipher": "i",
+        "decoded": "l"
+      },
+      {
+        "position": 22,
+        "cipher": "b",
+        "decoded": "d"
+      },
+      {
+        "position": 23,
+        "cipher": "x",
+        "decoded": "z"
+      },
+      {
+        "position": 24,
+        "cipher": "l",
+        "decoded": "n"
+      },
+      {
+        "position": 25,
+        "cipher": "v",
+        "decoded": "y"
+      },
+      {
+        "position": 26,
+        "cipher": "s",
+        "decoded": "v"
+      },
+      {
+        "position": 27,
+        "cipher": "s",
+        "decoded": "v"
+      },
+      {
+        "position": 28,
+        "cipher": "k",
+        "decoded": "m"
+      },
+      {
+        "position": 29,
+        "cipher": "g",
+        "decoded": "i"
+      },
+      {
+        "position": 30,
+        "cipher": "r",
+        "decoded": "t"
+      },
+      {
+        "position": 31,
+        "cipher": "g",
+        "decoded": "i"
+      },
+      {
+        "position": 32,
+        "cipher": "q",
+        "decoded": "s"
+      },
+      {
+        "position": 33,
+        "cipher": "b",
+        "decoded": "d"
+      },
+      {
+        "position": 34,
+        "cipher": "s",
+        "decoded": "v"
+      },
+      {
+        "position": 35,
+        "cipher": "e",
+        "decoded": "g"
+      },
+      {
+        "position": 36,
+        "cipher": "q",
+        "decoded": "s"
+      },
+      {
+        "position": 37,
+        "cipher": "e",
+        "decoded": "g"
+      },
+      {
+        "position": 38,
+        "cipher": "t",
+        "decoded": "x"
+      },
+      {
+        "position": 39,
+        "cipher": "p",
+        "decoded": "r"
+      },
+      {
+        "position": 40,
+        "cipher": "m",
+        "decoded": "o"
+      },
+      {
+        "position": 41,
+        "cipher": "g",
+        "decoded": "i"
+      },
+      {
+        "position": 42,
+        "cipher": "r",
+        "decoded": "t"
+      }
+    ]
+  }
+}
