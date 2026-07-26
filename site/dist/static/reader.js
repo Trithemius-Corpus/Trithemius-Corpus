@@ -5,6 +5,7 @@
   "use strict";
   var WORK_ID = window.TC_WORK && window.TC_WORK.id;
   var WORK_TITLE = window.TC_WORK && window.TC_WORK.title;
+  var WORK_CITATION = window.TC_WORK && window.TC_WORK.citation;
 
   function $(sel, ctx) { return (ctx || document).querySelector(sel); }
   function $all(sel, ctx) { return Array.prototype.slice.call((ctx || document).querySelectorAll(sel)); }
@@ -16,8 +17,35 @@
     } catch (e) { return "auto"; }
   }
 
+  function passageElements() {
+    return $all(".english-body [data-passage-id]")
+      .filter(function (element) { return element.offsetParent !== null; });
+  }
+
+  function passageAtScroll() {
+    var list = passageElements();
+    if (!list.length) return null;
+    var mid = window.innerHeight * 0.35;
+    var current = list[0];
+    list.forEach(function (element) {
+      if (element.getBoundingClientRect().top <= mid + 2) current = element;
+    });
+    return current;
+  }
+
+  function passageURL(id) {
+    var target = new URL(window.location.href);
+    target.searchParams.delete("resume");
+    target.searchParams.set("view", (window.TC_WORK && window.TC_WORK.view) || "read");
+    target.searchParams.set("lang", (window.TC_WORK && window.TC_WORK.language) || "en");
+    target.searchParams.set("annotations", (window.TC_WORK && window.TC_WORK.annotations) || "visible");
+    target.hash = id || "";
+    return target.toString();
+  }
+
   // ── 1. Reading-progress sync ──────────────────────────────────────────────
-  // Store scroll fraction per work; the homepage surfaces the most-recent.
+  // Version 2 stores a stable passage ID while retaining the old scroll
+  // fraction as a fallback for pre-passage pages and legacy entries.
   function progressKey(id) { return "tc-progress-" + id; }
 
   if (WORK_ID) {
@@ -28,9 +56,11 @@
       var h = document.documentElement;
       var max = h.scrollHeight - h.clientHeight;
       var frac = max > 0 ? Math.min(1, Math.max(0, h.scrollTop / max)) : 0;
+      var passage = passageAtScroll();
       try {
-        var entry = { id: WORK_ID, title: WORK_TITLE, frac: frac, t: Date.now(),
-                      ch: currentChapterLabel() };
+        var entry = { v: 2, id: WORK_ID, title: WORK_TITLE, frac: frac, t: Date.now(),
+                      ch: currentChapterLabel(),
+                      passage: passage && passage.getAttribute("data-passage-id") };
         localStorage.setItem(progressKey(WORK_ID), JSON.stringify(entry));
         // index of works read, for the continue card
         var idx = JSON.parse(localStorage.getItem("tc-progress-idx") || "[]");
@@ -42,7 +72,20 @@
     window.addEventListener("scroll", function () {
       if (!ticking) { window.requestAnimationFrame(recordProgress); ticking = true; }
     }, { passive: true });
-    window.addEventListener("load", recordProgress);
+    window.addEventListener("load", function () {
+      var resume = new URL(window.location.href).searchParams.get("resume");
+      if (!window.location.hash && resume !== null) {
+        var fraction = Math.min(1, Math.max(0, parseFloat(resume) || 0));
+        var root = document.documentElement;
+        window.scrollTo(0, fraction * Math.max(0, root.scrollHeight - root.clientHeight));
+        try {
+          var clean = new URL(window.location.href);
+          clean.searchParams.delete("resume");
+          window.history.replaceState(null, "", clean.toString());
+        } catch (e) {}
+      }
+      recordProgress();
+    });
   }
 
   function currentChapterLabel() {
@@ -59,6 +102,8 @@
   }
 
   function paragraphs() {
+    var identified = passageElements();
+    if (identified.length) return identified;
     return $all(".english-body p, .english-body li, .english-body h2, .english-body h3")
       .filter(function (p) { return p.offsetParent !== null; });
   }
@@ -141,7 +186,97 @@
     }
   });
 
-  // ── 3. Footnote / errata popovers ─────────────────────────────────────────
+  // ── 3. Stable passage links and citations ─────────────────────────────────
+  (function passageTools() {
+    var linkButton = $("#rt-copy-link");
+    var citeButton = $("#rt-copy-cite");
+    var label = $("#rt-passage-label");
+    var status = $("#rt-passage-status");
+    var active = null;
+    var ticking = false;
+    if (!linkButton || !citeButton || !passageElements().length) return;
+
+    function setActive(element) {
+      if (active === element) return;
+      if (active) active.removeAttribute("data-active-passage");
+      active = element;
+      if (active) active.setAttribute("data-active-passage", "true");
+      var id = active && active.getAttribute("data-passage-id");
+      linkButton.disabled = !id;
+      citeButton.disabled = !id;
+      if (label) label.textContent = id ? id.replace("p-en-", "Passage ").replace(/-/g, ".") : "";
+    }
+
+    function update() {
+      ticking = false;
+      setActive(passageAtScroll());
+    }
+
+    function copyFallback(value) {
+      var area = document.createElement("textarea");
+      area.value = value;
+      area.setAttribute("readonly", "");
+      area.style.position = "fixed";
+      area.style.opacity = "0";
+      document.body.appendChild(area);
+      area.select();
+      var copied = false;
+      try { copied = document.execCommand("copy"); } catch (e) {}
+      area.remove();
+      return copied ? Promise.resolve() : Promise.reject(new Error("copy failed"));
+    }
+
+    function copyText(value, successMessage) {
+      var operation = navigator.clipboard && window.isSecureContext
+        ? navigator.clipboard.writeText(value)
+        : copyFallback(value);
+      operation.then(function () {
+        if (status) status.textContent = successMessage;
+      }).catch(function () {
+        if (status) status.textContent = "Copy failed; use the browser address bar.";
+      });
+    }
+
+    function activeData() {
+      if (!active) return null;
+      var id = active.getAttribute("data-passage-id");
+      if (!id) return null;
+      var url = passageURL(id);
+      try { window.history.replaceState(null, "", url); } catch (e) {}
+      return {
+        id: id,
+        uri: active.getAttribute("data-passage-uri") || id,
+        url: url
+      };
+    }
+
+    linkButton.addEventListener("click", function () {
+      var data = activeData();
+      if (data) copyText(data.url, "Passage link copied.");
+    });
+    citeButton.addEventListener("click", function () {
+      var data = activeData();
+      if (!data) return;
+      var citation = (WORK_CITATION || WORK_TITLE || WORK_ID) +
+        " Passage " + data.uri + ". " + data.url;
+      copyText(citation, "Passage citation copied.");
+    });
+    window.addEventListener("scroll", function () {
+      if (!ticking) { ticking = true; window.requestAnimationFrame(update); }
+    }, { passive: true });
+    window.addEventListener("hashchange", function () {
+      var id = decodeURIComponent(window.location.hash.slice(1));
+      var target = id && document.getElementById(id);
+      if (target && !target.hasAttribute("data-passage-id")) target = target.nextElementSibling;
+      if (target && target.hasAttribute("data-passage-id")) {
+        setActive(target);
+        flash(target);
+      }
+    });
+    update();
+  })();
+
+  // ── 4. Footnote / errata popovers ─────────────────────────────────────────
   // Any link to an in-page anchor (#fn-*, #errata-*, #note-*) shows its target
   // as a hover/focus popover instead of jumping.
   var popover = null;
@@ -226,7 +361,7 @@
     if (e.key === "Escape" && popover && !popover.hidden) hidePopover();
   });
 
-  // ── 4. Homepage continue-reading card ─────────────────────────────────────
+  // ── 5. Homepage continue-reading card ─────────────────────────────────────
   function renderContinueCard() {
     var host = $("#continue-reading");
     if (!host) return;
@@ -242,7 +377,13 @@
     if (!best) { host.hidden = true; return; }
     host.hidden = false;
     var pct = Math.round((best.frac || 0) * 100);
-    host.innerHTML = '<a class="continue-card" href="works/' + best.id + '.html">' +
+    var href = "works/" + encodeURIComponent(best.id) + ".html";
+    if (best.passage) {
+      href += "?view=read&amp;lang=en&amp;annotations=visible#" + encodeURIComponent(best.passage);
+    } else if (best.frac) {
+      href += "?resume=" + encodeURIComponent(best.frac);
+    }
+    host.innerHTML = '<a class="continue-card" href="' + href + '">' +
       '<span class="continue-label">Continue reading</span>' +
       '<span class="continue-title">' + escapeHTML(best.title || "") + '</span>' +
       (best.ch ? '<span class="continue-ch">' + escapeHTML(best.ch) + '</span>' : "") +
@@ -266,7 +407,7 @@
 
   renderContinueCard();
 
-  // ── 5. Adjustable type controls ───────────────────────────────────────────
+  // ── 6. Adjustable type controls ───────────────────────────────────────────
   // CSS custom properties on .english-body drive size/line/width/justify so the
   // reader can resize without reflowing the whole layout. Persisted per-reader.
   (function typeControls() {
@@ -321,7 +462,7 @@
     });
   })();
 
-  // ── 6. "What is this?" cipher explainer (first visit) ─────────────────────
+  // ── 7. "What is this?" cipher explainer (first visit) ─────────────────────
   // First-time visitors get a one-paragraph popover anchored to the first
   // inline cipher table on a work page. Dismissible; remembered per browser.
   (function cipherIntro() {
@@ -350,7 +491,7 @@
     setTimeout(reveal, 1200);
   })();
 
-  // ── 7. Audio narration (SpeechSynthesis proof of concept) ─────────────────
+  // ── 8. Audio narration (SpeechSynthesis proof of concept) ─────────────────
   // Reads the work's English aloud, highlighting the current sentence. Play /
   // pause / stop. Pure client-side via the Web Speech API.
   (function audioNarration() {

@@ -47,14 +47,14 @@
   <div class="pp-head">English</div>
   {% for p in pairs %}
   <div class="pp-n" id="seg-{{ p.n }}"><a href="#seg-{{ p.n }}">{{ p.n }}</a></div>
-  <div class="pp-latin" lang="la">
+  <div class="pp-latin" lang="la" data-segment="{{ p.n }}">
     {%- if p.latin -%}
     {{ p.latin }}
     {%- else -%}
     <span class="muted">[non-text scan boilerplate removed]</span>
     {%- endif -%}
   </div>
-  <div class="pp-english{% if p.missing or p.dup_of %} pp-missing{% endif %}">
+  <div class="pp-english{% if p.missing or p.dup_of %} pp-missing{% endif %}" data-segment="{{ p.n }}">
     {%- if p.dup_of -%}
     <span class="muted">[duplicate scan of segment <a href="#seg-{{ p.dup_of }}">{{ p.dup_of }}</a> &mdash; the translation is shown there]</span>
     {%- elif p.missing -%}
@@ -75,6 +75,8 @@
     Faithfulness {{ '%.2f'|format(work.faithful_adj) }} in the independent grading pass (Claude Sonnet 4.6, with Opus 4.8 pairwise on the churro-hi layer).
     See <a href="{{ url('methodology.html') }}">Methodology</a> for how this was produced and graded,
     and <a href="{{ url('methodology.html') }}#11-limitations-known-failure-modes">its limitations</a> for what it is not.
+    The machine-readable <a href="{{ url('data/passages/' + work.id + '.json') }}">passage index</a>
+    records the English-to-Latin relationship at source-segment precision.
   </p>
 </footer>
 </article>

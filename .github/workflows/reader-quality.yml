@@ -4,11 +4,15 @@ on:
   pull_request:
     paths:
       - "data/reader_fixtures.json"
+      - "data/schemas/**"
       - "METHODOLOGY.md"
+      - "requirements.txt"
       - "scripts/audit_layout.py"
       - "scripts/build_site.py"
       - "scripts/build_t4b_pages.py"
       - "scripts/make_cover.py"
+      - "scripts/passage_model.py"
+      - "scripts/validate_passages.py"
       - "scripts/validate_reader.py"
       - "site/templates/**"
       - "site/static/**"
@@ -18,11 +22,15 @@ on:
     branches: [main]
     paths:
       - "data/reader_fixtures.json"
+      - "data/schemas/**"
       - "METHODOLOGY.md"
+      - "requirements.txt"
       - "scripts/audit_layout.py"
       - "scripts/build_site.py"
       - "scripts/build_t4b_pages.py"
       - "scripts/make_cover.py"
+      - "scripts/passage_model.py"
+      - "scripts/validate_passages.py"
       - "scripts/validate_reader.py"
       - "site/templates/**"
       - "site/static/**"
@@ -47,3 +55,19 @@ jobs:
 
       - name: Validate committed reader
         run: python scripts/validate_reader.py
+
+      - name: Install reader dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Validate passage model and schemas
+        run: python scripts/validate_passages.py --source-only
+
+      - name: Build clean reader and passage artifacts
+        run: |
+          python scripts/build_site.py
+          python scripts/build_t4b_pages.py
+
+      - name: Validate clean reader and passage artifacts
+        run: |
+          python scripts/validate_reader.py
+          python scripts/validate_passages.py

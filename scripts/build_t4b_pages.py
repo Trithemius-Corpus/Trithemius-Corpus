@@ -321,6 +321,8 @@ def build_t4b_work_page(env, work: dict) -> str:
         work_title=work.get("title_en") or work.get("title") or work_id,
         reading_body_has_title=True,
         reading_time=None,
+        passage_count=0,
+        has_tei=False,
         has_errata=False,
         errata_html=None,
         prev_work=None,

@@ -210,7 +210,8 @@ Proposed branch: `codex/passage-identity`
 
 Deliverables:
 
-- deterministic paragraph-level IDs in English and Latin;
+- deterministic English block IDs nested under stable Latin/source-segment
+  IDs; finer Latin paragraph IDs only where structure has been verified;
 - a generated passage index with chapter, segment, and sequence data;
 - passage-based continue-reading state with migration from scroll fractions;
 - exact passage links, copy-link, and copy-citation controls;

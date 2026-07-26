@@ -250,6 +250,15 @@ Negative results are part of the method.
 
 Site construction, edition assembly, validation, and audit scripts are in `scripts/`. Canonical quality data are in `data/_quality/`; earlier editions are in `works/`; T4B source editions are in `works-t4b/`; and corpus metadata are in `manifest.json` and `CITATION.cff`.
 
+Standard source-witness reading pages also publish deterministic passage and
+annotation indexes under `site/dist/data/passages/`. English paragraph, heading,
+list, table, quotation, and preformatted blocks receive stable fragments within
+their source translation segment. The corresponding Latin claim remains at
+segment precision; the index does not infer finer alignment from paragraph
+order. Three representative works additionally ship a constrained TEI P5 pilot.
+The identifier, annotation, migration, and compatibility policy is documented
+in `docs/PASSAGE_MODEL.md`.
+
 A complete site build runs:
 
 ```text
@@ -257,6 +266,8 @@ python scripts/build_site.py
 python scripts/build_t4b_pages.py
 npx pagefind --site site/dist
 python scripts/validate_release.py
+python scripts/validate_reader.py
+python scripts/validate_passages.py
 ```
 
 The site can be rebuilt from the repository. The full OCR and translation production environment is documented but not turnkey: it depended on public institutional scans, local and cloud vision inference, and several commercial model APIs. Large page-image caches and private working-lane artifacts are not all included in the release.
