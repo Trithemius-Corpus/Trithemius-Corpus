@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "works": {
+    "prdl-24362_de-laude-scriptorum-manualium": {
+      "provider": "Bayerische Staatsbibliothek",
+      "provider_code": "bsb",
+      "provider_manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/manifest",
+      "source_url": "https://daten.digitale-sammlungen.de/bsb00037424/image_1",
+      "api_version": "2.1",
+      "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "required_statement": "Images: Bayerische Staatsbibliothek. Public Domain Mark 1.0.",
+      "page_offset": 0,
+      "mapping_precision": "exact"
+    },
+    "prdl-24390_polygraphiae-libri-vi": {
+      "provider": "Bayerische Staatsbibliothek",
+      "provider_code": "bsb",
+      "provider_manifest": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00029406/manifest",
+      "source_url": "https://daten.digitale-sammlungen.de/bsb00029406/image_1",
+      "api_version": "2.1",
+      "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "required_statement": "Images: Bayerische Staatsbibliothek. Public Domain Mark 1.0.",
+      "page_offset": 0,
+      "mapping_precision": "approximate"
+    },
+    "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam": {
+      "provider": "Bibliothèque nationale de France",
+      "provider_code": "gallica",
+      "provider_manifest": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/manifest.json",
+      "source_url": "https://gallica.bnf.fr/ark:/12148/bpt6k5832538j",
+      "api_version": "2.1",
+      "rights": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
+      "required_statement": "Images: Bibliothèque nationale de France, Gallica. See Gallica's conditions of use.",
+      "page_offset": 0,
+      "mapping_precision": "exact"
+    }
+  }
+}

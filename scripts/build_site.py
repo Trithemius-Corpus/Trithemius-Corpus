@@ -49,6 +49,7 @@ from jinja2 import Environment, FileSystemLoader, select_autoescape
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import facsimile_map  # noqa: E402  (shared chunk -> source-page mapping)
+import iiif_model  # noqa: E402  (offline IIIF Presentation 3 artifacts)
 import passage_model  # noqa: E402  (stable passage IDs + export artifacts)
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -67,6 +68,7 @@ SITE_BASE = "https://trithemius-corpus.github.io/Trithemius-Corpus/"
 CLUSTER_MAPPING = ROOT / "cluster_mapping.json"
 FIRST_ENGLISH = ROOT / "data" / "first_english.json"
 CIPHERS_MD = ROOT / "docs" / "CIPHERS.md"
+IIIF_SOURCES = json.loads((ROOT / "data" / "iiif_sources.json").read_text(encoding="utf-8"))["works"]
 
 SITE_DESCRIPTION = (
     "Open English translations of the Latin works of Johannes Trithemius "
@@ -2430,7 +2432,8 @@ def build_work(env: Environment, work: dict, english_html: str,
                prev_work_id: str | None = None,
                next_work_id: str | None = None,
                passage_count: int = 0,
-               has_tei: bool = False) -> str:
+               has_tei: bool = False,
+               iiif_canvas_map: dict[str, int] | None = None) -> str:
     work_dir = ROOT / "works" / work["id"]
     intro_html = render_markdown_file(work_dir / "intro.md")
     desc = intro_excerpt(work["id"]) or (
@@ -2480,6 +2483,8 @@ def build_work(env: Environment, work: dict, english_html: str,
         reading_time=reading_time,
         passage_count=passage_count,
         has_tei=has_tei,
+        iiif_source=IIIF_SOURCES.get(work["id"]),
+        iiif_canvas_map=iiif_canvas_map or {},
         has_errata=has_errata,
         errata_html=errata_html,
         prev_work=prev_work_id,
@@ -2774,6 +2779,7 @@ def main() -> None:
         inline_style_c = _style_c_inline_lookup(w, style_c)
         passages: list[dict] = []
         annotations: list[dict] = []
+        iiif_canvas_map: dict[str, int] = {}
         if pairs:
             def polish(rendered: str) -> str:
                 rendered = polish_polygraphia_vocabulary_html(w["id"], rendered)
@@ -2792,6 +2798,14 @@ def main() -> None:
                 OUT / "data" / "passages" / f"{w['id']}.json",
                 passage_index,
             )
+            iiif_source = IIIF_SOURCES.get(w["id"])
+            if iiif_source:
+                offset = int(iiif_source.get("page_offset", 0))
+                iiif_canvas_map = {
+                    str(segment["segment"]): int(segment["source"]["pages"][0]["number"]) + offset
+                    for segment in passage_index["segments"]
+                    if segment.get("source", {}).get("pages")
+                }
             n_passage_indexes += 1
             n_passages += len(passages)
             if w["id"] in passage_model.TEI_PILOT_IDS:
@@ -2808,10 +2822,13 @@ def main() -> None:
                        related_by_id.get(w["id"]),
                        prev_work_id=prev_id, next_work_id=next_id,
                        passage_count=len(passages),
-                       has_tei=w["id"] in passage_model.TEI_PILOT_IDS),
+                       has_tei=w["id"] in passage_model.TEI_PILOT_IDS,
+                       iiif_canvas_map=iiif_canvas_map),
             encoding="utf-8")
         sitemap_paths.append(f"works/{w['id']}.html")
 
+    iiif_model.generate_all()
+    sitemap_paths.append("iiif/viewer.html")
     write_sitemap(sitemap_paths)
 
     print(f"wrote site to {OUT.relative_to(ROOT)}/")

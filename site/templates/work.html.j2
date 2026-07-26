@@ -102,6 +102,8 @@
             title="Copy a link to the current passage" disabled>&sect;<span class="rt-label"> Copy link</span></button>
     <button type="button" class="rt-toggle" id="rt-copy-cite"
             title="Copy a citation for the current passage" disabled>&#128203;<span class="rt-label"> Cite passage</span></button>
+    {% if iiif_source %}<a class="rt-toggle" id="rt-facsimile" href="{{ url('iiif/viewer.html') }}?manifest={{ url('iiif/' + work.id + '/manifest.json') }}#canvas=1"
+            title="Open the source image aligned to the current passage">&#128444;<span class="rt-label"> Facsimile</span></a>{% endif %}
     <span class="rt-passage-label" id="rt-passage-label" aria-hidden="true"></span>
     <span class="sr-only" id="rt-passage-status" role="status" aria-live="polite"></span>
     {% endif %}
@@ -166,6 +168,7 @@
     {% if has_parallel %}<li><a href="{{ url('works/' + work.id + '_parallel.html') }}">Side-by-side Latin&nbsp;/&nbsp;English viewer</a></li>{% endif %}
     {% if passage_count %}<li><a href="{{ url('data/passages/' + work.id + '.json') }}">Passage and annotation index</a> ({{ passage_count }} stable English passages)</li>{% endif %}
     {% if has_tei %}<li><a href="{{ url('tei/' + work.id + '.xml') }}">Pilot TEI P5 export</a></li>{% endif %}
+    {% if iiif_source %}<li><a href="{{ url('iiif/viewer.html') }}?manifest={{ url('iiif/' + work.id + '/manifest.json') }}#canvas=1">Zoomable facsimile viewer</a> / <a href="{{ url('iiif/' + work.id + '/manifest.json') }}">IIIF Presentation 3 manifest</a> ({{ iiif_source.provider }}; {{ iiif_source.mapping_precision }} text alignment)</li>{% endif %}
     {% if style_c %}<li><a href="#special-renderings">Special scholarly renderings</a> (cipher tables and damaged passages, beside their facsimiles)</li>{% endif %}
     <li><a href="#" onclick="window.print();return false;">Download as PDF</a> (typeset via your browser&rsquo;s print dialog)</li>
     {% if work.source.url %}<li><a href="{{ work.source.url }}">Original source record</a>{% if work.source.download_url %} / <a href="{{ work.source.download_url }}">PDF</a>{% endif %} ({{ work.source.provider or 'provider' }})</li>{% endif %}
@@ -212,6 +215,8 @@
   'citation': citation,
   'passageCount': passage_count,
   'passageIndex': url('data/passages/' + work.id + '.json') if passage_count else none,
+  'iiifViewer': (url('iiif/viewer.html') + '?manifest=' + url('iiif/' + work.id + '/manifest.json')) if iiif_source else none,
+  'iiifCanvasMap': iiif_canvas_map|default({}),
   'view': 'read',
   'language': 'en',
   'annotations': 'visible'

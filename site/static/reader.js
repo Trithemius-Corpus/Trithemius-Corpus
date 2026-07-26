@@ -192,6 +192,7 @@
     var citeButton = $("#rt-copy-cite");
     var label = $("#rt-passage-label");
     var status = $("#rt-passage-status");
+    var facsimile = $("#rt-facsimile");
     var active = null;
     var ticking = false;
     if (!linkButton || !citeButton || !passageElements().length) return;
@@ -205,6 +206,11 @@
       linkButton.disabled = !id;
       citeButton.disabled = !id;
       if (label) label.textContent = id ? id.replace("p-en-", "Passage ").replace(/-/g, ".") : "";
+      if (facsimile && active) {
+        var segment = active.getAttribute("data-segment");
+        var canvas = window.TC_WORK.iiifCanvasMap && window.TC_WORK.iiifCanvasMap[segment];
+        if (canvas) facsimile.href = window.TC_WORK.iiifViewer + "#canvas=" + canvas;
+      }
     }
 
     function update() {
@@ -260,6 +266,17 @@
       var citation = (WORK_CITATION || WORK_TITLE || WORK_ID) +
         " Passage " + data.uri + ". " + data.url;
       copyText(citation, "Passage citation copied.");
+    });
+    if (facsimile) facsimile.addEventListener("click", function (event) {
+      var hashId = decodeURIComponent(window.location.hash.slice(1));
+      var linked = hashId && document.getElementById(hashId);
+      var context = linked && linked.hasAttribute("data-passage-id") ? linked : active;
+      var segment = context && context.getAttribute("data-segment");
+      var canvas = window.TC_WORK.iiifCanvasMap && window.TC_WORK.iiifCanvasMap[segment];
+      if (canvas) {
+        event.preventDefault();
+        window.location.assign(window.TC_WORK.iiifViewer + "#canvas=" + canvas);
+      }
     });
     window.addEventListener("scroll", function () {
       if (!ticking) { ticking = true; window.requestAnimationFrame(update); }
