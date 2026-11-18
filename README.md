@@ -57,6 +57,8 @@ The cryptographic and occult works carry extra **Special scholarly renderings** 
 
 Start with [`METHODOLOGY.md`](METHODOLOGY.md) for the OCR, translation, grading, remediation, limitations, and reproducibility notes.
 
+For *In Praise of Scribes*, the [translation review guide](docs/TRANSLATION_DISAGREEMENTS.md) explains how to inspect the two English readings, the Latin transcriptions, and the scan evidence for the seven corrections. The [offline review](review/translation-disagreements/prdl-24362_de-laude-scriptorum-manualium/index.html) is included with the checkout.
+
 ## What this is and is not
 
 This is **a starting point for English readers and a scholarly aid**, not a replacement for a human critical edition. The translations are machine-produced. The grades are independent machine grades useful for triage and quality accounting; they do not certify that every individual passage is correct. For any passage you intend to quote in a published argument, check it against the Latin.

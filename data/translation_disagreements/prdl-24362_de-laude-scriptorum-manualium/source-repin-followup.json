@@ -1,0 +1,14 @@
+[
+  {
+    "source": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html",
+    "old_sha256": "e7e9ac69e005c9378b65eaf1472f69920614a40479ea7eaf93959ba596f6279f",
+    "new_sha256": "959e3e3f546f56911cf1777ffd0df084ccb17d57766bfe6090651d7c725b68cc",
+    "reason": "Survey metadata and rights-link wording only; reading content and all IDs unchanged."
+  },
+  {
+    "source": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html",
+    "old_sha256": "f6ffd98af07f65e098f7e11a10d94f8ff3e6312eb6dfc4dbd3ad8958a9398f2d",
+    "new_sha256": "0c912eaae85fa29dcdef5d878a555bf4e03b9adb359a2bdf73d767dc3b1a0615",
+    "reason": "Survey metadata and rights-link wording only; reading content and all IDs unchanged."
+  }
+]

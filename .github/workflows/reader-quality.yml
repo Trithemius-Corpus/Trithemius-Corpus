@@ -3,6 +3,15 @@ name: Reader quality
 on:
   pull_request:
     paths:
+      - "data/translation_disagreements/**"
+      - "scripts/*translation_disagreements.py"
+      - "scripts/scan_evidence.py"
+      - "scripts/context_review.py"
+      - "scripts/validate_scribes_followup.py"
+      - "tests/test_translation_disagreements.py"
+      - "review/translation-disagreements/**"
+      - "works/**"
+      - "works-t4b/**"
       - "data/reader_fixtures.json"
       - "data/witness_comparisons/**"
       - "data/iiif/**"
@@ -19,6 +28,7 @@ on:
       - "scripts/validate_iiif.py"
       - "scripts/validate_passages.py"
       - "scripts/validate_reader.py"
+      - "scripts/validate_editorial_copy.py"
       - "scripts/validate_study_reader.py"
       - "scripts/build_witness_comparison.py"
       - "scripts/validate_witness_comparison.py"
@@ -32,6 +42,15 @@ on:
   push:
     branches: [main]
     paths:
+      - "data/translation_disagreements/**"
+      - "scripts/*translation_disagreements.py"
+      - "scripts/scan_evidence.py"
+      - "scripts/context_review.py"
+      - "scripts/validate_scribes_followup.py"
+      - "tests/test_translation_disagreements.py"
+      - "review/translation-disagreements/**"
+      - "works/**"
+      - "works-t4b/**"
       - "data/reader_fixtures.json"
       - "data/witness_comparisons/**"
       - "data/iiif/**"
@@ -48,6 +67,7 @@ on:
       - "scripts/validate_iiif.py"
       - "scripts/validate_passages.py"
       - "scripts/validate_reader.py"
+      - "scripts/validate_editorial_copy.py"
       - "scripts/validate_study_reader.py"
       - "scripts/build_witness_comparison.py"
       - "scripts/validate_witness_comparison.py"
@@ -64,6 +84,18 @@ permissions:
   contents: read
 
 jobs:
+  disagreement-queue:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m pip install -r requirements.txt
+      - run: python scripts/validate_translation_disagreements.py
+      - run: python scripts/validate_scribes_followup.py
+      - run: python -m unittest discover -s tests -p test_translation_disagreements.py
+
   reader-contracts:
     runs-on: ubuntu-latest
     steps:
@@ -92,6 +124,7 @@ jobs:
       - name: Validate clean reader and passage artifacts
         run: |
           python scripts/validate_reader.py
+          python scripts/validate_editorial_copy.py
           python scripts/validate_passages.py
           python scripts/validate_iiif.py
           python scripts/validate_study_reader.py
