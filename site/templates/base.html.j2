@@ -1,4 +1,5 @@
 <!doctype html>
+{% from "_macros.html.j2" import rights_summary with context %}
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -110,7 +111,7 @@
     <p class="footer-byline muted">
       Machine-assisted English translations of the Latin works of Johannes Trithemius (1462&ndash;1516).
       Every translation is machine-produced and independently audited; for scholarly quotation, check the Latin.
-      Translations &amp; generated data: public domain (CC0). Methodology, docs &amp; code: CC BY 4.0. Compiled 2026 by Ian Carlos Fabin.
+      {{ rights_summary() }} Compiled 2026 by Ian Carlos Fabin.
     </p>
   </div>
 </footer>

@@ -130,6 +130,8 @@ def provenance(metadata: dict, version: str) -> str:
     source_url = source.get("url") or ""
     source_link = f'<a href="{xml(source_url)}">institutional source record</a>' if source_url else "institutional source record unavailable"
     work_url = f"{SITE_BASE}works/{metadata['id']}.html"
+    corrections = metadata.get('ai_corrections')
+    correction_note = (f'<p>Local AI scan-supported corrections: {xml(corrections["date"])}. Human review is not documented. Historical machine audits predate these edits; consult the work errata for the original wording and source evidence.</p>' if corrections else '')
     return f'''<section id="provenance" epub:type="colophon">
 <h1>About this edition</h1>
 <dl>
@@ -140,6 +142,7 @@ def provenance(metadata: dict, version: str) -> str:
 <dt>Canonical web edition</dt><dd><a href="{xml(work_url)}">{xml(work_url)}</a></dd>
 <dt>License</dt><dd>CC0-1.0 for generated translation artifacts; see the repository license for documentation, code, and arrangement.</dd>
 </dl>
+{correction_note}
 <p>This export was generated from the canonical repository source. Stable passage-level citation is available in the web and TEI editions where passage identifiers have been assigned.</p>
 <p><a href="{REPO_URL}/blob/main/METHODOLOGY.md">Methodology and limitations</a> · <a href="{REPO_URL}/blob/main/works/{xml(metadata['id'])}/ERRATA.md">Work errata</a></p>
 </section>'''

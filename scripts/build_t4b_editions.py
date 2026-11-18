@@ -120,6 +120,7 @@ def assemble_work(prdl: str, sonnet: dict, published_meta: dict | None) -> bool:
         "title_en": published_meta.get("title_en") if published_meta else None,
         "year": published_meta.get("year", "") if published_meta else "",
         "source_year": published_meta.get("source_year") if published_meta else None,
+        "composition_year": published_meta.get("composition_year") if published_meta else None,
         "year_note": published_meta.get("year_note") if published_meta else None,
         "edition_info": published_meta.get("edition_info", "") if published_meta else "",
         "page_count": published_meta.get("page_count", 0) if published_meta else 0,

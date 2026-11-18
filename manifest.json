@@ -373,14 +373,14 @@
       "id": "prdl-24362_de-laude-scriptorum-manualium",
       "title": "De Laude Scriptorum Manualium",
       "title_en": "In Praise of Scribes",
-      "year": "1494",
+      "year": "1492",
       "source_year": "1494",
-      "year_note": null,
+      "year_note": "Composed in 1492 (dedicatory letter); this BSB witness is catalogued as Mainz, 1494. The BSB catalogue records the 1492 dedication separately from the printing date.",
       "edition_info": "Mainz, 1494 (BSB)",
       "edition_info_raw": "( Mainz , 1494 ) BSB",
       "page_count": 46,
       "priority": 6,
-      "unclear_count": 27,
+      "unclear_count": 26,
       "unclear_density": 1.3,
       "genre_cluster": "monastic-reform",
       "source": {
@@ -409,7 +409,14 @@
       ],
       "duplicate_source_group": null,
       "duplicate_source_note": null,
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "composition_year": "1492",
+      "ai_corrections": {
+        "date": "2026-11-05",
+        "count": 3,
+        "human_review": "none_documented",
+        "note": "AI scan-supported local corrections; historical machine audits predate these edits. See editorial corrections."
+      }
     },
     {
       "id": "prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis",

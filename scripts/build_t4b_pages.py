@@ -294,6 +294,7 @@ def build_t4b_work_page(env, work: dict) -> str:
 
     # Build a work dict compatible with work.html.j2 expectations
     display_work = dict(work)
+    bs.attach_translation_survey(display_work)
     display_work["genre"] = work.get("genre_cluster", "")
     display_work["genre_label"] = work.get("genre_cluster", "").replace("-", " ").title()
     display_work["fluent_adj"] = work.get("faithful_adj", 0)  # T4B doesn't have separate fluent grade
@@ -323,8 +324,8 @@ def build_t4b_work_page(env, work: dict) -> str:
         reading_time=None,
         passage_count=0,
         has_tei=False,
-        has_errata=False,
-        errata_html=None,
+        has_errata=(work_dir / 'ERRATA.md').exists(),
+        errata_html=bs._errata_markup(work_dir / 'ERRATA.md') if (work_dir / 'ERRATA.md').exists() else None,
         prev_work=None,
         next_work=None,
         all_work_ids=[w["id"] for w in load_t4b_works()],
@@ -426,19 +427,24 @@ def link_t4b_into_main_pages(t4b_works: list[dict]) -> None:
         if not main_page.exists():
             continue
         html = main_page.read_text(encoding="utf-8")
-        # Inject the T4B badge right after the parallel-viewer badge if present,
-        # otherwise after the tier badge block. Use the T4B tier for the label.
-        t4b_tier = tw.get("tier", "A")
+        # Describe the edition's preparation; machine grades remain in the
+        # provenance records and do not determine a reading recommendation.
         t4b_url = f"{work_id}-trithemius-4b.html"
         t4b_badge = (
             f'<a class="badge badge-t4b" href="{t4b_url}" '
-            f'title="Recommended English edition: Qwen3-VL-4B Trithemius LoRA OCR + GPT-5.5, graded {t4b_tier} by Sonnet">'
-            f'&#9733;&nbsp;Recommended:&nbsp;Trithemius&nbsp;4B&nbsp;edition&nbsp;({t4b_tier})</a>'
+            'title="Alternate machine translation with a prepared reading view; see its editorial status and limitations">'
+            'Trithemius&nbsp;4B&nbsp;edition &mdash; prepared view</a>'
         )
         # Inject the T4B badge right before the closing </div> of the badges block.
         # The badges block ends with "viewer</a>  </div>" — insert before that </div>.
         marker = "&nbsp;viewer</a>  </div>"
-        if marker in html and "badge-t4b" not in html:
+        if "badge-t4b" in html:
+            # A standalone rerun must replace legacy grade-based links too.
+            html = re.sub(r'<a\b[^>]*class="badge badge-t4b"[^>]*>.*?</a>',
+                          lambda _: t4b_badge, html, flags=re.S)
+            main_page.write_text(html, encoding="utf-8")
+            linked += 1
+        elif marker in html:
             html = html.replace(marker, "&nbsp;viewer</a>" + t4b_badge + "  </div>", 1)
             main_page.write_text(html, encoding="utf-8")
             linked += 1

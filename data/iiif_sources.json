@@ -10,7 +10,7 @@
       "rights": "https://creativecommons.org/publicdomain/mark/1.0/",
       "required_statement": "Images: Bayerische Staatsbibliothek. Public Domain Mark 1.0.",
       "page_offset": 0,
-      "mapping_precision": "exact"
+      "mapping_precision": "approximate"
     },
     "prdl-24390_polygraphiae-libri-vi": {
       "provider": "Bayerische Staatsbibliothek",

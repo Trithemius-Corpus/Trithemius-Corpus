@@ -1,4 +1,5 @@
 {% extends "base.html.j2" %}
+{% from "_macros.html.j2" import rights_summary, translation_survey_badge with context %}
 {% block title %}Trithemius Corpus &mdash; the Latin works of Johannes Trithemius in English{% endblock %}
 {% block body %}
 
@@ -23,19 +24,18 @@
     <p class="eyebrow">An English edition</p>
     <h1 class="hero-title">Trithemius Corpus</h1>
     <p class="hero-lede">
-      <strong>Johannes Trithemius</strong> (1462&ndash;1516) &mdash;
+      <strong>Johannes Trithemius</strong> (1462&ndash;1516) was a
       Benedictine abbot, bibliographer, and the first author of a printed book on
-      cryptography &mdash; has sat in early-modern print for five centuries with no
-      English edition. This project gives a readable English of
-      <strong>{{ stats.texts }} of his works</strong>, across {{ stats.editions }} printed
-      editions, {{ stats.first_english }} of them in English for the first time &mdash;
-      each set beside its Latin source, with the cipher tables shown against the
-      original page scans.
+      cryptography. This project offers provisional English translations of
+      <strong>{{ stats.texts }} Latin texts</strong>, across {{ stats.editions }} printed
+      editions, each set beside its Latin source, with the cipher tables shown
+      against the original page scans. For {{ stats.first_english }} texts,
+      <a href="{{ url('prior-translations.html') }}">our survey has not located a prior complete published English translation</a>.
     </p>
     <p class="hero-byline muted">
       Assembled by <a href="https://github.com/agentcarlosian">Ian Carlos Fabin</a>, with every
-      translation machine-made, accompanied by automated checks against the Latin, and free
-      to use under CC&nbsp;BY.
+      translation machine-made and accompanied by automated checks against the Latin.
+      {{ rights_summary() }}
     </p>
     <div class="hero-actions">
       <a class="button primary" href="{{ url('works.html') }}">Browse the works</a>
@@ -69,7 +69,7 @@
 </figure>
 
 <section class="quick-reads">
-  <h2>Start here: first in English</h2>
+  <h2>Start here: explore the translations</h2>
   <ul class="featured-list">
     {% for f in featured %}
     <li class="featured-item">
@@ -78,7 +78,7 @@
         <p class="featured-head">
           <a href="{{ url('works/' + f.work.id + '.html') }}"><em>{{ f.work.title }}</em></a>
           <span class="muted">&mdash; {{ f.work.title_en }}{% if f.work.year %}, {{ f.work.year }}{% endif %}</span>
-          {% if f.work.first_english %}<span class="badge first-en">first English</span>{% endif %}
+          {% if f.work.first_english %}{{ translation_survey_badge(f.work.first_english_note, f.work.translation_survey_status) }}{% endif %}
         </p>
         <p class="featured-pitch">{{ f.pitch }}</p>
       </div>

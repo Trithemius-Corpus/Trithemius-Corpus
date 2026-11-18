@@ -1,6 +1,15 @@
 {# Shared fragments. Import with context so url()/asset() resolve at the
    calling page's depth: {% from "_macros.html.j2" import breadcrumb, text_card with context %} #}
 
+{% macro rights_summary() -%}
+Translations &amp; generated data: CC0. Methodology, documentation, code &amp; corpus arrangement: CC BY 4.0.
+<a href="{{ url('LICENSE.html') }}">License &amp; rights</a>.
+{%- endmacro %}
+
+{% macro translation_survey_badge(note='', status='none_located') -%}
+<a class="badge first-en" href="{{ url('prior-translations.html') }}" title="Survey finding, not proof of priority. {{ note or 'No prior complete published English translation located in the project survey.' }}">{{ 'Prior English: partial' if status == 'partial_prior' else 'Survey unresolved' if status == 'unresolved' else 'No prior complete English located' }}</a>
+{%- endmacro %}
+
 {% macro breadcrumb(crumbs) %}
 <nav class="breadcrumb" aria-label="Breadcrumb">
   {% for href, label in crumbs %}
@@ -19,7 +28,7 @@
   </h3>
   <p class="text-card-sub">
     {{ t.title_en }}{% if t.year %} &middot; {{ t.year }}{% endif %}
-    {% if t.first_english %}<span class="badge first-en" title="No prior published English translation is known (see docs/PRIOR_TRANSLATIONS.md)">first English</span>{% endif %}
+    {% if t.first_english or t.rep.translation_survey_status == 'unresolved' %}{{ translation_survey_badge(t.rep.first_english_note, t.rep.translation_survey_status) }}{% endif %}
   </p>
   {% if t.excerpt %}<p class="text-card-excerpt muted">{{ t.excerpt }}</p>{% endif %}
   <p class="text-card-editions muted">

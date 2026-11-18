@@ -1,5 +1,5 @@
 {% extends "base.html.j2" %}
-{% from "_macros.html.j2" import breadcrumb with context %}
+{% from "_macros.html.j2" import breadcrumb, translation_survey_badge with context %}
 {% block title %}{{ work.title }} &mdash; Trithemius Corpus{% endblock %}
 {% block body %}
 
@@ -18,7 +18,7 @@
     <span class="badge status-review">{{ work.human_review }}</span>
     <span class="badge status-editorial">{{ work.editorial_state }}</span>
     {% if work.genre %}<a class="badge badge-link" href="{{ url('genres/' + work.genre + '.html') }}">{{ work.genre_label }}</a>{% endif %}
-    {% if work.first_english %}<span class="badge first-en" title="{{ work.first_english_note }}">first English</span>{% endif %}
+    {% if work.first_english or work.translation_survey_status == 'unresolved' %}{{ translation_survey_badge(work.first_english_note, work.translation_survey_status) }}{% endif %}
     {% if work.page_count %}<span class="badge">{{ work.page_count }}&nbsp;pp</span>{% endif %}
     {% if work.unclear_count and work.unclear_count > 0 %}<span class="badge" title="{{ work.unclear_count }} [unclear] markers remaining">{{ work.unclear_count }}&nbsp;gaps</span>{% endif %}
     {% if has_errata %}<span class="badge badge-link" title="Editorial corrections recorded"><a href="#errata" style="color:inherit;text-decoration:none">&#9998;&nbsp;errata</a></span>{% endif %}
@@ -40,13 +40,15 @@
         </td>
       </tr>
       {% endif %}
-      {% if work.year %}<tr><th>Composed</th><td>{{ work.year }}</td></tr>{% endif %}
-      {% if work.source_year and work.source_year != work.year %}<tr><th>Edition (this witness)</th><td>{{ work.source_year }}</td></tr>{% endif %}
+      {% if work.composition_year %}<tr><th>Composed</th><td>{{ work.composition_year }}</td></tr>{% elif work.year and work.year != work.source_year %}<tr><th>Recorded work date</th><td>{{ work.year }}</td></tr>{% endif %}
+      {% if work.source_year %}<tr><th>Edition (this witness)</th><td>{{ work.source_year }}</td></tr>{% endif %}
       {% if work.year_note %}<tr><th>Date note</th><td>{{ work.year_note }}</td></tr>{% endif %}
       {% if work.edition_info %}<tr><th>Source witness</th><td>{{ work.edition_info }}</td></tr>{% endif %}
       <tr><th>Text origin</th><td>{{ work.text_origin }}</td></tr>
+      <tr><th>Prior English</th><td><a href="{{ url('prior-translations.html') }}">{{ work.translation_survey_label }}</a>. {{ work.first_english_note }}</td></tr>
       <tr><th>Human review</th><td>{{ work.human_review }}</td></tr>
       <tr><th>Editorial state</th><td>{{ work.editorial_state }}</td></tr>
+      {% if work.editorial_note %}<tr><th>Local corrections</th><td>{{ work.editorial_note }}</td></tr>{% endif %}
       <tr><th>Automated QA</th><td>{{ work.automated_qa }}{% if work.chunks_graded %} &middot; {{ work.chunks_graded }} / {{ work.chunks_total }} chunks ({{ '%.0f'|format(work.automated_qa_coverage) }}%){% endif %}. Automated checks are triage evidence, not human certification.</td></tr>
       {% if work.edition_siblings %}
       <tr>

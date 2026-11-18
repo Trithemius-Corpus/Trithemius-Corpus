@@ -1,0 +1,68 @@
+{
+  "scribes-001": {
+    "canvas_number": 5,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-001-crop.png",
+    "xywh": [
+      341,
+      1203,
+      1479,
+      292
+    ],
+    "sha256": "695e97cb0c7cd8d4ad93abbadeb7836cd0071914054ccf8f5c918a0b8813fe5c"
+  },
+  "scribes-002": {
+    "canvas_number": 20,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-002-crop.png",
+    "xywh": [
+      494,
+      486,
+      1416,
+      389
+    ],
+    "sha256": "cecc0baf2d7d91709c0130fcba40579d02bb426e241ed709d406e98956674958"
+  },
+  "scribes-003": {
+    "canvas_number": 8,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-003-crop.png",
+    "xywh": [
+      504,
+      1293,
+      1467,
+      421
+    ],
+    "sha256": "df5145e919c6965ad1228da121e8fd766caeb14026044775d0ed8094df624fb5"
+  },
+  "scribes-004": {
+    "canvas_number": 40,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-004-crop.png",
+    "xywh": [
+      452,
+      1077,
+      1446,
+      293
+    ],
+    "sha256": "5a53d531a3f855cb27a666c99f6886a5597b61e03e97c9464a003333a92ec6a6"
+  },
+  "scribes-005": {
+    "canvas_number": 40,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-005-crop.png",
+    "xywh": [
+      452,
+      750,
+      1446,
+      294
+    ],
+    "sha256": "412f9843b47b29b73b10dac4126a6a3055f3827b2b8d1f4bb1997607176837a4"
+  },
+  "scribes-006": {
+    "canvas_number": 32,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-006-crop.png",
+    "xywh": [
+      452,
+      1978,
+      1469,
+      455
+    ],
+    "sha256": "8201a4061aadeeeee6b1e71a8df6534ceb7d5e6d07a73ef24e398282fb97f690"
+  }
+}

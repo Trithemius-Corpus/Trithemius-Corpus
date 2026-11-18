@@ -111,7 +111,7 @@ FEATURED = [
     {"id": "prdl-24390_polygraphiae-libri-vi",
      "pitch": "The first printed book on cryptography in the West (1518). Its "
               "“Ave Maria” cipher hides messages inside pious Latin prayers; "
-              "this corpus gives the first continuous English of the body text, "
+              "this corpus offers continuous English of the body text, "
               "with every cipher table shown beside the original page scan."},
     {"id": "prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive",
      "pitch": "Trithemius defends himself against the charge of necromancy "
@@ -329,7 +329,7 @@ _first_english_cache: dict | None = None
 
 
 def load_first_english() -> dict:
-    """Curated 'first published English translation' flags (data/first_english.json)."""
+    """Survey flags for texts with no prior complete English located."""
     global _first_english_cache
     if _first_english_cache is None:
         if FIRST_ENGLISH.exists():
@@ -357,10 +357,24 @@ def enrich_work(w: dict) -> dict:
     # Reader-facing genre: pipeline cluster, corrected by the display override.
     w["genre"] = DISPLAY_GENRE_OVERRIDES.get(w["id"], w.get("genre_cluster"))
     w["genre_label"] = GENRE_LABELS.get(w["genre"], w["genre"] or "")
-    fe = load_first_english().get(w["id"], {})
-    w["first_english"] = bool(fe.get("first_english"))
-    w["first_english_note"] = fe.get("note", "")
+    attach_translation_survey(w)
     attach_public_status(w, edition_track="earlier")
+    return w
+
+
+def attach_translation_survey(w: dict) -> dict:
+    fe = load_first_english().get(w["id"], {})
+    status = fe.get("status", "unresolved")
+    labels = {"complete_prior": "Complete prior English located",
+              "partial_prior": "Partial prior English located; no complete translation located",
+              "none_located": "No prior complete English located",
+              "unresolved": "Survey coverage unresolved"}
+    if status not in labels:
+        raise ValueError(f"unknown translation survey status for {w['id']}: {status}")
+    w["translation_survey_status"] = status
+    w["translation_survey_label"] = labels[status]
+    w["first_english"] = status in {"partial_prior", "none_located"}
+    w["first_english_note"] = fe.get("note", "Prior-translation coverage has not been established.")
     return w
 
 
@@ -403,6 +417,10 @@ def attach_public_status(w: dict, edition_track: str = "earlier") -> dict:
         )
     else:
         w["editorial_state"] = "Provisional reading text"
+    if w.get('ai_corrections'):
+        w['automated_qa']='Historical machine audit (before local corrections)'
+        w['editorial_state']='AI-corrected provisional reading text'
+        w['editorial_note']=w['ai_corrections']['note']
     return w
 
 
@@ -760,12 +778,12 @@ def work_jsonld(work: dict) -> dict:
         "author": {"@type": "Person", "name": "Johannes Trithemius",
                    "birthDate": "1462", "deathDate": "1516"},
         "inLanguage": "en",
-        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "license": "https://creativecommons.org/publicdomain/zero/1.0/",
         "isPartOf": {"@type": "Dataset", "name": "Trithemius Corpus", "url": SITE_BASE},
         "url": f"{SITE_BASE}works/{work['id']}.html",
     }
-    if work.get("year"):
-        out["dateCreated"] = str(work["year"])
+    if work.get("composition_year"):
+        out["dateCreated"] = str(work["composition_year"])
     src = work.get("source") or {}
     if src.get("url"):
         out["isBasedOn"] = src["url"]
@@ -805,19 +823,8 @@ def render_markdown_file(src: Path) -> str:
     if not src.exists():
         return ""
     text = src.read_text(encoding="utf-8")
-    # Historical introductions often ended with a model-generated prestige
-    # claim such as "the translation sits in the top tier (S)." Public pages
-    # now report evidence fields instead; retain the source prose for audit but
-    # suppress those obsolete claims at render time during migration.
-    text = re.sub(
-        r"(?i)\s*(?:the\s+)?(?:translation|running prose|work|witness)\s+"
-        r"(?:(?:otherwise|nonetheless)\s+)?(?:sits|renders|is)\s+"
-        r"(?:in|to)\s+the\s+top\s+tier\s*\(S\)\.?",
-        "", text,
-    )
-    # Avoid the awkward legacy formulation in introductions. The restrained
-    # publication-history claim is sufficient on its own.
-    text = re.sub(r"(?i);\s*it has been read in (?:the )?Latin", "", text)
+    # Editorial claims are corrected in their source prose. Removing clauses
+    # while rendering can leave incomplete sentences and distort quoted text.
     html = markdown.markdown(text, extensions=["extra", "toc", "tables", "fenced_code", "sane_lists"])
     html = _strip_spurious_autolinks(html)
     return rewrite_rendered_links(html)
@@ -868,6 +875,8 @@ def rewrite_rendered_links(html: str) -> str:
     """Make GitHub-flavored repo links work inside site/dist pages."""
     site_pages = {
         "METHODOLOGY.md": "methodology.html",
+        "../METHODOLOGY.md": "methodology.html",
+        "docs/PRIOR_TRANSLATIONS.md": "prior-translations.html",
         # PIPELINE.md and LIMITATIONS.md were merged into METHODOLOGY.md;
         # any surviving in-body links to them resolve to the unified page.
         "PIPELINE.md": "methodology.html",
@@ -886,6 +895,8 @@ def rewrite_rendered_links(html: str) -> str:
         if href.startswith(("#", "http://", "https://", "mailto:")):
             return match.group(0)
         path, sep, frag = href.partition("#")
+        if path.startswith("../data/"):
+            path = path[3:]
         if path in site_pages:
             new_href = site_pages[path] + (sep + frag if sep else "")
         elif path.endswith(".html"):
@@ -2383,7 +2394,7 @@ def build_works_page(env: Environment, works: list[dict], texts: list[dict],
         n_editions=len(works),
         n_first=sum(1 for t in texts if t["first_english"]),
         **page_meta("works.html",
-                    "All 28 Latin texts of Johannes Trithemius in this corpus, "
+                    f"All {len(texts)} Latin texts in the Trithemius Corpus, "
                     "grouped by genre, with every printed edition and its "
                     "English translation.", nav="works"),
     )
@@ -2604,7 +2615,7 @@ def main() -> None:
     ALL_WORK_IDS = [w["id"] for w in works]
     sitemap_paths: list[str] = ["index.html", "works.html", "scoreboard.html",
                                 "ciphers.html", "cipher-solutions.html", "witness-comparison.html", "methodology.html",
-                                "LICENSE.html"]
+                                "LICENSE.html", "prior-translations.html"]
 
     (OUT / "index.html").write_text(
         build_index(env, manifest, works, texts, sections), encoding="utf-8")
@@ -2641,6 +2652,14 @@ def main() -> None:
         encoding="utf-8",
     )
     license_text = (ROOT / "LICENSE").read_text(encoding="utf-8")
+    (OUT / "prior-translations.html").write_text(
+        render_simple_page(
+            env, "Prior English translations",
+            render_markdown_file(ROOT / "docs" / "PRIOR_TRANSLATIONS.md"),
+            "prior-translations.html",
+            description="The project bibliography survey: prior English translations, search scope, and uncertainties.",
+        ), encoding="utf-8",
+    )
     license_html = f"<h1>License</h1>\n<pre>{html_lib.escape(license_text)}</pre>"
     (OUT / "LICENSE.html").write_text(
         render_simple_page(env, "License", license_html, "LICENSE.html"),

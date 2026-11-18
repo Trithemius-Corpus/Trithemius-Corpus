@@ -19,3 +19,10 @@
 *.jpg  binary
 *.webp binary
 *.woff2 binary
+*.epub binary
+*.pf_* binary
+*.pagefind binary
+
+# GitHub can collapse the rendered publication while keeping its sources visible.
+site/dist/** linguist-generated=true
+review/translation-disagreements/** linguist-generated=true

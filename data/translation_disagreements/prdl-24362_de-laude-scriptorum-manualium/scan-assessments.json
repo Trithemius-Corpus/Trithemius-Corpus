@@ -1,0 +1,207 @@
+{
+  "schema_version": "1.0",
+  "assessment_method": "Codex AI visual inspection of institutional facsimile and exact unretouched crops",
+  "human_review": "none_documented",
+  "date": "2026-11-05",
+  "transcription_convention": "Interpretive Latin with abbreviations expanded, line-breaks joined, and u/v normalized where needed. Square brackets mark an uncertain letter-reading. This is not a diplomatic edition.",
+  "items": {
+    "scribes-001": {
+      "decision": "accepted_for_local_correction",
+      "preferred_reading": "t4b",
+      "normalized_latin": "promisi: quod ingenii mei vires excedere non ignoravi",
+      "reason": "The printed non qualifies ignoravi: I was not unaware that it exceeded my powers. The earlier English moves that negation onto exceeded.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/5",
+        "label": "2r (0005)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00005/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-005.jpg",
+        "sha256": "3e27626faf4ce7bc0e0b2e79f7fc4fc999c1b0804db47cd1cba63f581ff09b4b",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-05"
+      },
+      "crop": {
+        "canvas_number": 5,
+        "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-001-crop.png",
+        "xywh": [
+          341,
+          1203,
+          1479,
+          292
+        ],
+        "sha256": "695e97cb0c7cd8d4ad93abbadeb7836cd0071914054ccf8f5c918a0b8813fe5c"
+      },
+      "ocr_page_to_canvas_offset": -1,
+      "mapping_basis": "Opening/closing words visually matched to this printed page; institutional folio label retained.",
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "scribes-002": {
+      "decision": "accepted_for_local_correction",
+      "preferred_reading": "earlier",
+      "normalized_latin": "Fuit in quodam cenobio nostri ordinis mihi non incognito frater quidam devotus",
+      "reason": "The scan clearly has mihi non incognito. There is no by name; the adjective attaches to the monastery.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/20",
+        "label": "9v (0020)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00020/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-020.jpg",
+        "sha256": "12dedd5b02d1b21742db0c571e0ce2628c2871e1f5bf9f7a3bf285ed35326145",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-05"
+      },
+      "crop": {
+        "canvas_number": 20,
+        "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-002-crop.png",
+        "xywh": [
+          494,
+          486,
+          1416,
+          389
+        ],
+        "sha256": "cecc0baf2d7d91709c0130fcba40579d02bb426e241ed709d406e98956674958"
+      },
+      "ocr_page_to_canvas_offset": -1,
+      "mapping_basis": "Opening/closing words visually matched to this printed page; institutional folio label retained.",
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "scribes-003": {
+      "decision": "accepted_for_local_correction",
+      "preferred_reading": "earlier",
+      "normalized_latin": "tremet [intuitus] iterum calamus",
+      "reason": "The printed line describes trembling and calamus. The word spanning the line break is iterum, not a reference to Jesus. The reading intuitus is retained as an interpretive reading of the minims.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/8",
+        "label": "3v (0008)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00008/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-008.jpg",
+        "sha256": "b6398a11de471aac45c59109427342c7fd1c86c23722c3cf9bec8dbc46506f84",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-05"
+      },
+      "crop": {
+        "canvas_number": 8,
+        "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-003-crop.png",
+        "xywh": [
+          504,
+          1293,
+          1467,
+          421
+        ],
+        "sha256": "df5145e919c6965ad1228da121e8fd766caeb14026044775d0ed8094df624fb5"
+      },
+      "ocr_page_to_canvas_offset": -1,
+      "mapping_basis": "Opening/closing words visually matched to this printed page; institutional folio label retained.",
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "scribes-004": {
+      "decision": "accepted_for_local_correction",
+      "preferred_reading": "t4b",
+      "normalized_latin": "Nec oportet vos propter studium monasterium deserere: quia unde proficiatis domi potestis invenire",
+      "reason": "The printed clause and its explanation support lack of necessity: the means of study can be found at home. This remains a contextual translation judgment, not a new prohibition.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/40",
+        "label": "19v (0040)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00040/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-040.jpg",
+        "sha256": "4e0a7d3470e65c0685129d096b9bc28b0ebef206b65ff76d693f54c801d06b96",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-05"
+      },
+      "crop": {
+        "canvas_number": 40,
+        "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-004-crop.png",
+        "xywh": [
+          452,
+          1077,
+          1446,
+          293
+        ],
+        "sha256": "5a53d531a3f855cb27a666c99f6886a5597b61e03e97c9464a003333a92ec6a6"
+      },
+      "ocr_page_to_canvas_offset": -1,
+      "mapping_basis": "Opening/closing words visually matched to this printed page; institutional folio label retained.",
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "scribes-005": {
+      "decision": "accepted_for_local_correction",
+      "preferred_reading": "new_reading",
+      "normalized_latin": "Mentis vestre purgate horreum: et deus triticum faciet inferri scripturarum",
+      "reason": "The scan reads Mentis, not Gentis/Dentes, and horreum. The metaphor is the storehouse of the mind; neither race nor an illegible noun is needed.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/40",
+        "label": "19v (0040)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00040/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-040.jpg",
+        "sha256": "4e0a7d3470e65c0685129d096b9bc28b0ebef206b65ff76d693f54c801d06b96",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-05"
+      },
+      "crop": {
+        "canvas_number": 40,
+        "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-005-crop.png",
+        "xywh": [
+          452,
+          750,
+          1446,
+          294
+        ],
+        "sha256": "412f9843b47b29b73b10dac4126a6a3055f3827b2b8d1f4bb1997607176837a4"
+      },
+      "ocr_page_to_canvas_offset": -1,
+      "mapping_basis": "Opening/closing words visually matched to this printed page; institutional folio label retained.",
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "scribes-006": {
+      "decision": "accepted_for_local_correction",
+      "preferred_reading": "earlier",
+      "normalized_latin": "abbas in omnibus eis necessariis abundantius quam ceteris provideat: qui tales esse et inveniri contemnunt",
+      "reason": "The scan has eis, ceteris, and plural contemnunt. The abbot provides more for the diligent brothers than for the others who disdain that conduct.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/32",
+        "label": "15v (0032)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00032/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-032.jpg",
+        "sha256": "41174529134c124eb97607397afde3e4967bc44c6ac9cb888a230d0ce428d7d0",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-05"
+      },
+      "crop": {
+        "canvas_number": 32,
+        "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-006-crop.png",
+        "xywh": [
+          452,
+          1978,
+          1469,
+          455
+        ],
+        "sha256": "8201a4061aadeeeee6b1e71a8df6534ceb7d5e6d07a73ef24e398282fb97f690"
+      },
+      "ocr_page_to_canvas_offset": -1,
+      "mapping_basis": "Opening/closing words visually matched to this printed page; institutional folio label retained.",
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    }
+  }
+}

@@ -7,7 +7,8 @@
   <h1>The works</h1>
   <p class="muted">
     {{ n_texts }} distinct Latin texts across {{ n_editions }} printed editions,
-    {{ n_first }} of them in English for the first time. Grouped by genre below
+    with no prior complete published English translation located for {{ n_first }} texts in
+    <a href="{{ url('prior-translations.html') }}">our bibliography survey</a>. Grouped by genre below
     &mdash; or <a href="#by-date" id="toggle-date-link">arrange by date</a>.
     Translation origin, review coverage, and known limitations are recorded on
     each work page and summarized on the <a href="{{ url('scoreboard.html') }}">audit page</a>.
@@ -18,7 +19,7 @@
   <div class="works-toolbar" id="works-toolbar" hidden>
     <input type="search" id="works-search" placeholder="Filter by title, genre, or year&hellip;"
            aria-label="Filter works">
-    <label class="works-first-only"><input type="checkbox" id="works-first"> first English only</label>
+    <label class="works-first-only"><input type="checkbox" id="works-first"> no prior complete English located</label>
     <span class="muted" id="works-count" aria-live="polite"></span>
   </div>
   <noscript><p class="muted">(Filtering needs JavaScript; the full grouped list is below.)</p></noscript>
