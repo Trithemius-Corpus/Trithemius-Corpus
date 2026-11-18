@@ -1,0 +1,16 @@
+[
+  {
+    "work": "prdl-24362_de-laude-scriptorum-manualium",
+    "id": "p-en-0003-0001",
+    "before": "0386049c54318b1ed99e5991a3956eef1ff978c272ef777b3bbddd2c51955527",
+    "after": "fa7e20ca7d16e8a3b08d89f2725770caa3dd21146bf9135aaf3c45c8cb70f38d",
+    "reason": "2026-11-17 Scribes scan revision: scribes-003"
+  },
+  {
+    "work": "prdl-24362_de-laude-scriptorum-manualium",
+    "id": "p-en-0006-0001",
+    "before": "7252070d940b06d81fbf68f69f86a08d2aabfd2b8ae1237beac5e48973649efc",
+    "after": "e761fcb20659b510512abba89f5b73e0464b86a391526d185b70db1e44daa114",
+    "reason": "2026-11-17 Scribes scan revision: A-F23"
+  }
+]

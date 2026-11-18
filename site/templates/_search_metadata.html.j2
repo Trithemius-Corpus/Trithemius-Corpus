@@ -1,0 +1,9 @@
+{% macro search_metadata(work, view) %}
+{% set record = search_witness(work) %}
+<meta data-pagefind-filter="collection[content]" content="editions">
+<meta data-pagefind-meta="workGroup[content]" content="{{ record.group }}">
+<meta data-pagefind-meta="workTitle[content]" content="{{ record.title }}">
+<meta data-pagefind-meta="witness[content]" content="{{ record.witness }}">
+<meta data-pagefind-meta="track[content]" content="{{ 'Trithemius 4B' if work.edition == 'trithemius-4b' else 'Earlier edition' }}">
+<meta data-pagefind-meta="view[content]" content="{{ view }}">
+{% endmacro %}

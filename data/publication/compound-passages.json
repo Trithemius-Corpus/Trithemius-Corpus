@@ -1,0 +1,19 @@
+{
+  "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam": {
+    "p-en-0029-0010": {
+      "blocks": 2,
+      "kind": "heading",
+      "sha256": "cacd6af9e38bf291888263f1fd82bbc29b4cb6988e8ce2fd44d6abb1dadd846d"
+    },
+    "p-en-0030-0001": {
+      "blocks": 7,
+      "kind": "paragraph",
+      "sha256": "77e81dcd64aaa1f20fad6e6cfca14cdb913330d2cc0587837f20280e433ad015"
+    },
+    "p-en-0055-0004": {
+      "blocks": 5,
+      "kind": "heading",
+      "sha256": "b0bb4156e09e7199c00c6a22335d9a3de5d006ac50ea6c153790dce40b9fc0c5"
+    }
+  }
+}

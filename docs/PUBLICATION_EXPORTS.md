@@ -21,10 +21,13 @@ python scripts/run_epubcheck.py <one-or-more .epub files>
 npx @vivliostyle/cli build -d -s A5 -o output.pdf site/dist/editions/print/<work-id>/index.html
 ```
 
-`build_publication_exports.py` writes fixed ZIP timestamps and a stable member
-order. By default it takes the edition version and modification date from
-`CITATION.cff`; release automation may override them with
-`TRITHEMIUS_EDITION_VERSION` and `SOURCE_DATE_EPOCH`. `run_epubcheck.py`
+`build_publication_exports.py` writes fixed ZIP timestamps, platform metadata
+and member order. To rebuild one work, pass `--work <id>` to the builder and
+validator. The builder stages the EPUB, print files and index together, and
+checks their recorded digests before replacing the previous editions directory.
+When upgrading a version-1 index, a single-work build retains the other packages
+and marks them as legacy. Build the other works to validate a complete release.
+`run_epubcheck.py`
 downloads the official EPUBCheck 5.3.0 distribution and verifies its pinned
 SHA-256 digest before execution.
 
@@ -38,10 +41,20 @@ not present in the print source.
 
 ## Versioning and citation
 
-An export inherits the public corpus version. If `CITATION.cff` has no explicit
-`version`, its ISO `date-released` is the edition version. A tagged release
-should set an explicit semantic version and DOI in `CITATION.cff`; rebuild the
-exports after either changes.
+Each work has its own revision. Its identifier includes the modification date
+and the first 16 hexadecimal digits of a SHA-256 digest of its unversioned
+EPUB and print content. The index stores the full content digest and separate
+digests for the canonical inputs, EPUB file, print HTML and print CSS.
+
+The most recent dated erratum, AI correction, optional work metadata field
+`publication_modified`, or entry in `data/publication/export-history.json`
+sets the earliest modification date. When newly edited content has no later
+dated entry, its first export records the UTC build date in the index. Rebuilds
+of the recorded content retain that date. To reproduce a previously unrecorded
+revision from an empty output directory, supply its date in the work metadata
+or set `SOURCE_DATE_EPOCH` to the intended UTC modification time.
+An explicit `version` in `CITATION.cff` supplies a release label.
+`TRITHEMIUS_EDITION_VERSION` overrides that label.
 
 For a whole book, cite the author, translated title, source-edition statement,
 Ian Carlos Fabin as English editor/translator, *Trithemius Corpus*, version,
@@ -50,7 +63,7 @@ prefer the web or TEI form where stable passage identifiers exist and append
 the passage ID. Example:
 
 > Johannes Trithemius, *On the Praise of Scribes*, English ed. Ian Carlos
-> Fabin, *Trithemius Corpus*, version 2026-07-12, EPUB 3.3,
+> Fabin, *Trithemius Corpus*, [edition version from the EPUB colophon], EPUB 3.3,
 > `prdl-24362_de-laude-scriptorum-manualium`.
 
 The repository commit and the SHA-256 values in `site/dist/editions/index.json`

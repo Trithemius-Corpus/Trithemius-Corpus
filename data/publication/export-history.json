@@ -1,0 +1,12 @@
+{
+  "format_revisions": [
+    {
+      "date": "2026-07-12",
+      "change": "First EPUB and paged HTML reading editions."
+    },
+    {
+      "date": "2026-11-17",
+      "change": "Revise authorship and audit credits, include per-edition revision identifiers and record digests for both publication formats."
+    }
+  ]
+}

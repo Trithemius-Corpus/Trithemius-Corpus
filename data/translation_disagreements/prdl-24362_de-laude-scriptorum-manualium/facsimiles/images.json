@@ -58,5 +58,29 @@
     ],
     "attribution": "Bayerische Staatsbibliothek",
     "download_date": "2026-11-05"
+  },
+  "14": {
+    "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/14",
+    "label": "6v (0014)",
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00014/full/full/0/default.jpg",
+    "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-014.jpg",
+    "sha256": "47b7dec9e5e56f9696e61ff4f74ee264b5c5ea23fa27ecb5612eada1de00a224",
+    "rights": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "attribution": "Bayerische Staatsbibliothek",
+    "download_date": "2026-11-17"
+  },
+  "27": {
+    "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/27",
+    "label": "13r (0027)",
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00027/full/full/0/default.jpg",
+    "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-027.jpg",
+    "sha256": "f3654fe39fbd7981a5e9830b15f2e719a0d69f92eb3380bb4c72e4d72f9b1f57",
+    "rights": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "attribution": "Bayerische Staatsbibliothek",
+    "download_date": "2026-11-17"
   }
 }

@@ -1465,17 +1465,36 @@ tr.tier-f .tier-letter { color: #e8654a; }
 
 /* --- Bilingual glossary (parallel viewer) --- */
 .pp-latin .lex {
+  appearance: none;
+  display: inline;
+  font: inherit;
+  color: inherit;
+  line-height: inherit;
+  border: 0;
   border-bottom: 1px dotted var(--gilt-deep);
   cursor: help;
   background: rgba(201,162,74,0.05);
   border-radius: 2px;
   padding: 0 1px;
 }
-.pp-latin .lex:hover { background: rgba(201,162,74,0.18); color: var(--gilt-bright); }
-.tc-lex-popover { font-size: 0.86rem; line-height: 1.5; }
+.pp-latin .lex:hover, .pp-latin .lex:focus-visible { background: rgba(201,162,74,0.18); color: var(--gilt-bright); }
+.tc-lex-popover { position: fixed; max-height: calc(100vh - 1rem); overflow: auto; font-size: 0.86rem; line-height: 1.5; }
+.tc-lex-popover small { display: inline-block; margin-left: .6rem; color: var(--ink-muted); }
+.tc-lex-popover div + strong { display: inline-block; margin-top: .55rem; }
 .tc-lex-popover strong { color: var(--gilt-bright); font-family: "Cormorant SC", serif; font-size: 1rem; }
 .tc-lex-popover .lex-en { margin-top: 0.15rem; color: var(--ink); }
 .tc-lex-popover .lex-note { margin-top: 0.25rem; color: var(--ink-muted); font-style: italic; font-size: 0.8rem; }
+
+.corpus-search { max-width: 48rem; margin-inline: auto; }
+.corpus-query-row { display: flex; gap: .6rem; margin-top: .3rem; }
+.corpus-query-row input { flex: 1; min-width: 0; padding: .6rem; font: inherit; color: var(--ink); background: var(--paper); border: 1px solid var(--gilt-deep); border-radius: .2rem; }
+.corpus-search button { padding: .35rem .75rem; font: inherit; cursor: pointer; color: var(--ink); background: var(--paper); border: 1px solid var(--gilt-deep); border-radius: .2rem; }
+.corpus-search button[hidden] { display: none; }
+.corpus-work-results { border-top: 1px solid var(--rule-faint); padding-bottom: 1rem; }
+.corpus-work-results h3 { font-size: 1.1rem; margin: 1rem 0 .4rem; }
+.corpus-work-results ul { padding-inline-start: 1.5rem; }
+.corpus-work-results li p { margin: .2rem 0 .65rem; }
+.corpus-work-results mark { background: var(--gilt-bright); color: #252019; }
 
 /* spirit index link styling */
 .spirit-card .spirit-name { text-decoration: none; color: var(--gilt-bright); display: block; }

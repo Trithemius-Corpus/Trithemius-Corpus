@@ -122,6 +122,7 @@
 
   function scrollToEl(el) {
     if (!el) return;
+    selectPassage(el.hasAttribute("data-passage-id") ? el : null);
     var r = el.getBoundingClientRect();
     var top = window.pageYOffset + r.top - window.innerHeight * 0.3;
     window.scrollTo({ top: Math.max(0, top), behavior: scrollBehavior() });
@@ -187,6 +188,32 @@
   });
 
   // ── 3. Stable passage links and citations ─────────────────────────────────
+  function linkedPassage(id) {
+    var node = id && document.getElementById(id);
+    if (node && node.classList.contains("passage-anchor")) node = node.nextElementSibling;
+    return node && node.hasAttribute("data-passage-id") ? node : null;
+  }
+
+  var pinnedPassage = linkedPassage(decodeURIComponent(window.location.hash.slice(1)));
+  function selectPassage(element) {
+    pinnedPassage = element;
+    if (element) document.dispatchEvent(new CustomEvent("tc:select-passage", { detail: element }));
+  }
+
+  function facsimileTarget(element) {
+    var work = window.TC_WORK || {};
+    var id = element && element.getAttribute("data-passage-id");
+    var segment = element && element.getAttribute("data-segment");
+    var exact = (work.reviewedCanvases || {})[id];
+    var number = exact || (work.iiifCanvasMap || {})[segment];
+    var origin = exact ? "&passage=" + encodeURIComponent(id) : "";
+    return {
+      page: number,
+      url: number && work.iiifViewer ? work.iiifViewer + origin + "#canvas=" + number : null,
+      label: exact ? "Reviewed source page" : number ? "Approximate source page" : "Browse source"
+    };
+  }
+
   (function passageTools() {
     var linkButton = $("#rt-copy-link");
     var citeButton = $("#rt-copy-cite");
@@ -195,10 +222,6 @@
     var facsimile = $("#rt-facsimile");
     var active = null;
     var ticking = false;
-    var initialHash = decodeURIComponent(window.location.hash.slice(1));
-    var initialTarget = initialHash && document.getElementById(initialHash);
-    if (initialTarget && !initialTarget.hasAttribute("data-passage-id")) initialTarget = initialTarget.nextElementSibling;
-    var deepLinkUntil = initialTarget && initialTarget.hasAttribute("data-passage-id") ? Date.now() + 1500 : 0;
     if (!linkButton || !citeButton || !passageElements().length) return;
 
     function setActive(element) {
@@ -211,9 +234,10 @@
       citeButton.disabled = !id;
       if (label) label.textContent = id ? id.replace("p-en-", "Passage ").replace(/-/g, ".") : "";
       if (facsimile && active) {
-        var segment = active.getAttribute("data-segment");
-        var canvas = window.TC_WORK.iiifCanvasMap && window.TC_WORK.iiifCanvasMap[segment];
-        if (canvas) facsimile.href = window.TC_WORK.iiifViewer + "#canvas=" + canvas;
+        var source = facsimileTarget(active);
+        facsimile.href = source.url || window.TC_WORK.institutionalSource;
+        facsimile.title = source.label;
+        facsimile.querySelector(".rt-label").textContent = " " + source.label;
       }
       document.dispatchEvent(new CustomEvent("tc:passage", { detail: {
         element: active, id: id, segment: active && active.getAttribute("data-segment")
@@ -222,8 +246,7 @@
 
     function update() {
       ticking = false;
-      if (deepLinkUntil > Date.now() && decodeURIComponent(window.location.hash.slice(1)) === initialHash) setActive(initialTarget);
-      else setActive(passageAtScroll());
+      setActive(pinnedPassage || passageAtScroll());
     }
 
     function copyFallback(value) {
@@ -275,31 +298,30 @@
         " Passage " + data.uri + ". " + data.url;
       copyText(citation, "Passage citation copied.");
     });
-    if (facsimile) facsimile.addEventListener("click", function (event) {
-      var hashId = decodeURIComponent(window.location.hash.slice(1));
-      var linked = hashId && document.getElementById(hashId);
-      var context = linked && linked.hasAttribute("data-passage-id") ? linked : active;
-      var segment = context && context.getAttribute("data-segment");
-      var canvas = window.TC_WORK.iiifCanvasMap && window.TC_WORK.iiifCanvasMap[segment];
-      if (canvas) {
-        event.preventDefault();
-        window.location.assign(window.TC_WORK.iiifViewer + "#canvas=" + canvas);
-      }
-    });
     window.addEventListener("scroll", function () {
       if (!ticking) { ticking = true; window.requestAnimationFrame(update); }
     }, { passive: true });
-    window.addEventListener("hashchange", function () {
-      var id = decodeURIComponent(window.location.hash.slice(1));
-      var target = id && document.getElementById(id);
-      if (target && !target.hasAttribute("data-passage-id")) target = target.nextElementSibling;
-      if (target && target.hasAttribute("data-passage-id")) {
-        initialHash = id; initialTarget = target; deepLinkUntil = Date.now() + 750;
-        setActive(target);
-        flash(target);
+    // An explicit citation survives layout shifts and focusing the toolbar.
+    // Return to viewport tracking when the reader deliberately scrolls the text.
+    function releaseSelection() { pinnedPassage = null; }
+    window.addEventListener("wheel", releaseSelection, { passive: true });
+    window.addEventListener("touchmove", releaseSelection, { passive: true });
+    window.addEventListener("pointerdown", function (event) {
+      if (event.clientX >= document.documentElement.clientWidth) releaseSelection();
+    });
+    window.addEventListener("keydown", function (event) {
+      if (!isTyping(event) && ["PageUp", "PageDown", "Home", "End", "ArrowUp", "ArrowDown", " "].includes(event.key)) {
+        releaseSelection();
       }
     });
-    setActive(initialTarget && initialTarget.hasAttribute("data-passage-id") ? initialTarget : passageAtScroll());
+    document.addEventListener("tc:select-passage", function (event) { setActive(event.detail); });
+    window.addEventListener("hashchange", function () {
+      var id = decodeURIComponent(window.location.hash.slice(1));
+      var target = linkedPassage(id);
+      selectPassage(target);
+      if (target) flash(target);
+    });
+    setActive(pinnedPassage || passageAtScroll());
   })();
 
   // ── 4. Footnote / errata popovers ─────────────────────────────────────────
@@ -404,21 +426,22 @@
     var minimap = $("#study-minimap"), minimapList = $("#study-minimap-list");
     var progress = $(".study-progress"), activePassage = null;
     if (!shell || !modeLinks.length || !window.TC_WORK) return;
-    var initialTarget = document.getElementById(decodeURIComponent(window.location.hash.slice(1)));
-    activePassage = initialTarget && initialTarget.hasAttribute("data-passage-id") ? initialTarget : passageAtScroll();
+    activePassage = linkedPassage(decodeURIComponent(window.location.hash.slice(1))) || passageAtScroll();
 
     function selectedMode() {
       var value = new URL(window.location.href).searchParams.get("view");
       return ["read", "study", "source"].indexOf(value) >= 0 ? value : "read";
     }
-    function sourceURL(segment) {
-      var canvas = window.TC_WORK.iiifCanvasMap && window.TC_WORK.iiifCanvasMap[String(segment)];
-      return canvas && window.TC_WORK.iiifViewer ? window.TC_WORK.iiifViewer + "#canvas=" + canvas : null;
+    function showSource(element) {
+      var source = facsimileTarget(element);
+      var precision = $("#study-source-precision");
+      if (precision) precision.textContent = source.label;
+      if (source.url && sourceFrame.getAttribute("src") !== source.url) sourceFrame.setAttribute("src", source.url);
+      if (!source.url) sourceFrame.removeAttribute("src");
     }
     function applyMode(mode, updateURL) {
       if (mode === "source" && !sourcePane) mode = "study";
-      var hashTarget = document.getElementById(decodeURIComponent(window.location.hash.slice(1)));
-      var cursor = hashTarget && hashTarget.hasAttribute("data-passage-id") ? hashTarget : activePassage;
+      var cursor = pinnedPassage || activePassage;
       shell.setAttribute("data-mode", mode);
       modeLinks.forEach(function (link) {
         if (link.getAttribute("data-reader-mode") === mode) link.setAttribute("aria-current", "page");
@@ -429,15 +452,16 @@
       if (options) options.hidden = mode === "read";
       if (minimap) minimap.hidden = mode === "read";
       if (mode === "source" && sourceFrame) {
-        var src = sourceURL(cursor && cursor.getAttribute("data-segment"));
-        if (src && sourceFrame.getAttribute("src") !== src) sourceFrame.setAttribute("src", src);
+        showSource(cursor);
       }
       window.TC_WORK.view = mode;
       if (updateURL) {
         var url = new URL(window.location.href); url.searchParams.set("view", mode);
+        if (cursor) url.hash = cursor.getAttribute("data-passage-id");
         try { window.history.replaceState(null, "", url); } catch (e) {}
+        selectPassage(cursor);
       }
-      if (cursor) window.requestAnimationFrame(function () {
+      if (cursor && (updateURL || pinnedPassage)) window.requestAnimationFrame(function () {
         cursor.scrollIntoView({ block: "center", behavior: "auto" }); flash(cursor);
       });
     }
@@ -487,23 +511,26 @@
       var latin = event.detail.segment && $("#latin-seg-" + event.detail.segment);
       if (latin) latin.setAttribute("data-active-segment", "true");
       if (sourceFrame && shell.getAttribute("data-mode") === "source") {
-        var src = sourceURL(event.detail.segment);
-        if (src && sourceFrame.getAttribute("src") !== src) sourceFrame.setAttribute("src", src);
+        showSource(activePassage);
       }
       var list = passageElements(), position = activePassage ? list.indexOf(activePassage) + 1 : 0;
       var percent = list.length ? Math.round(position / list.length * 100) : 0;
       if (progress) { progress.setAttribute("aria-valuenow", percent); progress.style.setProperty("--study-progress", percent + "%"); var bar = $("span", progress); if (bar) bar.style.height = percent + "%"; }
     });
     window.addEventListener("message", function (event) {
-      if (event.origin !== window.location.origin || !event.data || event.data.type !== "tc:canvas") return;
+      if (!sourceFrame || event.source !== sourceFrame.contentWindow || event.origin !== window.location.origin || !event.data || event.data.type !== "tc:canvas") return;
+      if (facsimileTarget(activePassage).page === event.data.canvas) return;
       var segment = null;
       Object.keys(window.TC_WORK.iiifCanvasMap || {}).some(function (key) {
         if (Number(window.TC_WORK.iiifCanvasMap[key]) === Number(event.data.canvas)) { segment = key; return true; }
         return false;
       });
-      var target = segment && $(".english-body [data-segment='" + segment + "']");
+      var reviewed = Object.keys(window.TC_WORK.reviewedCanvases || {}).find(function (id) {
+        return window.TC_WORK.reviewedCanvases[id] === event.data.canvas;
+      });
+      var target = linkedPassage(reviewed) || (segment && $(".english-body [data-segment='" + segment + "']"));
       if (target && target !== activePassage) {
-        var url = new URL(window.location.href); url.hash = target.id;
+        var url = new URL(window.location.href); url.hash = target.getAttribute("data-passage-id");
         try { window.history.replaceState(null, "", url); } catch (e) {}
         scrollToEl(target); flash(target);
       }

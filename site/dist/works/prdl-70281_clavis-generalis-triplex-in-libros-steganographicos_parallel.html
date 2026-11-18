@@ -17,7 +17,14 @@
 <meta name="theme-color" content="#100d12">
 <link rel="stylesheet" href="../static/fonts.css">
 <link rel="stylesheet" href="../static/style.css">
-<meta name="robots" content="index,follow"><script>
+<meta name="robots" content="index,follow"><meta data-pagefind-filter="collection[content]" content="editions">
+<meta data-pagefind-meta="sourceRevision[content]" content="760eef54f308c531c0895ff241dc7c88930060ba013e13015c82adf2265222dc">
+<meta data-pagefind-meta="workGroup[content]" content="threefold general key to the steganographic books">
+<meta data-pagefind-meta="workTitle[content]" content="Threefold General Key to the Steganographic Books">
+<meta data-pagefind-meta="witness[content]" content="Francofurti, 1608">
+<meta data-pagefind-meta="track[content]" content="Earlier edition">
+<meta data-pagefind-meta="view[content]" content="latin">
+<script>
   // Apply the saved theme before first paint to avoid a flash of the wrong theme.
   // 'auto' resolves from the OS colour-scheme preference (light→parchment,
   // dark→steganographia) and is stored on a distinct attribute so the switcher
@@ -425,12 +432,12 @@
   updateDisplay();
 })();
 </script>
-<div class="pp-grid" data-asset="../">
+<div class="pp-grid" data-glossary="../static/reader-glossary.json" data-genre="crypto-occult">
   <div class="pp-head pp-col-n" aria-hidden="true">#</div>
   <div class="pp-head">Latin (source OCR)</div>
   <div class="pp-head">English</div>
 <div class="pp-n" id="seg-1" data-segment="1"><a href="#seg-1">1</a></div>
-  <div class="pp-latin" lang="la" data-segment="1">Kodak
+  <div class="pp-latin" lang="la" data-segment="1" data-pagefind-body><span id="latin-seg-1"></span>Kodak
 Gray Scale
 
 0 1 2 3 4
@@ -477,7 +484,7 @@ Lectori s.
 Monendus[unclear] Candide Le[unclear] literarum R. &amp; S. (in hoc Opere alia numeris, alia characteribus, alia verbis vel in pagina super[unclear] scriptarum, vel in margine adiectarum) illam rubrica, seu rubri coloris, hanc vero atramenti, seu nigri coloris notam esse. Quin et hoc observabas: singulos singularum capitum titulos itidem rubrica elle depingendos et ornandos. Cuius rei momentum e praefixa Operi Clau[unclear] petas, licet. Vale.</div>
   <div class="pp-english" data-segment="1"><p>[Source illegible — OCR-damaged or non-textual material; the source page image is the authoritative witness.]</p></div>
 <div class="pp-n" id="seg-2" data-segment="2"><a href="#seg-2">2</a></div>
-  <div class="pp-latin pp-latin-only" lang="la" data-segment="2"><details class="pp-latin-only-details"><summary>Latin only &mdash; not translated</summary>
+  <div class="pp-latin pp-latin-only" lang="la" data-segment="2" data-pagefind-body><span id="latin-seg-2"></span><details class="pp-latin-only-details"><summary data-pagefind-ignore>Latin only &mdash; not translated</summary>
       <div class="pp-latin-body">Kodak
 Gray Scale 0 1 2 3 4
 H A B
@@ -557,7 +564,7 @@ UND IMMER WIEDER ZURuFcgehend.
     </details></div>
   <div class="pp-english pp-missing" data-segment="2"><span class="muted">[no translation available for this segment &mdash; see <a href="../methodology.html#latin-only-display-segments-in-the-parallel-viewer">Methodology</a>]</span></div>
 <div class="pp-n" id="seg-3" data-segment="3"><a href="#seg-3">3</a></div>
-  <div class="pp-latin" lang="la" data-segment="3">LECTORI S.
+  <div class="pp-latin" lang="la" data-segment="3" data-pagefind-body><span id="latin-seg-3"></span>LECTORI S.
 Monendus es, Candide Lector, literarum R. &amp;amp; S. (in hoc Opere aliàs numeris, aliàs characteribus, aliàs verbis vel in pagina superscriptarum, vel in margi-ne adiectarum) illam rubricae, seu rubri coloris, hanc vero atramenti, seu nigri coloris notam esse. Quin et amp; hoc obscruabis: singulos singulorum ca-pitum titulos itidem rubrica esse depingendos et amp; ornandos. Cuius rei momentum è praefixa Operi Claue petas, licet. Vale. BIBLIOTHEK WOLFFENBÜTTEL. 1732. ni) a86 -frc c2m .50 Xo iro 9343 110 111 112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 166 167 168 169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 214 215 216 217 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 234 235 236 237 238 239 240 241 242 243 244 245 246 247 248 249 250 251 252 253 254 255 256 257 258 259 260 261 262 263 264 265 266 267 268 269 270 271 272 273 274 275 276 277 278 279 280 281 282 283 284 285 286 287 288 289 290 291 292 293 294 295 296 297 298 299 300 301 302 303 304 305 306 307 308 309 310 311 312 313 314 315 316 317 318 319 320 321 322 323 324 325 326 327 328 329 330 331 332 333 334 335 336 337 338 339 340 341 342 343 344 345 346 347 348 349 350 351 352 353 354 355 356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 371 372 373 374 375 376 377 378 379 380 381 382 383 384 385 386 387 388 389 390 391 392 393 394 395 396 397 398 399 400 401 402 403 404 405 406 407 408 409 410 411 412 413 414 415 416 417 418 419 420 421 422 423 424 425 426 427 428 429 430 431 432 433 434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451 452 453 454 455 456 457 458 459 460 461 462 463 464 465 466 467 468 469 470 471 472 473 474 475 476 477 478 479 480 481 482 483 484 485 486 487 488 489 490 491 492 493 494 495 496 497 498 499 500 501 502 503 504 505 506 507 508 509 510 511 512 513 514 515 516 517 518 519 520 521 522 523 524 525 526 527 528 529 530 531 532 533 534 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 551 552 553 554 555 556 557 558 559 560 561 562 563 564 565 566 567
 
 INCIPIT LIBER
@@ -588,7 +595,7 @@ ram nauantes, aliud imperitis, at que aliud eruditis hominib.
 <p><em>Here begins the first book of the Steganographia of Johannes Trithemius, abbot of Sponheim, of the Order of Saint Benedict, of the diocese of Mainz, addressed to the most serene prince, Lord Philip, Count Palatine of the Rhine, Duke of Bavaria, and prince elector of the Holy Empire, etc.</em></p>
 <p>It is the opinion of the most learned that the most ancient sages, whom in Greek speech we call philosophers, if they had discovered any secrets either of nature or of art, concealed them by various modes and figures, lest they come to the knowledge of wicked men. That Moses too, the most famous leader of the Israelite people, in his description of the creation of Heaven and Earth covered over the ineffable secrets of mysteries with simple words, all the more learned among the Jews confirm. Saint Jerome also, most learned among our own, affirms that almost as many mysteries lie hidden in the Apocalypse of John as there are words. Besides, I pass over the sages of the Greeks, held in no small esteem among their own people, and our own most learned philosophers and poets, who, devoting their effort to writing fables, [unclear] one thing to the unlearned, and another to learned men</p></div>
 <div class="pp-n" id="seg-4" data-segment="4"><a href="#seg-4">4</a></div>
-  <div class="pp-latin" lang="la" data-segment="4">PRAeFATIO.
+  <div class="pp-latin" lang="la" data-segment="4" data-pagefind-body><span id="latin-seg-4"></span>PRAeFATIO.
 narrationis serie sagaci adinuentione tradiderunt. Hos ego Sapien-
 tiae studiosissimos amatores etsi propter ingenij tarditatem perfecite
 imitari nequeo: admirari tamen, &amp; qua possum sedulitate legere nō
@@ -624,7 +631,7 @@ cente,
 <p>Nor, as I think, has this opinion wholly deceived me; since through the continual pursuit of reading I have learned many things which I had not known before, and it has opened to my thoughts an approach to investigating matters more secret and altogether hidden from others. For although I am not of such learning or industry that I would dare profess that I have in every respect grasped the hidden method of the mysteries of the ancient sages, nevertheless I have found certain methods, many and various, not altogether contemptible, as it seems to me, by which I can safely and without deception, suspicion, or detection by anyone, through open messengers or letters, convey to another the most secret intention of my mind in this art of knowledge as widely as I may wish.</p>
 <p>And at the request of the Most Serene Prince, Lord Philip, Count Palatine of the Rhine, Duke of Bavaria, and Prince Elector of the Holy Roman Empire, always my most unwilling [unclear], the wisest Maecenas of all philosophers, than whom no one has seemed to me more worthy for this great secret to be revealed to him, I have committed to writing this new discovery of a most secret art, and not without the greatest labors have gathered it into the present volume. But lest this great secret come to the ears of common, unskilled, or wicked men, the reckoning of my office judged it not least important so to wrap it, since it teaches one ignorant of mysteries to understand them, in mysteries, that there will be no one from the number of the unskilled, no one except the most studious, who can by his own power perfectly penetrate the secret of this knowledge, and fully according to our intention, unless by reception from a teacher,</p></div>
 <div class="pp-n" id="seg-5" data-segment="5"><a href="#seg-5">5</a></div>
-  <div class="pp-latin" lang="la" data-segment="5">PRAeFATIO.
+  <div class="pp-latin" lang="la" data-segment="5" data-pagefind-body><span id="latin-seg-5"></span>PRAeFATIO.
 mundi literas Latinas, Graecas aut barbaras omni suspicione carē-
 tes, quib. aliud nescientibus artẽ exhiberet in patulo, atque aliud sci-
 entib in occulto. Nec tuta inter cõiugatos fides contracl̃a sacramen-
@@ -655,7 +662,7 @@ creta</div>
 <p>... the letters of the world, Latin, Greek, or barbarous, free from all suspicion, by which it would present one thing openly to those ignorant of the art, and another secretly to those who knew it. Nor, if this science were published among the reprobate, would the trust between married persons, contracted by sacrament, any longer remain safe thereafter: since a wife, even if hitherto ignorant of the Latin tongue, yet now sufficiently instructed, through modest, honorable, and most holy words of any language or idiom, could understand most fully the evil and immodest mind and intention of an adulterous lover or fornicator, even while her husband carried the letters and praised them as excellent; and she could, in the same way, as broadly and copiously as she wished, most safely communicate her own desire to him in the same or other letters, in a beautiful and quite highly adorned sequence. And public trust could be endangered; all letters, documents, writings, and finally the very knowledge of men could come [unclear] (which God forbid); the whole order of the commonwealth, with the passage of time, could be disturbed in no small degree.</p>
 <p>Nor can anyone, even if he lived as many years, ever become so learned and experienced in this science with his teacher that there would not be left infinite methods, secretly, most hiddenly, and most safely sufficient in this very art of writing, and, at the will of any experienced person, of working for all purposes, which he himself has not yet grasped with his preceptor. For just as the aerial spirits, good and evil, created by the highest God for our ministry and benefit, through whose understanding all the secrets of this art are revealed, are countless, infinite, and utterly incomprehensible to us, so too [unclear] of this art of ours, which [is called] secret Steganography...</p></div>
 <div class="pp-n" id="seg-6" data-segment="6"><a href="#seg-6">6</a></div>
-  <div class="pp-latin" lang="la" data-segment="6">PREFATIO.
+  <div class="pp-latin" lang="la" data-segment="6" data-pagefind-body><span id="latin-seg-6"></span>PREFATIO.
 creta et arcana et mysteria, nulli mortaliū, quantumcunque studio-
 so velerudito, patula continentē perfecte) appellamus, omnes mod̓i,
 viae, differẽtiae, qualitates operationes in aeternum poterunt ad ple
@@ -705,7 +712,7 @@ Gray Scale
 <p>And lest any future reader of this work, when in the course of it he has often encountered names, offices, orders, differences, properties, prayers, and any other operations of spirits, through whose intelligences all these secrets of this science are closed and opened, should believe or think me a necromancer and magician, or that I have entered into a pact with demons, or that I have used, or use, any other superstition: I have considered it necessary and opportune, by vindicating it with truth, to preserve my reputation and name from so great a stain, injury, fault, and blemish by a solemn protestation in this prologue.</p>
 <p>Therefore I say before Almighty God, from whom absolutely nothing can be hidden, and before Jesus Christ, his only-begotten Son, who will judge the living and the dead; in truth I say, swear, and protest: all and every one of the things which I have said in this work, or am about to say, and all the properties, modes, figures, operations, receptions, formations, inventions, institutions, mutations, alterations of this science or art, and all things whatsoever which pertain to its speculation, invention, attainment, practical operation, either in part or in whole, and everything contained in this volume of ours, rest upon true, Catholic, natural principles; and all and every one of them are done with God, with a good conscience, without injury to the Christian faith, with the integrity of ecclesiastical tradition, without any superstition, without idolatry, without any explicit or implicit pact with evil spirits; without suffumigation, adoration, veneration, worship, sacrifice, or offering to demons; without any fault or sin, whether venial or mortal. And all and every one of them are done with truth, uprightness, sincerity, and purity. So that the science of this invention, besides, for good use,</p></div>
 <div class="pp-n" id="seg-7" data-segment="7"><a href="#seg-7">7</a></div>
-  <div class="pp-latin" lang="la" data-segment="7">PRAeFATIO.
+  <div class="pp-latin" lang="la" data-segment="7" data-pagefind-body><span id="latin-seg-7"></span>PRAeFATIO.
 vsum, nō de deceat virum sapientē, Christianum bonum atque fidelem. Nam et amp; ego Christianus sum, &amp;amp; monasticae conuersationi voluntarie addictus: cu-
 pioque non aliter viuere et amp; conuensari, quam verum deceat Christianū et amp; mo-
 nachum sub regulā Diui patris Benedicti professum: ipsamque fidem Catholi-
@@ -773,7 +780,7 @@ scribat in ea quamcunque narrationem voluerit simplicem et aper7</div>
 <p>[unclear]</p>
 <p>The operation of this first chapter is very difficult and full of dangers, because of the pride and rebellion of its spirits, who do not obey anyone unless he is most experienced in this art. For they not only do not obey novices and those less proved in the art, but also, if they are pressed too much, they frequently harm them and offend them with various illusions. They are malicious and faithless above all other aerial spirits, and obey absolutely no one unless compelled by the greatest sacraments; and the secret entrusted to them they often faithlessly reveal to others. For as soon as they have been sent out with letters, they fly off, and, bursting in without order toward the person to whom they are sent, like a people fleeing from battle without a leader, they hasten furiously and, filling the air with their shouting, often disclose all the secrets around the sender. Therefore we advise that no one intending to operate in this art should compel them, nor anxiously seek their services. For they are insolent and faithless, since he can find many of those whom we shall mention next who are sufficiently well-disposed, and who of their own accord offer themselves ready for obedience. But if anyone should wholly wish to experience their insolence and to prove that what we have said is true, let him know that this manner must be observed. Let him prepare the paper on which he is going to write, with an invocation of the divine name, in the name of the Father and of the Son and of the Holy Spirit. Then let him write on it whatever simple and open narrative he wishes</p></div>
 <div class="pp-n" id="seg-8" data-segment="8"><a href="#seg-8">8</a></div>
-  <div class="pp-latin" lang="la" data-segment="8">apertã, quam omnes legentes intelligent, latino, patrio vel quo-
+  <div class="pp-latin" lang="la" data-segment="8" data-pagefind-body><span id="latin-seg-8"></span>apertã, quam omnes legentes intelligent, latino, patrio vel quo-
 libet alio sermone. Cum autem sederit ad scribendum versus O-
 rientem, ita spiritus compellat. Pamerfiel oshurmy delmuson
 Thafloyn peano charustea melany, lyaminto colehan, paroys,
@@ -845,7 +852,7 @@ A 2 sepul-</div>
 <p>[unclear]</p>
 <p>Almighty, everlasting God, who created all things out of nothing, have mercy on us through the most bitter passion of your only-begotten Son dying on the cross, who, conceived of the Holy Spirit without male commingling, was born of the most pure ever-Virgin Mary, and who, giving himself up voluntarily to death for us, by his most holy blood, as he died, freed our souls from death. Hear us wretched ones, O most merciful Father, and through the shedding of the most sacred blood of the same, your sweetest Son Jesus Christ, forgive us our sins and pour your grace into our hearts, so that, loving you in all things and above all things with sincere fervor, we may always obey your commandments with devotion, and, continually advancing in mutual love, henceforth love nothing earthly, seek nothing perishable. For you are the Lord our God, who created us from the beginning in your image and likeness when we did not exist; whom, dead for our sins and buried</p></div>
 <div class="pp-n" id="seg-9" data-segment="9"><a href="#seg-9">9</a></div>
-  <div class="pp-latin" lang="la" data-segment="9">4 STEGANOGRAPHIAE
+  <div class="pp-latin" lang="la" data-segment="9" data-pagefind-body><span id="latin-seg-9"></span>4 STEGANOGRAPHIAE
 sepultum tertia die à mortuis resuscitasti, eumque gaudentibus suis discipu-
 lis, viuũ per dies quadraginta in multa consolatione ostendisti. Ipsum verũ
 Deum &amp;; hominem, pura &amp;; firmissima confessione tecum in tua incircum-
@@ -894,7 +901,7 @@ Roth.</div>
 <p>Further, you must know the first substitutes of each of the princes: how many they are in number, to whom the secret mysteries are entrusted, so that you may know their orders, how they in turn are to be sent forth to their offices, how many illuminators they have in the day, how many luci-</p>
 <p><em>Roth.</em></p></div>
 <div class="pp-n" id="seg-10" data-segment="10"><a href="#seg-10">10</a></div>
-  <div class="pp-latin" lang="la" data-segment="10">6 STEGANOGRAPHIEE lucifugos in nocte, quosque amicos et quantos soleant formidare inimicos, &amp; de his omnibus docebo te in presenti tabula, quae dicitur tabula directi-onis.
+  <div class="pp-latin" lang="la" data-segment="10" data-pagefind-body><span id="latin-seg-10"></span>6 STEGANOGRAPHIEE lucifugos in nocte, quosque amicos et quantos soleant formidare inimicos, &amp; de his omnibus docebo te in presenti tabula, quae dicitur tabula directi-onis.
 Schw. Roth. S. R. G. R. S.
 Oriens. Pamerfiel. 7 1000. 10000. 10. 0.0.-
 Subsolanus. Padiel. ; 10000.200000.10. 0.0.
@@ -972,7 +979,7 @@ Vulturnus. Baruchas. ☿ 2000. - 180. - --- 00.</p>
 <p><em>Book One. Chapter II. Whose prince is called Padiel. Subsolanus, having under him 10,000 daytime ministers, 200,000 nighttime ones, and many other subservitors, whose number is uncertain.</em></p>
 <p>Since, as we said in the preceding chapter, Pamersiel with his aforesaid spirits is implacable and unfaithful, and does not obey indiscriminately all who desire to work in this art, but scarcely even the most experienced in it, we wish in this present chapter to make the art safer, and to demonstrate the manner of working in it through better spirits, who are benevolent, prompt, and cheerful in obeying the one who calls; who, when called in the proper manner and at the proper time, come without delay, and faithfully carry out without any deceit whatever what has been entrusted to them. Now the first principal emperor and presiding spirit of this operation is called Padiel, by the name Subsolanus, in an orbicular mansion, which is the first mansion after the east. He has under him ten thousand who preside over the day and over all daytime operations of this art; they command and bring out the nocturnal spirits lurking in darkness, who number two hundred thousand. All flee light and day, except one who is a messenger to the presiding spirits. All are good and benevolent, and they do not harm the operator unless he is malicious, or less skilled in the art. It is not necessary to call them all together, but a few suffice, and sometimes one can satisfy the operator, whether the operation is nocturnal or diurnal. For since they are</p></div>
 <div class="pp-n" id="seg-11" data-segment="11"><a href="#seg-11">11</a></div>
-  <div class="pp-latin" lang="la" data-segment="11">3 STEGANOGRAPHIAE
+  <div class="pp-latin" lang="la" data-segment="11" data-pagefind-body><span id="latin-seg-11"></span>3 STEGANOGRAPHIAE
 sint beneuoli, quieti et tranquilli: frequentius soliuagi sunt, quā
 in multitudine tumultuosi. Cum ergo volueris operari per eos,
 &amp;amp; mentis tuae secretũ alicui, quantumcunque absenti, per ipsos
@@ -1011,7 +1018,7 @@ INTEN-</div>
 <p>But when the letters come by messenger to the one to whom they are sent, if he is alone, well; if he is with others, let him withdraw apart if he can, or, if he cannot, let him turn toward the east and say this conjuration in silence: Padiel ariel vanerhon chio thatson phymarto merphon amprisco ledabarym, elsophroy mesarpon ameorsy, paneryn atle pachumgk thearan vtrul vt solubito beslonty las gomadyn triamy mefarnothy. When these words have been duly spoken, immediately the Spirit sent will appear, to reveal it without deceit and without any danger. No one malicious and wicked will easily be able to operate in this art; but the better and purer anyone is, the more willingly and with greater cheerfulness the Spirits obey him. And the more each person conceals this knowledge, the more easily he will operate. And note that this Padiel with his Spirits is appointed to announce secret advisories for the correction of evildoers, imprisonment, and punishment, as we have shown in the example set below.</p>
 <p><em>INTEN-</em></p></div>
 <div class="pp-n" id="seg-12" data-segment="12"><a href="#seg-12">12</a></div>
-  <div class="pp-latin" lang="la" data-segment="12">LIBER PRIMVS.
+  <div class="pp-latin" lang="la" data-segment="12" data-pagefind-body><span id="latin-seg-12"></span>LIBER PRIMVS.
 INTENTIONIS SECRETVM, QVOD Roth.
 non literis, sed Spiritibus secundae mansionis committatur.
 
@@ -1055,7 +1062,7 @@ B
 <p>Someone has been denounced to the prince, against whom some crime of lèse-majesté, or any other crime, is alleged. He wishes him to be punished by his official, from whom he is far separated. But he does not wish to write this very thing to him, lest, if the letters are disclosed by any chance, the accused man be warned and flee, or resist after joining to himself the forces of his friends, or contrive some hostile act against the prince or the laws of the country. He writes this or any other narrative whatever to his prefect, one which he need not fear being read by everyone; but the secret he entrusts to a spirit, in the manner we have described above, which will faithfully tell his secret to the man to whom it is sent, who has first been instructed in this art.</p>
 <p>Sincere charity. I send you a prayer, for the devotion of penitents, rather beautifully composed and brief, which the whole goodwill of my mind toward you did not wish to possess alone; and it is as follows. Deliver us, Jesus Christ, eternal Savior of all good things, and forgive the offenses of sinners, and hear our groans, calming the storms of vices and renewing the oldness of conscience; lead us back to eternal paradise. Good Jesus, forgive us our sins as we beseech you, since we have grievously offended and have often fallen back. Sweetest Savior, heal our weaknesses, we pray. Be kind to those who pray to you, most dutiful Jesus, and hear us, your servants, as we supplicate you. We are human beings, wretchedly entangled in continual miseries and sunk in the greatest storms. Rescue us, most victorious comforter of the afflicted, since our life, continually buried in frailty, is corrupted. Have mercy at last, most merciful Jesus, Savior; look upon the humility of those who love you, and do not permit us, exiles, to be drowned in the mire and foulness of vices, in the love of the world. Until now we have lain sluggish, and, bound by vices, we have made little account of our salvation and have been scarcely mindful of the coming judgment. Most kind Creator, be propitious to your servants, and save those weeping ones whom the most wretched vanity of the world has deceived. Alas, we have all neglected the way of Truth; but deliver us, fixed in the mire and exiles as we are, since you are our Savior, Jesus, who despise no one. You are the unfailing joy and everlasting happiness of the saints, our hope, the glory of Christians, the light of angels, the rewarder of undefeated martyrs, the crown of virgins, the honor of widows. Good Jesus, hear us, humble [unclear].</p></div>
 <div class="pp-n" id="seg-13" data-segment="13"><a href="#seg-13">13</a></div>
-  <div class="pp-latin" lang="la" data-segment="13">[illegible]Liber Primus.
+  <div class="pp-latin" lang="la" data-segment="13" data-pagefind-body><span id="latin-seg-13"></span>[illegible]Liber Primus.
 Cap. III.
 CVIVS PRINCEPS CAMUEL, HABENS Roth.
 sub se spiritus praesidentes durnis operationibus 10. &amp; nocturnis si-
@@ -1097,7 +1104,7 @@ Kodak Gray Scale</div>
 <p>[Table of angel-names with their numbers of substitutes: Orpeniel 10, Citgara 100, Daniel 10, Dobiel 100, Azimo 10; Camuel 100, Pariel 10, Omyel 10, Nodar<em> 10, Tediel 0; Budiel 10, Cariel 10, Asiniel 100, Phaniel 10, Moriel 0; Elcar 10, Neriel 10, Calym 100, Meras 100, Tugaros 0. — </em>It seemed rather that "Noctar" should be read.]</p>
 <p>Here you have in the table the 10 angels of Camuel who preside over the day, with their substitutes in number, and as many who preside over the night, with their [own]…</p></div>
 <div class="pp-n" id="seg-14" data-segment="14"><a href="#seg-14">14</a></div>
-  <div class="pp-latin" lang="la" data-segment="14">12 STEGOGRAPHIAE
+  <div class="pp-latin" lang="la" data-segment="14" data-pagefind-body><span id="latin-seg-14"></span>12 STEGOGRAPHIAE
 suis quoque subseruientibus. Vltimi autem sicut cernis nullum
 habent substitutum, quoniam o sicut nosti, nihil omnino signi-
 ficat in numero. Cũ ergo volueris per istos angelos operari, prae-
@@ -1140,7 +1147,7 @@ turus
 <p><em>Roth.</em></p>
 <p><em>Let This Be The Most Secret Intention Of My Mind,</em> which I wish an absent person to know through the aforesaid spirits. When I am situated at Rome, I understand from the most secret counsel of the supreme pontiff that he wishes to transfer the Roman Empire itself to the Franks. I desire to dare [unclear] the princes of Germany: by messengers I cannot, since I do not trust them; by letters I cannot, because in all the cities of Italy there are men appointed at the gates who examine passers-by most exactly. Therefore I write one devout prayer, which I send open by a messenger, along with other familiar letters closed, to the same princes. I constrain the spirits of the third mansion and command them to follow the letters to be sent. And when they have been summoned by the recipient, they are not to fail to reveal to him my secret intention, which I did not dare entrust to letters. They come, they go, they obey. We all die, because we have all contracted the hereditary right [unclear] of original guilt; and no one lives who is not going to die.</p></div>
 <div class="pp-n" id="seg-15" data-segment="15"><a href="#seg-15">15</a></div>
-  <div class="pp-latin" lang="la" data-segment="15">34 STEGANOGRAPHIAE mitiere. Volumen Synesij virtute spirituum mittam tibi mox cum milli experimẽta mea remiseris. Curate ipsum vt valeas. Mihig. sepe rescribito. Dataein Spanheim sexto Iduum Martij. Anno dominica incarnatio- nis M.D.Ioan.Trith.Abb.— Recipiens autẽ literas is ad quem spiritũ mi- sisti faciat quod in hac arte nouit esse faciendum: &amp;; signo orbiculari cognito se vertat ad Eurum subque silentio istam dicat imprecationem.
+  <div class="pp-latin" lang="la" data-segment="15" data-pagefind-body><span id="latin-seg-15"></span>34 STEGANOGRAPHIAE mitiere. Volumen Synesij virtute spirituum mittam tibi mox cum milli experimẽta mea remiseris. Curate ipsum vt valeas. Mihig. sepe rescribito. Dataein Spanheim sexto Iduum Martij. Anno dominica incarnatio- nis M.D.Ioan.Trith.Abb.— Recipiens autẽ literas is ad quem spiritũ mi- sisti faciat quod in hac arte nouit esse faciendum: &amp;; signo orbiculari cognito se vertat ad Eurum subque silentio istam dicat imprecationem.
 Camuel Busarcha, menaton enatiel, meran sayr abasremon, naculi pesarum nadru lasimon enotichamabet vse ar lesponty a brulmy pen sayr thubarym, gonayr afmon friacharynon otry hamerson buccurmy pedauellon.His dictis accipiãt litteras denuo in manum respiciens versus Eurum vt nosti.Notandum vero quod isti spiritus omnes cum suo principe sunt ad Eurum propterea oportet, vt se illovertat omnis qui operatur per illos:aut si non potest,literas saltem illo versus cum receperit reponat. Obserua intellige quae diximus tibi.
 Koth.
 CAP. IV.
@@ -1275,7 +1282,7 @@ cta liberauit nos ab omni calamitate. Ergo honoremus humilitatem eius in nobis</
 <p>Let us imagine the secret of your mind. You have a beloved woman, in whose love you are held, and she no less; but you cannot approach or speak to her because of the watch kept by her people. At last you have found a plan by which you can possess her, but it is necessary first to advise her of it. You cannot do so yourself; you do not dare by letters, lest they come into the hands of others; nor do you decide that the matter should be entrusted to messengers or old women, lest afterward they make you known. Therefore, conceal by art for a time the matter which you trust cannot be made openly. You call the invisible ministers of the art, write letters suspected in nothing, and send them to your beloved even through those same guardians; they praise the writing and give it to your beloved to read. Recognizing the sign, she calls the hidden messenger, hears the plan, sends back her consent; you approach, enter, obtain possession.</p>
 <p>The death of Jesus Christ brought the human race to life; his life, innocently afflicted, freed us from every calamity. Therefore let us honor his humility in ourselves</p></div>
 <div class="pp-n" id="seg-16" data-segment="16"><a href="#seg-16">16</a></div>
-  <div class="pp-latin" lang="la" data-segment="16">18 STEGANOGRAPHIAE nobis resistendo tentationib.vitiorum.in standeg. in omnib.enorum ope-rũ.Christus Iesus saluauit animas nostras Gratiās dicamus eternas nostro redemptori p̄ssimo quoniam omnes reduxit ad tutas exuuias.cuius nomē cum ferno re laudemus omni tempore.praeoccupantes faciē sanctißimam e- eius nostris orationibus; viuamus virtuose in amore rectitudinis.abijciētes tumultum mundalium negotiorum.iusticie normam sequamur.vitijs no-xiiis risistam us deuotissime.lachrymisqꝫ negligentias abluamus in maxima soliciudine memores futuri iudicij.cuius mastimabilis horror inferni poe-nis nequequam inferior.Anno Dominicae natiuitatis M.D. Id.Mar-tij.Cum has smilefue acceperit literas is cui mittuntur in arte peritus factat quod nouit secundū eiis institut a facienda, vert atqꝫ se ad aspectum Euroaustri Cuius hoc signum? &amp; legat contestationem spirituum q̄ uost talis: Aseliel murnea casmadymbularcha vadusyn atybelron diuel arsephontisi pa normys orleuo tadon Venotibasramyn.His contestatis cōtinuet operationem artis,&amp; audiet secretum mittentis.
+  <div class="pp-latin" lang="la" data-segment="16" data-pagefind-body><span id="latin-seg-16"></span>18 STEGANOGRAPHIAE nobis resistendo tentationib.vitiorum.in standeg. in omnib.enorum ope-rũ.Christus Iesus saluauit animas nostras Gratiās dicamus eternas nostro redemptori p̄ssimo quoniam omnes reduxit ad tutas exuuias.cuius nomē cum ferno re laudemus omni tempore.praeoccupantes faciē sanctißimam e- eius nostris orationibus; viuamus virtuose in amore rectitudinis.abijciētes tumultum mundalium negotiorum.iusticie normam sequamur.vitijs no-xiiis risistam us deuotissime.lachrymisqꝫ negligentias abluamus in maxima soliciudine memores futuri iudicij.cuius mastimabilis horror inferni poe-nis nequequam inferior.Anno Dominicae natiuitatis M.D. Id.Mar-tij.Cum has smilefue acceperit literas is cui mittuntur in arte peritus factat quod nouit secundū eiis institut a facienda, vert atqꝫ se ad aspectum Euroaustri Cuius hoc signum? &amp; legat contestationem spirituum q̄ uost talis: Aseliel murnea casmadymbularcha vadusyn atybelron diuel arsephontisi pa normys orleuo tadon Venotibasramyn.His contestatis cōtinuet operationem artis,&amp; audiet secretum mittentis.
 CAP.V.
 Roth. CVIVS PRINCEPS SVPREMVS,BARMIEL nomine,moratur in Austro,habens sub se 10.principes,qui praesunt diei.&amp;20.qui praesunt nocti cum seruatoribus eorum:&amp; sunt super secretis nunciandis,que pertinent ad traditiones castrorum.
 
@@ -1337,7 +1344,7 @@ Keriel 20 Manfi 20 Acreba 20 Astib 0.</p>
 <p><em>Let us suppose a secret of the king, which is not to be entrusted to anyone in any way.</em> Roth.</p>
 <p>If someone, or a prince, cannot obtain by arms the city or fortification that he desires, he attempts the matter by art; he corrupts the guards with a reward. He entrusts the plan to no one, not even to letters, lest, if detected, that man not attain his purpose, and those men lose the reward together with their life. To the mansion of Barmiel he</p></div>
 <div class="pp-n" id="seg-17" data-segment="17"><a href="#seg-17">17</a></div>
-  <div class="pp-latin" lang="la" data-segment="17">18
+  <div class="pp-latin" lang="la" data-segment="17" data-pagefind-body><span id="latin-seg-17"></span>18
 STEGANOGRAPHIAE
 lis se princeps cōuertit, vocat spiritum nūtium, committit occultum: venit
 ille, perfert nuntio, capitur nocte, non scitur quomodo. Pro his si placet
@@ -1426,7 +1433,7 @@ Assaba Bariel Anael Uriel</p>
 <p>First, before we proceed to working, you should know that at least two spirits must always be called, with their twenty attendants, without whom they proceed nowhere, although not always do all appear visible. But there is no need to be concerned about this, provided that through their invisible ministry you obtain what you intend. Therefore when you wish to work in Steganography through their ministry, turn yourself toward the south-southwest, since all of them remain there at all times with their prince Gediel; do what you know must be done according to order. This is the Conjuration:</p>
 <p>Gedi-</p></div>
 <div class="pp-n" id="seg-18" data-segment="18"><a href="#seg-18">18</a></div>
-  <div class="pp-latin" lang="la" data-segment="18">20
+  <div class="pp-latin" lang="la" data-segment="18" data-pagefind-body><span id="latin-seg-18"></span>20
 STEGOGRAPHIAE
 Gediel asiel modebar mopiel, casmoyn, rochamurenu proys nasaron atido casmear vearfy maludym demosaro- tiel masdurym soduuiel mesray seor amatlũ, laueur pealo netus fabelron. His completis erunt duo principes nominanti vocati praesentes, boni, beneuoli, securi: quos non debes timere : fed committe eis confidenter, quicquid volueris: mandatum tu- um fideliter implebunt hoc signum erit rubrum.
 Roth. HABEA S IN MENTE TVA TALE SE-
@@ -1496,7 +1503,7 @@ habẽs sub se 20. principes, qui praesunt dici, &amp; totidem, qui praesunt noc
 <p><em>Whose supreme prince is Asiriel, whose dwelling is toward Africa, having under his dominion twenty dukes who preside over the day, and the same number who preside over the night; their office is to announce the plans of princes to friends.</em></p>
 <p>The first and supreme prince of the seventh dwelling is called Asiriel, and he dwells in that region of the world which we call toward Africa, having under him twenty princes who preside over the day, and the same number who preside over the night; who</p></div>
 <div class="pp-n" id="seg-19" data-segment="19"><a href="#seg-19">19</a></div>
-  <div class="pp-latin" lang="la" data-segment="19">22 STEGANOGRAPHIAE omnes sub se multos habent famulos. Si duo duces vocentur ab operante ad ministerium artis ex diurnis; semper 20. famulos ha- bent seruientes sibi: similiter et cum nocturnis fit. Quare si vnũ vocaueris tantum ex principibus, maxime nocturnis: non 20. sed 10. famulos eum habere duntaxat comprobatur. Diurnos nõ vocabis, nisi ad minimum duos; quoniam soli venire nõ consueuerunt: ex nocturnis vnũ vel duos, sicut placuerit, aduocare poteris. Si vocaueris duos, 20. si vnum, 10 famulos in coniuratione ex more noueris esse addendos. Et vt scias, qui soli, &amp; cum socio qui sint vocandi; tabulam considera.
+  <div class="pp-latin" lang="la" data-segment="19" data-pagefind-body><span id="latin-seg-19"></span>22 STEGANOGRAPHIAE omnes sub se multos habent famulos. Si duo duces vocentur ab operante ad ministerium artis ex diurnis; semper 20. famulos ha- bent seruientes sibi: similiter et cum nocturnis fit. Quare si vnũ vocaueris tantum ex principibus, maxime nocturnis: non 20. sed 10. famulos eum habere duntaxat comprobatur. Diurnos nõ vocabis, nisi ad minimum duos; quoniam soli venire nõ consueuerunt: ex nocturnis vnũ vel duos, sicut placuerit, aduocare poteris. Si vocaueris duos, 20. si vnum, 10 famulos in coniuratione ex more noueris esse addendos. Et vt scias, qui soli, &amp; cum socio qui sint vocandi; tabulam considera.
 Roth. S. R. S. X. R. S. Cusiel
 Astor 20. Buniel 20. Arcisat 20. Malqueel
 Carga Rabas Adriel 20.
@@ -1566,7 +1573,7 @@ Cusiel Omiel Aspiel 10. Hamas 10.</p>
 <p>He sends letters in no respect suspect, nor fearing public exposure in any respect. Roth.</p>
 <p>Jesus Christ, unfailing light, eternal blessedness of all the saints, creator and ruler of the universe, have mercy on us. We, weak, groaning, and weeping, ask your mercy. Grant us the strength to overcome the temptations of the devil, so that, with present evils avoided, we may obtain rest. O sweetest Savior Jesus, forgive the sins of us, the servants who pray, since we desire to serve you with all our strength. Make us always have in ourselves the fervor of your love, adorned with good works. Give us the true operations of virtues, observance of justice, and inseparable love of uprightness; make us truly humble and vigorous despisers of worldly things, so that, always burning with your love, we may love nothing earthly, and esteem nothing temporal as pleasant to us. O teacher of humility, Jesus Christ, teach us to imitate your doctrine. We are, alas, entangled in many vices, bare of good works. Save us, Jesus Christ, lest we perish. O highest truth, make us alive, refuge of souls, refresh-</p></div>
 <div class="pp-n" id="seg-20" data-segment="20"><a href="#seg-20">20</a></div>
-  <div class="pp-latin" lang="la" data-segment="20">24
+  <div class="pp-latin" lang="la" data-segment="20" data-pagefind-body><span id="latin-seg-20"></span>24
 STEGANOGRAPHIAE
 gerantissimum: esto nobis turris fortitudinis. Tu enim viuificator noster es, tu salus es animarum, mentisque renouator dulcissimus. Tu ineffabile gaudium angelorum, animorumque fidelium requies saluberrima. Tu beatitudo sanctorum te amantium. Tu inextinguibile lumen ciuium superno-
 rum. Tu mortuorum Viuificator fragilitatem nostram respice. Iesu Christe dulcissime adiuua nos fragiles seruos tuos, quatenus per viam veritatis sine offensione incedentes requiem consequamur aeternam, O pÿssime domine Iesu mitiga labores exilij nostri. Et cum finis istius vitae caperit appropinquare, nobis misericorditer subuenire tunc digneris, quatenus ante faciem virtutis tuae aduersarius ruat conterritus, fugiantque procul omnium malorum prouocatores diaboli, mortis aeternae principes, saenissimique nostri persecutores. Rogamus per virtutem nobilissimae mortis tuaae dulcissime Iesu: non despicias nos inutiles seruos in die exitus nostri, quos redimore voluisti sanguine tuo: Laua excessus nostrós, quatenus intrare gaudia patriae coelestis, expectantibus nos angelis, mereamur. Amen.
@@ -1634,7 +1641,7 @@ Roth. Schw. R. S. R. S.
 Fariel Vessur 30 Potiel 30 Espoel 30
 D Arach</p></div>
 <div class="pp-n" id="seg-21" data-segment="21"><a href="#seg-21">21</a></div>
-  <div class="pp-latin" lang="la" data-segment="21">26 STEGANOGRAPHIAE
+  <div class="pp-latin" lang="la" data-segment="21" data-pagefind-body><span id="latin-seg-21"></span>26 STEGANOGRAPHIAE
 Roth. Schw. R. S. X. S.
 Arach 30 Sarmiel 30 Baros 30 Rabiel 30
 Maras 30 Amoyr 30 Eliel 30 Atriel 30
@@ -1682,7 +1689,7 @@ Kodak Gray Scale
 <p><em>Roth.</em> Write whatever prayer you wish, or any letters you like, containing nothing secret.</p>
 <p>Almighty, everlasting God, most just rewarder of the good, who willed your Son to be a partaker of our race, that he might redeem us most wretched from devilish envy; who, by kindness alone, overflowing, took on the uncorrupted form of our [nature] from the flower of a virginal womb, the holy archangel Gabriel announcing that the Virgin, about to conceive by your most blessed Spirit, would remain a perpetual Virgin, immaculate, brighter than men, more eminent than spirits.</p></div>
 <div class="pp-n" id="seg-22" data-segment="22"><a href="#seg-22">22</a></div>
-  <div class="pp-latin" lang="la" data-segment="22">28 STEGANOGRAPHIAI
+  <div class="pp-latin" lang="la" data-segment="22" data-pagefind-body><span id="latin-seg-22"></span>28 STEGANOGRAPHIAI
 CAP. IX.
 CVIVS PRINCEPS VOCATVR MALGA-
 Tharas, qui moratur in occidente habens subse duces pro actionibus
@@ -1777,7 +1784,7 @@ Gubi 30 Aspiel 30 Amiel 30 Deilas 20 Basiel 10 Habes</p>
 <p>Red.</p>
 <p>In matters that pertain to household affairs, money, a deposit, a loan, trust, or any business of human intercourse, you have a secret which you desire an absent friend far away to know; but it is such that it would come under public examination with the greatest danger or loss to both parties. For that reason it must be entrusted neither to letters nor to men. Therefore, so that you may be secure and need fear no one’s awareness, you turn toward the west, call a duke, and entrust the secret: he goes and faithfully carries everything through; if anything has been entrusted for you, he brings it back.</p></div>
 <div class="pp-n" id="seg-23" data-segment="23"><a href="#seg-23">23</a></div>
-  <div class="pp-latin" lang="la" data-segment="23">30
+  <div class="pp-latin" lang="la" data-segment="23" data-pagefind-body><span id="latin-seg-23"></span>30
 STEGOGRAPHIAE
 Literas qualescunque volueris, scribe, in quibus nullius
 vereare conspectum.
@@ -1823,7 +1830,7 @@ sogreal paredon adre Caphoron onatyr tirno beofy.Cha-</div>
 <p>When the friend to whom these or any other letters are sent has received them, he understands that the sign belongs to the prince of the West. Therefore, after the customary preliminaries have first been performed, he turns himself to the West, summons the Spirit, adjuring the invisible messenger that he become visible, and that he tell no one. The song of the Spirit.</p>
 <p><em>MALGARAS apro chameron asoty mesary throes Zameda sogreal paredon adre Caphoron onatyr tirno beofy. Cha-</em></p></div>
 <div class="pp-n" id="seg-24" data-segment="24"><a href="#seg-24">24</a></div>
-  <div class="pp-latin" lang="la" data-segment="24">[illegible]32
+  <div class="pp-latin" lang="la" data-segment="24" data-pagefind-body><span id="latin-seg-24"></span>[illegible]32
 STEGANOGRAPHIAE
 Carba 40 Lomor 400 Paniel 40 Abael 400
 Merach 40 Cesael 400 Curfaes 40 Meroth 400
@@ -1840,7 +1847,7 @@ Kodak Gray Scale 100%</div>
 <p>Roth. Let us suppose any secret of the mind to be committed to letters.
 You have a business, in any spiritual matter, to a prince, very arduous and secret, which you think is to be trusted to no mortal, nor even to letters. Do you wish the prince to know it? You feign supplicatory letters, on behalf of a poor cleric, or any others whatever, to him…</p></div>
 <div class="pp-n" id="seg-25" data-segment="25"><a href="#seg-25">25</a></div>
-  <div class="pp-latin" lang="la" data-segment="25">eum: vocas spiritum, committis illi secretum: fideliter agit o-
+  <div class="pp-latin" lang="la" data-segment="25" data-pagefind-body><span id="latin-seg-25"></span>eum: vocas spiritum, committis illi secretum: fideliter agit o-
 omnia.
 Literas qualescunque volueris dabis, in quibus non
 verearis quicquam.
@@ -1920,7 +1927,7 @@ Gray Scale</div>
 <p>Ansed</p>
 <p>Kodak</p></div>
 <div class="pp-n" id="seg-26" data-segment="26"><a href="#seg-26">26</a></div>
-  <div class="pp-latin" lang="la" data-segment="26">LIBER PRIMVS.
+  <div class="pp-latin" lang="la" data-segment="26" data-pagefind-body><span id="latin-seg-26"></span>LIBER PRIMVS.
 Schw. R. S. X. S. R. X. G.
 Ansoel 40 Saddiel 40 Asuriel 20 Pathyr 20
 Godiel 40 Sobiel 40 Almoel 20 Marae 20
@@ -2046,7 +2053,7 @@ custo-</div>
 <p>I send you an oration that I composed at the wedding of a certain friend of mine. God, creator of all things, redeemer of the human race, and savior of all, lest the human race should perish, also instituted the sacrament of marriage; for we read that he joined Eve as wife to the first man and said: INCREASE AND MULTIPLY, instituting the law for preserving humanity. Afterwards God incarnate deigned to sanctify marriages by a miracle. I shall praise those who serve God well by keeping the marital [unclear]; although I am not married, I shall nevertheless rightly praise marriages.</p>
 <p>Indeed, if marriage were taken away, the whole human race would fail and collapse. For by the use of marriages the human race exists, although ruinous, weak, and corruptible; yet without marriages it would not endure. But act in such a way that the fruitfulness of your marriages is adorned with morals and conduct, holy, and placing a stumbling-block before no one. First of all love God, continually applying yourselves to works of mercy with justice; flee impiety, cultivate rectitude, love the good, always speak praises to God, assist the poor with alms, obey the commandments of God. Do not forsake truth; honor the ministers of God; pay tithes to the churches; receive pilgrims as guests; free the innocent; feed the hungry; obey your superiors; honorably love your neighbors, inflicting injury on absolutely no one. Cultivate the Christian religion most devoutly; abhor the vain, harmful, and superstitious customs of the gentiles. Keep the teachings of the Gospels and live according to the precepts of God. Flee the pleasures of the flesh, and show yourselves honorable and good; anxiously guard purity of mind</p></div>
 <div class="pp-n" id="seg-27" data-segment="27"><a href="#seg-27">27</a></div>
-  <div class="pp-latin" lang="la" data-segment="27">custodientes nolite maculare. Mementote obsecro, quid in sancto Euange-
+  <div class="pp-latin" lang="la" data-segment="27" data-pagefind-body><span id="latin-seg-27"></span>custodientes nolite maculare. Mementote obsecro, quid in sancto Euange-
 lio Christus Dominus noster clamauerit: Beati mundi corde: qui sc.
 munditiam animae in luto so corpore propter Deum custodiunt. Munditia
 autem cordis continuïs humilimisque orationibus non destituatur: quoni-
@@ -2193,7 +2200,7 @@ tẽ,cui reveruro nostiponẽdas à potẽtiore insidias in via aut quo-</div>
 <p>Let us set down, for example, a certain secret to be entrusted to absolutely no one.</p>
 <p>You have a faithful friend, whom you favor as yourself, but he is far absent; you have learned that ambushes are to be laid for him on his return by someone more powerful, on the road or</p></div>
 <div class="pp-n" id="seg-28" data-segment="28"><a href="#seg-28">28</a></div>
-  <div class="pp-latin" lang="la" data-segment="28">Liber Primus.
+  <div class="pp-latin" lang="la" data-segment="28" data-pagefind-body><span id="latin-seg-28"></span>Liber Primus.
 quolibet alio vel loco vel modo. Auiscare cupis nescientem: sed periculum tibi magnum instaret auisanti, si fieret palam. Vnde nec literis committendum, ne legantur ab aliquo: nec homini confidendum, ne reuelari contingat. Vt ergo amicus tu securus, amicus fit: vocas spiritum, committis arcanum: fit.
 Literas mittis amico familiares vel orationem deuotam, quae videri patiatur.
 
@@ -2260,7 +2267,7 @@ Sadar 50; Armena 50.
 Terach 50; Albhadur 50.
 Thaniel</p></div>
 <div class="pp-n" id="seg-29" data-segment="29"><a href="#seg-29">29</a></div>
-  <div class="pp-latin" lang="la" data-segment="29">LIBER PRIMVS.
+  <div class="pp-latin" lang="la" data-segment="29" data-pagefind-body><span id="latin-seg-29"></span>LIBER PRIMVS.
 41
 Koth. S. R. S. K. S. R. S.
 Tharicl 40 LaZaba 40 Lamas 10 Thurcal 10
@@ -2344,7 +2351,7 @@ Culmar 40; Quibda 40; Morael 20; Arepach 20.</p>
 <p>I send familiar letters to my friend, in which I fear no danger.</p>
 <p>The ancients define Justice and Philosophy as the greatest ornament of nobility, and Impiety and Ignorance as its disgrace. For what is more beautiful than to adorn a noble family, which serves as a soldier, with letters and virtues? We find that very many others, and numerous very noble men serving as soldiers, did this by night and by day, so that they might subdue barbarians by arms, and by uprightness instruct their people and with letters. By their example, [Buma vv?], most learned, [unclear] the letters of humanity and the good arts [unclear], acknowledged, adorned with arms and letters. The wisest princes of old were accustomed not to shut up their wealth in their treasuries, but rather to devote it to literary use, judging the study of wisdom to be the most honorable support for those tending toward happiness, by which the blessedness of eternal retribution is acquired. Indeed, knowledge of the Scriptures makes princes venerable to all, and especially to be feared. Ignorance of the Scriptures, called the burial of a living man, has been accustomed to bring shame and horrible calamity upon noble princes. A man without letters is a two-footed ass, to be buried alive, or rather already buried. It is especially necessary that nobles who govern the commonwealth be wise and notable for knowledge of letters; their ignorance brings in tyranny. Love of letters also commends the renowned deeds of princes and nobles to perpetuity. For we see that ancient philosophers obtained the memory of rule, and attained immortality of name, everlasting among all men more by letters than by arms. For letters made the glorious, excellent, and wise ancient tyrants and princes more so than arms did, and endowed the memory and titles of their praises with immortality. Add that, for Christians, the study of letters provides the highest and most honorable aid for flying to Heaven. For from the Scriptures we begin to contemplate the flashing and honorable majesty of divine illuminations, to us</p></div>
 <div class="pp-n" id="seg-30" data-segment="30"><a href="#seg-30">30</a></div>
-  <div class="pp-latin" lang="la" data-segment="30">LIBER PRIMVS.
+  <div class="pp-latin" lang="la" data-segment="30" data-pagefind-body><span id="latin-seg-30"></span>LIBER PRIMVS.
 43
 alioguin inaccessibilem. Ita Henricus miles doctissime literis faueas; vt recti-
 tudine decoratus semper viuas. Vale ex Spanheim, Idib. Marty Anno
@@ -2494,7 +2501,7 @@ Kodak Gray Scale
 <p>Symiel myrno chamerony the or pasrô ãdiueal fanerosthi sofear Carmedon Charnothiel peasor sofitrã fabelrusy thyrno pamerosy trelno chabelron chymo churmabon, asiel peasor carmes nabeyros toys Camalthonty. When these words have been spoken in the manner necessary, the spirit summoned by you will come to obey you in all your commands, if the operation is to be carried out through nocturnal spirits; and if they do not appear quickly, do not on that account desist, but press them by repeating the chant, and, compelled, they will obey.</p>
 <p>For</p></div>
 <div class="pp-n" id="seg-31" data-segment="31"><a href="#seg-31">31</a></div>
-  <div class="pp-latin" lang="la" data-segment="31">LIBER PRIMVS.
+  <div class="pp-latin" lang="la" data-segment="31" data-pagefind-body><span id="latin-seg-31"></span>LIBER PRIMVS.
 Pro exemplo ponamus quodcunque arcanum nulli
 penitus committendum.
 HABES aliquod negotium secretissimum ad amicum, quod
@@ -2575,7 +2582,7 @@ Alferiel 10 Iaziel Oeniel 50 50 60 60 10</p>
 <p>You now have, from the spirits of Armadiel, fifteen in number, with their subservants, 1260, who, according to the division of the twenty-four hours into six parts, are accustomed, when called, to come to the operator with their dukes, if he wishes, preserving their order in coming. Therefore, when you wish to perform some operation in Steganography through them, you must observe most diligently the division of time according to this art, without which you will achieve absolutely nothing; when it has been known, as it should be, you will turn yourself to the north, doing what the art requires.</p>
 <p>Con-</p></div>
 <div class="pp-n" id="seg-32" data-segment="32"><a href="#seg-32">32</a></div>
-  <div class="pp-latin" lang="la" data-segment="32">LIBER PRIMVS.
+  <div class="pp-latin" lang="la" data-segment="32" data-pagefind-body><span id="latin-seg-32"></span>LIBER PRIMVS.
 Coniuratio.
 A Rmadiel marbeuo pelrusan neor chamyn aldron pemarsõ Cathornaor pean lyburmy Caueron thorty abesmeron ve-ar larso charnoty theor Caueos myat drupas Came dortys ly pa ruffes ertnory mesoryn elthy chaor atiel,lamesayn rouemu fabel rusin, friato chasalon pheor thamorny mesardiel pelusy madiel baseroty sarreon prolsoyr afenosy cameltruson.Cum hanc con.iurationem compleueris eo modo oportet:mox aderit spi-ritus,ad Imperium tuum paratus.
 Formemus nobis exempli causa tale arcanum nulli commitendum.
@@ -2595,7 +2602,7 @@ I LLVSTRISSIME princeps cum humili subiectione seruitutem.Benignitas inclyti duc
 <p>To the most serene Prince, Lord Philip, Count Palatine of the Rhine, Duke of Bavaria, Arch-Steward of the Holy Roman Empire, Prince Elector, Johannes Trithemius, Abbot of Sponheim, offers service with prayers.</p>
 <p>Most illustrious prince, with humble submission, my service. The kindness of your renowned dukedom commanded me to commit to writing certain most hidden matters that had been explained in words. I would rejoice, not without devout exultation, if powers equal to my will were present, to assign a more fitting and most honorable place to the benefits shown, and service by the grace due</p></div>
 <div class="pp-n" id="seg-33" data-segment="33"><a href="#seg-33">33</a></div>
-  <div class="pp-latin" lang="la" data-segment="33">[illegible]50 STEGANOGRAPHIAE
+  <div class="pp-latin" lang="la" data-segment="33" data-pagefind-body><span id="latin-seg-33"></span>[illegible]50 STEGANOGRAPHIAE
 versus Vulturnum positus facie, voca illum quem hora concer-
 nit, diligentissime obseruans literas famulorum, sine quibus
 nusquam procedunt: &amp; ne erres in numero, ordine dominio
@@ -2637,7 +2644,7 @@ uiic,</div>
 <p>Johannes Trithemius, Abbot of Sponheim, of the order of Saint Benedict, to the religious brother Nicholas of Dürckheim, monk of the monastery of Hirsau of the same order: sincere charity in the Lord.</p>
 <p>Since I know, dearest brother, that you are a lover of the good arts, it delights me greatly to exhort you that you would persevere in inquiring into and continually unrolling the secrets of books, which show us the way of felicity—to return by an open path into the homeland which by sinning we lost, to which the love of our most mild [and] most merciful Savior, hidden for us in the holy Scriptures, will lead us back, burning [with desire], if [these secrets] adorn the mind, exercising us in holy study—[a thing] without doubt to be conferred. For what, in [this] exile…</p></div>
 <div class="pp-n" id="seg-34" data-segment="34"><a href="#seg-34">34</a></div>
-  <div class="pp-latin" lang="la" data-segment="34">LIBER PRIMVS.
+  <div class="pp-latin" lang="la" data-segment="34" data-pagefind-body><span id="latin-seg-34"></span>LIBER PRIMVS.
 inserabili vagantibus salubrius dulciusue esse poterit quā literis sedulo in-
 cumbere: per quarum studium ad veritatem oculi nostri eriguntur require̓-
 dam, &amp; ad beatitudinis futurae desiderium mens nostra sustollitur: sine qui-
@@ -2720,7 +2727,7 @@ Zbriel Cumeriel Bedarys 10 30 100 309
 Bucafas Vadriel Laphor 10 39 100 200</p>
 <p>You have, from the princes of Camesiel, twelve, with a very great multitude of attendants; where, note, that great number 6000000ooo6000 belongs to other dukes and princes, who generally preside over all diurnal matters. From them a certain number is called, as many as the operator wishes,</p></div>
 <div class="pp-n" id="seg-35" data-segment="35"><a href="#seg-35">35</a></div>
-  <div class="pp-latin" lang="la" data-segment="35">LIBER PRIMVS.
+  <div class="pp-latin" lang="la" data-segment="35" data-pagefind-body><span id="latin-seg-35"></span>LIBER PRIMVS.
 rator, cum duce nominato. Alij autem in quadruplici ordine sunt famuli principū duodecim; &amp; veniunt semper eũ eis in or-
 dinibus suis. Cum ergo volueris operari per istos praemissis praemittendis ista est coniuratio.
 Carmen.
@@ -2816,7 +2823,7 @@ R. Carnsiel
 R. Carnsiel
 R</p></div>
 <div class="pp-n" id="seg-36" data-segment="36"><a href="#seg-36">36</a></div>
-  <div class="pp-latin" lang="la" data-segment="36">56 STEGANOGRAPHIAE
+  <div class="pp-latin" lang="la" data-segment="36" data-pagefind-body><span id="latin-seg-36"></span>56 STEGANOGRAPHIAE
 rum officium est nunciare generaliter omnia et singula superius
 non contenta versus Meridiem. Cum autem necessarium fit in
 hac arte scire quosdam ex nomine, sintque multi: cura-
@@ -2900,7 +2907,7 @@ Femol Aridiel Otsel 200 40 2000 400 20</p>
 <p>Caspiel asbyr Chameronty churto freueon dayr fabelron Cathurmy meresyn elso peano tailrian Caspio fuar Medon clibarsy Caberosyn vlty pean Vearches pemasy natolbyr meldary noe Cardenopen men for diuieladro.</p>
 <p>H exmo-</p></div>
 <div class="pp-n" id="seg-37" data-segment="37"><a href="#seg-37">37</a></div>
-  <div class="pp-latin" lang="la" data-segment="37">STEGANOGRAPHIAE
+  <div class="pp-latin" lang="la" data-segment="37" data-pagefind-body><span id="latin-seg-37"></span>STEGANOGRAPHIAE
 ex more subiunctis, nuncius inuisibilis apparebit, referens amu-
 co fideliter secretè in aurem omnia, quae mandaui.
 CAP. XIX.
@@ -3070,7 +3077,7 @@ nibus.</div>
 <p>Amenadiel the emperor, the supreme spirit of the West, has under his dominion 300 more powerful princes or dukes, and no fewer than five hundred sub-dukes or counts; servants, sub-servants, and attendants from among the innumerable, whose names I have found to be no fewer than 30,000, besides innumerable others whose names I have not yet found. For these are sufficient for announcing to friends all secret matters toward the West. But I shall now state the names of the dukes who are to be summoned for the service of this art, as many as are sufficient.</p>
 <p>Through these twelve chief dukes you will be able to accomplish everything that has to be done by the command of Amenadiel in Steganography toward the West. But observe carefully, so that you know, when you call any one of the dukes, how many counts, servants, and attendants he has under him according to the twenty-four hours of day and night, which these 1,550 keep, assigned to themselves by equal division in their order. If you err in these matters, you will accomplish nothing; perhaps you would fall into some danger. For one who wishes to work in Steganography must not only be skilled in our art, but also in [unclear].</p></div>
 <div class="pp-n" id="seg-38" data-segment="38"><a href="#seg-38">38</a></div>
-  <div class="pp-latin" lang="la" data-segment="38">LIBER PRIMVS.
+  <div class="pp-latin" lang="la" data-segment="38" data-pagefind-body><span id="latin-seg-38"></span>LIBER PRIMVS.
 mnibus diligentissimum, quia per patuam in operatione negli-
 gentiam magnum plerunque oriuri periculum consueuit. Cum
 itaque per istos spiritus aliquid volueris operati, verte te ad Oc-
@@ -3156,7 +3163,7 @@ artis secundum ordines suos cum subducibus et comi-</div>
 <p><em>WHOSE PRINCE, DEMORIEL, DWELLS toward the North, having under his dominion 400 greater dukes or princes, 600 subdukes or counts, with many lesser servants and attendants, whose number is uncertain.</em></p>
 <p>Toward the North dwells the great prince Demortiel, having under his dominion 400 chief princes and dukes, whom he sends into the service of this art according to their orders, with subdukes and comi-</p></div>
 <div class="pp-n" id="seg-39" data-segment="39"><a href="#seg-39">39</a></div>
-  <div class="pp-latin" lang="la" data-segment="39">LIBER PRIMVS.
+  <div class="pp-latin" lang="la" data-segment="39" data-pagefind-body><span id="latin-seg-39"></span>LIBER PRIMVS.
 comitibus: quorum numerus minor non est 600. ad nuncian-
 da arcana omnia, quae versus Septentrionem voluerimus man-
 dare amicis in hac arte peritis. Ex praemissis omnibus tantum
@@ -3234,7 +3241,7 @@ Burisiel Dubilon Chomiel 40 600 | 400 | 60 | 40 |</p>
 <p>Johannes Trithemius, Abbot of Sponheim, to Jakob Wimpfeling of Schlettstadt, theologian, poet, and most eloquent orator, greetings.</p>
 <p>I would very much wish, Jakob Wimpfeling, that you would satisfy, even late at last, your promise and my expectation of you. You know, however, what you promised, and you are not ignorant of what I expect. I desire you not to be a monk, but to live with monks. Make haste, that we may live together. Behold, the hour of our passing, greatly to be feared, is at hand. Why then do we delay? Why, unhappy men, do we neglect the brief and wretched state of our [unclear]? Why do we refuse to do penance, in the time of salvation, for our transgressions and excesses? Let us prepare ourselves for death, since it hastens quite terribly, calls all the reprobate, spares no one, reveres no one; it denies audience to those who pray; it despises the tears of those who wail; it scorns the threats of princes, and destroys the names and glory of kings; it brings to nothing the hateful pride of tyrants before all. Therefore, brother, diligently considering the benefits of the Redeemer shown to us, very useful to us, let us repay them by amending our offenses, continually shining with good morals, so that by penance and tears we may be able to placate the strict examination of the judge hastening to the judgment seat, who will show himself terrible to the rejected, pleasant to the elect. Farewell from Sponheim, on the fifteenth day before the Kalends of April, in the year of the Lord M.D.CW. When</p></div>
 <div class="pp-n" id="seg-40" data-segment="40"><a href="#seg-40">40</a></div>
-  <div class="pp-latin" lang="la" data-segment="40">LIBER PRIMVS.
+  <div class="pp-latin" lang="la" data-segment="40" data-pagefind-body><span id="latin-seg-40"></span>LIBER PRIMVS.
 Cum literas acceperit is, cui mittuntur, in arte peritus: faciat primo quod ars ipsa requirit : deinde conuerfus ad Septentrio-nem, ficut moris eft, proferat coniurationem.
 Carmen Coniurationis.
 D emoriel osayr chumon chulty saue porean lusin dayr pe-an cathurmofomarfon erfoy lamedon iothar bufraym fu-armenadroy chilarfo fabelmerufyn. Carmine cõpleto, ficut in arte praecipitur; aderit Spiritus missus, apparebitque visibilis ti-bi foli, &amp; alteri nulli penitus: arcanum dicet in aurem.
@@ -3302,7 +3309,7 @@ R. 2 140 S. R. 150 180 170
 <p>When the charm has been completed, the spirit will be present: either the principal one with his servants, or the servants from the number assigned to the hour without the prince, just as you wish according to the hours, as we have said above.</p>
 <p>Arca-</p></div>
 <div class="pp-n" id="seg-41" data-segment="41"><a href="#seg-41">41</a></div>
-  <div class="pp-latin" lang="la" data-segment="41">[illegible]66 STEGANOGRAPHIAE
+  <div class="pp-latin" lang="la" data-segment="41" data-pagefind-body><span id="latin-seg-41"></span>[illegible]66 STEGANOGRAPHIAE
 ta, spiritus missi apparebunt tibi visibiliter, tibique manifesta-
 bunt omnia secrete loquentes in aurem.
 CAP. XXII.
@@ -3347,7 +3354,7 @@ Cupriel, Busiel, Drubiell: 100, 10, 10, 100.
 Saruiel, Futiel, Nastros: 100, 10, 10, 100.</p>
 <p>In this description of the table we have twelve of the princes of Buriel, with 880 servants, who, according to the twelve hours of the night in equal divisions, which we call those of the planets, with the individual dukes in their order</p></div>
 <div class="pp-n" id="seg-42" data-segment="42"><a href="#seg-42">42</a></div>
-  <div class="pp-latin" lang="la" data-segment="42">[illegible]68
+  <div class="pp-latin" lang="la" data-segment="42" data-pagefind-body><span id="latin-seg-42"></span>[illegible]68
 STEGOGRAPHIAE
 Literas confingam, qualescunque voluero,
 quae neminem vereantur, nempe vt sunt
@@ -3388,7 +3395,7 @@ CAP.</div>
 <p>Buriel, Thresoy chamerontis, hayr plassu, nadiel, marso, neany, pean, sayr, fabelron, chaturmo, melros, ersoty caduberosyn. When the charm has been spoken, a spirit invisible to all, but visible to you, will appear, and let him faithfully speak the secret entrusted to him.</p>
 <p><em>Chapter.</em></p></div>
 <div class="pp-n" id="seg-43" data-segment="43"><a href="#seg-43">43</a></div>
-  <div class="pp-latin" lang="la" data-segment="43">LIBER PRIMVS.
+  <div class="pp-latin" lang="la" data-segment="43" data-pagefind-body><span id="latin-seg-43"></span>LIBER PRIMVS.
 CAP. XXIII.
 CVIVS SPIRITVS ET PRINCEPS SVPRE-
 mus vocatur Hydriel,&amp; moratur in aquis:habens subse du-
@@ -3510,7 +3517,7 @@ Almafor Hursiel
 Nemariel Cuprisiel 400 30 30 10 10</p>
 <p>You now have eight of the companions of Pyrichiel, with servants assigned for obedience according to the order of the hours. Therefore, when you wish to operate through these spirits just named, call one of them, whom</p></div>
 <div class="pp-n" id="seg-44" data-segment="44"><a href="#seg-44">44</a></div>
-  <div class="pp-latin" lang="la" data-segment="44">72 STEGANOGRAPHIAE
+  <div class="pp-latin" lang="la" data-segment="44" data-pagefind-body><span id="latin-seg-44"></span>72 STEGANOGRAPHIAE
 quem volueris: &amp; cum iterum operaris alia vice, tunc vocabis alterum immediate sequentem : &amp; simili modo cùm caeteris faciendum memineris. Praemissis itaque ex more praemittendis in arte generaliter, dic coniurationem istam.
 Conjuratio.
 PYrichiel marfoys chameron, nael peanos pury lames iamene famerusyn mearlo canonorson theory torsa, nealthis dilumeris maphtroy carful ameor thubra phorsotiel chrebonos aray pe-malon layr toysi vadiniel nemor rofeuarfy cabti phroys amenda machyr fabelronthis, poyl carepon vemij naslotyn.
@@ -3582,7 +3589,7 @@ Carnodiel Vasenel Caspaniel 10 20 100 20.
 Phanuel Nasiniel Musiniel 10 20 100 20.</p>
 <p>You have</p></div>
 <div class="pp-n" id="seg-45" data-segment="45"><a href="#seg-45">45</a></div>
-  <div class="pp-latin" lang="la" data-segment="45">14 STEGANOGRAPHIAE
+  <div class="pp-latin" lang="la" data-segment="45" data-pagefind-body><span id="latin-seg-45"></span>14 STEGANOGRAPHIAE
 Habes nunc ex ducibus Emonielis 12. cum subducibus &amp;; ser-
 uitoribus eorundem 1320. qui secundum ordinem horarum ad
 omnem operationis intentionis nostrae nobis sufficiunt, siue
@@ -3667,7 +3674,7 @@ perma-</div>
 <p><em>Whose supreme emperor is called Icosiel, having under him 100 dukes or princes, 300 counts or subdukes; the number of servants is not yet certain to me.</em></p>
 <p>Icosiel, among the aerial spirits, is one of the more powerful, a great and powerful emperor in the secrets of Steganography, having under him 100 princes of ducal order. But counts, 300; I have not yet found the certain number of servants. He is called Icosiel for this reason, because he gladly spends time with men in houses. For afterward, when you have once duly conjured and called to yourself any one of his dukes with his counts, if you wish him to remain with you all the days of your life</p></div>
 <div class="pp-n" id="seg-46" data-segment="46"><a href="#seg-46">46</a></div>
-  <div class="pp-latin" lang="la" data-segment="46">76 STEGANOGRAPHIAE
+  <div class="pp-latin" lang="la" data-segment="46" data-pagefind-body><span id="latin-seg-46"></span>76 STEGANOGRAPHIAE
 permaneat: deputa ei vnum locum secretum et abstrusum in do-
 mo tua: coniuratum fortiter praecipias eum illic manere : 
 obediet tibi hilariter, semperque ad mandatum tuum erit para-
@@ -3756,7 +3763,7 @@ Agapiel Nathriel Munefiel 10 30 100 30</p>
 <p><em>Whose supreme spirit and prince is called Soleuiel, having under his dominion 200 principal commanders, 200 sub-commanders and companions, and innumerable servants.</em></p>
 <p>[unclear] Among those spirits who willingly converse with men skilled in the art of Steganography and having experienced ways, there is one named Soleuiel, not the least among the princes of this art, who has [unclear] commanders</p></div>
 <div class="pp-n" id="seg-47" data-segment="47"><a href="#seg-47">47</a></div>
-  <div class="pp-latin" lang="la" data-segment="47">78 STEGANOGRAPHIE
+  <div class="pp-latin" lang="la" data-segment="47" data-pagefind-body><span id="latin-seg-47"></span>78 STEGANOGRAPHIE
 duces principales 200. subduces siue comites similiter 200. qui inter se hunc ordinem infallibiliter obseruant, vt qui hoc anno sunt duces, anno sequente sint comites, fiantque alternatis vici-bus ex ducibus comites, ex comitibus similiter duces. Seruorum autem certum numerum non adhuc reperi, qui et ipsi ordines suos inter se secundum horarum dispositionem custodiunt.
 R. R. R.
 Inachiel Nadrufel Axosiel 20 20 200 200 Praxeel Cobusiel Charoel 20 20 2 200 Morucha Amriel Murfiel 20 20 Penador 20 20200 Almodar Prasiel 200
@@ -3811,7 +3818,7 @@ CAP.</div>
 <p>Soleuiel curtiel chamerusyn faty pemalros dayrianothycathurmo parmoy iotran lamedon frascu penoy ilthon fabelmerusyn. When the song has been spoken, the spirit sent by the operator will appear visibly, faithfully revealing everything committed to him; and if he wishes to send anything back to the operator, let him entrust it to the same spirit.</p>
 <p><em>Chapter</em></p></div>
 <div class="pp-n" id="seg-48" data-segment="48"><a href="#seg-48">48</a></div>
-  <div class="pp-latin" lang="la" data-segment="48">80 STEGANOGRAPHIE.
+  <div class="pp-latin" lang="la" data-segment="48" data-pagefind-body><span id="latin-seg-48"></span>80 STEGANOGRAPHIE.
 CAP. XXVIII.
 CVIVS SVPREMVS SPIRITVS ET IMPERA-
 tor est Menachiel, qui habet sub se principes siue duces 20.
@@ -3895,7 +3902,7 @@ Clamor Samyel 20 10 100 Baruch Tharson</p>
 <p>Great and eternal are the things that will be for the advantage of those who observe innocence: for men rejoicing to be present at angelic praises; to behold that lofty light; the splendor of eternal blessedness, and to see the face of majesty by its own light. Pay attention, all of you, and wipe away past negligences with tears; put off useless cares and harmful ones; shudder, O muddy men, at the deceptions of unstable things; at last seek the profit of souls. Be honorable in good morals and virtues; despise vanities; humbly call upon God; do not desire the world, which pours in bitterness. In the year 1500, the ninth day before the Kalends of April. d-</p>
 <p>L Since</p></div>
 <div class="pp-n" id="seg-49" data-segment="49"><a href="#seg-49">49</a></div>
-  <div class="pp-latin" lang="la" data-segment="49">12 STEGANOGRAPHIE
+  <div class="pp-latin" lang="la" data-segment="49" data-pagefind-body><span id="latin-seg-49"></span>12 STEGANOGRAPHIE
 Cum has literas acceperitis cui mittuntur, ante in arte peri-
 tus: cognito charactere ÷- , supremi principis Menadiel, prae-
 missis his quę sunt ex more praemittenda, Coniurationem dicat
@@ -3955,7 +3962,7 @@ Charoel Varpiel Lemodac 40 30 70 10</p>
 <p>We ask, sweetest of friends, that, in view of our old friendship, you would quickly send us your copy of Tertullian, the noblest and wisest man, so that it may be copied out for us: Bernard’s Epistle to the Templars.</p>
 <p>To Tertullian, glorious in the Catholic name of sanctity, shown by all antiquity among our own: and noble, a light, we know that he did not remain last in the holy faith. In actions he was distinguished, a glorious teacher of the divine law, defender of our liberty, devo-</p></div>
 <div class="pp-n" id="seg-50" data-segment="50"><a href="#seg-50">50</a></div>
-  <div class="pp-latin" lang="la" data-segment="50">34 STEGANOGRAPHIAE deuotissimus.Licet in aliquibus reprehendatur, scripsit tamen,fidem expõnendo nostram,honoranda volumina.Habebat autem Coniugem zelosam,religionis nostrae amatrixem:humilitate et innocentia nobilem.castitate gloriosã.Extant rectaeinstitutionis ipsius nonnullae elucubrationes lauda-biles,dulces exuberantesque doctrinae multae:Epistolae breues nō inutiles,nos ad inquisitionem aeternae gloriarę honorifice gratioseque hortantes.8.Cal.A-pril.Anno M.D.Ioannes Trittem.scripsit.
+  <div class="pp-latin" lang="la" data-segment="50" data-pagefind-body><span id="latin-seg-50"></span>34 STEGANOGRAPHIAE deuotissimus.Licet in aliquibus reprehendatur, scripsit tamen,fidem expõnendo nostram,honoranda volumina.Habebat autem Coniugem zelosam,religionis nostrae amatrixem:humilitate et innocentia nobilem.castitate gloriosã.Extant rectaeinstitutionis ipsius nonnullae elucubrationes lauda-biles,dulces exuberantesque doctrinae multae:Epistolae breues nō inutiles,nos ad inquisitionem aeternae gloriarę honorifice gratioseque hortantes.8.Cal.A-pril.Anno M.D.Ioannes Trittem.scripsit.
 Cum has literas aut quasilbet alias acceperitis cui mittuntur,in arte Steganographiae antea peritus:cognito signo Macarielis faciat,quae sunt ex more facienda,subiungens Carmen.
 Carmen Coniurationis..
 M Acariel osayr chamerose chulti pesano dayr fameron ca-thurmochamerose chault fameron ca-thurmo pean ersoty lamedon souapor casrea mafyr.Ianos tharfia.peathan onacri pean etion matramy.Cõpletorite car-mine,spiritus missus visibilis soli apparebit.
@@ -4018,7 +4025,7 @@ Brymiel 10 Aldrusy 10 20 100 v x</p>
 <p>Let there be some secret of mine for a prince or a friend, the disclosure of which would bring danger to me, no small loss to him. Therefore, so that all things may remain secret between me and him, I entrust the secret not to a man, not to letters, but to a spirit.</p>
 <p>L 3 Lite-</p></div>
 <div class="pp-n" id="seg-51" data-segment="51"><a href="#seg-51">51</a></div>
-  <div class="pp-latin" lang="la" data-segment="51">[illegible]LIBER PRIMVS.
+  <div class="pp-latin" lang="la" data-segment="51" data-pagefind-body><span id="latin-seg-51"></span>[illegible]LIBER PRIMVS.
 87
 CAP. XXXI.
 CVIVS PRINCEPS SVPREMVS VOCATVR
@@ -4127,7 +4134,7 @@ Car</div>
 <p>We now have here ten from the princes and counts of Bydiel, marked with their names, who suffice for us at present for every operation of ours in the art of Steganography, together with many servants, who know how to observe their order according to the command of the dukes and princes. But when you wish to operate in this art through them, after the preliminaries have been set forth, say the conjuration.</p>
 <p>Car</p></div>
 <div class="pp-n" id="seg-52" data-segment="52"><a href="#seg-52">52</a></div>
-  <div class="pp-latin" lang="la" data-segment="52">‡ STEGANOGRAPHIAE
+  <div class="pp-latin" lang="la" data-segment="52" data-pagefind-body><span id="latin-seg-52"></span>‡ STEGANOGRAPHIAE
 Carmen coniurationis.
 
 B Ydiel marchan chamerosi philtres maduse veac casmyron
@@ -4397,7 +4404,7 @@ la in hac et amp; sequenti pagina.
 </tbody>
 </table></div></div>
 <div class="pp-n" id="seg-53" data-segment="53"><a href="#seg-53">53</a></div>
-  <div class="pp-latin" lang="la" data-segment="53">[illegible]Liber Primus.
+  <div class="pp-latin" lang="la" data-segment="53" data-pagefind-body><span id="latin-seg-53"></span>[illegible]Liber Primus.
 torum sapientiae, nec natura iuuat, cum hanc nostrae adinuen-
 tionis artem secretissimam intelligere nequinerint: non nobis
 imputandum, sed suae potius socordiae, pigritiae et malitiae af-
@@ -4437,7 +4444,7 @@ M 2 obser-</div>
 <p>…[the secrets] of wisdom, nor does nature help, when they have not been able to understand this most secret art of our invention—[this] is not to be imputed to us, but rather they will understand it is to be ascribed to their own sloth, laziness, and malice: namely those who, having their wit immersed in the pleasures of the flesh and worldly cares, cannot with diligence be at leisure to survey these things; or who, deeming themselves already wise or most learned, despise our compositions as unworthy of their reading. There will be also some so accustomed to rest in old and alien traditions that they deem whatever they have not learned in them either impossible or superstitious. Nothing is more inept for the knowledge of this profound art than these, who either will not or cannot contemplate its loftiest [matters]. But those who are both apt and willing to study in this art (if any there shall be)—that they may be able to make progress—we have determined to admonish in a few [words] at the end of this book. First of all they are to be admonished that they always keep the art itself hidden, lest it penetrate the hand and notice of the wicked, who would do many and execrable crimes through it. For although the art itself is truly good in itself, yet its practice would conduce no less to evil through the impious than to good through the good. Let the secret therefore remain among the good, which, published among the wicked, would do harm. Nor, however, ought the good to despise this knowledge because it profits the wicked unto evil; just as he who lays a man low does not spurn the sword. Then the studious of this art are to be admonished not to presume to proceed to operating in it, unless first they have been perfectly instructed in all [things] which are required for the practical science. For it does not escape me to how great dangers they subject the matter who, less skilled, have at any time attempted to operate something in it.
 Likewise, whoever, well instructed in this science, shall wish to operate through it, let him remember to observe diligently (according to those [things] which we have said, as much in the circle as in the individual tables and chapters) the difference, the places, names, orders, and offices of the supreme Spirits, their dukes also, and how many counts there are in number; which order let him obser[ve]…</p></div>
 <div class="pp-n" id="seg-54" data-segment="54"><a href="#seg-54">54</a></div>
-  <div class="pp-latin" lang="la" data-segment="54">obseruent, &amp; quot praesint substitutis: vt nouerit haec in coniura tione exprimere.Nisi enim omnia ista diligenter custodierit ar- tis operator, non poterit proficere, nec ad intentionis suę effe- ctum peruenire.Rursus diligenter attendat, quando vnusquif- que ad quae officia siue arcana spiritus sit vocan- dus, ad quam orbis plagam habitet:ne erret vel in locis, vel in omnibus singulorum aliquorumque, quos vocare voluerit.
+  <div class="pp-latin" lang="la" data-segment="54" data-pagefind-body><span id="latin-seg-54"></span>obseruent, &amp; quot praesint substitutis: vt nouerit haec in coniura tione exprimere.Nisi enim omnia ista diligenter custodierit ar- tis operator, non poterit proficere, nec ad intentionis suę effe- ctum peruenire.Rursus diligenter attendat, quando vnusquif- que ad quae officia siue arcana spiritus sit vocan- dus, ad quam orbis plagam habitet:ne erret vel in locis, vel in omnibus singulorum aliquorumque, quos vocare voluerit.
 Item fit auifatus omnis in hac scientia operaturus, vt atten dat diligentissime, vt coniurationum verba debite pronunciet, in quibus magna vis operationis nostrae confiftit:quoniam dum in coniurationibus error committitur:spiritus vocati vocan di non solum non obediunt, sed etiã omnino reluctantur.Con sequenter vero praemonitus fit, ne alterum vocet pro altero, fed vnum quemque in ordine, tempore officio suo : quemadmo dum à nobis pene in omnibus istius libri capitulis sufficienter eft dictum.Nam si vel ex errore, vel ex qualibet alia negligentia, alterum vocauerit pro altero: nihil in operatione sua profice ret,sed periculum sibi prouocaret.
 Item in coniurationibus spiritus, qui vocatur, cum suis subfitutis exprimatur ex nomine, causa vocationis antea sta tuatur in intentione:nec fiat operationis actus in rebus leuibus prophanis, quas alter alteri aliqùin sine periculo siue per li teras, siue per nuncios secure poterit intimare.Non enim nisi in magnis arduis nunciandis, quae publicata vel damnum vel pe riculumb inferrent operanti,hac arte vtendum est.Item necessa rium est omni operanti in hac arte seire naturas spirituum, quisint boni,qui mali,qui prompti beneuoli ad obedientiam,quiduri atque rebelles.Rursus, qui nocturnis operationibus prae sint, qui diurnis : quia nisi naturas spirituum antequam incipiapat operati nouerit:cum difficultate maxima proficiet: facile vertetur in stuporem.Item qui spiritus.vocati coram operante apparent visibiles:praemisso verbo arecano, committat duci sive comiti mentis suę secretum verbis appropriatis sub silentio:quia non eft opus ad spiritum loqui voce extensa fed v tatur
 
@@ -4475,7 +4482,7 @@ reliqua vero tanquam magicis artibus plena, &amp;amp; fidei nostrae con-</div>
 <p><em>Preface.</em></p>
 <p>In the preceding book, relying on the help of the highest God, we arranged in order, not without great labor, the thirty-one supreme spirits, emperors of our art, together with their dukes, counts, and servants necessary for us in operation. Although their ministries are abundantly sufficient for every operator for the announcement of all secrets, however secret, still, lest we seem to omit anything that can conduce to the perfection of this art, we have resolved to join a second book to the first. Since, moreover, by the tradition of certain wise men, individual spirits have been assigned to the individual hours of day and night for various operations and diverse and wondrous effects, it has pleased us to imitate only their order, not their superstition, so that, without injury to the Christian name, we may take from them what conduces to our purpose; but the rest, as being full of magical arts and contrary to our faith,</p></div>
 <div class="pp-n" id="seg-55" data-segment="55"><a href="#seg-55">55</a></div>
-  <div class="pp-latin" lang="la" data-segment="55">PRAEFATIO.
+  <div class="pp-latin" lang="la" data-segment="55" data-pagefind-body><span id="latin-seg-55"></span>PRAEFATIO.
 traria ssternendo transeamus. Singulis itaque horis tam diurnis quam nocturnis deputatos per secretum Salomonis, cognominati Hermetis, in suo de Magia volumine Spiritus principales tanquam artis supremos imperatores cum caeteris officialibus, nobis ad opera- tionem propositam necessarius, assumentes prosequemur: dabimusque &amp;; modum &amp;; doctrinam omnibus in hac arte studiosis, quibus mentium suarum conceptum secretum &amp;; arcanum qualibet hora tutiori consilio patefaciant amicis. Quilibet namque princeps suis Spiritibus, ducibus, comitibus &amp;; seruitoribus tanquam speculator praefidet: ad cuius praeceptum vocati à nobis legitimo carmine veni- unt: arcana commissa perferunt, &amp;; se nobis obedientes promptofque in omnibus ostendunt. Sed cum denuo Spirituiꝰ mentionem sim habiturus, rursus mihi reor esse praefandum: Nihil in hac arte nostra haberi friuolum: nihil Euangelica traditioni aut Catholicae fidei contrarium: nihil omnino tradi superstitiosum. Omnia enim, que vel inpraecedente volumine diximus, vel in sequentibus dicturi sumus, naturalibus, licitis &amp;; honestis sunt subnixa principijs: solisque peregrinis institutionibus velatum mysterium, &amp;; verba nominibus inuoluta spirituum, lectorem requirunt eruditum. Vtimur enim ministerio Spiritus ad velandum secretum, quod noceret reprobis publi- catum. Et ne quis in horarum supputatione ex errore deficiat:: horas planetarum tam in die, quam in nocte, nos accepiffe noscat.
 CAP.
 
@@ -4526,7 +4533,7 @@ Darofiel Chremas 10 100 1000 10 20
 Monasiel Meresyn 10 100 1000 20 10
 Habe-</p></div>
 <div class="pp-n" id="seg-56" data-segment="56"><a href="#seg-56">56</a></div>
-  <div class="pp-latin" lang="la" data-segment="56">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="56" data-pagefind-body><span id="latin-seg-56"></span>LIBER SECVNDVS.
 Habemus iam ex ducibus magni Samaelis 4. &amp;amp; ex comitibus totidem, ex seruitoribus ex triplici ordine 4440. quorum mini-sterium ad omnem operationem artis Steganographiae, quo ad primam horam diei, copiose nobis sufficit.
 Cum itaque in prima hora operari in arte volueris, cha-racterem domini ascendentis scribe in schedulam primo, deinde lunae: postea reliquorum planetarum omnium secundum ordinem consuetum, &amp;amp; in fine characterem signi eadem hora a-scendentis. Cumque hoc compleueris, scribe in dorso eiusdem schedulae istam coniurationem cum silentio, tacens:
 Coniuratio.
@@ -4580,7 +4587,7 @@ CAP.</div>
 <p>When you have received the letters, let the person to whom they are sent, skilled in the art, first set forth those things that must be set forth from the general instruction of the art, and let him say the prescribed conjuration in that manner and rite in which we have said above that it was written on the slip, with the character of the lord of the ascendant and the other things expressed. But as soon as he has completed the conjuration, he will see the spirit present; when he has seen him, let him say fearlessly: + penador auenal + folmeniel phanu + fauear caschanti hernoty maduran. Amen. When these words have been said, let him be silent, and he will see the spirit approaching him and reporting the entrusted secret secretly and securely into his ear. Let him listen to him thus without fear and with great diligence, so that if anyone is sitting around him, he may not indicate by nod or word that the spirit is present.</p>
 <p><em>Chapter [unclear]</em></p></div>
 <div class="pp-n" id="seg-57" data-segment="57"><a href="#seg-57">57</a></div>
-  <div class="pp-latin" lang="la" data-segment="57">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="57" data-pagefind-body><span id="latin-seg-57"></span>LIBER SECVNDVS.
 CAP. II.
 HORA SECVNDA DIEI VOCATVR CE-
 uorym. Cuius princeps et supremus spiritus est Anael, qui habet
@@ -4664,7 +4671,7 @@ Chardiel Elmeym Granyel 10 100 G. n.</p>
 <p>Johannes Trithemius, abbot of Sponheim, to Wilhelm Veldicus, canon of Saint Augustine in the valley of Franconia, his fellow philosopher, greetings.</p>
 <p>I would rejoice to answer your letter, so may Christ make me rejoice, and I would send the volumes requested, if at last I had them. For I have been zealous with a good zeal, such as the most ancient philosophers had, for the greatest and weightiest hidden treatises of nature. Moreover, I owe you truly immortal thanks, my sweetest brother, who have kept the bond of mutual exchange unbroken. For this fami-</p></div>
 <div class="pp-n" id="seg-58" data-segment="58"><a href="#seg-58">58</a></div>
-  <div class="pp-latin" lang="la" data-segment="58">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="58" data-pagefind-body><span id="latin-seg-58"></span>LIBER SECVNDVS.
 familiari negocio, quod graui modestia diligẽtißime procurasse videris, plana cognoui:quod factum laudo: gratiasque habeo nunquam moriuras. Itaque
 morem gerere tuis petitionibus maxime cuperem, sipostulata (nouit Chri-
 stus haberem. Ficiati varias translationes nuper vidi latinas: Pici Mi-
@@ -4744,7 +4751,7 @@ Mursiel Parniel Seruiel 20 20 200 200
 Zoesiel Comadiel Furiel 20 20 00 200</p>
 <p>In this table we have named, from among the dukes, 4; from among the counts, 8; and from among their innumerable servants, 1730, who are sufficient for us for all operations of this art in the third hour of the day. Therefore, when you wish in this hour to call a spirit to carry some message to a friend, not a few [unclear], but at least two dukes, as many counts, together with their servants, should be called. But if</p></div>
 <div class="pp-n" id="seg-59" data-segment="59"><a href="#seg-59">59</a></div>
-  <div class="pp-latin" lang="la" data-segment="59">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="59" data-pagefind-body><span id="latin-seg-59"></span>LIBER SECVNDVS.
 103
 tem plures vel pauciores vocare volueris; poteris quidem, sed oportebit coniurationem habere ad imperatorem vniuersalem, sine cuius mandato non violant ordinem suum Spiritus. Itaque scribe in chartam nouam, characterem domini ascendentis, cae-terosque per ordinem planetarum, cum signo domus duodeci-mae, eo modo, quo institutio artis requirit. In dorso chartae scri-be istam Coniurationem.
 Coniuratio.
@@ -4805,7 +4812,7 @@ finitus</div>
 <p><em>Whose Hour Is Called Elechym: and the Supreme Spirit of the Hour Is Called Vathmiel, Who Has under His Command 10 Dukes, 100 Counts; There Is No Fixed Number of Servants, through Whom the Operation Is Performed in the Fourth Hour.</em></p>
 <p>The fourth hour of the day is called Elechym, whose supreme angel is called Vathmiel, who has under him deputies assigned to this art of Steganography: 10 most renowned dukes, and 100 counts; of servants an infinite [number]</p></div>
 <div class="pp-n" id="seg-60" data-segment="60"><a href="#seg-60">60</a></div>
-  <div class="pp-latin" lang="la" data-segment="60">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="60" data-pagefind-body><span id="latin-seg-60"></span>LIBER SECVNDVS.
 105
 finitus est numerus. Habentque officium nunciandi generali-
 ter omnia arcana: &amp; funt valde boni, beneuoli obedientes ad
@@ -4891,7 +4898,7 @@ Zardiel Diniel Hermiel 10 100 100</p>
 <p>Those matters which you proposed to me to be resolved, with Christ’s help, I have resolved. Whether well, you who proposed them shall pronounce judgment. I shall briefly report to you an astonishing event that took place. A certain brother recently reported to me, as did one friend, not the least, that a young man had been raised from the dead at the invocation of Christ, reporting wondrous and dreadful things among the lower regions, narrating the torments of wicked Christians, namely of those who by acting perversely crucified Christ; that they were especially guilty of this, that, forgetful of the benefit of most gracious redemption, they always showed themselves ungrateful to Christ; and that those suffer dreadful things who, known to be ungrateful for his benefits by not living well, and blinded by sin, neglected future joys while following the pleasures of the world. They, bitten by the negligence they had committed, cried out most bitterly: Deservedly we endure these things, we who were always ungrateful to the redeemer of the human race: Christians in name, heathens in deed. We wretches always sought earthly consolations; therefore we receive the due recompense of eternal damnation. Alas, most unhappy that we are: why did we offend Christ? Why did we despise the time granted to us? The raised young man reported to us many deep things, which I am utterly unable to write, especially being weighed down by serious business. And therefore, brother, let us zealously imitate the footsteps of Christ, always giving thanks to our most gentle Savior and asking that he forgive us the guilt we have committed. Farewell. 6 Kalends of April.</p>
 <p>When the person to whom the letters are sent, being skilled in the art, has received them, let him observe the lord of the ascendant of the same hour, the sign of the twelfth house; and let him write their characters, with the rest, on paper, together with the other things required for the operation; and afterwards let him say the above-mentioned conjuration, and, when the spirit has been seen, these words: Camerusin apoy-</p></div>
 <div class="pp-n" id="seg-61" data-segment="61"><a href="#seg-61">61</a></div>
-  <div class="pp-latin" lang="la" data-segment="61">[illegible]108 STEGANOGRAPHIAE
+  <div class="pp-latin" lang="la" data-segment="61" data-pagefind-body><span id="latin-seg-61"></span>[illegible]108 STEGANOGRAPHIAE
 ad omnem operationem praesentis horae sufficit. Cum itaque
 per aliquem ex praedictis operari ad Steganographiam in quin-
 ta hora dici volueris: scribe characterem domini ascendentis,
@@ -4932,7 +4939,7 @@ Fatne</div>
 <p>Johannes Trithemius, abbot of Sponheim, to the religious brother Nicolaus Basellius of Dürkheim, monk of Hirsau, greetings.</p>
 <p>You neglect holy obedience, good brother, and humility; you weaken the constitutions of Benedict. Through the report of all who successively come together, he has learned that you hate good zeal, despise the norm of religion and Catholic obedience, and are occupied with secular works and arts. Good brother, what are you doing? You disturb us and foolishly court double-tongued men; you love hatred, bitterness, quarrels, and contentions; you hate goodness; you are double-tongued, contentious, proud. Is it enough</p></div>
 <div class="pp-n" id="seg-62" data-segment="62"><a href="#seg-62">62</a></div>
-  <div class="pp-latin" lang="la" data-segment="62">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="62" data-pagefind-body><span id="latin-seg-62"></span>LIBER SECVNDVS.
 Fatue quid agis? Tempus adest ocyus secundum iustitiam corrigendi Zelose has negligentias tuas: zelumque amaritudinis flagellis humilitatū nisi accurras humiliter nobis infringere officio Zelare cogimur cōtra omnia, quae actitas fidei moribusque Catholicis seditiosa Vale ex Spanh. prid. Cal. April. Anno M.D.
 Cum literas acceperitis cui mittuntur in arte peritus: cognito charactere Sasquielis, praemissisque praemittendis ex more, dicat supra dictam coniurationem; &amp; statim Spiritus missus apparebit et se visibilem exhibebit. Quo viso, mox dicat ista verba Fabelmerusyn aueual vear cralti penafon. His dictus Spiritus auditis mox accedens reuelabit arcanum.
 CAP. VI.
@@ -4965,7 +4972,7 @@ O 3
 <p>Pemiel, Xamyon, Euadar: 10, 100, [unclear], 100</p>
 <p>O 3</p></div>
 <div class="pp-n" id="seg-63" data-segment="63"><a href="#seg-63">63</a></div>
-  <div class="pp-latin" lang="la" data-segment="63">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="63" data-pagefind-body><span id="latin-seg-63"></span>LIBER SECVNDVS.
 Cum has literas acceperit is cui mittuntur in arte peritus;
 praemissis praemittendis, dicat coniurationem: &amp;; mox Spiritus
 missus apparebit, quem vt praesentem viderit, dicat haec verba.
@@ -5108,7 +5115,7 @@ debuif-</div>
 <p>Johannes Trithemius, Abbot of Sponheim, sends greetings to the brave soldier Heinrich von Bunau, his most devoted fellow philosopher.</p>
 <p>I had lent you my books on condition that they be returned, my very dear soldier Bunau; but behold, you have by no means returned those which you ought shortly to have sent back</p></div>
 <div class="pp-n" id="seg-64" data-segment="64"><a href="#seg-64">64</a></div>
-  <div class="pp-latin" lang="la" data-segment="64">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="64" data-pagefind-body><span id="latin-seg-64"></span>LIBER SECVNDVS.
 debuisses.Contra legem facis, quam si des Catholica de promißione sanctuit: non differas, quod promisisti, soluere cunctis : non decet bonum et honestũ virum, ortum parentibus maioribusque nobilibus, violare promißum. Pro- miseras autem breui diligentiffime restituere. Leuitatis est quasi ad Calen-
 das Graecas promißionem differre. Nonne satis exspectaui cum beneuolen-
 tia grandi? Maxima promittere turpifimum est minima reddenti. Mili-
@@ -5162,7 +5169,7 @@ Lantribotz, Thribiel, Ermiel: 10, 10, 100, 100.</p>
 <p><em>An Example of a Secret at Will.</em></p>
 <p>Let there be for us any secret whatever, which we wish a far-distant friend to know, and such that we do not wish it to come to anyone’s</p></div>
 <div class="pp-n" id="seg-65" data-segment="65"><a href="#seg-65">65</a></div>
-  <div class="pp-latin" lang="la" data-segment="65">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="65" data-pagefind-body><span id="latin-seg-65"></span>LIBER SECVNDVS.
 ius alterius notitiam; &amp; saepe contingere potest: Ne ergo vel ta-
 bellarius mysterium qualibet occasione reuelet, vel in manus
 peregrinas literae perueniant; operemur, per spiritum erimus
@@ -5247,7 +5254,7 @@ DamyeL Nefarym Zaznor 10 10 10 100
 Nadriel Zoymiel Ianediel 10 10 10 100
 Here</p></div>
 <div class="pp-n" id="seg-66" data-segment="66"><a href="#seg-66">66</a></div>
-  <div class="pp-latin" lang="la" data-segment="66">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="66" data-pagefind-body><span id="latin-seg-66"></span>LIBER SECVNDVS.
 Hic iam habemus nominatos duces 5.comites 10.numera-
 tos, ex seruis eius deputatis 650. qui nobis sufficient. Cum au-
 tē in nona hora diei per istos Spiritus operari volueris; obserua
@@ -5326,7 +5333,7 @@ Armo-</div>
 <p>The tenth hour of the day is called Lamarhon, and its supreme angel is called Oriel, a great and powerful emperor, who, according to Solomon the Jew, has under his rule many dukes and counts who, together with their attendants, are assigned to the operation of Steganography. In the first order there are 10, in the sixth 30, in the fourth 40, in the fifth 500, in the sixth 600, in the seventh 700, in the eighth 800, in the ninth 900, in the tenth 1000. But we, taking only 10 counts from the first five orders and only five dukes from the last, are content in our operations. If it pleases anyone to know the names of more, let him call one of those named in the table and question him; and he will hear whatever he wishes, and however many he wishes to know, he will know them perfectly from him.</p>
 <p>Armo-</p></div>
 <div class="pp-n" id="seg-67" data-segment="67"><a href="#seg-67">67</a></div>
-  <div class="pp-latin" lang="la" data-segment="67">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="67" data-pagefind-body><span id="latin-seg-67"></span>LIBER SECVNDVS.
 R. R. R. R.
 Armosy Lemur Xantros 10 10 100 100
 Drabiel Ormas Basilon 10 10 1oo 100
@@ -5410,7 +5417,7 @@ Choreb. Naueron Alfrael. 10 10 100 100</p>
 <p><em>Whose hour is called Maneloym, and its supreme emperor is said to be Bariel, who has under his dominion many princes, dukes, counts, and servants.</em></p>
 <p>The eleventh hour of the day is called Maneloym, and its angel, the supreme emperor, is called Bartel, who, as Hermes the Jew writes, [unclear], through whom wondrous things are done in the eleventh hour of the day, in various experiments. From these many have been assigned to the operation of Steganography according to their orders. In the first order there are 10, in the second 30, in the fourth 40, in the fifth 500, in</p></div>
 <div class="pp-n" id="seg-68" data-segment="68"><a href="#seg-68">68</a></div>
-  <div class="pp-latin" lang="la" data-segment="68">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="68" data-pagefind-body><span id="latin-seg-68"></span>LIBER SECVNDVS.
 500.in sexto 600. in septimo 700. in octauo 800. in nono 900.
 in decimo 1000. Hi omnes per vices &amp;; ordines suos in ministe-
 rium huius artis mittuntur: inter quos sint duces &amp;; comites
@@ -5496,7 +5503,7 @@ Lamiel Zemoel Lanfiel 10 10 100 100</p>
 <p>When the person skilled in the art to whom the letters are sent has received them, let him first attend to the character of the hour attached to the letters; when this has been recognized, let him work through the lord of the ascendant of the hour in which he received the letters, together with the other things prescribed in the art. Then let him add the prayer written above, in the manner and order in which it is proper, and immediately the spirits sent will appear. When you have seen them, these words are to be spoken to the chief one among them: chamerusin maslotiel vear reneas liernoty trismy penafon. When these words have been spoken to the spirit stronger than the others, who is easily recognized from his habit and crown and always precedes the others, he will immediately reveal the secret into the ear.</p>
 <p><em>Chap[unclear]</em></p></div>
 <div class="pp-n" id="seg-69" data-segment="69"><a href="#seg-69">69</a></div>
-  <div class="pp-latin" lang="la" data-segment="69">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="69" data-pagefind-body><span id="latin-seg-69"></span>LIBER SECVNDVS.
 123
 CAP. XII.
 CVIVS SPIRITVS MAGNVS IMPERATOR
@@ -5583,7 +5590,7 @@ Famaras, Sameron, Hamary, 10, 100, 10, 100</p>
 <p><em>Letters, formed at pleasure, we seal with the sign of the spirit.</em></p>
 <p>Everyone who glories in temporal things is by no means left to be called virtuous; and he who loves transitory things cannot be a lover of justice, since Catholic integrity detests a man gaping after desires. For the holy religion of the Christian faith forbids love of the world to its people, since he who loves worldly joys loses heavenly happiness. A Catholic who does not live as a Catholic is shown to have denied Christ; and he who loves temporal things is not called a good Catholic. He who loves the Creator seeks the joys of spiritual things. The lover of Christ [unclear] all the pleasures of the world</p></div>
 <div class="pp-n" id="seg-70" data-segment="70"><a href="#seg-70">70</a></div>
-  <div class="pp-latin" lang="la" data-segment="70">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="70" data-pagefind-body><span id="latin-seg-70"></span>LIBER SECVNDVS.
 125
 voluptates contemnit, nec curat gloriã, diuitiasque instabiles. Sed mundi amator odit virtutes: de futuris gaudijs nihil curat. Heuquid agitis Christiani, vanis rebus intenti? Cogitatis quae non sunt honesta, agiturique religioni contraria. Nolite misereri obsecro nolite huius mundi peritus mox varitates diligere. Curate potius Christum amare, quatenus nos recipiat ad coelestia regna.Ioan.Tritt.Abb.
 Cum hanc praescriptam oratiunculam aut quasi libet alias charactere Berathielis obfirmatas susceperit in arte peritus : faciat diligenter omnia quae praecipiuntur in arte; &amp; dicat coniurationem. Cumque Spiritus, qui sine mora venient, viderit esse praesentes:dicat ad potiorem, qui coronatus incedit : Famerusyn melyfno alny vemoby dreary drymes charfony.His dictis, propius accedet Spiritus, dicetque arcanum operanti in aurem fi deliter.Sed oportet eum esse constantem, neminem laedunt in arte bene institutum. Si quis autem imperitorum accedere praesumpserit,non euaderet periculum.
@@ -5646,7 +5653,7 @@ Lite-</div>
 <p>It will be a great secret and an arduous secret, which would do harm if made public; and for this reason it must be entrusted neither to letters nor to a notary, but must pass into the service of the spirits who preside over the hour in which you are working. It is not safe to summon spirits in trivial causes; but where human services fail, let theirs be sought in the art.</p>
 <p><em>Lette-</em></p></div>
 <div class="pp-n" id="seg-71" data-segment="71"><a href="#seg-71">71</a></div>
-  <div class="pp-latin" lang="la" data-segment="71">[illegible]128 STEGANOGRAPHIAE
+  <div class="pp-latin" lang="la" data-segment="71" data-pagefind-body><span id="latin-seg-71"></span>[illegible]128 STEGANOGRAPHIAE
 CAP. XIV.
 CVIVS HORA VOCATVR PANEZVR, ET
 angelus eius imperator supremus appellatur Tartys, qui ha-
@@ -5704,7 +5711,7 @@ Hic</div>
 <p>Praxiel, Granozyn, Xemyzin 100 10 100 10</p>
 <p>Here</p></div>
 <div class="pp-n" id="seg-72" data-segment="72"><a href="#seg-72">72</a></div>
-  <div class="pp-latin" lang="la" data-segment="72">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="72" data-pagefind-body><span id="latin-seg-72"></span>LIBER SECVNDVS.
 Hic habemus nominatos ex ducibus Tartys 6. ex comitibus 12.
 seruos quoque numeratos per vices &amp;; ordines distributos 1320.
 qui nobis ad experimentum artis hac in hora sufficiunt. Et nota
@@ -5777,7 +5784,7 @@ CAP.</div>
 <p>When the man to whom they are sent, skilled in our art, has received letters marked with the character of Tartys, let him observe the lord of the ascendant, and let him do, most diligently, each and every thing that must be done, and let him add the customary conjuration; and when he sees that the spirits sent are present, let him say these words to the principal one: Chabor maslotiel tuseuo reneas porean trismeny penarson. And when he has said these words with strong intention to the principal duke, immediately, approaching calmly, he will reveal the secret.</p>
 <p><em>Chapter</em></p></div>
 <div class="pp-n" id="seg-73" data-segment="73"><a href="#seg-73">73</a></div>
-  <div class="pp-latin" lang="la" data-segment="73">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="73" data-pagefind-body><span id="latin-seg-73"></span>LIBER SECVNDVS.
 CAP. XV.
 CVIVS HORA VOCATVR QVABRION,ET
 Angelus eius supremus appellatur Serquanich, habens sub Im-
@@ -5824,7 +5831,7 @@ Nestoroz Fronyzen Xanthyoiz 10 10 100 100</p>
 <p>Here now we have named twelve of the more powerful spirits of Serquanich, from whose order one, according to their turns, receives the dignity both of dukes and of counts. The remaining six never change their office, but are always dukes.</p>
 <p>But whoever wishes to know the names of more of them will easily [unclear] his purpose</p></div>
 <div class="pp-n" id="seg-74" data-segment="74"><a href="#seg-74">74</a></div>
-  <div class="pp-latin" lang="la" data-segment="74">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="74" data-pagefind-body><span id="latin-seg-74"></span>LIBER SECVNDVS.
 praehendere volens, dixit, fulgentißimam virginem reatu originalis noxae (contra catholicam obseruantiam vanißima temeritate) extirrisse macula-
 tam.Temerarium est, beatißimam virginem velle deturpare. Colonienses autem nominatißimi doctores, volentes infani fraterculi opinionẽ verita-
 ti contrariam extirpare, citatum vanas cum fabulas suas renocare compu-
@@ -5908,7 +5915,7 @@ Rimezyn Iasphiel Enatriel 10 100 100 1000</p>
 <p><em>The Secret Is Made at Will.</em></p>
 <p>Whatever secret occurs to you at the time, which you wish an absent person to know in this fourth hour of the night, you can securely [unclear] by the spirits</p></div>
 <div class="pp-n" id="seg-75" data-segment="75"><a href="#seg-75">75</a></div>
-  <div class="pp-latin" lang="la" data-segment="75">cure committere:modo fit tale, quod nec per literas nec per nũ-
+  <div class="pp-latin" lang="la" data-segment="75" data-pagefind-body><span id="latin-seg-75"></span>cure committere:modo fit tale, quod nec per literas nec per nũ-
 cios illi tuto possis intimare. Ea enim,quae sine periculo vel per
 literas vel per nũcios intimare possumus, nequaquam intimare
 ministerio Spirituum debemus. Quicunque autẽ Spiritus ad-
@@ -5981,7 +5988,7 @@ Meniel</div>
 <p>The fifth hour of the night is called Sanayfar, whose first angel, the supreme emperor, is called Abasdarhon, who has under his dominion many princes, dukes, counts, and ministerials, by orders and twelve divisions, whom he is accustomed to send, like those of the former arts of experiments, to operators duly instructed. In the first order there are 10, in the second 20, in the third 30, in the fourth 40, in the fifth 50, in the sixth 60, in the seventh 70, in the eighth 80, in the ninth 90, in the tenth 100, in the eleventh 1000, in the twelfth 100000. And through these every operation of Steganography is performed in the fifth hour of the night.</p>
 <p>Meniel</p></div>
 <div class="pp-n" id="seg-76" data-segment="76"><a href="#seg-76">76</a></div>
-  <div class="pp-latin" lang="la" data-segment="76">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="76" data-pagefind-body><span id="latin-seg-76"></span>LIBER SECVNDVS.
 X. R. X. R. 137
 Meniel Gemarii Barmas 100 100 100
 Charaby Vanescor Platiel 100 100
@@ -6069,7 +6076,7 @@ Samelon Nameton Habalon 100 100</p>
 <p>The Catholic faith saves no one who despises the ardor of divine love. To believe and not to have zeal for divine love is of no use at all for the redemption of the soul. Moreover, many people are now found who boast of the Catholic faith, but few have the works of the Christian faith; but idle faith dies. Many believe, but very few observe the commandments of God. Alas, the zeal of believers is weak; even unbelieving people can have a stronger zeal than this, and many do have it. Gentiles and people who do not believe that our savior, made man, is the son of the Almighty will be tormented by the punishments of hell. But all those who believe that the Son of God came into the world and became man through zeal for human redemption, yet do not adorn the Christian faith with holy works, and, always entangled in sins, prefer the honors of the world to eternal blessedness, zealously pursuing impious actions and staining the purity of faith with corrupt morals against obedience, will be tortured with heavier punishments. But the lovers of God, who have the right zeal of the Christian faith, prefer nothing to God, imitate Christ, flee sins, and despise the riches and honors of the world. Now therefore attend to these words, you who glory in faith: love God, and you will have the reward of blessedness, pursuing righteousness. If you love the vanities of the age against the honor of God, you will receive the prize of those who pursue iniquity: the horrors of hell. Written on the fifteenth day before the Kalends of May, in the year of the Lord 1500.</p>
 <p>When the person to whom they are sent, being skilled in the art, has received letters marked with the character of Abasdarhon, he should at once consider, observe, and write down the lord of the ascendant and the whole disposition of the heavens, together with the tenor of the conjuration and the other necessary things, on a clean sheet; and after the things that must be added have been added, and the conjuration said, when he shall have seen</p></div>
 <div class="pp-n" id="seg-77" data-segment="77"><a href="#seg-77">77</a></div>
-  <div class="pp-latin" lang="la" data-segment="77">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="77" data-pagefind-body><span id="latin-seg-77"></span>LIBER SECVNDVS.
 ric spiritus missos sibi astates, dicat ad potiorem ista verba: Cha-
 meron massotiel taseuj renean pornas thilmeuij penason. Qui-
 bus dictis, mox accedet propius, commissum sibi arcanum si-
@@ -6131,7 +6138,7 @@ Dramaz Zeziel Sarmon 100 102 10 10</p>
 <p>Johannes Trithemius, abbot of Sponheim, to Adam of Fulda, solitary doctor of the arts and of philosophy, greeting and charity.</p>
 <p>Remember your promise, which, when receiving the Catholic faith, you offered to Christ with a solemn vow. Eternal joy, which has been promised to all</p></div>
 <div class="pp-n" id="seg-78" data-segment="78"><a href="#seg-78">78</a></div>
-  <div class="pp-latin" lang="la" data-segment="78">bus an fordidis? Sine dubio promittitur temporales voluptates et gaudia praesentis vit ae intuitu aeternae quietis futurae contemnentibus, aeternumque Deum amantibus. Amatoribus Dei nouimus praemia optima esse promissa: sed amat oribus mundi, Christianisque reprobis Deus praeparauit amarißimas poenas inferni. Qui fidem habet; sed habere diuinum amorem negligit, infidelis est de fide quoque frustra presumit. Diuini Zelator amoris, qui Christianam fidẽ deuotis ac bonis operibus quotidie exornare non desinit: exercitans se humiliter in artibus pietatis. Vale .14. Cal. Mai. Anno Domin. incar. M D.
+  <div class="pp-latin" lang="la" data-segment="78" data-pagefind-body><span id="latin-seg-78"></span>bus an fordidis? Sine dubio promittitur temporales voluptates et gaudia praesentis vit ae intuitu aeternae quietis futurae contemnentibus, aeternumque Deum amantibus. Amatoribus Dei nouimus praemia optima esse promissa: sed amat oribus mundi, Christianisque reprobis Deus praeparauit amarißimas poenas inferni. Qui fidem habet; sed habere diuinum amorem negligit, infidelis est de fide quoque frustra presumit. Diuini Zelator amoris, qui Christianam fidẽ deuotis ac bonis operibus quotidie exornare non desinit: exercitans se humiliter in artibus pietatis. Vale .14. Cal. Mai. Anno Domin. incar. M D.
 Cum literas acceperit, charactere Spiritus horae consignatas, is cui mittuntur in arte peritus: observata in primis figura coeli, ipsis cum reliquis nec effarijs conscribat: ac deinde completis omnibus quae ad operationem pertinent, dictaque coniuratorne praescripta, cũ Spiritus apparuerit visibilis, dicat: Chamerusi ferion notiel aseuomy rean, badian, lasso fear veobry hastoripe son. His dictis, Spiritus reuelabit arcanum sibi commissum fideliter et secretissime operanti in aurem.
 CAP. XIX.
 CVIVS HORA VOCATVR VENAYDOR, ET angelus eius appellatur Mendrion, habens sub imperio principes, duces, comites &amp;; ministeriales pene innumerabiles.
@@ -6176,7 +6183,7 @@ Sameriel Pemoniel Machmag 10 100 100</p>
 <p>Mendrion suriaco breotnirus ersoy neuo, omear nycos lays ersota theory pornys Azam meam lasias astopenason. Then, when the subordinate ones have been subjected, and the conjuration has been spoken as is proper, immediately the Spirits called will appear to you, ready for all things.</p>
 <p>Arca-</p></div>
 <div class="pp-n" id="seg-79" data-segment="79"><a href="#seg-79">79</a></div>
-  <div class="pp-latin" lang="la" data-segment="79">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="79" data-pagefind-body><span id="latin-seg-79"></span>LIBER SECVNDVS.
 Arcanum fit qualecunque.
 143
 D E nunciando arcano prope vel procul absenti amico in hac
@@ -6270,7 +6277,7 @@ Lustifion IamedroZ Gamfiel 100 10[unclear] 1000 1[unclear]000</p>
 <p>The secret that we wish to learn from a friend far absent, if we trust neither letters nor couriers: let us entrust it in the eighth hour of the night to one of the more powerful spirits of Narcoriel, fearing absolutely nothing, since all are faithful and most ready for obedience.</p>
 <p>T Lite-</p></div>
 <div class="pp-n" id="seg-80" data-segment="80"><a href="#seg-80">80</a></div>
-  <div class="pp-latin" lang="la" data-segment="80">140
+  <div class="pp-latin" lang="la" data-segment="80" data-pagefind-body><span id="latin-seg-80"></span>140
 STEGOGRAPHIAE
 Literas formemus ad placitum.
 OBenignissime Iesu, gratias ago pietati tuae sanctiissimae, qui sanguine
@@ -6307,7 +6314,7 @@ CAP.</div>
 <p>When the person to whom letters, of whatever sort they may be, marked with the character of Narcoriel, have been sent receives them, being skilled in the art, let him observe the lord of the ascendant at that same hour, and write both it and the whole disposition of the heavens, with the rest, on a clean sheet; and when all necessary things have been added beneath according to custom, and the said conjuration has been spoken, when he sees that the spirits stand by him, let him say these words to the more powerful one: Medaro Castotiel va reneas thafny thyrmo thea penason. When these have been said according to the instruction of this art, immediately the chief spirit will come nearer and will disclose the secret word.</p>
 <p><em>Chapter [unclear]</em></p></div>
 <div class="pp-n" id="seg-81" data-segment="81"><a href="#seg-81">81</a></div>
-  <div class="pp-latin" lang="la" data-segment="81">LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="81" data-pagefind-body><span id="latin-seg-81"></span>LIBER SECVNDVS.
 CAP. XXI.
 CVIVS HORAVOCATVR ZESCHAR , ET
 spiritus eius appellatur Pamiel,multos sub se habens
@@ -6491,7 +6498,7 @@ X 2</div>
 <p>Here now we have 18 princes from the spirits of Pamiel, who in their turns are sometimes leaders, sometimes counts; anyone who does not know their ranks will labor in vain in this art. They have 1,320 ministers assigned to them by turns and moments of the hour, with whom they work marvelous effects. Therefore, when you wish to operate through them in Steganography in the ninth hour of the night, observe the lord of the ascendant of that same hour, or the whole figure of the heavens, and write everything on clean paper, and on the back of that little sheet this conjuration. [unclear] Conju[unclear]</p>
 <p>X 2</p></div>
 <div class="pp-n" id="seg-82" data-segment="82"><a href="#seg-82">82</a></div>
-  <div class="pp-latin" lang="la" data-segment="82">148 STEGANOGRAPHIAE Coniuratio.
+  <div class="pp-latin" lang="la" data-segment="82" data-pagefind-body><span id="latin-seg-82"></span>148 STEGANOGRAPHIAE Coniuratio.
 
 Amyel lyraz lasian mauelo breothis thirmoã ersoti layr por-
 nis theory moar azas, penafon. Deinde completis omnibus
@@ -6533,7 +6540,7 @@ Amyel lyraz lasian mauelo breothis thirmoã ersoti layr pornis theory moar azas,
 <p><em>Let the letters be formed at will.</em></p>
 <p>Wail, mortals, you who now laugh: by your very grave sins and horrible crimes you have in many ways most ungratefully spurned the kindness also of our glorious redeemer. Behold, the Turk, the deadly enemy of Christians, will move his army from Hungary; he will slaughter men like beasts. Savage, kindled with zeal for impiety as if with fire, he has crossed the Danube. Therefore mourn, most wretched ones, doomed to die in horrible slaughter; you will die in bitter zeal, because your crimes will seize you. You have despised the laws of God, your most gracious redeemer. Therefore you will be handed over to most cruel enemies, who will devour you like locusts. We have heard how cruelly the Turk invaded Hungary, Bohemia, and Poland; he destroyed very strong cities; women and virgins consecrated to God, holding chastity in zeal for holiness, he most shamefully violated, horribly slaughtering all Catholic men, raging everywhere like cruel beasts. His cruelty</p></div>
 <div class="pp-n" id="seg-83" data-segment="83"><a href="#seg-83">83</a></div>
-  <div class="pp-latin" lang="la" data-segment="83">850 STEGANOGRAPHIAE
+  <div class="pp-latin" lang="la" data-segment="83" data-pagefind-body><span id="latin-seg-83"></span>850 STEGANOGRAPHIAE
 R. R. R.
 Laperiel Chameray 30 10 100 100 300
 Emarziel Hazaniel 30 10 1oo 100 3o0
@@ -6600,7 +6607,7 @@ Nameroyz, Vraniel: 30, 10, 100, 100, 300</p>
 <p>[unclear]</p>
 <p>In the tenth hour of the night Aalacho is summoned, and the supreme emperor of its spirits is called Daddariel, having under his rule many very powerful princes and dukes, who preside over counts and</p></div>
 <div class="pp-n" id="seg-84" data-segment="84"><a href="#seg-84">84</a></div>
-  <div class="pp-latin" lang="la" data-segment="84">[illegible]LIBER SECVNDVS.
+  <div class="pp-latin" lang="la" data-segment="84" data-pagefind-body><span id="latin-seg-84"></span>[illegible]LIBER SECVNDVS.
 153
 R. R. R. R.
 Cardiel Masriel Nermas 10 20 00 20 10
@@ -6652,7 +6659,7 @@ Dardariel pirno nadeuym pornis melto, nachir pheon pliros euali estafri thyrmano
 <p>All the above-mentioned dukes and counts are good and faithful, doing harm to absolutely no one who loves God in truth. Therefore entrust to them whatever you wish to announce, according to the art, at the second hour of the night to a friend absent near or far, doubting nothing.</p>
 <p>V Ioan.</p></div>
 <div class="pp-n" id="seg-85" data-segment="85"><a href="#seg-85">85</a></div>
-  <div class="pp-latin" lang="la" data-segment="85">154 STEGANOGRAPHIAE Ioan. Trittem. Abb. Span. Cornelio Gyrardi Gaudensi, Canonico Diui Augusti prope Leidis, S.D.
+  <div class="pp-latin" lang="la" data-segment="85" data-pagefind-body><span id="latin-seg-85"></span>154 STEGANOGRAPHIAE Ioan. Trittem. Abb. Span. Cornelio Gyrardi Gaudensi, Canonico Diui Augusti prope Leidis, S.D.
 Dominus noster Iesus Christus, mitissimus animarum nostrarum sal-
 uator, promisit nobis faelicitatem aeternae consolationis, si mandata
 eius puro sermo charissime frater custodi man-
@@ -6726,7 +6733,7 @@ Emarion Damery Ladrotus 10 20 40 20 10
 Kabriel Namael Melanas 10 20 60 20 10</p>
 <p>Here now we have, from the good spirits of Sarandiel, 14 dukes and [unclear] counts</p></div>
 <div class="pp-n" id="seg-86" data-segment="86"><a href="#seg-86">86</a></div>
-  <div class="pp-latin" lang="la" data-segment="86">156 STEGANOGRAPHIAE comites 7.Cum multis seruitoribus eorum, qui nobis in duode-cima hora noctis ad omnem operationem sufficiunt. Cum itaque volueris operari per eos in vltima hora noctis:obserua et facomnia quae pręcepimus,diligẽter:&amp; postea dic coniurationem.Coniuratio.Sarandiel marfo porne ioniel schendiel iano Nati chilpresiosaschar meon prissi dyon volayr penason. Carmine dicto,statim spiritus vocati astabunt ad omnia parati.Constitutio nunciandi arcani.CVm videris spiritus in forma tibi astare peregrina : non ter-rearis, quia boni, beneuoli funt,neminem laedentes et mon-strosam formam , ne quem exterreant, quasi semper abscondunt,facie pulcherrima apparentes. Committe secure, quic-quid in hora noctis volueris scire amicum.Literae formentur,vt placet.OMiser homo,&amp; vere miserabilis,eur non attendis omnium tempora-lium instabilitatem?&amp; cur te non moriturũ breui cogitas? Memĩto,quod primus homo promeruit:quod mandatum violauit.Vtinã,sicut opta-uit Balaam,moriatur anima nostra iustorum morte, vt contemnentes vo-luptates pręsentes, &amp; vanos mundi honores,simus immaculati custodiẽtesnos ab omni peccato.Sed non curamus, quosque tandem horrendavin-cula mortis incidimus,cruciandi in perpetuum.Felicẽ illum existimo.qui-ista pręcogitat.Igitur ò homo proijce mundũ sicut fecit Dei filius:c̃y cogita,quanta ex eius amore mala nos sequantur.Multa enim periculo nobis ingeri:&amp; quoniam suis amatoribus est damnabilis,merito contemnitur. Veest dignus aterna morte amator mundi.Quid tibi prodest iste mundus;miserabilis homo?qui dum amatur,fugit:dū pręsens est,transit:dum exaltat,derecit: dum blanditur,decipit.dum floret,arescit : dū amatores suos emittit,ad perpetuas miserias transmittit.Anno M.D..2.Calend Maij.Acce-
+  <div class="pp-latin" lang="la" data-segment="86" data-pagefind-body><span id="latin-seg-86"></span>156 STEGANOGRAPHIAE comites 7.Cum multis seruitoribus eorum, qui nobis in duode-cima hora noctis ad omnem operationem sufficiunt. Cum itaque volueris operari per eos in vltima hora noctis:obserua et facomnia quae pręcepimus,diligẽter:&amp; postea dic coniurationem.Coniuratio.Sarandiel marfo porne ioniel schendiel iano Nati chilpresiosaschar meon prissi dyon volayr penason. Carmine dicto,statim spiritus vocati astabunt ad omnia parati.Constitutio nunciandi arcani.CVm videris spiritus in forma tibi astare peregrina : non ter-rearis, quia boni, beneuoli funt,neminem laedentes et mon-strosam formam , ne quem exterreant, quasi semper abscondunt,facie pulcherrima apparentes. Committe secure, quic-quid in hora noctis volueris scire amicum.Literae formentur,vt placet.OMiser homo,&amp; vere miserabilis,eur non attendis omnium tempora-lium instabilitatem?&amp; cur te non moriturũ breui cogitas? Memĩto,quod primus homo promeruit:quod mandatum violauit.Vtinã,sicut opta-uit Balaam,moriatur anima nostra iustorum morte, vt contemnentes vo-luptates pręsentes, &amp; vanos mundi honores,simus immaculati custodiẽtesnos ab omni peccato.Sed non curamus, quosque tandem horrendavin-cula mortis incidimus,cruciandi in perpetuum.Felicẽ illum existimo.qui-ista pręcogitat.Igitur ò homo proijce mundũ sicut fecit Dei filius:c̃y cogita,quanta ex eius amore mala nos sequantur.Multa enim periculo nobis ingeri:&amp; quoniam suis amatoribus est damnabilis,merito contemnitur. Veest dignus aterna morte amator mundi.Quid tibi prodest iste mundus;miserabilis homo?qui dum amatur,fugit:dū pręsens est,transit:dum exaltat,derecit: dum blanditur,decipit.dum floret,arescit : dū amatores suos emittit,ad perpetuas miserias transmittit.Anno M.D..2.Calend Maij.Acce-
 
 LIBER SECVNDVS.
 157
@@ -6777,7 +6784,7 @@ Gray Scale
 <p><em>In which we shall teach the general method and form of approaching this art of Steganography, and of operating in it without danger, with the greatest usefulness.</em></p>
 <p>Whoever desires to approach the knowledge of this hidden art of ours; whoever wishes to work wonders through it, and things useful to many amid dangers: first of all he must be adorned with virtues, and be of clean conscience and good will toward God, toward himself, and toward his neighbor, so that he is not inclined to harm anyone, nor seeks dealings of baseness. Then it is necessary that he be somewhat imbued with the good arts of letters, and especially with the science of the stars, so that he may know the general motions, courses, wanderings, changes, orders, natures, positions, risings, settings, and effects of the stars, signs, and planets; because without competent knowledge of these no one can have access to the depths of this art. Consequently it is necessary that he have a teacher perfect and experienced in the art, because we believe it possible to come to this science without a teacher only for a few, and for those most learned in many things, and especially skilled in magical matters. But the teacher must be not only proven and experienced in knowledge, but also faithful, upright, and fearing God; because the purer he has been in good conduct with God, the safer he will be in the operation of this science. For the spirits obey virtues. Therefore, when anyone is about to approach this art, let the teacher receive him and lead him into some secret and clean place. Let the time be tranquil and clear, and</p></div>
 <div class="pp-n" id="seg-87" data-segment="87"><a href="#seg-87">87</a></div>
-  <div class="pp-latin" lang="la" data-segment="87">158 STEGANOGRAPHIAE et amp; luna in oppositione completa, sole clare splendẽte: &amp;amp; fit Mer-
+  <div class="pp-latin" lang="la" data-segment="87" data-pagefind-body><span id="latin-seg-87"></span>158 STEGANOGRAPHIAE et amp; luna in oppositione completa, sole clare splendẽte: &amp;amp; fit Mer-
 curius in ascendente coniunctus Veneri aut Ioui, si fieri potest:
 sintq́; Saturnus remoti et amp; Mars: quia si ipsi aut alter eorũ fuerint
 cum ascendente, non erit institutio perfecta. In primis iurabit
@@ -6879,7 +6886,7 @@ Bios pailon rauemy sear astro penafon.</p>
 <p><em>Preface.</em></p>
 <p>After, with the aid of our Lord Jesus Christ, Savior of faithful souls, we had completed the first two books of our art, in which we described our Steganography as best we could, we must join this third book to them, and link more marvelous things to marvelous discoveries. I found in a certain book of a certain ancient philosopher, who was called Menaistor, that it is possible, by a certain art, for us to make known the conception of our mind to a friend, however absent he may be, without hours, without words, without books, and without a messenger, most perfectly, most broadly, and most secretly. And since I was driven very vehemently by a desire to know, I began to wish to test the truth of the statements; and after many labors at last I found that very science proven by experience. Very great is</p></div>
 <div class="pp-n" id="seg-88" data-segment="88"><a href="#seg-88">88</a></div>
-  <div class="pp-latin" lang="la" data-segment="88">PRAEFATIO.
+  <div class="pp-latin" lang="la" data-segment="88" data-pagefind-body><span id="latin-seg-88"></span>PRAEFATIO.
 165
 iusmodi artis secretum et amp; tantis obscuritatibus inuolutum, vt nul-
 li facile fit peruium. Menastor enim nimis obscure et amp; paucis verbis
@@ -7201,7 +7208,7 @@ Roth. Schw. R. S.</p>
 <p>These are the seven angels, according to the tradition of the ancient sages, each of whom guides the world for three hundred fifty-four years and four months in his order. Orifiel is the angel of Saturn, who from the beginning of creation governed the world for 354 years and 4 months. Afterwards Venus, then Jupiter, after him Mercury, and then Mars, afterwards the Moon, afterwards the Sun. Each is described as having held dominion over the world for 354 years and 4 months, with his angel written in the table common to him. And so the sages report that at the time of the flood Samael, the angel of Mars, served the authority of rule; Gabriel, however, the angel of the Moon, at the time of the confusion of tongues; Michael, the angel of the Sun, at the time of Israel's departure from Egypt. And indeed, if anyone gives credence to the aforesaid assertion, he will easily be able by himself, from the origin of the world down to his own age, to calculate the changes of times and the governance of the angels in the order prescribed. But we, pursuing those things that serve our purpose, do not doubt that under the seven aforesaid angels of the planets there are subject twenty-one other spirits, that is, three to each one, according to the instruction of this art of ours; through them we accomplish the effect of our intention. We shall observe the customary order of the planets, beginning from Saturn, the highest of all, down to the Moon, first writing down the operation of each principal angel, and then of those serving under them, and joining the chapters together in order.</p>
 <p><em>Chapter.</em></p></div>
 <div class="pp-n" id="seg-89" data-segment="89"><a href="#seg-89">89</a></div>
-  <div class="pp-latin" lang="la" data-segment="89">164
+  <div class="pp-latin" lang="la" data-segment="89" data-pagefind-body><span id="latin-seg-89"></span>164
 CAP. I.
 DE ORIFIELE, PRIMO ET SVPREMO ANGELO Saturni, &amp; de operationibus, quae fiunt per eum.
 SATVRNVS, planetarum omnium altior supre-
@@ -7347,7 +7354,7 @@ LIBERTIVS.
 <p>[table of numbers and unclear characters]</p>
 <p>The order of the letters written in black [unclear].</p></div>
 <div class="pp-n" id="seg-90" data-segment="90"><a href="#seg-90">90</a></div>
-  <div class="pp-latin" lang="la" data-segment="90">STEGANOGRAPHIAE.
+  <div class="pp-latin" lang="la" data-segment="90" data-pagefind-body><span id="latin-seg-90"></span>STEGANOGRAPHIAE.
 Medio motu Saturni in secundum diem, gradum et horam ex tabulis communibus cognito, diligenter inprimis obseruãdum scias, vtrum fit directus an retrogradus; purus, proprius, mixtus aut confusus. Hoc autẽ ex tabulis communibus non inuenies. Id circo praescriptam tabulam ordinauimus, in qua punctum principij motus eius finis poteris inuenire qualibet hora, diuisis gradibus fit nul intercurrentibus in particulis minutorũ. Ita videlicet ad quodlibet minutũ in duas, tres vel quatuor partes horarias secundum proportionem motus puri aut confusi, hoc est, aliorum planeta rum coniunctione separatione obseruata, diuidatur: im possibile est enim vel per stellas vel per Spiritus stellatum te pofle ad effectum huius artis perueneri, nisi motu punctuali cognitio diligentissime obseruato tuas operationes ad qualitates planetarum proprias noueris pręcise ordinare. Nam in diuerfis gradu bus, signis, diebus, horis, minutis, secundis, ter tijs quartis planeta rum effectus, quo ad hanc scientiam, diuer fimode variantur. In quolibet enim gradu 25. mutationes diuersas obseruauirmus inuenimus: vnde quemlibet gradum in totidem partes diuidere principales necessarium nobis videbatur. Ista autem diuisio non habet locum per omnes gradus, sed in illis duntaxat, in quibus stellę nobis ad hanc artem cõducentes oriuntur, cum qui bus fit operatio ad significandum absentibus omne, quod volum us, ministerio Spirituum fine literis, sicut dicemus. Itaque prima tabula diuisionis graduum motus Saturni, quam praemissimus, primae quartae diei vel noctis deseruit perpetuo in his, quae pertinet ad operationem Saturni principũ eius; secunda vero ad sectandas tres horas, tertia ad tertias, quarta ad quartas. Deinde subiecumus punctualem ordinẽ motus ipfius Saturni in ascendente, quando videlicet fuerit in vnox ex primis quatuor signis, cujus sunt Aries, Taurus, Gemini Cancer. De reliquis octo signis etiam tabulam ordinabimus confequen tem.
 Taba
 Kodak Gray Scale
@@ -7606,7 +7613,7 @@ K. 664 722 { 664 { 715 { R.</li>
 Ω</li>
 </ol></div>
 <div class="pp-n" id="seg-91" data-segment="91"><a href="#seg-91">91</a></div>
-  <div class="pp-latin pp-latin-only" lang="la" data-segment="91"><details class="pp-latin-only-details"><summary>Latin only &mdash; not translated</summary>
+  <div class="pp-latin pp-latin-only" lang="la" data-segment="91" data-pagefind-body><span id="latin-seg-91"></span><details class="pp-latin-only-details"><summary data-pagefind-ignore>Latin only &mdash; not translated</summary>
       <div class="pp-latin-body">LIBERTIVS.
 R.
 Motus planetarum purus.
@@ -7654,14 +7661,14 @@ S R.
     </details></div>
   <div class="pp-english pp-missing" data-segment="91"><span class="muted">[no translation available for this segment &mdash; see <a href="../methodology.html#latin-only-display-segments-in-the-parallel-viewer">Methodology</a>]</span></div>
 <div class="pp-n" id="seg-92" data-segment="92"><a href="#seg-92">92</a></div>
-  <div class="pp-latin" lang="la" data-segment="92">gradu Arietis puncto 641. οπ̄ &amp;amp; 69. totum Zodiacum in secunda tabula complexi sumus. Deinde in eadem secũda tabula motum Saturni in quolibet duodecim signorum ad omnes quartas diei et amp; noctis ita digessimus ad minutias, vt qualibet hora nobis gradu ascendentis, in quo fuerit Saturnus ipse, cognito, clare pate- scere possit radix ipsius punctualis, semel autem terminata calculatur alicuius quod nostra aetas nescio si vnquam pertingere possit, tabula denuo à capite sui principij incipienda est. In tertia tabula septenariam coniunctionem Saturni cum caeteris planetis, quae vnica est, ad proportionẽ reduximus: per quam o- mnes coniunctiones 120. facile ad punctum reducuntur. In ea- dem tabula purus motus planetarum omnium per punctualem principij cuiuslibet diuisionem, progressionem et amp; elongationẽ à puncto in quolibet motu cognoscitur, si medius motus antea perfecte habeatur. Nã sine cognitione medij motus impossibi- le est aliquem ad practicam huius scientiae posse accedere. Rur- sus etiamsi medium motum et amp; verum similiter perfectissime intellegas, nihil tibi ad huius scientiae cognitionem proderit, nisi praescriptas tres tabulas ad omnes punctos divisionũ in motibus planetatum à gradibus inaequalibus aequaliter sumptos per mi- nutias singulas ad integrum intelligas. Sed iam ad operationem procedamus.
+  <div class="pp-latin" lang="la" data-segment="92" data-pagefind-body><span id="latin-seg-92"></span>gradu Arietis puncto 641. οπ̄ &amp;amp; 69. totum Zodiacum in secunda tabula complexi sumus. Deinde in eadem secũda tabula motum Saturni in quolibet duodecim signorum ad omnes quartas diei et amp; noctis ita digessimus ad minutias, vt qualibet hora nobis gradu ascendentis, in quo fuerit Saturnus ipse, cognito, clare pate- scere possit radix ipsius punctualis, semel autem terminata calculatur alicuius quod nostra aetas nescio si vnquam pertingere possit, tabula denuo à capite sui principij incipienda est. In tertia tabula septenariam coniunctionem Saturni cum caeteris planetis, quae vnica est, ad proportionẽ reduximus: per quam o- mnes coniunctiones 120. facile ad punctum reducuntur. In ea- dem tabula purus motus planetarum omnium per punctualem principij cuiuslibet diuisionem, progressionem et amp; elongationẽ à puncto in quolibet motu cognoscitur, si medius motus antea perfecte habeatur. Nã sine cognitione medij motus impossibi- le est aliquem ad practicam huius scientiae posse accedere. Rur- sus etiamsi medium motum et amp; verum similiter perfectissime intellegas, nihil tibi ad huius scientiae cognitionem proderit, nisi praescriptas tres tabulas ad omnes punctos divisionũ in motibus planetatum à gradibus inaequalibus aequaliter sumptos per mi- nutias singulas ad integrum intelligas. Sed iam ad operationem procedamus.
 Cognitis autem omnibus, intellectisque perfecte his, quae di- ximus, &amp;amp; auxiliante Deo, dicturi sumus: cum volueris in hac pro- fundissima speculatione operari : in primis oportet te scire or- tum exaltationem et amp; occasum omnium stellarum octauae Sphae- rae, per quas fit operatio: &amp;amp; quantum quaelibet distet ab alia. Sunt autem Stellae, per quas operamur ad nunciãdum secretũ quod- cunque absenti siue verbis siue scriptis et amp; sine homine nuncio, septengentae numero, quarum nomina, loca, ortus, occasus, ele- uationes, distantias, accessus et amp; regressus in libro speciali descri- psimus, quos nimis studiosum esset hic denuo inferendo repe- tere. Itaque obseruata stellae in omnibus sicut oportet, &amp;amp; cogni- to puncto ascendentis in quo Saturnus eadem hora fuerit, si per ipsum fit operatio: diligentissime considera qualitatem motui- Y 3 psius
 
 [illegible]</div>
   <div class="pp-english" data-segment="92"><p>at the degree of Aries, point 641, [unclear] and 69, we have included the whole Zodiac in the second table. Then, in the same second table, we have arranged the motion of Saturn in any one of the twelve signs, for all the quarters of the day and night, down to the minutes, so that, at whatever hour, once the degree of the ascendant in which Saturn himself is has been known by us, the precise root of it may be able to appear clearly. But once the calculation of something has been completed, to which I do not know whether our age can ever attain, the table must be begun anew from the head of its beginning. In the third table we have reduced to proportion the sevenfold conjunction of Saturn with the other planets, which is unique; through it all 120 conjunctions are easily reduced to the point. In the same table the pure motion of all the planets is known through the punctual division of each beginning, progression, and elongation from the point in any motion, if the mean motion has first been perfectly obtained. For without knowledge of the mean motion it is impossible for anyone to be able to approach the practice of this science. Again, even if you understand the mean motion and likewise the true motion most perfectly, it will profit you nothing for knowledge of this science unless you understand fully the three prescribed tables for all the points of the divisions in the motions of the planets, taken equally from unequal degrees, minute by minute. But now let us proceed to the operation.</p>
 <p>When, however, all these things have been known, and those things which we have said, and, with God’s help, are going to say, have been perfectly understood, when you wish to work in this most profound speculation, first of all you must know the rising, elevation, and setting of all the stars of the eighth sphere, through which the operation is made, and how far each is distant from another. The stars through which we operate for announcing any secret whatever to an absent person, whether by words or by writings and without a human messenger, are seven hundred in number. Their names, places, risings, settings, elevations, distances, approaches, and recessions we have described in a special book; it would be too laborious to repeat them here again by inserting them. Therefore, when the star has been observed in all respects as is proper, and when the point of the ascendant in which Saturn was at that same hour has been known, if the operation is made through him, consider most diligently the quality of its motion</p></div>
 <div class="pp-n" id="seg-93" data-segment="93"><a href="#seg-93">93</a></div>
-  <div class="pp-latin" lang="la" data-segment="93">LIBERTIVS.
+  <div class="pp-latin" lang="la" data-segment="93" data-pagefind-body><span id="latin-seg-93"></span>LIBERTIVS.
 175
 rentiori ante te super mensam aut pulpitum. Et de coniuratio-
 nem ad Spiritum, per quem operaris, sibi appropriatam. Aut si
@@ -7773,7 +7780,7 @@ Jupiter
 .R+.</p>
 <p>His</p></div>
 <div class="pp-n" id="seg-94" data-segment="94"><a href="#seg-94">94</a></div>
-  <div class="pp-latin" lang="la" data-segment="94">LIBERTIVS.
+  <div class="pp-latin" lang="la" data-segment="94" data-pagefind-body><span id="latin-seg-94"></span>LIBERTIVS.
 His diligentissime consideratis, Orificelem Saturni constat esse separatum à Saturno 25 gradibus, &amp;amp; 15. minutis: est ad Orientem, à primo puncto motus Saturni 625. gradatio-nibus distans, à fine motus 25. minutis. His cognitis, fac imaginem ex cera, vel pingē in chartam nouam figuram Orifielis in modum viri barbati et amp; nudi, stantis super taurum varij coloris, habentis in dextra librum, &amp;amp; in sinistra calamũ quem dum facis, dic: Fiat haec imago magni Orifielis plena, perfecta et amp; apta nunciare mentis meae secretem N. filio N. amico meo secure, fideli-ter et amp; integre, Amen. Scribe in fronte nomen tuum cum encausto ex oleo rosarum temperato, &amp;amp; in pectore nomen amici tui abscentis diceens, Haec est imago N. filii N. cui per Angelum Saturni Orifielem nunciatur mentis meae conceptum, Amen. In fronte imaginis scribe Merion et amp; in pectore Troesda. Deinde coniunge ambas imagines simul, dicens: In nomine Patris et amp; Filij et amp; Spiritus sancti, Amen. Audi Orifiel princeps Stellae Saturni, &amp;amp; per virtutum omnipotentis Dei adiuro te, auscultate: pręcipio et amp; mando tibi per virtutem istius imaginis tuae, vt nuncios N. filio N. hanc intentionem meam (explicetur intentio) quantocy-us secure, secrete et amp; fideliter, nihil obmittens eorum, quae eum volo scire, &amp;amp; quae tibi commendaui. In nomine Patris et amp; Filijs et amp; Spiritus Sancti, Amen. Deinde inuolue ipsas imagines sic connectas simul panno loto cum aqua albi sine, &amp;amp; pone eas in vas mobile, quod appellant sapientes Indix pharnat alronda: &amp;amp; cooperi illud superius diligenter cum corio raso, ac pone in introitu alicuius habitationis claufra, vbicunque volueris, ad spaciũ 24. horarum: &amp;amp; sine omni hesitatione tuum desiderium intra illas 24. horas perfecte adimpletur: scietaque amicus tuo us absens intentionem in omni forma perfectissime, sicut eam super imaginem dixeristi (quantumcunq̃ prolixa fuerit) &amp;amp; quicquid illum ex te scire volueris, sciet in illis 24. horis perfecte et amp; secre-tissime: ita qđ nunquam in aeternum aliquis homo poterit hoc percipere aut scire sine voluntate tua aut amici tui. Et est magnum secretum, qđ nullus sapientum ante nos literis commendare ausus fuit. Amicus autem ille tuus siquid te scięt Z
 Kodak Gray Scale
 0 1 2 3 4
@@ -7815,7 +7822,7 @@ Have</div>
 <p>The second angel of Saturn is called Sadael, who is appointed first under Orifiel in order, and has the second part after his prince, both by day and by night, in the works and times of Saturn: that is, the fourth, fifth, and sixth unequal hours. Therefore, when in these three hours you wish to announce something to an absent friend within twenty-four hours, without letters, without words, and without a messenger, do it in all respects and by the sign which we stated in the preceding operation; and observe the point of the second motion of Saturn in its degrees toward the sign in which that planet itself is moved, and what the motion is like, and where the spirit moving the star is, how far it has receded, and how far it is elevated from the center of its motion, however far it is distant from any point of the whole circle or sphere. To attain knowledge of these things, this is the table.</p>
 <p><em>Have</em></p></div>
 <div class="pp-n" id="seg-95" data-segment="95"><a href="#seg-95">95</a></div>
-  <div class="pp-latin" lang="la" data-segment="95">LIBERTVS.
+  <div class="pp-latin" lang="la" data-segment="95" data-pagefind-body><span id="latin-seg-95"></span>LIBERTVS.
 R. S. R. S. R. S.
 Hora 54. hora 5. hora 6. hora 4. horas. hora 6.
 669 { } 660 | 634 } 673 } 658 } 660 ♀
@@ -8185,7 +8192,7 @@ hour 8. hour 7. hour 8.</p>
 <p><em>To the Most Serene Prince Lord Philipp, Count Palatine of the Rhine, Duke of Bavaria, Elector of the Empire.</em></p>
 <p><em>For sale at the shop of Johann Berner, bookseller of Frankfurt, in the year 1608. With privilege and the consent of the superiors.</em></p></div>
 <div class="pp-n" id="seg-96" data-segment="96"><a href="#seg-96">96</a></div>
-  <div class="pp-latin" lang="la" data-segment="96">PROEMIVM IO. TRITHEMII.
+  <div class="pp-latin" lang="la" data-segment="96" data-pagefind-body><span id="latin-seg-96"></span>PROEMIVM IO. TRITHEMII.
 ANtiquos Philosophos artis et amp;
 naturae, qui reperissent secreta
 ad prauorum hominum ne de-
@@ -8273,7 +8280,7 @@ uissimam verterentur. Nemo iam literis quan- A 3 tum-</div>
 <p>Nor, as I think, has this opinion altogether deceived me, since by the continual labor of reading I have learned many things that I did not know, and in various ways I have reserved an approach for my thoughts toward investigating greater secrets of things. Although, indeed, I am not of such great learning or industry that I would dare profess that I have grasped that secret method of the ancient sages which they used in concealing the majesty of philosophy, nevertheless I have devised certain methods, not to be despised, as it seems to me, of writing altogether secretly and without any suspicion, and of concealing whatever you wish. At the urging of the most serene prince, lord Philip, Count Palatine of the Rhine, Duke of Bavaria, and Prince-Elector of the Roman Empire, the wisest patron of philosophers, than whom no one seemed to me more worthy, I committed these methods to writing and gathered them into the following volume, not without enormous labor.</p>
 <p>But lest this great secret come to the ears of the unlearned or of wicked men, whoever you may be as reader, I warn, ask, and adjure you by the ineffable name of God, JEHOVAH, and by the blood of our Lord Jesus Christ, savior of faithful souls, that you disclose this science of writing to no one unworthy, immodest, carnal, or maliciously old, since through it many things could be done among men: adulteries, fornications, conspiracies, murders, and betrayals, if, which may it not happen, it were made known. For just as a good and honorable man, as often as it is necessary, can safely and without any suspicion from anyone make known and express the secret of his will to another person who knows the art, for private or common advantage, so a perverse man, immodest and blinded by carnal love, can signify to a consenting person of his desire, however shamelessly, foully, and lustfully, his evil desire, by honorable, modest, and holy words, determining the place, time, and manner of meeting, as broadly as he can, without any suspicion. Nor will there henceforth be any security among married people, while a woman can very easily understand the evil will of her lover from the best writings, with her husband looking on and praising the most holy words, without any suspicion of evil; and whatever you wish your mistress to know, however ignorant she may be of Latin words, she can send back in reply, with her husband marveling and, as is possible, carrying the message. Indeed, if this science were to come to the knowledge of the commonwealth, the whole order would be disturbed, public trust would perish, letters, documents, all writings, and the very conversations of men would be turned into the gravest suspicion. No one now by letters, however</p></div>
 <div class="pp-n" id="seg-97" data-segment="97"><a href="#seg-97">97</a></div>
-  <div class="pp-latin" lang="la" data-segment="97">tumcunque bonis, sanctis ac honestis deinceps
+  <div class="pp-latin" lang="la" data-segment="97" data-pagefind-body><span id="latin-seg-97"></span>tumcunque bonis, sanctis ac honestis deinceps
 crederet:nullus epistolis adhiberet fidem, quan-
 tum libet sancta pudica verba fuerint, semper
 dolus, fraus, in ore mala deceptio subesse pu-
@@ -8337,7 +8344,7 @@ Kodak Gray Scale
 <p>[unclear]</p>
 <p>Shining radiance of eternal blessedness, most excellent, King, governor and most mighty [unclear] of all who live virtuously, exalted and due refuge, virtue, unanimity, bond of all, joy of those who mourn, holy exultation of the sorrowful, strength of the weak, nourisher of the needy, and salvation of the afflicted, helper of the wretched, triumphator of the noble, administrator of graces, govern and rule the life of your servants, healing our infirmities, savior of all, glory of conquering souls, most brilliant light, refuge of the hungry, most kind lover of your servants, eternal rewarder of virtue, gentle glorifier of the souls serving you, [unclear] us, Lord, so that in morals</p></div>
 <div class="pp-n" id="seg-98" data-segment="98"><a href="#seg-98">98</a></div>
-  <div class="pp-latin" lang="la" data-segment="98">8 Claus Steganographiae
+  <div class="pp-latin" lang="la" data-segment="98" data-pagefind-body><span id="latin-seg-98"></span>8 Claus Steganographiae
 moribus bonis decorati iugiter exulistemus. Fortitudo vera nos fortifica, vt
 vitore sanctitatis efficiamur renocati. Adiunna nos Deus aeterne redemptor.
 libera amatores nominis tui, peccatum omnibus remitte, tentationes extin-
@@ -8424,7 +8431,7 @@ Kodak Gray Scale
 <p><em>Example of the Second Method</em></p>
 <p>[unclear] sweetest Jesus, extreme salvation of the blessed spirits, and [unclear] created, pardon, and hear the groans of the poor; mitigate our tribulation; renew what is old. Heal the diseases of vices; grant virtues; receive exiles; and absolve the guilty. Good Jesus, mercifully forgive any offenses of ours,</p></div>
 <div class="pp-n" id="seg-99" data-segment="99"><a href="#seg-99">99</a></div>
-  <div class="pp-latin" lang="la" data-segment="99">10 Clauis Stegographiae
+  <div class="pp-latin" lang="la" data-segment="99" data-pagefind-body><span id="latin-seg-99"></span>10 Clauis Stegographiae
 stros, quoniam grauiter peccanimus et seperelapse sumus: dulcissime salua-
 tor Jesu Christe saluã nos, benignus esto rogantibus Jesui, &amp; nos famulos
 tnos supplices conserna, homines sumus amanissime jesu, istitia normam,
@@ -8504,7 +8511,7 @@ B2 caelorum</div>
 <p><em>Example of the third method.</em></p>
 <p>O [unclear], we die, since all of us, mortal, together bring forth the guilt of general harm, and no one lives who will not die; we are all chosen for a short time. Baptism removes original sin [in natural things?]; daily penance must be performed. Death of the body remains before us, so that in humility we may fear God, who has rescued us from sinning; we have already lost [unclear], and by preserving [it] virtuously may live again in divine light. O Jesus, [unclear] from the heavens</p></div>
 <div class="pp-n" id="seg-100" data-segment="100"><a href="#seg-100">100</a></div>
-  <div class="pp-latin" lang="la" data-segment="100">[illegible]Ioannis Trithemij Abb.Spanh.
+  <div class="pp-latin" lang="la" data-segment="100" data-pagefind-body><span id="latin-seg-100"></span>[illegible]Ioannis Trithemij Abb.Spanh.
 duo sequenter valentes. Duo enim vacantes solum in fine verbi mysterij per duo pariter completi ponuntur, sicut patebit.
 Exemplum Quarti.
 
@@ -8550,7 +8557,7 @@ Kodak Gray Scale
 <p><em>Example of the Fifth.</em></p>
 <p>One who lives justly will attain happiness; no virtue will exalt elsewhere than humility alone, unless rashness shall condemn. If you seek happiness, hold fast the love of justice; and if you desire to attain true glory, always be a zealot of truth. Do not [unclear] falsehood; it corrupts chaste honesty, temperance,</p></div>
 <div class="pp-n" id="seg-101" data-segment="101"><a href="#seg-101">101</a></div>
-  <div class="pp-latin" lang="la" data-segment="101">14 Clauis Steganographiae
+  <div class="pp-latin" lang="la" data-segment="101" data-pagefind-body><span id="latin-seg-101"></span>14 Clauis Steganographiae
 rantiam dissoluit. Fuge vanitatem mundi, quoniam breuissima est. Amator
 osto teju Christi nostrî saluatoris clementissimi. Cole virtutes, vitia fage, in-
 nocentiam caue, &amp; in corde sanctum humilitatem custodi. Saluatorem ani-
@@ -8596,7 +8603,7 @@ Gray Scale
 <p><em>Sixth Example.</em></p>
 <p>The sum,</p></div>
 <div class="pp-n" id="seg-102" data-segment="102"><a href="#seg-102">102</a></div>
-  <div class="pp-latin" lang="la" data-segment="102">16 Claus Stegographiae omnes poterit multiplici di seritate variari pro ut unicumque industrio vi- sum fuerit pro sui secreti occultatione connenire, sed iam huius modi sequen-
+  <div class="pp-latin" lang="la" data-segment="102" data-pagefind-body><span id="latin-seg-102"></span>16 Claus Stegographiae omnes poterit multiplici di seritate variari pro ut unicumque industrio vi- sum fuerit pro sui secreti occultatione connenire, sed iam huius modi sequen-
 ter ponamus exemplum.
 Exemplum Septimum.
 
@@ -8636,7 +8643,7 @@ standen/</div>
 <p><em>The hidden tenor of the above.</em></p>
 <p>Dear faithful one, we have understood your business,</p></div>
 <div class="pp-n" id="seg-103" data-segment="103"><a href="#seg-103">103</a></div>
-  <div class="pp-latin" lang="la" data-segment="103">standen/ Heynd vmbꝰ.wart vnser gar stille / auff daß wir dem Feind fuͤrkommen/vnd sie niderlegen.
+  <div class="pp-latin" lang="la" data-segment="103" data-pagefind-body><span id="latin-seg-103"></span>standen/ Heynd vmbꝰ.wart vnser gar stille / auff daß wir dem Feind fuͤrkommen/vnd sie niderlegen.
 Modus octauus per tres vacantes totidem-
 que significatiuas dictiones alter-
 natim procedit.
@@ -8652,7 +8659,7 @@ Kodak Gray Scale 01</div>
 <p><em>Eighth example.</em></p>
 <p>O almighty, eternal God, most kindly rewarder of justice, who willed your Son to become a participant in our race, that he might redeem those long placed in most wretched perdition, overflowing with goodness alone, assuming our form incorrupt from the flower of the virginal womb, as the holy Archangel Gabriel made known; which Virgin, destined to conceive by the most blessed Spirit, was to remain a virgin forever, free from crime, more eminent than all men and angels, bore the almighty King, God and man: the most holy and most reverend Virgin Mary, wholly ignorant of male companionship, giving birth without pain, and always remaining such, most high and immaculate. Holy virgin Mother of Jesus Christ, created by the power of God, known everywhere to the humble, filled with love toward other men, existing most worthy of all praise, and always remaining a virgin, [unclear] of the most blessed angels, whom then the Son admits with most generous favor in all things she has asked; and he venerates her as his most reverend mother, more excellent than all creatures, he who has never been accustomed to deny anything to one asking, but at once consents to her most holy will, granting all things, at last through the merits of this advocate of the poor. Therefore, venerating the very renowned merits of the most noble Virgin Mary, Lord Emperor of the universe, we pray that you pour the light of truth into us, wipe away the stains of sins, and truly bestow grace, especially at every time upon those who seek you; remove temptations; grant us, who beseech you, the power of conquering; clothe us with your love, chastity</p></div>
 <div class="pp-n" id="seg-104" data-segment="104"><a href="#seg-104">104</a></div>
-  <div class="pp-latin" lang="la" data-segment="104">18 Claus Steganographiae.
+  <div class="pp-latin" lang="la" data-segment="104" data-pagefind-body><span id="latin-seg-104"></span>18 Claus Steganographiae.
 stitatem, obediensiam, temperantiam, benignitatem, abstinentiam, ceterasque virtutes omnium lacrymis deuota exerestationis nobis miser corditer largiaris. Amen.
 Tenor supradicti occultus.
 Bringer dieses Brieffs/ gibt sich grosser Kunst auß/ ich halte aber nicht viel darvon/ versucht jhn wol/ getrawet nicht. Ioh. Trith.
@@ -8691,7 +8698,7 @@ delices
 <p><em>The ninth example.</em></p>
 <p>Greeting and affection, most beloved and most singular friend, [bearer] of the present letters and more glorious, whom I ask you to receive humanely; he will set forth to you his necessity. Since I desire, as far as I can, to relieve here his old-time necessity and the defects pressing upon him, I should wish to be able to apply consolation to his misfortunes; but since, as is clearer than daylight to you, we are exhausted by heavy losses and, as is indicated, burdened by various debts, I am strongly confident in his zeal of piety, you who hold the force and bonds of friendship, that you would willingly show yourself humane to a friend, just as you have always been accustomed to be a helper of the needs of friends. And so I ask that you lend him, for a fixed term, two hundred florins, since he is placed in the greatest necessity, as he will inform you. I trust that you will restore all things with ready integrity after he has at last been moved by you. But if you do this, I give immortal thanks; act so that we may prove your sincere love toward us in the matter. What you do for him, I would have you know, is done for me; and I shall take care to give you immortal thanks for it. The friend himself, however, Eberhard, will restore it, namely</p></div>
 <div class="pp-n" id="seg-105" data-segment="105"><a href="#seg-105">105</a></div>
-  <div class="pp-latin" lang="la" data-segment="105">Ioannis Trithemij Abb.Spanh.
+  <div class="pp-latin" lang="la" data-segment="105" data-pagefind-body><span id="latin-seg-105"></span>Ioannis Trithemij Abb.Spanh.
 delicet mutuum. Soluet enim promissa in stabili stabilitate t. nere nec fal-
 dere nouit. Ceterum cum novos gaudeas audire rumores, dicam ibi miran-
 da. Canem enutriui qui vocatur Eris rusticorum inimicum, tanta eruditio-
@@ -8742,7 +8749,7 @@ genne</div>
 <p><em>Example of the eleventh method.</em></p>
 <p><em>S.D. I send you the oration that I delivered at the wedding of that same friend of mine: God, creator of all things, redeemer of the human race and best savior, consecrated even the use of marriage, lest the species itself perish. For we read that he also commanded marriage to the first man and said, Increase and multiply. He laid down the law for the preservation of humanity; and in the Gospel he deigned to sanctify weddings with miracles, those deserving well of God, preserving chastity. But it benefits men more who take up the modest zeal of their human state. Therefore you, who have taken up blessed wedlock according to our example and the command of the savior, who sometimes by miracles, but I by words, shall praise the institution of religion in honor of weddings. To you men, therefore, to whom we must announce weddings, and a great union of the young and religious [unclear]</em></p></div>
 <div class="pp-n" id="seg-106" data-segment="106"><a href="#seg-106">106</a></div>
-  <div class="pp-latin" lang="la" data-segment="106">Ioannis Trithemij Abb.Spanh.
+  <div class="pp-latin" lang="la" data-segment="106" data-pagefind-body><span id="latin-seg-106"></span>Ioannis Trithemij Abb.Spanh.
 genus quo humanum seruator : nisi enim vsus nuptiarum extitisset, ruissec-
 totum et periisses genus nostrum nullo opitulante, sed agite vos faecundas vt
 nuptias decoratis sint: venerandae moribus recte exemplis notabilibus, con-
@@ -8822,7 +8829,7 @@ primo pos</div>
 <p><em>Example XIII.</em></p>
 <p>S.D. The greatest glory of nobles is philosophy, making ignorance a disgrace and the cause of all evils. For what is more beautiful than that men are found to have acted by letters and virtues, not only to attack barbarians with arms but also with learning, and, reporting the memory of their deeds, entrusted it to posterity? Yet, stirred by their example, you do not cease to unfold letters of humanity and the good arts, strenuous in arms, in study, thus all the ancients</p></div>
 <div class="pp-n" id="seg-107" data-segment="107"><a href="#seg-107">107</a></div>
-  <div class="pp-latin" lang="la" data-segment="107">Ioannis Trithemij Abb.Spanh.
+  <div class="pp-latin" lang="la" data-segment="107" data-pagefind-body><span id="latin-seg-107"></span>Ioannis Trithemij Abb.Spanh.
 principes sapientissime consueuere opes non thesauris seruandas includere. Sed in vsum literarum conferre honestissimum ad foelicitatem tendentibus iter existimanta beneficium litterarum, quo efficitur Respubl immortalis. Enim- netero scientia scripturarum ex istrinis viuis sepulturae dicitur. Ignominiosam calamitatem hominibus adfert, bestisq́; similes facit, vera nobilitas animum eruditione et virtutibus splendidum facere et consueuit. Infinitus est fructus litera-rum, qui gloriam et sanctitatem animis nostris comparat in caelis seque im-mortalem terrigenis ostendit. Adde quod amor scripturae, cum carnis incendia, noxia spiritui, extinguit, sola scientia veteribus illis philosophis memoriam optimam nominisque, immortalitatem contulit apud omnem posteritatem, conclusus semper hominibus venerandam. Maioribus quoque studi- um philosophia reddit gloriosos et splendidos tranquillitatę amatores, justos, mansuetos passionum animi victores, luxus turpitudiniq́; fortiffimos contemptores, facilis his ad Deum conscensus, sancta exercitia honestatis exemplar, omniunque, virtuti norma, splendescit in contemplatione coelestiū ducleiter eleuatum. Diuinariū illustrationē consequuntur honorem Deo chāri, hominibus reuerendi. Hec imitare, literis incumbas, foelicitatem vise operationibꝰ rectis confirma. Vale. Ioh. Trith. Abb. scripsi.
 Tenor supradicti occultus.
 Die von Nürnberg haben Kundschaffer auff dich außgesandt/in mancher gestalt/sich dich vor/ꝛc.
@@ -8875,7 +8882,7 @@ intelle-</div>
 <p><em>Example XV.</em></p>
 <p>Most illustrious Prince, with humble subjection, greeting. Princes must rightly be instructed in good disciplines and with virtues and learning, and should justly hold and knowingly govern the commonwealth. For the most glorious authority of leaders is to apply themselves at once to arms and letters: to destroy the enemy in war, and by the arts of letters to adorn the mind, and to rule with courage and wisdom together. God, the most excellent illuminator of all hearts, has bestowed noble knowledge upon us, which I shall, to the best of my powers, care for by your grace. For it has a distinguished, bright ministry of understa-</p></div>
 <div class="pp-n" id="seg-108" data-segment="108"><a href="#seg-108">108</a></div>
-  <div class="pp-latin" lang="la" data-segment="108">Ioannis Trithemij Abb. Spanh.
+  <div class="pp-latin" lang="la" data-segment="108" data-pagefind-body><span id="latin-seg-108"></span>Ioannis Trithemij Abb. Spanh.
 25
 intellectum cuncta hominibus merito occultandum videlicet, ne male v-
 tendo subuertantur bene intelligitis secretum diuina artis satis beneuoles
@@ -8963,7 +8970,7 @@ Christia-</div>
 <p><em>Example XVII.</em></p>
 <p>The majesty of the catholic [faith?], firmer than all things by holy deeds, has promised, with Christ’s favor, the happiness of eternal life to faithful men who hold the catholic faith. Christ, the more glorious almighty, bestows future life; no one of wicked works will have blessed life. A faithful man follows Christ by holding to virtue; he is declared by good works, and the catholic name of Christia-</p></div>
 <div class="pp-n" id="seg-109" data-segment="109"><a href="#seg-109">109</a></div>
-  <div class="pp-latin" lang="la" data-segment="109">[illegible]28.
+  <div class="pp-latin" lang="la" data-segment="109" data-pagefind-body><span id="latin-seg-109"></span>[illegible]28.
 Clauis Steganographiae
 Tenor supradicti occultus
 Peter Kleipfeyel bringer dieses Brieffs/ ist ein böser-
@@ -9006,12 +9013,12 @@ Modus 19: you premise one vacant [letter], to which it always subjoins two signi
 Modus 20: after two idle [letters] placed at the beginning, set always two significant [letters] with the letters transposed, in the same manner we said—namely, that for each [letter] the next immediately following be taken; but the empty words in the narration do not transpose a letter, as is said above—at least, if you wish; and of this [modus] too, in turn, let us set down the following example.</p>
 <p><em>Example XX.</em></p></div>
 <div class="pp-n" id="seg-110" data-segment="110"><a href="#seg-110">110</a></div>
-  <div class="pp-latin pp-latin-only" lang="la" data-segment="110"><details class="pp-latin-only-details"><summary>Latin only &mdash; not translated</summary>
+  <div class="pp-latin pp-latin-only" lang="la" data-segment="110" data-pagefind-body><span id="latin-seg-110"></span><details class="pp-latin-only-details"><summary data-pagefind-ignore>Latin only &mdash; not translated</summary>
       <div class="pp-latin-body">[illegible]</div>
     </details></div>
   <div class="pp-english pp-missing" data-segment="110"><span class="muted">[no translation available for this segment &mdash; see <a href="../methodology.html#latin-only-display-segments-in-the-parallel-viewer">Methodology</a>]</span></div>
 <div class="pp-n" id="seg-111" data-segment="111"><a href="#seg-111">111</a></div>
-  <div class="pp-latin" lang="la" data-segment="111">30 Clauis Steganographiae Modus XXI. Alternatis dictionibus significatiuis literis in secundum transpositis vtitur.
+  <div class="pp-latin" lang="la" data-segment="111" data-pagefind-body><span id="latin-seg-111"></span>30 Clauis Steganographiae Modus XXI. Alternatis dictionibus significatiuis literis in secundum transpositis vtitur.
 
 Modui 21. alternis dictionibus utitur, quarũ prima est vacua, secunda vero significativa tertiũ iterum vacua, quartanequaque ociosa; &amp;amp; sic consequenter vsque ad finem proposita narrationis, littere in- distionem significa tinam prime omnes sunt. in secundam consequentem transposite, ita vt pro litera A, accipiatur c. pro o, accipiatur e. &amp;amp; sic confequenter vsque, ad finem alphabeti, porro pro x, capiatur a, pro z verò b. Groeca autem y, nobie ad vulgare nomen non est necessaria,ideoquein omnibus alphabetis sequentibus obmitienda, sed iam huiusmodi ponamus exemplum.
 
@@ -9083,7 +9090,7 @@ n a x ss z c.</p>
 <p><em>Example XXII.</em></p>
 <p>S D. Since I have known you to be a lover of the arts of humanity and of the devoted, and a cultivator of the Christian faith and the most benevolent patron of all philosophers, willingly, led by the wonderful pleasure of friendship, to oblige your requests, from books well known about ecclesiastical writers and catholic doctors, [unclear] for you to be exhorted, behold, I send it, so that you may have something with which to offend the mind. May you send back to me the codex from torments into books of foolishness concerning spirits, and the glorious work of [unclear] coming, which you have shuddered at in questions. I beseech Christ to adorn the eyes of our heart with the most holy zeal of his love, and to make us, freed from love of heavenly goods and from lowest desires, [unclear] to despise vain honors, so that in turn the lofty and also great secrets of the art may penetrate</p></div>
 <div class="pp-n" id="seg-112" data-segment="112"><a href="#seg-112">112</a></div>
-  <div class="pp-latin" lang="la" data-segment="112">32 Clauis Stegographiae
+  <div class="pp-latin" lang="la" data-segment="112" data-pagefind-body><span id="latin-seg-112"></span>32 Clauis Stegographiae
 penetrare queamus huiusque continuum ad gloriam desiderium purificato
 officij quo catholicam fidem semper honestissimis exornemus moribus vir-
 tute humilitatis quotidie meliores descripici amus caduca non
@@ -9152,7 +9159,7 @@ Kodak Gray Scale 0 1 2 3 4</div>
 <p><em>Example XXIV.</em></p>
 <p>S. D. Setting the honor of benefactions before attentive services, and not provoking the insults of benefactors, remember, I beseech you, the holy charity of your brothers, the good zeal and honor of those brothers of yours who continually adorn our Catholic religion with holy works. But I pray, kind brother, that I may cast away fear. Double-tongued brothers, the hatred of being loved, quarrels, and disputes take goodness away by evil works. Be splendid every day to the good also; aspire also to fame; adorn the soul with holiness, justice, continence; and have zeal for the name [unclear].</p></div>
 <div class="pp-n" id="seg-113" data-segment="113"><a href="#seg-113">113</a></div>
-  <div class="pp-latin" lang="la" data-segment="113">34 Clavis Steganographiae
+  <div class="pp-latin" lang="la" data-segment="113" data-pagefind-body><span id="latin-seg-113"></span>34 Clavis Steganographiae
 nominis tui: Zelato amicorum fratrumque honestissimum nomen optimum
 haustia, nonen iustis operibus Ze&#39;ari castitas corporis ornata quoque cum
 fieri moribuc catholici solet. Vale.
@@ -9243,7 +9250,7 @@ E a mus</div>
 L.q.k.p.n.e.b.m.t.m.m.b.b.q.c.d.u.x.s.i.l.x.c.p.w.q.d.e.n.l.e.c.g.s.l.q.k.p. s.m.b.n.h.b.m.v.i.</p>
 <p>When you wish to write in this mode the letters of empty words, as I have said—</p></div>
 <div class="pp-n" id="seg-114" data-segment="114"><a href="#seg-114">114</a></div>
-  <div class="pp-latin" lang="la" data-segment="114">36 Clavis Steganographiae
+  <div class="pp-latin" lang="la" data-segment="114" data-pagefind-body><span id="latin-seg-114"></span>36 Clavis Steganographiae
 mus interpone ab vna vacante semper incipiens cui mox primam significati-
 uarum dictionum literam coniunges, quemadmodum nos in secundo exemplo
 fecisse probabis.
@@ -9308,7 +9315,7 @@ Kodak Gray Scale</div>
 <p>S.D. A rumor has gone out concerning the abbot of Limburg, that he has dismissed the brother of [Fleisderfensem?], a faithful man and experienced in temporal affairs, and has introduced new monks, lacking resources and assigning themselves to that office. I am greatly astonished at the counsels of the brothers; nevertheless, when I recall the custom of the Limburgers, I do not know what to say. For they are ignorant of temporal affairs, and therefore they dismissed a most faithful man when their saint reproved them. They ought to have said thanks to our Savior Jesus Christ for the faithfulness of so great a brother, who could have recovered their necessities. Wretched men, why do you reject a good and necessary administrator? What shall I say? I do not praise the departure of so useful a brother, most skilled in temporal affairs; he would have aided the Limburgers most quickly, which I deeply grieve, that the Limburg monks have been so foolish: they dismissed an excellent man and appointed as stewards monks worth absolutely nothing in temporal affairs. Abbot Macharius, it did not befit a man to act thus: at first you praised him, now you drive away a far better man, to be placed after no one. For I confess that if Christ had given him to me, I would give him the greatest thanks, as befits a Christian, and would see to it that he did not depart, [unclear] Christ. You preferred, having lingered, to dismiss a faithful man, worn out by the depravity of false men, lest I should seem, your affairs having been abandoned, [unclear] hope of recovering. Farewell. From Sponheim. Nones of January, in the year of the Lord 1499. Johannes Trithemius, Abbot.</p>
 <p>E3 Method</p></div>
 <div class="pp-n" id="seg-115" data-segment="115"><a href="#seg-115">115</a></div>
-  <div class="pp-latin" lang="la" data-segment="115">38 Clauis Steganographiae
+  <div class="pp-latin" lang="la" data-segment="115" data-pagefind-body><span id="latin-seg-115"></span>38 Clauis Steganographiae
 Modus XXVIII. Praecedentis instar dictionibus alternis vtitur, &amp; significante literam
 in nonam transfert.
 MOdus 28 instar precedentis alternis dictionibus vtitur, quartū prima est vacua, secunda signifcativa, tertia iterum vacua, quarta significa-
@@ -9397,7 +9404,7 @@ vir</div>
 <p><em>Example XXIX.</em></p>
 <p>S.D. Since you are a most devoted student of the arts of humanity, I think you will certainly rejoice that you have found a ninth companion of your studies; this man, who, when he presents these letters</p></div>
 <div class="pp-n" id="seg-116" data-segment="116"><a href="#seg-116">116</a></div>
-  <div class="pp-latin" lang="la" data-segment="116">40 Clavis Steganographiae vir multa scientie est, summus philosophus, subtilissimus arithmeticus, eloquentissimus Rhetor, mathematicus profundissimus, omnifurieque excellenter doctus, ornatissime loquitur, Tulliananitens facundia, nistibi essem amicius tantum, virum penitus retinuissem, quando, eo familiariter vsus philosophorum doctissimum expertusum, tibi maxime faueo tantum gratanter siscipias philosophum, quem tibi singulari amicitia inducitur mitto, teque benevolum illi familiaremque exhibendo philosophum summum probabis. vidi queden artium secreta literis ornatissimis mandata quibus patranc miranda. Respondere cum per propositas sibi grauissimas quastiones ex tempore homo doctissimus potest in proponendo utitur Zelo disputandi pröptissimo. Hunc ego quatenus liberaliter humaniter que excipias omnium arciun bonarum humanitate &amp;; familiaritate doctissimus grauissimique desensor. Enimuero poterit te erudire in multis quoniam Philosophus est ornatissima doctrina, egregius historiolegus, periitissimus Rhetor quoque promptus, &amp;amp; Geometer acutissimus. O vtinam tales essent nostri quicunque studentes, qui tumido pectore necessarium contemnunt studium. Iste vero stimodiosus philosophie, &amp;amp; alias scientias, atque, artes profunde amat, continuè tractat, &amp;amp; acutissime penetrat, Hunc ergo amore siscipito, liberali vultu trachta fidelis Christiannm confirma. Vale ex Sponheim Non. Ian. Anno Domini 1499. Ioannes Trithemius.
+  <div class="pp-latin" lang="la" data-segment="116" data-pagefind-body><span id="latin-seg-116"></span>40 Clavis Steganographiae vir multa scientie est, summus philosophus, subtilissimus arithmeticus, eloquentissimus Rhetor, mathematicus profundissimus, omnifurieque excellenter doctus, ornatissime loquitur, Tulliananitens facundia, nistibi essem amicius tantum, virum penitus retinuissem, quando, eo familiariter vsus philosophorum doctissimum expertusum, tibi maxime faueo tantum gratanter siscipias philosophum, quem tibi singulari amicitia inducitur mitto, teque benevolum illi familiaremque exhibendo philosophum summum probabis. vidi queden artium secreta literis ornatissimis mandata quibus patranc miranda. Respondere cum per propositas sibi grauissimas quastiones ex tempore homo doctissimus potest in proponendo utitur Zelo disputandi pröptissimo. Hunc ego quatenus liberaliter humaniter que excipias omnium arciun bonarum humanitate &amp;; familiaritate doctissimus grauissimique desensor. Enimuero poterit te erudire in multis quoniam Philosophus est ornatissima doctrina, egregius historiolegus, periitissimus Rhetor quoque promptus, &amp;amp; Geometer acutissimus. O vtinam tales essent nostri quicunque studentes, qui tumido pectore necessarium contemnunt studium. Iste vero stimodiosus philosophie, &amp;amp; alias scientias, atque, artes profunde amat, continuè tractat, &amp;amp; acutissime penetrat, Hunc ergo amore siscipito, liberali vultu trachta fidelis Christiannm confirma. Vale ex Sponheim Non. Ian. Anno Domini 1499. Ioannes Trithemius.
 Modus XXX. Alternis dictionibus progreditur et amp; litera significatiua in vndecimam transfertur.
 MOdus 30. ab una vacante incipiens per alternas dictiones progrederetur, ita ut semper post unam vacantem alteram significatinam per totam narrationis feriem ponat, quemadmodum in precedenti quoque modo et amp; aliis ostendimus: Porro per quartam literam significantis dictionis prima sequens post eam capiatur vndecima ita vt pro A, capiatur m. pro b. n. pro c. o. &amp;amp; sic consequenter vt patet in alphabeto.
 Am, bn, eo, dp, eq, fr, gs, ht, iu, kx, wz, ma, nb, oc, pd, qe, rs, sgth, ni, xk, zl.
@@ -9431,7 +9438,7 @@ Fti due-</div>
 <p><em>Mode XXXI. It proceeds by alternate words, and the significant letter is changed into the twelfth.</em></p>
 <p>Mode 31 proceeds from one vacant word through alternate idle or significant words in turn, so that always after one word left vacant one significant word is subjoined; but for the first letter of each, thereafter [unclear] of this secret mystery due-</p></div>
 <div class="pp-n" id="seg-117" data-segment="117"><a href="#seg-117">117</a></div>
-  <div class="pp-latin" lang="la" data-segment="117">42 Claus Steganographiae si duo decima sequens post eam accipitur, ita ut pro A.n.pro o.p.capiatur vt huiusmodi alphabeto sequente ostendemus.
+  <div class="pp-latin" lang="la" data-segment="117" data-pagefind-body><span id="latin-seg-117"></span>42 Claus Steganographiae si duo decima sequens post eam accipitur, ita ut pro A.n.pro o.p.capiatur vt huiusmodi alphabeto sequente ostendemus.
 Alphabetum.
 An.bo.op.dq.er fs.gt.hn.ix.kz.la.mb.cd.pe.qf.rg.sh.ti.u k.xl.z.m.
 Tenor Secreti.
@@ -9516,7 +9523,7 @@ ik ft s Z tt s dc Zk sz d sciq xb lii sbie a ex s hop nlczh.</p>
 <p>What, O Christ, shall we Christians, weak men without works of justice, be able worthily to render to you? Professing the Catholic faith, therefore, most devoutly, we celebrate you, our redeemer, with the highest praises, saying: Praise be to you, eternal, most gracious savior of all, who redeemed us by your blood. Strengthen our frailty with the zeal of your love; save us, sweetest savior Jesus, and pour the zeal of faith into our hearts. Holy is your zeal; illumine with compunction for works the hearts of those who seek you, most gracious Christ Jesus. Most gracious Christ Jesus, eternal light, illumine the darkness of your servants with your accustomed goodness. Savior Jesus, save our souls, bestowing eternal joys. Christ, hear your humble servants, and pardon the sins of all who pray; save your Christian servants, though most unworthy; seal us with your zeal, we humbly ask. Amen. Farewell from Spanheim, 6 Ides of January, in the year of the Lord 1499. Joh. Trith.</p>
 <p>F 2 <em>Mode</em></p></div>
 <div class="pp-n" id="seg-118" data-segment="118"><a href="#seg-118">118</a></div>
-  <div class="pp-latin" lang="la" data-segment="118">44 Clauis Steganographiae Modus XXXIII. Alternis dictionibus proce- dens vt superiores primam significa- tiuam transfert in 14. MOduc 33 narrationem secundam ab una vacante incipit, &amp;amp; instar pre- cedētis per alternas vicissim procedit. pro prima vero cuiui libet dictio- nis significatiuae literam sequentem post eam loco 14. accipit, ut pro A ca- pitur p. pro b q pro c r. &amp;amp; sic consequenter iuxta ordinem alphabeti huius modi qui sequitur. Alphabetum. Ap bq cr df et fu gx ia kb lc. md. ne. os. pg. qb. ri sk rl. um xn. zq. Tenor Secreti. Er ist noch new/ versuch jhn vor gantz wol ehe denn jhm viel vertraut. Er trinckt auch gern Wein vnnd ist wunderlich. Haecest intentio Secreti huius. Literae significatiuae. Toaklefrzetmmmtikmrzazemfixpelommfctztsteazdmatomtilipmltiliaerblp mrzxtiemmstaemesakl mmfe carz Exemplum XXXIII. IOannes Trithemius, Sanctis monialibus in monte olim Ruperti catholi- cam fidem lucida virginitate exornantibꝰ foelicitatem, continuo religio- nis sanctissimꝭ zelo pre memorati regis maximi famulum mittimus nobis multo expostulatum tempore virum magnum virum intemporali- bus experientur. Ioannem vestris caritatibus notum monasterij Uleidorfen- fis religionis feruore zelosum, multo tempore Abbate, nouamq́; Abbatiam libere dimittentem accessi propterea sicut vobis commisseram monasterium Limpurgense, in quo Christo seruebat precibus continuis et amp; sanctũ lectio- nibus scripturarum occupatus cum monachis eiusdem descenderet, tempo- raliumque rerum suscioperet curam, procuratorque fieret cellarius Abbas Limpur
+  <div class="pp-latin" lang="la" data-segment="118" data-pagefind-body><span id="latin-seg-118"></span>44 Clauis Steganographiae Modus XXXIII. Alternis dictionibus proce- dens vt superiores primam significa- tiuam transfert in 14. MOduc 33 narrationem secundam ab una vacante incipit, &amp;amp; instar pre- cedētis per alternas vicissim procedit. pro prima vero cuiui libet dictio- nis significatiuae literam sequentem post eam loco 14. accipit, ut pro A ca- pitur p. pro b q pro c r. &amp;amp; sic consequenter iuxta ordinem alphabeti huius modi qui sequitur. Alphabetum. Ap bq cr df et fu gx ia kb lc. md. ne. os. pg. qb. ri sk rl. um xn. zq. Tenor Secreti. Er ist noch new/ versuch jhn vor gantz wol ehe denn jhm viel vertraut. Er trinckt auch gern Wein vnnd ist wunderlich. Haecest intentio Secreti huius. Literae significatiuae. Toaklefrzetmmmtikmrzazemfixpelommfctztsteazdmatomtilipmltiliaerblp mrzxtiemmstaemesakl mmfe carz Exemplum XXXIII. IOannes Trithemius, Sanctis monialibus in monte olim Ruperti catholi- cam fidem lucida virginitate exornantibꝰ foelicitatem, continuo religio- nis sanctissimꝭ zelo pre memorati regis maximi famulum mittimus nobis multo expostulatum tempore virum magnum virum intemporali- bus experientur. Ioannem vestris caritatibus notum monasterij Uleidorfen- fis religionis feruore zelosum, multo tempore Abbate, nouamq́; Abbatiam libere dimittentem accessi propterea sicut vobis commisseram monasterium Limpurgense, in quo Christo seruebat precibus continuis et amp; sanctũ lectio- nibus scripturarum occupatus cum monachis eiusdem descenderet, tempo- raliumque rerum suscioperet curam, procuratorque fieret cellarius Abbas Limpur
 
 Ioannis Trithemij Abb.Spanh.
 45
@@ -9563,7 +9570,7 @@ Kodak Gray Scale
 <p><em>Hidden tenor.</em> Tomorrow at 9 the bailiff will come and take the peasants’ cows; keep yours at home.</p>
 <p><em>Significant letters.</em> Eg kzuufuerfunfunkttukgehmeqfgceeufrutinfrqnkef thuenafueufrnahdwstubfatqa hue.</p></div>
 <div class="pp-n" id="seg-119" data-segment="119"><a href="#seg-119">119</a></div>
-  <div class="pp-latin" lang="la" data-segment="119">[illegible]Ioannis Trithemij Abb.Spanh.
+  <div class="pp-latin" lang="la" data-segment="119" data-pagefind-body><span id="latin-seg-119"></span>[illegible]Ioannis Trithemij Abb.Spanh.
 47
 vnd fehret auch im Narrenschiff. Haec est intentio
 Secreti, quae sequitur.
@@ -9607,7 +9614,7 @@ This is the intention of the following mystery.
 <p><em>Example XXXVI.</em> [Latin cover-text, a moralizing passage on the catholic faith and good works, as printed.] …Johannes Trithemius wrote [this], the 4th [day before] the Ides of January, in the year 1500.</p>
 <p>[Following page illegible in the source.]</p></div>
 <div class="pp-n" id="seg-120" data-segment="120"><a href="#seg-120">120</a></div>
-  <div class="pp-latin" lang="la" data-segment="120">48 Clauis Steganographiae
+  <div class="pp-latin" lang="la" data-segment="120" data-pagefind-body><span id="latin-seg-120"></span>48 Clauis Steganographiae
 nibus utitur, &amp; prima cuiuslibet significatiua dictionis in 17. post illam so-
 qiens mutatur, ita vt pro A, captiatur s. prob t. proc u. &amp; sic consequenter
 vsque ad finem narrationis proposita, vt in sequenti alphabeto.
@@ -9654,7 +9661,7 @@ pcmoadhzznopdohnihdedchbzafshbz̄h.</p>
 Catholic faith does not save [unless] it is supported by the ardor of the divine name. Believe also that zeal for the love of God is by no means entirely useless here for the redemption of the soul, for many people are now found boasting in the Catholic faith, but few are performing the works of the Christian faith. Without works faith dies; they believe a great deal, but very few observe God's commandments. O weak zeal of faith, which stronger unbelieving men could have by natural uprightness; the Gentiles who do not believe that the Savior of the world was made the Son of God and made man through zeal for human redemption will be tormented by the pains of hell. But they do not in the least adorn the Christian faith with most holy works, and, always entangled in sin, put [unclear] honors before eternal blessedness, staining the purity of faith with impious actions and depraved morals against obedience. But the lovers of God who have the right zeal of the Christian faith, setting nothing before Christ, will have him as an appeased judge, and he will give them everlasting honor. [Unclear], therefore, from these discourses, you who boast of faith: love God and you will have the reward of blessedness of those who are zealous for righteousness. If you love the vanity of the world against the honor of God, you will receive the reward of those who are zealous for iniquity: the horrors of hell. Johannes Trithemius wrote this on the fourth day before the Ides of January, in the year 1500.</p>
 <p><em>Method</em></p></div>
 <div class="pp-n" id="seg-121" data-segment="121"><a href="#seg-121">121</a></div>
-  <div class="pp-latin" lang="la" data-segment="121">50 Claus Steganographiae nam moribus dignis, sed humilitate abiecta catholica traditionis, credis sine amore non te arbitroris iustam et fidelem enim uero qui fidem habet, sed tu- men diuinum amorem negligit impius est de sede quoque frustra praesumit diuini Xelator amorie est, qui Christianam si dem deuotis ac bonis operibus quotidie exornat, &amp;amp; qui humiliitate subnixus amat Denm Ieh. Trith. 3. Id. Ian. Anno M. I.D.
+  <div class="pp-latin" lang="la" data-segment="121" data-pagefind-body><span id="latin-seg-121"></span>50 Claus Steganographiae nam moribus dignis, sed humilitate abiecta catholica traditionis, credis sine amore non te arbitroris iustam et fidelem enim uero qui fidem habet, sed tu- men diuinum amorem negligit impius est de sede quoque frustra praesumit diuini Xelator amorie est, qui Christianam si dem deuotis ac bonis operibus quotidie exornat, &amp;amp; qui humiliitate subnixus amat Denm Ieh. Trith. 3. Id. Ian. Anno M. I.D.
 Modus XXXVIII. Vicissim alternatis vtitur, &amp;amp;
 prima significatiuae dictionis in 19.
 transfertur.
@@ -9737,7 +9744,7 @@ B g g s g p r e c g a s p e z c l f c p z f h m k o l g q r k g l p x r b s b c 
 <p><em>Example XXXIX.</em>
 [unclear] O most gracious Jesus, I give thanks to your most holy loving-kindness, who by your blood reconciled the human race to your Father, hanging lifted up on the cross most pitiably, with body shattered, spirit sorrowful, face spat upon, and bearing our crimes; through the zeal of ineffable charity you healed our [unclear], you poured out the flourishing youth of your body for us by the harshest wounds, and gave life to man, dead, overcome by too much love; and, restoring catholic communion, you wished to die most laboriously. Therefore I give what thanks I can to you, my most dear Redeemer, groaning and weeping as I recall the memory of your passion, Christ the Savior.</p></div>
 <div class="pp-n" id="seg-122" data-segment="122"><a href="#seg-122">122</a></div>
-  <div class="pp-latin" lang="la" data-segment="122">52 Claus Steganographiae
+  <div class="pp-latin" lang="la" data-segment="122" data-pagefind-body><span id="latin-seg-122"></span>52 Claus Steganographiae
 morans. O benignissime Iesu salua me bonitate tua solita, mihique cuncta;
 indulge quasò precamina, quoniam tu laus et gloria mee, latisicans me gau-
 dio sancto, redempor mee sana me Sanctifica me Christe verum lumen.
@@ -9824,7 +9831,7 @@ Kodak Gray Scale
 <p>Johannes Trithemius, Abbot of Sponheim.</p>
 <p>G. 3 CAPL</p></div>
 <div class="pp-n" id="seg-123" data-segment="123"><a href="#seg-123">123</a></div>
-  <div class="pp-latin" lang="la" data-segment="123">54 Claus Steganographiae
+  <div class="pp-latin" lang="la" data-segment="123" data-pagefind-body><span id="latin-seg-123"></span>54 Claus Steganographiae
 CAPITVM II.
 DE ALIIS MODIS OCCVL-
 TE SCRIBENDI, QVI IN SVPERIO-
@@ -9919,7 +9926,7 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 1234567890 .I. II. III. IV. V. VI. VII. VIII. IX. X. XI. XII.
 P Q R S T V U X Z A B C D E F G I K L M N O P R S T V U Z A B C D E G I K L M N P R S T V U 2345678</p></div>
 <div class="pp-n" id="seg-124" data-segment="124"><a href="#seg-124">124</a></div>
-  <div class="pp-latin" lang="la" data-segment="124">Ioannis Trithemij Abb.Spanh.
+  <div class="pp-latin" lang="la" data-segment="124" data-pagefind-body><span id="latin-seg-124"></span>Ioannis Trithemij Abb.Spanh.
 57
 Alphabetum.
 Ax.bz.ca.db.ec.fd.ge.hf.gk.li.mk.nl.om.pr.qo.rs.sq.tr.vs.xtz.Zv.
@@ -10013,7 +10020,7 @@ Blessing the dearest, best, and most kindly defender of Catholics, we fittingly 
 1234567890 ijklm n o p q r s t u v w x y z a b c d e f g h i k l m n o p q r s t v w x y</p>
 <p>Here first, for the first letter of the alphabet, A, [unclear] is to be taken, which is the fourth in the circle before it; for b, [unclear]; for c, [unclear]. And so consequently, as is clear in the little wheel. This method can also be varied with the others, by alternate words, pairs, or more; but, by proceeding as it were through individual signifying words, we can conceal many manifest secrets. For the sake of brevity it has pleased us to adopt this method.</p></div>
 <div class="pp-n" id="seg-125" data-segment="125"><a href="#seg-125">125</a></div>
-  <div class="pp-latin" lang="la" data-segment="125">60 Clauis Steganographiae Alphabetum.
+  <div class="pp-latin" lang="la" data-segment="125" data-pagefind-body><span id="latin-seg-125"></span>60 Clauis Steganographiae Alphabetum.
 At.bu.cx.dz.ca.fb.gc.bd.ce.k.f.lg.mh.ni.ok.pl.qm.rn.so.tp.uq.xr.zs.
 Intentio Secreti.
 Der Pfarrer von Bing ist vmb eins verschieden/ lug nach der Pfarꝛ. Hae est sequentis apertae nar- rationis secreta iuxta hunc modum intentio.
@@ -10090,7 +10097,7 @@ A b c d e f g h i k l m n o p q r s t u v x y z
 <p><em>The sixth method proceeds through all the signifying words, and each letter is placed in the sixth preceding.</em></p>
 <p>The sixth method of this chapter also proceeds through all the signifying words after the fashion of the previous one, admitting no word that is wholly empty; and all the letters of the secret mystery are transposed backward, so that before A the sixth preceding in the little wheel is taken, which is r; for b, s; for c, t; for d, [unclear]; for e, x; for f, z; for g, A; and so consequently according to the order of the alphabet set down in the little wheel itself. By means of the number placed beneath the alphabet it can easily and without labor be written how far each letter stands from another, and how far it is in the order of each alphabet. Now the little wheel follows.</p></div>
 <div class="pp-n" id="seg-126" data-segment="126"><a href="#seg-126">126</a></div>
-  <div class="pp-latin" lang="la" data-segment="126">Ioannis Trithemij Abb.Spanh.
+  <div class="pp-latin" lang="la" data-segment="126" data-pagefind-body><span id="latin-seg-126"></span>Ioannis Trithemij Abb.Spanh.
 63
 Alphabetum.
 Ar,b,f,c,t,d,v,e,x.fz.g,a,h,b,i,e.k.d.e.m.f.ng.o.h.pi.q,k.rl.s.m.in.
@@ -10193,7 +10200,7 @@ Ap.bq.er.df.et.fu.gx.hz.i.a.kb.lo.md.ne.of.pg.qh.rj.sk.tl.w.m.xn.zo.</p>
 <p><em>Intention of the Secret Mystery.</em>
 Your enemies will come here tomorrow at nine, I</p></div>
 <div class="pp-n" id="seg-127" data-segment="127"><a href="#seg-127">127</a></div>
-  <div class="pp-latin" lang="la" data-segment="127">66 Claus Steganographiae men/ mit zehen Pferden / da hab dich vor zurichten.
+  <div class="pp-latin" lang="la" data-segment="127" data-pagefind-body><span id="latin-seg-127"></span>66 Claus Steganographiae men/ mit zehen Pferden / da hab dich vor zurichten.
 Literae significantes.
 S .a. e. v. a.p.e.l.m.m.t.i.j.t.c.d.f.I.e.m.t.d.q.e.m.z.t.i.b.f.
 D.d.t.e.d.a.h.o.t.Z t.e.g.z.t.i.s.t.o.s.p.r.q.t.s.a.r.z.e.p.o.m.L.a.
@@ -10290,7 +10297,7 @@ Ao.bp.cq.dr.es.ft.gv.hx.ix.ka.lb.mc.nd.oc.pf.qg.rb.si.rk.vt.xm.zn.</p>
 <p><em>The tenth method uses individual signifying words, and every letter is transferred to the tenth preceding one.</em></p>
 <p>The tenth method of this chapter, in the manner of the preceding ones, uses individual signifying words in concealing the mystery, while no word at all is mixed in. But since it would be difficult, for the concealment of the intention or the congruity of the speech, to compose by individual words, you will be able, both in this and in almost all the other methods, to use alternate words, pairs, triplets, quadruplets, or even more. But since all letters are signifying, after the pattern of the preceding methods, in this tenth method they are taken by anticipation into the tenth preceding letter, so that for A one takes n, because in the order of the alphabet, according to the demonstration of the wheel, it is ten places before it; for b one takes o; for c, p; for d, q; and so consequently through the whole alphabet, as is clear to one looking at the middle circumference.</p></div>
 <div class="pp-n" id="seg-128" data-segment="128"><a href="#seg-128">128</a></div>
-  <div class="pp-latin" lang="la" data-segment="128">[illegible]70 Cl.Steganogr.Ioh.Trith.Abb.Spanh.
+  <div class="pp-latin" lang="la" data-segment="128" data-pagefind-body><span id="latin-seg-128"></span>[illegible]70 Cl.Steganogr.Ioh.Trith.Abb.Spanh.
 Modus vndecimus, vt praecedens singulis
 significatiuis vtitur,&amp;amp; literae in II.
 anticipantur.
@@ -10311,12 +10318,12 @@ ponuntur, sicut patet clare entuensi alphabetum in rotula.
 <p>[unclear]</p>
 <p>. END .</p></div>
 <div class="pp-n" id="seg-129" data-segment="129"><a href="#seg-129">129</a></div>
-  <div class="pp-latin pp-latin-only" lang="la" data-segment="129"><details class="pp-latin-only-details"><summary>Latin only &mdash; not translated</summary>
+  <div class="pp-latin pp-latin-only" lang="la" data-segment="129" data-pagefind-body><span id="latin-seg-129"></span><details class="pp-latin-only-details"><summary data-pagefind-ignore>Latin only &mdash; not translated</summary>
       <div class="pp-latin-body">[illegible]</div>
     </details></div>
   <div class="pp-english pp-missing" data-segment="129"><span class="muted">[no translation available for this segment &mdash; see <a href="../methodology.html#latin-only-display-segments-in-the-parallel-viewer">Methodology</a>]</span></div>
 <div class="pp-n" id="seg-130" data-segment="130"><a href="#seg-130">130</a></div>
-  <div class="pp-latin pp-latin-only" lang="la" data-segment="130"><details class="pp-latin-only-details"><summary>Latin only &mdash; not translated</summary>
+  <div class="pp-latin pp-latin-only" lang="la" data-segment="130" data-pagefind-body><span id="latin-seg-130"></span><details class="pp-latin-only-details"><summary data-pagefind-ignore>Latin only &mdash; not translated</summary>
       <div class="pp-latin-body">KUNSTGALERIE
 PHOTOGRAPHISCHE
 ABTHEILUNG
@@ -10373,7 +10380,7 @@ VOL. XV. CONCERNING THA T Part of THE LUNGS (lungs) which is not mentioned in Vo
     </details></div>
   <div class="pp-english pp-missing" data-segment="130"><span class="muted">[no translation available for this segment &mdash; see <a href="../methodology.html#latin-only-display-segments-in-the-parallel-viewer">Methodology</a>]</span></div>
 <div class="pp-n" id="seg-131" data-segment="131"><a href="#seg-131">131</a></div>
-  <div class="pp-latin" lang="la" data-segment="131">Clavis generalis triplex
+  <div class="pp-latin" lang="la" data-segment="131" data-pagefind-body><span id="latin-seg-131"></span>Clavis generalis triplex
 IN LIBROS STE-
 GANOGRAPHICOS
 IOHANNIS TRITHEMII
@@ -10502,7 +10509,7 @@ ub)</p>
 <p><em>Midosa coracir ocafati co iu sa</em></p>
 <p>Of these letters only the first or initial one is significant for you; immediately after it follows one that is not significant, or is vacant, and so alternately, as the points marked above over the significant letters show you. Here below, for the sake of abbreviation, all variations of the rules will be shown by numbers; in these examples the sign</p></div>
 <div class="pp-n" id="seg-132" data-segment="132"><a href="#seg-132">132</a></div>
-  <div class="pp-latin" lang="la" data-segment="132">6 CLAVIS GENERALIS STEGAN.
+  <div class="pp-latin" lang="la" data-segment="132" data-pagefind-body><span id="latin-seg-132"></span>6 CLAVIS GENERALIS STEGAN.
 o signum vel 2ccr arithmeticum, quoties posi-
 tum fuerit, tot tibi literas significatiuas denota-
 bit, &amp; mox sequens numerus tot significatiuas
@@ -10823,6 +10830,7 @@ The eighth mode thus: 20000 20000 20</p>
   }
   if(grid){
     grid.addEventListener('click',function(e){
+      if(e.target.closest('button, a, summary'))return;
       var cell=e.target.closest('[data-segment]');
       if(!cell)return;
       var other=counterpart(cell);
@@ -10838,7 +10846,7 @@ The eighth mode thus: 20000 20000 20</p>
   update();
 })();
 </script>
-<script src="../static/glossary.js"></script>
+<script type="module" src="../static/glossary.js"></script>
 
 </main>
 
@@ -10865,8 +10873,8 @@ The eighth mode thus: 20000 20000 20</p>
       </div>
     </div>
     <p class="footer-byline muted">
-      Machine-assisted English translations of the Latin works of Johannes Trithemius (1462&ndash;1516).
-      Every translation is machine-produced and independently audited; for scholarly quotation, check the Latin.
+      Machine-assisted English translations of Latin texts by or associated with Johannes Trithemius (1462&ndash;1516).
+      Each edition records its audit coverage. Check the Latin before quoting a translation.
       Translations &amp; generated data: CC0. Methodology, documentation, code &amp; corpus arrangement: CC BY 4.0.
 <a href="../LICENSE.html">License &amp; rights</a>. Compiled 2026 by Ian Carlos Fabin.
     </p>

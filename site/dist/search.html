@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Search &mdash; Trithemius Corpus</title>
 <meta name="description" content="Search the Trithemius Corpus — full-text search across all 47 works">
-<link rel="canonical" href="https://trithemius-corpus.github.io/Trithemius-Corpus/search.html"><meta property="og:type" content="website">
+<link rel="canonical" href="https://trithemius-corpus.github.io/Trithemius-Corpus/search.html"><meta name="robots" content="noindex,follow"><meta property="og:type" content="website">
 <meta property="og:site_name" content="Trithemius Corpus">
 <meta property="og:title" content="Search &mdash; Trithemius Corpus">
 <meta property="og:description" content="Search the Trithemius Corpus — full-text search across all 47 works">
@@ -72,71 +72,25 @@
 </header>
 
 <main class="container" id="main">
-<section>
+<section class="corpus-search">
   <h1>Search the corpus</h1>
-  <p class="muted">Search across all 47 works &mdash; ~3 million words of English translation,
-  Latin source, and editorial notes. Powered by <a href="https://pagefind.app">Pagefind</a>.</p>
-  <div id="search-ui">
-    <div class="search-input-wrap">
-      <input type="text" id="pagefind-input" placeholder="Search&hellip;" autofocus
-             value="" aria-label="Search query" class="search-input">
+  <p>Find an English translation, a Latin source segment, or an editorial note across the printed editions.</p>
+  <form role="search" action="search.html" method="get" id="corpus-search-form"
+        data-index="pagefind/pagefind.js">
+    <label for="corpus-query">Words or phrase</label>
+    <div class="corpus-query-row">
+      <input type="search" id="corpus-query" name="q" enterkeyhint="search" autocomplete="off"
+             aria-describedby="corpus-search-hint">
+      <button type="submit">Search</button>
     </div>
-    <div id="pagefind-results"></div>
-  </div>
+    <p id="corpus-search-hint" class="muted">Use quotation marks for an exact phrase.</p>
+  </form>
+  <noscript><p>Enable JavaScript to search the local text index.</p></noscript>
+  <p id="corpus-search-status" role="status" aria-live="polite" aria-atomic="true"></p>
+  <div id="corpus-results"></div>
+  <button id="corpus-more" type="button" hidden>Show more matching editions</button>
 </section>
-<style>
-.search-input-wrap{margin:1rem 0}
-.search-input{width:100%;max-width:36rem;padding:.6rem .8rem;font-size:1rem;
-  border:1px solid var(--gilt-deep,#c9b896);border-radius:4px;
-  background:var(--paper,#f4ecd8);color:var(--ink,#2a2420)}
-#pagefind-results{margin-top:1.5rem}
-.pagefind-ui__result{padding:.8rem 0;border-bottom:1px solid var(--gilt-deep,#e0d5bc)}
-.pagefind-ui__result-title a{color:var(--vermilion,#7a1f1f);font-weight:500;text-decoration:none}
-.pagefind-ui__result-title a:hover{text-decoration:underline}
-.pagefind-ui__result-excerpt{color:var(--ink-muted,#6a5f54);font-size:.88rem;margin-top:.2rem}
-mark{background:rgba(122,31,31,.15);color:inherit;padding:0 .1em;border-radius:2px}
-</style>
-<link href="pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="pagefind/pagefind-ui.js"></script>
-<script>
-  (function(){
-    var results = document.getElementById('pagefind-results');
-    var input = document.getElementById('pagefind-input');
-
-    // Full-text search uses Pagefind's Web Worker, which browsers block under
-    // the file:// protocol (CORS). Detect that case and explain rather than
-    // fail silently. Search works normally on http(s) / GitHub Pages.
-    if (location.protocol === 'file:') {
-      input.disabled = true;
-      input.placeholder = 'Search unavailable in local file view';
-      results.innerHTML =
-        '<p class="muted">Search is available on the published site.</p>';
-      return;
-    }
-
-    // Wait for PagefindUI to be available (classic script may load after this
-    // inline block in some orderings), then boot the UI.
-    function boot() {
-      if (typeof window.PagefindUI === 'undefined') {
-        return setTimeout(boot, 50);
-      }
-      var params = new URLSearchParams(window.location.search);
-      var query = params.get('q') || '';
-      var ui = new window.PagefindUI({
-        element: '#search-ui',
-        showEmptyFilters: false,
-        translations: { placeholder: 'Search the corpus…' }
-      });
-      if (query) {
-        input.value = query;
-        ui.triggerSearch(query);
-      }
-      input.addEventListener('input', function(e){ ui.triggerSearch(e.target.value); });
-    }
-    boot();
-  })();
-</script>
-</section>
+<script type="module" src="static/corpus-search.mjs"></script>
 </main>
 
 <footer class="site-footer">
@@ -162,8 +116,8 @@ mark{background:rgba(122,31,31,.15);color:inherit;padding:0 .1em;border-radius:2
       </div>
     </div>
     <p class="footer-byline muted">
-      Machine-assisted English translations of the Latin works of Johannes Trithemius (1462&ndash;1516).
-      Every translation is machine-produced and independently audited; for scholarly quotation, check the Latin.
+      Machine-assisted English translations of Latin texts by or associated with Johannes Trithemius (1462&ndash;1516).
+      Each edition records its audit coverage. Check the Latin before quoting a translation.
       Translations &amp; generated data: CC0. Methodology, documentation, code &amp; corpus arrangement: CC BY 4.0.
 <a href="LICENSE.html">License &amp; rights</a>. Compiled 2026 by Ian Carlos Fabin.
     </p>

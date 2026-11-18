@@ -1,7 +1,9 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "work_id": "prdl-24362_de-laude-scriptorum-manualium",
-  "review_method": "AI contextual comparison of every scoped lexical candidate; not human verification or exhaustive source-image adjudication",
+  "inventory_sha256": "347f77a359ec49049821c0104b783ce38f07a70957954cea617ed16c2e32f020",
+  "candidate_id_version": "source-snapshot-v2",
+  "review_method": "AI contextual comparison of the frozen English editions. Dated follow-ups identify individual passages checked against the print.",
   "candidate_count": 1728,
   "dispositions": {
     "no_material_change_found": 1579,
@@ -17614,7 +17616,10 @@
       "priority": "P1",
       "title": "Authority for the command changes from prelates to Plato",
       "assessment": "Earlier English reproaches monks for ignoring prelates commands; T4B says command of Plato. OCR platorum/platozyn is damaged; neither directly establishes an explicit Platonis reading. This changes institutional authority into a named philosopher.",
-      "next_action": "Inspect the abbreviation and ending in print, then adjudicate the authority in the complete monastic exhortation.",
+      "next_action": "Human editorial review of the dated local correction.",
+      "candidate_ids": [
+        "lex-59161a1905cde59b"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -17644,14 +17649,74 @@
           "end_line": 411,
           "quote": "quid nos vernicali dicituri sumus, qui in monasterio sine\ncura temporalium rerû degentes, nec veterû exemplo, nec\nplatozyn precepto, manû dignamur apponere scriptu/\nris? Martyr iste sanctus in testamentû desidicit pigrin\n"
         }
-      ]
+      ],
+      "historical_next_action": "Inspect the abbreviation and ending in print, then adjudicate the authority in the complete monastic exhortation.",
+      "status": "ai_scan_checked_corrected_locally",
+      "followup": {
+        "assessment": {
+          "date": "2026-11-17",
+          "decision": "accepted_for_local_correction",
+          "normalized_latin": "nec veterum exemplo nec prelatorum precepto",
+          "reason": "A contraction mark over the initial p and the genitive plural ending support prelatorum, “of prelates.” The two phrases give the example of the ancients and the command of the prelates as reasons for a monk to write.",
+          "image": {
+            "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/14",
+            "label": "6v (0014)",
+            "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00014/full/full/0/default.jpg",
+            "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-014.jpg",
+            "sha256": "47b7dec9e5e56f9696e61ff4f74ee264b5c5ea23fa27ecb5612eada1de00a224",
+            "rights": [
+              "https://creativecommons.org/publicdomain/mark/1.0/"
+            ],
+            "attribution": "Bayerische Staatsbibliothek",
+            "download_date": "2026-11-17"
+          },
+          "crop": {
+            "canvas_number": 14,
+            "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/A-F18-crop.png",
+            "xywh": [
+              465,
+              982,
+              1415,
+              253
+            ],
+            "sha256": "52b85f3544b7ef93f3c64bc873a29a049fae8366fe07cfb38870ba9cb3d05a79"
+          },
+          "mapping_basis": "Words matched visually with the printed folio and its institutional canvas.",
+          "reviewer": "Codex AI",
+          "human_review": "none_documented"
+        },
+        "correction": {
+          "status": "applied_locally",
+          "human_review": "none_documented",
+          "dates": [
+            "2026-11-17"
+          ],
+          "changes": [
+            {
+              "item_id": "A-F18",
+              "track": "t4b",
+              "before": "the command of Plato",
+              "after": "the command of the prelates",
+              "files": [
+                "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+                "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0005.md"
+              ],
+              "date": "2026-11-17"
+            }
+          ],
+          "date": "2026-11-17"
+        }
+      }
     },
     {
       "id": "B-F10",
       "priority": "P1",
       "title": "An occupational title becomes Johannes Cellarius",
       "assessment": "Earlier identifies John, formerly chancellor of Paris; T4B identifies Johannes Cellarius of Paris. The Latin OCRs have damaged forms around Iohanni ... cellario/cancellario and retain quondam. The earlier context already calls the author of On the Praise of Scribes the chancellor of Paris. The changed identification is material; Cellarius must not be accepted as a verified surname.",
-      "next_action": "Inspect and expand the printed title and name in the question to the former Paris chancellor. Confirm the attribution before editing or creating a biographical entity.",
+      "next_action": "Human editorial review of the dated local correction.",
+      "candidate_ids": [
+        "lex-f1886dfc84306ea7"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -17681,7 +17746,64 @@
           "end_line": 930,
           "quote": "casione plenibus queritur. An li-\ncitu sit monachis festis diebus scribere: qui\nbus in lege ab operib3 seruilibus pcpititur va\ncare. Hanc questione Johani cæcellario quon\ndam parifien. viro doctissimo legimus a quibufda sinife\nprophra: qua in libro de laude scripto2. p. xij. consideratio\nnes deducens. ita postremo concludit dicens. Nihil im-\npedit libros seu tractatus vel codicillos deuocionis scri\nbere diebus festis. habito moderatione: quale sapientis in-\ndicabur in hoc opere: qo vnq3 no seruile censendu est: sed\nin honore ecclesie plus aliquado ver gene: q3 multiplica-\ntio vocalis oracionis: immo insolens in aliquibus mufa\nrii inuicationib3. Dec ille: Hos aut adijcientes cu humilita\nte dicamus. q3 monachus sub obedientia costit"
         }
-      ]
+      ],
+      "historical_next_action": "Inspect and expand the printed title and name in the question to the former Paris chancellor. Confirm the attribution before editing or creating a biographical entity.",
+      "status": "ai_scan_checked_corrected_locally",
+      "followup": {
+        "assessment": {
+          "date": "2026-11-17",
+          "decision": "accepted_for_local_correction",
+          "normalized_latin": "Hanc questionem Iohanni cancellario quondam Parisiensi, viro doctissimo",
+          "reason": "The abbreviation in the title following Iohanni expands to cancellario. The next line completes quondam and identifies Paris. Together they describe an office John formerly held. The source supplies no surname in this phrase.",
+          "image": {
+            "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/27",
+            "label": "13r (0027)",
+            "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00027/full/full/0/default.jpg",
+            "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-027.jpg",
+            "sha256": "f3654fe39fbd7981a5e9830b15f2e719a0d69f92eb3380bb4c72e4d72f9b1f57",
+            "rights": [
+              "https://creativecommons.org/publicdomain/mark/1.0/"
+            ],
+            "attribution": "Bayerische Staatsbibliothek",
+            "download_date": "2026-11-17"
+          },
+          "crop": {
+            "canvas_number": 27,
+            "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/B-F10-crop.png",
+            "xywh": [
+              310,
+              860,
+              1412,
+              243
+            ],
+            "sha256": "8ed4b5d6a9adbc433444d83721f2891b06e1fdbb1b8e5775798c718ec4517406"
+          },
+          "mapping_basis": "Words matched visually with the printed folio and its institutional canvas.",
+          "reviewer": "Codex AI",
+          "human_review": "none_documented"
+        },
+        "correction": {
+          "status": "applied_locally",
+          "human_review": "none_documented",
+          "dates": [
+            "2026-11-17"
+          ],
+          "changes": [
+            {
+              "item_id": "B-F10",
+              "track": "t4b",
+              "before": "to Johannes Cellarius of Paris, a most learned man",
+              "after": "to John, formerly chancellor of Paris, a most learned man",
+              "files": [
+                "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+                "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0011.md"
+              ],
+              "date": "2026-11-17"
+            }
+          ],
+          "date": "2026-11-17"
+        }
+      }
     },
     {
       "id": "A-F02",
@@ -17689,6 +17811,11 @@
       "title": "Rupert example loses its predicate in earlier English",
       "assessment": "Earlier English leaves He, with singular desire, the divine Scriptures then ...by reading and then by praying without a governing traversing verb. T4B supplies traversed and renders tum...tum as both...and. Earlier OCR already preserves a form of percurreret across a segment boundary, so this is not simply absent earlier OCR.",
       "next_action": "Collate the predicate and paired tum construction across the image boundary; assess documented recovery rather than treating the ellipsis as complete prose.",
+      "candidate_ids": [
+        "lex-c118264ef1b9d4e1",
+        "lex-00f55d5d52272ffa",
+        "lex-776705752330078d"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -17726,6 +17853,9 @@
       "title": "Final object of despising changes from him to it",
       "assessment": "Earlier English supplies those who despise him; T4B supplies those who despise it. Nearby antecedents include God, his will, and the scribal proclamation. Both OCRs end with contemnentibus damnationem without an expressed object here.",
       "next_action": "Parse the implied object in the full proclamation and decide whether English should supply one; verify the source before preferring an antecedent.",
+      "candidate_ids": [
+        "lex-30d2aa0ff07abff5"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -17763,6 +17893,10 @@
       "title": "Earlier English adds or reassigns a comparison to the fruits",
       "assessment": "Earlier English says first and purest fruits are more precious than all riches, then says knowledge of Scripture is more precious than all resources. T4B assigns no riches comparison to fruits. Both OCRs place Preciosior/Predioioz with scientia scripturarum after the fruits phrase; neither independently repeats that comparison for fruits.",
       "next_action": "Collate punctuation and construction of the acquisition/fruits/knowledge sequence; determine whether earlier English duplicates or reallocates the comparison.",
+      "candidate_ids": [
+        "lex-b518a3f3c0cae832",
+        "lex-8e0e0a95ebfbeaa3"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -17800,6 +17934,9 @@
       "title": "Feasting fills an unresolved noun without clear OCR support",
       "assessment": "Earlier English marks the noun after delightful as unclear; T4B supplies feasting. Both OCR streams have a broken reading around estu/nes, so fluency does not establish the noun.",
       "next_action": "Inspect the printed noun and abbreviation at the line break before accepting feasting or another reading.",
+      "candidate_ids": [
+        "lex-0c104ebb61876e29"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -17837,6 +17974,9 @@
       "title": "Ambrose zeal is credible or incredible",
       "assessment": "Earlier English calls the zeal credible; T4B calls it incredible. Earlier OCR begins credibili here, while T4B has in at the end of the preceding line and credibili at the next. This affects the degree and character of the praise.",
       "next_action": "Check the in- prefix at the printed line boundary and record a source-backed recovery if justified.",
+      "candidate_ids": [
+        "lex-2cb788d5b3a8330b"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -17874,6 +18014,9 @@
       "title": "Pamphilus gains a specific relationship to Eusebius",
       "assessment": "T4B turns the earlier uncertainty marker into a priest of Eusebius of Caesarea. Both OCRs contain genitive eusebij/eufebij before the Caesarea descriptor, but the grammatical and historical relationship is not established by a fluent English genitive.",
       "next_action": "Transcribe and parse the entire name/apposition before identifying whose priest or which Caesarea relationship is intended.",
+      "candidate_ids": [
+        "lex-54f72bf5273c2ce4"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -17911,6 +18054,9 @@
       "title": "A generic training phrase conceals a larger shared omission",
       "assessment": "T4B replaces the earlier gap with by which the minds of men may be trained and exercised. Its OCR instead retains several sentences: devotion to Scripture, instruction in walking in Gods way, Scripture requiring prior writing, and the usefulness/necessity of training monks to write it in monasteries. Earlier OCR loses most of these lines. T4B English is not simply adequate recovery; both English versions fail to represent substantive intervening material, and the T4B bridge changes the object of training.",
       "next_action": "Collate the full missing argument, not just the uncertainty marker; distinguish earlier OCR loss from T4B omission or paraphrase despite fuller OCR.",
+      "candidate_ids": [
+        "lex-df0bdd36a173bc4a"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -17948,6 +18094,9 @@
       "title": "Cuno has almost all or all Rupert treatises copied",
       "assessment": "Deleting almost changes the stated extent of copying. Both OCRs show omnes penetractatus; the joined pene/tractatus region can explain the disagreement.",
       "next_action": "Inspect the print and word division around omnes pene tractatus before deciding the quantity qualifier.",
+      "candidate_ids": [
+        "lex-150ec118a1bd4d63"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -17985,6 +18134,12 @@
       "title": "The true-monk argument gains or loses a self-contradiction",
       "assessment": "Earlier English says He is not what he is, who is not true; T4B says He who is not true is not. The next sentence changes and what is contrary to truth to because everything contrary to truth. Both OCRs have Non/No est. qui verus non/no est; T4B retains a damaged quia clause absent or fused in earlier OCR. This needs logical and clause-boundary review beyond negation-token matching.",
       "next_action": "Collate and parse the complete est/non est sequence and quia relation before accepting either logical formulation.",
+      "candidate_ids": [
+        "lex-53c6c8f7a08c2178",
+        "lex-4966883031102fe0",
+        "lex-de11fee7146e182f",
+        "lex-0b5f55f686113d5b"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18022,6 +18177,9 @@
       "title": "Necessity of exemption is objective or part of abbot judgment",
       "assessment": "Earlier English requires the abbot to judge exemption useful and that it be necessary; T4B places useful and necessary together under his judgment. Both OCRs retain si abbas utile iudicauerit et fuerit necessarium, exposing a scope question for exemption conditions.",
       "next_action": "Confirm printed clauses and decide whether necessity is an independent condition or part of abbot assessment.",
+      "candidate_ids": [
+        "lex-8b353193ea626ff7"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18058,7 +18216,8 @@
       "priority": "P2",
       "title": "Shared omission: both English lists omit Rabanus",
       "assessment": "Both English lists move from Alcuin to Regino. T4B OCR includes Rabanum between Alcinum and Re/ginonem. Earlier OCR moves directly from Alcuinum to Re/ginonem, so English agreement hides possible source loss in one OCR stream and an omission in the fuller T4B translation.",
-      "next_action": "Inspect the named list in the image and document Rabanus presence or absence before proposing insertion.",
+      "next_action": "Human editorial review of the dated local correction.",
+      "candidate_ids": [],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18088,7 +18247,75 @@
           "end_line": 429,
           "quote": "incuberemus scripturarû ? Intueamur antiquos nostri\nordinis abbates et monachos, nostre religionis colum/\nnas. Lassiodorum. Bedam. Alcinum. Rabanum. Re\nginonem. Petrum damiani, et ceteros: quanta diligent/\n"
         }
-      ]
+      ],
+      "historical_next_action": "Inspect the named list in the image and document Rabanus presence or absence before proposing insertion.",
+      "status": "ai_scan_checked_corrected_locally",
+      "followup": {
+        "assessment": {
+          "date": "2026-11-17",
+          "decision": "accepted_for_local_correction",
+          "normalized_latin": "Cassiodorum, Bedam, Alcuinum, Rabanum, Reginonem",
+          "reason": "The list prints Rabanum between Alcuinum and Reginonem. Both translations of this passage had skipped directly from Alcuin to Regino.",
+          "image": {
+            "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/14",
+            "label": "6v (0014)",
+            "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00014/full/full/0/default.jpg",
+            "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-014.jpg",
+            "sha256": "47b7dec9e5e56f9696e61ff4f74ee264b5c5ea23fa27ecb5612eada1de00a224",
+            "rights": [
+              "https://creativecommons.org/publicdomain/mark/1.0/"
+            ],
+            "attribution": "Bayerische Staatsbibliothek",
+            "download_date": "2026-11-17"
+          },
+          "crop": {
+            "canvas_number": 14,
+            "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/A-F23-crop.png",
+            "xywh": [
+              478,
+              2186,
+              1402,
+              207
+            ],
+            "sha256": "3ebbc6581921416a859abbf85c23f9223c39b14f5aabc24e4d869596c0920458"
+          },
+          "mapping_basis": "Words matched visually with the printed folio and its institutional canvas.",
+          "reviewer": "Codex AI",
+          "human_review": "none_documented"
+        },
+        "correction": {
+          "status": "applied_locally",
+          "human_review": "none_documented",
+          "dates": [
+            "2026-11-17"
+          ],
+          "changes": [
+            {
+              "item_id": "A-F23",
+              "track": "earlier",
+              "before": "Cassiodorus, Bede, Alcuin, Regino, Peter Damian",
+              "after": "Cassiodorus, Bede, Alcuin, Rabanus, Regino, Peter Damian",
+              "files": [
+                "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+                "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0006.md"
+              ],
+              "date": "2026-11-17"
+            },
+            {
+              "item_id": "A-F23",
+              "track": "t4b",
+              "before": "Cassiodorus, Bede, Alcuin, Regino, Peter Damian",
+              "after": "Cassiodorus, Bede, Alcuin, Rabanus, Regino, Peter Damian",
+              "files": [
+                "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+                "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0005.md"
+              ],
+              "date": "2026-11-17"
+            }
+          ],
+          "date": "2026-11-17"
+        }
+      }
     },
     {
       "id": "B-F01",
@@ -18096,6 +18323,9 @@
       "title": "T4B loses the ability to govern passions at a boundary",
       "assessment": "Earlier states who knows how to rule over his passions; T4B leaves who [unclear] followed by his own passions after the boundary. Both Latin OCR streams preserve the governing predicate in a divided clause. This removes a criterion for readiness for contemplation; the earlier sense is tentatively supported by OCR.",
       "next_action": "Inspect the divided Latin line and restore only a supported complete predicate, without treating the page break as a new sentence.",
+      "candidate_ids": [
+        "lex-b5eda26e42a73fa7"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18133,6 +18363,11 @@
       "title": "The praise verse supplies salt, a spring, and light in T4B",
       "assessment": "Earlier marks two gaps and has a fountain; T4B supplies gives salt, provides, and spring and light. Its Latin OCR contains fal dat and lucem-like wording absent from the shorter earlier OCR. This is a substantive recovery candidate, not proof that the fluent verse is established.",
       "next_action": "Collate the complete verse in the facsimile, including the long-s readings and whether light is printed, before accepting a reconstructed English line.",
+      "candidate_ids": [
+        "lex-308fa2d9eff2539f",
+        "lex-15c7de3d99ba07a8",
+        "lex-5e5f692065fbae49"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18198,6 +18433,10 @@
       "title": "The mercy-and-justice sentence replaces an earlier gap",
       "assessment": "T4B gives The Lord is merciful and just. He will not let your labors ... pass without recompense where earlier has Clement and [unclear] is the Lord, [unclear] followed by the recompense promise. Both OCRs preserve Clemens and a damaged justus-like word. The final promise has the same polarity across the break, but the divine attribute is a real recovery.",
       "next_action": "Check Clemens et iustus and the sentence boundary in the image. Keep the negative recompense promise intact; do not classify the later moved will not as a reversal.",
+      "candidate_ids": [
+        "lex-4095a7433bd7a0eb",
+        "lex-d9480d02a04f7a4a"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18249,6 +18488,10 @@
       "title": "Both English tracks omit a find-or-buy sentence and T4B relocates easily",
       "assessment": "T4B Latin contains a distinct sentence about not easily finding or buying all printed books, then a separate even-if-all-books-were-printed counterfactual. Neither full English paragraph renders finding or buying. T4B instead puts easily with were printed, while earlier has an uncertainty marker. The earlier OCR has collapsed this region. This is a shared omission with an additional T4B attachment problem.",
       "next_action": "Inspect the entire sequence from Nec facile through Quod si etiam against the scan; recover the missing proposition and parse easily with its actual verb before proposing edits.",
+      "candidate_ids": [
+        "lex-a515a48639e3961b",
+        "lex-53c65c1db5e7b2fd"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18300,6 +18543,10 @@
       "title": "The damaged imitation clause is restored as carefulness",
       "assessment": "Earlier gives an unresolved noun and stray which they also [unclear]; T4B has the carefulness of the learned. Its Latin OCR preserves a solertia-like form and a tibi ... positam construction, whereas the earlier OCR loses words. The governing contrast with negligence is stable, but the clause needs source-based reconstruction.",
       "next_action": "Read the complete Tu autem ... imitandam clause, expand damaged abbreviations, and confirm what is offered for imitation.",
+      "candidate_ids": [
+        "lex-3d273d983bff0ca9",
+        "lex-c06166920c0fface"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18351,6 +18598,10 @@
       "title": "A broken labor-of-writing clause is completed across the boundary",
       "assessment": "Earlier starts Let no one then [unclear] of writing dare to excuse himself; T4B supplies from the labor of writing across the page marker. The T4B Latin divides a labor-like word across the same boundary. The surrounding duty is the same, but the earlier grammar and missing object warrant a bounded recovery check.",
       "next_action": "Collate Nemo se a labore scribendi ... against the scan. Earlier Latin repeats adjacent material several times, so do not use raw offsets as verified page coordinates.",
+      "candidate_ids": [
+        "lex-4cf3fe51f43e149c",
+        "lex-13b4192015c00e83"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18402,6 +18653,9 @@
       "title": "The superior intention is to be made clear or observed",
       "assessment": "Earlier requires the commanding intention to be made clear; T4B says it must be observed. The OCRs both have a serenanda-like damaged word, where an alternative reading such as servanda would change the instruction. The surrounding regulation of the writer devotion is not disputed. Neither English is selected on fluency alone.",
       "next_action": "Inspect the printed verb before deciding whether the intention is to be clarified, kept, or attended to; then determine the implied actor from the whole sentence.",
+      "candidate_ids": [
+        "lex-b2fab65621b59e0c"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18439,6 +18693,12 @@
       "title": "A grammatical headword becomes peroration",
       "assessment": "Both OCRs retain a damaged form of Simperasma before the third-declension comparison. T4B replaces the headword by an English rhetorical term while retaining the grammatical claim. This changes which word is said to decline like dogma; a meaning synonym is insufficient for the lexical lesson.",
       "next_action": "Verify the printed headword and its morphology; distinguish explaining its meaning from replacing the word to which the declension claim applies.",
+      "candidate_ids": [
+        "lex-26a64cbe3e0d3916",
+        "lex-7f4ade3d860202cf",
+        "lex-fb01b080d47bc20b",
+        "lex-8e2081899b5a6813"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18476,6 +18736,14 @@
       "title": "Both translations attach the book-leaf explanation to Fasti",
       "assessment": "T4B OCR introduces Solia [apparently Folia] autem librorum and the comparison with tree leaves before the bark/fluttering explanation. Earlier OCR omits that subject. Both English tracks instead make the explanation continue to describe Fasti. Resolving trees in T4B does not repair this shared apparent conflation.",
       "next_action": "Read the printed transition after reges et consules, establish the leaf/book-page headword and divide the clauses before adjudicating either track.",
+      "candidate_ids": [
+        "lex-f840b34cbd5f677b",
+        "lex-48fb262e7fc8878e",
+        "lex-b28df28f0e1e8744",
+        "lex-c8809d8ab462bb33",
+        "lex-fcd5237536ba735d",
+        "lex-1f935bd51546a986"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18513,6 +18781,10 @@
       "title": "Charitable admonitions and harsh measures have different relations",
       "assessment": "T4B OCR preserves monita caritatis beside ardua and precedant; earlier OCR lacks monita. Earlier English gives charity priority before arduous measures, whereas T4B makes earnest an adjective of admonitions and leaves the object of go before unstated. The disciplinary sequence needs parsing.",
       "next_action": "Transcribe ardua, precedant and monita caritatis, then identify subject/object before deciding what the adjective modifies.",
+      "candidate_ids": [
+        "lex-8e7687439aa019b7",
+        "lex-81df0e8895b192df"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18550,6 +18822,9 @@
       "title": "Rightly qualifies the work to which life is promised",
       "assessment": "Both OCRs show rite next to laborantibus, fused to the preceding conjunction in earlier OCR. T4B retains rightly; earlier English omits it. The wider argument commends good work, but the local qualification of the promise is less explicit in earlier English.",
       "next_action": "Verify the adverb in print and adjudicate whether the moral qualification should be explicit; do not assume mere labor and right labor are equivalent.",
+      "candidate_ids": [
+        "lex-eeae68dcd02a7f37"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18587,6 +18862,10 @@
       "title": "The restriction on the abbot names different boundaries",
       "assessment": "Earlier English supplies an uncertain Rule referent; T4B makes opinion modify paths. Both OCRs are damaged around huius opinionis and pretextu/preceptu. This lies outside the English excerpt of scribes-006 and is not settled by its beneficiary analysis.",
       "next_action": "Inspect the chapter ending and parse the relations; retain bracketed uncertainty until the boundary being restricted is identified.",
+      "candidate_ids": [
+        "lex-138278c6159e9a03",
+        "lex-11acb8b98e196c5a"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18624,6 +18903,9 @@
       "title": "Haymo is placed at different monasteries",
       "assessment": "Earlier OCR reads Haymonis in hirfel dia; T4B has Davonius in birffel/dia. The English place names differ. Neither the damaged OCR nor this review independently establishes the historical place identification.",
       "next_action": "Read the printed name and place and verify the historical identification before standardizing spelling.",
+      "candidate_ids": [
+        "lex-f296e41cf76d9c36"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18661,6 +18943,9 @@
       "title": "A loan safeguard becomes an unspecified precaution",
       "assessment": "Earlier English specifies a pledge; T4B says a precaution of his own. OCR around cautione is damaged. Nearby clauses have sub fide and both English tracks elsewhere say pledge, so this is a local qualification difference, not removal of every safeguard.",
       "next_action": "Transcribe the modifiers of cautione and review their relation to the surrounding loan rules before deciding whether a pledge is specified here.",
+      "candidate_ids": [
+        "lex-0cfe7bf05ff7c41e"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18698,6 +18983,10 @@
       "title": "Good conscience becomes general self-consciousness",
       "assessment": "Both OCRs preserve mens bene sibi conscia. T4B makes good conscience explicit; earlier English can suggest intensified self-awareness. The moral condition of contemplative joy is at issue, not the existence of joy.",
       "next_action": "Review the idiom and the following devotion/humility clause in the image before accepting either construction.",
+      "candidate_ids": [
+        "lex-a4e512fdbf2987e3",
+        "lex-1845a57db6a7a6b8"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18735,6 +19024,10 @@
       "title": "The relation between knowledge and God changes",
       "assessment": "Both OCRs retain cognitionem eius amicam or a damaged equivalent. Earlier English describes knowledge as friendly to God; T4B presents God as the object known as a friend. Personification is shared, but the grammatical relation is different and unresolved.",
       "next_action": "Parse eius and amicam in the personified-Scripture passage and inspect the print; distinguish grammatical repair from theological paraphrase.",
+      "candidate_ids": [
+        "lex-95c732ca1eb1fca3",
+        "lex-af2658dfa8dbe362"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18772,6 +19065,10 @@
       "title": "Teacher availability is conditional in one rendering",
       "assessment": "Earlier English qualifies the beneficiaries as those who are disposed; T4B addresses you and places teachers before the addressee. OCR positis/postitis is damaged. One hunk spans into Purge/Cleanse and also overlaps scribes-005, but that item does not resolve teacher availability.",
       "next_action": "Inspect the verb/participle after semper and parse who can find whom. Keep this separate from the following race/heart metaphor.",
+      "candidate_ids": [
+        "lex-b09e9ef5cf9285ed",
+        "lex-37a32552f7c04ffc"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18809,6 +19106,7 @@
       "title": "Both English tracks shorten the reciprocal honor of books",
       "assessment": "Earlier OCR and both English tracks have a shortened passive statement. T4B OCR preserves honorat te: sicut a te honoratur, including books honoring the owner in relation to the honor they receive. The identical English sentence hides this potential shared omission from a difference-only inventory.",
       "next_action": "Read the full reciprocal sentence and establish its subject/number in the image. Review both English tracks rather than assigning one as control.",
+      "candidate_ids": [],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18846,6 +19144,7 @@
       "title": "Both English tracks omit a clause about devoted and humble reading",
       "assessment": "T4B OCR has an intervening Lectio ... sacra ... devocione et humilitate ... clause absent from earlier OCR and both English sequences. Its exact syntax/punctuation is unresolved; it may continue into letificat rather than form a standalone sentence. Neighboring English agreement cannot establish completeness.",
       "next_action": "Verify the entire printed construction, including whether Lectio is the subject continued by letificat, before restoring or paraphrasing content.",
+      "candidate_ids": [],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18883,6 +19182,9 @@
       "title": "Opening ownership paratext appears only in T4B English",
       "assessment": "T4B supplies Monastery of Scheyern and a shelfmark before the letter. Earlier English passes directly from title to letter even though earlier OCR contains a monastery note. This is a paratext omission/identification issue, not just ignored page furniture.",
       "next_action": "Inspect the relevant cached image and distinguish inscription, shelfmark, and damaged note; do not infer an expanded place name solely from OCR.",
+      "candidate_ids": [
+        "lex-ae427471e28a6049"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18920,6 +19222,9 @@
       "title": "Contents heading changes writers into writings",
       "assessment": "The heading names writers in earlier English and writings in T4B. Both Latin OCRs preserve scriptorum or an abbreviated equivalent; the later section begins by distinguishing kinds of scribes, then kinds of works. This local context favors an actor/object distinction deserving review.",
       "next_action": "Check the printed heading and grammar against the section opening; keep writer categories separate from written works if supported.",
+      "candidate_ids": [
+        "lex-9de2d018a8122ce8"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -18971,6 +19276,9 @@
       "title": "Training-scribes contents number differs by one",
       "assessment": "Earlier English has xiii while T4B has xiiij. Earlier OCR has xiiij and T4B OCR has xiii at this entry, so assuming each English track follows its own OCR will not resolve it.",
       "next_action": "Collate the printed contents numerals and corresponding body heading before choosing a displayed chapter number.",
+      "candidate_ids": [
+        "lex-41a9093a253cc88f"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -19008,6 +19316,9 @@
       "title": "Love for the writer versus love of the scribe",
       "assessment": "The self-description changes desire and love for the writer to the desire and love of the scribe. This can change the writer from object of love to possessor/experiencer; the OCR genitive and adjacent words are damaged.",
       "next_action": "Include the genitive when collating the already flagged trembling/Jesus passage, and parse the whole self-description.",
+      "candidate_ids": [
+        "lex-e196537d53f29a46"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -19045,6 +19356,9 @@
       "title": "Salvation sentence is malformed in earlier English and repeated at T4B boundary",
       "assessment": "Earlier English reads everywhere from necessary...; T4B adds things and repeats everywhere across the page/segment break. Both OCRs have a single ubique followed across the boundary by ad animarum salutem necessaria. T4B duplication appears to be an English assembly issue while the earlier sentence lacks a sensible subject.",
       "next_action": "Collate the continuous sentence and review the boundary join, keeping the shared revelatory proposition distinct from repeated connective wording.",
+      "candidate_ids": [
+        "lex-249c792dd7181c45"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -19082,6 +19396,10 @@
       "title": "Truly moves between the condition and its consequence",
       "assessment": "Earlier English conditions finding Scripture on truly loving her; T4B says if you love it, you will truly find it. Both OCRs have Hanc/Danc si amaueris veraciter inuenies, requiring an attachment decision.",
       "next_action": "Parse veraciter in the whole sentence after confirming the print; record whether it qualifies loving or finding.",
+      "candidate_ids": [
+        "lex-0de7d9b4b245ae0f",
+        "lex-e2b4accf9a79191a"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -19119,6 +19437,9 @@
       "title": "Those who will venerate the reader are superiors or elders",
       "assessment": "Earlier English specifies superiors; T4B specifies elders. Both OCRs have maiores tui. Authority and age are different possible referents in this promise.",
       "next_action": "Review maiores in the surrounding promises and image; preserve ambiguity if context does not select age or rank.",
+      "candidate_ids": [
+        "lex-8202ad8f2c8cb5ab"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -19156,6 +19477,9 @@
       "title": "Royal blessings or gifts",
       "assessment": "Earlier English has rulers send blessings; T4B has gifts. Both OCRs preserve eulogia/euologia, so the difference concerns whether the promised benefit is a blessing or material gift.",
       "next_action": "Adjudicate eulogia in full context after reading the print; do not treat the alternatives as interchangeable without review.",
+      "candidate_ids": [
+        "lex-72d5822819c42ef8"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -19193,6 +19517,9 @@
       "title": "Obtaining books is translated twice across a T4B boundary",
       "assessment": "T4B completes obtain a multitude of books before a page marker, then starts to acquire afterward. Earlier English is also malformed around an uncertainty marker, but has only one explicit acquire. Both OCRs show one acquirere completing the pre-boundary clause.",
       "next_action": "Join the source clause across the boundary and distinguish recovery of the predicate from duplicate translation of the infinitive.",
+      "candidate_ids": [
+        "lex-b14b489972ed92db"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -19230,6 +19557,10 @@
       "title": "Books produce fruit of allotted time or time well spent",
       "assessment": "Earlier English has allotted time; T4B has time well spent. Earlier OCR has induiti temporis, T4B industri temporis. This is not safely classifiable as a mere word-order change.",
       "next_action": "Check the adjective in the printed line and its relation to temporis before choosing the temporal claim.",
+      "candidate_ids": [
+        "lex-3b210f3a93ec8c3c",
+        "lex-d292f09113e41faf"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -19267,6 +19598,10 @@
       "title": "T4B adds all to the inward duties being neglected",
       "assessment": "Both oppose outward labor to neglected inward duties; T4B explicitly says all inward things. Earlier OCR has interioribus omnissis; T4B has interiozibus omnibus. This divergence around omission versus universal quantification explains the expansion.",
       "next_action": "Inspect the adjective/participle before deciding whether all is supported; collate alongside nearby office/exemption clauses.",
+      "candidate_ids": [
+        "lex-ac55010a2d06e3d3",
+        "lex-fc06de8077240447"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -19304,6 +19639,9 @@
       "title": "T4B restores an orthography chapter title absent in earlier English",
       "assessment": "T4B supplies On Orthography and the Manner of Writing; earlier has only Chapter VIII. T4B Latin has De orthographia et modo scribendi while the earlier Latin heading is missing. This is a source-supported heading recovery candidate, distinct from the harmless VIII/8 change.",
       "next_action": "Verify the rubric in the facsimile before adding the heading to the earlier track.",
+      "candidate_ids": [
+        "lex-94fd82fb0974d416"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -19341,6 +19679,9 @@
       "title": "Compendium is rendered as an advantage or a concise method",
       "assessment": "Both translations recommend imitation of ancient learned scribes, but the thing taken from imitation differs: advantage versus concise method. Both OCRs preserve artis nostre compendium. The contextual aim is similar, but the lexical sense should be adjudicated before treating either as an exact rendering.",
       "next_action": "Review the sense of compendium in the complete exhortation; do not infer a new factual error merely from the two possible English glosses.",
+      "candidate_ids": [
+        "lex-ffe0d8f9d64df55e"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -19378,6 +19719,9 @@
       "title": "Figures and headings may assign different page-decoration work",
       "assessment": "The assistant is told to distinguish the text with marks and figures in earlier English, but notes and headings in T4B. Earlier Latin has notis ... scematibus; the context is a concrete list of manuscript-production tasks. Headings is a narrower technical choice that is not established by that OCR alone.",
       "next_action": "Inspect the actual term and assess its period sense in the copying-and-decoration list; preserve uncertainty instead of substituting a modern page feature automatically.",
+      "candidate_ids": [
+        "lex-afc0b10dad8da5c5"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -19415,6 +19759,10 @@
       "title": "The Masses qualification changes cases to persons and unbecoming to excessive",
       "assessment": "Both translations compare writing with repeated Masses, but earlier localizes the criticism in some cases while T4B localizes it in some persons and characterizes repetition as excessive. The Latin insolens in aliquibus ... phrase is damaged in the T4B OCR and allows unresolved scope. This is not a proven inversion or settled critique of particular people.",
       "next_action": "Read the entire quoted conclusion, especially insolens, in aliquibus, and the repetition noun, before fixing the scope and adjective.",
+      "candidate_ids": [
+        "lex-e04f6efbe90624ee",
+        "lex-e7700c935c598cfe"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -19466,6 +19814,10 @@
       "title": "The verse explanation loses the plowing comparison",
       "assessment": "T4B OCR contains sicut aratur terra; earlier OCR carries displaced tree wording. Both English tracks leave the comparison unresolved while preserving alternating writing directions. This is incomplete illustration, not reversal of the directions.",
       "next_action": "Check the printed comparison and its connection to the preceding book-leaf passage. Preserve uncertainty until transcribed.",
+      "candidate_ids": [
+        "lex-e311f4965fcc2a09",
+        "lex-dd3f26213799f6bd"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -19503,6 +19855,9 @@
       "title": "The final exhortation praises writings or scribes",
       "assessment": "The object changes from written works to people who write. Both OCRs retain a scriptorum-like form, abbreviated in earlier OCR. The referent deserves checking although the exhortation to the office is unchanged.",
       "next_action": "Expand and parse the printed genitive, distinguishing scribes from writings. Treat this below clear reversals.",
+      "candidate_ids": [
+        "lex-87d1cb48b94578e2"
+      ],
       "evidence": [
         {
           "source": "earlier_english",
@@ -19540,6 +19895,7 @@
       "title": "Both colophons omit an apparent printer forename",
       "assessment": "T4B OCR includes Petri before Friedberg; earlier OCR and both English tracks give only the surname. This is a small shared loss of identification if confirmed in print, not a verified identification of the historical printer.",
       "next_action": "Check the colophon before expanding the name and keep it separate from the ownership inscription in scribes-015.",
+      "candidate_ids": [],
       "evidence": [
         {
           "source": "earlier_english",
@@ -19572,5 +19928,6 @@
       ]
     }
   ],
-  "verified_reference_visits": 598
+  "verified_references": 382,
+  "report_sha256": "dd0832a266908c4c41b67e17e46b5c0042c7e339e589199fdab40902baa0bced"
 }

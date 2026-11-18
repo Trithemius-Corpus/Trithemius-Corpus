@@ -30,6 +30,16 @@
     "content_digest": {
       "$ref": "#/$defs/hash"
     },
+    "contextual_review": {
+      "type": "object",
+      "required": ["inventory_sha256", "report_sha256", "candidate_count"],
+      "properties": {
+        "inventory_sha256": {"$ref": "#/$defs/hash"},
+        "report_sha256": {"$ref": "#/$defs/hash"},
+        "candidate_count": {"type": "integer", "minimum": 0}
+      },
+      "additionalProperties": false
+    },
     "sources": {
       "type": "object",
       "minProperties": 7,

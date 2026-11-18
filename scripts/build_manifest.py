@@ -56,6 +56,7 @@ def main() -> int:
             "title",
             "year",
             "composition_year",
+            "attribution",
             "ai_corrections",
             "unclear_count",
             "source_year",
@@ -89,6 +90,7 @@ def main() -> int:
         refreshed.append(row)
 
     manifest["works"] = refreshed
+    manifest["author"] = "Johannes Trithemius (1462–1516) and associated authors; see individual work attributions"
     manifest["total_works"] = len(refreshed)
     manifest["translatable_works"] = sum(1 for w in refreshed if not w.get("skip"))
     manifest["skipped_works"] = sum(1 for w in refreshed if w.get("skip"))

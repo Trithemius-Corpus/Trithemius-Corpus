@@ -32,5 +32,9 @@
   "ocr_engine": "qwen3vl-4b-trithemius-q6 (Trithemius LoRA)",
   "translator": "gpt-5.5 (dual-context)",
   "canonical_backend": "qwen3vl-trithemius-q6-dual-gpt55",
-  "source_work_id": "prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines"
+  "source_work_id": "prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines",
+  "attribution": {
+    "author": null,
+    "attributed_to": "Johannes Trithemius"
+  }
 }

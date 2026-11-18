@@ -370,6 +370,7 @@ def build_one(w: dict) -> dict:
         "year": w.get("year"),
         "source_year": w.get("source_year"),
         "composition_year": w.get("composition_year"),
+        "attribution": w.get("attribution"),
         "ai_corrections": w.get("ai_corrections"),
         "year_note": w.get("year_note"),
         "edition_info": w.get("edition_info"),

@@ -452,5 +452,45 @@
       "next_action": "Check the complete boundary in the scan before removing a duplicated translation.",
       "tentative_preference": "earlier"
     }
-  ]
+  ],
+  "context_review": {
+    "candidate_id_version": "source-snapshot-v2",
+    "inventory_sha256": "347f77a359ec49049821c0104b783ce38f07a70957954cea617ed16c2e32f020",
+    "ledgers": [
+      {
+        "path": "context-review-a.json",
+        "sha256": "e61ff7634c40a739c916c871455390f51e0c4a3bce2d0f9aadc996b80aa36704"
+      },
+      {
+        "path": "context-review-b.json",
+        "sha256": "fb708a0ab886c63ab7af0b19bd088958a6b87bb971b8c991d795d29ecc889faf"
+      },
+      {
+        "path": "context-review-c.json",
+        "sha256": "9f1f476280c5d2a8ebd4e4f8b728afb9a3a787e0b728f8dfd4d921614ff3bb5d"
+      }
+    ]
+  },
+  "edition_history": {
+    "corrections": [
+      {
+        "path": "corrections.json",
+        "sha256": "bbefc98e005bb75e6b5d977ce84024d2389df3894792d83008d83fc7a13dd99c"
+      },
+      {
+        "path": "revisions/2026-11-17.json",
+        "sha256": "20d594cb09f895886032d40de5d4bde5cfaa6b785d8bdfc47af9c15175846db6"
+      }
+    ],
+    "scans": [
+      {
+        "path": "scan-assessments.json",
+        "sha256": "676c537c4d15829346f56444649a1eab857253ab8a62f12d7fa069b9283fb814"
+      },
+      {
+        "path": "scan-revisions/2026-11-17.json",
+        "sha256": "9345312398188ac77926940900bd7bd22cc7e154a3b1a2858357a95feabf6e78"
+      }
+    ]
+  }
 }

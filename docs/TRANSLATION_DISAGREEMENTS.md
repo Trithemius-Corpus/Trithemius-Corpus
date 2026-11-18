@@ -2,20 +2,21 @@
 
 The first pilot compares two English translations of *In Praise of Scribes*
 made from the same BSB printed witness (`bsb00037424`). The queue retains the
-original comparison, the six AI scan assessments, and the seven resulting
-local edits. Each corrected passage links back to its source evidence.
+original comparison and two dated batches of AI scan assessments. Thirteen
+edits across the two editions include a revision to an earlier pen reading.
+Each correction identifies its source folio and the wording it replaced.
 
 The source specification is
 `data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/review.json`.
 It freezes the English, Latin OCR, edition metadata, passage index, and rendered
 reading views with SHA-256 digests of UTF-8 text normalized to LF newlines.
-Changing a frozen input causes the build to fail until the evidence is reviewed
-and the specification is deliberately updated.
+It also declares each contextual ledger and correction batch. Missing parts,
+changed hashes, and coverage from a different candidate snapshot fail validation.
 
 ```console
 python scripts/build_translation_disagreements.py
 python scripts/validate_translation_disagreements.py
-python -m unittest discover -s tests -p test_translation_disagreements.py
+python -m unittest discover -s tests
 python scripts/validate_scribes_followup.py
 ```
 
@@ -60,16 +61,20 @@ translations can conceal shared errors.
 
 All assessments remain explicitly attributed to AI. The six original P1 cases
 now have direct AI assessments of institutional page images and exact crops,
-recorded in scan-assessments.json. Seven local translation edits are recorded
-in corrections.json, with original texts, hashes, normalized Latin, and errata.
-Human review remains undocumented; the legacy facsimile_verified flag remains
-false and is not used to represent the separate AI image-assessment layer.
+recorded in `scan-assessments.json`. The seven edits of November 5 are recorded in
+`corrections.json`. The November 17 scan assessments and six subsequent edits
+are in the `scan-revisions` and `revisions` directories. Folio 6v supports
+the command of the prelates and includes Rabanus between Alcuin and Regino.
+Folio 13r identifies John as former chancellor of Paris. The dated records
+preserve the exact crops, replaced text, and checksums. Human review is pending.
 
 The original comparison is frozen under snapshots/before-corrections. It is
 retained as historical evidence while each affected card shows its local
 resolution. Candidate IDs include both English source digests and scope; the
 positional-v1 to snapshot-v2 migration map preserves the earlier references.
-The six benchmark fixtures are AI scan-assessed seeds, not human-validated gold.
+Five original benchmark seeds remain provisional. The sixth, concerning the
+pen on folio 3v, is withheld. The print supports *iterum* and *calamus*. A Latin
+reader still needs to adjudicate the possible *intinctus* and its syntax.
 
 Every queued record includes verbatim English and both Latin OCR excerpts,
 one-based line numbers, zero-based Unicode character offsets (end exclusive),
@@ -79,8 +84,8 @@ for subsequent scan review.
 
 Earlier English links use an existing passage fragment only when the excerpt
 occurs in exactly one indexed passage. Otherwise the link is work-level. T4B
-links are work-level because this reading view lacks equivalent passage
-anchors. The report also records whether an archive quotation survives in the
+links in the original comparison refer to its frozen work-level target.
+The report also records whether an archive quotation survives in the
 reading view, avoiding an assumption that raw and edited displays are identical.
 Evidence links open the four bundled source views and work offline. Optional
 published-reader and institutional-record links open public websites; validation
@@ -98,9 +103,9 @@ These checks establish artifact integrity. They do not replace a human reading
 of the Latin or the source scan, and they do not turn the lexical inventory into
 an automatically adjudicated translation.
 
-The first correction batch is audited by `validate_scribes_followup.py`, which
-replays every recorded change against the preserved before-texts and checks the
-passage/annotation IDs. `rebuild_scribes.py` rebuilds only this work, avoiding
-unavailable private cipher-layout inputs. The no-longer-unclear storehouse phrase
+Both correction batches are audited by `validate_scribes_followup.py`, which
+replays every recorded change against the preserved before-texts, checks the
+edition errata and rendered readings, and verifies the passage and annotation
+IDs. `rebuild_scribes.py` targets the Scribes edition. The storehouse phrase
 retains an `[ed.]` marker so its annotation ID and later note IDs remain stable;
 the work's errata explain that intervention.

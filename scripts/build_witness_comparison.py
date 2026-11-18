@@ -82,13 +82,13 @@ def make_tei(data: dict) -> bytes:
     return ET.tostring(root, encoding="utf-8", xml_declaration=True) + b"\n"
 
 
-def publish(data: dict) -> None:
-    OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / "anna-tetrastichon.json").write_text(
+def publish(data: dict, output: Path = OUT) -> None:
+    output.mkdir(parents=True, exist_ok=True)
+    (output / "anna-tetrastichon.json").write_text(
         json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
-    (OUT / "anna-tetrastichon.tei.xml").write_bytes(make_tei(data))
-    with (OUT / "anna-tetrastichon.tsv").open("w", encoding="utf-8", newline="") as handle:
+    (output / "anna-tetrastichon.tei.xml").write_bytes(make_tei(data))
+    with (output / "anna-tetrastichon.tsv").open("w", encoding="utf-8", newline="") as handle:
         writer = csv.writer(handle, delimiter="\t", lineterminator="\n")
         writer.writerow(["unit", "line", "class", "lemma", "witness", "reading", "facsimile", "note"])
         by_id = {w["id"]: w for w in data["witnesses"]}

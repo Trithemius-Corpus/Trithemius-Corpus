@@ -32,7 +32,7 @@
       "rights": "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica",
       "required_statement": "Images: Bibliothèque nationale de France, Gallica. See Gallica's conditions of use.",
       "page_offset": 0,
-      "mapping_precision": "exact"
+      "mapping_precision": "approximate"
     }
   }
 }

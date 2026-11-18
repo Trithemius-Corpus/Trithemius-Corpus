@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0",
   "corpus": "Trithemius",
-  "author": "Johannes Trithemius (1462-1516)",
+  "author": "Johannes Trithemius (1462–1516) and associated authors; see individual work attributions",
   "translator": "Ian Carlos Fabin",
   "license": "CC-BY-4.0 for documentation/code/arrangement; CC0-1.0 for generated translation artifacts (see LICENSE)",
   "url": "https://github.com/Trithemius-Corpus/Trithemius-Corpus",
@@ -412,10 +412,10 @@
       "license": "CC0-1.0",
       "composition_year": "1492",
       "ai_corrections": {
-        "date": "2026-11-05",
-        "count": 3,
+        "date": "2026-11-17",
+        "count": 5,
         "human_review": "none_documented",
-        "note": "AI scan-supported local corrections; historical machine audits predate these edits. See editorial corrections."
+        "note": "Dated AI scan assessments and each original reading appear in the edition errata. The pen modifier remains provisional. Historical machine audits predate these edits."
       }
     },
     {
@@ -1642,7 +1642,11 @@
       ],
       "duplicate_source_group": null,
       "duplicate_source_note": null,
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "attribution": {
+        "author": "Hucbald of Saint-Amand",
+        "transmitted_by": "Johannes Trithemius"
+      }
     },
     {
       "id": "prdl-24387_missale-benedictinum-bursfeldense",
@@ -2004,7 +2008,11 @@
       ],
       "duplicate_source_group": null,
       "duplicate_source_note": null,
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "attribution": {
+        "author": null,
+        "attributed_to": "Johannes Trithemius"
+      }
     },
     {
       "id": "prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines",
@@ -2046,7 +2054,11 @@
       ],
       "duplicate_source_group": null,
       "duplicate_source_note": null,
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "attribution": {
+        "author": null,
+        "attributed_to": "Johannes Trithemius"
+      }
     },
     {
       "id": "prdl-70293_von-den-syben-geysten-oder-engeln",

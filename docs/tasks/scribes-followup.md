@@ -49,9 +49,8 @@ and reasoning. Machine-audit labels now explicitly predate the corrections.
 The six resolved prioritized records retain their original comparison and show
 the local resolution plus scan evidence. A separate current-text recomparison
 is generated without carrying old contextual classifications onto new IDs.
-Six benchmark seeds preserve the accepted local readings and remain explicitly
-unverified by a human. The full-reader image map is labeled approximate; the
-six individual image locations are documented separately with checked crops.
+The November 5 batch originally supplied six provisional benchmark seeds.
+Its source evidence remains available alongside the subsequent revision.
 
 Completed local checks:
 
@@ -75,3 +74,14 @@ Completed local checks:
 
 On 2026-11-17, the official pinned EPUBCheck 5.3.0 validated all 47 EPUBs
 locally using Java 17, with zero warnings or errors.
+
+## November 17 scan revisions
+
+The second batch records six edits across the two editions. Folio 6v supports
+the command of the prelates and includes Rabanus in the list of monastic writers.
+Folio 13r identifies John as former chancellor of Paris. Both English editions
+now mark the possible modifier “dipped” on folio 3v as uncertain. Its benchmark
+seed is withheld pending adjudication by a Latin reader. The other five original
+seeds remain provisional. The frozen contextual judgments cover 1,728 candidates
+and the consolidated report now attaches the later scan decisions to their
+three original findings, including the shared omission of Rabanus.

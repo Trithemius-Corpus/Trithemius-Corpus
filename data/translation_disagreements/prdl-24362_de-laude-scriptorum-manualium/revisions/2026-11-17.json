@@ -1,0 +1,115 @@
+{
+  "schema_version": "1.1",
+  "date": "2026-11-17",
+  "work_id": "prdl-24362_de-laude-scriptorum-manualium",
+  "status": "applied_locally",
+  "human_review": "none_documented",
+  "review_method": "Codex AI examined the printed witness and exact crops. The pen modifier remains provisional.",
+  "changes": [
+    {
+      "item_id": "scribes-003",
+      "track": "earlier",
+      "before": "my sight trembles; likewise my pen",
+      "after": "my [dipped?] pen trembles again",
+      "files": [
+        "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0003.md"
+      ]
+    },
+    {
+      "item_id": "scribes-003",
+      "track": "t4b",
+      "before": "my sight trembles; likewise my pen",
+      "after": "my [dipped?] pen trembles again",
+      "files": [
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0002.md"
+      ]
+    },
+    {
+      "item_id": "A-F18",
+      "track": "t4b",
+      "before": "the command of Plato",
+      "after": "the command of the prelates",
+      "files": [
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0005.md"
+      ]
+    },
+    {
+      "item_id": "A-F23",
+      "track": "earlier",
+      "before": "Cassiodorus, Bede, Alcuin, Regino, Peter Damian",
+      "after": "Cassiodorus, Bede, Alcuin, Rabanus, Regino, Peter Damian",
+      "files": [
+        "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0006.md"
+      ]
+    },
+    {
+      "item_id": "A-F23",
+      "track": "t4b",
+      "before": "Cassiodorus, Bede, Alcuin, Regino, Peter Damian",
+      "after": "Cassiodorus, Bede, Alcuin, Rabanus, Regino, Peter Damian",
+      "files": [
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0005.md"
+      ]
+    },
+    {
+      "item_id": "B-F10",
+      "track": "t4b",
+      "before": "to Johannes Cellarius of Paris, a most learned man",
+      "after": "to John, formerly chancellor of Paris, a most learned man",
+      "files": [
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0011.md"
+      ]
+    }
+  ],
+  "files": [
+    {
+      "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-2026-11-17/works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+      "before_sha256": "52f406ffe8d22a7f1e832cfffb3c845cf9991a0fa25e06580e7e0659480d7346",
+      "after_sha256": "2e1bca9f894aeae173d488b0f47a864d9847f56ad8d1490e030836d0a0dd4963"
+    },
+    {
+      "path": "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0003.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-2026-11-17/works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0003.md",
+      "before_sha256": "3adc524a90f49b18ab05d158008c1024b5885258e940e6465bdcc90b244cfb69",
+      "after_sha256": "056f891918a64b827eed10ec3fc9f7acee89af0bda57922b92b0865869f7e3aa"
+    },
+    {
+      "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-2026-11-17/works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+      "before_sha256": "524a951c16ab95def68f6913fea2c7d2d82d5bb04d987d0d0a7f7278f0acbbcd",
+      "after_sha256": "378f7d339143d2961347da3b56c928f12ab0735b4f19095b36f8cd62b3a436b8"
+    },
+    {
+      "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0002.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-2026-11-17/works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0002.md",
+      "before_sha256": "2ec2eb1ec12d11cf5b31c24716b3181f7624b67c0679344b717f74cc794e3631",
+      "after_sha256": "d9bbb2b1122b2fe194850f764eefa48580882e2538b736ac59120889d73a065d"
+    },
+    {
+      "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0005.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-2026-11-17/works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0005.md",
+      "before_sha256": "aad672771cb278adfdb11c54e1d4f653e0de5f231f8eef9e77f148702bfbd8b6",
+      "after_sha256": "4c9ff72e34e0f6bc48f4c476613866f909fafb88ef601ff35f7baf6ed134e7b2"
+    },
+    {
+      "path": "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0006.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-2026-11-17/works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0006.md",
+      "before_sha256": "1185e8a29999013e80f4780314fe291cf2e55fc5a597d7ce822f1b8ef423cabf",
+      "after_sha256": "df93c2b03bb1b3a3130267a66afefe7d11371125cd586da6ef2ae32b2df85e2e"
+    },
+    {
+      "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0011.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-2026-11-17/works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0011.md",
+      "before_sha256": "494656f4767dd2040cddbee903099f464107286cd2bfd02f8fc822547a4c7002",
+      "after_sha256": "6e601f33c7f2de58eabc66a22c8fe8411f7df5b1d8223499d8ca3b2fec869c83"
+    }
+  ],
+  "metadata_edits": []
+}

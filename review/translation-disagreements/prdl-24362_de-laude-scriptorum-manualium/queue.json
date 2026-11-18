@@ -126,9 +126,11 @@
         "human_review": "none_documented"
       },
       "local_corrections": {
-        "date": "2026-11-05",
         "status": "applied_locally",
         "human_review": "none_documented",
+        "dates": [
+          "2026-11-05"
+        ],
         "changes": [
           {
             "item_id": "scribes-001",
@@ -138,9 +140,11 @@
             "files": [
               "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
               "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0001.md"
-            ]
+            ],
+            "date": "2026-11-05"
           }
-        ]
+        ],
+        "date": "2026-11-05"
       },
       "english": {
         "earlier": {
@@ -253,9 +257,11 @@
         "human_review": "none_documented"
       },
       "local_corrections": {
-        "date": "2026-11-05",
         "status": "applied_locally",
         "human_review": "none_documented",
+        "dates": [
+          "2026-11-05"
+        ],
         "changes": [
           {
             "item_id": "scribes-002",
@@ -265,9 +271,11 @@
             "files": [
               "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
               "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0008.md"
-            ]
+            ],
+            "date": "2026-11-05"
           }
-        ]
+        ],
+        "date": "2026-11-05"
       },
       "english": {
         "earlier": {
@@ -349,10 +357,10 @@
       "review_status": "ai_triaged_pending_human_review",
       "facsimile_verified": false,
       "ai_scan_assessment": {
-        "decision": "accepted_for_local_correction",
-        "preferred_reading": "earlier",
-        "normalized_latin": "tremet [intuitus] iterum calamus",
-        "reason": "The printed line describes trembling and calamus. The word spanning the line break is iterum, not a reference to Jesus. The reading intuitus is retained as an interpretive reading of the minims.",
+        "date": "2026-11-17",
+        "decision": "applied_with_word_withheld",
+        "normalized_latin": "tremet [intinctus?] iterum calamus",
+        "reason": "The verb tremet and the nominative calamus support a trembling pen. The word divided at the line ending is iterum. The sequence before it appears to read intinctus, a masculine participle that can describe a dipped pen. The earlier reading intuitus gave “my sight” more certainty than the type warrants. The brackets in the English mark the unresolved modifier. A Latin reader should adjudicate the letterforms, the syntax and the placement of iterum.",
         "image": {
           "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/8",
           "label": "3v (0008)",
@@ -376,27 +384,44 @@
           ],
           "sha256": "df5145e919c6965ad1228da121e8fd766caeb14026044775d0ed8094df624fb5"
         },
-        "ocr_page_to_canvas_offset": -1,
-        "mapping_basis": "Opening/closing words visually matched to this printed page; institutional folio label retained.",
+        "mapping_basis": "Words matched visually with the printed folio and its institutional canvas.",
         "reviewer": "Codex AI",
-        "human_review": "none_documented"
+        "human_review": "none_documented",
+        "supersedes_date": "2026-11-05",
+        "benchmark_status": "withheld_pending_human_adjudication"
       },
       "local_corrections": {
-        "date": "2026-11-05",
         "status": "applied_locally",
         "human_review": "none_documented",
+        "dates": [
+          "2026-11-05",
+          "2026-11-17"
+        ],
         "changes": [
           {
             "item_id": "scribes-003",
+            "track": "earlier",
+            "before": "my sight trembles; likewise my pen",
+            "after": "my [dipped?] pen trembles again",
+            "files": [
+              "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+              "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0003.md"
+            ],
+            "date": "2026-11-17"
+          },
+          {
+            "item_id": "scribes-003",
             "track": "t4b",
-            "before": "my pen trembles, looking again to Jesus",
-            "after": "my sight trembles; likewise my pen",
+            "before": "my sight trembles; likewise my pen",
+            "after": "my [dipped?] pen trembles again",
             "files": [
               "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
               "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0002.md"
-            ]
+            ],
+            "date": "2026-11-17"
           }
-        ]
+        ],
+        "date": "2026-11-17"
       },
       "english": {
         "earlier": {
@@ -510,9 +535,11 @@
         "human_review": "none_documented"
       },
       "local_corrections": {
-        "date": "2026-11-05",
         "status": "applied_locally",
         "human_review": "none_documented",
+        "dates": [
+          "2026-11-05"
+        ],
         "changes": [
           {
             "item_id": "scribes-004",
@@ -522,9 +549,11 @@
             "files": [
               "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
               "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0020.md"
-            ]
+            ],
+            "date": "2026-11-05"
           }
-        ]
+        ],
+        "date": "2026-11-05"
       },
       "english": {
         "earlier": {
@@ -638,9 +667,11 @@
         "human_review": "none_documented"
       },
       "local_corrections": {
-        "date": "2026-11-05",
         "status": "applied_locally",
         "human_review": "none_documented",
+        "dates": [
+          "2026-11-05"
+        ],
         "changes": [
           {
             "item_id": "scribes-005",
@@ -650,7 +681,8 @@
             "files": [
               "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
               "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0020.md"
-            ]
+            ],
+            "date": "2026-11-05"
           },
           {
             "item_id": "scribes-005",
@@ -660,9 +692,11 @@
             "files": [
               "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
               "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0018.md"
-            ]
+            ],
+            "date": "2026-11-05"
           }
-        ]
+        ],
+        "date": "2026-11-05"
       },
       "english": {
         "earlier": {
@@ -777,9 +811,11 @@
         "human_review": "none_documented"
       },
       "local_corrections": {
-        "date": "2026-11-05",
         "status": "applied_locally",
         "human_review": "none_documented",
+        "dates": [
+          "2026-11-05"
+        ],
         "changes": [
           {
             "item_id": "scribes-006",
@@ -789,9 +825,11 @@
             "files": [
               "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
               "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0014.md"
-            ]
+            ],
+            "date": "2026-11-05"
           }
-        ]
+        ],
+        "date": "2026-11-05"
       },
       "english": {
         "earlier": {
@@ -1808,5 +1846,10 @@
       ]
     }
   ],
-  "content_digest": "fb123e23b1154d75e0e4e9d99f92d9188952222924f35d1febcff95c2ce35adf"
+  "content_digest": "b049ae31cd70a7e628aab3d78d3c3e4b5bb3436df56c41aab8302da661bde458",
+  "contextual_review": {
+    "inventory_sha256": "347f77a359ec49049821c0104b783ce38f07a70957954cea617ed16c2e32f020",
+    "report_sha256": "dd0832a266908c4c41b67e17e46b5c0042c7e339e589199fdab40902baa0bced",
+    "candidate_count": 1728
+  }
 }

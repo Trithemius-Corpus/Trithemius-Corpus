@@ -17,7 +17,14 @@
 <meta name="theme-color" content="#100d12">
 <link rel="stylesheet" href="../static/fonts.css">
 <link rel="stylesheet" href="../static/style.css">
-<meta name="robots" content="index,follow"><script>
+<meta name="robots" content="index,follow"><meta data-pagefind-filter="collection[content]" content="editions">
+<meta data-pagefind-meta="sourceRevision[content]" content="22be1b74c340c024ef70652f834b724209c191c95c060e5ef358533b757ab142">
+<meta data-pagefind-meta="workGroup[content]" content="in praise of the most holy mother anne">
+<meta data-pagefind-meta="workTitle[content]" content="In Praise of the Most Holy Mother Anne">
+<meta data-pagefind-meta="witness[content]" content="Mainz, 1494">
+<meta data-pagefind-meta="track[content]" content="Earlier edition">
+<meta data-pagefind-meta="view[content]" content="latin">
+<script>
   // Apply the saved theme before first paint to avoid a flash of the wrong theme.
   // 'auto' resolves from the OS colour-scheme preference (light→parchment,
   // dark→steganographia) and is stored on a distinct attribute so the switcher
@@ -330,12 +337,12 @@
   updateDisplay();
 })();
 </script>
-<div class="pp-grid" data-asset="../">
+<div class="pp-grid" data-glossary="../static/reader-glossary.json" data-genre="marian-hagiographic">
   <div class="pp-head pp-col-n" aria-hidden="true">#</div>
   <div class="pp-head">Latin (source OCR)</div>
   <div class="pp-head">English</div>
 <div class="pp-n" id="seg-1" data-segment="1"><a href="#seg-1">1</a></div>
-  <div class="pp-latin" lang="la" data-segment="1">Joannis tritemij abbatis
+  <div class="pp-latin" lang="la" data-segment="1" data-pagefind-body><span id="latin-seg-1"></span>Joannis tritemij abbatis
 spanhemensis Tetrastichon de sanctissima ma-
 tre anna.
 Uirginis almifice mater venerabilis anna
@@ -490,7 +497,7 @@ as to come, whom the holy fathers sang of. Hail.</p>
 <p>Anne, you bear the enclosed paradise, happy with the tree of life,
 and sacred with every honor of the countryside. Hail.</p></div>
 <div class="pp-n" id="seg-2" data-segment="2"><a href="#seg-2">2</a></div>
-  <div class="pp-latin" lang="la" data-segment="2">Anna grauis gestas ortum quē flāmeus ensis
+  <div class="pp-latin" lang="la" data-segment="2" data-pagefind-body><span id="latin-seg-2"></span>Anna grauis gestas ortum quē flāmeus ensis
 Custodit cherubin nocte dieqꝫ calens.
 Aue.
 Anna geris florem qui candida lilia vincat.
@@ -710,7 +717,7 @@ Only-begotten and most loving God, who deigned to choose blessed Anne as the mot
 <p><em>The poem of Ada Wernher of Themar on most holy Anne. To the reverend father lord Johannes Trithemius, abbot.</em></p>
 <p>We sing in praise of the renowned grandmother. Move the plectra of [unclear], dear grandson, nor you, daughter, fail the singer, chaste parent of the choir. Anne, offspring of kings, is given to a husband. Long childless, she laments herself barren; with weeping she prays for offspring, nor do the tears flow in vain. Heavenly messengers promise a child. Pregnant, joined to her husband, then in childbirth, she is proved by the child born, through whom our salvation came. Thus the venerable stock of Jesse grew green; the fertile rod came forth with fruitful shoot; refreshed by its flower, we live again, death conquered.</p></div>
 <div class="pp-n" id="seg-3" data-segment="3"><a href="#seg-3">3</a></div>
-  <div class="pp-latin" lang="la" data-segment="3">Hoc partu ioachim sistere delubris
+  <div class="pp-latin" lang="la" data-segment="3" data-pagefind-body><span id="latin-seg-3"></span>Hoc partu ioachim sistere delubris
 Fit dignus.remouens pontificis probra
 Sic nos anna nepoti
 Puros ferre preces para.
@@ -849,7 +856,7 @@ Inclyta mater.</div>
 <p>Most powerful, dwelling in the court of the highest King, she wipes away stains by prayer, confers grace, and leads faithful souls to the stars.</p>
 <p>Here, brothers who throng to your feasts, expressing vows and praying good things of you: help, preserve, refresh, and govern us, illustrious mother.</p></div>
 <div class="pp-n" id="seg-4" data-segment="4"><a href="#seg-4">4</a></div>
-  <div class="pp-latin" lang="la" data-segment="4">¶ Sit decus virtus supero tonanti
+  <div class="pp-latin" lang="la" data-segment="4" data-pagefind-body><span id="latin-seg-4"></span>¶ Sit decus virtus supero tonanti
 Qui deus simplex pariterqꝫ trinus
 Glorie magne tribuit coronam
 Iugiter anne. Amen.
@@ -1216,6 +1223,7 @@ of venerable Anne, which a learned man has brought forth for you.</p>
   }
   if(grid){
     grid.addEventListener('click',function(e){
+      if(e.target.closest('button, a, summary'))return;
       var cell=e.target.closest('[data-segment]');
       if(!cell)return;
       var other=counterpart(cell);
@@ -1231,7 +1239,7 @@ of venerable Anne, which a learned man has brought forth for you.</p>
   update();
 })();
 </script>
-<script src="../static/glossary.js"></script>
+<script type="module" src="../static/glossary.js"></script>
 
 </main>
 
@@ -1258,8 +1266,8 @@ of venerable Anne, which a learned man has brought forth for you.</p>
       </div>
     </div>
     <p class="footer-byline muted">
-      Machine-assisted English translations of the Latin works of Johannes Trithemius (1462&ndash;1516).
-      Every translation is machine-produced and independently audited; for scholarly quotation, check the Latin.
+      Machine-assisted English translations of Latin texts by or associated with Johannes Trithemius (1462&ndash;1516).
+      Each edition records its audit coverage. Check the Latin before quoting a translation.
       Translations &amp; generated data: CC0. Methodology, documentation, code &amp; corpus arrangement: CC BY 4.0.
 <a href="../LICENSE.html">License &amp; rights</a>. Compiled 2026 by Ian Carlos Fabin.
     </p>

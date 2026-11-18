@@ -6,11 +6,11 @@
 [![Site](https://img.shields.io/badge/site-trithemius--corpus.github.io%2FTrithemius--Corpus-25483f)](https://trithemius-corpus.github.io/Trithemius-Corpus/)
 <!-- DOI badge added at v1.0 release: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
 
-**Machine-assisted English translations of the Latin corpus of Johannes Trithemius (1462-1516): 29 distinct texts across 47 printed editions.**
+**Machine-assisted English translations of 29 Latin texts by or associated with Johannes Trithemius (1462–1516), across 47 printed witnesses.**
 
 Johannes Trithemius, Benedictine abbot of Sponheim and later Wurzburg, was a bibliographer, monastic reformer, cryptographer, historian, and one of the more idiosyncratic minds of the early German Renaissance. His cryptographic works attracted modern attention, but most of his monastic, Marian, hagiographic, pastoral, devotional, and historical writing has remained locked in early-modern Latin print.
 
-This project translates **29 works across 47 printed editions** into English. Where several early printings of a text survive, each source witness was OCR'd and translated independently. The corpus is machine-produced, but it was also independently audited chunk by chunk against the Latin, remediated where the audit found fabrication or omission, and rebuilt into a public release view.
+Where several printings survive, each source witness has its own OCR and English translation. The work records give the extent of automated audit coverage and distinguish those scores from subsequent editorial changes. Dated errata identify corrections that readers can check against the Latin.
 
 ## What's in the corpus
 
@@ -57,7 +57,7 @@ The cryptographic and occult works carry extra **Special scholarly renderings** 
 
 Start with [`METHODOLOGY.md`](METHODOLOGY.md) for the OCR, translation, grading, remediation, limitations, and reproducibility notes.
 
-For *In Praise of Scribes*, the [translation review guide](docs/TRANSLATION_DISAGREEMENTS.md) explains how to inspect the two English readings, the Latin transcriptions, and the scan evidence for the seven corrections. The [offline review](review/translation-disagreements/prdl-24362_de-laude-scriptorum-manualium/index.html) is included with the checkout.
+For *In Praise of Scribes*, the two English editions can be checked against the Latin transcriptions, photographed pages, and dated correction records. The review also identifies the disputed pen reading that awaits a Latin reader. [Translation review guide](docs/TRANSLATION_DISAGREEMENTS.md) · [Offline review](review/translation-disagreements/prdl-24362_de-laude-scriptorum-manualium/index.html)
 
 ## What this is and is not
 

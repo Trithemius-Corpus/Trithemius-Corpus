@@ -300,12 +300,6 @@ def build_t4b_work_page(env, work: dict) -> str:
     display_work["fluent_adj"] = work.get("faithful_adj", 0)  # T4B doesn't have separate fluent grade
     display_work["is_primary"] = True
     bs.attach_public_status(display_work, edition_track="trithemius-4b")
-    if any(work_id.startswith(prefix) for prefix in (
-        "prdl-24389_", "prdl-24391_", "prdl-24395_",
-        "prdl-70282_", "prdl-70291_", "prdl-70292_",
-    )):
-        display_work["editorial_state"] = "Structured diplomatic view"
-
     desc = f"Provisional machine-produced Trithemius 4B English reading text of {work.get('title_en') or work.get('title', work_id)} ({work.get('year', '')}), produced from a corpus-trained Qwen3-VL OCR witness and GPT-5.5 dual-context translation."
 
     return env.get_template("work.html.j2").render(
@@ -317,7 +311,7 @@ def build_t4b_work_page(env, work: dict) -> str:
         chapters=chapters,
         chapter_anchor="seg",
         related=[],
-        citation=bs.citation_text(display_work) if hasattr(bs, "citation_text") else "",
+        citation=bs.citation_text(display_work),
         work_id=work_id,
         work_title=work.get("title_en") or work.get("title") or work_id,
         reading_body_has_title=True,
@@ -328,12 +322,12 @@ def build_t4b_work_page(env, work: dict) -> str:
         errata_html=bs._errata_markup(work_dir / 'ERRATA.md') if (work_dir / 'ERRATA.md').exists() else None,
         prev_work=None,
         next_work=None,
-        all_work_ids=[w["id"] for w in load_t4b_works()],
+        all_work_ids=[w["id"] + "-trithemius-4b" for w in load_t4b_works()],
         solve=None,
         work_cover=None,
         url=bs.make_url(1),
         asset=bs.make_asset(1),
-        **bs.page_meta(f"works/{work_id}-trithemius-4b.html", desc, nav="works"),
+        **bs.page_meta(bs.reading_path(display_work), desc, nav="works", jsonld=bs.work_jsonld(display_work)),
     )
 
 
@@ -389,7 +383,7 @@ record, including the works that were tried and did not ship from this lane.</p>
     )
 
 
-def main() -> int:
+def render_pages() -> int:
     env = bs.make_env()
     works = load_t4b_works()
     if not works:
@@ -423,7 +417,7 @@ def link_t4b_into_main_pages(t4b_works: list[dict]) -> None:
     linked = 0
     for tw in t4b_works:
         work_id = tw["id"]
-        main_page = works_out / f"{work_id}.html"
+        main_page = works_out / f"{tw.get('standard_witness', work_id)}.html"
         if not main_page.exists():
             continue
         html = main_page.read_text(encoding="utf-8")
@@ -456,6 +450,13 @@ def link_t4b_into_main_pages(t4b_works: list[dict]) -> None:
                 main_page.write_text(html, encoding="utf-8")
                 linked += 1
     print(f"  Linked T4B editions from {linked} main work pages")
+
+
+def main() -> int:
+    with bs.staged_site():
+        if render_pages():
+            raise ValueError("T4B edition sources are missing")
+    return 0
 
 
 if __name__ == "__main__":

@@ -35,9 +35,9 @@
   "source_work_id": "prdl-24362_de-laude-scriptorum-manualium",
   "composition_year": "1492",
   "ai_corrections": {
-    "date": "2026-11-05",
-    "count": 4,
+    "date": "2026-11-17",
+    "count": 8,
     "human_review": "none_documented",
-    "note": "AI scan-supported local corrections; historical machine audits predate these edits. See editorial corrections."
+    "note": "Dated AI scan assessments and each original reading appear in the edition errata. The pen modifier remains provisional. Historical machine audits predate these edits."
   }
 }

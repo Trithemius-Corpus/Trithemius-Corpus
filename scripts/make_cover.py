@@ -10,6 +10,7 @@ Usage as a module: build_cover_svg(work) -> str  (inline SVG for the page)
 import html
 import re
 import textwrap
+from edition_metadata import attribution
 
 
 # Ornament glyphs that read in most serif/system fonts. A composite printer's
@@ -53,7 +54,7 @@ def _wrap(title: str, max_chars: int) -> list[str]:
 def _year_label(work: dict) -> str:
     """e.g. 'Basel, 1518' or 'Composed 1494 · Printed 1518'."""
     src_year = work.get("source_year") or work.get("year")
-    comp_year = work.get("year")
+    comp_year = work.get("composition_year")
     parts = []
     if comp_year and src_year and comp_year != src_year:
         parts.append(f"Composed {comp_year}")
@@ -151,7 +152,7 @@ def build_cover_svg(work: dict, *, width: int = 800) -> str:
   </g>
   <!-- corpus attribution (top) -->
   <text x="50%" y="78" class="brand" text-anchor="middle" fill="#8a7a4a">
-    JOHANNES TRITHEMIUS
+    {html.escape((attribution(work).get('author') or 'Unidentified author').upper())}
   </text>
   <!-- ornament -->
   <g transform="translate({width//2}, {orn_y})" style="color:#c9a24a">

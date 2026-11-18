@@ -1,9 +1,7 @@
 name: Deploy site to GitHub Pages
 
-# The site is built locally (scripts/build_site.py needs the working corpus,
-# which is intentionally NOT in this repo) and the rendered output is
-# committed under site/dist/. This workflow only publishes that directory —
-# it does not rebuild. Rebuild locally and commit site/dist/ before pushing.
+# This workflow validates the checked-in publication and uploads those same bytes.
+# The reader-quality workflow independently exercises reconstruction.
 
 on:
   push:
@@ -15,37 +13,41 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
   group: pages
   cancel-in-progress: true
 
 jobs:
+  validate-and-upload:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m pip install -r requirements.txt
+      - name: Validate the publication at the triggering commit
+        run: |
+          python scripts/check_publication.py
+          python scripts/run_epubcheck.py site/dist/editions/epub/*.epub
+          git diff --exit-code HEAD -- site/dist
+          test -z "$(git ls-files --others -- site/dist)"
+      - name: Upload the validated directory
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site/dist
+
   deploy:
+    needs: validate-and-upload
+    permissions:
+      pages: write
+      id-token: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Sanity-check built site
-        run: |
-          test -f site/dist/index.html || { echo "site/dist/index.html missing — build & commit the site first"; exit 1; }
-          test -f site/dist/.nojekyll || touch site/dist/.nojekyll
-          echo "pages: $(find site/dist -name '*.html' | wc -l) html files"
-
-      - name: Configure Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: site/dist
-
-      - name: Deploy
+      - name: Deploy verified artifact
         id: deployment
         uses: actions/deploy-pages@v4

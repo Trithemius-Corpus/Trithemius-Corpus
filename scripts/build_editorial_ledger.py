@@ -9,65 +9,14 @@ OUT = ROOT / "data" / "editorial_status.json"
 REVIEWS = ROOT / "data" / "editorial_reviews.json"
 
 
-def qa_status(meta: dict) -> tuple[str, float]:
-    graded = int(meta.get("chunks_graded") or 0)
-    total = int(meta.get("chunks_total") or 0)
-    coverage = graded / total * 100 if total else float(meta.get("coverage_pct") or 0)
-    if graded and coverage >= 95:
-        return "full-machine-audit", round(coverage, 1)
-    if graded:
-        return "sampled-machine-audit", round(coverage, 1)
-    return "not-independently-audited", 0.0
-
-
-def record(meta: dict, track: str, editorial_state: str) -> dict:
-    qa, coverage = qa_status(meta)
-    return {
-        "id": meta["id"],
-        "edition_track": track,
-        "text_origin": "machine-translation",
-        "human_review": "none-documented",
-        "editorial_state": editorial_state,
-        "automated_qa": qa,
-        "automated_qa_coverage_pct": coverage,
-        "internal_triage": "C",
-        "known_limitations": [
-            "not-human-verified",
-            "check-against-latin-before-quotation",
-        ],
-        "historical_machine_grade": meta.get("tier"),
-        "historical_faithfulness_score": meta.get("faithful_adj"),
-    }
-
-
-def main() -> int:
-    reviews = json.loads(REVIEWS.read_text(encoding="utf-8")).get("reviews", {}) if REVIEWS.exists() else {}
+def payload() -> dict:
+    from edition_metadata import editorial_record
+    reviews = json.loads(REVIEWS.read_text(encoding="utf-8"))["reviews"]
     manifest = json.loads((ROOT / "manifest.json").read_text(encoding="utf-8"))
-    records = [
-        record(work, "earlier", "provisional-reading-text")
-        for work in manifest.get("works", []) if not work.get("skip")
-    ]
-
-    for meta_path in sorted((ROOT / "works-t4b").glob("*/metadata.json")):
-        meta = json.loads(meta_path.read_text(encoding="utf-8"))
-        # All T4B pages have received display-level editorial cleanup. Six
-        # structurally sensitive cipher/sigil works intentionally retain their
-        # segment divisions and are labeled accordingly.
-        specialized = any(meta["id"].startswith(prefix) for prefix in (
-            "prdl-24389_", "prdl-24391_", "prdl-24395_",
-            "prdl-70282_", "prdl-70291_", "prdl-70292_",
-        ))
-        state = "structured-diplomatic-view" if specialized else "prepared-reading-text"
-        edition = record(meta, "trithemius-4b", state)
-        review = reviews.get(f"{meta['id']}::trithemius-4b", {})
-        if review.get("status") == "approved" and review.get("scope") == "reading-view":
-            edition["human_review"] = "editorial-reading-view"
-            edition["editorial_state"] = "editorially-reviewed-reading-view"
-            edition["review_date"] = review.get("date")
-            edition["review_note"] = review.get("note")
-        records.append(edition)
-
-    payload = {
+    records = [editorial_record(w, "earlier", reviews) for w in manifest["works"] if not w["skip"]]
+    for path in sorted((ROOT / "works-t4b").glob("*/metadata.json")):
+        records.append(editorial_record(json.loads(path.read_text(encoding="utf-8")), "trithemius-4b", reviews))
+    return {
         "schema_version": 1,
         "policy": {
             "public_letter_grades": False,
@@ -82,8 +31,48 @@ def main() -> int:
         },
         "editions": records,
     }
-    OUT.write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    print(f"Wrote {len(records)} edition records to {OUT}")
+
+
+
+def summary() -> str:
+    from build_site import text_group_key, load_first_english, load_manifest
+    works = [w for w in load_manifest()["works"] if not w["skip"]]
+    survey = load_first_english()
+    group = [w for w in works if survey[w["id"]]["status"] in {"partial_prior", "none_located"}]
+    return (f"Provisional English translations of {len({text_group_key(w) for w in works})} Latin texts across "
+            f"{len(works)} printed witnesses in the Trithemius Corpus. The project survey located no prior complete "
+            f"published English translation for {len({text_group_key(w) for w in group})} texts ({len(group)} witnesses). "
+            "Edition records distinguish machine translation, editorial preparation, human review and automated "
+            "audit coverage. Earlier machine scores are historical. Latin transcription, source scans, and "
+            "documented corrections support verification of individual passages.")
+
+
+def distribution_files() -> dict:
+    import re
+    description = summary()
+    title = "Trithemius Corpus: machine-assisted English translations of Latin texts by or associated with Johannes Trithemius"
+    citation = ROOT / "CITATION.cff"
+    text = re.sub(r"(?ms)^abstract: >.*?(?=^type: dataset)", "abstract: >\n  " + description + "\n", citation.read_text(encoding="utf-8"))
+    text = re.sub(r"(?m)^title: .*?$", "title: " + json.dumps(title), text, count=1)
+    zenodo = ROOT / ".zenodo.json"
+    data = json.loads(zenodo.read_text(encoding="utf-8"))
+    data["description"] = description
+    data["title"] = title
+    return {citation: text, zenodo: json.dumps(data, ensure_ascii=False, indent=2) + "\n",
+            OUT: json.dumps(payload(), ensure_ascii=False, indent=2) + "\n"}
+
+
+def main() -> int:
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--check", action="store_true")
+    args = parser.parse_args()
+    for path, value in distribution_files().items():
+        if args.check and path.read_text(encoding="utf-8") != value:
+            raise ValueError(f"Stale editorial metadata in {path.name}")
+        if not args.check:
+            path.write_text(value, encoding="utf-8", newline="\n")
+    print("Editorial status and distribution metadata are current.")
     return 0
 
 

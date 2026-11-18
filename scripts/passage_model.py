@@ -302,7 +302,7 @@ def _annotate_block(
 
 
 def identify_passages(
-    marked_html: str, work_id: str, chapters: dict | None = None
+    marked_html: str, work_id: str, chapters: dict | None = None, compound: dict | None = None
 ) -> tuple[str, list[dict], list[dict]]:
     """Replace segment markers with stable passage IDs and structured notes."""
     parts = PASSAGE_MARKER_RE.split(marked_html)
@@ -323,19 +323,39 @@ def identify_passages(
             if plain_text(fragment[block.start:block.end])
         ]
         replacements: list[tuple[int, int, str]] = []
-        for sequence, block in enumerate(viable, 1):
+        offset = 0
+        sequence = 0
+        while offset < len(viable):
+            sequence += 1
+            block = viable[offset]
+            end = block.end
+            kind = ADDRESSABLE_TAGS[block.tag]
+            existing_id = block.attrs.get("id", "")
+            block_html = fragment[block.start:end]
+            offset += 1
+            # Three historically citable passages span adjacent typeset paragraphs.
+            # Keep each group addressable while giving the browser valid block markup.
+            rule = (compound or {}).get(passage_html_id(segment, sequence))
+            if rule:
+                offset += rule["blocks"] - 1
+                end = viable[offset - 1].end
+                block_html = '<div class="passage-group">' + fragment[block.start:end] + '</div>'
+                checksum = hashlib.sha256(plain_text(block_html).encode("utf-8")).hexdigest()
+                if checksum != rule["sha256"]:
+                    raise ValueError(f"{work_id}: compound passage no longer covers its cited wording")
+                kind, existing_id = rule["kind"], ""
             rewritten, record, block_annotations = _annotate_block(
-                fragment[block.start:block.end],
+                block_html,
                 work_id=work_id,
                 segment=segment,
                 sequence=sequence,
-                kind=ADDRESSABLE_TAGS[block.tag],
-                existing_id=block.attrs.get("id", ""),
+                kind=kind,
+                existing_id=existing_id,
             )
             record["chapter_id"] = _chapter_for_segment(chapters, segment)
             passages.append(record)
             annotations.extend(block_annotations)
-            replacements.append((block.start, block.end, rewritten))
+            replacements.append((block.start, end, rewritten))
         for start, end, rewritten in reversed(replacements):
             fragment = fragment[:start] + rewritten + fragment[end:]
         output.append(fragment)

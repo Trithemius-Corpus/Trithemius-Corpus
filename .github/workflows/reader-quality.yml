@@ -2,137 +2,37 @@ name: Reader quality
 
 on:
   pull_request:
-    paths:
-      - "data/translation_disagreements/**"
-      - "scripts/*translation_disagreements.py"
-      - "scripts/scan_evidence.py"
-      - "scripts/context_review.py"
-      - "scripts/validate_scribes_followup.py"
-      - "tests/test_translation_disagreements.py"
-      - "review/translation-disagreements/**"
-      - "works/**"
-      - "works-t4b/**"
-      - "data/reader_fixtures.json"
-      - "data/witness_comparisons/**"
-      - "data/iiif/**"
-      - "data/iiif_sources.json"
-      - "data/schemas/**"
-      - "METHODOLOGY.md"
-      - "requirements.txt"
-      - "scripts/audit_layout.py"
-      - "scripts/build_site.py"
-      - "scripts/build_t4b_pages.py"
-      - "scripts/make_cover.py"
-      - "scripts/passage_model.py"
-      - "scripts/iiif_model.py"
-      - "scripts/validate_iiif.py"
-      - "scripts/validate_passages.py"
-      - "scripts/validate_reader.py"
-      - "scripts/validate_editorial_copy.py"
-      - "scripts/validate_study_reader.py"
-      - "scripts/build_witness_comparison.py"
-      - "scripts/validate_witness_comparison.py"
-      - "scripts/build_publication_exports.py"
-      - "scripts/validate_publication_exports.py"
-      - "scripts/run_epubcheck.py"
-      - "site/templates/**"
-      - "site/static/**"
-      - "site/dist/**"
-      - ".github/workflows/reader-quality.yml"
   push:
     branches: [main]
-    paths:
-      - "data/translation_disagreements/**"
-      - "scripts/*translation_disagreements.py"
-      - "scripts/scan_evidence.py"
-      - "scripts/context_review.py"
-      - "scripts/validate_scribes_followup.py"
-      - "tests/test_translation_disagreements.py"
-      - "review/translation-disagreements/**"
-      - "works/**"
-      - "works-t4b/**"
-      - "data/reader_fixtures.json"
-      - "data/witness_comparisons/**"
-      - "data/iiif/**"
-      - "data/iiif_sources.json"
-      - "data/schemas/**"
-      - "METHODOLOGY.md"
-      - "requirements.txt"
-      - "scripts/audit_layout.py"
-      - "scripts/build_site.py"
-      - "scripts/build_t4b_pages.py"
-      - "scripts/make_cover.py"
-      - "scripts/passage_model.py"
-      - "scripts/iiif_model.py"
-      - "scripts/validate_iiif.py"
-      - "scripts/validate_passages.py"
-      - "scripts/validate_reader.py"
-      - "scripts/validate_editorial_copy.py"
-      - "scripts/validate_study_reader.py"
-      - "scripts/build_witness_comparison.py"
-      - "scripts/validate_witness_comparison.py"
-      - "scripts/build_publication_exports.py"
-      - "scripts/validate_publication_exports.py"
-      - "scripts/run_epubcheck.py"
-      - "site/templates/**"
-      - "site/static/**"
-      - "site/dist/**"
-      - ".github/workflows/reader-quality.yml"
   workflow_dispatch:
 
 permissions:
   contents: read
 
 jobs:
-  disagreement-queue:
+  public-rebuild:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python -m pip install -r requirements.txt
-      - run: python scripts/validate_translation_disagreements.py
-      - run: python scripts/validate_scribes_followup.py
-      - run: python -m unittest discover -s tests -p test_translation_disagreements.py
-
-  reader-contracts:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-node@v4
         with:
-          python-version: "3.12"
-
-      - name: Validate committed reader
-        run: python scripts/validate_reader.py
-
-      - name: Install reader dependencies
-        run: python -m pip install -r requirements.txt
-
-      - name: Validate passage model and schemas
-        run: python scripts/validate_passages.py --source-only
-
-      - name: Build clean reader and passage artifacts
+          node-version: "22"
+      - run: python -m pip install -r requirements.txt
+      - name: Run regressions and verify the source ledgers
+        run: |
+          python -m unittest discover -s tests
+          python scripts/build_editorial_ledger.py --check
+          python scripts/build_translation_disagreements.py --check
+          python scripts/validate_passages.py --source-only
+      - name: Reconstruct from the public sources
         run: |
           python scripts/build_site.py
-          python scripts/build_t4b_pages.py
-
-      - name: Validate clean reader and passage artifacts
-        run: |
-          python scripts/validate_reader.py
-          python scripts/validate_editorial_copy.py
-          python scripts/validate_passages.py
-          python scripts/validate_iiif.py
-          python scripts/validate_study_reader.py
-          python scripts/validate_cipher_trace.py
-          python scripts/validate_witness_comparison.py
-
-      - name: Build and validate publication exports
-        run: |
           python scripts/build_publication_exports.py
-          python scripts/validate_publication_exports.py
+          python scripts/build_search.py
+      - name: Validate the reconstructed publication
+        run: |
+          python scripts/check_publication.py
           python scripts/run_epubcheck.py site/dist/editions/epub/*.epub

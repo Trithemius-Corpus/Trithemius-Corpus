@@ -17,7 +17,14 @@
 <meta name="theme-color" content="#100d12">
 <link rel="stylesheet" href="../static/fonts.css">
 <link rel="stylesheet" href="../static/style.css">
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Book", "name": "Steganography: The Art of Hidden Writing", "alternateName": "Steganographia, hoc est: Ars per occultam scripturam", "author": {"@type": "Person", "name": "Johannes Trithemius", "birthDate": "1462", "deathDate": "1516"}, "inLanguage": "en", "license": "https://creativecommons.org/publicdomain/zero/1.0/", "isPartOf": {"@type": "Dataset", "name": "Trithemius Corpus", "url": "https://trithemius-corpus.github.io/Trithemius-Corpus/"}, "url": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html", "isBasedOn": "http://gallica.bnf.fr/ark:/12148/bpt6k5832538j"}</script><script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "Book", "name": "Steganography: The Art of Hidden Writing", "alternateName": "Steganographia, hoc est: Ars per occultam scripturam", "inLanguage": "en", "license": "https://creativecommons.org/publicdomain/zero/1.0/", "isPartOf": {"@type": "Dataset", "name": "Trithemius Corpus", "url": "https://trithemius-corpus.github.io/Trithemius-Corpus/"}, "url": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html", "author": {"@type": "Person", "name": "Johannes Trithemius"}, "isBasedOn": "http://gallica.bnf.fr/ark:/12148/bpt6k5832538j"}</script><meta data-pagefind-filter="collection[content]" content="editions">
+<meta data-pagefind-meta="sourceRevision[content]" content="e8c4bc141aff5f2ef1ec1d5b3398d59aaae42ace7619e0c84f011bb37bd5ddc6">
+<meta data-pagefind-meta="workGroup[content]" content="steganography: the art of hidden writing">
+<meta data-pagefind-meta="workTitle[content]" content="Steganography: The Art of Hidden Writing">
+<meta data-pagefind-meta="witness[content]" content="Darmbstadii. Ex officina typographica Balthasaris Aulæandri, 1621">
+<meta data-pagefind-meta="track[content]" content="Earlier edition">
+<meta data-pagefind-meta="view[content]" content="translation">
+<script>
   // Apply the saved theme before first paint to avoid a flash of the wrong theme.
   // 'auto' resolves from the OS colour-scheme preference (light→parchment,
   // dark→steganographia) and is stored on a distinct attribute so the switcher
@@ -98,7 +105,8 @@
           BNF
  &middot; <a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">catalogue record</a> &middot; <a href="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j">PDF</a>        </td>
       </tr>
-<tr><th>Edition (this witness)</th><td>1621</td></tr><tr><th>Source witness</th><td>Darmbstadii. Ex officina typographica Balthasaris Aulæandri, sumptibus verò Joannis Berneri, bibliop. Francof. Anno M : DC.XXI, 1621 (BNF)</td></tr>      <tr><th>Text origin</th><td>Machine translation</td></tr>
+<tr><th>Edition (this witness)</th><td>1621</td></tr><tr><th>Source witness</th><td>Darmbstadii. Ex officina typographica Balthasaris Aulæandri, sumptibus verò Joannis Berneri, bibliop. Francof. Anno M : DC.XXI, 1621 (BNF)</td></tr>      <tr><th>Authorship</th><td>Johannes Trithemius</td></tr>
+      <tr><th>Text origin</th><td>Machine translation</td></tr>
       <tr><th>Prior English</th><td><a href="../prior-translations.html">Complete prior English located</a>. Prior comprehensive English edition: Stephen Skinner and Daniel Clark, Steganographia (2024), as recorded in the project survey.</td></tr>
       <tr><th>Human review</th><td>No complete human review documented</td></tr>
       <tr><th>Editorial state</th><td>Provisional reading text</td></tr>
@@ -152,10 +160,10 @@
     .brand, .brand2 { font: 600 13px Georgia, serif; letter-spacing: 0.22em; }
   </style>
 </svg></div>
-<section class="work-intro">
-  <h2>About this work</h2>
-  <p>The <em>Steganographia</em> is Trithemius's most famous and most notorious work: a treatise in three books, written about 1499–1500 and circulated for a century in manuscript before it was first printed (Frankfurt, 1606). On its surface it is a manual of angel-magic — long conjurations addressed to spirit-princes and their subordinate spirits, each governing a quarter of the heavens, a wind, or an hour of the day. Beneath that surface it is a cryptographic system: the "conjurations" are cover-text, and the real message is carried by the spirit-names and the numeric keys tabulated for each prince. It was the disguise that undid him. Manuscript copies reached readers they were not meant for — Carolus Bovillus among them — who took the spirit-magic at face value and accused Trithemius of necromancy; the book was placed on the <em>Index</em>, and the third book's reputation as genuinely demonic persisted until its cipher was solved — first by Thomas Ernst (1996), then independently by Jim Reeds (1998). Trithemius's own answer to the charge is the <em>Trithemius sui ipsius vindex</em> of 1616, also in this corpus (<code>prdl-32287</code>).</p>
-<p>The Latin source here is the <strong>1621 Darmstadt edition</strong> — printed by Balthasar Aulaeander (the Latinized name of Balthasar Hofmann) at the expense of Johann Berner — recovered from the Bibliothèque nationale de France / Gallica. The work was absent from this corpus's original acquisition pass and was reassembled from its 168 IIIF page-images. It was re-OCR'd with the same vision model used across the corpus and translated by GPT-5.5 with a Fable&nbsp;5 review pass against the page scans; the review recovered the cipher tables and the Early-New-High-German cover-text letters that a first pass tends to flatten into placeholders. <strong>The cipher is decoded</strong> — in a separate cryptanalysis (eleven <em>modi</em>, II–XI and XXXII–XXXIX, decoded by inverting each <em>modus</em>'s printed alphabet) on the <a href="../cipher-solutions.html">cipher solutions page</a>. In the body translation here the Latin and its German cover-text are rendered as they stand, not decoded inline. For the cryptographic machinery see the companion <em>Clavis</em> texts (<code>prdl-70281</code>, <code>prdl-70282</code>), Ernst (1996) and Reeds (1998), and for the comprehensive English edition Stephen Skinner &amp; Daniel Clark, <em>Steganographia: Books I–IV</em> (Llewellyn, 2024). The translation remains provisional; historical machine-audit grades are retained in the provenance records.</p>
+<section class="work-intro" id="editorial-introduction" data-pagefind-body>
+  <h2 id="intro-heading">About this work</h2>
+  <p id="note-intro-63b20a89ca0ad871">The <em>Steganographia</em> is Trithemius's most famous and most notorious work: a treatise in three books, written about 1499–1500 and circulated for a century in manuscript before it was first printed (Frankfurt, 1606). On its surface it is a manual of angel-magic — long conjurations addressed to spirit-princes and their subordinate spirits, each governing a quarter of the heavens, a wind, or an hour of the day. Beneath that surface it is a cryptographic system: the "conjurations" are cover-text, and the real message is carried by the spirit-names and the numeric keys tabulated for each prince. It was the disguise that undid him. Manuscript copies reached readers they were not meant for — Carolus Bovillus among them — who took the spirit-magic at face value and accused Trithemius of necromancy; the book was placed on the <em>Index</em>, and the third book's reputation as genuinely demonic persisted until its cipher was solved — first by Thomas Ernst (1996), then independently by Jim Reeds (1998). Trithemius's own answer to the charge is the <em>Trithemius sui ipsius vindex</em> of 1616, also in this corpus (<code>prdl-32287</code>).</p>
+<p id="note-intro-35a0a9a26778c1e4">The Latin source here is the <strong>1621 Darmstadt edition</strong> — printed by Balthasar Aulaeander (the Latinized name of Balthasar Hofmann) at the expense of Johann Berner — recovered from the Bibliothèque nationale de France / Gallica. The work was absent from this corpus's original acquisition pass and was reassembled from its 168 IIIF page-images. It was re-OCR'd with the same vision model used across the corpus and translated by GPT-5.5 with a Fable&nbsp;5 review pass against the page scans; the review recovered the cipher tables and the Early-New-High-German cover-text letters that a first pass tends to flatten into placeholders. <strong>The cipher is decoded</strong> — in a separate cryptanalysis (eleven <em>modi</em>, II–XI and XXXII–XXXIX, decoded by inverting each <em>modus</em>'s printed alphabet) on the <a href="../cipher-solutions.html">cipher solutions page</a>. In the body translation here the Latin and its German cover-text are rendered as they stand, not decoded inline. For the cryptographic machinery see the companion <em>Clavis</em> texts (<code>prdl-70281</code>, <code>prdl-70282</code>), Ernst (1996) and Reeds (1998), and for the comprehensive English edition Stephen Skinner &amp; Daniel Clark, <em>Steganographia: Books I–IV</em> (Llewellyn, 2024). The translation remains provisional; historical machine-audit grades are retained in the provenance records.</p>
 </section>
 
 <section class="work-translation">
@@ -407,8 +415,8 @@
             title="Copy a link to the current passage" disabled>&sect;<span class="rt-label"> Copy link</span></button>
     <button type="button" class="rt-toggle" id="rt-copy-cite"
             title="Copy a citation for the current passage" disabled>&#128203;<span class="rt-label"> Cite passage</span></button>
-<a class="rt-toggle" id="rt-facsimile" href="../iiif/viewer.html?manifest=../iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/manifest.json#canvas=1"
-            title="Open the source image aligned to the current passage">&#128444;<span class="rt-label"> Facsimile</span></a>    <span class="rt-passage-label" id="rt-passage-label" aria-hidden="true"></span>
+<a class="rt-toggle" id="rt-facsimile" href="https://gallica.bnf.fr/ark:/12148/bpt6k5832538j"
+            title="Browse the institutional source">&#128444;<span class="rt-label"> Browse source</span></a>    <span class="rt-passage-label" id="rt-passage-label" aria-hidden="true"></span>
     <span class="sr-only" id="rt-passage-status" role="status" aria-live="polite"></span>
     <button type="button" class="rt-toggle" id="rt-search-toggle" aria-expanded="false"
             aria-controls="rt-search-panel" title="Search within this work">&#128269;<span class="rt-label"> Find</span></button>
@@ -443,7 +451,8 @@
     <div class="study-progress" role="progressbar" aria-label="Reading progress" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><span></span></div>
     <ol id="study-minimap-list"></ol>
   </aside>
-  <div class="english-body" data-study-pane="english">
+  <div class="english-body" data-study-pane="english" id="translation-text" data-pagefind-body>
+<span id="translation-start"></span>
 <section class="chapter" id="ch-2" data-seg="2">
 
 
@@ -2180,12 +2189,13 @@ Romiel 80 Musor 110 Arafos 50 Nalael 130</p>
 <p id="p-en-0029-0006" data-passage-id="p-en-0029-0006" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0029:p-0006" data-segment="29">The recipient of these letters, skilled in the art of Steganography, as soon as he has seen from the character of the prince Symiel what must be done by him, perceives it by understanding; and, turning, after first doing what must first be done, toward the North, he says the conjuration:</p>
 <p id="p-en-0029-0007" data-passage-id="p-en-0029-0007" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0029:p-0007" data-segment="29"><em>Conjuration.</em></p>
 <p id="p-en-0029-0008" data-passage-id="p-en-0029-0008" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0029:p-0008" data-segment="29">Symiel marlos chameron pyrcohi pean fruary fabelronti gaelto siargoti melastor hialbra penor olesy Aiulbrani ordu Casmeron omer vemabon. When the song has been completed, the spirit sent appears and faithfully carries out the office entrusted to him.</p>
-<h3 class="chapter-heading" id="p-en-0029-0009" data-passage-id="p-en-0029-0009" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0029:p-0009" data-segment="29">CHAPTER XV.</h3><h4 class="chapter-deck" id="p-en-0029-0010" data-passage-id="p-en-0029-0010" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0029:p-0010" data-segment="29">WHOSE SUPREME COMMANDER IS AR-</em>madiel, who dwells in that part of the world from which the north wind is wont to blow, having under him many princes.</p>
-<p>MAN-</p>
+<h3 class="chapter-heading" id="p-en-0029-0009" data-passage-id="p-en-0029-0009" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0029:p-0009" data-segment="29">CHAPTER XV.</h3>
+<div class="passage-group" id="p-en-0029-0010" data-passage-id="p-en-0029-0010" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0029:p-0010" data-segment="29"><p><em>WHOSE SUPREME COMMANDER IS AR-</em>madiel, who dwells in that part of the world from which the north wind is wont to blow, having under him many princes.</p>
+<p>MAN-</p></div>
 
 
 
-<p id="p-en-0030-0001" data-passage-id="p-en-0030-0001" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001" data-segment="30"><em>The fifteenth mansion.</h4>
+<div class="passage-group" id="p-en-0030-0001" data-passage-id="p-en-0030-0001" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001" data-segment="30"><p><em>The fifteenth mansion.</em></p>
 <p>Toward the northern region dwells Armadiel, a great emperor, having under his rule many dukes and princes with their servants, from whom one hundred have been appointed over operations by day and by night without distinction, so that all alike preside over our nocturnal as well as diurnal actions in Steganography, according to the will of the operator. Their office is to announce the most secret mysteries of the operator to princes and great men with the utmost fidelity and secrecy. From these we shall name some of the more important, who suffice for our purpose.</p>
 <p>R. R. S. R. S. R. S.
 Massar 50 Orariel Pandiel 10 10 60 60 50
@@ -2201,7 +2211,7 @@ Alferiel 10 Iaziel Oeniel 50 50 60 60 10</p>
 <span class="anno anno-unclear" id="a-en-0030-0001-004" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-004">[unclear]</span>X <span class="anno anno-unclear" id="a-en-0030-0001-005" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-005">[unclear]</span>
 <span class="anno anno-unclear" id="a-en-0030-0001-006" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-006">[unclear]</span> <span class="anno anno-unclear" id="a-en-0030-0001-007" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-007">[unclear]</span> <span class="anno anno-unclear" id="a-en-0030-0001-008" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-008">[unclear]</span> <span class="anno anno-unclear" id="a-en-0030-0001-009" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-009">[unclear]</span> <span class="anno anno-unclear" id="a-en-0030-0001-010" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-010">[unclear]</span> <span class="anno anno-unclear" id="a-en-0030-0001-011" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-011">[unclear]</span> <span class="anno anno-unclear" id="a-en-0030-0001-012" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-012">[unclear]</span> <span class="anno anno-unclear" id="a-en-0030-0001-013" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-013">[unclear]</span> <span class="anno anno-unclear" id="a-en-0030-0001-014" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-014">[unclear]</span> <span class="anno anno-unclear" id="a-en-0030-0001-015" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-015">[unclear]</span> <span class="anno anno-unclear" id="a-en-0030-0001-016" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-016">[unclear]</span> <span class="anno anno-unclear" id="a-en-0030-0001-017" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-017">[unclear]</span> <span class="anno anno-unclear" id="a-en-0030-0001-018" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-018">[unclear]</span> <span class="anno anno-unclear" id="a-en-0030-0001-019" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-019">[unclear]</span> <span class="anno anno-unclear" id="a-en-0030-0001-020" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-020">[unclear]</span> <span class="anno anno-unclear" id="a-en-0030-0001-021" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-021">[unclear]</span> <span class="anno anno-unclear" id="a-en-0030-0001-022" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-022">[unclear]</span> <span class="anno anno-unclear" id="a-en-0030-0001-023" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-023">[unclear]</span>
 <span class="anno anno-unclear" id="a-en-0030-0001-024" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-024">[unclear]</span>X <span class="anno anno-unclear" id="a-en-0030-0001-025" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-025">[unclear]</span>
-<span class="anno anno-unclear" id="a-en-0030-0001-026" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-026">[unclear]</span>X</p>
+<span class="anno anno-unclear" id="a-en-0030-0001-026" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0030:p-0001:annotation-026">[unclear]</span>X</p></div>
 
 
 <p id="p-en-0031-0001" data-passage-id="p-en-0031-0001" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0031:p-0001" data-segment="31"><em>Of Steganography, 15:</em></p>
@@ -3940,7 +3950,8 @@ Chardiel Elmoym Granyel 10 100 G. n.</p>
 
 <p id="p-en-0055-0001" data-passage-id="p-en-0055-0001" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0055:p-0001" data-segment="55"><span class="anno anno-unclear" id="a-en-0055-0001-001" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0055:p-0001:annotation-001">[unclear]</span> of a most <span class="anno anno-unclear" id="a-en-0055-0001-002" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0055:p-0001:annotation-002">[unclear]</span> man, I have read many most splendid volumes; I have seen Hippolytus in Greek: whether he has been translated completely, I do not know. The highest Truth, Christ, to whom no shadows conceal anything, knows that from my heart I desire to comply with you in what you ask. I beg you, with zeal for virtue, with zeal for uprightness: despise praises and honors that will perish. Consider it true praise to imitate Christ going before you. See to it, I beg, that you prove to be a priest in your works, and that you love Christ throughout all the time in which you live. The true lover of Christ <span class="anno anno-unclear" id="a-en-0055-0001-003" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0055:p-0001:annotation-003">[unclear]</span> with zeal for justice. True rest of the soul, and knowledge of the Savior, and pious observance of Catholic tradition, prepares everlasting glory for all. May the glorious Jesus Christ, giver of all good things, grant you love of eternity, making you a Catholic priest of Christians. Farewell. 4 Kal. Apr. In the year 1500.</p>
 <p id="p-en-0055-0002" data-passage-id="p-en-0055-0002" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0055:p-0002" data-segment="55">When the letter sent has been received by the one to whom it was sent, let the man skilled in the art, after first setting out generally the things customarily set out beforehand, arrange the lord of the ascendant with the rest, which are customarily placed on the small chart, and let him say the prescribed conjuration. When this has been said, the spirit that was sent will appear visibly; turning toward him, let him say without trembling: <span class="anno anno-unclear" id="a-en-0055-0002-001" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0055:p-0002:annotation-001">[unclear]</span>. When this charm has been completed, the spirit will soon approach gently, and will faithfully disclose the mystery entrusted to him. But let everyone who is to operate in this art beware, both the one who sends the spirit and the one to whom it has been destined, lest they presume to do anything in public or among others who are not skilled in this art, because all hourly spirits love secrecy and detest publicity; and they would not depart without danger.</p>
-<h3 class="chapter-heading" id="p-en-0055-0003" data-passage-id="p-en-0055-0003" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0055:p-0003" data-segment="55">Chapter III</h3><h4 class="chapter-deck" id="p-en-0055-0004" data-passage-id="p-en-0055-0004" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0055:p-0004" data-segment="55">Whose hour is called Danzur, and its supreme emperor spirit is Vequaniel,</em> who has under his dominion 20 dukes, 200 counts. The number of servants is uncertain. Their office is general, for all things; and they are sufficiently ready and benevolent in all matters whatever may have been entrusted to them, and faithful and safe; nor are they unwilling to obey, but when called in public they can least of all act without harm or danger to the caller.</p>
+<h3 class="chapter-heading" id="p-en-0055-0003" data-passage-id="p-en-0055-0003" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0055:p-0003" data-segment="55">Chapter III</h3>
+<div class="passage-group" id="p-en-0055-0004" data-passage-id="p-en-0055-0004" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0055:p-0004" data-segment="55"><p><em>Whose hour is called Danzur, and its supreme emperor spirit is Vequaniel,</em> who has under his dominion 20 dukes, 200 counts. The number of servants is uncertain. Their office is general, for all things; and they are sufficiently ready and benevolent in all matters whatever may have been entrusted to them, and faithful and safe; nor are they unwilling to obey, but when called in public they can least of all act without harm or danger to the caller.</p>
 
 <p>For they love secrecy, as do all the others who preside over the hours and their operations. I do not know the names of all of them, but only of a few, which, revealed by them themselves and entered into this table, suffice for us.</p>
 <p>R. R. R. Ri
@@ -3949,7 +3960,7 @@ Perfiel Sadiniel Xantiel 20 20 200 200
 Atursiel Parniel Seruiel 20 20 200 200
 Zoesiel Comadiel Furiel 20 20 200 200</p>
 <p>In this table we have named 4 from the dukes, 8 from the counts, and 1,730 unnumbered from their servants, who suffice for us for all operations of this art in the third hour of the day. Therefore when in this hour you wish to call a spirit to bear some message to a friend, no fewer than at least two dukes, and as many counts with their servants, should be called. But if you wish to call more or fewer, you will indeed be able to do so, but you will need to have a conjuration addressed to the universal emperor, without whose command the spirits do not violate their order. And so write on a new sheet the character of the lord of the ascendant, and the rest in the order of the planets, with the sign of the twelfth house, in the manner that the instruction of the art requires. On the back of the sheet write this conjuration.</p>
-<p><em>Conjuration</h4>
+<p><em>Conjuration</em></p></div>
 <p id="p-en-0055-0005" data-passage-id="p-en-0055-0005" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0055:p-0005" data-segment="55">Vequaniel, odiel mefrij fotiel mear iamy otiel aslofian yrfothreotion drearij fabel merufin. When the conjuration has been written and these things that are required by the art have been added below, say it in a low voice, so that it is not heard by anyone; and immediately the spirits called will come. When you have seen them, entrust the secret to the more powerful one, whom you will easily recognize from his attire, because the one who is first among the other spirits always appears crowned.</p>
 <p id="p-en-0055-0006" data-passage-id="p-en-0055-0006" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0055:p-0006" data-segment="55"><em>Any Secret Whatever Is Made</em></p>
 <p id="p-en-0055-0007" data-passage-id="p-en-0055-0007" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0055:p-0007" data-segment="55">Whatever secret you have for an absent friend, which should neither be entrusted to letters, lest they be read by someone, nor to a messenger, lest, corrupted by some occasion or price, or by fear, he divulge it publicly: call the spirit appointed to the hour, entrust the secret to him, fearing nothing; he will bear it faithfully.</p>
@@ -4445,8 +4456,9 @@ Bimezyn Iasphiel Enatriel 10 2 100 3</p>
 
 <p id="p-en-0072-0001" data-passage-id="p-en-0072-0001" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0072:p-0001" data-segment="72">122 OF THE STEGANOGRAPHY ... but with heavier punishments all those who believe that the Son of God came into the world and commit murder out of zeal for human redemption, but by no means adorn the Christian faith with holy works, and, always entangled in sins, prefer the honors of the world to eternal blessedness, pursuing impious actions and staining the purity of faith by private morals contrary to obedience. But the lovers of God, who have the right zeal of the Christian faith, prefer nothing to God, imitate Christ, flee sins, and despise riches and honors. Now therefore attend to these words, you who glory in faith: love God, and you will have the reward of blessedness, pursuing righteousness. If you love the vanities of the age against the honor of God, you will receive the reward of those who pursue iniquity: the horrors of hell. I wrote this on the fifteenth day before the Kalends of May, in the year of the Lord 1500.</p>
 <p id="p-en-0072-0002" data-passage-id="p-en-0072-0002" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0072:p-0002" data-segment="72">When the person to whom letters marked with the character Abasdarhon have been sent, being skilled in the art, has received them, let him at once consider the lord of the ascendant and the whole disposition of the heavens, and let him observe and write, together with the form of the conjuration and the other necessary things, on a clean sheet; and, after the things to be added have been added and the said conjuration has been spoken, when he sees the spirits sent to him standing by, let him say these words to the more powerful one: Chameron massotiel caseuij renean pornas thilmeuj penason. When these have been said, he will at once come nearer and will faithfully reveal the charge entrusted to him <span class="anno anno-unclear" id="a-en-0072-0002-001" data-annotation-id="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0072:p-0002:annotation-001">[unclear]</span> of the operator.</p>
-<h3 class="chapter-heading" id="p-en-0072-0003" data-passage-id="p-en-0072-0003" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0072:p-0003" data-segment="72">CHAPTER XVIII.</h3><h4 class="chapter-deck" id="p-en-0072-0004" data-passage-id="p-en-0072-0004" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0072:p-0004" data-segment="72">WHOSE HOUR IS CALLED THAAZARON, AND</em>
-<em>its angel is called Zaazenach, presiding over many spirits.</h4>
+<h3 class="chapter-heading" id="p-en-0072-0003" data-passage-id="p-en-0072-0003" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0072:p-0003" data-segment="72">CHAPTER XVIII.</h3>
+<p id="p-en-0072-0004" data-passage-id="p-en-0072-0004" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0072:p-0004" data-segment="72"><em>WHOSE HOUR IS CALLED THAAZARON, AND</em>
+<em>its angel is called Zaazenach, presiding over many spirits.</em></p>
 <p id="p-en-0072-0005" data-passage-id="p-en-0072-0005" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0072:p-0005" data-segment="72">The sixth hour of the night is called Thaazaron, and the name of its angel is Zaazenach, who has under his command princes and leaders, counts and ministerials almost innumerable, who preside over various magical operations according to their turns and orders. In the first order there are 10; in the second, 20; in the third, 30; in the fourth, 40; in the sixth, 50; in the seventh, 70; in the eighth, 80; in the ninth, 90; in the tenth, 100; in the twelfth, 16,000. Whenever he wishes them, they are ready and wholly obedient, as the aforesaid wise men testify, and as we have experienced.</p>
 <p id="p-en-0072-0006" data-passage-id="p-en-0072-0006" data-passage-uri="trc:prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam:seg-0072:p-0006" data-segment="72">Amonazii</p>
 
@@ -5446,6 +5458,7 @@ Ymarona Tzatzraym 628 20 639 S J Yli</p>
   </section>
 <section class="study-source" data-study-pane="source" aria-label="Source facsimile" hidden>
     <h2>Source facsimile</h2>
+    <p id="study-source-precision">Source facsimile</p>
     <iframe id="study-source-frame" title="Zoomable institutional source facsimile" loading="lazy"></iframe>
     <p><a id="study-source-external" href="https://gallica.bnf.fr/ark:/12148/bpt6k5832538j">Open the institutional source</a></p>
   </section>  </div>
@@ -5482,18 +5495,32 @@ Ymarona Tzatzraym 628 20 639 S J Yli</p>
 <section class="work-links">
   <h2>Artifacts</h2>
   <ul>
-<li><a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam_parallel.html">Side-by-side Latin&nbsp;/&nbsp;English viewer</a></li><li><a href="../data/passages/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.json">Passage and annotation index</a> (1145 stable English passages)</li><li><a href="../tei/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.xml">Pilot TEI P5 export</a></li><li><a href="../iiif/viewer.html?manifest=../iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/manifest.json#canvas=1">Zoomable facsimile viewer</a> / <a href="../iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/manifest.json">IIIF Presentation 3 manifest</a> (Bibliothèque nationale de France; exact text alignment)</li><li><a href="#special-renderings">Special scholarly renderings</a> (cipher tables and damaged passages, beside their facsimiles)</li><li><a href="../editions/epub/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.epub" download>EPUB 3.3 reading edition</a></li>
+<li><a href="prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam_parallel.html">Side-by-side Latin&nbsp;/&nbsp;English viewer</a></li><li><a href="../data/passages/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.json">Passage and annotation index</a> (1145 stable English passages)</li><li><a href="../tei/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.xml">Pilot TEI P5 export</a></li><li><a href="../iiif/viewer.html?manifest=../iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/manifest.json#canvas=1">Zoomable facsimile viewer</a> / <a href="../iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/manifest.json">IIIF Presentation 3 manifest</a> (Bibliothèque nationale de France; approximate text alignment)</li><li><a href="#special-renderings">Special scholarly renderings</a> (cipher tables and damaged passages, beside their facsimiles)</li><li><a href="../editions/epub/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.epub" download>EPUB 3.3 reading edition</a></li>
     <li><a href="../editions/print/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/index.html">Print-ready reading edition</a> (paged with Vivliostyle)</li>    <li><a href="#" onclick="window.print();return false;">Download as PDF</a> (typeset via your browser&rsquo;s print dialog)</li>
 <li><a href="http://gallica.bnf.fr/ark:/12148/bpt6k5832538j">Original source record</a> / <a href="https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j">PDF</a> (BNF)</li>    <li><a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/tree/main/works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam">Repository folder</a></li>
   </ul>
 </section>
 
+<section class="work-related">
+  <h2>More in Cryptography &amp; the Occult</h2>
+  <ul class="related-list">
+    <li><a href="prdl-70281_clavis-generalis-triplex-in-libros-steganographicos.html"><em>Clavis Generalis Triplex in Libros Steganographicos</em></a>
+        <span class="muted">Threefold General Key to the Steganographic Books, 1608</span></li>
+    <li><a href="prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui.html"><em>Clavis Polygraphiae</em></a>
+        <span class="muted">Key to the Polygraphia, 1518</span></li>
+    <li><a href="prdl-24390_polygraphiae-libri-vi.html"><em>Polygraphiae libri VI (Basel: Furter &amp; Petri, for Haselberg, 1518)</em></a>
+        <span class="muted">Six Books of Polygraphy (Basel, 1518 first edition), 1518</span></li>
+    <li><a href="prdl-24382_octo-quaestionum-maximilianum-caesarem.html"><em>Liber Octo Quaestionum ad Maximilianum Caesarem</em></a>
+        <span class="muted">A Book of Eight Questions to Emperor Maximilian, 1515</span></li>
+  </ul>
+  <p class="muted"><a href="../genres/crypto-occult.html">All Cryptography &amp; the Occult texts &rarr;</a></p>
+</section>
 
-<section class="work-errata" id="errata">
-  <h2>Editorial corrections</h2>
+<section class="work-errata" id="errata" data-pagefind-body>
+  <h2 id="errata-heading">Editorial corrections</h2>
   <details>
     <summary>This work has recorded editorial corrections. Click to view.</summary>
-    <blockquote>
+    <blockquote id="note-errata-96a6ea67d23f9e46">
 <p><strong>2026-06-10 — new work added to the corpus.</strong> The <em>Steganographia</em> —
 Trithemius's most famous and most notorious work, the three-book cryptographic
 treatise disguised as angel-magic that the Church placed on the Index — was
@@ -5504,8 +5531,8 @@ Gallica</strong> (Darmstadt/Frankfurt, 1621; ark <code>bpt6k5832538j</code>) by 
 168 IIIF page images into a PDF, the one-shot <code>.pdf</code> endpoint being
 rate-limited.</p>
 </blockquote>
-<h4 id="pipeline">Pipeline</h4>
-<ul>
+<span id="note-errata-37e1c775f452d695"></span><h4 id="pipeline">Pipeline</h4>
+<ul id="note-errata-cdae437a18110e1e">
 <li><strong>OCR: Qwen2.5-VL-7B (local, Vulkan iGPU)</strong> — the same model used to re-OCR
   every other work in the corpus, run via the resident multimodal <code>llama-server</code>
   (<code>scripts/reocr_full_server.py</code>). (An initial codex/GPT-5.5-vision OCR was
@@ -5531,8 +5558,8 @@ rate-limited.</p>
     letters"</em> not <em>"Rota"</em>; <em>"liber familiaris"</em> = open letter not "familiar
     book"; and a GPT-5.5 hallucinated sentence (the Saturn/Pomiel passage) removed.</li>
 </ul>
-<h4 id="tier-c-read-with-the-crypto-occult-caveat">Tier (C) — read with the crypto-occult caveat</h4>
-<p>Independent GPT-5.5 re-grade against the Latin: <strong>faithful 3.92 / 5, hallucinated
+<span id="note-errata-3da6190692ecf4a5"></span><h4 id="tier-c-read-with-the-crypto-occult-caveat">Tier (C) — read with the crypto-occult caveat</h4>
+<p id="note-errata-b8c9ea064db93ae5">Independent GPT-5.5 re-grade against the Latin: <strong>faithful 3.92 / 5, hallucinated
 61.6%</strong>, → tier <strong>C</strong>. The <em>faithfulness</em> is A-level: the conjuration prose,
 prefaces, and letters are well rendered. The high <em>hallucination</em> figure is the
 documented crypto-occult artifact (cf. the Polygraphia/Clavis cluster and
@@ -5540,7 +5567,7 @@ LIMITATIONS §8): the OCR-referenced grader flags the preserved cipher tables an
 the verbatim spirit-names / barbarous <em>voces magicae</em> as "content not in the
 Latin," because a cipher table cannot be graded as faithful prose. The tier
 therefore reflects the work's cipher density, not weak translation.</p>
-<p><strong>Style C — added 2026-06-11.</strong> The work now carries a full <em>Style C</em> cipher-key
+<p id="note-errata-6ce22222858560aa"><strong>Style C — added 2026-06-11.</strong> The work now carries a full <em>Style C</em> cipher-key
 rendering set (the corpus's structured treatment of the crypto-occult cluster):
 the 39 cipher-table chunks — the master <em>Tabula Directionis</em> of Book I, each of
 the ~30 spirit-princes' sub-spirit tables (chs. III–XXXI), the 31-spirit
@@ -5551,14 +5578,14 @@ subpage. This is the proper scholarly presentation of the cipher material; the
 <strong>tier (C) is unchanged</strong>, because it scores the <em>standard side-by-side reader</em>,
 whose chunks still carry the tables inline — the Style C subpage is an additional
 rendering, not a re-grade.</p>
-<h4 id="status">Status</h4>
-<p>The cipher of the <em>Steganographia</em> itself is <strong>not solved or decoded</strong> here; the
+<span id="note-errata-920e413c7d411b61"></span><h4 id="status">Status</h4>
+<p id="note-errata-862fa5fd61ba4ff4">The cipher of the <em>Steganographia</em> itself is <strong>not solved or decoded</strong> here; the
 Latin (and its German cover-text) is translated as it stands. For the
 cryptography see the companion <em>Clavis</em> (<code>prdl-70281</code>/<code>prdl-70282</code>) and Reeds
 (1998).</p>
-<h4 id="2026-06-19-unclear-resolution-passes-multi-pronged">2026-06-19 — [unclear] resolution passes (multi-pronged)</h4>
-<p>Three passes reduced [unclear] markers across this work:</p>
-<ol>
+<span id="note-errata-6e3f427244926723"></span><h4 id="2026-06-19-unclear-resolution-passes-multi-pronged">2026-06-19 — [unclear] resolution passes (multi-pronged)</h4>
+<p id="note-errata-8cb9e5ede8b51e97">Three passes reduced [unclear] markers across this work:</p>
+<ol id="note-errata-693705ec02dd747f">
 <li>
 <p><strong>Historical fact-checking</strong> (12 fixes corpus-wide): proper nouns identifiable from Trithemius biography — "Abbot of [unclear]" → "St. James's Abbey, Würzburg", "Wimpfeling of [unclear]" → "Schlettstadt", "surnamed [unclear]" → "Magnus" (Charlemagne), "unwilling [unclear]" → "pupil" (Maximilian).</p>
 </li>
@@ -5569,14 +5596,14 @@ cryptography see the companion <em>Clavis</em> (<code>prdl-70281</code>/<code>pr
 <p><strong>Mid-word line-break joining</strong> (168 fixes corpus-wide): the vision OCR model inserted <code>[unclear]</code> at Fraktur line-break hyphenation points (e.g. <code>pri[unclear]mi</code> → <code>primi</code>). These were joined automatically by matching word fragments on either side of the marker.</p>
 </li>
 </ol>
-<p><strong>Total corpus-wide reduction: 35,577 → ~11,000 [unclear] markers (69% reduction).</strong></p>
-<p>The remaining ~11,000 are genuinely damaged text where no model or method could recover the word. They are marked honestly.</p>
-<h4 id="2026-07-09-digitization-artifact-cleanup-latin-ocrtxt">2026-07-09 — digitization-artifact cleanup (latin-ocr.txt)</h4>
-<ul>
+<p id="note-errata-e432f25b4d09d55d"><strong>Total corpus-wide reduction: 35,577 → ~11,000 [unclear] markers (69% reduction).</strong></p>
+<p id="note-errata-86231a0922470171">The remaining ~11,000 are genuinely damaged text where no model or method could recover the word. They are marked honestly.</p>
+<span id="note-errata-2a519da21bf6aa50"></span><h4 id="2026-07-09-digitization-artifact-cleanup-latin-ocrtxt">2026-07-09 — digitization-artifact cleanup (latin-ocr.txt)</h4>
+<ul id="note-errata-1bf0f399beb646fc">
 <li>Removed a generation fill artifact (an asterisk run of ~4,000 characters) from [segment 1] of latin-ocr.txt. The run length (~4096) marks it as a model/pipeline artifact, not page content. Segment structure unchanged.</li>
 </ul>
-<h4 id="2026-07-11-chunksegment-misalignment-repairs-chunks-0040-0051-spot-check-finding">2026-07-11 — chunk/segment misalignment repairs (chunks 0040, 0051; spot-check finding)</h4>
-<ul>
+<span id="note-errata-c4e07bc06d28e2c2"></span><h4 id="2026-07-11-chunksegment-misalignment-repairs-chunks-0040-0051-spot-check-finding">2026-07-11 — chunk/segment misalignment repairs (chunks 0040, 0051; spot-check finding)</h4>
+<ul id="note-errata-6ea9d9d6e885b18a">
 <li><strong>Chunk 0040</strong> previously carried a duplicate translation of the Chapter XXVII (Soleuiel) material,
   whose Latin lives at segment 44 and which ships correctly at chunk 0044 — while chunk 0040's own
   Latin witness (segment 40: the close of the preceding chapter's Buriel conjuration, the arcanum
@@ -5601,8 +5628,8 @@ cryptography see the companion <em>Clavis</em> (<code>prdl-70281</code>/<code>pr
 <span class="next muted">&rarr;</span></nav>
 
 </article>
-<script>window.TC_WORK_IDS=[];</script>
-<script>window.TC_WORK={"annotations": "visible", "citation": "Fabin, Ian Carlos (2026). \u201cSteganography: The Art of Hidden Writing\u201d [Steganographia, hoc est: Ars per occultam scripturam]. Machine-assisted English translation of the Darmbstadii. Ex officina typographica Balthasaris Aul\u00e6andri, sumptibus ver\u00f2 Joannis Berneri, bibliop. Francof. Anno M : DC.XXI, 1621 (BNF) edition. In Trithemius Corpus. https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html", "id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam", "iiifCanvasMap": {}, "iiifViewer": "../iiif/viewer.html?manifest=../iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/manifest.json", "language": "en", "passageCount": 1145, "passageIndex": "../data/passages/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.json", "title": "Steganography: The Art of Hidden Writing", "view": "read"};</script>
+<script>window.TC_WORK_IDS=["prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive", "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos", "prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui", "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis", "prdl-24390_polygraphiae-libri-vi", "prdl-24391_polygraphiae-libri-vi", "prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius", "prdl-70287_joh-tritthemii-de-scriptoribus-ecclesiasticis-liber", "prdl-24362_de-laude-scriptorum-manualium", "prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis", "prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis", "prdl-24361_de-cura-pastorali", "prdl-24373_de-statu-et-ruina-monastici-ordinis", "prdl-24360_compendium-breviarium-primi-voluminis-annalium-historiarum-origine-regum", "prdl-24363_de-laudibus-ordinis-fratrum-carmelitarum", "prdl-24364_de-laudibus-sanctissimae-matris-annae", "prdl-24365_de-laudibus-sanctissimae-matris-annae", "prdl-24366_de-laudibus-sanctissimae-matris-annae-liptzk-1497", "prdl-24367_de-laudibus-sanctissimae-matris-annae-liptzk-1501", "prdl-70283_de-laudibus-sanctissimae-matris-annae-liptzk-1501-hab", "prdl-70284_de-laudibus-sanctissimae-matris-annae", "prdl-24385_liber-de-triplici-regione-claustralium-et", "prdl-24386_liber-de-triplici-regione-claustralium-et", "prdl-24378_institutio-vitae-sacerdotalis", "prdl-24379_institutio-vitae-sacerdotalis", "prdl-24380_admonitiones-exhortationes-monachos", "prdl-24381_octo-quaestionum-maximilianum-caesarem", "prdl-24382_octo-quaestionum-maximilianum-caesarem", "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus", "prdl-70289_opera-historica-part", "prdl-70290_opera-historica-part-chronicon-hirsaugiense-sponheimense", "prdl-24357_abbreviatura-recessuum-capitularium-patrum-ordinis-divi", "prdl-24368_de-operatione-divini-amoris", "prdl-24369_de-purissima-et-immaculata-conceptione-virginis", "prdl-24370_de-purissima-et-immaculata-conceptione-virginis", "prdl-24374_de-vanitate-et-miseria-humanae-vitae", "prdl-24375_de-vera-conversione-mentis-ad-deum", "prdl-24376_ecloga-de-laude-calvorum-ad-carolum", "prdl-24393_sermones-et-exhortationes-ad-monachos-joa", "prdl-24394_sermones-et-exhortationes-ad-monachos-joa", "prdl-32285_de-sacerdotum-vita-instituenda-libellus", "prdl-32286_octo-quaestionum-maximilianum-caesarem", "prdl-70285_e-rara_de-triplici-regione-claustralium-et", "prdl-70286_octo-quaestionum-maximilianum-caesarem", "prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae", "prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines", "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"];</script>
+<script>window.TC_WORK={"annotations": "visible", "citation": "Fabin, Ian Carlos (2026). \u201cSteganography: The Art of Hidden Writing\u201d [Steganographia, hoc est: Ars per occultam scripturam]. Machine-assisted English translation of the Darmbstadii. Ex officina typographica Balthasaris Aul\u00e6andri, sumptibus ver\u00f2 Joannis Berneri, bibliop. Francof. Anno M : DC.XXI, 1621 (BNF) edition. In Trithemius Corpus. https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html", "id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam", "iiifCanvasMap": {"1": 1, "10": 21, "11": 23, "12": 25, "13": 28, "14": 30, "15": 32, "16": 34, "17": 36, "18": 38, "19": 40, "2": 3, "20": 42, "21": 43, "22": 45, "23": 47, "24": 49, "25": 51, "26": 53, "27": 55, "28": 57, "29": 59, "3": 6, "30": 61, "31": 63, "32": 65, "33": 67, "34": 69, "35": 71, "36": 73, "37": 75, "38": 77, "39": 79, "4": 8, "40": 81, "41": 83, "42": 85, "43": 87, "44": 89, "45": 91, "46": 92, "47": 93, "48": 95, "49": 96, "5": 10, "50": 98, "51": 100, "52": 102, "53": 104, "54": 106, "55": 109, "56": 111, "57": 113, "58": 115, "59": 117, "6": 12, "60": 119, "61": 121, "62": 123, "63": 125, "64": 127, "65": 129, "66": 131, "67": 133, "68": 135, "69": 137, "7": 14, "70": 139, "71": 141, "72": 143, "73": 145, "74": 147, "75": 149, "76": 152, "77": 154, "78": 158, "79": 161, "8": 17, "80": 163, "81": 165, "82": 167, "83": 168, "9": 19}, "iiifViewer": "../iiif/viewer.html?manifest=../iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/manifest.json", "institutionalSource": "https://gallica.bnf.fr/ark:/12148/bpt6k5832538j", "language": "en", "passageCount": 1145, "passageIndex": "../data/passages/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.json", "reviewedCanvases": {}, "title": "Steganography: The Art of Hidden Writing", "view": "read"};</script>
 <script src="../static/reader.js"></script>
 
 </main>
@@ -5630,8 +5657,8 @@ cryptography see the companion <em>Clavis</em> (<code>prdl-70281</code>/<code>pr
       </div>
     </div>
     <p class="footer-byline muted">
-      Machine-assisted English translations of the Latin works of Johannes Trithemius (1462&ndash;1516).
-      Every translation is machine-produced and independently audited; for scholarly quotation, check the Latin.
+      Machine-assisted English translations of Latin texts by or associated with Johannes Trithemius (1462&ndash;1516).
+      Each edition records its audit coverage. Check the Latin before quoting a translation.
       Translations &amp; generated data: CC0. Methodology, documentation, code &amp; corpus arrangement: CC BY 4.0.
 <a href="../LICENSE.html">License &amp; rights</a>. Compiled 2026 by Ian Carlos Fabin.
     </p>

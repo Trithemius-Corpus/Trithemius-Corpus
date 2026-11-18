@@ -18,6 +18,8 @@ from urllib.parse import urlsplit
 from lxml import html as lxml_html
 import scan_evidence
 import context_review
+from edition_corrections import history, validate_history
+from publication_guard import staged_directory
 
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_WORK = "prdl-24362_de-laude-scriptorum-manualium"
@@ -144,7 +146,24 @@ def marker_before(text: str, offset: int) -> dict | None:
     return {"kind": "segment" if m[1] else "ocr_page_marker", "number": int(m[1] or m[2])}
 
 
-def assemble(spec: dict, root: Path = ROOT) -> tuple[dict, dict]:
+def current_resolutions(ledgers: list[dict]) -> dict:
+    """Use the latest recorded reading per item and track while retaining its dates."""
+    resolutions = {}
+    for batch in ledgers:
+        for edit in batch["changes"]:
+            item = resolutions.setdefault(edit["item_id"], {
+                "status": "applied_locally", "human_review": "none_documented",
+                "dates": [], "changes": [],
+            })
+            item["date"] = batch["date"]
+            if batch["date"] not in item["dates"]:
+                item["dates"].append(batch["date"])
+            item["changes"] = [c for c in item["changes"] if c["track"] != edit["track"]]
+            item["changes"].append({**edit, "date": batch["date"]})
+    return resolutions
+
+
+def assemble(spec: dict, root: Path = ROOT, *, scans=None, ledgers=None) -> tuple[dict, dict]:
     sources = {}
     for name, source in spec["sources"].items():
         text = read(resolve_source(source["path"], root))
@@ -178,13 +197,10 @@ def assemble(spec: dict, root: Path = ROOT) -> tuple[dict, dict]:
         reader_text[track] = flat(containers[0].text_content())
         reader_paths[track] = path + "#" + containers[0].get("id")
     rows = []
-    scans = scan_evidence.load(root, spec['work_id'])
-    correction_path = root/'data/translation_disagreements'/spec['work_id']/'corrections.json'
-    corrections = json.loads(read(correction_path)) if correction_path.exists() else None
-    if corrections:
-        if corrections['human_review']!='none_documented':raise ValueError('undocumented review claim')
-        for file in corrections['files']:
-            if digest(read(resolve_source(file['path'],root)))!=file['after_sha256']:raise ValueError('local correction revision changed')
+    scans = scan_evidence.load(root, spec["work_id"]) if scans is None else scans
+    ledgers = history(root, spec["work_id"]) if ledgers is None else ledgers
+    validate_history(root, spec["work_id"], ledgers)
+    corrections = current_resolutions(ledgers)
     for item in spec["items"]:
         if item["priority"] not in PRIORITY or item["disposition"] not in {"queue", "excluded"}:
             raise ValueError("invalid review disposition")
@@ -195,9 +211,8 @@ def assemble(spec: dict, root: Path = ROOT) -> tuple[dict, dict]:
         row["facsimile_verified"] = False
         if item['id'] in scans:
             row['ai_scan_assessment'] = scans[item['id']]
-        if corrections:
-            edits=[c for c in corrections['changes'] if c['item_id']==item['id']]
-            if edits:row['local_corrections']={'date':corrections['date'],'status':'applied_locally','human_review':'none_documented','changes':edits}
+        if item["id"] in corrections:
+            row["local_corrections"] = corrections[item["id"]]
         row["english"] = {}
         for track in ("earlier", "t4b"):
             key = track + "_english"
@@ -276,9 +291,11 @@ def render(queue: dict) -> str:
         excluded = item["disposition"] == "excluded"
         resolution=''
         if item.get('local_corrections'):
-            resolution='<aside class="notice"><strong>Corrected locally after AI scan assessment.</strong> Original comparison retained below; human review remains pending.'
+            resolution='<aside class="notice"><strong>Current local wording after an AI scan assessment.</strong> The comparison below records the earlier editions. Human review is pending.'
             for edit in item['local_corrections']['changes']:
                 resolution+=f'<p><strong>{esc(edit["track"])} revised wording:</strong> {esc(edit["after"])}</p>'
+            if item.get("ai_scan_assessment", {}).get("benchmark_status") == "withheld_pending_human_adjudication":
+                resolution += '<p>The modifier of “pen” remains open. This passage is withheld from the benchmark pending adjudication by a Latin reader.</p>'
             resolution+='</aside>'
         evidence = (f'<details><summary>Inspect Latin evidence and source locations</summary><div class="columns">{"".join(latin)}</div>'
                     f'<p class="source">OCR segment and page labels are archival locators. Image mapping is established only in the explicit AI scan assessment where provided. <a href="{esc(queue["source_record"])}">Institutional source record</a>.</p></details>'
@@ -336,19 +353,31 @@ def build(work: str = DEFAULT_WORK, check: bool = False) -> dict:
         raise ValueError("invalid work ID")
     spec_path = ROOT / "data" / "translation_disagreements" / work / "review.json"
     spec = json.loads(read(spec_path))
-    queue, candidates = assemble(spec)
-    outputs = {"queue.json": json_text(queue), "candidates.json": json_text(candidates), "index.html": render(queue)}
-    contextual = context_review.assemble(ROOT,work,spec,candidates)
+    scans = scan_evidence.load(ROOT, work)
+    ledgers = history(ROOT, work)
+    queue, candidates = assemble(spec, scans=scans, ledgers=ledgers)
+    contextual = context_review.assemble(ROOT, work, spec, candidates, scans=scans,
+                                         corrections=current_resolutions(ledgers))
+    outputs = {}
     if contextual:
+        binding = {k: contextual[k] for k in ("inventory_sha256", "report_sha256", "candidate_count")}
+        queue["contextual_review"] = binding
+        candidates["contextual_review"] = binding
+        queue["content_digest"] = digest(json_text({k: v for k, v in queue.items() if k != "content_digest"}))
         dispositions={row['candidate_id']:row for row in contextual['items']}
         for candidate in candidates['candidates']:
             candidate['status']='ai_contextually_reviewed'
             candidate['contextual_review']=dispositions[candidate['id']]
-        outputs['candidates.json']=json_text(candidates)
         outputs['context-review.json']=json_text(contextual)
         outputs['context-review.html']=context_review.render(contextual)
+        for finding in contextual["findings"]:
+            if "followup" in finding:
+                crop = finding["followup"]["assessment"]["crop"]
+                outputs[f"evidence/{finding['id']}.png"] = resolve_source(crop["crop_path"]).read_bytes()
+    outputs.update({"queue.json": json_text(queue), "candidates.json": json_text(candidates), "index.html": render(queue)})
+    if contextual:
         outputs['index.html']=outputs['index.html'].replace('<div class="tools">','<p><a href="context-review.html">Full contextual review and additional source-review leads</a></p><div class="tools">')
-    if (ROOT/'data/translation_disagreements'/work/'corrections.json').exists():
+    if ledgers:
         current_sources={};live={};scopes={}
         for track in ('earlier','t4b'):
             src=spec['sources'][track+'_english'];path=src.get('original_path',src['path'])
@@ -365,18 +394,30 @@ def build(work: str = DEFAULT_WORK, check: bool = False) -> dict:
         if item.get('ai_scan_assessment'):
             outputs[f"evidence/{item['id']}.png"] = resolve_source(item['ai_scan_assessment']['crop']['crop_path']).read_bytes()
     out = ROOT / "review" / "translation-disagreements" / work
+    reject_stale_outputs(out, outputs)
     if check:
         for name, value in outputs.items():
             actual = (out/name).read_bytes() if isinstance(value,bytes) and (out/name).exists() else read(out/name) if (out/name).exists() else None
             if actual != value:
                 raise ValueError(f"stale or missing review artifact: {name}")
     else:
-        out.mkdir(parents=True, exist_ok=True)
-        for name, value in outputs.items():
-            (out / name).parent.mkdir(parents=True, exist_ok=True)
-            if isinstance(value,bytes):(out/name).write_bytes(value)
-            else:(out / name).write_text(value, encoding="utf-8", newline="\n")
+        with staged_directory(out, seed=True) as stage:
+            for name, value in outputs.items():
+                target = stage / name
+                target.parent.mkdir(parents=True, exist_ok=True)
+                if isinstance(value, bytes):
+                    target.write_bytes(value)
+                else:
+                    target.write_text(value, encoding="utf-8", newline="\n")
     return queue
+
+
+def reject_stale_outputs(out: Path, outputs: dict) -> None:
+    owned = {"context-review.json", "context-review.html", "post-correction-comparison.json"}
+    owned.update(p.relative_to(out).as_posix() for p in (out / "evidence").glob("*.png"))
+    stale = sorted(name for name in owned - outputs.keys() if (out / name).exists())
+    if stale:
+        raise ValueError("Unexpected review artifacts from another snapshot: " + ", ".join(stale))
 
 
 def main() -> int:

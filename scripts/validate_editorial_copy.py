@@ -28,6 +28,7 @@ def main() -> int:
         if wid.startswith(('prdl-24376_','prdl-70281_','prdl-70282_','prdl-24383_')) and row.get('status') != 'unresolved':
             errors.append(f'{wid}: incomplete exact-work survey must remain unresolved')
     count = 0
+    metadata_by_page = {}
     for root, suffix in (("works", ""), ("works-t4b", "-trithemius-4b")):
         for src in sorted((bs.ROOT / root).glob("*/intro.md")):
             page = bs.OUT / "works" / (src.parent.name + suffix + ".html")
@@ -35,9 +36,10 @@ def main() -> int:
                 errors.append(f"missing work page: {page.name}")
                 continue
             rendered = page.read_text(encoding="utf-8")
-            match = re.search(r'<section class="work-intro">\s*<h2>About this work</h2>\s*(.*?)\s*</section>', rendered, re.S)
+            metadata_by_page[page.name] = json.loads(src.with_name("metadata.json").read_text(encoding="utf-8"))
+            match = re.search(r'<section class="work-intro"[^>]*>\s*<h2\b[^>]*>About this work</h2>\s*(.*?)\s*</section>', rendered, re.S)
             expected = bs.render_markdown_file(src)
-            if not match or match[1].strip() != expected.strip():
+            if not match or match[1].strip() != bs.reader_tools.search_anchors(expected, "note-intro").strip():
                 errors.append(f"{page.name}: stale introduction")
             if re.search(r"top tier|audit tier|first freely accessible|first open,", expected, re.I):
                 errors.append(f"{src.relative_to(bs.ROOT)}: obsolete editorial claim")
@@ -82,7 +84,7 @@ def main() -> int:
             if data.get("@type") == "Book" and data.get("license") != "https://creativecommons.org/publicdomain/zero/1.0/":
                 errors.append(f"{page.name}: translation JSON-LD license is not CC0")
             if data.get("@type") == "Book":
-                work = next((w for w in bs.load_manifest()["works"] if page.stem == w["id"]), {})
+                work = metadata_by_page.get(page.name, {})
                 if data.get("dateCreated") != work.get("composition_year"):
                     errors.append(f"{page.name}: creation date is not supported by composition metadata")
     for root, suffix in (("works", ""), ("works-t4b", "-trithemius-4b")):

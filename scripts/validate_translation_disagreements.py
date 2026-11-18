@@ -12,6 +12,7 @@ import jsonschema
 from lxml import html
 
 import build_translation_disagreements as b
+import context_review
 
 
 def validate_reference(ref: dict, root: Path = b.ROOT) -> None:
@@ -159,6 +160,42 @@ def validate_html(path: Path) -> None:
             raise ValueError("unlabeled review control")
 
 
+def validate_context(queue: dict, inventory: dict, folder: Path, spec: dict) -> None:
+    report_path = folder / "context-review.json"
+    html_path = folder / "context-review.html"
+    if "context_review" not in spec:
+        if report_path.exists() or html_path.exists() or queue.get("contextual_review") or inventory.get("contextual_review"):
+            raise ValueError("Undeclared contextual report or coverage")
+        return
+    if not report_path.is_file() or not html_path.is_file():
+        raise ValueError("Missing contextual report")
+    report = json.loads(b.read(report_path))
+    expected_snapshot = context_review.inventory_fingerprint(inventory)
+    report_digest = context_review.fingerprint({k: v for k, v in report.items() if k != "report_sha256"})
+    binding = {"inventory_sha256": expected_snapshot, "report_sha256": report_digest,
+               "candidate_count": len(inventory["candidates"])}
+    if (queue.get("contextual_review") != binding or inventory.get("contextual_review") != binding
+            or any(report.get(k) != v for k, v in binding.items())
+            or expected_snapshot != spec["context_review"]["inventory_sha256"]):
+        raise ValueError("Contextual report and candidates belong to different snapshots")
+    listed = [{"path": Path(x["path"]).name, "sha256": x["sha256"]} for x in report["ledgers"]]
+    if listed != spec["context_review"]["ledgers"]:
+        raise ValueError("Report omits or changes a declared contextual ledger")
+    records = {r["candidate_id"]: r for r in report["items"]}
+    if (len(records) != binding["candidate_count"] or len(report["items"]) != len(records)
+            or Counter(r["disposition"] for r in records.values()) != report["dispositions"]):
+        raise ValueError("Contextual report coverage differs from its dispositions")
+    for candidate in inventory["candidates"]:
+        if (candidate["id"] not in records or candidate["status"] != "ai_contextually_reviewed"
+                or candidate.get("contextual_review") != records[candidate["id"]]):
+            raise ValueError(f"Candidate has missing or stale contextual coverage: {candidate['id']}")
+    page = html.fromstring(b.read(html_path))
+    main = page.xpath("//main")
+    if (len(main) != 1 or main[0].get("data-review-digest") != report_digest
+            or main[0].get("data-candidate-snapshot") != expected_snapshot):
+        raise ValueError("Contextual HTML belongs to a different review snapshot")
+
+
 def main() -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("--work", default=b.DEFAULT_WORK)
@@ -169,6 +206,8 @@ def main() -> int:
     folder = b.ROOT / "review/translation-disagreements" / args.work
     inventory = json.loads(b.read(folder / "candidates.json"))
     validate_inventory(queue, inventory)
+    spec = json.loads(b.read(b.ROOT / "data/translation_disagreements" / args.work / "review.json"))
+    validate_context(queue, inventory, folder, spec)
     if (folder/'post-correction-comparison.json').exists():
         current=json.loads(b.read(folder/'post-correction-comparison.json'))
         validate_inventory(current,current)

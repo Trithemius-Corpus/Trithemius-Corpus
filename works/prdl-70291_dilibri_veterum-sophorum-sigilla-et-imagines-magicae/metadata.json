@@ -41,5 +41,9 @@
     "latin_source_file": "full.txt",
     "latin_fallback_sources": {},
     "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae_parallel.html"
+  },
+  "attribution": {
+    "author": null,
+    "attributed_to": "Johannes Trithemius"
   }
 }

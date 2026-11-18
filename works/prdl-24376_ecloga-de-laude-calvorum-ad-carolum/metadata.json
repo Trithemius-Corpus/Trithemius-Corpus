@@ -41,5 +41,9 @@
     "latin_source_file": "churro_full.txt",
     "latin_fallback_sources": {},
     "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum_parallel.html"
+  },
+  "attribution": {
+    "author": "Hucbald of Saint-Amand",
+    "transmitted_by": "Johannes Trithemius"
   }
 }

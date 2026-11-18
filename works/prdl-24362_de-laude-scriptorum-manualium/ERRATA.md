@@ -47,3 +47,19 @@ These are Codex AI visual assessments of BSB bsb00037424, not documented human r
 - Basis: The scan reads Mentis, not Gentis/Dentes, and horreum. The metaphor is the storehouse of the mind; neither race nor an illegible noun is needed.
 
 The [ed.] marker replaces the resolved [unclear] marker to retain its annotation anchor and the numbering of later notes. It points to the scan-supported storehouse-of-the-mind correction above.
+
+## 2026-11-17 — review against the Mainz print
+
+Codex AI checked the following readings against the Bayerische Staatsbibliothek facsimile of BSB bsb00037424. Human review is pending.
+
+### scribes-003
+
+The edition previously read “my sight trembles; likewise my pen”. It now reads “my [dipped?] pen trembles again”.
+
+*tremet [intinctus?] iterum calamus*. The verb tremet and the nominative calamus support a trembling pen. The word divided at the line ending is iterum. The sequence before it appears to read intinctus, a masculine participle that can describe a dipped pen. The earlier reading intuitus gave “my sight” more certainty than the type warrants. The brackets in the English mark the unresolved modifier. A Latin reader should adjudicate the letterforms, the syntax and the placement of iterum. [Printed folio 3v (0008)](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00008/full/full/0/default.jpg)
+
+### A-F23
+
+The edition previously read “Cassiodorus, Bede, Alcuin, Regino, Peter Damian”. It now reads “Cassiodorus, Bede, Alcuin, Rabanus, Regino, Peter Damian”.
+
+*Cassiodorum, Bedam, Alcuinum, Rabanum, Reginonem*. The list prints Rabanum between Alcuinum and Reginonem. Both translations of this passage had skipped directly from Alcuin to Regino. [Printed folio 6v (0014)](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00014/full/full/0/default.jpg)

@@ -64,5 +64,38 @@
       455
     ],
     "sha256": "8201a4061aadeeeee6b1e71a8df6534ceb7d5e6d07a73ef24e398282fb97f690"
+  },
+  "A-F18": {
+    "canvas_number": 14,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/A-F18-crop.png",
+    "xywh": [
+      465,
+      982,
+      1415,
+      253
+    ],
+    "sha256": "52b85f3544b7ef93f3c64bc873a29a049fae8366fe07cfb38870ba9cb3d05a79"
+  },
+  "A-F23": {
+    "canvas_number": 14,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/A-F23-crop.png",
+    "xywh": [
+      478,
+      2186,
+      1402,
+      207
+    ],
+    "sha256": "3ebbc6581921416a859abbf85c23f9223c39b14f5aabc24e4d869596c0920458"
+  },
+  "B-F10": {
+    "canvas_number": 27,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/B-F10-crop.png",
+    "xywh": [
+      310,
+      860,
+      1412,
+      243
+    ],
+    "sha256": "8ed4b5d6a9adbc433444d83721f2891b06e1fdbb1b8e5775798c718ec4517406"
   }
 }

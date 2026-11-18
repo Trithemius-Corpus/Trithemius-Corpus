@@ -1,7 +1,6 @@
 """Refresh editorial copy from sources without rebuilding the reading text.
 
-This bounded build uses the committed site as its base. A full build requires
-private Style C inputs that are absent from a public checkout. Only work
+This bounded build uses the committed site as its base. Only work
 headers, metadata, introductions, Book JSON-LD, and shared footers are replaced;
 reading bodies, apparatus, passage indexes, and source mappings stay intact.
 Landing/catalogue pages and editorial documentation use the normal builders.
@@ -20,7 +19,7 @@ import build_t4b_pages as t4b
 WORK_BLOCKS = (
     r'<header class="work-header">.*?</header>',
     r'<section class="work-meta">.*?</section>',
-    r'<section class="work-intro">.*?</section>',
+    r'<section class="work-intro"[^>]*>.*?</section>',
 )
 FOOTER = r'<p class="footer-byline muted">.*?</p>'
 JSONLD = r'<script type="application/ld\+json">.*?</script>'
@@ -48,7 +47,7 @@ def save_if_changed(path: Path, text: str) -> None:
         path.write_text(text, encoding="utf-8", newline="\n")
 
 
-def main() -> int:
+def refresh() -> None:
     env = bs.make_env()
     manifest = bs.load_manifest()
     works = [bs.enrich_work(w) for w in manifest["works"] if not w["skip"]]
@@ -75,7 +74,7 @@ def main() -> int:
         old = path.read_text(encoding="utf-8")
         rendered = t4b.build_t4b_work_page(env, work)
         updated = old
-        for pattern in WORK_BLOCKS:
+        for pattern in (*WORK_BLOCKS, JSONLD):
             updated = replace_block(updated, rendered, pattern)
         if protected_content(old) != protected_content(updated):
             raise ValueError(f"reading content changed: {path.name}")
@@ -116,13 +115,13 @@ def main() -> int:
         )
         save_if_changed(path, replace_block(old, shell, FOOTER))
 
-    sitemap = bs.OUT / "sitemap.xml"
-    original = sitemap.read_text(encoding="utf-8")
-    url = bs.SITE_BASE + "prior-translations.html"
-    if url not in original:
-        save_if_changed(sitemap, original.replace("</urlset>", f"  <url><loc>{url}</loc></url>\n</urlset>"))
     print(f"Refreshed editorial sections on {len(works)} standard and {len(t4b_works)} T4B pages.")
     print("Reading text, apparatus, and passage indexes preserved; catalogue, documentation, and footers refreshed.")
+
+
+def main() -> int:
+    with bs.staged_site():
+        refresh()
     return 0
 
 

@@ -37,6 +37,7 @@ from __future__ import annotations
 
 import html as html_lib
 import csv
+import filecmp
 import json
 import os
 import re
@@ -51,6 +52,11 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import facsimile_map  # noqa: E402  (shared chunk -> source-page mapping)
 import iiif_model  # noqa: E402  (offline IIIF Presentation 3 artifacts)
 import passage_model  # noqa: E402  (stable passage IDs + export artifacts)
+import reader_tools
+import publication_guard
+from contextlib import contextmanager
+from publication_inventory import write_sitemap
+from edition_metadata import QA_LABELS, STATE_LABELS, attribution, credit, editorial_record
 
 ROOT = Path(__file__).resolve().parents[1]
 TEMPLATES = ROOT / "site" / "templates"
@@ -71,9 +77,9 @@ CIPHERS_MD = ROOT / "docs" / "CIPHERS.md"
 IIIF_SOURCES = json.loads((ROOT / "data" / "iiif_sources.json").read_text(encoding="utf-8"))["works"]
 
 SITE_DESCRIPTION = (
-    "Open English translations of the Latin works of Johannes Trithemius "
-    "(1462–1516): 29 texts across 47 printed editions, each beside its "
-    "Latin source, with cipher tables shown against the original page scans."
+    "Open English translations of 29 Latin texts by or associated with Johannes "
+    "Trithemius (1462–1516), across 47 printed witnesses. Read the English beside "
+    "the Latin OCR and examine cipher tables alongside their source scans."
 )
 
 # Human-facing genre labels for the pipeline's genre_cluster slugs, in the
@@ -257,6 +263,11 @@ def make_env() -> Environment:
     # CSS reference resolve correctly under file:// and GitHub Pages alike.
     env.globals["url"] = make_url(0)
     env.globals["asset"] = make_asset(0)
+    catalog = reader_tools.search_catalog(
+        [w for w in load_manifest()["works"] if not w.get("skip")], text_group_key, edition_tag,
+    )
+    env.globals["search_witness"] = lambda work: catalog[work.get("standard_witness", work["id"])]
+    env.filters["search_anchors"] = reader_tools.search_anchors
     return env
 
 
@@ -363,7 +374,7 @@ def enrich_work(w: dict) -> dict:
 
 
 def attach_translation_survey(w: dict) -> dict:
-    fe = load_first_english().get(w["id"], {})
+    fe = load_first_english().get(w.get("standard_witness", w["id"]), {})
     status = fe.get("status", "unresolved")
     labels = {"complete_prior": "Complete prior English located",
               "partial_prior": "Partial prior English located; no complete translation located",
@@ -385,42 +396,18 @@ def attach_public_status(w: dict, edition_track: str = "earlier") -> dict:
     and reproducibility. Public pages use these explicit provenance/status
     fields instead of presenting machine grades as certification.
     """
-    graded = int(w.get("chunks_graded") or 0)
-    total = int(w.get("chunks_total") or 0)
-    coverage = (graded / total * 100.0) if total else float(w.get("coverage_pct") or 0)
-    if graded and coverage >= 95:
-        automated = "Full machine audit"
-    elif graded:
-        automated = "Sampled machine audit"
-    else:
-        automated = "Not independently audited"
-    w["text_origin"] = "Machine translation"
-    review_key = f"{w['id']}::{edition_track}"
-    reviews_path = ROOT / "data" / "editorial_reviews.json"
-    reviews = {}
-    if reviews_path.exists():
-        reviews = json.loads(reviews_path.read_text(encoding="utf-8")).get("reviews", {})
-    review = reviews.get(review_key, {})
-    if review.get("status") == "approved" and review.get("scope") == "reading-view":
-        w["human_review"] = "Reading view reviewed; translation not fully verified"
-        w["editorial_review_date"] = review.get("date")
-    else:
-        w["human_review"] = "No complete human review documented"
-    w["automated_qa"] = automated
-    w["automated_qa_coverage"] = coverage
-    w["internal_triage"] = "C"
-    if edition_track == "trithemius-4b":
-        w["editorial_state"] = (
-            "Editorially reviewed reading view"
-            if review.get("status") == "approved" and review.get("scope") == "reading-view"
-            else "Prepared reading text"
-        )
-    else:
-        w["editorial_state"] = "Provisional reading text"
-    if w.get('ai_corrections'):
-        w['automated_qa']='Historical machine audit (before local corrections)'
-        w['editorial_state']='AI-corrected provisional reading text'
-        w['editorial_note']=w['ai_corrections']['note']
+    reviews = json.loads((ROOT / "data/editorial_reviews.json").read_text(encoding="utf-8"))["reviews"]
+    record = editorial_record(w, edition_track, reviews)
+    w.update(text_origin="Machine translation", internal_triage=record["internal_triage"],
+             human_review=("Reading view reviewed; translation not fully verified"
+                           if record["human_review"] == "editorial-reading-view" else "No complete human review documented"),
+             automated_qa=QA_LABELS[record["automated_qa"]],
+             automated_qa_coverage=record["automated_qa_coverage_pct"],
+             editorial_state=STATE_LABELS[record["editorial_state"]], author_credit=credit(w))
+    if record.get("review_date"):
+        w["editorial_review_date"] = record["review_date"]
+    if record.get("ai_corrections"):
+        w["editorial_note"] = record["ai_corrections"]["note"]
     return w
 
 
@@ -762,6 +749,7 @@ def page_meta(path: str, description: str = "", nav: str | None = None,
         "page_path": path,
         "meta_description": desc,
         "canonical": SITE_BASE + path,
+        "noindex": path in {"404.html", "search.html"},
         "og_image": SITE_BASE + "static/" + (image or HERO_IMAGE_REL),
         "jsonld": json.dumps(jsonld, ensure_ascii=False) if jsonld else None,
         "nav_active": nav,
@@ -775,13 +763,18 @@ def work_jsonld(work: dict) -> dict:
         "@type": "Book",
         "name": work.get("title_en") or work.get("title"),
         "alternateName": work.get("title"),
-        "author": {"@type": "Person", "name": "Johannes Trithemius",
-                   "birthDate": "1462", "deathDate": "1516"},
         "inLanguage": "en",
         "license": "https://creativecommons.org/publicdomain/zero/1.0/",
         "isPartOf": {"@type": "Dataset", "name": "Trithemius Corpus", "url": SITE_BASE},
-        "url": f"{SITE_BASE}works/{work['id']}.html",
+        "url": SITE_BASE + reading_path(work),
     }
+    author = attribution(work)
+    if author.get("author"):
+        out["author"] = {"@type": "Person", "name": author["author"]}
+    if author.get("transmitted_by"):
+        out["contributor"] = {"@type": "Person", "name": author["transmitted_by"]}
+    if author.get("attributed_to") or author.get("transmitted_by"):
+        out["description"] = credit(work)
     if work.get("composition_year"):
         out["dateCreated"] = str(work["composition_year"])
     src = work.get("source") or {}
@@ -807,15 +800,21 @@ def site_jsonld(texts_count: int, works_count: int) -> dict:
     }
 
 
+def reading_path(work: dict) -> str:
+    suffix = "-trithemius-4b" if work.get("edition") == "trithemius-4b" else ""
+    return f"works/{work['id']}{suffix}.html"
+
+
 def citation_text(work: dict) -> str:
     """Plain-text suggested citation for one work page."""
     title_en = work.get("title_en") or ""
     title = work.get("title") or work["id"]
     ed = work.get("edition_info") or ""
     bits = [f"Fabin, Ian Carlos (2026). “{title_en}” [{title}]."]
-    bits.append("Machine-assisted English translation"
+    track = "Trithemius 4B machine-assisted English translation" if work.get("edition") == "trithemius-4b" else "Machine-assisted English translation"
+    bits.append(track
                 + (f" of the {ed} edition." if ed else "."))
-    bits.append(f"In Trithemius Corpus. {SITE_BASE}works/{work['id']}.html")
+    bits.append(f"In Trithemius Corpus. {SITE_BASE}{reading_path(work)}")
     return " ".join(bits)
 
 
@@ -1601,9 +1600,7 @@ def _lacks_parallel_source_evidence(latin: str, english: str) -> bool:
 def _load_pairs_from_release_artifacts(work_id: str) -> tuple[list[dict], dict] | None:
     """Prefer the committed release artifacts for standard site pages.
 
-    The working corpus is still needed for Style C pages, but the normal
-    Latin/English reader should rebuild from the public dataset committed in
-    this repository whenever possible.
+    Public Latin and translated chunks take precedence over working materials.
     """
     work_dir = ROOT / "works" / work_id
     latin_path = work_dir / "latin-ocr.txt"
@@ -1940,7 +1937,7 @@ def _facsimile_pages_for(work_id: str, chunk_name: str,
 
 
 def load_style_c(work: dict) -> dict:
-    """Read Style C content from the working corpus. Returns a dict keyed by
+    """Read the published apparatus, with working sources for newly added types. Returns a dict keyed by
     content-type with intro_html, source (provider attribution), and
     chunks=[{name, html, pages}, ...]. Empty dict if the work has no Style C
     content."""
@@ -1948,8 +1945,21 @@ def load_style_c(work: dict) -> dict:
     source = work.get("source") or {}
     rec_pages = facsimile_map.rec_pages_for_work(work_id)
     out: dict[str, dict] = {}
+    registry = publication_guard.read_input("passage-contract.json")["apparatus"]
+    cached = {}
+    if work_id in registry:
+        payload = (publication_guard.INPUTS / "apparatus" / f"{work_id}.json").read_text(encoding="utf-8")
+        if publication_guard.digest(payload) != registry[work_id]["sha256"]:
+            raise ValueError(f"{work_id}: public apparatus input digest mismatch")
+        cached = json.loads(payload)
     for ct in STYLE_C_TYPES:
         type_dir = CORPUS / work_id / "translations" / f"style-c-{ct['key']}"
+        if ct["key"] in cached:
+            preserved = cached[ct["key"]]
+            chunks = preserved["chunks"]
+            out[ct["key"]] = dict(ct, **preserved, n=len(chunks),
+                n_facsimiles=sum(bool(c["pages"]) for c in chunks), source=source)
+            continue
         if not type_dir.is_dir():
             continue
         full_dir = type_dir / "full"
@@ -2000,6 +2010,9 @@ def load_style_c(work: dict) -> dict:
                 "url": source.get("url"),
             },
         }
+    for key, count in registry.get(work_id, {}).get("types", {}).items():
+        if key not in out or out[key]["n"] < count:
+            raise ValueError(f"{work_id}: incomplete {key} apparatus")
     return out
 
 
@@ -2017,9 +2030,12 @@ def load_chapters(work_id: str) -> dict | None:
 
 def passage_source_lookup(work_id: str):
     """Return a segment-to-source-page resolver for passage index records."""
+    committed = publication_guard.read_input("source-pages.json").get(work_id, {})
     rec_pages = facsimile_map.rec_pages_for_work(work_id)
 
     def lookup(segment: int) -> dict:
+        if str(segment) in committed:
+            return committed[str(segment)]
         pages, approximate = facsimile_map.pages_for_chunk(work_id, segment, rec_pages)
         return {
             "pages": [{"number": page, "label": str(page)} for page in pages],
@@ -2123,7 +2139,7 @@ def stitch_english_with_passages(
     if html_transform is not None:
         html = html_transform(html)
     html, passages, annotations = passage_model.identify_passages(
-        html, work_id, chapters
+        html, work_id, chapters, publication_guard.read_input("compound-passages.json").get(work_id)
     )
     # Swap chapter placeholders only after passage extraction. The segment
     # comments then delimit complete HTML fragments without artificial section
@@ -2281,7 +2297,7 @@ def polish_steganographia_html(work_id: str, rendered: str) -> str:
     # Some OCR paragraphs italicize the rubric and the opening prose along
     # with the chapter label. Split only the short numbered label out.
     rendered = re.sub(
-        r"<p><em>((?:Chapter|CHAPTER)\s+(?:[IVXLCDM]+|\d+)\.?)\s+([\s\S]*?)</em></p>",
+        r"<p><em>((?:Chapter|CHAPTER)\s+(?:[IVXLCDM]+|\d+)\.?)\s+((?:(?!</?p\b|</?em\b|<!--PASSAGE-SEG:|</?h[1-6]\b)[\s\S])*?)</em></p>",
         r'<h3 class="chapter-heading">\1</h3><p><em>\2</em></p>',
         rendered,
     )
@@ -2293,7 +2309,7 @@ def polish_steganographia_html(work_id: str, rendered: str) -> str:
     # A descriptive rubric immediately following a numbered chapter is its
     # subtitle, not a separate paragraph of prose.
     rendered = re.sub(
-        r'(<h3 class="chapter-heading">[\s\S]*?</h3>)\s*<p><em>([\s\S]*?)</em></p>',
+        r'(<h3 class="chapter-heading">[^<]*</h3>)\s*<p><em>((?:(?!</?p\b|</?em\b|<!--PASSAGE-SEG:|</?h[1-6]\b)[\s\S])*?)</em></p>',
         r'\1<h4 class="chapter-deck">\2</h4>',
         rendered,
     )
@@ -2444,7 +2460,7 @@ def build_work(env: Environment, work: dict, english_html: str,
                next_work_id: str | None = None,
                passage_count: int = 0,
                has_tei: bool = False,
-               iiif_canvas_map: dict[str, int] | None = None) -> str:
+               iiif_canvas_map: dict[str, int] | None = None, reviewed_canvases: dict | None = None) -> str:
     work_dir = ROOT / "works" / work["id"]
     intro_html = render_markdown_file(work_dir / "intro.md")
     desc = intro_excerpt(work["id"]) or (
@@ -2496,6 +2512,7 @@ def build_work(env: Environment, work: dict, english_html: str,
         has_tei=has_tei,
         iiif_source=IIIF_SOURCES.get(work["id"]),
         iiif_canvas_map=iiif_canvas_map or {},
+        reviewed_canvases=reviewed_canvases or {},
         has_errata=has_errata,
         errata_html=errata_html,
         prev_work=prev_work_id,
@@ -2546,30 +2563,19 @@ def copy_static() -> None:
     only missing/stale files instead. (Renamed/removed statics may linger in
     dist until a manual clean — acceptable for this repo.)"""
     static_out = OUT / "static"
+    reader_tools.publish_glossary(ROOT, OUT)
     copied = 0
     for src in STATIC.rglob("*"):
         if not src.is_file():
             continue
         dst = static_out / src.relative_to(STATIC)
-        if dst.exists() and dst.stat().st_mtime >= src.stat().st_mtime:
+        if dst.is_file() and filecmp.cmp(src, dst, shallow=False):
             continue
         dst.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(src, dst)
         copied += 1
     if copied:
         print(f"  static: copied {copied} new/updated files")
-
-
-def write_sitemap(paths: list[str]) -> None:
-    lines = ['<?xml version="1.0" encoding="UTF-8"?>',
-             '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">']
-    for p in paths:
-        lines.append(f"  <url><loc>{html_lib.escape(SITE_BASE + p)}</loc></url>")
-    lines.append("</urlset>")
-    (OUT / "sitemap.xml").write_text("\n".join(lines) + "\n", encoding="utf-8")
-    (OUT / "robots.txt").write_text(
-        f"User-agent: *\nAllow: /\nSitemap: {SITE_BASE}sitemap.xml\n",
-        encoding="utf-8")
 
 
 def _slim_cipher_data_for_tools(path: Path) -> dict:
@@ -2598,7 +2604,7 @@ def _slim_cipher_data_for_tools(path: Path) -> dict:
     }
 
 
-def main() -> None:
+def render_site() -> None:
     OUT.mkdir(parents=True, exist_ok=True)
     copy_static()
     (OUT / ".nojekyll").write_text("", encoding="utf-8")
@@ -2613,9 +2619,6 @@ def main() -> None:
     # button needs no fetch() — works on file://, HTTP, and GitHub Pages).
     global ALL_WORK_IDS
     ALL_WORK_IDS = [w["id"] for w in works]
-    sitemap_paths: list[str] = ["index.html", "works.html", "scoreboard.html",
-                                "ciphers.html", "cipher-solutions.html", "witness-comparison.html", "methodology.html",
-                                "LICENSE.html", "prior-translations.html"]
 
     (OUT / "index.html").write_text(
         build_index(env, manifest, works, texts, sections), encoding="utf-8")
@@ -2628,7 +2631,6 @@ def main() -> None:
     for section in sections:
         (genres_out / f"{section['slug']}.html").write_text(
             build_genre_page(env, section), encoding="utf-8")
-        sitemap_paths.append(f"genres/{section['slug']}.html")
 
     if CIPHERS_MD.exists():
         (OUT / "ciphers.html").write_text(
@@ -2705,7 +2707,7 @@ def main() -> None:
     # Executable cipher edition, generated entirely from committed evidence.
     from build_cipher_trace import load_and_compute, publish
     cipher_trace = load_and_compute()
-    publish(cipher_trace)
+    publish(cipher_trace, OUT / "data/cipher-traces")
     (OUT / "cipher-solutions.html").write_text(
         env.get_template("cipher_trace.html.j2").render(
             trace=cipher_trace, url=make_url(0), asset=make_asset(0),
@@ -2721,7 +2723,7 @@ def main() -> None:
     # Human-verified, source-linked pilot collation across three witnesses.
     from build_witness_comparison import load_comparison, publish as publish_comparison
     witness_comparison = load_comparison()
-    publish_comparison(witness_comparison)
+    publish_comparison(witness_comparison, OUT / "data/witness-comparisons")
     (OUT / "witness-comparison.html").write_text(
         env.get_template("witness_comparison.html.j2").render(
             comparison=witness_comparison, url=make_url(0), asset=make_asset(0),
@@ -2801,19 +2803,18 @@ def main() -> None:
             (works_out / f"{w['id']}_parallel.html").write_text(
                 build_parallel(env, w, pairs, stats, style_c, chapters), encoding="utf-8")
             n_parallel += 1
-            sitemap_paths.append(f"works/{w['id']}_parallel.html")
             n_untranslated_display += stats.get("n_missing", 0)
             if not stats["aligned"]:
                 misaligned.append(f"{w['id']} (L={stats['n_latin']} E={stats['n_english']})")
         for ct_key, ct_data in style_c.items():
             (works_out / f"{w['id']}_style-c-{ct_key}.html").write_text(
                 build_style_c_page(env, w, ct_data, style_c), encoding="utf-8")
-            sitemap_paths.append(f"works/{w['id']}_style-c-{ct_key}.html")
             n_style_c_pages += 1
         inline_style_c = _style_c_inline_lookup(w, style_c)
         passages: list[dict] = []
         annotations: list[dict] = []
         iiif_canvas_map: dict[str, int] = {}
+        reviewed_canvases = {}
         if pairs:
             def polish(rendered: str) -> str:
                 rendered = polish_polygraphia_vocabulary_html(w["id"], rendered)
@@ -2834,12 +2835,8 @@ def main() -> None:
             )
             iiif_source = IIIF_SOURCES.get(w["id"])
             if iiif_source:
-                offset = int(iiif_source.get("page_offset", 0))
-                iiif_canvas_map = {
-                    str(segment["segment"]): int(segment["source"]["pages"][0]["number"]) + offset
-                    for segment in passage_index["segments"]
-                    if segment.get("source", {}).get("pages")
-                }
+                provider = json.loads((iiif_model.CACHE / f"{w['id']}.json").read_text(encoding="utf-8"))
+                iiif_canvas_map, reviewed_canvases = iiif_model.canvas_targets(w["id"], iiif_source, provider, passage_index)
             n_passage_indexes += 1
             n_passages += len(passages)
             if w["id"] in passage_model.TEI_PILOT_IDS:
@@ -2857,13 +2854,10 @@ def main() -> None:
                        prev_work_id=prev_id, next_work_id=next_id,
                        passage_count=len(passages),
                        has_tei=w["id"] in passage_model.TEI_PILOT_IDS,
-                       iiif_canvas_map=iiif_canvas_map),
+                       iiif_canvas_map=iiif_canvas_map, reviewed_canvases=reviewed_canvases),
             encoding="utf-8")
-        sitemap_paths.append(f"works/{w['id']}.html")
 
-    iiif_model.generate_all()
-    sitemap_paths.append("iiif/viewer.html")
-    write_sitemap(sitemap_paths)
+    iiif_model.generate_all(dist=OUT)
 
     print(f"wrote site to {OUT.relative_to(ROOT)}/")
     print(f"  index, works ({len(texts)} texts), scoreboard, "
@@ -2872,7 +2866,6 @@ def main() -> None:
           f"{n_style_c_pages} Style C subpages")
     print(f"  {n_passages} stable passages in {n_passage_indexes} indexes; "
           f"{n_tei_exports} pilot TEI exports")
-    print(f"  sitemap.xml ({len(sitemap_paths)} urls) + robots.txt")
     if misaligned:
         print(f"  [warn] {len(misaligned)} works had Latin/English count mismatch:")
         for m in misaligned:
@@ -2884,5 +2877,30 @@ def main() -> None:
               f"(marked in the viewer)")
 
 
+@contextmanager
+def staged_site():
+    """Commit a complete, internally consistent reader tree or keep the prior one."""
+    global OUT
+    target = OUT
+    try:
+        with publication_guard.staged_directory(target, seed=True) as stage:
+            OUT = stage
+            yield
+            reader_tools.stamp_search_pages(stage)
+            write_sitemap(stage, SITE_BASE)
+            publication_guard.validate_tree(stage, target)
+    finally:
+        OUT = target
+
+
+def main() -> None:
+    import build_t4b_pages
+    with staged_site():
+        render_site()
+        if build_t4b_pages.render_pages():
+            raise ValueError("T4B reading pages could not be built")
+
+
 if __name__ == "__main__":
+    sys.modules.setdefault("build_site", sys.modules[__name__])
     main()

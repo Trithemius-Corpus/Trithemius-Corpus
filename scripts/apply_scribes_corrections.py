@@ -8,6 +8,7 @@ import json
 import shutil
 import build_translation_disagreements as b
 import scan_evidence
+from edition_corrections import history, validate_history
 
 ROOT=b.ROOT
 BASE=ROOT/'data/translation_disagreements'/b.DEFAULT_WORK
@@ -16,10 +17,9 @@ BASE=ROOT/'data/translation_disagreements'/b.DEFAULT_WORK
 def main():
     ledger_path=BASE/'corrections.json'
     if ledger_path.exists():
-        ledger=json.loads(b.read(ledger_path))
-        for file in ledger['files']:
-            if b.digest(b.read(ROOT/file['path']))!=file['after_sha256']:raise ValueError('applied correction has changed')
-        print('Correction batch already applied; all file hashes match.')
+        batches = history(ROOT, b.DEFAULT_WORK)
+        validate_history(ROOT, b.DEFAULT_WORK, batches)
+        print(f"All {len(batches)} correction batches are already applied and match their frozen inputs.")
         return
     scans=scan_evidence.load(ROOT,b.DEFAULT_WORK)
     proposal=json.loads(b.read(BASE/'proposed-corrections.json'))

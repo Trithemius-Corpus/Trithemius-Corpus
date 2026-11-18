@@ -1,5 +1,5 @@
 {
-  "title": "Trithemius Corpus: machine-assisted English translations of a 47-work Latin corpus by Johannes Trithemius (1462-1516)",
+  "title": "Trithemius Corpus: machine-assisted English translations of Latin texts by or associated with Johannes Trithemius",
   "upload_type": "dataset",
   "access_right": "open",
   "license": "CC-BY-4.0",
@@ -8,7 +8,7 @@
       "name": "Carlosian"
     }
   ],
-  "description": "A machine-assisted English translation of a 47-work Latin corpus by Johannes Trithemius (Benedictine abbot of Sponheim, 1462-1516), produced via OCR, LLM translation, independent grading, targeted remediation, and keep-better revision. Current public release view: 4,400 published chunks across 47 translatable printed editions (29 distinct texts), 4,353 graded chunks, mean faithful 4.63/5, 0.0% confirmed hallucination, 100.0% of graded chunks at faithful >= 4 and not hallucinated, and tier distribution S=47 / A=0 / B=0 / C=0 / F=0. Covers his monastic-reform, devotional, Marian/hagiographic, bibliographic, historical, and cryptographic writings, including 23 of its 29 distinct texts (39 of 47 editions) with no located prior published English translation. Each work includes stitched English, OCR-cleaned Latin, source provenance, a researched headnote, per-chunk grades, and a side-by-side Latin / English viewer. See README.md, METHODOLOGY.md, and docs/PRIOR_TRANSLATIONS.md.",
+  "description": "Provisional English translations of 29 Latin texts across 47 printed witnesses in the Trithemius Corpus. The project survey located no prior complete published English translation for 23 texts (41 witnesses). Edition records distinguish machine translation, editorial preparation, human review and automated audit coverage. Earlier machine scores are historical. Latin transcription, source scans, and documented corrections support verification of individual passages.",
   "keywords": [
     "Trithemius",
     "Neo-Latin",

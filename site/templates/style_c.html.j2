@@ -1,6 +1,8 @@
 {% extends "base.html.j2" %}
 {% from "_macros.html.j2" import breadcrumb with context %}
+{% from "_search_metadata.html.j2" import search_metadata %}
 {% block title %}{{ work.title }} &mdash; {{ content_type.label }} &mdash; Trithemius Corpus{% endblock %}
+{% block head %}{{ search_metadata(work, "apparatus") }}{% endblock %}
 {% block body %}
 
 <article class="style-c-page">
@@ -33,7 +35,8 @@
 {% endif %}
 
 {% if content_type.intro_html %}
-<section class="style-c-intro">
+<section class="style-c-intro" data-pagefind-body>
+<span id="apparatus-introduction"></span>
 {{ content_type.intro_html|safe }}
 </section>
 {% endif %}
@@ -68,7 +71,8 @@
         </figcaption>
       </figure>
       {% endif %}
-      <div class="style-c-rendering">
+      <div class="style-c-rendering" data-pagefind-body>
+        <span id="rendering-{{ chunk.name }}"></span>
         {{ chunk.html|safe }}
       </div>
     </div>

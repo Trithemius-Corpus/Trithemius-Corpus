@@ -44,12 +44,12 @@ def load_and_compute(path: Path = SOURCE) -> dict:
     return data
 
 
-def publish(data: dict) -> None:
-    OUT.mkdir(parents=True, exist_ok=True)
-    (OUT / "modus-ii.json").write_text(
+def publish(data: dict, output: Path = OUT) -> None:
+    output.mkdir(parents=True, exist_ok=True)
+    (output / "modus-ii.json").write_text(
         json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
-    with (OUT / "modus-ii.tsv").open("w", encoding="utf-8", newline="") as handle:
+    with (output / "modus-ii.tsv").open("w", encoding="utf-8", newline="") as handle:
         writer = csv.writer(handle, delimiter="\t", lineterminator="\n")
         writer.writerow(["position", "cipher", "decoded", "evidence_status"])
         for row in data["computed"]["rows"]:

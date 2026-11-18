@@ -45,27 +45,6 @@
       "status": "AI scan-assessed benchmark seed; human validation pending"
     },
     {
-      "id": "scribes-003",
-      "latin": "tremet [intuitus] iterum calamus",
-      "interpretation": "The printed line describes trembling and calamus. The word spanning the line break is iterum, not a reference to Jesus. The reading intuitus is retained as an interpretive reading of the minims.",
-      "source_image": {
-        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/8",
-        "label": "3v (0008)",
-        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00008/full/full/0/default.jpg",
-        "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-008.jpg",
-        "sha256": "b6398a11de471aac45c59109427342c7fd1c86c23722c3cf9bec8dbc46506f84",
-        "rights": [
-          "https://creativecommons.org/publicdomain/mark/1.0/"
-        ],
-        "attribution": "Bayerische Staatsbibliothek",
-        "download_date": "2026-11-05"
-      },
-      "accepted_local_english": [
-        "my sight trembles; likewise my pen"
-      ],
-      "status": "AI scan-assessed benchmark seed; human validation pending"
-    },
-    {
       "id": "scribes-004",
       "latin": "Nec oportet vos propter studium monasterium deserere: quia unde proficiatis domi potestis invenire",
       "interpretation": "The printed clause and its explanation support lack of necessity: the means of study can be found at home. This remains a contextual translation judgment, not a new prohibition.",
@@ -128,6 +107,39 @@
         "the abbot should provide for them in all necessities more abundantly than for the others, who scorn to be such and to be found such"
       ],
       "status": "AI scan-assessed benchmark seed; human validation pending"
+    }
+  ],
+  "withheld": [
+    {
+      "id": "scribes-003",
+      "date": "2026-11-17",
+      "status": "withheld_pending_human_adjudication",
+      "reason": "The verb tremet and the nominative calamus support a trembling pen. The word divided at the line ending is iterum. The sequence before it appears to read intinctus, a masculine participle that can describe a dipped pen. The earlier reading intuitus gave “my sight” more certainty than the type warrants. The brackets in the English mark the unresolved modifier. A Latin reader should adjudicate the letterforms, the syntax and the placement of iterum.",
+      "source_image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/8",
+        "label": "3v (0008)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00008/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-008.jpg",
+        "sha256": "b6398a11de471aac45c59109427342c7fd1c86c23722c3cf9bec8dbc46506f84",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-05"
+      },
+      "crop": {
+        "canvas_number": 8,
+        "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-003-crop.png",
+        "xywh": [
+          504,
+          1293,
+          1467,
+          421
+        ],
+        "sha256": "df5145e919c6965ad1228da121e8fd766caeb14026044775d0ed8094df624fb5"
+      },
+      "historical_assessment": "scan-assessments.json",
+      "current_assessment": "scan-revisions/2026-11-17.json"
     }
   ]
 }
