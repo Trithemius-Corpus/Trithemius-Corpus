@@ -1,5 +1,9 @@
 # Editorial copy and metadata correction
 
+The [17 November publication sweep](publication-sweep-2026-11-17.md) records the
+subsequent public-input rebuild. The dependency note below describes the original
+5 November checkout.
+
 Scope: local corrections and validation; no deployment or remote writes.
 Baseline: `0e38a37671a5e3b5decd11c19fe82de79883cae7`.
 
