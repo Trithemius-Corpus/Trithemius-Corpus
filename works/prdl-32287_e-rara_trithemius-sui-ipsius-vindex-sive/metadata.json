@@ -42,5 +42,11 @@
     "latin_source_file": "_full_preocr.txt",
     "latin_fallback_sources": {},
     "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive_parallel.html"
+  },
+  "ai_corrections": {
+    "date": "2026-11-18",
+    "count": 1,
+    "human_review": "none_documented",
+    "note": "The 18 November 2026 corrections were checked against this printed witness. The edition errata preserve the previous wording and source images. Machine audit scores predate these edits."
   }
 }

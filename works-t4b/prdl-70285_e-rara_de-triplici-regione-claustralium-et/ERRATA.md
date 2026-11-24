@@ -1,0 +1,17 @@
+# Errata — prdl-70285_e-rara_de-triplici-regione-claustralium-et
+
+## 2026-11-18 · region-zurich-omission
+
+The Zürich T4B text previously jumped from the end of the preceding leaf to the heading for the first region. The top of this leaf preserves the intervening passage, from Scriptum est enim to in sequentibus dicetur. It gives the scriptural quotation, the source of the exercises, the work’s division and the threefold human condition. The restored English follows this copy. AI scan collation. No human verification of this correction is documented.
+
+Previous wording: On the first region of the soul, in which carnal monks dwell with beasts: disordered by many passions, living sensually in the lowest region.
+
+Revised wording: For it is written, “Obedience is better than sacrifices, and to heed is better than to offer fat.” Although many short works on spiritual exercise by different authors are to be found, not everything suits everyone. We too have therefore thought it fitting to publish something in keeping with the Rule of our most holy father Benedict, so that we may spur ourselves on more vigorously and come closer to the purity of observance that the Rule requires.
+
+Accordingly, we divide this little work, compiled from the exercises of that excellent father Theoderic, formerly abbot of the monastery of Bursfelde, into two principal parts. The first considers monastic formation, and the second deals with the practice of the spiritual life. In the first you are told to know yourself, in the second to lift your mind from earthly things to heavenly ones.
+
+Turning, then, as best we can to the subject of our inquiry, we divide the first treatise into three parts according to the threefold condition of those who live in the cloister. We may call the first group sensual, the second rational, and the third spiritual. From this threefold human condition we take a fitting title for this work, which we call On the Threefold Region of Cloistered Persons. These three regions encompass all monks, as we shall explain in what follows.
+
+On the first region of the soul, in which carnal monks dwell with beasts: disordered by many passions, living sensually in the lowest region.
+
+*Scriptum est enim. Melior est obedientia quam victime et auscultare magis quam offerre adipem. Et quamvis multa spiritualis exercicii a diversis composita inveniantur opuscula, quia tamen non omnibus conveniunt omnia, visum est eciam nobis ad convenientiam regule sanctissimi patris nostri Benedicti aliquid edere, quo magis et vicinius ad puritatem regularis observantie nosmetipsos possimus excitare. Itaque presens opusculum de optimi patris Theoderici quondam cenobii Bursfeldensis abbatis exerciciis collectum in duas partes principales dividimus, quarum prima in consideratione institutionis monastice ponitur, secunda circa exercitationem spiritualis vite occupatur. In prima teipsum iuberis cognoscere, in secunda mentem a terrenis ad celestia elevare. Igitur ad propositum considerationis nostre pro viribus accedentes primum tractatum in tres partes dividimus secundum triplicem hominum claustralium statum, quorum primos sensuales, secundos rationales, tercios spirituales possumus appellare. Ex hoc triplici hominum statu huic operi titulum convenientem assumimus, quod De triplici regione claustralium nuncupamus. In his tribus regionibus omnis turba monachorum concluditur, quemadmodum in sequentibus dicetur.*. [Stiftung der Werke von C. G. Jung, Zürich, e-rara, [11]](https://www.e-rara.ch/i3f/v20/2581271/full/full/0/default.jpg).

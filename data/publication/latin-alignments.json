@@ -1,1 +1,30 @@
-{}
+{
+  "prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae": {
+    "p-en-0006-0012": {
+      "latin_segment": 5,
+      "english_quote": "a cross carved in green jasper",
+      "latin_quote": "Crucem sculptam in Iaspite viridi, dicunt habere"
+    }
+  },
+  "prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive": {
+    "p-en-0011-0007": {
+      "latin_segment": 12,
+      "english_quote": "how deeply the good Trithemius feared for himself",
+      "latin_quote": "quam fibi amuerit bonus Trithemius, ne"
+    }
+  },
+  "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis": {
+    "p-en-0024-0003": {
+      "latin_segment": 22,
+      "english_quote": "i&kahk. gidibid.",
+      "latin_quote": "supputatione laborabunt, ponamus exemplum"
+    }
+  },
+  "prdl-24390_polygraphiae-libri-vi": {
+    "p-en-0122-0001": {
+      "latin_segment": 124,
+      "english_quote": "i&kahk. gidibid.",
+      "latin_quote": "Iaaibid ifeib, ieifeigeicbkib. cakeibid. ikabk."
+    }
+  }
+}

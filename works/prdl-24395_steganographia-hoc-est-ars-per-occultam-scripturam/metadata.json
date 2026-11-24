@@ -39,5 +39,12 @@
     "latin_source_file": "churro_full.txt",
     "latin_fallback_sources": {},
     "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam_parallel.html"
-  }
+  },
+  "ai_corrections": {
+    "date": "2026-11-23",
+    "count": 5,
+    "human_review": "none_documented",
+    "note": "The corrections of 23 November 2026 were checked by AI against this printed witness. The edition errata record the readings. Machine audit scores predate these edits."
+  },
+  "unclear_count": 180
 }

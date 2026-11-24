@@ -36,3 +36,17 @@ Re-translated from scratch against the source page-scans, superseding the earlie
 
 The published English opened with only a truncated title fragment ending "for ..." — the entire title page was missing: the subtitle ("There is added the true method of making them, and the astonishing erection of the Signature of Mercury..."), the six-author block (Zoroaster the Chaldaean, Solomon King of the Jews, Raphael the Jew, Chael the Egyptian, Hermes the Persian, Thetel), the Trithemius-attribution line ("Drawn from a manuscript of Johannes Trithemius"), and the 1612 imprint. The ERRATA entry of 2026-06-09 documented a from-scratch re-translation of chunk_0001 to restore exactly this title page, but that correction never reached the shipped file. Restored the full title page into `chunks/full_chunk_0001.md` and `english.md` (from the parallel 70291 rendering of the same source, which carries the complete title block). Also removed vision-model blank-page narration ("Given these details: 1. This page contains nothing...") that preceded the title in `latin-ocr.txt` segment 3. The `grades.csv` ghost row for the nonexistent `full_chunk_0021` was removed, and the chunk-0001 note corrected.
 
+## 2026-11-18 · sigilla-title-authors
+
+The title gives Solomon’s title in full. In the two-column list the plural Iudaeis groups Raphael and Chael. Aegyptio aligns with Hermes and Persa with Thetel. These are the identifications printed in this witness. AI scan collation. No human verification of this correction is documented.
+
+Previous wording: Raphael, the Jew;
+Chael, the Egyptian;
+Hermes, the Persian;
+Thetel.
+
+Revised wording: Raphael and Chael, Jews;
+Hermes, the Egyptian;
+Thetel, the Persian.
+
+*Salomone, Rege Iudaeorum; Raphaele, Chaele, Iudaeis; Hermete, Aegyptio; Thetele, Persa.*. [Stiftung der Werke von C. G. Jung, Zürich, e-rara, [9]](https://www.e-rara.ch/i3f/v20/2480566/full/full/0/default.jpg).

@@ -1,0 +1,13 @@
+{
+  "vindex-fear": {
+    "canvas_number": 51,
+    "crop_path": "data/translation_disagreements/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/facsimiles/vindex-fear.png",
+    "xywh": [
+      418,
+      1714,
+      1314,
+      432
+    ],
+    "sha256": "73c17b07ba76ee62bbce1797cc97918dc82d302f1523f410ae185208babef980"
+  }
+}

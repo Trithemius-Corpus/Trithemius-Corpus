@@ -1,0 +1,13 @@
+{
+  "anne-petitioners": {
+    "canvas_number": 7,
+    "crop_path": "data/translation_disagreements/prdl-24364_de-laudibus-sanctissimae-matris-annae/facsimiles/anne-petitioners.png",
+    "xywh": [
+      284,
+      610,
+      1410,
+      576
+    ],
+    "sha256": "addbdd56ced6804b0fb37e4cce86430122f536ef6adfada54354f35f30a75bd5"
+  }
+}

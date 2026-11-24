@@ -13,5 +13,20 @@
     "p-en-0016-0003": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/32",
     "p-en-0009-0005": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/20",
     "p-en-0010-0001": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/21"
+  },
+  "prdl-24390_polygraphiae-libri-vi": {
+    "p-en-0044-0011": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00029406/canvas/186",
+    "p-en-0122-0001": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00029406/canvas/536"
+  },
+  "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam": {
+    "p-en-0010-0005": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/canvas/f21",
+    "p-en-0010-0006": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/canvas/f21",
+    "p-en-0010-0011": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/canvas/f21",
+    "p-en-0010-0012": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/canvas/f21",
+    "p-en-0010-0013": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/canvas/f21",
+    "p-en-0010-0014": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/canvas/f21",
+    "p-en-0010-0015": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/canvas/f21",
+    "p-en-0010-0016": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/canvas/f21",
+    "p-en-0011-0004": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/canvas/f22"
   }
 }

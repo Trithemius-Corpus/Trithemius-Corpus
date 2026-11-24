@@ -145,3 +145,42 @@ The Latin witness contains six alternate vision-OCR reads of one badly damaged p
 ## 2026-07-10 — collapsed intra-chunk OCR double-captures (chunks 0002, 0189, 0212, 0222, 0230; audit fix)
 
 The 1494 scan double-captured several page regions; the OCR emitted each capture and the translation rendered both, duplicating passages inside single chunks. Kept the first/fuller reading in each case and replaced the degraded re-capture with a bracketed editorial note (the convention used at chunk 0218): 0002 (de Lapide preface sentences rendered three times, collapsed to one), 0189 (Boccaccio / Johannes Hildesheimensis / Johannes Marronis entries re-captured; variant age sixty-two vs sixty-three), 0212 (Fulgosius works-list and floruit double-captured into the Palomar entry), 0222 (Traversari-tail / Aietanus / Gulpen / Forliviensis / Buxella run re-captured with corrupted dates 1440 for 1430), 0230 (opening incipit list and the Anthony of Florence entry re-captured, breaking off mid-word). Chunk 0185 was reviewed and left as published: its repeated work-titles sit under two different author entries (Holkoth and Dorbin) and may reflect the source catalogue itself rather than a scan artifact. The Latin witness retains all double captures.
+
+## 2026-11-18 · writers-composed
+
+Cudissent uses the image of striking or fashioning something for the composition of a new work. The authors then dedicate what they have written. “Composed” avoids suggesting that they falsified it. AI scan collation. No human verification of this correction is documented.
+
+Previous wording: if they had forged any new work
+
+Revised wording: if they had composed any new work
+
+*si quid operis novi cudissent … id viris dicare praestantibus*. [Universitätsbibliothek Basel, e-rara, [13]](https://www.e-rara.ch/i3f/v20/3202063/full/full/0/default.jpg).
+
+## 2026-11-23 · writers-contemporaries
+
+Nostri names Trithemius’s contemporaries. The third-person plural verbs scriptitant and solent describe their practice of submitting their writings to learned readers and prelates. AI visual collation. No human verification of these readings is documented.
+
+Previous wording
+
+We too, imitating as far as we can this example of antiquity, are accustomed to submit the works that we write, dedicated, to prelates of churches and to more learned men, so that, approved by their authority, they may be able to go forth safely into public.
+
+Revised wording
+
+Our contemporaries too follow this ancient example as far as they can. They customarily submit the works they write, with a dedication, to prelates of the churches and to more learned men, so that the works may safely appear in public with their approval.
+
+*Hoc nostri quoque vetustatis exemplum pro posse imitantes, opera que scriptitant dicata ecclesiarum prelatis ac viris doctioribus solent submittere …*. [Universitätsbibliothek Basel, e-rara, [13]](https://www.e-rara.ch/i3f/v20/3202063/125,1012,1729,287/full/0/default.jpg)
+
+
+## 2026-11-23 · writers-transmission
+
+Trithemius distinguishes two generations of beneficiaries: we benefit from the ancients, and others benefit from us. AI visual collation. No human verification of these readings is documented.
+
+Previous wording
+
+while others profit both from them and from us
+
+Revised wording
+
+as we benefit from them and others benefit from us
+
+*quatenus dum nos ex illis atque ex nobis alii proficiunt, ordo ecclesiastice hierarchie inviolabilis perseveret.*. [Universitätsbibliothek Basel, e-rara, [13]](https://www.e-rara.ch/i3f/v20/3202063/127,1281,1737,244/full/0/default.jpg)

@@ -46,3 +46,17 @@ Trithemius, *Nepiachus* (autobiography); VD16 records; standard ecclesiastical h
 ## 2026-07-11 — crypto-occult spot-check fixes
 
 - Applied the previously documented resolution "abbot of [unclear]" -> "abbot of Saint James of Würzburg" to the chunk 0025 colophon line (the 2026-06-19 entry described this fix but it had not landed in the file).
+
+## 2026-11-23 · key-numeral-cipher
+
+<span id="a-en-0024-0003-001"></span>
+
+<span id="a-en-0024-0003-002"></span>
+
+This setting repeats a distinctive angular sort for k. The two clearer impressions flank ah in i&kahk, and the table prints i& for q and & for f. The type is faint in [c?]a[k?]eihid, ib[k?]ig, &[k?]if and ibeicda[k?]a. Brackets give suggested letters at those places. The scan supplies the previously missing eigih and ieeigigh. A line-end division is joined and separators are regularized. AI visual collation. Human review is undocumented.
+
+Previous wording: Iaaihidifeib, iceigeicchkib. cal'eihid.iei [unclear]ahk.gidibidi[unclear]ig. eiif.iaaihifidibe icda a.cih.iceieik.
+
+Revised wording: Iaaihid ifeib, ieifeigeicchkib. [c?]a[k?]eihid. i&kahk. gidibid. eigih. ieeigigh ib[k?]ig. &[k?]if. iaaihifid, ibeicda[k?]a. eih. icei&kaib.
+
+[Bayerische Staatsbibliothek, München, 1550 printing, BSB image 52](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00026190_00052/full/full/0/default.jpg) · [Numeral alphabet](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00026190_00052/full/full/0/default.jpg)

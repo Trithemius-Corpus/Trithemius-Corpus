@@ -1,0 +1,46 @@
+{
+  "hucbald-cut-flesh": {
+    "canvas_number": 7,
+    "crop_path": "data/translation_disagreements/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/facsimiles/hucbald-cut-flesh.png",
+    "xywh": [
+      359,
+      430,
+      1535,
+      751
+    ],
+    "sha256": "c953f45bb17bb3fb5f876c911bdb1fbc2f72db470fca23fc07cd942aa05d2e5d"
+  },
+  "hucbald-sins-i": {
+    "canvas_number": 5,
+    "crop_path": "data/translation_disagreements/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/facsimiles/hucbald-sins-i-crop.png",
+    "xywh": [
+      379,
+      2049,
+      1430,
+      304
+    ],
+    "sha256": "6ab6ebeddbf5c8ceda352d5d08fd5a373ba46d9a9ce0ad64058f8a702b772495"
+  },
+  "hucbald-sins-vii": {
+    "canvas_number": 7,
+    "crop_path": "data/translation_disagreements/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/facsimiles/hucbald-sins-vii-crop.png",
+    "xywh": [
+      458,
+      2209,
+      1453,
+      367
+    ],
+    "sha256": "0f7c1c70b0e5eb18eb2601abe815398cbbb0c56eedfa976256beb1475e5ad6c5"
+  },
+  "hucbald-captives": {
+    "canvas_number": 6,
+    "crop_path": "data/translation_disagreements/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/facsimiles/hucbald-captives-crop.png",
+    "xywh": [
+      650,
+      2523,
+      1286,
+      258
+    ],
+    "sha256": "b3ecccdf4ce328c4a1fd01e221c9f201727c436ff7fc46d496426bafd5ada0f8"
+  }
+}

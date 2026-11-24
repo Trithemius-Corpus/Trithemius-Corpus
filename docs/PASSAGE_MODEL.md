@@ -46,8 +46,8 @@ checks that the recorded replacement still exists. [Headnote fragments](../data/
 The passage fields `segment` and `segment_id` identify the chunk that supplied
 the English. A passage can correspond to Latin in an adjacent segment. In that
 case `latin_segment` gives the reviewed Latin segment number. Readers can
-always follow `targets.parallel` to the appropriate segment. A reviewed
-alignment records quotations from both sides.
+always follow `targets.parallel` to the appropriate segment. The two reviewed
+exceptions include quotations from both sides of the alignment.
 [Reviewed Latin alignments](../data/publication/latin-alignments.json)
 
 ## Addressable blocks

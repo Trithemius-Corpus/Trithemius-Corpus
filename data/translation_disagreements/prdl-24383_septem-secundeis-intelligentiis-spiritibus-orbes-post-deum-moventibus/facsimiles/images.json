@@ -1,0 +1,62 @@
+{
+  "9": {
+    "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013346/canvas/9",
+    "label": "(0009)",
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013346_00009/full/full/0/default.jpg",
+    "path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/canvas-009.jpg",
+    "sha256": "bde2d402b6ed4538a5c7bd2e14e381d2c23ad974f60f08bcd192aa6063e5c272",
+    "rights": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "attribution": "Bayerische Staatsbibliothek",
+    "download_date": "2026-11-17"
+  },
+  "8": {
+    "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013346/canvas/8",
+    "label": "(0008)",
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013346_00008/full/full/0/default.jpg",
+    "path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/canvas-008.jpg",
+    "sha256": "122aa22cc71d10d5d63cbbaa7d9412e5cad47a1b6fc9486ce32b1c0c4997e4c6",
+    "rights": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "attribution": "Bayerische Staatsbibliothek",
+    "download_date": "2026-11-17"
+  },
+  "11": {
+    "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013346/canvas/11",
+    "label": "(0011)",
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013346_00011/full/full/0/default.jpg",
+    "path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/canvas-011.jpg",
+    "sha256": "f754f26750f816b77b64cbcbf2652996e0bf64a604bb05f27ac020eac47851be",
+    "rights": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "attribution": "Bayerische Staatsbibliothek",
+    "download_date": "2026-11-17"
+  },
+  "12": {
+    "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013346/canvas/12",
+    "label": "(0012)",
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013346_00012/full/full/0/default.jpg",
+    "path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/canvas-012.jpg",
+    "sha256": "3317df1b9d6aa3c7f9fa2b50338536294a16d0d70b62772b3a511cfe30b3b568",
+    "rights": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "attribution": "Bayerische Staatsbibliothek",
+    "download_date": "2026-11-17"
+  },
+  "13": {
+    "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013346/canvas/13",
+    "label": "(0013)",
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013346_00013/full/full/0/default.jpg",
+    "path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/canvas-013.jpg",
+    "sha256": "249d747515c9a26ded0f417494c741b35a53b3b9f2ff79f556f4af53a785dc6f",
+    "rights": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "attribution": "Bayerische Staatsbibliothek",
+    "collation_date": "2026-11-23"
+  }
+}

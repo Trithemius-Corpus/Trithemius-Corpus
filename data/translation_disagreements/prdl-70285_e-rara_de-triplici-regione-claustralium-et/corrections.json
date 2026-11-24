@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-70285_e-rara_de-triplici-regione-claustralium-et",
+  "date": "2026-11-18",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI visual collation of the cited printed witness. The stored crops reproduce the source image pixels.",
+  "changes": [
+    {
+      "item_id": "region-zurich-omission",
+      "track": "t4b",
+      "insert_before": "p-t4b-18970a07a7b95e8d",
+      "before": "On the first region of the soul, in which carnal monks dwell with beasts: disordered by many passions, living sensually in the lowest region.",
+      "after": "For it is written, “Obedience is better than sacrifices, and to heed is better than to offer fat.” Although many short works on spiritual exercise by different authors are to be found, not everything suits everyone. We too have therefore thought it fitting to publish something in keeping with the Rule of our most holy father Benedict, so that we may spur ourselves on more vigorously and come closer to the purity of observance that the Rule requires.\n\nAccordingly, we divide this little work, compiled from the exercises of that excellent father Theoderic, formerly abbot of the monastery of Bursfelde, into two principal parts. The first considers monastic formation, and the second deals with the practice of the spiritual life. In the first you are told to know yourself, in the second to lift your mind from earthly things to heavenly ones.\n\nTurning, then, as best we can to the subject of our inquiry, we divide the first treatise into three parts according to the threefold condition of those who live in the cloister. We may call the first group sensual, the second rational, and the third spiritual. From this threefold human condition we take a fitting title for this work, which we call On the Threefold Region of Cloistered Persons. These three regions encompass all monks, as we shall explain in what follows.\n\nOn the first region of the soul, in which carnal monks dwell with beasts: disordered by many passions, living sensually in the lowest region.",
+      "files": [
+        "works-t4b/prdl-70285_e-rara_de-triplici-regione-claustralium-et/english.md",
+        "works-t4b/prdl-70285_e-rara_de-triplici-regione-claustralium-et/chunks/full_chunk_0003.md"
+      ],
+      "added_passages": [
+        "p-t4b-8b9e9297a0675c66",
+        "p-t4b-bfbe6ae94b3d8d03",
+        "p-t4b-3e435032af648cb6"
+      ]
+    }
+  ],
+  "metadata_edits": [],
+  "files": [
+    {
+      "path": "works-t4b/prdl-70285_e-rara_de-triplici-regione-claustralium-et/english.md",
+      "before_path": "data/translation_disagreements/prdl-70285_e-rara_de-triplici-regione-claustralium-et/snapshots/before-2026-11-18/works-t4b/prdl-70285_e-rara_de-triplici-regione-claustralium-et/english.md",
+      "before_sha256": "1a5d78ad273917fc7bbf9a949d73aa124becb6d6d1f9514750c896f0fe9c2177",
+      "after_sha256": "7e8a908db0ed62a260aa276738d099e83ed10e4655e638e27708a64c42987df6"
+    },
+    {
+      "path": "works-t4b/prdl-70285_e-rara_de-triplici-regione-claustralium-et/chunks/full_chunk_0003.md",
+      "before_path": "data/translation_disagreements/prdl-70285_e-rara_de-triplici-regione-claustralium-et/snapshots/before-2026-11-18/works-t4b/prdl-70285_e-rara_de-triplici-regione-claustralium-et/chunks/full_chunk_0003.md",
+      "before_sha256": "90825d3ab61ce4b56362415ba49a2a22a335ff1655eddeb7d6d0a9942dc8ece4",
+      "after_sha256": "28bedc6077a86ef2018efcf82cadfe4ce497e49d1cc9aa3d1441d8d5de56cd94"
+    }
+  ]
+}

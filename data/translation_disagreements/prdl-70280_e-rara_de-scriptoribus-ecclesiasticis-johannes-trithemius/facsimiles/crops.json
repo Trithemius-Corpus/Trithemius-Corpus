@@ -1,0 +1,35 @@
+{
+  "writers-composed": {
+    "canvas_number": 13,
+    "crop_path": "data/translation_disagreements/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/facsimiles/writers-composed.png",
+    "xywh": [
+      327,
+      657,
+      1515,
+      260
+    ],
+    "sha256": "5acda9d4dc38d351060ebba08afbe057d3235a98bde1e32130b1abda6c63f4da"
+  },
+  "writers-contemporaries": {
+    "canvas_number": 13,
+    "crop_path": "data/translation_disagreements/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/facsimiles/writers-contemporaries-crop.png",
+    "xywh": [
+      125,
+      1012,
+      1729,
+      287
+    ],
+    "sha256": "5bbaf6d55f25966d8c25ca8cbeb2273e0142793be552f19f97dfde160758eb5f"
+  },
+  "writers-transmission": {
+    "canvas_number": 13,
+    "crop_path": "data/translation_disagreements/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/facsimiles/writers-transmission-crop.png",
+    "xywh": [
+      127,
+      1281,
+      1737,
+      244
+    ],
+    "sha256": "eb740d313815797d8a1f9f1e5f4768173e535e868c49ca1bfc8daea1fa500b10"
+  }
+}

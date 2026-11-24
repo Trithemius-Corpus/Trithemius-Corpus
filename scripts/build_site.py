@@ -148,8 +148,8 @@ CIPHER_SOLVE_LINKS = {
     "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos": {
         "title": "Read Modus II from the print",
         "blurb": ("Printed pages 56 and 57 give the rule and its 22 substitutions. "
-                  "The executable edition compares the archived transcription with "
-                  "the German message on the same page."),
+                  "Compare the printed letter line, the alternate initials of the Latin prayer, "
+                  "and the German message on the same page."),
     },
 }
 

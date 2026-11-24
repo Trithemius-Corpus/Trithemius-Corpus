@@ -1,0 +1,46 @@
+{
+  "camuel-rubric": {
+    "canvas_number": 21,
+    "crop_path": "data/translation_disagreements/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/facsimiles/camuel-rubric.png",
+    "xywh": [
+      150,
+      280,
+      1150,
+      69
+    ],
+    "sha256": "c60e8ab5b52541d38ec59989c0a146b997e231639e39f727b2e81ba5f87b9588"
+  },
+  "camuel-table": {
+    "canvas_number": 21,
+    "crop_path": "data/translation_disagreements/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/facsimiles/camuel-table.png",
+    "xywh": [
+      193,
+      345,
+      1110,
+      195
+    ],
+    "sha256": "ab65315595eb32f5d80e288d9b7c9ef07a789a538aee2ba66773429f4391761d"
+  },
+  "camuel-marginal": {
+    "canvas_number": 21,
+    "crop_path": "data/translation_disagreements/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/facsimiles/camuel-marginal.png",
+    "xywh": [
+      10,
+      346,
+      1110,
+      117
+    ],
+    "sha256": "0c5c61fb084f5466f69ffba3ad175d1e6d7ca6a4d035993576474503420f8591"
+  },
+  "camuel-formula": {
+    "canvas_number": 21,
+    "crop_path": "data/translation_disagreements/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/facsimiles/camuel-formula.png",
+    "xywh": [
+      162,
+      921,
+      1145,
+      162
+    ],
+    "sha256": "eb504dd5fec73c7b4cd79aae475e8c3dae8f355a4ba6e0e3d59e6afc57a3528c"
+  }
+}

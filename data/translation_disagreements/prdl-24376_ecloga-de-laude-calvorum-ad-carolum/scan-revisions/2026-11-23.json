@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24376_ecloga-de-laude-calvorum-ad-carolum",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "transcription_convention": "Selected lines with abbreviations expanded and line breaks joined. Ellipses mark intervening words.",
+  "items": {
+    "hucbald-sins-i": {
+      "normalized_latin": "Ceu crines capitis convellens crimina cordis.",
+      "reason": "The plucking of the hair is an image for plucking sins from the heart. This restores the reading described in the earlier errata.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00039449/canvas/5",
+        "label": "2r (0005)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00039449_00005/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/facsimiles/canvas-005.jpg",
+        "sha256": "901641092144c967705596cc9c131977808f6259e3828645b60a8f79adbc0a4d",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "collation_date": "2026-11-23"
+      },
+      "crop": {
+        "canvas_number": 5,
+        "crop_path": "data/translation_disagreements/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/facsimiles/hucbald-sins-i-crop.png",
+        "xywh": [
+          379,
+          2049,
+          1430,
+          304
+        ],
+        "sha256": "6ab6ebeddbf5c8ceda352d5d08fd5a373ba46d9a9ce0ad64058f8a702b772495"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "hucbald-sins-vii": {
+      "normalized_latin": "Cur censes cordis convellit crimina calvus.",
+      "reason": "Chapter VII returns to the same image. Crimina again identifies the sins plucked from the heart.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00039449/canvas/7",
+        "label": "3r (0007)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00039449_00007/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/facsimiles/canvas-007.jpg",
+        "sha256": "bdc05681cf570ef67c50a1fc69427107cf81c7cda2ce14dd6cc80a6d29044a39",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-17"
+      },
+      "crop": {
+        "canvas_number": 7,
+        "crop_path": "data/translation_disagreements/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/facsimiles/hucbald-sins-vii-crop.png",
+        "xywh": [
+          458,
+          2209,
+          1453,
+          367
+        ],
+        "sha256": "0f7c1c70b0e5eb18eb2601abe815398cbbb0c56eedfa976256beb1475e5ad6c5"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "hucbald-captives": {
+      "normalized_latin": "Captivos captat, captos cervice coartat.",
+      "reason": "The last line of chapter IV clearly prints captos, referring to the captives. The English verse already gives that sense. This corrects the accompanying textual note.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00039449/canvas/6",
+        "label": "2v (0006)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00039449_00006/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/facsimiles/canvas-006.jpg",
+        "sha256": "b84387eb37c45d2e8f0ce2e9f9340da9a24823c66d7322917d56ec425412a659",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "collation_date": "2026-11-23"
+      },
+      "crop": {
+        "canvas_number": 6,
+        "crop_path": "data/translation_disagreements/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/facsimiles/hucbald-captives-crop.png",
+        "xywh": [
+          650,
+          2523,
+          1286,
+          258
+        ],
+        "sha256": "b3ecccdf4ce328c4a1fd01e221c9f201727c436ff7fc46d496426bafd5ada0f8"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    }
+  }
+}

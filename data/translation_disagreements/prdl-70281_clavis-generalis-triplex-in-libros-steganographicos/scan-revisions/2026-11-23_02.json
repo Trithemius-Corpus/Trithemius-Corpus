@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "sequence": 2,
+  "transcription_convention": "Cipher letters are copied from each edition. Editorial word division, long s and doubtful type are explained for the individual item.",
+  "items": {
+    "clavis-modus-ii-significant-line": {
+      "normalized_latin": "G a f z g b c p g a f h m k ſ m l q r ſ i b x l v ſ k g r g q b ſ e q / e t p m g r",
+      "reason": "The line contains 41 letters, with one long s in v ſ k. The archived dotted transcription doubled it. Letter six is visibly b. The printed pair db decodes b as d. The first t of the German bitte requires r under tr.",
+      "image": {
+        "canvas": "https://diglib.hab.de/drucke/fb-243/start.htm?image=00249",
+        "image_url": "https://diglib.hab.de/drucke/fb-243/00249.jpg",
+        "label": "Fb 243, image 00249, printed p. 57",
+        "attribution": "Herzog August Bibliothek Wolfenbüttel",
+        "rights": [
+          "https://diglib.hab.de/nutzungshinweise.html"
+        ],
+        "review_date": "2026-11-23",
+        "source_note": "Archived full-page image 251. The photographic footer identifies the provider image.",
+        "path": "data/translation_disagreements/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/facsimiles/canvas-249.webp",
+        "sha256": "a3522f4a88088844a0dabe1fc5f538cfcd7d0609b8145cf04932820d77db8fb2",
+        "published_corpus_page": 251
+      },
+      "crop": {
+        "canvas_number": 249,
+        "crop_path": "data/translation_disagreements/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/facsimiles/clavis-modus-ii-significant-line.png",
+        "xywh": [
+          108,
+          348,
+          622,
+          88
+        ],
+        "sha256": "c659765153de9eda383bae09c2f281aad82872e62afd31cc1cf5a200aacbc035"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented",
+      "mark_convention": "The slash marks the printed line break. Spaces are editorial separators."
+    },
+    "clavis-modus-ii-prayer": {
+      "normalized_latin": "Creator generis humani aspice Deus famulos tuos Zelo rectitudinis guberna quatenus bene conuersantes consequamur præmium gaudium cælestium. Adiuua nos fragiles miserosque homines sanctisque moribus exorna catholicæ pietatis sancto quæsumus, mentes nostras lumine illustra quatenus tuam recolamus passionem sedulo cum lacrymis operibus bonis Iesu Christe. Saluator libera nos virtute effusi sanguinis tui catholicæ vnitatis gubernator salua populum tuum grauiter afflictum, quem dudum beatissimo effuso sanguine in cruce moriens redemisti, aspice quam affligitur grauissime populus sub crudelissimo Turco, libera nos miseros per gratiam qua redemisti nos, Amen.",
+      "reason": "The enlarged C belongs to Creator. Counting through Amen gives 85 words and 42 even-position initials. Bene is word 12 and confirms b at position six. Gaudium is word 16 and supplies g at position eight, where the significant-letter line prints p. The signature following Amen is outside the prayer.",
+      "image": {
+        "canvas": "https://diglib.hab.de/drucke/fb-243/start.htm?image=00249",
+        "image_url": "https://diglib.hab.de/drucke/fb-243/00249.jpg",
+        "label": "Fb 243, image 00249, printed p. 57",
+        "attribution": "Herzog August Bibliothek Wolfenbüttel",
+        "rights": [
+          "https://diglib.hab.de/nutzungshinweise.html"
+        ],
+        "review_date": "2026-11-23",
+        "source_note": "Archived full-page image 251. The photographic footer identifies the provider image.",
+        "path": "data/translation_disagreements/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/facsimiles/canvas-249.webp",
+        "sha256": "a3522f4a88088844a0dabe1fc5f538cfcd7d0609b8145cf04932820d77db8fb2",
+        "published_corpus_page": 251
+      },
+      "crop": {
+        "canvas_number": 249,
+        "crop_path": "data/translation_disagreements/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/facsimiles/clavis-modus-ii-prayer.png",
+        "xywh": [
+          102,
+          437,
+          634,
+          272
+        ],
+        "sha256": "17f6b3d1e7e52a778cac121c832b00168f5dad5db9926e6bbdeb4cd845736d55"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    }
+  }
+}

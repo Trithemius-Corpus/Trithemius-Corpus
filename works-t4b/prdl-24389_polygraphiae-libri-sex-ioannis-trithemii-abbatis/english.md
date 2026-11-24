@@ -516,7 +516,7 @@ f f 6     ib m 12   ig s 18     kd w 24
 
 Behold, then: you now have here an alphabet made from the Roman numerical letters in imitation of the Northmen. With it you will be able most safely to write and report to an absent friend whatever you wish, and no hidden observer will be able to penetrate your secret, except the one who knows the secret of the art. For all who see the writing will think that the letters have been transposed, and they will labor in vain in reckoning them. Let us set down an example.
 
-Iaaihid ifeib, iefiegeicehfib. oa' eihid. i et Fahb. gidibid. eigh. ietigigh ib ig. & if. iaaihifid, ihe icda'ia. eih. icie&'iaib.
+Iaaihid ifeib, ieifeigeicchkib. [c?]a[k?]eihid. i&kahk. gidibid. eigih. ieeigigh ib[k?]ig. &[k?]if. iaaihifid, ibeicda[k?]a. eih. icei&kaib.
 
 The hidden meaning of this writing is as follows: Beware the bearer of the present letters, because he is a very wicked man, a thief, a robber, a liar, and worthless. By this demonstration of an example it is easily given to be understood how safe and secret this method of writing is universally, in every language known to the writer,
 

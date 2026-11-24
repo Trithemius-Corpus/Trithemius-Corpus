@@ -10,7 +10,7 @@
   </header>
 
   <aside class="trace-caution" aria-label="Editorial status">
-    <strong>No silent emendation.</strong> {{ trace.editorial_note }}
+    <strong>Where the print disagrees.</strong> {{ trace.editorial_note }}
   </aside>
 
   <nav class="trace-nav" aria-label="Cipher transformation steps">
@@ -24,7 +24,7 @@
       <h2>1. Printed example</h2>
       <div class="trace-source">
         <figure><img src="{{ url(trace.facsimile.crop) }}" alt="Detail of the significant letters and the opening of the cover text on printed p. 57"><figcaption>{{ trace.facsimile.region_note }}</figcaption></figure>
-        <div><p><span class="evidence-tag evidence-printed">Printed evidence</span></p><p><strong>Intentio</strong> <span lang="de">{{ trace.intentio.diplomatic }}</span></p><p><strong>English</strong> {{ trace.intentio.translation }}</p><p><a href="{{ url(trace.facsimile.rule_page) }}">Full p. 56, rule and wheel</a> · <a href="{{ url(trace.facsimile.page) }}">Full p. 57, alphabet and example</a></p><p>{{ trace.facsimile.shelfmark }} · <a href="{{ trace.facsimile.source }}">Library image {{ trace.facsimile.provider_image }}</a></p><p><a href="{{ url(trace.passage.href) }}">{{ trace.passage.label }}</a></p></div>
+        <div><p><span class="evidence-tag evidence-printed">Printed evidence</span></p><p><strong>Intentio</strong> <span lang="de">{{ trace.intentio.diplomatic }}</span></p><p><strong>English</strong> {{ trace.intentio.translation }}</p><p><a href="{{ url(trace.facsimile.rule_page) }}">Full p. 56, rule and wheel</a> · <a href="{{ url(trace.facsimile.page) }}">Full p. 57, alphabet and example</a></p><p>{{ trace.facsimile.shelfmark }} · <a href="{{ trace.facsimile.source }}">Library image {{ trace.facsimile.provider_image }}</a></p><p><a href="{{ url(trace.passage.href) }}">{{ trace.passage.label }}</a> · <a href="{{ url(trace.passage.parallel_href) }}">Latin OCR for the printed example</a></p></div>
       </div>
     </section>
 
@@ -32,10 +32,10 @@
       <h2>2. Transcribe and extract</h2>
       <p><span class="evidence-tag evidence-repair">Transcription / repair</span> {{ trace.cover.method }}</p>
       <p class="trace-stream" lang="la">{% for token in trace.cover.tokens %}{% if loop.index in trace.cover.significant_positions %}<strong>{{ token }}</strong>{% else %}{{ token }}{% endif %} {% endfor %}</p>
-      <p><strong>Initials from the bold alternate words:</strong> <span class="trace-stream">{{ trace.computed.cover_sample_initials }}</span></p>
+      <p><strong>Initials from the alternate words</strong> <span class="trace-stream">{{ trace.computed.cover_initials }}</span></p>
       <p><span class="evidence-tag evidence-inferred">Inferred operation</span> {{ trace.extraction.rule }}</p>
       <p>{{ trace.cipher_stream.method }}</p>
-      <p class="trace-stream"><span class="sr-only">Transcribed dotted letters: </span>{{ trace.cipher_stream.transcription }}</p>
+      <p><strong>Printed letter lines</strong></p>{% for line in trace.cipher_stream.printed_lines %}<p class="trace-stream">{{ line }}</p>{% endfor %}
       <p class="trace-stream">{{ trace.computed.extracted }}</p>
     </section>
 
@@ -48,16 +48,20 @@
 
     <section class="trace-step" id="trace-step-3" data-step="3">
       <h2>4. Read the computed result</h2>
-      <p><strong>Computed from the committed transcription:</strong></p><p class="trace-stream">{{ trace.computed.decoded }}</p>
+      <p><strong>Decoded from the printed letter line</strong></p><p class="trace-stream">{{ trace.computed.decoded }}</p>
       <p><strong>Printed Intentio with normalized spelling</strong></p><p class="trace-stream">{{ trace.intentio.normalized_letters }}</p>
       <p>{{ trace.intentio.normalization }} Compare the two readings with the full printed page.</p>
-      <div class="table-scroll"><table><caption>Letter-by-letter computed decode</caption><thead><tr><th>Position</th><th>Cipher</th><th>Decoded</th></tr></thead><tbody>{% for row in trace.computed.rows %}<tr><td>{{ row.position }}</td><td>{{ row.cipher }}</td><td>{{ row.decoded }}</td></tr>{% endfor %}</tbody></table></div>
+      <p><strong>Cipher letters required by the printed German</strong></p><p class="trace-stream">{{ trace.computed.cipher_for_intentio }}</p>
+      <p>The table counts each printed source from its beginning. A dash marks the end of that source.</p>
+      <div class="table-scroll"><table><caption>Printed line, intended German and cover words by position</caption>
+        <thead><tr><th scope="col">Position</th><th scope="col">Printed cipher</th><th scope="col">Decoded</th><th scope="col">German</th><th scope="col">Cipher for German</th><th scope="col">Even cover word</th><th scope="col">Initial</th></tr></thead>
+        <tbody>{% for row in trace.computed.comparison %}<tr><th scope="row">{{ row.position }}</th>{% for key in ['printed','decoded','intended','required_cipher','cover_word','cover_initial'] %}<td>{{ row[key] or '—' }}</td>{% endfor %}</tr>{% endfor %}</tbody></table></div>
     </section>
   </div>
 
   <section class="trace-account">
     <h2>Plain-text account</h2>
-    <p>The print supplies the substitution alphabet, the intended German message and a separate line of significant letters. Applying the inverse alphabet to the retained transcription produces <code>{{ trace.computed.decoded }}</code>. The two readings agree through <i>ich bi</i>. At the sixth letter the transcription gives d where the printed intention has t.</p>
+    <p>The first five decoded letters agree with the German. At position six the list prints <i>b</i>, also the initial of <i lang="la">bene</i>. The pair <i>db</i> decodes it as <i>d</i>. The first <i>t</i> in <i lang="de">bitte</i> would require <i>r</i> under the pair <i>tr</i>. At position eight the letter list gives <i>p</i> and the eighth even cover word is <i lang="la">gaudium</i>, beginning with <i>g</i>. The page preserves both differences.</p>
     <p><a download href="{{ url('data/cipher-traces/modus-ii.json') }}">Download JSON</a> · <a download href="{{ url('data/cipher-traces/modus-ii.tsv') }}">Download TSV</a></p>
     <details><summary>Provenance and limits</summary><ul>{% for note in trace.provenance %}<li>{{ note }}</li>{% endfor %}</ul></details>
   </section>

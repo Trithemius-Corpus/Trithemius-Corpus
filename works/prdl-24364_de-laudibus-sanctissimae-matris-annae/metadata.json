@@ -46,5 +46,11 @@
     "latin_fallback_sources": {},
     "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24364_de-laudibus-sanctissimae-matris-annae_parallel.html"
   },
+  "ai_corrections": {
+    "date": "2026-11-18",
+    "count": 1,
+    "human_review": "none_documented",
+    "note": "AI corrections checked against the printed witness on 18 November 2026. See the edition errata for the previous readings and scans. The machine audit predates these changes."
+  },
   "publication_modified": "2026-11-23"
 }

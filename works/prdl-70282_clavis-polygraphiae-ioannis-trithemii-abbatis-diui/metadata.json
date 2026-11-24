@@ -43,5 +43,11 @@
     "latin_source_file": "churro_full.txt",
     "latin_fallback_sources": {},
     "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui_parallel.html"
+  },
+  "ai_corrections": {
+    "date": "2026-11-23",
+    "count": 1,
+    "human_review": "none_documented",
+    "note": "The dated edition errata identify the scan-supported AI corrections. Historical machine grades predate these readings."
   }
 }

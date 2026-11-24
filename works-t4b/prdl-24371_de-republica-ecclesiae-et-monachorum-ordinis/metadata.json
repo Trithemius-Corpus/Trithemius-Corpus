@@ -33,6 +33,12 @@
   "translator": "gpt-5.5 (dual-context)",
   "canonical_backend": "qwen3vl-trithemius-q6-dual-gpt55",
   "source_work_id": "prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis",
+  "ai_corrections": {
+    "date": "2026-11-18",
+    "count": 1,
+    "human_review": "none_documented",
+    "note": "AI corrections checked against the printed witness on 18 November 2026. See the edition errata for the previous readings and scans. The machine audit predates these changes."
+  },
   "duplicate_source_group": [
     "prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis",
     "prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis"

@@ -23,11 +23,10 @@ There is added the true method of making them, and the astonishing erection of t
 
 By the authors:
 Zoroaster, the Chaldaean;
-Solomon, [unclear];
-Raphael, the Jew;
-Chael, the Egyptian;
-Hermes, the Persian;
-Thetel.
+Solomon, king of the Jews;
+Raphael and Chael, Jews;
+Hermes, the Egyptian;
+Thetel, the Persian.
 
 Drawn from a manuscript of Johannes Trithemius.
 

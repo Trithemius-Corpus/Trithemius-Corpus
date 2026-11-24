@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "sequence": 2,
+  "status": "applied_locally",
+  "review_method": "AI visual collation against the credited printed copy and the stored scan regions.",
+  "changes": [
+    {
+      "item_id": "clavis-modus-ii-significant-line",
+      "track": "earlier",
+      "passage": "p-en-0124-0004",
+      "before": "G.afz gbcpgafhm k.jmlqrsibxl vskg rg qbj eq etp mgr.",
+      "after": "G a f z g b c p g a f h m k s m l q r s i b x l v s k g r g q b s e q e t p m g r",
+      "files": [
+        "works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/english.md",
+        "works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/chunks/full_chunk_0124.md"
+      ],
+      "supporting_scans": [
+        "clavis-modus-ii-prayer",
+        "clavis-modus-ii-alphabet",
+        "clavis-modus-ii-rule"
+      ]
+    }
+  ],
+  "metadata_edits": [],
+  "files": [
+    {
+      "path": "data/cipher_traces/modus-ii.json",
+      "before_path": "data/translation_disagreements/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/snapshots/before-2026-11-23_02/data/cipher_traces/modus-ii.json",
+      "before_sha256": "908b88e8f8111ad9d00eb45fc4b69d6158e81d0d295536e703173b8c604d4c1a",
+      "after_sha256": "d29e21490a670b75e4a26dbda23084acfbeed5b637a5cb708188cd467de6e1c9"
+    },
+    {
+      "path": "data/publication/apparatus/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos.json",
+      "before_path": "data/translation_disagreements/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/snapshots/before-2026-11-23_02/data/publication/apparatus/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos.json",
+      "before_sha256": "93cd4e593add05ae456d2119db26d341f9a0d97fefeecaf027a908b5ebd5414d",
+      "after_sha256": "d930955fa79ea7eb2d533474c9a06a6e4773c17f09f651ab0e313c2d5ace2819"
+    },
+    {
+      "path": "works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/english.md",
+      "before_path": "data/translation_disagreements/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/snapshots/before-2026-11-23_02/works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/english.md",
+      "before_sha256": "1c47f6f2fe2bb571c3e29d8484a9a2a1baf865ab76d5ea05c7245ec8440f0fdd",
+      "after_sha256": "e9f2901b3b4758f4e7d8d8f9b6239dbfe39d8045f60bad6acf1f894eadfc93e1"
+    },
+    {
+      "path": "works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/chunks/full_chunk_0124.md",
+      "before_path": "data/translation_disagreements/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/snapshots/before-2026-11-23_02/works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/chunks/full_chunk_0124.md",
+      "before_sha256": "492e8aaf473cfbbbe4b463392ead89faebc49b1b70062024d3c38d1fecc6a8f4",
+      "after_sha256": "5e87d090a94681750a13d1141111c6727e468570ec3dcb5b821d489c8272b231"
+    }
+  ],
+  "apparatus_edits": [
+    {
+      "item_id": "clavis-modus-ii-significant-line",
+      "path": "data/cipher_traces/modus-ii.json",
+      "before": "{\n  \"id\": \"clavis-modus-ii-p251\",\n  \"title\": \"Modus II: from printed letters to German\",\n  \"work_id\": \"prdl-70281_clavis-generalis-triplex-in-libros-steganographicos\",\n  \"edition\": \"Clavis generalis triplex (1608)\",\n  \"facsimile\": {\n    \"printed_page\": 57,\n    \"corpus_page\": 251,\n    \"provider_image\": 249,\n    \"shelfmark\": \"Herzog August Bibliothek Wolfenbüttel, Fb 243\",\n    \"page\": \"static/images/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/page_251.webp\",\n    \"rule_page\": \"static/images/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/page_250.webp\",\n    \"source\": \"https://diglib.hab.de/drucke/fb-243/start.htm?image=00249\",\n    \"rule_source\": \"https://diglib.hab.de/drucke/fb-243/start.htm?image=00248\",\n    \"crop\": \"static/images/cipher-crops/modus_02_p251.webp\",\n    \"region_note\": \"Printed p. 57 is HAB image 249 and corpus image 251. The detail shows the significant letters and the beginning of the cover text. The full page also shows the alphabet and the German Intentio.\",\n    \"evidence_status\": \"printed-evidence\"\n  },\n  \"passage\": {\n    \"id\": \"trc:prdl-70281_clavis-generalis-triplex-in-libros-steganographicos:seg-0113:p-0010\",\n    \"label\": \"German Intentio in the reading edition\",\n    \"href\": \"works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos.html#p-en-0113-0010\",\n    \"precision\": \"passage\",\n    \"note\": \"The printed German appears in the apparatus at this passage.\"\n  },\n  \"alphabet\": \"abcdefghiklmnopqrstvxz\",\n  \"printed_substitution_pairs\": [\n    \"ax\",\n    \"bz\",\n    \"ca\",\n    \"db\",\n    \"ec\",\n    \"fd\",\n    \"ge\",\n    \"hf\",\n    \"ig\",\n    \"kh\",\n    \"li\",\n    \"mk\",\n    \"nl\",\n    \"om\",\n    \"pn\",\n    \"qo\",\n    \"rp\",\n    \"sq\",\n    \"tr\",\n    \"vs\",\n    \"xt\",\n    \"zv\"\n  ],\n  \"cover\": {\n    \"label\": \"Exemplum secundi (cover prose sample)\",\n    \"tokens\": [\n      \"Creator\",\n      \"generis\",\n      \"humani\",\n      \"aspice\",\n      \"Deus\",\n      \"famulos\",\n      \"tuos\",\n      \"Zelo\",\n      \"rectitudinis\",\n      \"guberna\",\n      \"quatenus\",\n      \"bene\",\n      \"conuersantes\",\n      \"consequamur\"\n    ],\n    \"significant_positions\": [\n      2,\n      4,\n      6,\n      8,\n      10,\n      12,\n      14\n    ],\n    \"status\": \"transcription-repair\",\n    \"method\": \"Printed p. 56 directs the writer to begin with an empty word, then alternate. In the opening of the cover on p. 57, the decorated initial belongs to Creator. The line break in guberna has been joined and the abbreviation in consequamur expanded.\"\n  },\n  \"cipher_stream\": {\n    \"label\": \"Literae significantes\",\n    \"transcription\": \"g.a.f.z.g.b.c.p.g.a.f.h.m.k.s.m.l.q.r.s.i.b.x.l.v.s.s.k.g.r.g.q.b.s.e.q.e.t.p.m.g.r\",\n    \"status\": \"transcription-repair\",\n    \"method\": \"The archived transcription is retained in its previous order and spelling. Its periods delimit individual letters in this edition. The printed line is set in spaced italic type. No individual human transcriber is documented here.\"\n  },\n  \"extraction\": {\n    \"rule\": \"Take the initials of the second, fourth and subsequent even-numbered cover words. For the separate significant-letter stream, read the recorded letters in order and remove the editorial separators.\",\n    \"result\": \"gafzgbcpgafhmksmlqrsibxlvsskgrgqbseqetpmgr\",\n    \"status\": \"inferred-operation\"\n  },\n  \"decode\": {\n    \"rule\": \"The print moves each plaintext letter two places back on its 22-letter circle. Invert the 22 printed pairs and substitute for each cipher letter in sequence.\",\n    \"result\": \"ichbiderichkomvonstvldanzvvmitisdvgsgxroit\",\n    \"status\": \"inferred-operation\"\n  },\n  \"intentio\": {\n    \"diplomatic\": \"Ich bitte dich komm von stund an zu mir/ es thut sehr noth.\",\n    \"normalized_letters\": \"ichbittedichkommvonstvndanzvmiresthvtsehrnoth\",\n    \"translation\": \"I beg you, come to me at once; it is very urgent.\",\n    \"status\": \"printed-evidence\",\n    \"normalization\": \"Lowercase the German, omit spaces and punctuation, and write u as v for comparison.\"\n  },\n  \"editorial_note\": \"The retained stream decodes to 42 letters. Its opening gafz gives ichb. The resulting text differs from the 45-letter normalized Intentio, beginning at position 6. The sources of the remaining differences are unresolved.\",\n  \"provenance\": [\n    \"Frankfurt, 1608, Herzog August Bibliothek Wolfenbüttel, Fb 243. Printed p. 56 describes the shift and diagrams the circle. Printed p. 57 gives the paired alphabet, German intention, significant letters and cover.\",\n    \"AI visual collation on 23 November 2026 checked the two pages, all 22 substitutions and the first fourteen cover words. Human verification of this correction is undocumented.\",\n    \"The full significant-letter transcription is the pre-correction input. The displayed result is computed from that input without supplying letters from the printed intention.\"\n  ]\n}\n",
+      "after": "{\n  \"id\": \"clavis-modus-ii-p251\",\n  \"title\": \"Modus II: from printed letters to German\",\n  \"work_id\": \"prdl-70281_clavis-generalis-triplex-in-libros-steganographicos\",\n  \"edition\": \"Clavis generalis triplex (1608)\",\n  \"facsimile\": {\n    \"printed_page\": 57,\n    \"corpus_page\": 251,\n    \"provider_image\": 249,\n    \"shelfmark\": \"Herzog August Bibliothek Wolfenbüttel, Fb 243\",\n    \"page\": \"static/images/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/page_251.webp\",\n    \"rule_page\": \"static/images/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/page_250.webp\",\n    \"source\": \"https://diglib.hab.de/drucke/fb-243/start.htm?image=00249\",\n    \"rule_source\": \"https://diglib.hab.de/drucke/fb-243/start.htm?image=00248\",\n    \"crop\": \"static/images/cipher-crops/modus_02_p251.webp\",\n    \"region_note\": \"Printed p. 57 is HAB image 249 and corpus image 251. The detail shows the significant letters and the beginning of the cover text. The full page also shows the alphabet and the German Intentio.\",\n    \"evidence_status\": \"printed-evidence\"\n  },\n  \"passage\": {\n    \"id\": \"trc:prdl-70281_clavis-generalis-triplex-in-libros-steganographicos:seg-0113:p-0010\",\n    \"label\": \"German Intentio in the reading edition\",\n    \"href\": \"works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos.html#p-en-0113-0010\",\n    \"precision\": \"passage\",\n    \"note\": \"The structured rendering keeps its published passage ID. The corresponding continuous Latin OCR is in segment 124.\",\n    \"parallel_href\": \"works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_parallel.html#seg-124\"\n  },\n  \"alphabet\": \"abcdefghiklmnopqrstvxz\",\n  \"printed_substitution_pairs\": [\n    \"ax\",\n    \"bz\",\n    \"ca\",\n    \"db\",\n    \"ec\",\n    \"fd\",\n    \"ge\",\n    \"hf\",\n    \"ig\",\n    \"kh\",\n    \"li\",\n    \"mk\",\n    \"nl\",\n    \"om\",\n    \"pn\",\n    \"qo\",\n    \"rp\",\n    \"sq\",\n    \"tr\",\n    \"vs\",\n    \"xt\",\n    \"zv\"\n  ],\n  \"cover\": {\n    \"label\": \"Exemplum secundi (complete cover prayer)\",\n    \"tokens\": [\n      \"Creator\",\n      \"generis\",\n      \"humani\",\n      \"aspice\",\n      \"Deus\",\n      \"famulos\",\n      \"tuos\",\n      \"Zelo\",\n      \"rectitudinis\",\n      \"guberna\",\n      \"quatenus\",\n      \"bene\",\n      \"conuersantes\",\n      \"consequamur\",\n      \"præmium\",\n      \"gaudium\",\n      \"cælestium\",\n      \"Adiuua\",\n      \"nos\",\n      \"fragiles\",\n      \"miserosque\",\n      \"homines\",\n      \"sanctisque\",\n      \"moribus\",\n      \"exorna\",\n      \"catholicæ\",\n      \"pietatis\",\n      \"sancto\",\n      \"quæsumus\",\n      \"mentes\",\n      \"nostras\",\n      \"lumine\",\n      \"illustra\",\n      \"quatenus\",\n      \"tuam\",\n      \"recolamus\",\n      \"passionem\",\n      \"sedulo\",\n      \"cum\",\n      \"lacrymis\",\n      \"operibus\",\n      \"bonis\",\n      \"Iesu\",\n      \"Christe\",\n      \"Saluator\",\n      \"libera\",\n      \"nos\",\n      \"virtute\",\n      \"effusi\",\n      \"sanguinis\",\n      \"tui\",\n      \"catholicæ\",\n      \"vnitatis\",\n      \"gubernator\",\n      \"salua\",\n      \"populum\",\n      \"tuum\",\n      \"grauiter\",\n      \"afflictum\",\n      \"quem\",\n      \"dudum\",\n      \"beatissimo\",\n      \"effuso\",\n      \"sanguine\",\n      \"in\",\n      \"cruce\",\n      \"moriens\",\n      \"redemisti\",\n      \"aspice\",\n      \"quam\",\n      \"affligitur\",\n      \"grauissime\",\n      \"populus\",\n      \"sub\",\n      \"crudelissimo\",\n      \"Turco\",\n      \"libera\",\n      \"nos\",\n      \"miseros\",\n      \"per\",\n      \"gratiam\",\n      \"qua\",\n      \"redemisti\",\n      \"nos\",\n      \"Amen\"\n    ],\n    \"significant_positions\": [\n      2,\n      4,\n      6,\n      8,\n      10,\n      12,\n      14,\n      16,\n      18,\n      20,\n      22,\n      24,\n      26,\n      28,\n      30,\n      32,\n      34,\n      36,\n      38,\n      40,\n      42,\n      44,\n      46,\n      48,\n      50,\n      52,\n      54,\n      56,\n      58,\n      60,\n      62,\n      64,\n      66,\n      68,\n      70,\n      72,\n      74,\n      76,\n      78,\n      80,\n      82,\n      84\n    ],\n    \"status\": \"transcription-repair\",\n    \"method\": \"Count the printed prayer from Creator through Amen. Join line-end divisions and expand the abbreviated words as consequamur and miserosque. The subscription follows the prayer.\"\n  },\n  \"cipher_stream\": {\n    \"label\": \"Literae significantes\",\n    \"transcription\": \"g.a.f.z.g.b.c.p.g.a.f.h.m.k.s.m.l.q.r.s.i.b.x.l.v.s.k.g.r.g.q.b.s.e.q.e.t.p.m.g.r\",\n    \"status\": \"transcription-repair\",\n    \"method\": \"The two lines preserve the photographed letter order and the long s. Spaces separate individual types. For calculation, lowercase G, write ſ as s and omit punctuation. The previous transcription repeated the s between v and k.\",\n    \"printed_lines\": [\n      \"G a f z g b c p g a f h m k ſ m l q r ſ i b x l v ſ k g r g q b ſ e q\",\n      \"e t p m g r\"\n    ]\n  },\n  \"extraction\": {\n    \"rule\": \"Read the significant-letter line in order. Independently take the initial of each even word in the cover prayer.\",\n    \"result\": \"gafzgbcpgafhmksmlqrsibxlvskgrgqbseqetpmgr\",\n    \"status\": \"inferred-operation\"\n  },\n  \"decode\": {\n    \"rule\": \"The print moves each plaintext letter two places back on its 22-letter circle. Invert the 22 printed pairs and substitute for each cipher letter in sequence.\",\n    \"result\": \"ichbiderichkomvonstvldanzvmitisdvgsgxroit\",\n    \"status\": \"inferred-operation\"\n  },\n  \"intentio\": {\n    \"diplomatic\": \"Ich bitte dich komm von stund an zu mir/ es thut sehr noth.\",\n    \"normalized_letters\": \"ichbittedichkommvonstvndanzvmiresthvtsehrnoth\",\n    \"translation\": \"I beg you, come to me at once; it is very urgent.\",\n    \"status\": \"printed-evidence\",\n    \"normalization\": \"Lowercase the German, omit spaces and punctuation, and write u as v for comparison.\"\n  },\n  \"editorial_note\": \"The 41 printed letters and the 45-letter normalized German agree in their first five decoded positions. At six, both the cipher line and the cover word bene give b. The key turns b into d. The German has t. The printed sources disagree here. Their wording does not establish how the difference arose.\",\n  \"provenance\": [\n    \"Frankfurt, 1608, Herzog August Bibliothek Wolfenbüttel, Fb 243. Printed p. 56 describes the shift and diagrams the circle. Printed p. 57 gives the paired alphabet, German intention, significant letters and cover.\",\n    \"AI visual collation of HAB Fb 243 on 23 November 2026 checked all 41 types in the significant-letter line, the 22 printed pairs, the German and the 85-word prayer. No human review is documented.\",\n    \"The public evidence register preserves exact crops of the letter line and prayer. The earlier 42-letter transcription is retained in the correction history.\"\n  ]\n}\n"
+    },
+    {
+      "item_id": "clavis-modus-ii-significant-line",
+      "path": "data/publication/apparatus/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos.json",
+      "before": "Literae significantes — archived transcription used in the executable edition",
+      "after": "Literae significantes — printed p. 57, long s transcribed as s",
+      "passages": [
+        "p-en-0113-0011"
+      ]
+    },
+    {
+      "item_id": "clavis-modus-ii-significant-line",
+      "path": "data/publication/apparatus/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos.json",
+      "before": "g.a.f.z.g.b.c.p.g.a.f.h.m.k.s.m.l.q.r.s.i.b.x.l.v.s.s.k.g.r.g.q.b.s.e.q.e.t.p.m.g.r",
+      "after": "g.a.f.z.g.b.c.p.g.a.f.h.m.k.s.m.l.q.r.s.i.b.x.l.v.s.k.g.r.g.q.b.s.e.q.e.t.p.m.g.r",
+      "passages": [
+        "p-en-0113-0012"
+      ]
+    },
+    {
+      "item_id": "clavis-modus-ii-prayer",
+      "path": "data/publication/apparatus/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos.json",
+      "before": "Exemplum — the first fourteen words were checked against the print. The subsequent text retains the earlier OCR.",
+      "after": "Exemplum — the prayer has been collated through Amen. The subscription and next mode follow in archived OCR.",
+      "passages": [
+        "p-en-0113-0013"
+      ]
+    },
+    {
+      "item_id": "clavis-modus-ii-prayer",
+      "path": "data/publication/apparatus/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos.json",
+      "before": "Creator generis humani aspice Deus famulos tuos Zelo rectitudinis guberna quatenus bene conuersantes consequamur praemium gaudium\\nexultium. Adiuvans fragilis mistrag, homines antiquae moribus exornat\\ncatholicae pietatis fanfro que amamus, mentes noftrae lumine illuftra quatenus\\nnunquam recolamus paifforum, jubilo cum lacrymis operibus bonis Iefu Chri-\\nste. Salvator liberat nos vi-tute effe seffi sarguimus tui catholicae unitate fub\\ngubernat falsoa populum tamen grauerit effistum, quem didam beatisime effu-\\nsio sanguine in cruce moriens redemitifi, apifice quaeo affi gitur grauifime po-\\npulus [ub cruadelifiino Turco, libera nos miçeros per gratiam qua redim sti\\nnos, Amen. ",
+      "after": "Creator generis humani aspice Deus famulos tuos Zelo rectitudinis guberna quatenus bene conuersantes consequamur præmium gaudium cælestium. Adiuua nos fragiles miserosque homines sanctisque moribus exorna catholicæ pietatis sancto quæsumus, mentes nostras lumine illustra quatenus tuam recolamus passionem sedulo cum lacrymis operibus bonis Iesu Christe. Saluator libera nos virtute effusi sanguinis tui catholicæ vnitatis gubernator salua populum tuum grauiter afflictum, quem dudum beatissimo effuso sanguine in cruce moriens redemisti, aspice quam affligitur grauissime populus sub crudelissimo Turco, libera nos miseros per gratiam qua redemisti nos, Amen.\\n",
+      "passages": [
+        "p-en-0113-0014"
+      ]
+    }
+  ]
+}

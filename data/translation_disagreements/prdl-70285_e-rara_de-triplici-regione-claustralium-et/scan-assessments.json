@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-70285_e-rara_de-triplici-regione-claustralium-et",
+  "date": "2026-11-18",
+  "human_review": "none_documented",
+  "transcription_convention": "Selected printed clauses with abbreviations expanded. Ellipses mark omissions.",
+  "items": {
+    "region-zurich-omission": {
+      "normalized_latin": "Scriptum est enim. Melior est obedientia quam victime et auscultare magis quam offerre adipem. Et quamvis multa spiritualis exercicii a diversis composita inveniantur opuscula, quia tamen non omnibus conveniunt omnia, visum est eciam nobis ad convenientiam regule sanctissimi patris nostri Benedicti aliquid edere, quo magis et vicinius ad puritatem regularis observantie nosmetipsos possimus excitare. Itaque presens opusculum de optimi patris Theoderici quondam cenobii Bursfeldensis abbatis exerciciis collectum in duas partes principales dividimus, quarum prima in consideratione institutionis monastice ponitur, secunda circa exercitationem spiritualis vite occupatur. In prima teipsum iuberis cognoscere, in secunda mentem a terrenis ad celestia elevare. Igitur ad propositum considerationis nostre pro viribus accedentes primum tractatum in tres partes dividimus secundum triplicem hominum claustralium statum, quorum primos sensuales, secundos rationales, tercios spirituales possumus appellare. Ex hoc triplici hominum statu huic operi titulum convenientem assumimus, quod De triplici regione claustralium nuncupamus. In his tribus regionibus omnis turba monachorum concluditur, quemadmodum in sequentibus dicetur.",
+      "reason": "The Zürich T4B text previously jumped from the end of the preceding leaf to the heading for the first region. The top of this leaf preserves the intervening passage, from Scriptum est enim to in sequentibus dicetur. It gives the scriptural quotation, the source of the exercises, the work’s division and the threefold human condition. The restored English follows this copy.",
+      "image": {
+        "canvas": "https://www.e-rara.ch/i3f/v20/2581257/canvas/2581271",
+        "label": "[11]",
+        "image_url": "https://www.e-rara.ch/i3f/v20/2581271/full/full/0/default.jpg",
+        "attribution": "Stiftung der Werke von C. G. Jung, Zürich, e-rara",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/deed.de"
+        ],
+        "download_date": "2026-11-18",
+        "path": "data/translation_disagreements/prdl-70285_e-rara_de-triplici-regione-claustralium-et/facsimiles/canvas-011.jpg",
+        "sha256": "4617c8522169fd14278fde50ca7d44a68799b87c28f0fadc9ee93094499c693f"
+      },
+      "crop": {
+        "canvas_number": 11,
+        "crop_path": "data/translation_disagreements/prdl-70285_e-rara_de-triplici-regione-claustralium-et/facsimiles/region-zurich-omission.png",
+        "xywh": [
+          260,
+          254,
+          1068,
+          1202
+        ],
+        "sha256": "2f893fea4083d163c98d180ce14516efdc4e2e4432ddeebd58c001e99720cbb6"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    }
+  }
+}

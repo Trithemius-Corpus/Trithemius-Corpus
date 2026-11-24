@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae",
+  "date": "2026-11-18",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI visual collation of the cited printed witness. The stored crops reproduce the source image pixels.",
+  "changes": [
+    {
+      "item_id": "sigilla-title-authors",
+      "track": "earlier",
+      "passage": "p-en-0001-0006",
+      "before": "Solomon, [unclear];\nRaphael, the Jew;\nChael, the Egyptian;\nHermes, the Persian;\nThetel.",
+      "after": "Solomon, king of the Jews;\nRaphael and Chael, Jews;\nHermes, the Egyptian;\nThetel, the Persian.",
+      "resolved_annotations": [
+        "a-en-0001-0006-001"
+      ],
+      "files": [
+        "works/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/english.md",
+        "works/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/chunks/full_chunk_0001.md"
+      ]
+    },
+    {
+      "item_id": "sigilla-title-authors",
+      "track": "t4b",
+      "passage": "p-t4b-99b17963354e607f",
+      "before": "Raphael, the Jew.\nChael, the Egyptian.\nHermes, the Persian.\nThetel.",
+      "after": "Raphael and Chael, Jews.\nHermes, the Egyptian.\nThetel, the Persian.",
+      "files": [
+        "works-t4b/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/english.md",
+        "works-t4b/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/chunks/full_chunk_0001.md"
+      ],
+      "rendered_anchor_after": "p-t4b-8ec222c09ac826b8"
+    }
+  ],
+  "metadata_edits": [
+    {
+      "path": "works/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/english.md",
+      "before": "> Machine-assisted English translation. Work `prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae`. Tier S · faithful 4.69 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.",
+      "after": "> Machine-assisted English translation. Work `prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae`. The machine audit predates the local AI corrections of 2026-11-18. Historical tier S · faithful 4.69 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`."
+    }
+  ],
+  "files": [
+    {
+      "path": "works/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/english.md",
+      "before_path": "data/translation_disagreements/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/snapshots/before-2026-11-18/works/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/english.md",
+      "before_sha256": "0af81ddcd08e023e307274dfe87b0c6232487848c03ebf5fe4966b3e104097af",
+      "after_sha256": "c4d9b95ce4ec25d2e0d3515504f6ad7f0c9865d93bab6c80a5c69efa11aaf915"
+    },
+    {
+      "path": "works/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/chunks/full_chunk_0001.md",
+      "before_path": "data/translation_disagreements/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/snapshots/before-2026-11-18/works/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/chunks/full_chunk_0001.md",
+      "before_sha256": "4bf8f6081b2a3ddfed4d8a1955b3a618ad2dc50502ee234d4c1848189de4b9e1",
+      "after_sha256": "8981ad7e330c12576a7a04bf93e49598eca0274738cdf88407c2cc9347ded070"
+    },
+    {
+      "path": "works-t4b/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/english.md",
+      "before_path": "data/translation_disagreements/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/snapshots/before-2026-11-18/works-t4b/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/english.md",
+      "before_sha256": "cd8bddc73f904f91d77e2dc28340f3d7b60a5a31fd774d02634a7d3de26459a3",
+      "after_sha256": "1f49a95a11525e4f45bd9ca952a0787667235e5ff54e9dbce52f1227efe72233"
+    },
+    {
+      "path": "works-t4b/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/chunks/full_chunk_0001.md",
+      "before_path": "data/translation_disagreements/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/snapshots/before-2026-11-18/works-t4b/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/chunks/full_chunk_0001.md",
+      "before_sha256": "a826564cf07230fa37fee612e7bfccdbff82f51de01fb623c2e2a70ad1ae4158",
+      "after_sha256": "594023f7b929e12473ecc06e5725478f54730f60f130faadd50795eb01748912"
+    }
+  ]
+}

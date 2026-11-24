@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24373_de-statu-et-ruina-monastici-ordinis",
+  "date": "2026-11-18",
+  "human_review": "none_documented",
+  "transcription_convention": "Selected printed clauses with abbreviations expanded. Ellipses mark omissions.",
+  "items": {
+    "prayer-leipzig": {
+      "normalized_latin": "si impuritate cordis ad eum sedulas preces effundatis",
+      "reason": "The Leipzig type joins impuritate. Read as one Latin word, it gives “with impurity”. This is a real difference in the printing.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00040424/canvas/4",
+        "label": "2v (0004)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040424_00004/full/full/0/default.jpg",
+        "attribution": "Bayerische Staatsbibliothek",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "download_date": "2026-11-18",
+        "path": "data/translation_disagreements/prdl-24373_de-statu-et-ruina-monastici-ordinis/facsimiles/canvas-004.jpg",
+        "sha256": "77ab3532d14d94ba88a936a701c9bcb3891930ddcbd4a956589a3e7b7c399627"
+      },
+      "crop": {
+        "canvas_number": 4,
+        "crop_path": "data/translation_disagreements/prdl-24373_de-statu-et-ruina-monastici-ordinis/facsimiles/prayer-leipzig.png",
+        "xywh": [
+          508,
+          2095,
+          1622,
+          419
+        ],
+        "sha256": "71eeb40549cdeac0a1679233dcc7c741bd81fe58a2b079f9bfcdcfe44aa0688e"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented",
+      "decision": "retain_english_with_witness_note"
+    },
+    "prayer-mainz": {
+      "normalized_latin": "si in puritate cordis ad eum sedulas preces effundatis",
+      "reason": "This independently typeset Mainz edition (BSB-Ink T-462) separates the preposition in from puritate. It supports the affirmative wording already used in both English editions of the Leipzig witness.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11303506/canvas/9",
+        "label": "(0009)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11303506_00009/full/full/0/default.jpg",
+        "attribution": "Bayerische Staatsbibliothek, Mainz printing",
+        "rights": [
+          "https://rightsstatements.org/vocab/NoC-NC/1.0/"
+        ],
+        "download_date": "2026-11-18",
+        "path": "data/translation_disagreements/prdl-24373_de-statu-et-ruina-monastici-ordinis/facsimiles/canvas-009.jpg",
+        "sha256": "77b29b698206766784c96f0e3aca3f87a0477b6165e28a7990dfa29118869612"
+      },
+      "crop": {
+        "canvas_number": 9,
+        "crop_path": "data/translation_disagreements/prdl-24373_de-statu-et-ruina-monastici-ordinis/facsimiles/prayer-mainz.png",
+        "xywh": [
+          205,
+          1371,
+          1067,
+          198
+        ],
+        "sha256": "241fe6abca429e0200081373cd273f87580622811aa8c2e19bdf3651e196ec85"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented",
+      "decision": "retain_english_with_witness_note"
+    }
+  }
+}

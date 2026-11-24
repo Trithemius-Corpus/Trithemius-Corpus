@@ -2258,7 +2258,7 @@
                 "type": "TextualBody",
                 "language": "en",
                 "format": "text/plain",
-                "value": "A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value (the count of its substitutes), the key by which the hidden message is read out of the conjuration of Camuel; the four spirits keyed 0 have no substitute, since 0 signifies nothing. A marginal note reads \"It seemed rather to be read Nokar\" for the spirit here printed Nodar. OCR cells left [unclear] are damaged in the print. Read alongside the facsimile."
+                "value": "Twenty names are printed in four rows. Six have 100 substitutes, eleven have 10 and three have none. The asterisk at Nodar leads to the marginal suggestion Noctar. The headings abbreviate black and red. The surviving grayscale image does not establish the color of individual entries. Printed p. 12, Gallica f21."
               },
               "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/canvas/21",
               "seeAlso": [
@@ -2267,7 +2267,12 @@
                   "type": "Text",
                   "format": "text/html"
                 }
-              ]
+              ],
+              "label": {
+                "en": [
+                  "Reviewed source page"
+                ]
+              }
             },
             {
               "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/manifest.json/annotation/p-en-0010-0006",
@@ -2277,7 +2282,7 @@
                 "type": "TextualBody",
                 "language": "en",
                 "format": "text/plain",
-                "value": "(Black / Red) Orpeniel 10 Citgara 10 Daniel 10 Dobiel 10 Azimo 10 Carryel 10 Pariel 10 Omzel 10 *Nodar 10 Tediel 0 Budiel 10 Cariel 10 Asiniel 10 Phaniel 10 Moriel 0 Elcar 10 Neriel 10 Calym 10 Meras 10 Tugaros 0"
+                "value": "(Black / Red) Orpeniel 10 Citgara 100 Daniel 10 Dobiel 100 Azimo 10 Camyel 100 Pariel 10 Omyel 10 *Nodar 10 Tediel 0 Budiel 10 Cariel 10 Asiniel 100 Phaniel 10 Moriel 0 Elcar 10 Neriel 10 Calym 100 Meras 100 Tugaros 0"
               },
               "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/canvas/21",
               "seeAlso": [
@@ -2286,7 +2291,12 @@
                   "type": "Text",
                   "format": "text/html"
                 }
-              ]
+              ],
+              "label": {
+                "en": [
+                  "Reviewed source page"
+                ]
+              }
             },
             {
               "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/manifest.json/annotation/p-en-0010-0007",
@@ -2372,7 +2382,7 @@
                 "type": "TextualBody",
                 "language": "en",
                 "format": "text/plain",
-                "value": "Schw. Roth. S. R. R. R. X. R. R."
+                "value": "Schw. Roth. S. R. R. R. R. R. R. R."
               },
               "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/canvas/21",
               "seeAlso": [
@@ -2381,7 +2391,12 @@
                   "type": "Text",
                   "format": "text/html"
                 }
-              ]
+              ],
+              "label": {
+                "en": [
+                  "Reviewed source page"
+                ]
+              }
             },
             {
               "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/manifest.json/annotation/p-en-0010-0012",
@@ -2391,7 +2406,7 @@
                 "type": "TextualBody",
                 "language": "en",
                 "format": "text/plain",
-                "value": "Rather, see Orpeniel 10. Citgara 100. Daniel 10. Dobiel 100. Azimo 10."
+                "value": "Orpeniel 10. Citgara 100. Daniel 10. Dobiel 100. Azimo 10."
               },
               "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/canvas/21",
               "seeAlso": [
@@ -2400,7 +2415,12 @@
                   "type": "Text",
                   "format": "text/html"
                 }
-              ]
+              ],
+              "label": {
+                "en": [
+                  "Reviewed source page"
+                ]
+              }
             },
             {
               "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/manifest.json/annotation/p-en-0010-0013",
@@ -2410,7 +2430,7 @@
                 "type": "TextualBody",
                 "language": "en",
                 "format": "text/plain",
-                "value": "It was to be read Noctar. Camuel 100. Pariel 10. Omyel 10. Nodar 10. Tediel 0."
+                "value": "The marginal note suggests reading Noctar for Nodar. Camyel 100. Pariel 10. Omyel 10. Nodar 10. Tediel 0."
               },
               "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/canvas/21",
               "seeAlso": [
@@ -2419,7 +2439,12 @@
                   "type": "Text",
                   "format": "text/html"
                 }
-              ]
+              ],
+              "label": {
+                "en": [
+                  "Reviewed source page"
+                ]
+              }
             },
             {
               "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/manifest.json/annotation/p-en-0010-0014",
@@ -2438,7 +2463,12 @@
                   "type": "Text",
                   "format": "text/html"
                 }
-              ]
+              ],
+              "label": {
+                "en": [
+                  "Reviewed source page"
+                ]
+              }
             },
             {
               "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/manifest.json/annotation/p-en-0010-0015",
@@ -2457,7 +2487,12 @@
                   "type": "Text",
                   "format": "text/html"
                 }
-              ]
+              ],
+              "label": {
+                "en": [
+                  "Reviewed source page"
+                ]
+              }
             },
             {
               "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/manifest.json/annotation/p-en-0010-0016",
@@ -2467,7 +2502,7 @@
                 "type": "TextualBody",
                 "language": "en",
                 "format": "text/plain",
-                "value": "Here in the table you have the ten angels of Camuel who preside over the day, with their substitutes in number, and as many who preside over the night, also with their own sub-servitors. The last, however, as you see, have no substitute, since 0, as you know, signifies absolutely nothing in number. Therefore, when you wish to operate through these angels, prepare your paper, as is customary; and, turned toward Eurus, write any narrative whatever, and in whatever language you wish, which need not be hidden. When it is completed, read the following conjuration silently: Camuel a eralti bufaco aeli lum ar photyrion theor besamys, aneal Cabelonyr thiamo vesonthy. When this conjuration has been completed in silence, make your commission to the spirits who are present, as you know; and send them forth, doing everything in silence and without disturbance, if possible. Afterwards give the letters, open as you please, to be carried by whatever messenger you wish, and let him go, because the spirits will not neglect their office, whether the messenger comes quickly or slowly. Of this let there be no doubt for you, since they are faithful. But you must know which spirit you wish to send from the aforesaid, so that in the conjuration you may express his name immediately after the principal one; and this is so in all operations in which the names of the angels to be sent are set down in the chapter itself. But now let us set forth a likeness of the things spoken of by us concerning those matters which pertain to the office of Camuel and of his subject spirits."
+                "value": "Here in the table you have the ten angels of Camuel who preside over the day, with their substitutes in number, and as many who preside over the night, also with their own sub-servitors. The last, however, as you see, have no substitute, since 0, as you know, signifies absolutely nothing in number. Therefore, when you wish to operate through these angels, prepare your paper, as is customary; and, turned toward Eurus, write any narrative whatever, and in whatever language you wish, which need not be hidden. When it is completed, read the following conjuration silently: Camuel aperoys, melym meuomanial, casmoyn cralti busaco aeli lumar photytion theor besamys, aneal Cabelonyr thiamo vesonthy. When this conjuration has been completed in silence, make your commission to the spirits who are present, as you know; and send them forth, doing everything in silence and without disturbance, if possible. Afterwards give the letters, open as you please, to be carried by whatever messenger you wish, and let him go, because the spirits will not neglect their office, whether the messenger comes quickly or slowly. Of this let there be no doubt for you, since they are faithful. But you must know which spirit you wish to send from the aforesaid, so that in the conjuration you may express his name immediately after the principal one; and this is so in all operations in which the names of the angels to be sent are set down in the chapter itself. But now let us set forth a likeness of the things spoken of by us concerning those matters which pertain to the office of Camuel and of his subject spirits."
               },
               "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/canvas/21",
               "seeAlso": [
@@ -2476,7 +2511,12 @@
                   "type": "Text",
                   "format": "text/html"
                 }
-              ]
+              ],
+              "label": {
+                "en": [
+                  "Reviewed source page"
+                ]
+              }
             },
             {
               "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/manifest.json/annotation/p-en-0010-0017",
@@ -2535,6 +2575,38 @@
                 ]
               },
               "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/canvas/22"
+            }
+          ]
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/canvas/22/page/text",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/manifest.json/annotation/p-en-0011-0004",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/plain",
+                "value": "If I am stationed at Rome, I learn from the most secret council of the supreme pontiff that he himself wishes to transfer the Roman Empire to the Franks. I desire to warn the princes of Germany: I cannot do it by messengers, whom I do not trust; I cannot do it by letters, because in all the cities of Italy there are men appointed at the gates who most carefully search those passing through. Therefore I write a single devout prayer, which I send openly by a messenger, together with other closed familiar letters to those same princes. I summon the spirits of the third mansion and command them to follow the letters that are to be sent. And when they have been called by the recipient, they must not omit to reveal to him my secret intention, which I did not dare entrust to letters. They come, they go, they obey."
+              },
+              "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/canvas/22",
+              "seeAlso": [
+                {
+                  "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html#p-en-0011-0004",
+                  "type": "Text",
+                  "format": "text/html"
+                }
+              ],
+              "label": {
+                "en": [
+                  "Reviewed source page"
+                ]
+              }
             }
           ]
         }
@@ -2635,25 +2707,6 @@
               "seeAlso": [
                 {
                   "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html#p-en-0011-0003",
-                  "type": "Text",
-                  "format": "text/html"
-                }
-              ]
-            },
-            {
-              "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/manifest.json/annotation/p-en-0011-0004",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "language": "en",
-                "format": "text/plain",
-                "value": "If I am stationed at Rome, I learn from the most secret council of the supreme pontiff that he himself wishes to transfer the Roman Empire to the Franks. I desire to warn the princes of Germany: I cannot do it by messengers, whom I do not trust; I cannot do it by letters, because in all the cities of Italy there are men appointed at the gates who most carefully search those passing through. Therefore I write a single devout prayer, which I send openly by a messenger, together with other closed familiar letters to those same princes. I summon the spirits of the third mansion and command them to follow the letters that are to be sent. And when they have been called by the recipient, they must not omit to reveal to him my secret intention, which I did not dare entrust to letters. They come, they go, they obey."
-              },
-              "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/canvas/23",
-              "seeAlso": [
-                {
-                  "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.html#p-en-0011-0004",
                   "type": "Text",
                   "format": "text/html"
                 }
@@ -28372,6 +28425,10 @@
         },
         {
           "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/canvas/23",
+          "type": "Canvas"
+        },
+        {
+          "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/canvas/22",
           "type": "Canvas"
         },
         {

@@ -46,5 +46,11 @@
     "latin_fallback_sources": {},
     "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis_parallel.html"
   },
+  "ai_corrections": {
+    "date": "2026-11-23",
+    "count": 1,
+    "human_review": "none_documented",
+    "note": "Codex AI checked the correction of 2026-11-23 against the shared printed leaf. The edition errata preserve the prior wording and link to the image. Historical machine grades predate the correction."
+  },
   "publication_modified": "2026-11-23"
 }

@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI visual collation of the cited printed witness. The stored crops reproduce the source image pixels.",
+  "changes": [
+    {
+      "item_id": "camuel-rubric",
+      "track": "earlier",
+      "passage": "p-en-0010-0011",
+      "before": "Schw. Roth. S. R. R. R. X. R. R.",
+      "after": "Schw. Roth. S. R. R. R. R. R. R. R.",
+      "files": [
+        "works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/english.md",
+        "works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/chunks/full_chunk_0010.md"
+      ]
+    },
+    {
+      "item_id": "camuel-table",
+      "track": "earlier",
+      "passage": "p-en-0010-0012",
+      "before": "Rather, see Orpeniel 10.",
+      "after": "Orpeniel 10.",
+      "resolved_annotations": [
+        "a-en-0010-0005-001"
+      ],
+      "files": [
+        "works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/english.md",
+        "works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/chunks/full_chunk_0010.md"
+      ]
+    },
+    {
+      "item_id": "camuel-marginal",
+      "track": "earlier",
+      "passage": "p-en-0010-0013",
+      "before": "It was to be read Noctar.",
+      "after": "The marginal note suggests reading Noctar for Nodar.",
+      "files": [
+        "works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/english.md",
+        "works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/chunks/full_chunk_0010.md"
+      ]
+    },
+    {
+      "item_id": "camuel-table",
+      "track": "earlier",
+      "passage": "p-en-0010-0013",
+      "before": "Camuel 100. Pariel 10. Omyel 10.",
+      "after": "Camyel 100. Pariel 10. Omyel 10.",
+      "files": [
+        "works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/english.md",
+        "works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/chunks/full_chunk_0010.md"
+      ]
+    },
+    {
+      "item_id": "camuel-formula",
+      "track": "earlier",
+      "passage": "p-en-0010-0016",
+      "before": "Camuel a eralti bufaco aeli lum ar photyrion theor besamys, aneal Cabelonyr thiamo vesonthy.",
+      "after": "Camuel aperoys, melym meuomanial, casmoyn cralti busaco aeli lumar photytion theor besamys, aneal Cabelonyr thiamo vesonthy.",
+      "files": [
+        "works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/english.md",
+        "works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/chunks/full_chunk_0010.md"
+      ]
+    },
+    {
+      "item_id": "camuel-rubric",
+      "track": "t4b",
+      "passage": "p-t4b-84b28d79bd4df03c",
+      "before": "Schw. Roth. S. R. R. R. X. R. R.",
+      "after": "Schw. Roth. S. R. R. R. R. R. R. R.",
+      "files": [
+        "works-t4b/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/english.md",
+        "works-t4b/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/chunks/full_chunk_0010.md"
+      ],
+      "rendered_anchor_after": "p-t4b-d85866e5ef8ec0e2"
+    },
+    {
+      "item_id": "camuel-marginal",
+      "track": "t4b",
+      "passage": "p-t4b-441ff2092d1c6a08",
+      "before": "Rather, it seemed it should be read Noctar.",
+      "after": "The marginal note suggests reading Noctar for Nodar.",
+      "files": [
+        "works-t4b/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/english.md",
+        "works-t4b/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/chunks/full_chunk_0010.md"
+      ],
+      "rendered_anchor_after": "p-t4b-ef10e543b669d109"
+    },
+    {
+      "item_id": "camuel-table",
+      "track": "t4b",
+      "passage": "p-t4b-1e245b91a40f7861",
+      "before": "Camuel 100. Pariel 10. Omyel 10.",
+      "after": "Camyel 100. Pariel 10. Omyel 10.",
+      "files": [
+        "works-t4b/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/english.md",
+        "works-t4b/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/chunks/full_chunk_0010.md"
+      ],
+      "rendered_anchor_after": "p-t4b-eb7fdb4d87afc3b6"
+    },
+    {
+      "item_id": "camuel-formula",
+      "track": "t4b",
+      "passage": "p-t4b-9938d5bc9678fdc3",
+      "before": "Camuel aperoys, melym meuomanial, casmoyn eralki bufaco aeliumar photyfion theor besamys, aneal Cabelonyr thiamo vesonthy.",
+      "after": "Camuel aperoys, melym meuomanial, casmoyn cralti busaco aeli lumar photytion theor besamys, aneal Cabelonyr thiamo vesonthy.",
+      "files": [
+        "works-t4b/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/english.md",
+        "works-t4b/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/chunks/full_chunk_0010.md"
+      ],
+      "rendered_anchor_after": "p-t4b-9c8224cc06171552"
+    }
+  ],
+  "metadata_edits": [
+    {
+      "path": "works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/english.md",
+      "before": "> Machine-assisted English translation. Work `prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam`. Tier S · faithful 4.56 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.",
+      "after": "> Machine-assisted English translation. Work `prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam`. The machine audit predates the local AI corrections of 2026-11-23. Historical tier S · faithful 4.56 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`."
+    }
+  ],
+  "files": [
+    {
+      "path": "works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/english.md",
+      "before_path": "data/translation_disagreements/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/snapshots/before-2026-11-23/works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/english.md",
+      "before_sha256": "b8d7a47bd58ee084bd111211a29e9de603f41cc00cd0ec34de7b4249a13d2a64",
+      "after_sha256": "cc5138ba1664d8558b49aa277a7a09d3221c494e0816424b0e292770216d3cd7"
+    },
+    {
+      "path": "works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/chunks/full_chunk_0010.md",
+      "before_path": "data/translation_disagreements/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/snapshots/before-2026-11-23/works/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/chunks/full_chunk_0010.md",
+      "before_sha256": "49d40a149bd18f3269c8cbaec9d9802d2dc870007351f5cd664448ad2d1cf861",
+      "after_sha256": "331409a416c37197061fe8394157439e4cf593228a0fbc7d69afd418edaf73b8"
+    },
+    {
+      "path": "works-t4b/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/english.md",
+      "before_path": "data/translation_disagreements/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/snapshots/before-2026-11-23/works-t4b/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/english.md",
+      "before_sha256": "82c25d495452376a4178817579ba8a2ad9513113a77f89e401efded4140d3868",
+      "after_sha256": "c81b85ca1ed4673943c2dedf6e71b2915557b28094762f3b7f505c9e2f4eacc1"
+    },
+    {
+      "path": "works-t4b/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/chunks/full_chunk_0010.md",
+      "before_path": "data/translation_disagreements/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/snapshots/before-2026-11-23/works-t4b/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/chunks/full_chunk_0010.md",
+      "before_sha256": "e2deb51796f43d6064dd3c075c68e7cb6c61b0778f12777cda8edd6c45270b0a",
+      "after_sha256": "8a23d84ea605c521a8c84d50b57cf6e9768a2e8abf3e6ea344cecc74039f038a"
+    },
+    {
+      "path": "data/publication/apparatus/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.json",
+      "before_path": "data/translation_disagreements/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/snapshots/before-2026-11-23/data/publication/apparatus/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.json",
+      "before_sha256": "2770e25c0f9467b4a4ff29824a90d9326bc43a70f2e6082accd7a083ad910e67",
+      "after_sha256": "5f28cc8209d32565e3395f733e04edc29246128c3345dd4b544029a8ed412dd6"
+    }
+  ],
+  "apparatus_edits": [
+    {
+      "item_id": "camuel-table",
+      "path": "data/publication/apparatus/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam.json",
+      "before": "\"<h3><em>Steganographia</em> — sub-spirits of the prince Camuel (ten by day, ten by night) and their cipher keys, Book I, ch. III · cipher-key table full_chunk_0010</h3>\\n<p><em>A spirit-name table — each entry carries its red (rubric) and black letter and a numeric value (the count of its substitutes), the key by which the hidden message is read out of the conjuration of Camuel; the four spirits keyed 0 have no substitute, since 0 signifies nothing. A marginal note reads \\\"It seemed rather to be read Nokar\\\" for the spirit here printed Nodar. OCR cells left [unclear] are damaged in the print. Read alongside the facsimile.</em></p>\\n<div class=\\\"table-scroll\\\"><table>\\n<thead>\\n<tr>\\n<th>(Black / Red)</th>\\n<th></th>\\n<th></th>\\n<th></th>\\n<th></th>\\n</tr>\\n</thead>\\n<tbody>\\n<tr>\\n<td>Orpeniel 10</td>\\n<td>Citgara 10</td>\\n<td>Daniel 10</td>\\n<td>Dobiel 10</td>\\n<td>Azimo 10</td>\\n</tr>\\n<tr>\\n<td>Carryel 10</td>\\n<td>Pariel 10</td>\\n<td>Omzel 10</td>\\n<td>*Nodar 10</td>\\n<td>Tediel 0</td>\\n</tr>\\n<tr>\\n<td>Budiel 10</td>\\n<td>Cariel 10</td>\\n<td>Asiniel 10</td>\\n<td>Phaniel 10</td>\\n<td>Moriel 0</td>\\n</tr>\\n<tr>\\n<td>Elcar 10</td>\\n<td>Neriel 10</td>\\n<td>Calym 10</td>\\n<td>Meras 10</td>\\n<td>Tugaros 0</td>\\n</tr>\\n</tbody>\\n</table></div>\"",
+      "after": "\"<h3><em>Steganographia</em> — sub-spirits of the prince Camuel (ten by day, ten by night) and their cipher keys, Book I, ch. III · cipher-key table full_chunk_0010</h3>\\n<p><em>Twenty names are printed in four rows. Six have 100 substitutes, eleven have 10 and three have none. The asterisk at Nodar leads to the marginal suggestion Noctar. The headings abbreviate black and red. The surviving grayscale image does not establish the color of individual entries. <a href=\\\"../static/images/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/page_021.webp\\\">Printed p. 12, Gallica f21</a>.</em></p>\\n<div class=\\\"table-scroll\\\"><table>\\n<thead>\\n<tr>\\n<th>(Black / Red)</th>\\n<th></th>\\n<th></th>\\n<th></th>\\n<th></th>\\n</tr>\\n</thead>\\n<tbody>\\n<tr>\\n<td>Orpeniel 10</td>\\n<td>Citgara 100</td>\\n<td>Daniel 10</td>\\n<td>Dobiel 100</td>\\n<td>Azimo 10</td>\\n</tr>\\n<tr>\\n<td>Camyel 100</td>\\n<td>Pariel 10</td>\\n<td>Omyel 10</td>\\n<td>*Nodar 10</td>\\n<td>Tediel 0</td>\\n</tr>\\n<tr>\\n<td>Budiel 10</td>\\n<td>Cariel 10</td>\\n<td>Asiniel 100</td>\\n<td>Phaniel 10</td>\\n<td>Moriel 0</td>\\n</tr>\\n<tr>\\n<td>Elcar 10</td>\\n<td>Neriel 10</td>\\n<td>Calym 100</td>\\n<td>Meras 100</td>\\n<td>Tugaros 0</td>\\n</tr>\\n</tbody>\\n</table></div>\""
+    }
+  ]
+}

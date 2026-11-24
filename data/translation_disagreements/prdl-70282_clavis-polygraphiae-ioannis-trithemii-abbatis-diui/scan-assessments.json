@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui",
+  "date": "2026-11-18",
+  "human_review": "none_documented",
+  "transcription_convention": "Selected printed clauses with abbreviations expanded. Ellipses mark omissions.",
+  "items": {
+    "key-messengers": {
+      "normalized_latin": "tenebroso cupiens in arduis uti nunciorum ministerio",
+      "reason": "Tenebroso agrees with ministerio, the service that Augustus wishes to employ covertly. Nunciorum identifies whose service he uses.",
+      "image": {
+        "canvas": "https://diglib.hab.de/drucke/fb-128/start.htm?image=00014",
+        "label": "FB 128, image 00014",
+        "image_url": "https://diglib.hab.de/drucke/fb-128/00014.jpg",
+        "attribution": "Herzog August Bibliothek Wolfenbüttel",
+        "rights": [
+          "https://diglib.hab.de/nutzungshinweise.html"
+        ],
+        "rights_note": "HAB designates its own collection images as public domain.",
+        "download_date": "2026-11-18",
+        "path": "data/translation_disagreements/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/facsimiles/canvas-014.jpg",
+        "sha256": "a1e09f877a875ba9d8e057efd37831a2e263dadb0ea3c776845a4556edc0c95e"
+      },
+      "crop": {
+        "canvas_number": 14,
+        "crop_path": "data/translation_disagreements/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/facsimiles/key-messengers.png",
+        "xywh": [
+          292,
+          362,
+          607,
+          90
+        ],
+        "sha256": "a59c383dfc0fc5484ac2c972624e060b951d3483c7963af7e74e164fe15537a5"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    }
+  }
+}

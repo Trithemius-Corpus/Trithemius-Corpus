@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24364_de-laudibus-sanctissimae-matris-annae",
+  "date": "2026-11-18",
+  "human_review": "none_documented",
+  "transcription_convention": "Abbreviations expanded and u/v normalized in selected clauses. Ellipses mark omissions.",
+  "items": {
+    "anne-petitioners": {
+      "normalized_latin": "Sic nos, Anna, nepoti puros ferre preces para",
+      "reason": "The masculine plural puros agrees with nos, the petitioners. The prayers are the object of ferre.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00008347/canvas/7",
+        "label": "4r (0007)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00008347_00007/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24364_de-laudibus-sanctissimae-matris-annae/facsimiles/canvas-007.jpg",
+        "sha256": "1e003e3c144f41575d7e63ae43d83934adff85ea19b819d35a9351e3b0ba7a44",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-17"
+      },
+      "crop": {
+        "canvas_number": 7,
+        "crop_path": "data/translation_disagreements/prdl-24364_de-laudibus-sanctissimae-matris-annae/facsimiles/anne-petitioners.png",
+        "xywh": [
+          284,
+          610,
+          1410,
+          576
+        ],
+        "sha256": "addbdd56ced6804b0fb37e4cce86430122f536ef6adfada54354f35f30a75bd5"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    }
+  }
+}

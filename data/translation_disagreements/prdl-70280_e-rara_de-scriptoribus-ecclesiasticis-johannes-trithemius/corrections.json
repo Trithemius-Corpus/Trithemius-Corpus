@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius",
+  "date": "2026-11-18",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI visual collation of the cited printed witness. The stored crops reproduce the source image pixels.",
+  "changes": [
+    {
+      "item_id": "writers-composed",
+      "track": "earlier",
+      "passage": "p-en-0012-0004",
+      "before": "if they had forged any new work",
+      "after": "if they had composed any new work",
+      "files": [
+        "works/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/english.md",
+        "works/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/chunks/full_chunk_0012.md"
+      ]
+    }
+  ],
+  "metadata_edits": [
+    {
+      "path": "works/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/english.md",
+      "before": "> Machine-assisted English translation. Work `prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius`. Tier S · faithful 4.67 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.",
+      "after": "> Machine-assisted English translation. Work `prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius`. The machine audit predates the local AI corrections of 2026-11-18. Historical tier S · faithful 4.67 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`."
+    }
+  ],
+  "files": [
+    {
+      "path": "works/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/english.md",
+      "before_path": "data/translation_disagreements/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/snapshots/before-2026-11-18/works/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/english.md",
+      "before_sha256": "140adb0c1237d3bf628233f0935a0f6aea499487eaae80a1b7467d3519c1cd49",
+      "after_sha256": "16ac377eef4541430e11e9c7b3be0652f3968c8b3d303a07532ba2cf1d7eb437"
+    },
+    {
+      "path": "works/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/chunks/full_chunk_0012.md",
+      "before_path": "data/translation_disagreements/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/snapshots/before-2026-11-18/works/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/chunks/full_chunk_0012.md",
+      "before_sha256": "f94d6c9df3c546fce3429169a31ec26f8db5e8106125dafa55bd294bd7d61412",
+      "after_sha256": "97b7f563989c5b0a0083e6ab1a6dabe8e2a08a1e82d77493b0a5eddf7f48420c"
+    }
+  ]
+}

@@ -17,8 +17,8 @@
       "edition_track": "earlier",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "provisional-reading-text",
-      "automated_qa": "full-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 100.0,
       "chunks_graded": 32,
       "chunks_total": 32,
@@ -28,7 +28,14 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "S",
-      "historical_faithfulness_score": 4.91
+      "historical_faithfulness_score": 4.91,
+      "historical_qa_scope": "full-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-18",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The 18 November 2026 corrections were checked against this printed witness. The edition errata preserve the previous wording and source images. Machine audit scores predate these edits."
+      }
     },
     {
       "id": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
@@ -50,9 +57,9 @@
       "historical_qa_scope": "full-machine-audit",
       "ai_corrections": {
         "date": "2026-11-23",
-        "count": 1,
+        "count": 2,
         "human_review": "none_documented",
-        "note": "The corrections of 23 November 2026 were checked by AI against this printed witness. The edition errata record the readings. Machine audit scores predate these edits."
+        "note": "The dated edition errata identify the scan-supported AI corrections. Historical machine grades predate these readings."
       }
     },
     {
@@ -60,8 +67,8 @@
       "edition_track": "earlier",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "provisional-reading-text",
-      "automated_qa": "full-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 100.0,
       "chunks_graded": 119,
       "chunks_total": 119,
@@ -71,15 +78,22 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "S",
-      "historical_faithfulness_score": 4.59
+      "historical_faithfulness_score": 4.59,
+      "historical_qa_scope": "full-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The dated edition errata identify the scan-supported AI corrections. Historical machine grades predate these readings."
+      }
     },
     {
       "id": "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis",
       "edition_track": "earlier",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "provisional-reading-text",
-      "automated_qa": "full-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 100.0,
       "chunks_graded": 124,
       "chunks_total": 124,
@@ -89,15 +103,22 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "S",
-      "historical_faithfulness_score": 4.69
+      "historical_faithfulness_score": 4.69,
+      "historical_qa_scope": "full-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The dated edition errata identify the scan-supported AI corrections. Historical machine grades predate these readings."
+      }
     },
     {
       "id": "prdl-24390_polygraphiae-libri-vi",
       "edition_track": "earlier",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "provisional-reading-text",
-      "automated_qa": "full-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 100.0,
       "chunks_graded": 124,
       "chunks_total": 124,
@@ -107,15 +128,22 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "S",
-      "historical_faithfulness_score": 4.56
+      "historical_faithfulness_score": 4.56,
+      "historical_qa_scope": "full-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 3,
+        "human_review": "none_documented",
+        "note": "The dated edition errata identify the scan-supported AI corrections. Historical machine grades predate these readings."
+      }
     },
     {
       "id": "prdl-24391_polygraphiae-libri-vi",
       "edition_track": "earlier",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "provisional-reading-text",
-      "automated_qa": "full-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 100.0,
       "chunks_graded": 136,
       "chunks_total": 136,
@@ -125,15 +153,22 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "S",
-      "historical_faithfulness_score": 4.74
+      "historical_faithfulness_score": 4.74,
+      "historical_qa_scope": "full-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The dated edition errata identify the scan-supported AI corrections. Historical machine grades predate these readings."
+      }
     },
     {
       "id": "prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius",
       "edition_track": "earlier",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "provisional-reading-text",
-      "automated_qa": "sampled-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 93.7,
       "chunks_graded": 268,
       "chunks_total": 286,
@@ -143,7 +178,14 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "S",
-      "historical_faithfulness_score": 4.67
+      "historical_faithfulness_score": 4.67,
+      "historical_qa_scope": "sampled-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 3,
+        "human_review": "none_documented",
+        "note": "The edition errata document scan-checked readings and earlier wording. The historical machine audit predates the corrections."
+      }
     },
     {
       "id": "prdl-70287_joh-tritthemii-de-scriptoribus-ecclesiasticis-liber",
@@ -211,8 +253,8 @@
       "edition_track": "earlier",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "provisional-reading-text",
-      "automated_qa": "full-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 100.0,
       "chunks_graded": 13,
       "chunks_total": 13,
@@ -222,7 +264,14 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "S",
-      "historical_faithfulness_score": 4.77
+      "historical_faithfulness_score": 4.77,
+      "historical_qa_scope": "full-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "Codex AI checked the correction of 2026-11-23 against the shared printed leaf. The edition errata preserve the prior wording and link to the image. Historical machine grades predate the correction."
+      }
     },
     {
       "id": "prdl-24361_de-cura-pastorali",
@@ -301,8 +350,8 @@
       "edition_track": "earlier",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "provisional-reading-text",
-      "automated_qa": "full-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 100.0,
       "chunks_graded": 4,
       "chunks_total": 4,
@@ -312,7 +361,14 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "S",
-      "historical_faithfulness_score": 4.5
+      "historical_faithfulness_score": 4.5,
+      "historical_qa_scope": "full-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-18",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "AI corrections checked against the printed witness on 18 November 2026. See the edition errata for the previous readings and scans. The machine audit predates these changes."
+      }
     },
     {
       "id": "prdl-24365_de-laudibus-sanctissimae-matris-annae",
@@ -391,8 +447,8 @@
       "edition_track": "earlier",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "provisional-reading-text",
-      "automated_qa": "full-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 100.0,
       "chunks_graded": 4,
       "chunks_total": 4,
@@ -402,7 +458,14 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "S",
-      "historical_faithfulness_score": 4.5
+      "historical_faithfulness_score": 4.5,
+      "historical_qa_scope": "full-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "Codex AI checked the correction of 2026-11-23 against the shared printed leaf. The edition errata preserve the prior wording and link to the image. Historical machine grades predate the correction."
+      }
     },
     {
       "id": "prdl-24385_liber-de-triplici-regione-claustralium-et",
@@ -535,8 +598,8 @@
       "edition_track": "earlier",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "provisional-reading-text",
-      "automated_qa": "sampled-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 94.7,
       "chunks_graded": 18,
       "chunks_total": 19,
@@ -546,7 +609,14 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "S",
-      "historical_faithfulness_score": 4.67
+      "historical_faithfulness_score": 4.67,
+      "historical_qa_scope": "sampled-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 6,
+        "human_review": "none_documented",
+        "note": "The edition errata document scan-checked readings and earlier wording. The historical machine audit predates the corrections."
+      }
     },
     {
       "id": "prdl-70289_opera-historica-part",
@@ -697,8 +767,8 @@
       "edition_track": "earlier",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "provisional-reading-text",
-      "automated_qa": "full-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 100.0,
       "chunks_graded": 3,
       "chunks_total": 3,
@@ -708,7 +778,14 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "S",
-      "historical_faithfulness_score": 5.0
+      "historical_faithfulness_score": 5.0,
+      "historical_qa_scope": "full-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 4,
+        "human_review": "none_documented",
+        "note": "The edition errata document scan-checked readings and earlier wording. The historical machine audit predates the corrections."
+      }
     },
     {
       "id": "prdl-24393_sermones-et-exhortationes-ad-monachos-joa",
@@ -823,8 +900,8 @@
       "edition_track": "earlier",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "provisional-reading-text",
-      "automated_qa": "full-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 100.0,
       "chunks_graded": 16,
       "chunks_total": 16,
@@ -834,15 +911,22 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "S",
-      "historical_faithfulness_score": 4.69
+      "historical_faithfulness_score": 4.69,
+      "historical_qa_scope": "full-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-18",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The 18 November 2026 corrections were checked against this printed witness. The edition errata preserve the previous wording and source images. Machine audit scores predate these edits."
+      }
     },
     {
       "id": "prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines",
       "edition_track": "earlier",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "provisional-reading-text",
-      "automated_qa": "full-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 100.0,
       "chunks_graded": 20,
       "chunks_total": 20,
@@ -852,15 +936,22 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "S",
-      "historical_faithfulness_score": 4.65
+      "historical_faithfulness_score": 4.65,
+      "historical_qa_scope": "full-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-18",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The 18 November 2026 corrections were checked against this printed witness. The edition errata preserve the previous wording and source images. Machine audit scores predate these edits."
+      }
     },
     {
       "id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam",
       "edition_track": "earlier",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "provisional-reading-text",
-      "automated_qa": "full-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 100.0,
       "chunks_graded": 88,
       "chunks_total": 88,
@@ -870,7 +961,14 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "S",
-      "historical_faithfulness_score": 4.56
+      "historical_faithfulness_score": 4.56,
+      "historical_qa_scope": "full-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 5,
+        "human_review": "none_documented",
+        "note": "The corrections of 23 November 2026 were checked by AI against this printed witness. The edition errata record the readings. Machine audit scores predate these edits."
+      }
     },
     {
       "id": "prdl-24357_abbreviatura-recessuum-capitularium-patrum-ordinis-divi",
@@ -982,8 +1080,8 @@
       "edition_track": "trithemius-4b",
       "text_origin": "machine-translation",
       "human_review": "editorial-reading-view",
-      "editorial_state": "editorially-reviewed-reading-view",
-      "automated_qa": "full-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 100.0,
       "chunks_graded": 10,
       "chunks_total": 10,
@@ -995,7 +1093,14 @@
       "historical_machine_grade": "A",
       "historical_faithfulness_score": 3.8,
       "review_date": "2026-07-14",
-      "review_note": "Title presentation and four content-based divisions reviewed and approved after removal of a duplicated opening; this is not a complete human verification of the translation against the Latin."
+      "review_note": "Title presentation and four content-based divisions reviewed and approved after removal of a duplicated opening; this is not a complete human verification of the translation against the Latin.",
+      "historical_qa_scope": "full-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-18",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "AI corrections checked against the printed witness on 18 November 2026. See the edition errata for the previous readings and scans. The machine audit predates these changes."
+      }
     },
     {
       "id": "prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis",
@@ -1056,8 +1161,8 @@
       "edition_track": "trithemius-4b",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "prepared-reading-text",
-      "automated_qa": "full-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 100.0,
       "chunks_graded": 2,
       "chunks_total": 2,
@@ -1067,7 +1172,14 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "S",
-      "historical_faithfulness_score": 4
+      "historical_faithfulness_score": 4,
+      "historical_qa_scope": "full-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-18",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "AI corrections checked against the printed witness on 18 November 2026. See the edition errata for the previous readings and scans. The machine audit predates these changes."
+      }
     },
     {
       "id": "prdl-24378_institutio-vitae-sacerdotalis",
@@ -1146,8 +1258,8 @@
       "edition_track": "trithemius-4b",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "prepared-reading-text",
-      "automated_qa": "sampled-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 22.6,
       "chunks_graded": 21,
       "chunks_total": 93,
@@ -1157,15 +1269,22 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "S",
-      "historical_faithfulness_score": 4
+      "historical_faithfulness_score": 4,
+      "historical_qa_scope": "sampled-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-18",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The 18 November 2026 corrections were checked against this printed witness. The edition errata preserve the previous wording and source images. Machine audit scores predate these edits."
+      }
     },
     {
       "id": "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis",
       "edition_track": "trithemius-4b",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "structured-diplomatic-view",
-      "automated_qa": "sampled-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 22.1,
       "chunks_graded": 27,
       "chunks_total": 122,
@@ -1175,15 +1294,22 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "A",
-      "historical_faithfulness_score": 3.63
+      "historical_faithfulness_score": 3.63,
+      "historical_qa_scope": "sampled-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The dated edition errata identify the scan-supported AI corrections. Historical machine grades predate these readings."
+      }
     },
     {
       "id": "prdl-24391_polygraphiae-libri-vi",
       "edition_track": "trithemius-4b",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "structured-diplomatic-view",
-      "automated_qa": "sampled-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 22.3,
       "chunks_graded": 31,
       "chunks_total": 139,
@@ -1193,7 +1319,14 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "A",
-      "historical_faithfulness_score": 3.968
+      "historical_faithfulness_score": 3.968,
+      "historical_qa_scope": "sampled-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The dated edition errata identify the scan-supported AI corrections. Historical machine grades predate these readings."
+      }
     },
     {
       "id": "prdl-24393_sermones-et-exhortationes-ad-monachos-joa",
@@ -1218,8 +1351,8 @@
       "edition_track": "trithemius-4b",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "structured-diplomatic-view",
-      "automated_qa": "sampled-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 29.3,
       "chunks_graded": 24,
       "chunks_total": 82,
@@ -1229,7 +1362,14 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "A",
-      "historical_faithfulness_score": 3.542
+      "historical_faithfulness_score": 3.542,
+      "historical_qa_scope": "sampled-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 4,
+        "human_review": "none_documented",
+        "note": "The corrections of 23 November 2026 were checked by AI against this printed witness. The edition errata record the readings. Machine audit scores predate these edits."
+      }
     },
     {
       "id": "prdl-32286_octo-quaestionum-maximilianum-caesarem",
@@ -1254,8 +1394,8 @@
       "edition_track": "trithemius-4b",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "prepared-reading-text",
-      "automated_qa": "sampled-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 45.7,
       "chunks_graded": 16,
       "chunks_total": 35,
@@ -1265,15 +1405,22 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "S",
-      "historical_faithfulness_score": 4.375
+      "historical_faithfulness_score": 4.375,
+      "historical_qa_scope": "sampled-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-18",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The 18 November 2026 corrections were checked against this printed witness. The edition errata preserve the previous wording and source images. Machine audit scores predate these edits."
+      }
     },
     {
       "id": "prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui",
       "edition_track": "trithemius-4b",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "structured-diplomatic-view",
-      "automated_qa": "sampled-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 18.9,
       "chunks_graded": 24,
       "chunks_total": 127,
@@ -1283,7 +1430,14 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "A",
-      "historical_faithfulness_score": 3.5
+      "historical_faithfulness_score": 3.5,
+      "historical_qa_scope": "sampled-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 2,
+        "human_review": "none_documented",
+        "note": "The dated edition errata identify the scan-supported AI corrections. Historical machine grades predate these readings."
+      }
     },
     {
       "id": "prdl-70283_de-laudibus-sancctissime-matris-anne-tractat",
@@ -1308,8 +1462,8 @@
       "edition_track": "trithemius-4b",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "prepared-reading-text",
-      "automated_qa": "sampled-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 22.6,
       "chunks_graded": 21,
       "chunks_total": 93,
@@ -1319,7 +1473,14 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "A",
-      "historical_faithfulness_score": 4
+      "historical_faithfulness_score": 4,
+      "historical_qa_scope": "sampled-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-18",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The 18 November 2026 corrections were checked against this printed witness. The edition errata preserve the previous wording and source images. Machine audit scores predate these edits."
+      }
     },
     {
       "id": "prdl-70286_octo-quaestionum-maximilianum-caesarem",
@@ -1344,8 +1505,8 @@
       "edition_track": "trithemius-4b",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "structured-diplomatic-view",
-      "automated_qa": "full-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 100.0,
       "chunks_graded": 15,
       "chunks_total": 15,
@@ -1355,15 +1516,22 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "S",
-      "historical_faithfulness_score": 4.8
+      "historical_faithfulness_score": 4.8,
+      "historical_qa_scope": "full-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-18",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The 18 November 2026 corrections were checked against this printed witness. The edition errata preserve the previous wording and source images. Machine audit scores predate these edits."
+      }
     },
     {
       "id": "prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines",
       "edition_track": "trithemius-4b",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "structured-diplomatic-view",
-      "automated_qa": "full-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 100.0,
       "chunks_graded": 15,
       "chunks_total": 15,
@@ -1373,7 +1541,14 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "A",
-      "historical_faithfulness_score": 3.8
+      "historical_faithfulness_score": 3.8,
+      "historical_qa_scope": "full-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-18",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The 18 November 2026 corrections were checked against this printed witness. The edition errata preserve the previous wording and source images. Machine audit scores predate these edits."
+      }
     }
   ]
 }
