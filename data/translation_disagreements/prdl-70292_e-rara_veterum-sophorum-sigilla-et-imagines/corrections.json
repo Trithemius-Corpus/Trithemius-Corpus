@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines",
+  "date": "2026-11-18",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI visual collation of the cited printed witness. The stored crops reproduce the source image pixels.",
+  "changes": [
+    {
+      "item_id": "sigilla-title-authors",
+      "track": "earlier",
+      "passage": "p-en-0001-0003",
+      "before": "Raphael, the Jew;\nChael, the Egyptian;\nHermes, the Persian;\nThetel.",
+      "after": "Raphael and Chael, Jews;\nHermes, the Egyptian;\nThetel, the Persian.",
+      "files": [
+        "works/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/english.md",
+        "works/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/chunks/full_chunk_0001.md"
+      ]
+    },
+    {
+      "item_id": "sigilla-title-authors",
+      "track": "t4b",
+      "passage": "p-t4b-aafd54b7567b2b73",
+      "before": "Raphael, the Jew.\nChael, the Egyptian.\nHermes, the Persian.\nThetel.",
+      "after": "Raphael and Chael, Jews.\nHermes, the Egyptian.\nThetel, the Persian.",
+      "files": [
+        "works-t4b/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/english.md",
+        "works-t4b/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/chunks/full_chunk_0001.md"
+      ],
+      "rendered_anchor_after": "p-t4b-9f4bf4c6e99722b4"
+    }
+  ],
+  "metadata_edits": [
+    {
+      "path": "works/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/english.md",
+      "before": "> Machine-assisted English translation. Work `prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines`. Tier S · faithful 4.65 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.",
+      "after": "> Machine-assisted English translation. Work `prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines`. The machine audit predates the local AI corrections of 2026-11-18. Historical tier S · faithful 4.65 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`."
+    }
+  ],
+  "files": [
+    {
+      "path": "works/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/english.md",
+      "before_path": "data/translation_disagreements/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/snapshots/before-2026-11-18/works/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/english.md",
+      "before_sha256": "7ea993721153bd20122ce26cda8ba396cc28c9a7be76a03176e98b20ef4ea025",
+      "after_sha256": "1c16f7ddb9cca3330acb44d8a8cf7c811cb0c260180622d9e52c9e8cea65ddd7"
+    },
+    {
+      "path": "works/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/chunks/full_chunk_0001.md",
+      "before_path": "data/translation_disagreements/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/snapshots/before-2026-11-18/works/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/chunks/full_chunk_0001.md",
+      "before_sha256": "02e3eb13cf72d11c7c3b0a8fe43117875c8d8e72102038794659eef35045e82a",
+      "after_sha256": "ef6e38c796bae4db2d1f89345d154a56cdfe949e645a1f0afe1e215d6c3b670e"
+    },
+    {
+      "path": "works-t4b/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/english.md",
+      "before_path": "data/translation_disagreements/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/snapshots/before-2026-11-18/works-t4b/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/english.md",
+      "before_sha256": "e203788cc6a24c7e1d4b1b14cb0c5cb5416f51fc8cdbedba9c8d51388853d374",
+      "after_sha256": "3edd5a9a069712ca99637324a99aa04a5f1526d033aad510194cc581cbcf952e"
+    },
+    {
+      "path": "works-t4b/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/chunks/full_chunk_0001.md",
+      "before_path": "data/translation_disagreements/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/snapshots/before-2026-11-18/works-t4b/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/chunks/full_chunk_0001.md",
+      "before_sha256": "c7242d626c95d5d1b6866ef27fcd9338be2549d17bf7ffcff8e43d1a33057d10",
+      "after_sha256": "bc08e84de7007e94d9b66df9833b1c061ea2c5a3d221c2b27c38f755ba27adca"
+    }
+  ]
+}

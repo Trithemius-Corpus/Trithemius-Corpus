@@ -1,0 +1,66 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive",
+  "date": "2026-11-18",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI visual collation of the cited printed witness. The stored crops reproduce the source image pixels.",
+  "changes": [
+    {
+      "item_id": "vindex-fear",
+      "track": "earlier",
+      "passage": "p-en-0011-0007",
+      "before": "how much good Trithemius feared for himself",
+      "after": "how deeply the good Trithemius feared for himself",
+      "files": [
+        "works/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/english.md",
+        "works/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/chunks/full_chunk_0011.md"
+      ]
+    },
+    {
+      "item_id": "vindex-fear",
+      "track": "t4b",
+      "passage": "p-t4b-1bcb8e1145c73453",
+      "before": "how much good Trithemius feared for himself",
+      "after": "how deeply the good Trithemius feared for himself",
+      "files": [
+        "works-t4b/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/english.md",
+        "works-t4b/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/chunks/full_chunk_0013.md"
+      ],
+      "rendered_anchor_after": "p-t4b-2afffb6856067317"
+    }
+  ],
+  "metadata_edits": [
+    {
+      "path": "works/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/english.md",
+      "before": "> Machine-assisted English translation. Work `prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive`. Tier S · faithful 4.91 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.",
+      "after": "> Machine-assisted English translation. Work `prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive`. The machine audit predates the local AI corrections of 2026-11-18. Historical tier S · faithful 4.91 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`."
+    }
+  ],
+  "files": [
+    {
+      "path": "works/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/english.md",
+      "before_path": "data/translation_disagreements/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/snapshots/before-2026-11-18/works/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/english.md",
+      "before_sha256": "b24299bd757398806d513f22efe57642784c8c711670bd21967f0ab8ae24ddbb",
+      "after_sha256": "3ee60a416f6e6e7f14226a742e1f486a9ab3bc6478053960002c19789dab9daf"
+    },
+    {
+      "path": "works/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/chunks/full_chunk_0011.md",
+      "before_path": "data/translation_disagreements/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/snapshots/before-2026-11-18/works/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/chunks/full_chunk_0011.md",
+      "before_sha256": "a8d373c90764f161d9b3e0497149eb6e794e73467f1a0b917f50ab762d87b5f8",
+      "after_sha256": "d731d8667c9fe1f87841fe1a71bcf0939b4b1b87afeae631460c20b44aff1d10"
+    },
+    {
+      "path": "works-t4b/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/english.md",
+      "before_path": "data/translation_disagreements/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/snapshots/before-2026-11-18/works-t4b/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/english.md",
+      "before_sha256": "052752b07361c6ff599d485115b7a41484612534cea117fa6afe39478eacbe3a",
+      "after_sha256": "2c38436acc54adf51c2812e7297f9b33c5aff7f1388300f945a060d76544e8d3"
+    },
+    {
+      "path": "works-t4b/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/chunks/full_chunk_0013.md",
+      "before_path": "data/translation_disagreements/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/snapshots/before-2026-11-18/works-t4b/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/chunks/full_chunk_0013.md",
+      "before_sha256": "f1ea0687615d5983d3bedae4b8c2dbbc146b750a3833715d515bf692e9151622",
+      "after_sha256": "b6fdc2a617627b0f433060d2b6cb8ce0dc74525f2c68b697ee67a9f38137e5d5"
+    }
+  ]
+}

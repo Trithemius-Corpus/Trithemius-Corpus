@@ -21,7 +21,8 @@
     "label": "German Intentio in the reading edition",
     "href": "works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos.html#p-en-0113-0010",
     "precision": "passage",
-    "note": "The printed German appears in the apparatus at this passage."
+    "note": "The structured rendering keeps its published passage ID. The corresponding continuous Latin OCR is in segment 124.",
+    "parallel_href": "works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_parallel.html#seg-124"
   },
   "alphabet": "abcdefghiklmnopqrstvxz",
   "printed_substitution_pairs": [
@@ -49,7 +50,7 @@
     "zv"
   ],
   "cover": {
-    "label": "Exemplum secundi (cover prose sample)",
+    "label": "Exemplum secundi (complete cover prayer)",
     "tokens": [
       "Creator",
       "generis",
@@ -64,7 +65,78 @@
       "quatenus",
       "bene",
       "conuersantes",
-      "consequamur"
+      "consequamur",
+      "præmium",
+      "gaudium",
+      "cælestium",
+      "Adiuua",
+      "nos",
+      "fragiles",
+      "miserosque",
+      "homines",
+      "sanctisque",
+      "moribus",
+      "exorna",
+      "catholicæ",
+      "pietatis",
+      "sancto",
+      "quæsumus",
+      "mentes",
+      "nostras",
+      "lumine",
+      "illustra",
+      "quatenus",
+      "tuam",
+      "recolamus",
+      "passionem",
+      "sedulo",
+      "cum",
+      "lacrymis",
+      "operibus",
+      "bonis",
+      "Iesu",
+      "Christe",
+      "Saluator",
+      "libera",
+      "nos",
+      "virtute",
+      "effusi",
+      "sanguinis",
+      "tui",
+      "catholicæ",
+      "vnitatis",
+      "gubernator",
+      "salua",
+      "populum",
+      "tuum",
+      "grauiter",
+      "afflictum",
+      "quem",
+      "dudum",
+      "beatissimo",
+      "effuso",
+      "sanguine",
+      "in",
+      "cruce",
+      "moriens",
+      "redemisti",
+      "aspice",
+      "quam",
+      "affligitur",
+      "grauissime",
+      "populus",
+      "sub",
+      "crudelissimo",
+      "Turco",
+      "libera",
+      "nos",
+      "miseros",
+      "per",
+      "gratiam",
+      "qua",
+      "redemisti",
+      "nos",
+      "Amen"
     ],
     "significant_positions": [
       2,
@@ -73,25 +145,64 @@
       8,
       10,
       12,
-      14
+      14,
+      16,
+      18,
+      20,
+      22,
+      24,
+      26,
+      28,
+      30,
+      32,
+      34,
+      36,
+      38,
+      40,
+      42,
+      44,
+      46,
+      48,
+      50,
+      52,
+      54,
+      56,
+      58,
+      60,
+      62,
+      64,
+      66,
+      68,
+      70,
+      72,
+      74,
+      76,
+      78,
+      80,
+      82,
+      84
     ],
     "status": "transcription-repair",
-    "method": "Printed p. 56 directs the writer to begin with an empty word, then alternate. In the opening of the cover on p. 57, the decorated initial belongs to Creator. The line break in guberna has been joined and the abbreviation in consequamur expanded."
+    "method": "Count the printed prayer from Creator through Amen. Join line-end divisions and expand the abbreviated words as consequamur and miserosque. The subscription follows the prayer."
   },
   "cipher_stream": {
     "label": "Literae significantes",
-    "transcription": "g.a.f.z.g.b.c.p.g.a.f.h.m.k.s.m.l.q.r.s.i.b.x.l.v.s.s.k.g.r.g.q.b.s.e.q.e.t.p.m.g.r",
+    "transcription": "g.a.f.z.g.b.c.p.g.a.f.h.m.k.s.m.l.q.r.s.i.b.x.l.v.s.k.g.r.g.q.b.s.e.q.e.t.p.m.g.r",
     "status": "transcription-repair",
-    "method": "The archived transcription is retained in its previous order and spelling. Its periods delimit individual letters in this edition. The printed line is set in spaced italic type. No individual human transcriber is documented here."
+    "method": "The two lines preserve the photographed letter order and the long s. Spaces separate individual types. For calculation, lowercase G, write ſ as s and omit punctuation. The previous transcription repeated the s between v and k.",
+    "printed_lines": [
+      "G a f z g b c p g a f h m k ſ m l q r ſ i b x l v ſ k g r g q b ſ e q",
+      "e t p m g r"
+    ]
   },
   "extraction": {
-    "rule": "Take the initials of the second, fourth and subsequent even-numbered cover words. For the separate significant-letter stream, read the recorded letters in order and remove the editorial separators.",
-    "result": "gafzgbcpgafhmksmlqrsibxlvsskgrgqbseqetpmgr",
+    "rule": "Read the significant-letter line in order. Independently take the initial of each even word in the cover prayer.",
+    "result": "gafzgbcpgafhmksmlqrsibxlvskgrgqbseqetpmgr",
     "status": "inferred-operation"
   },
   "decode": {
     "rule": "The print moves each plaintext letter two places back on its 22-letter circle. Invert the 22 printed pairs and substitute for each cipher letter in sequence.",
-    "result": "ichbiderichkomvonstvldanzvvmitisdvgsgxroit",
+    "result": "ichbiderichkomvonstvldanzvmitisdvgsgxroit",
     "status": "inferred-operation"
   },
   "intentio": {
@@ -101,16 +212,426 @@
     "status": "printed-evidence",
     "normalization": "Lowercase the German, omit spaces and punctuation, and write u as v for comparison."
   },
-  "editorial_note": "The retained stream decodes to 42 letters. Its opening gafz gives ichb. The resulting text differs from the 45-letter normalized Intentio, beginning at position 6. The sources of the remaining differences are unresolved.",
+  "editorial_note": "The 41 printed letters and the 45-letter normalized German agree in their first five decoded positions. At six, both the cipher line and the cover word bene give b. The key turns b into d. The German has t. The printed sources disagree here. Their wording does not establish how the difference arose.",
   "provenance": [
     "Frankfurt, 1608, Herzog August Bibliothek Wolfenbüttel, Fb 243. Printed p. 56 describes the shift and diagrams the circle. Printed p. 57 gives the paired alphabet, German intention, significant letters and cover.",
-    "AI visual collation on 23 November 2026 checked the two pages, all 22 substitutions and the first fourteen cover words. Human verification of this correction is undocumented.",
-    "The full significant-letter transcription is the pre-correction input. The displayed result is computed from that input without supplying letters from the printed intention."
+    "AI visual collation of HAB Fb 243 on 23 November 2026 checked all 41 types in the significant-letter line, the 22 printed pairs, the German and the 85-word prayer. No human review is documented.",
+    "The public evidence register preserves exact crops of the letter line and prayer. The earlier 42-letter transcription is retained in the correction history."
   ],
   "computed": {
-    "extracted": "gafzgbcpgafhmksmlqrsibxlvsskgrgqbseqetpmgr",
-    "decoded": "ichbiderichkomvonstvldanzvvmitisdvgsgxroit",
+    "extracted": "gafzgbcpgafhmksmlqrsibxlvskgrgqbseqetpmgr",
+    "decoded": "ichbiderichkomvonstvldanzvmitisdvgsgxroit",
     "cover_sample_initials": "gafzgbc",
+    "cover_initials": "gafzgbcgafhmcsmlqrslbclvscgpgqbscrqgstnpqn",
+    "cover_decoded": "ichbideichkoevonstvndenzveirisdvetsivxprsp",
+    "cipher_for_intentio": "gafzgrrcbgafhmkksmlqrslbxlvskgpcqrfsrqcfplmrf",
+    "comparison": [
+      {
+        "position": 1,
+        "printed": "g",
+        "decoded": "i",
+        "intended": "i",
+        "required_cipher": "g",
+        "cover_word": "generis",
+        "cover_initial": "g"
+      },
+      {
+        "position": 2,
+        "printed": "a",
+        "decoded": "c",
+        "intended": "c",
+        "required_cipher": "a",
+        "cover_word": "aspice",
+        "cover_initial": "a"
+      },
+      {
+        "position": 3,
+        "printed": "f",
+        "decoded": "h",
+        "intended": "h",
+        "required_cipher": "f",
+        "cover_word": "famulos",
+        "cover_initial": "f"
+      },
+      {
+        "position": 4,
+        "printed": "z",
+        "decoded": "b",
+        "intended": "b",
+        "required_cipher": "z",
+        "cover_word": "Zelo",
+        "cover_initial": "z"
+      },
+      {
+        "position": 5,
+        "printed": "g",
+        "decoded": "i",
+        "intended": "i",
+        "required_cipher": "g",
+        "cover_word": "guberna",
+        "cover_initial": "g"
+      },
+      {
+        "position": 6,
+        "printed": "b",
+        "decoded": "d",
+        "intended": "t",
+        "required_cipher": "r",
+        "cover_word": "bene",
+        "cover_initial": "b"
+      },
+      {
+        "position": 7,
+        "printed": "c",
+        "decoded": "e",
+        "intended": "t",
+        "required_cipher": "r",
+        "cover_word": "consequamur",
+        "cover_initial": "c"
+      },
+      {
+        "position": 8,
+        "printed": "p",
+        "decoded": "r",
+        "intended": "e",
+        "required_cipher": "c",
+        "cover_word": "gaudium",
+        "cover_initial": "g"
+      },
+      {
+        "position": 9,
+        "printed": "g",
+        "decoded": "i",
+        "intended": "d",
+        "required_cipher": "b",
+        "cover_word": "Adiuua",
+        "cover_initial": "a"
+      },
+      {
+        "position": 10,
+        "printed": "a",
+        "decoded": "c",
+        "intended": "i",
+        "required_cipher": "g",
+        "cover_word": "fragiles",
+        "cover_initial": "f"
+      },
+      {
+        "position": 11,
+        "printed": "f",
+        "decoded": "h",
+        "intended": "c",
+        "required_cipher": "a",
+        "cover_word": "homines",
+        "cover_initial": "h"
+      },
+      {
+        "position": 12,
+        "printed": "h",
+        "decoded": "k",
+        "intended": "h",
+        "required_cipher": "f",
+        "cover_word": "moribus",
+        "cover_initial": "m"
+      },
+      {
+        "position": 13,
+        "printed": "m",
+        "decoded": "o",
+        "intended": "k",
+        "required_cipher": "h",
+        "cover_word": "catholicæ",
+        "cover_initial": "c"
+      },
+      {
+        "position": 14,
+        "printed": "k",
+        "decoded": "m",
+        "intended": "o",
+        "required_cipher": "m",
+        "cover_word": "sancto",
+        "cover_initial": "s"
+      },
+      {
+        "position": 15,
+        "printed": "s",
+        "decoded": "v",
+        "intended": "m",
+        "required_cipher": "k",
+        "cover_word": "mentes",
+        "cover_initial": "m"
+      },
+      {
+        "position": 16,
+        "printed": "m",
+        "decoded": "o",
+        "intended": "m",
+        "required_cipher": "k",
+        "cover_word": "lumine",
+        "cover_initial": "l"
+      },
+      {
+        "position": 17,
+        "printed": "l",
+        "decoded": "n",
+        "intended": "v",
+        "required_cipher": "s",
+        "cover_word": "quatenus",
+        "cover_initial": "q"
+      },
+      {
+        "position": 18,
+        "printed": "q",
+        "decoded": "s",
+        "intended": "o",
+        "required_cipher": "m",
+        "cover_word": "recolamus",
+        "cover_initial": "r"
+      },
+      {
+        "position": 19,
+        "printed": "r",
+        "decoded": "t",
+        "intended": "n",
+        "required_cipher": "l",
+        "cover_word": "sedulo",
+        "cover_initial": "s"
+      },
+      {
+        "position": 20,
+        "printed": "s",
+        "decoded": "v",
+        "intended": "s",
+        "required_cipher": "q",
+        "cover_word": "lacrymis",
+        "cover_initial": "l"
+      },
+      {
+        "position": 21,
+        "printed": "i",
+        "decoded": "l",
+        "intended": "t",
+        "required_cipher": "r",
+        "cover_word": "bonis",
+        "cover_initial": "b"
+      },
+      {
+        "position": 22,
+        "printed": "b",
+        "decoded": "d",
+        "intended": "v",
+        "required_cipher": "s",
+        "cover_word": "Christe",
+        "cover_initial": "c"
+      },
+      {
+        "position": 23,
+        "printed": "x",
+        "decoded": "a",
+        "intended": "n",
+        "required_cipher": "l",
+        "cover_word": "libera",
+        "cover_initial": "l"
+      },
+      {
+        "position": 24,
+        "printed": "l",
+        "decoded": "n",
+        "intended": "d",
+        "required_cipher": "b",
+        "cover_word": "virtute",
+        "cover_initial": "v"
+      },
+      {
+        "position": 25,
+        "printed": "v",
+        "decoded": "z",
+        "intended": "a",
+        "required_cipher": "x",
+        "cover_word": "sanguinis",
+        "cover_initial": "s"
+      },
+      {
+        "position": 26,
+        "printed": "s",
+        "decoded": "v",
+        "intended": "n",
+        "required_cipher": "l",
+        "cover_word": "catholicæ",
+        "cover_initial": "c"
+      },
+      {
+        "position": 27,
+        "printed": "k",
+        "decoded": "m",
+        "intended": "z",
+        "required_cipher": "v",
+        "cover_word": "gubernator",
+        "cover_initial": "g"
+      },
+      {
+        "position": 28,
+        "printed": "g",
+        "decoded": "i",
+        "intended": "v",
+        "required_cipher": "s",
+        "cover_word": "populum",
+        "cover_initial": "p"
+      },
+      {
+        "position": 29,
+        "printed": "r",
+        "decoded": "t",
+        "intended": "m",
+        "required_cipher": "k",
+        "cover_word": "grauiter",
+        "cover_initial": "g"
+      },
+      {
+        "position": 30,
+        "printed": "g",
+        "decoded": "i",
+        "intended": "i",
+        "required_cipher": "g",
+        "cover_word": "quem",
+        "cover_initial": "q"
+      },
+      {
+        "position": 31,
+        "printed": "q",
+        "decoded": "s",
+        "intended": "r",
+        "required_cipher": "p",
+        "cover_word": "beatissimo",
+        "cover_initial": "b"
+      },
+      {
+        "position": 32,
+        "printed": "b",
+        "decoded": "d",
+        "intended": "e",
+        "required_cipher": "c",
+        "cover_word": "sanguine",
+        "cover_initial": "s"
+      },
+      {
+        "position": 33,
+        "printed": "s",
+        "decoded": "v",
+        "intended": "s",
+        "required_cipher": "q",
+        "cover_word": "cruce",
+        "cover_initial": "c"
+      },
+      {
+        "position": 34,
+        "printed": "e",
+        "decoded": "g",
+        "intended": "t",
+        "required_cipher": "r",
+        "cover_word": "redemisti",
+        "cover_initial": "r"
+      },
+      {
+        "position": 35,
+        "printed": "q",
+        "decoded": "s",
+        "intended": "h",
+        "required_cipher": "f",
+        "cover_word": "quam",
+        "cover_initial": "q"
+      },
+      {
+        "position": 36,
+        "printed": "e",
+        "decoded": "g",
+        "intended": "v",
+        "required_cipher": "s",
+        "cover_word": "grauissime",
+        "cover_initial": "g"
+      },
+      {
+        "position": 37,
+        "printed": "t",
+        "decoded": "x",
+        "intended": "t",
+        "required_cipher": "r",
+        "cover_word": "sub",
+        "cover_initial": "s"
+      },
+      {
+        "position": 38,
+        "printed": "p",
+        "decoded": "r",
+        "intended": "s",
+        "required_cipher": "q",
+        "cover_word": "Turco",
+        "cover_initial": "t"
+      },
+      {
+        "position": 39,
+        "printed": "m",
+        "decoded": "o",
+        "intended": "e",
+        "required_cipher": "c",
+        "cover_word": "nos",
+        "cover_initial": "n"
+      },
+      {
+        "position": 40,
+        "printed": "g",
+        "decoded": "i",
+        "intended": "h",
+        "required_cipher": "f",
+        "cover_word": "per",
+        "cover_initial": "p"
+      },
+      {
+        "position": 41,
+        "printed": "r",
+        "decoded": "t",
+        "intended": "r",
+        "required_cipher": "p",
+        "cover_word": "qua",
+        "cover_initial": "q"
+      },
+      {
+        "position": 42,
+        "printed": null,
+        "decoded": null,
+        "intended": "n",
+        "required_cipher": "l",
+        "cover_word": "nos",
+        "cover_initial": "n"
+      },
+      {
+        "position": 43,
+        "printed": null,
+        "decoded": null,
+        "intended": "o",
+        "required_cipher": "m",
+        "cover_word": null,
+        "cover_initial": null
+      },
+      {
+        "position": 44,
+        "printed": null,
+        "decoded": null,
+        "intended": "t",
+        "required_cipher": "r",
+        "cover_word": null,
+        "cover_initial": null
+      },
+      {
+        "position": 45,
+        "printed": null,
+        "decoded": null,
+        "intended": "h",
+        "required_cipher": "f",
+        "cover_word": null,
+        "cover_initial": null
+      }
+    ],
     "mapping": [
       {
         "plain": "a",
@@ -334,81 +855,76 @@
       },
       {
         "position": 27,
-        "cipher": "s",
-        "decoded": "v"
-      },
-      {
-        "position": 28,
         "cipher": "k",
         "decoded": "m"
       },
       {
-        "position": 29,
+        "position": 28,
         "cipher": "g",
         "decoded": "i"
       },
       {
-        "position": 30,
+        "position": 29,
         "cipher": "r",
         "decoded": "t"
       },
       {
-        "position": 31,
+        "position": 30,
         "cipher": "g",
         "decoded": "i"
       },
       {
-        "position": 32,
+        "position": 31,
         "cipher": "q",
         "decoded": "s"
       },
       {
-        "position": 33,
+        "position": 32,
         "cipher": "b",
         "decoded": "d"
       },
       {
-        "position": 34,
+        "position": 33,
         "cipher": "s",
         "decoded": "v"
       },
       {
-        "position": 35,
+        "position": 34,
         "cipher": "e",
         "decoded": "g"
       },
       {
-        "position": 36,
+        "position": 35,
         "cipher": "q",
         "decoded": "s"
       },
       {
-        "position": 37,
+        "position": 36,
         "cipher": "e",
         "decoded": "g"
       },
       {
-        "position": 38,
+        "position": 37,
         "cipher": "t",
         "decoded": "x"
       },
       {
-        "position": 39,
+        "position": 38,
         "cipher": "p",
         "decoded": "r"
       },
       {
-        "position": 40,
+        "position": 39,
         "cipher": "m",
         "decoded": "o"
       },
       {
-        "position": 41,
+        "position": 40,
         "cipher": "g",
         "decoded": "i"
       },
       {
-        "position": 42,
+        "position": 41,
         "cipher": "r",
         "decoded": "t"
       }

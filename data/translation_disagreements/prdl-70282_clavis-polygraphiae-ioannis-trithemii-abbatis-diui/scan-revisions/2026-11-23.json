@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "transcription_convention": "Cipher letters are copied from each edition. Editorial word division, long s and doubtful type are explained for the individual item.",
+  "items": {
+    "key-numeral-cipher": {
+      "normalized_latin": "Iaaihid ifeib, ieifeigeicchkib. cakeihid. i&kahk. gidibid. eigih. ieeigigh ibkig. &kif. iaaihifid, ibeicdaka eih. icei&kaib.",
+      "reason": "The type on C ii verso gives i&kahk, &kif and icei&kaib. C ii recto assigns the cipher group i& to q and the single ampersand to f. The open-foot h can be distinguished from the closed b in the same lines. The inter-group punctuation is regularized and the line breaks are represented by spaces. The unusual i&kahk is transcribed as printed. The source footer identifies HAB images 535 (key) and 536 (example), corpus images 529 and 530. The independently digitized BSB copy of this setting agrees.",
+      "image": {
+        "canvas": "https://diglib.hab.de/drucke/fb-128/start.htm?image=00536",
+        "label": "Basel 1518, sig. C ii verso",
+        "image_url": "https://diglib.hab.de/drucke/fb-128/00536.jpg",
+        "attribution": "Herzog August Bibliothek Wolfenbüttel",
+        "rights": [
+          "https://diglib.hab.de/nutzungshinweise.html"
+        ],
+        "download_date": "2026-11-23",
+        "path": "data/translation_disagreements/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/facsimiles/canvas-536.jpg",
+        "sha256": "cc2ac955bd79c91d38274311997a544e7d0d2690473ee03e117d5d5118d39840"
+      },
+      "crop": {
+        "canvas_number": 536,
+        "crop_path": "data/translation_disagreements/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/facsimiles/key-numeral-cipher.png",
+        "xywh": [
+          315,
+          285,
+          586,
+          108
+        ],
+        "sha256": "b6e514c13b08fa00ccc212a30ca34846684ab8b241a9f606f5f74011fb30f7cb"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "key-numeral-alphabet": {
+      "normalized_latin": "& : f (6); i& : q (16).",
+      "reason": "The numeral key assigns the bare ampersand to plaintext f (6) and i& to plaintext q (16). Both entries use the sign as part of the cipher.",
+      "image": {
+        "canvas": "https://diglib.hab.de/drucke/fb-128/start.htm?image=00535",
+        "label": "Basel 1518, sig. C ii recto, HAB 535",
+        "image_url": "https://diglib.hab.de/drucke/fb-128/00535.jpg",
+        "attribution": "Herzog August Bibliothek Wolfenbüttel",
+        "rights": [
+          "https://diglib.hab.de/nutzungshinweise.html"
+        ],
+        "download_date": "2026-11-23",
+        "path": "data/translation_disagreements/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/facsimiles/canvas-535.jpg",
+        "sha256": "9a1b04bed9a5803b775a363b8a0f6ca218f5516c7415df15f9aeb2f46e129147"
+      },
+      "crop": {
+        "canvas_number": 535,
+        "crop_path": "data/translation_disagreements/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/facsimiles/key-numeral-alphabet.png",
+        "xywh": [
+          200,
+          885,
+          474,
+          185
+        ],
+        "sha256": "8bdc32c1b88d7f4d8c22332b49015eed0b69de719d9f07b0d16ccbe2a30b910b"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    }
+  }
+}

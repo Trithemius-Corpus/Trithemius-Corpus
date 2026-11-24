@@ -1,0 +1,14 @@
+{
+  "13": {
+    "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00036941/canvas/13",
+    "label": "4r (0013)",
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00036941_00013/full/full/0/default.jpg",
+    "attribution": "Bayerische Staatsbibliothek",
+    "rights": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "download_date": "2026-11-18",
+    "path": "data/translation_disagreements/prdl-24385_liber-de-triplici-regione-claustralium-et/facsimiles/canvas-013.jpg",
+    "sha256": "e142f37d01b7557d23265a1b4fd8ad349e3b0e3fdffe4879131222a7a18a6c07"
+  }
+}

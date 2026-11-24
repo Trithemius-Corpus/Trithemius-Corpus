@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "transcription_convention": "Cipher letters are copied from each edition. Editorial word division, long s and doubtful type are explained for the individual item.",
+  "items": {
+    "key-numeral-cipher": {
+      "normalized_latin": "Iaaihid ifeib, ieifeigeicchkib. [c?]a[k?]eihid. i&kahk. gidibid. eigih. ieeigigh ib[k?]ig. &[k?]if. iaaihifid, ibeicda[k?]a. eih. icei&kaib.",
+      "reason": "This setting repeats a distinctive angular sort for k. The two clearer impressions flank ah in i&kahk, and the table prints i& for q and & for f. The type is faint in [c?]a[k?]eihid, ib[k?]ig, &[k?]if and ibeicda[k?]a. Brackets give suggested letters at those places. The scan supplies the previously missing eigih and ieeigigh. A line-end division is joined and separators are regularized.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00026190/canvas/52",
+        "label": "1550 printing, BSB image 52",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00026190_00052/full/full/0/default.jpg",
+        "attribution": "Bayerische Staatsbibliothek, München",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "download_date": "2026-11-23",
+        "path": "data/translation_disagreements/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/facsimiles/canvas-052.jpg",
+        "sha256": "de0df86ccc9e1b8405f1f3147322b773406e463c73200076977c783023723991"
+      },
+      "crop": {
+        "canvas_number": 52,
+        "crop_path": "data/translation_disagreements/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/facsimiles/key-numeral-cipher.png",
+        "xywh": [
+          379,
+          1628,
+          1153,
+          230
+        ],
+        "sha256": "859cbff98a79885641ecd8bb25ab0a714b778f0d9ebca1c35d6e21aa90033c36"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "key-numeral-alphabet": {
+      "normalized_latin": "& : f (6); i& : q (16).",
+      "reason": "The numeral key assigns the bare ampersand to plaintext f (6) and i& to plaintext q (16). Both entries use the sign as part of the cipher.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00026190/canvas/52",
+        "label": "1550 printing, BSB image 52",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00026190_00052/full/full/0/default.jpg",
+        "attribution": "Bayerische Staatsbibliothek, München",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "download_date": "2026-11-23",
+        "path": "data/translation_disagreements/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/facsimiles/canvas-052.jpg",
+        "sha256": "de0df86ccc9e1b8405f1f3147322b773406e463c73200076977c783023723991"
+      },
+      "crop": {
+        "canvas_number": 52,
+        "crop_path": "data/translation_disagreements/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/facsimiles/key-numeral-alphabet.png",
+        "xywh": [
+          355,
+          948,
+          1135,
+          417
+        ],
+        "sha256": "582695821c76928a0d016386ce050f511893fd8123ff9ddbd86800f5a9431c0d"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    }
+  }
+}

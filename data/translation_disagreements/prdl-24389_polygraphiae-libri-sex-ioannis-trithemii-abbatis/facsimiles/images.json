@@ -1,0 +1,14 @@
+{
+  "52": {
+    "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00026190/canvas/52",
+    "label": "1550 printing, BSB image 52",
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00026190_00052/full/full/0/default.jpg",
+    "attribution": "Bayerische Staatsbibliothek, München",
+    "rights": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "download_date": "2026-11-23",
+    "path": "data/translation_disagreements/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/facsimiles/canvas-052.jpg",
+    "sha256": "de0df86ccc9e1b8405f1f3147322b773406e463c73200076977c783023723991"
+  }
+}

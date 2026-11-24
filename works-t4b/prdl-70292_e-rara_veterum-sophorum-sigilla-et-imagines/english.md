@@ -63,10 +63,9 @@ the wondrous erection of the signature of Mercury.
 By the authors
 Zoroaster, the Chaldaean.
 Solomon, king of the Jews.
-Raphael, the Jew.
-Chael, the Egyptian.
-Hermes, the Persian.
-Thetel.
+Raphael and Chael, Jews.
+Hermes, the Egyptian.
+Thetel, the Persian.
 
 Drawn from the manuscript of Johannes Trithemius.
 They are published

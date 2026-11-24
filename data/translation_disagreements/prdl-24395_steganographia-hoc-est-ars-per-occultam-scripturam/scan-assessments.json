@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "transcription_convention": "Normalized reading of the cited type. Long s is written s. Word division and line-end joins are recorded where they affect the reading.",
+  "items": {
+    "camuel-rubric": {
+      "normalized_latin": "Schw. Roth. S. R. R. R. R. R. R. R.",
+      "reason": "The heading has Schw., Roth., S. and seven R marks above the five name-and-number columns. No color assignments beyond the visible labels can be verified from this grayscale copy.",
+      "image": {
+        "canvas": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/canvas/f21",
+        "label": "bpt6k5832538j, f21, printed p. 12",
+        "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/f21/full/full/0/native.jpg",
+        "attribution": "Bibliothèque nationale de France, Gallica",
+        "rights": [
+          "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica"
+        ],
+        "review_date": "2026-11-23",
+        "source_note": "Full-page WebP from the archived corpus derivative of Gallica f21. Coordinates refer to that 1400-pixel-wide derivative.",
+        "path": "data/translation_disagreements/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/facsimiles/canvas-021.webp",
+        "sha256": "c90e9be30b505c78fa4d9ed8ac0a63a96c99adc1e909a9617fbc4b9aacc47909",
+        "published_corpus_page": 21
+      },
+      "crop": {
+        "canvas_number": 21,
+        "crop_path": "data/translation_disagreements/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/facsimiles/camuel-rubric.png",
+        "xywh": [
+          150,
+          280,
+          1150,
+          69
+        ],
+        "sha256": "c60e8ab5b52541d38ec59989c0a146b997e231639e39f727b2e81ba5f87b9588"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented",
+      "confidence": "AI visual collation against the cited page. The reason records any uncertainty specific to this reading."
+    },
+    "camuel-table": {
+      "normalized_latin": "Orpeniel 10. Citgara 100. Daniel 10. Dobiel 100. Azimo 10. / Camyel 100. Pariel 10. Omyel 10. Nodar 10. Tediel 0. / Budiel 10. Cariel 10. Asiniel 100. Phaniel 10. Moriel 0. / Elcar 10. Neriel 10. Calym 100. Meras 100. Tugaros 0.",
+      "reason": "All twenty names and counts were read across four rows. Six entries have 100, eleven have 10, and Tediel, Moriel and Tugaros have 0. The second row begins Camyel. An irregular mark follows Citgara’s 100 in the impression.",
+      "image": {
+        "canvas": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/canvas/f21",
+        "label": "bpt6k5832538j, f21, printed p. 12",
+        "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/f21/full/full/0/native.jpg",
+        "attribution": "Bibliothèque nationale de France, Gallica",
+        "rights": [
+          "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica"
+        ],
+        "review_date": "2026-11-23",
+        "source_note": "Full-page WebP from the archived corpus derivative of Gallica f21. Coordinates refer to that 1400-pixel-wide derivative.",
+        "path": "data/translation_disagreements/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/facsimiles/canvas-021.webp",
+        "sha256": "c90e9be30b505c78fa4d9ed8ac0a63a96c99adc1e909a9617fbc4b9aacc47909",
+        "published_corpus_page": 21
+      },
+      "crop": {
+        "canvas_number": 21,
+        "crop_path": "data/translation_disagreements/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/facsimiles/camuel-table.png",
+        "xywh": [
+          193,
+          345,
+          1110,
+          195
+        ],
+        "sha256": "ab65315595eb32f5d80e288d9b7c9ef07a789a538aee2ba66773429f4391761d"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented",
+      "confidence": "AI visual collation against the cited page. The reason records any uncertainty specific to this reading."
+    },
+    "camuel-marginal": {
+      "normalized_latin": "*Magis videbatur legendum Noctar. *Nodar 10.",
+      "reason": "The asterisk links the marginal suggestion Noctar to the printed table entry Nodar. The table retains Nodar.",
+      "image": {
+        "canvas": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/canvas/f21",
+        "label": "bpt6k5832538j, f21, printed p. 12",
+        "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/f21/full/full/0/native.jpg",
+        "attribution": "Bibliothèque nationale de France, Gallica",
+        "rights": [
+          "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica"
+        ],
+        "review_date": "2026-11-23",
+        "source_note": "Full-page WebP from the archived corpus derivative of Gallica f21. Coordinates refer to that 1400-pixel-wide derivative.",
+        "path": "data/translation_disagreements/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/facsimiles/canvas-021.webp",
+        "sha256": "c90e9be30b505c78fa4d9ed8ac0a63a96c99adc1e909a9617fbc4b9aacc47909",
+        "published_corpus_page": 21
+      },
+      "crop": {
+        "canvas_number": 21,
+        "crop_path": "data/translation_disagreements/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/facsimiles/camuel-marginal.png",
+        "xywh": [
+          10,
+          346,
+          1110,
+          117
+        ],
+        "sha256": "0c5c61fb084f5466f69ffba3ad175d1e6d7ca6a4d035993576474503420f8591"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented",
+      "confidence": "AI visual collation against the cited page. The reason records any uncertainty specific to this reading."
+    },
+    "camuel-formula": {
+      "normalized_latin": "Camuel aperoys, melym meuomanial, casmoyn cralti busaco aeli lumar photytion theor besamys, aneal Cabelonyr thiamo vesonthy.",
+      "reason": "The complete formula contains sixteen words. The t after y in photytion has the same type as the t before y. Long s is normalized in casmoyn, busaco and besamys. The print separates aeli and lumar and divides aneal at the line break. No conjectural decoding was used.",
+      "image": {
+        "canvas": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/canvas/f21",
+        "label": "bpt6k5832538j, f21, printed p. 12",
+        "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/f21/full/full/0/native.jpg",
+        "attribution": "Bibliothèque nationale de France, Gallica",
+        "rights": [
+          "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica"
+        ],
+        "review_date": "2026-11-23",
+        "source_note": "Full-page WebP from the archived corpus derivative of Gallica f21. Coordinates refer to that 1400-pixel-wide derivative.",
+        "path": "data/translation_disagreements/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/facsimiles/canvas-021.webp",
+        "sha256": "c90e9be30b505c78fa4d9ed8ac0a63a96c99adc1e909a9617fbc4b9aacc47909",
+        "published_corpus_page": 21
+      },
+      "crop": {
+        "canvas_number": 21,
+        "crop_path": "data/translation_disagreements/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/facsimiles/camuel-formula.png",
+        "xywh": [
+          162,
+          921,
+          1145,
+          162
+        ],
+        "sha256": "eb504dd5fec73c7b4cd79aae475e8c3dae8f355a4ba6e0e3d59e6afc57a3528c"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented",
+      "confidence": "AI visual collation against the cited page. The reason records any uncertainty specific to this reading."
+    }
+  }
+}

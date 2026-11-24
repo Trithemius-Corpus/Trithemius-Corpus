@@ -102,3 +102,61 @@ The remaining ~11,000 are genuinely damaged text where no model or method could 
   illegible, but the content (the twelfth dwelling, Cabariel/Circius chapter) is positionally correct,
   bracketed by mansio-chapter Latin in segments 22 and 25-26, and its conjuration repetition is
   source-backed (segment 25 carries the Cabariel formula three times).
+
+## 2026-11-23 · camuel-rubric
+
+The heading has Schw., Roth., S. and seven R marks above the five name-and-number columns. No color assignments beyond the visible labels can be verified from this grayscale copy. AI scan collation. No human verification of this correction is documented.
+
+Previous wording: Schw. Roth. S. R. R. R. X. R. R.
+
+Revised wording: Schw. Roth. S. R. R. R. R. R. R. R.
+
+*Schw. Roth. S. R. R. R. R. R. R. R.*. [Bibliothèque nationale de France, Gallica, bpt6k5832538j, f21, printed p. 12](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/f21/full/full/0/native.jpg).
+
+
+## 2026-11-23 · camuel-table
+
+<span id="a-en-0010-0005-001"></span>
+
+All twenty names and counts were read across four rows. Six entries have 100, eleven have 10, and Tediel, Moriel and Tugaros have 0. The second row begins Camyel. An irregular mark follows Citgara’s 100 in the impression. AI scan collation. No human verification of this correction is documented.
+
+Previous wording: Rather, see Orpeniel 10.
+
+Revised wording: Orpeniel 10.
+
+*Orpeniel 10. Citgara 100. Daniel 10. Dobiel 100. Azimo 10. / Camyel 100. Pariel 10. Omyel 10. Nodar 10. Tediel 0. / Budiel 10. Cariel 10. Asiniel 100. Phaniel 10. Moriel 0. / Elcar 10. Neriel 10. Calym 100. Meras 100. Tugaros 0.*. [Bibliothèque nationale de France, Gallica, bpt6k5832538j, f21, printed p. 12](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/f21/full/full/0/native.jpg).
+
+
+## 2026-11-23 · camuel-marginal
+
+The asterisk links the marginal suggestion Noctar to the printed table entry Nodar. The table retains Nodar. AI scan collation. No human verification of this correction is documented.
+
+Previous wording: It was to be read Noctar.
+
+Revised wording: The marginal note suggests reading Noctar for Nodar.
+
+**Magis videbatur legendum Noctar. *Nodar 10.*. [Bibliothèque nationale de France, Gallica, bpt6k5832538j, f21, printed p. 12](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/f21/full/full/0/native.jpg).
+
+
+## 2026-11-23 · camuel-table
+
+All twenty names and counts were read across four rows. Six entries have 100, eleven have 10, and Tediel, Moriel and Tugaros have 0. The second row begins Camyel. An irregular mark follows Citgara’s 100 in the impression. AI scan collation. No human verification of this correction is documented.
+
+Previous wording: Camuel 100. Pariel 10. Omyel 10.
+
+Revised wording: Camyel 100. Pariel 10. Omyel 10.
+
+*Orpeniel 10. Citgara 100. Daniel 10. Dobiel 100. Azimo 10. / Camyel 100. Pariel 10. Omyel 10. Nodar 10. Tediel 0. / Budiel 10. Cariel 10. Asiniel 100. Phaniel 10. Moriel 0. / Elcar 10. Neriel 10. Calym 100. Meras 100. Tugaros 0.*. [Bibliothèque nationale de France, Gallica, bpt6k5832538j, f21, printed p. 12](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/f21/full/full/0/native.jpg).
+
+
+## 2026-11-23 · camuel-formula
+
+The complete formula contains sixteen words. The t after y in photytion has the same type as the t before y. Long s is normalized in casmoyn, busaco and besamys. The print separates aeli and lumar and divides aneal at the line break. No conjectural decoding was used. AI scan collation. No human verification of this correction is documented.
+
+Previous wording: Camuel a eralti bufaco aeli lum ar photyrion theor besamys, aneal Cabelonyr thiamo vesonthy.
+
+Revised wording: Camuel aperoys, melym meuomanial, casmoyn cralti busaco aeli lumar photytion theor besamys, aneal Cabelonyr thiamo vesonthy.
+
+*Camuel aperoys, melym meuomanial, casmoyn cralti busaco aeli lumar photytion theor besamys, aneal Cabelonyr thiamo vesonthy.*. [Bibliothèque nationale de France, Gallica, bpt6k5832538j, f21, printed p. 12](https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/f21/full/full/0/native.jpg).
+
+The original structured display reduced six hundreds to tens. All four rows have been compared with the image. The highest count occurs at Citgara, Dobiel, Camyel, Asiniel, Calym and Meras. The final column has three zeros. The grayscale facsimile shows the abbreviated color headings. Its pixels do not resolve historical ink colors for individual entries. [Darmstadt 1621, Gallica f21, printed p. 12](https://gallica.bnf.fr/ark:/12148/bpt6k5832538j/f21.item)

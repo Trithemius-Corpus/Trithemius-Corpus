@@ -30,3 +30,13 @@ Segment 136 reprinted the closing prophecy material after the genuine FINIS (chu
 ## 2026-07-11 — crypto-occult spot-check fixes
 
 - Swept two straggler OCR variant tokens ("CHEMICS", "CHEMIES") that survived immediately before the 2026-07-09 CHEMISTRS-loop removal note in latin-ocr.txt segment 120.
+
+## 2026-11-23 · key-numeral-cipher
+
+This separately set copy prints i&kabk and cakeibid. The rounded b in both groups has the same returning foot as b in gidibid. The 1518 copy has h at these places. The initial tall sort in laaihid is retained as l. The printed space in & kif is retained, and the printed line-end division iaa- / ihifid is joined. The preceding table prints i& for q and & for f. AI visual collation. Human review is undocumented.
+
+Previous wording: laaihid ifeib, ieifeigeicchkib, cakeibid. i kahb gidibid. eigih ieeigigh .kif. iaahiﬁd ibeidaka.eih. iceikai b.
+
+Revised wording: laaihid ifeib, ieifeigeicchkib, cakeibid. i&kabk. gidibid. eigih ieeigigh ibkig. & kif. iaaihifid ibeicdaka. eih. icei&kaib.
+
+[Bayerische Staatsbibliothek, München, Strasbourg 1600, printed p. 77](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00038431_00081/full/full/0/default.jpg) · [Numeral alphabet](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00038431_00080/full/full/0/default.jpg)

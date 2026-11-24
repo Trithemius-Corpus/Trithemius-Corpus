@@ -1,0 +1,24 @@
+{
+  "key-numeral-cipher": {
+    "canvas_number": 52,
+    "crop_path": "data/translation_disagreements/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/facsimiles/key-numeral-cipher.png",
+    "xywh": [
+      379,
+      1628,
+      1153,
+      230
+    ],
+    "sha256": "859cbff98a79885641ecd8bb25ab0a714b778f0d9ebca1c35d6e21aa90033c36"
+  },
+  "key-numeral-alphabet": {
+    "canvas_number": 52,
+    "crop_path": "data/translation_disagreements/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/facsimiles/key-numeral-alphabet.png",
+    "xywh": [
+      355,
+      948,
+      1135,
+      417
+    ],
+    "sha256": "582695821c76928a0d016386ce050f511893fd8123ff9ddbd86800f5a9431c0d"
+  }
+}

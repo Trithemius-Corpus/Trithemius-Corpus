@@ -5,6 +5,7 @@ from __future__ import annotations
 import csv
 import json
 import re
+from itertools import zip_longest
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -25,11 +26,23 @@ def load_and_compute(path: Path = SOURCE) -> dict:
     inverse = {pair[1]: pair[0] for pair in pairs}
     if "".join(pair[1] for pair in pairs) != alphabet[-2:] + alphabet[:-2]:
         raise ValueError("The pairs disagree with the second-preceding rule on p. 56")
-    extracted = "".join(re.findall(r"[a-z]", data["cipher_stream"]["transcription"].lower()))
+    lines = data["cipher_stream"]["printed_lines"]
+    tokens = " ".join(lines).lower().replace("ſ", "s").split()
+    if len(lines) != 2 or any(len(token) != 1 or token not in alphabet for token in tokens):
+        raise ValueError("Each significant type must be one letter of the printed alphabet")
+    extracted = "".join(tokens)
+    if ".".join(tokens) != data["cipher_stream"]["transcription"]:
+        raise ValueError("The normalized transcription differs from the printed letter lines")
+    intended = re.sub(r"[^a-z]", "", data["intentio"]["diplomatic"].lower().replace("u", "v"))
+    if intended != data["intentio"]["normalized_letters"]:
+        raise ValueError("German comparison text differs from its stated normalization")
     positions = data["cover"]["significant_positions"]
     if positions != list(range(2, len(data["cover"]["tokens"]) + 1, 2)):
         raise ValueError("Modus II begins with an empty word and takes alternate initials")
-    cover_initials = "".join(data["cover"]["tokens"][position - 1][0].lower() for position in positions)
+    cover_words = [data["cover"]["tokens"][position - 1] for position in positions]
+    cover_initials = "".join(word[0].lower() for word in cover_words)
+    forward = dict(pairs)
+    required = "".join(forward[letter] for letter in intended)
     decoded = "".join(inverse[letter] for letter in extracted)
     if extracted != data["extraction"]["result"]:
         raise ValueError("committed extraction result is not recomputable")
@@ -38,7 +51,16 @@ def load_and_compute(path: Path = SOURCE) -> dict:
     data["computed"] = {
         "extracted": extracted,
         "decoded": decoded,
-        "cover_sample_initials": cover_initials,
+        "cover_sample_initials": cover_initials[:7],
+        "cover_initials": cover_initials,
+        "cover_decoded": "".join(inverse[letter] for letter in cover_initials),
+        "cipher_for_intentio": required,
+        "comparison": [
+            {"position": pos, "printed": actual, "decoded": read, "intended": want,
+             "required_cipher": cipher, "cover_word": word, "cover_initial": initial}
+            for pos, (actual, read, want, cipher, word, initial) in enumerate(
+                zip_longest(extracted, decoded, intended, required, cover_words, cover_initials), 1)
+        ],
         "mapping": [{"plain": p[0], "cipher": p[1]} for p in pairs],
         "rows": [
             {"position": index, "cipher": cipher, "decoded": plain}

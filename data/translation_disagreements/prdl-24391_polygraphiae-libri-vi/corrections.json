@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24391_polygraphiae-libri-vi",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI visual collation against the credited printed copy and the stored scan regions.",
+  "changes": [
+    {
+      "item_id": "key-numeral-cipher",
+      "track": "earlier",
+      "passage": "p-en-0025-0004",
+      "before": "laaihid ifeib, ieifeigeicchkib, cakeibid. i kahb gidibid. eigih ieeigigh .kif. iaahiﬁd ibeidaka.eih. iceikai b.",
+      "after": "laaihid ifeib, ieifeigeicchkib, cakeibid. i&kabk. gidibid. eigih ieeigigh ibkig. & kif. iaaihifid ibeicdaka. eih. icei&kaib.",
+      "files": [
+        "works/prdl-24391_polygraphiae-libri-vi/english.md",
+        "works/prdl-24391_polygraphiae-libri-vi/chunks/full_chunk_0025.md"
+      ],
+      "supporting_scans": [
+        "key-numeral-alphabet"
+      ]
+    },
+    {
+      "item_id": "key-numeral-cipher",
+      "track": "t4b",
+      "passage": "p-t4b-3ac4b5c9122c42e7",
+      "before": "laaibid ifeib, ieifeigeicckhib, cakeibid. i et kabb. gidbhid. eigih ieeigigh ibkig. & kif. iaaibifhid ibeicdaka. eih. icei et kaib.",
+      "after": "laaihid ifeib, ieifeigeicchkib, cakeibid. i&kabk. gidibid. eigih ieeigigh ibkig. & kif. iaaihifid ibeicdaka. eih. icei&kaib.",
+      "files": [
+        "works-t4b/prdl-24391_polygraphiae-libri-vi/english.md",
+        "works-t4b/prdl-24391_polygraphiae-libri-vi/chunks/full_chunk_0028.md"
+      ],
+      "supporting_scans": [
+        "key-numeral-alphabet"
+      ],
+      "rendered_anchor_after": "p-t4b-79db9d442748786b"
+    }
+  ],
+  "metadata_edits": [
+    {
+      "path": "works/prdl-24391_polygraphiae-libri-vi/english.md",
+      "before": "> Machine-assisted English translation. Work `prdl-24391_polygraphiae-libri-vi`. Tier S · faithful 4.74 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.",
+      "after": "> Machine-assisted English translation. Work `prdl-24391_polygraphiae-libri-vi`. The machine audit predates the local AI corrections of 2026-11-23. Historical tier S · faithful 4.74 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`."
+    }
+  ],
+  "files": [
+    {
+      "path": "works/prdl-24391_polygraphiae-libri-vi/english.md",
+      "before_path": "data/translation_disagreements/prdl-24391_polygraphiae-libri-vi/snapshots/before-2026-11-23/works/prdl-24391_polygraphiae-libri-vi/english.md",
+      "before_sha256": "90eb0f5236dc03387bbe96ee79d94f86549b4838a28de5e1e53fd910a3083d0c",
+      "after_sha256": "2fd13d9f75ca5bf68122e743aa0b939e2279150af56708341fec80562a842de6"
+    },
+    {
+      "path": "works/prdl-24391_polygraphiae-libri-vi/chunks/full_chunk_0025.md",
+      "before_path": "data/translation_disagreements/prdl-24391_polygraphiae-libri-vi/snapshots/before-2026-11-23/works/prdl-24391_polygraphiae-libri-vi/chunks/full_chunk_0025.md",
+      "before_sha256": "e402d30bf358bb8805bd6cd9080e994f31dc52b3ddb113c7965add9539c3420c",
+      "after_sha256": "863d5714bcbbef97b7aee7d3b87284e93d2e2e61ff1596e35f4620c2f97bf8f9"
+    },
+    {
+      "path": "works-t4b/prdl-24391_polygraphiae-libri-vi/english.md",
+      "before_path": "data/translation_disagreements/prdl-24391_polygraphiae-libri-vi/snapshots/before-2026-11-23/works-t4b/prdl-24391_polygraphiae-libri-vi/english.md",
+      "before_sha256": "628d3e04c9995b14dcd45cc77ab21a5685b4cbf0ad663c1a204d567e2b3ca451",
+      "after_sha256": "1cbc3266fd28a4d3da1e66e367d612717c2040e5dc758a1e5d6701299f36d84b"
+    },
+    {
+      "path": "works-t4b/prdl-24391_polygraphiae-libri-vi/chunks/full_chunk_0028.md",
+      "before_path": "data/translation_disagreements/prdl-24391_polygraphiae-libri-vi/snapshots/before-2026-11-23/works-t4b/prdl-24391_polygraphiae-libri-vi/chunks/full_chunk_0028.md",
+      "before_sha256": "3bb26e812eaa979f4f4a8f2f37ee1ee91d41daa092573866257711c8ebec4b98",
+      "after_sha256": "5fc56b4a2a7a09dd641b8d241ce6d92de94f29de9a8a3b490a1eb4a971015fe4"
+    }
+  ]
+}

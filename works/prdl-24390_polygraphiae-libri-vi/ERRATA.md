@@ -40,3 +40,36 @@ Chunk 028 of the Ave Maria cipher word-bank contained a line where the OCR had r
 ## 2026-07-11 — crypto-occult spot-check fixes
 
 - Applied the previously documented resolution "abbot of [unclear]" -> "abbot of Saint James of Würzburg" to the chunk 0001 title line and the chunk 0111 colophon (removing the half-applied gloss "that is, Würzburg, at St. James"); the 2026-06-19 entry described these fixes but they had not landed in the files.
+
+## 2026-11-23 · polygraphia-austrasia
+
+The s entry in the left column is the historical region Austrasia, in the accusative. The neighbouring entries are Gascony and Gaul. AI scan collation. No human verification of this correction is documented.
+
+Previous wording: s Australia
+
+Revised wording: s Austrasia
+
+*r gasconiam, s austrasiam, t galliam*. [Bayerische Staatsbibliothek, München, bsb00029406, canvas 186, corpus image 187](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029406_00186/full/1000,/0/default.jpg).
+
+
+## 2026-11-23 · polygraphia-belgica
+
+The q entry in the right column is Belgica. It was missing from the English, shifting the later right-hand entries out of alignment with the letters in the left-hand column. AI scan collation. No human verification of this correction is documented.
+
+Previous wording: p [unclear] r Navarre
+
+Revised wording: p [unclear] q Belgica r Navarre
+
+*p buconiam, q belgicam, r nauarram*. [Bayerische Staatsbibliothek, München, bsb00029406, canvas 186, corpus image 187](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029406_00186/full/1000,/0/default.jpg).
+
+The exact image for this geography table is BSB canvas 186, corresponding to corpus image 187. The earlier OCR reading *australia* is preserved in the archived transcription. The corrected English and the cited image identify *austrasiam* at left s and *belgicam* at right q. [Basel 1518, BSB canvas 186](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029406_00186/full/1000,/0/default.jpg)
+
+## 2026-11-23 · key-numeral-cipher
+
+The type on C ii verso gives i&kahk, &kif and icei&kaib. C ii recto assigns the cipher group i& to q and the single ampersand to f. The open-foot h can be distinguished from the closed b in the same lines. The inter-group punctuation is regularized and the line breaks are represented by spaces. The unusual i&kahk is transcribed as printed. The BSB copy agrees with HAB Fb 128 on these letters. The dot or small stroke following ibeicdaka is treated as a separator. AI visual collation. Human review is undocumented.
+
+Previous wording: Iaaibid ifeib, ieifeigeicbkib. cakeibid. ikabk. gidibid. eigih. iceigigh ibkig. kif. iaaihifid, ibeicdakaieb. icei kaib.
+
+Revised wording: Iaaihid ifeib, ieifeigeicchkib. cakeihid. i&kahk. gidibid. eigih. ieeigigh ibkig. &kif. iaaihifid, ibeicdaka eih. icei&kaib.
+
+[Bayerische Staatsbibliothek, München, Basel 1518, sig. C ii verso](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029406_00536/full/full/0/default.jpg) · [Numeral alphabet](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029406_00535/full/full/0/default.jpg)

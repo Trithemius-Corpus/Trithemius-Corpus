@@ -1,0 +1,13 @@
+{
+  "sigilla-title-authors": {
+    "canvas_number": 9,
+    "crop_path": "data/translation_disagreements/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/facsimiles/sigilla-title-authors.png",
+    "xywh": [
+      147,
+      1095,
+      682,
+      391
+    ],
+    "sha256": "db4799c1053f601a06baefbfc41f29c53bd7d5a08c69111d5bef22cf77239cd3"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24391_polygraphiae-libri-vi",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "transcription_convention": "Cipher letters are copied from each edition. Editorial word division, long s and doubtful type are explained for the individual item.",
+  "items": {
+    "key-numeral-cipher": {
+      "normalized_latin": "laaihid ifeib, ieifeigeicchkib, cakeibid. i&kabk. gidibid. eigih ieeigigh ibkig. & kif. iaaihifid ibeicdaka. eih. icei&kaib.",
+      "reason": "This separately set copy prints i&kabk and cakeibid. The rounded b in both groups has the same returning foot as b in gidibid. The 1518 copy has h at these places. The initial tall sort in laaihid is retained as l. The printed space in & kif is retained, and the printed line-end division iaa- / ihifid is joined. The preceding table prints i& for q and & for f.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00038431/canvas/81",
+        "label": "Strasbourg 1600, printed p. 77",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00038431_00081/full/full/0/default.jpg",
+        "attribution": "Bayerische Staatsbibliothek, München",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "download_date": "2026-11-23",
+        "path": "data/translation_disagreements/prdl-24391_polygraphiae-libri-vi/facsimiles/canvas-081.jpg",
+        "sha256": "2cd97692330888ba1bbbe6b1fd315d2608753aee3111ad30aa2928727e1024ce"
+      },
+      "crop": {
+        "canvas_number": 81,
+        "crop_path": "data/translation_disagreements/prdl-24391_polygraphiae-libri-vi/facsimiles/key-numeral-cipher.png",
+        "xywh": [
+          8,
+          422,
+          866,
+          230
+        ],
+        "sha256": "5298653e7fa5fdac9d17e65761ebf46b5361cb2260bd1d3db66f7f725e3ff7ac"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "key-numeral-alphabet": {
+      "normalized_latin": "& : f (6); i& : q (16).",
+      "reason": "The numeral key assigns the bare ampersand to plaintext f (6) and i& to plaintext q (16). Both entries use the sign as part of the cipher.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00038431/canvas/80",
+        "label": "Strasbourg 1600, printed p. 76",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00038431_00080/full/full/0/default.jpg",
+        "attribution": "Bayerische Staatsbibliothek, München",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "download_date": "2026-11-23",
+        "path": "data/translation_disagreements/prdl-24391_polygraphiae-libri-vi/facsimiles/canvas-080.jpg",
+        "sha256": "c29afd094d449054417d9c607ba63024ecd0aa5b0b2a805a398957cf72863b5a"
+      },
+      "crop": {
+        "canvas_number": 80,
+        "crop_path": "data/translation_disagreements/prdl-24391_polygraphiae-libri-vi/facsimiles/key-numeral-alphabet.png",
+        "xywh": [
+          201,
+          1080,
+          883,
+          338
+        ],
+        "sha256": "d4ab551edf7fdae6c8b2b15172d1499c8974a071556991e767ea533c0770209e"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    }
+  }
+}

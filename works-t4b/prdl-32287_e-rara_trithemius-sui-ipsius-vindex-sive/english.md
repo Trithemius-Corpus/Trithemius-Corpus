@@ -604,7 +604,7 @@ Steganography of Trithemius
 
 do not understand. I have as yet written nothing about which anyone could deservedly marvel; I have done nothing astonishing; and yet I suffer the opinion of the crowd, since many think me a MAGICIAN, asserting that I have raised the dead, summoned demons from the underworld, foretold the future, brought back thieves by incantations, and bound robbers. All these things are INVENTED and FALSE; I have never done them, nor have I ever thought of them.” And a little later: “What do you think the foolish rashness of unlearned men in the future will suppose about me, when I have brought the Steganography into the light, since it has fabricated such lies about me when it has not yet seen any secret? Although, with my conscience as witness, I do not regard these prattlings of the ignorant as important, nevertheless I do not intend to give occasion for evil suspicion, so far as possible.”
 
-And see how conscious of right his mind was, and how much good Trithemius feared for himself, lest by this work of his he offend anyone, especially the unlearned and inexperienced, who dare to pass an unfavorable judgment on such good and holy studies.
+And see how conscious of right his mind was, and how deeply the good Trithemius feared for himself, lest by this work of his he offend anyone, especially the unlearned and inexperienced, who dare to pass an unfavorable judgment on such good and holy studies.
 
 [segment 14]
 --- Page 053 ---

@@ -1,0 +1,13 @@
+{
+  "region-zurich-omission": {
+    "canvas_number": 11,
+    "crop_path": "data/translation_disagreements/prdl-70285_e-rara_de-triplici-regione-claustralium-et/facsimiles/region-zurich-omission.png",
+    "xywh": [
+      260,
+      254,
+      1068,
+      1202
+    ],
+    "sha256": "2f893fea4083d163c98d180ce14516efdc4e2e4432ddeebd58c001e99720cbb6"
+  }
+}
