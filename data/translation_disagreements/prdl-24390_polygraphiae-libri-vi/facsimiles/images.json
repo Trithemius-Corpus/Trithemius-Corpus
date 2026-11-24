@@ -1,0 +1,39 @@
+{
+  "186": {
+    "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00029406/canvas/186",
+    "label": "bsb00029406, canvas 186, corpus image 187",
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029406_00186/full/1000,/0/default.jpg",
+    "attribution": "Bayerische Staatsbibliothek, München",
+    "rights": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "review_date": "2026-11-23",
+    "source_note": "Institutional image downloaded at 1000 pixels wide on 23 November 2026. Compared with archived corpus image 187.",
+    "path": "data/translation_disagreements/prdl-24390_polygraphiae-libri-vi/facsimiles/canvas-186.jpg",
+    "sha256": "504a6e0fcc13a4be37b4678577215053359fe0d861caa9f92e535724b8ace6a6"
+  },
+  "536": {
+    "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00029406/canvas/536",
+    "label": "Basel 1518, sig. C ii verso",
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029406_00536/full/full/0/default.jpg",
+    "attribution": "Bayerische Staatsbibliothek, München",
+    "rights": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "download_date": "2026-11-23",
+    "path": "data/translation_disagreements/prdl-24390_polygraphiae-libri-vi/facsimiles/canvas-536.jpg",
+    "sha256": "2acd51677663394c5b012e34d9411e34ae50871295ca6235bf2f44da6d35c427"
+  },
+  "535": {
+    "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00029406/canvas/535",
+    "label": "Basel 1518, sig. C ii recto, BSB 535",
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029406_00535/full/full/0/default.jpg",
+    "attribution": "Bayerische Staatsbibliothek, München",
+    "rights": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "download_date": "2026-11-23",
+    "path": "data/translation_disagreements/prdl-24390_polygraphiae-libri-vi/facsimiles/canvas-535.jpg",
+    "sha256": "4ee491943a38fd4a27f407dbc0eca951e338b44a1c482205adef9a0fbd1c46ed"
+  }
+}

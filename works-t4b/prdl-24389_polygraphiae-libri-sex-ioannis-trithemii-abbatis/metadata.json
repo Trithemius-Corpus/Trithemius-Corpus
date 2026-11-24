@@ -32,5 +32,11 @@
   "ocr_engine": "qwen3vl-4b-trithemius-q6 (Trithemius LoRA)",
   "translator": "gpt-5.5 (dual-context)",
   "canonical_backend": "qwen3vl-trithemius-q6-dual-gpt55",
-  "source_work_id": "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis"
+  "source_work_id": "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis",
+  "ai_corrections": {
+    "date": "2026-11-23",
+    "count": 1,
+    "human_review": "none_documented",
+    "note": "The dated edition errata identify the scan-supported AI corrections. Historical machine grades predate these readings."
+  }
 }

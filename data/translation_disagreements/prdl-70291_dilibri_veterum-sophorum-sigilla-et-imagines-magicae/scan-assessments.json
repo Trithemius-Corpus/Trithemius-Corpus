@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae",
+  "date": "2026-11-18",
+  "human_review": "none_documented",
+  "transcription_convention": "Selected printed clauses with abbreviations expanded. Ellipses mark omissions.",
+  "items": {
+    "sigilla-title-authors": {
+      "normalized_latin": "Salomone, Rege Iudaeorum; Raphaele, Chaele, Iudaeis; Hermete, Aegyptio; Thetele, Persa.",
+      "reason": "The title gives Solomon’s title in full. In the two-column list the plural Iudaeis groups Raphael and Chael. Aegyptio aligns with Hermes and Persa with Thetel. These are the identifications printed in this witness.",
+      "image": {
+        "canvas": "https://www.dilibri.de/i3f/v20/466737/canvas/466744",
+        "label": "[5]",
+        "image_url": "https://www.dilibri.de/i3f/v20/466744/full/full/0/default.jpg",
+        "attribution": "Stadtbibliothek Trier, Dilibri",
+        "rights": [
+          "https://creativecommons.org/licenses/by-nc-sa/3.0/"
+        ],
+        "download_date": "2026-11-18",
+        "rights_record": "https://www.dilibri.de/oai?verb=GetRecord&metadataPrefix=mets&identifier=466737",
+        "rights_note": "The full page and the unretouched rectangular crop are credited to Stadtbibliothek Trier via Dilibri, CC BY-NC-SA 3.0.",
+        "path": "data/translation_disagreements/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/facsimiles/canvas-005.jpg",
+        "sha256": "42e547cb672320a5c0afdb155b34505b50c766d409fbad3f663ebbcaa8713e86"
+      },
+      "crop": {
+        "canvas_number": 5,
+        "crop_path": "data/translation_disagreements/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/facsimiles/sigilla-title-authors.png",
+        "xywh": [
+          200,
+          1225,
+          775,
+          446
+        ],
+        "sha256": "934e67e181f515e86fb9d0790cbf7091c8e17df7dec48eabbb55564909174ecb"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    }
+  }
+}

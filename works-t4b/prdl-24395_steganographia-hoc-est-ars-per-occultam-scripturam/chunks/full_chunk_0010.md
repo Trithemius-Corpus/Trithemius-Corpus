@@ -2,16 +2,16 @@
 12 OF STEGANOGRAPHY
 preside over the day, and how many substitutes each one of them has, and likewise concerning the nocturnal ones. To know this perfectly, you will consider the present table.
 
-Schw. Roth. S. R. R. R. X. R. R.
+Schw. Roth. S. R. R. R. R. R. R. R.
 
-Rather, it seemed it should be read Noctar.
+The marginal note suggests reading Noctar for Nodar.
 
 Orpeniel 10. Citgara 100. Daniel 10. Dobiel 100. Azimo 10.
-Camuel 100. Pariel 10. Omyel 10. Nodar 10. Tediel 0.
+Camyel 100. Pariel 10. Omyel 10. Nodar 10. Tediel 0.
 Budiel 10. Cariel 10. Asiniel 100. Phaniel 10. Moriel 0.
 Elcar 10. Neriel 10. Calym 100. Meras 100. Tugaros 0.
 
-Here in the table you have the ten angels of Camuel who preside over the day, with their substitutes in number, and as many who preside over the night, also with their own sub-servitors. The last, however, as you see, have no substitute, since 0, as you know, signifies absolutely nothing in number. Therefore, when you wish to operate through these angels, prepare your paper, as is customary; and, turned toward Eurus, write any narrative whatever, in whatever language you wish, which need not be hidden. When it is completed, read the following conjuration silently: Camuel aperoys, melym meuomanial, casmoyn eralki bufaco aeliumar photyfion theor besamys, aneal Cabelonyr thiamo vesonthy. When this conjuration has been completed in silence, make your commission to the spirits who are present, as you know; and send them forth, doing everything in silence and without disturbance, if possible. Afterwards give the letters, open as you wish, to whatever messenger you want to carry them, and let him go, because the spirits will not neglect their office, whether the messenger comes quickly or slowly. Of this let there be no doubt for you, since they are faithful. But you must know which spirit you wish to send from the aforesaid, so that in the conjuration you may express his name immediately after the principal one; and this is so in all operations in which the names of the angels to be sent are set down in the chapter itself. But now let us set forth an example of what we have said concerning those matters which pertain to the office of Camuel and of his subject spirits.
+Here in the table you have the ten angels of Camuel who preside over the day, with their substitutes in number, and as many who preside over the night, also with their own sub-servitors. The last, however, as you see, have no substitute, since 0, as you know, signifies absolutely nothing in number. Therefore, when you wish to operate through these angels, prepare your paper, as is customary; and, turned toward Eurus, write any narrative whatever, in whatever language you wish, which need not be hidden. When it is completed, read the following conjuration silently: Camuel aperoys, melym meuomanial, casmoyn cralti busaco aeli lumar photytion theor besamys, aneal Cabelonyr thiamo vesonthy. When this conjuration has been completed in silence, make your commission to the spirits who are present, as you know; and send them forth, doing everything in silence and without disturbance, if possible. Afterwards give the letters, open as you wish, to whatever messenger you want to carry them, and let him go, because the spirits will not neglect their office, whether the messenger comes quickly or slowly. Of this let there be no doubt for you, since they are faithful. But you must know which spirit you wish to send from the aforesaid, so that in the conjuration you may express his name immediately after the principal one; and this is so in all operations in which the names of the angels to be sent are set down in the chapter itself. But now let us set forth an example of what we have said concerning those matters which pertain to the office of Camuel and of his subject spirits.
 
 --- Page 022 ---
 BOOK FIRST.

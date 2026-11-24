@@ -32,5 +32,11 @@
   "ocr_engine": "qwen3vl-4b-trithemius-q6 (Trithemius LoRA)",
   "translator": "gpt-5.5 (dual-context)",
   "canonical_backend": "qwen3vl-trithemius-q6-dual-gpt55",
-  "source_work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam"
+  "source_work_id": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam",
+  "ai_corrections": {
+    "date": "2026-11-23",
+    "count": 4,
+    "human_review": "none_documented",
+    "note": "The corrections of 23 November 2026 were checked by AI against this printed witness. The edition errata record the readings. Machine audit scores predate these edits."
+  }
 }

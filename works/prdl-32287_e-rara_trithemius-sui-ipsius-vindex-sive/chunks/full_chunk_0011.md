@@ -10,7 +10,7 @@ And a little later:
 
 “What do you think the foolish rashness of unlearned men will imagine about me in the future, when I have brought the Steganography to light, since it has devised such lies about me when it has as yet seen nothing secret? Although, content with the testimony of my conscience, I do not make much of these chatterings of the ignorant, nevertheless I do not intend, so far as possible, to give occasion for evil suspicion.”
 
-Behold how conscious his mind was of rectitude, and how much good Trithemius feared for himself, lest by this work of his he offend anyone, especially the unlearned and inexperienced, who dare to pass an unfavorable judgment on such good and holy studies, though they have by no means grasped them with understanding. But now let us pass to the uses of these books.
+Behold how conscious his mind was of rectitude, and how deeply the good Trithemius feared for himself, lest by this work of his he offend anyone, especially the unlearned and inexperienced, who dare to pass an unfavorable judgment on such good and holy studies, though they have by no means grasped them with understanding. But now let us pass to the uses of these books.
 
 Indeed, what uses and advantages can arise from this kind of writing when rightly employed, Trithemius himself teaches very beautifully, though in part obscurely, in his preface placed before the Polygraphia and addressed to Emperor Maximilian. And although he refers most of those uses to the Polygraphia, they can nevertheless also be referred, not unsuitably, to the Steganography.
 

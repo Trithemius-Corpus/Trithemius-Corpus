@@ -90,3 +90,5 @@ First, middle, dense-cipher, and final pages showed no clipped content or web
 interface chrome.
 
 In the print colophon, the canonical link spells out its own address once. Links with descriptive labels, including the institutional source, still print their destinations.
+
+On 23 November 2026, local checks used *In Praise of Scribes* (24362), *On Ecclesiastical Writers* (70287) and *Key to the Polygraphia* (70282). A numeric example in the *Key* ran off the edge of the print page and a narrow EPUB screen. Paged HTML can now wrap uninterrupted strings. The EPUB groups the 287 numbers at existing colons so readers can wrap all 1,062 characters while preserving the source sequence. Tables with six or more columns use compact EPUB styling. The narrow-screen check includes the rightmost value 900 in the *Key*. [Audit, samples and verification](tasks/pre-push-review-2026-11-23.md)

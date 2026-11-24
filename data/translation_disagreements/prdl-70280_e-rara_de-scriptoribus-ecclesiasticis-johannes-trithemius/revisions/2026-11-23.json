@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI visual collation of the cited printed leaf and its exact image region.",
+  "changes": [
+    {
+      "item_id": "writers-contemporaries",
+      "track": "earlier",
+      "passage": "p-en-0012-0005",
+      "before": "We too, imitating as far as we can this example of antiquity, are accustomed to submit the works that we write, dedicated, to prelates of churches and to more learned men, so that, approved by their authority, they may be able to go forth safely into public.",
+      "after": "Our contemporaries too follow this ancient example as far as they can. They customarily submit the works they write, with a dedication, to prelates of the churches and to more learned men, so that the works may safely appear in public with their approval.",
+      "files": [
+        "works/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/english.md",
+        "works/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/chunks/full_chunk_0012.md"
+      ]
+    },
+    {
+      "item_id": "writers-transmission",
+      "track": "earlier",
+      "passage": "p-en-0012-0006",
+      "before": "while others profit both from them and from us",
+      "after": "as we benefit from them and others benefit from us",
+      "files": [
+        "works/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/english.md",
+        "works/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/chunks/full_chunk_0012.md"
+      ]
+    }
+  ],
+  "metadata_edits": [],
+  "files": [
+    {
+      "path": "works/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/english.md",
+      "before_path": "data/translation_disagreements/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/snapshots/before-2026-11-23/works/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/english.md",
+      "before_sha256": "16ac377eef4541430e11e9c7b3be0652f3968c8b3d303a07532ba2cf1d7eb437",
+      "after_sha256": "b66e2648dc0a9b8b12d0b82f8d67e79371c2334c9f0f9256a62d1df1082e4e02"
+    },
+    {
+      "path": "works/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/chunks/full_chunk_0012.md",
+      "before_path": "data/translation_disagreements/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/snapshots/before-2026-11-23/works/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/chunks/full_chunk_0012.md",
+      "before_sha256": "97b7f563989c5b0a0083e6ab1a6dabe8e2a08a1e82d77493b0a5eddf7f48420c",
+      "after_sha256": "d8c970263dd88faa70ac61aa3fae692c3761b51d4cf9e75702276292f337291b"
+    }
+  ]
+}

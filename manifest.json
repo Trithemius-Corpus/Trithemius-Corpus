@@ -69,7 +69,13 @@
       ],
       "duplicate_source_group": null,
       "duplicate_source_note": null,
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "ai_corrections": {
+        "date": "2026-11-18",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The 18 November 2026 corrections were checked against this printed witness. The edition errata preserve the previous wording and source images. Machine audit scores predate these edits."
+      }
     },
     {
       "id": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
@@ -115,9 +121,9 @@
       "license": "CC0-1.0",
       "ai_corrections": {
         "date": "2026-11-23",
-        "count": 1,
+        "count": 2,
         "human_review": "none_documented",
-        "note": "The corrections of 23 November 2026 were checked by AI against this printed witness. The edition errata record the readings. Machine audit scores predate these edits."
+        "note": "The dated edition errata identify the scan-supported AI corrections. Historical machine grades predate these readings."
       }
     },
     {
@@ -161,7 +167,13 @@
       ],
       "duplicate_source_group": null,
       "duplicate_source_note": null,
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The dated edition errata identify the scan-supported AI corrections. Historical machine grades predate these readings."
+      }
     },
     {
       "id": "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis",
@@ -174,7 +186,7 @@
       "edition_info_raw": "( Francofurti , 1550 ) BSB",
       "page_count": 563,
       "priority": 3,
-      "unclear_count": 323,
+      "unclear_count": 319,
       "unclear_density": 2.6,
       "genre_cluster": "crypto-occult",
       "source": {
@@ -204,7 +216,13 @@
       ],
       "duplicate_source_group": null,
       "duplicate_source_note": null,
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The dated edition errata identify the scan-supported AI corrections. Historical machine grades predate these readings."
+      }
     },
     {
       "id": "prdl-24390_polygraphiae-libri-vi",
@@ -246,7 +264,13 @@
       ],
       "duplicate_source_group": null,
       "duplicate_source_note": null,
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 3,
+        "human_review": "none_documented",
+        "note": "The dated edition errata identify the scan-supported AI corrections. Historical machine grades predate these readings."
+      }
     },
     {
       "id": "prdl-24391_polygraphiae-libri-vi",
@@ -288,7 +312,13 @@
       ],
       "duplicate_source_group": null,
       "duplicate_source_note": null,
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The dated edition errata identify the scan-supported AI corrections. Historical machine grades predate these readings."
+      }
     },
     {
       "id": "prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius",
@@ -331,7 +361,13 @@
       ],
       "duplicate_source_group": null,
       "duplicate_source_note": null,
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 3,
+        "human_review": "none_documented",
+        "note": "The edition errata document scan-checked readings and earlier wording. The historical machine audit predates the corrections."
+      }
     },
     {
       "id": "prdl-70287_joh-tritthemii-de-scriptoribus-ecclesiasticis-liber",
@@ -604,7 +640,8 @@
       ],
       "duplicate_source_group": null,
       "duplicate_source_note": null,
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "publication_modified": "2026-11-18"
     },
     {
       "id": "prdl-24360_compendium-breviarium-primi-voluminis-annalium-historiarum-origine-regum",
@@ -2024,7 +2061,7 @@
       "edition_info_raw": "(Marne / Aubry, 1612 ) dilibri",
       "page_count": 58,
       "priority": 90,
-      "unclear_count": 21,
+      "unclear_count": 20,
       "unclear_density": 1.3,
       "genre_cluster": "crypto-occult",
       "source": {
@@ -2059,6 +2096,12 @@
       "attribution": {
         "author": null,
         "attributed_to": "Johannes Trithemius"
+      },
+      "ai_corrections": {
+        "date": "2026-11-18",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The 18 November 2026 corrections were checked against this printed witness. The edition errata preserve the previous wording and source images. Machine audit scores predate these edits."
       }
     },
     {
@@ -2105,6 +2148,12 @@
       "attribution": {
         "author": null,
         "attributed_to": "Johannes Trithemius"
+      },
+      "ai_corrections": {
+        "date": "2026-11-18",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The 18 November 2026 corrections were checked against this printed witness. The edition errata preserve the previous wording and source images. Machine audit scores predate these edits."
       }
     },
     {
@@ -2141,7 +2190,7 @@
       "edition_info_raw": "( Darmbstadii. Ex officina typographica Balthasaris Aulæandri, sumptibus verò Joannis Berneri, bibliop. Francof. Anno M : DC.XXI, 1621 ) BNF",
       "page_count": 168,
       "priority": 1,
-      "unclear_count": 188,
+      "unclear_count": 180,
       "unclear_density": 2.2,
       "genre_cluster": "crypto-occult",
       "source": {
@@ -2167,7 +2216,13 @@
       ],
       "duplicate_source_group": null,
       "duplicate_source_note": null,
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 5,
+        "human_review": "none_documented",
+        "note": "The corrections of 23 November 2026 were checked by AI against this printed witness. The edition errata record the readings. Machine audit scores predate these edits."
+      }
     }
   ]
 }

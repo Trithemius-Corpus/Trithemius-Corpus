@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI visual collation against the credited printed copy and the stored scan regions.",
+  "changes": [
+    {
+      "item_id": "key-numeral-cipher",
+      "track": "earlier",
+      "passage": "p-en-0024-0003",
+      "before": "Iaaihidifeib, iceigeicchkib. cal'eihid.iei [unclear]ahk.gidibidi[unclear]ig. eiif.iaaihifidibe icda a.cih.iceieik.",
+      "after": "Iaaihid ifeib, ieifeigeicchkib. [c?]a[k?]eihid. i&kahk. gidibid. eigih. ieeigigh ib[k?]ig. &[k?]if. iaaihifid, ibeicda[k?]a. eih. icei&kaib.",
+      "files": [
+        "works/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/english.md",
+        "works/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/chunks/full_chunk_0024.md"
+      ],
+      "supporting_scans": [
+        "key-numeral-alphabet"
+      ],
+      "resolved_annotations": [
+        "a-en-0024-0003-001",
+        "a-en-0024-0003-002"
+      ]
+    },
+    {
+      "item_id": "key-numeral-cipher",
+      "track": "t4b",
+      "passage": "p-t4b-a38c9d3256605d57",
+      "before": "Iaaihid ifeib, iefiegeicehfib. oa' eihid. i et Fahb. gidibid. eigh. ietigigh ib ig. & if. iaaihifid, ihe icda'ia. eih. icie&'iaib.",
+      "after": "Iaaihid ifeib, ieifeigeicchkib. [c?]a[k?]eihid. i&kahk. gidibid. eigih. ieeigigh ib[k?]ig. &[k?]if. iaaihifid, ibeicda[k?]a. eih. icei&kaib.",
+      "files": [
+        "works-t4b/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/english.md",
+        "works-t4b/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/chunks/full_chunk_0022.md"
+      ],
+      "supporting_scans": [
+        "key-numeral-alphabet"
+      ],
+      "rendered_anchor_after": "p-t4b-d4f7751076d006be"
+    }
+  ],
+  "metadata_edits": [
+    {
+      "path": "works/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/english.md",
+      "before": "> Machine-assisted English translation. Work `prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis`. Tier S · faithful 4.69 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.",
+      "after": "> Machine-assisted English translation. Work `prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis`. The machine audit predates the local AI corrections of 2026-11-23. Historical tier S · faithful 4.69 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`."
+    }
+  ],
+  "files": [
+    {
+      "path": "works/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/english.md",
+      "before_path": "data/translation_disagreements/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/snapshots/before-2026-11-23/works/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/english.md",
+      "before_sha256": "d0bf48415fcc7341a70370f0200d0d577d6008edc0e262a3614397aa8be7c249",
+      "after_sha256": "398e9c1794734bda0a4afe1d4ecee2b1a92e85b2134805c573679252635932f1"
+    },
+    {
+      "path": "works/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/chunks/full_chunk_0024.md",
+      "before_path": "data/translation_disagreements/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/snapshots/before-2026-11-23/works/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/chunks/full_chunk_0024.md",
+      "before_sha256": "dd770fd5da852b1c570f14ea194568687df656f548c3eee3bd960aaca31af664",
+      "after_sha256": "d9c4d1666500d88cfcbefe8ec13d45dfa3bbd7979506f292960aa28f530c133a"
+    },
+    {
+      "path": "works-t4b/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/english.md",
+      "before_path": "data/translation_disagreements/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/snapshots/before-2026-11-23/works-t4b/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/english.md",
+      "before_sha256": "0e2631bd9362979f408e292d493b83ff1071c8bd43951be18ac3ef9e891f3618",
+      "after_sha256": "0170993a86f88c997e694dc593f5f6b14899bbc33a23d34e20df50d35a519b52"
+    },
+    {
+      "path": "works-t4b/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/chunks/full_chunk_0022.md",
+      "before_path": "data/translation_disagreements/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/snapshots/before-2026-11-23/works-t4b/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis/chunks/full_chunk_0022.md",
+      "before_sha256": "4cb7bc71f56f43d3abe8c07f41c13116124a838b855c65d93c3976dc7154833f",
+      "after_sha256": "63e6a0167c312341b871a53d83fea85072e3248bbb8643a66197c76a93f39469"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24390_polygraphiae-libri-vi",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "sequence": 2,
+  "status": "applied_locally",
+  "review_method": "AI visual collation against the credited printed copy and the stored scan regions.",
+  "changes": [
+    {
+      "item_id": "key-numeral-cipher",
+      "track": "earlier",
+      "passage": "p-en-0122-0001",
+      "before": "Iaaibid ifeib, ieifeigeicbkib. cakeibid. ikabk. gidibid. eigih. iceigigh ibkig. kif. iaaihifid, ibeicdakaieb. icei kaib.",
+      "after": "Iaaihid ifeib, ieifeigeicchkib. cakeihid. i&kahk. gidibid. eigih. ieeigigh ibkig. &kif. iaaihifid, ibeicdaka eih. icei&kaib.",
+      "files": [
+        "works/prdl-24390_polygraphiae-libri-vi/english.md",
+        "works/prdl-24390_polygraphiae-libri-vi/chunks/full_chunk_0122.md"
+      ],
+      "supporting_scans": [
+        "key-numeral-alphabet"
+      ]
+    }
+  ],
+  "metadata_edits": [],
+  "files": [
+    {
+      "path": "works/prdl-24390_polygraphiae-libri-vi/english.md",
+      "before_path": "data/translation_disagreements/prdl-24390_polygraphiae-libri-vi/snapshots/before-2026-11-23_02/works/prdl-24390_polygraphiae-libri-vi/english.md",
+      "before_sha256": "c3a0187cbe81f23396079069041486c0fe182b2419d6ce455b2d2981554f9fcc",
+      "after_sha256": "54d11667187d4450c32b0d8ad4d7a9c396034ace682cda9406374e4fa0fd426b"
+    },
+    {
+      "path": "works/prdl-24390_polygraphiae-libri-vi/chunks/full_chunk_0122.md",
+      "before_path": "data/translation_disagreements/prdl-24390_polygraphiae-libri-vi/snapshots/before-2026-11-23_02/works/prdl-24390_polygraphiae-libri-vi/chunks/full_chunk_0122.md",
+      "before_sha256": "0026bbf11e8e24c8043a9a159c9c58c0e47db4a4ab64bfa62d4f4f326466f81a",
+      "after_sha256": "3ecfda458f30027412512e48d38eb3d64622537d298546911a2e1d3029c4e44a"
+    }
+  ]
+}

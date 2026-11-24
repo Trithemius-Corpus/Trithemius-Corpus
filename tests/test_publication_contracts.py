@@ -114,9 +114,12 @@ class PublicationContracts(unittest.TestCase):
                 with self.subTest(work=meta.parent.name):
                     self.check_reassembly(meta.parent)
 
-    def test_standard_reassembly_preserves_the_seven_intelligences_page_turn(self):
-        work = next(w for w in build_site.load_manifest()["works"] if w["id"].startswith("prdl-24383_"))
-        self.check_standard_reassembly(work)
+    def test_standard_reassembly_preserves_page_turn_and_archived_title_page(self):
+        works = build_site.load_manifest()["works"]
+        for prefix in ("prdl-24383_", "prdl-70292_"):
+            work = next(w for w in works if w["id"].startswith(prefix))
+            with self.subTest(work=work["id"]):
+                self.check_standard_reassembly(work)
 
     def check_standard_reassembly(self, work):
         wid = work["id"]

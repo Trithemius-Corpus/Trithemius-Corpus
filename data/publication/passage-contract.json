@@ -220,7 +220,7 @@
       "types": {
         "cipher-key": 39
       },
-      "sha256": "2770e25c0f9467b4a4ff29824a90d9326bc43a70f2e6082accd7a083ad910e67"
+      "sha256": "5f28cc8209d32565e3395f733e04edc29246128c3345dd4b544029a8ed412dd6"
     },
     "prdl-32286_octo-quaestionum-maximilianum-caesarem": {
       "types": {
@@ -234,7 +234,7 @@
         "prose-damaged": 24,
         "untranslated": 10
       },
-      "sha256": "93cd4e593add05ae456d2119db26d341f9a0d97fefeecaf027a908b5ebd5414d"
+      "sha256": "d930955fa79ea7eb2d533474c9a06a6e4773c17f09f651ab0e313c2d5ace2819"
     },
     "prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui": {
       "types": {

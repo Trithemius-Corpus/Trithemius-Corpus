@@ -1,0 +1,13 @@
+{
+  "region-human-condition": {
+    "canvas_number": 13,
+    "crop_path": "data/translation_disagreements/prdl-24385_liber-de-triplici-regione-claustralium-et/facsimiles/region-human-condition.png",
+    "xywh": [
+      340,
+      1325,
+      1485,
+      450
+    ],
+    "sha256": "3bdb2ad724b8db07753a780a8acadc08f1415f260f7664e9b28c3b78a1a16847"
+  }
+}
