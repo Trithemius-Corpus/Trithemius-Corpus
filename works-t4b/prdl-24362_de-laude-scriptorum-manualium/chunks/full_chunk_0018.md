@@ -12,6 +12,6 @@ For love of the Scriptures without humility destroys the discipline of the regul
 
 But the fruit that we seek in the sacred Scriptures is the love of God and neighbor, and the recognition of our most loving Savior.
 
-The desired end is happily placed upon this most elegant little work by Friedberg, printer of Mainz, in the year of the Virgin Birth 1493.
+The desired end is happily placed upon this most elegant little work by Peter of Friedberg, printer of Mainz, in the year of the Virgin Birth 1494.
 
 Of the monastery of Chypre.

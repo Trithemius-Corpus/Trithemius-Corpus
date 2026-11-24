@@ -10,17 +10,17 @@ Three kinds of contribution are especially useful.
 
 A note that a specific English rendering is wrong, checked against the Latin. To be actionable, a report needs:
 
-- the work id — the directory name under `works/` (the `prdl-NNNNN` prefix is enough);
-- the chunk file — `works/<id>/chunks/full_chunk_NNNN.md`;
+- the catalogue ID and track, either standard (`works/<id>/`) or Trithemius 4B (`works-t4b/<id>/`);
+- the passage link or numbered chunk file in that track;
 - the current English wording at issue;
-- the Latin it should answer to, from `works/<id>/latin-ocr.txt` or from the side-by-side viewer on the project site;
+- the Latin in that track’s `latin-ocr.txt`, the source image and its printed page or folio when available;
 - a suggested correction, and how confident you are in it.
 
 Use the **Translation erratum** issue template. Mistranslation, omission, and invented content are all in scope. So are leftover preamble artifacts ("Here is the translation:") described in the methodology.
 
 ### 2. OCR corrections
 
-The Latin in `latin-ocr.txt` is OCR output, and OCR damage is itself a frequent cause of translation error. If the OCR misreads the print, report it against the source scan, not against your expectation of what the Latin ought to say. Cite the page. The parallel viewer and, for the cryptographic works, the facsimile pages show the source page images; each work's `metadata.json` records the holding institution and edition, so the scan can be checked independently.
+The Latin in `latin-ocr.txt` is OCR output. Check a suspected error against the printed page and cite its folio or page number. The standard parallel viewer shows the OCR beside the English. Use the institution linked in the edition’s `metadata.json` to find the scan. The study reader and selected apparatus pages also show facsimiles where available.
 
 A useful report gives the work id, the page, the current OCR reading, and the correct reading per the scan. Use the **OCR error** issue template.
 
@@ -32,15 +32,15 @@ Out of scope: collation of variant readings between editions. This corpus transl
 
 ## How corrections are recorded
 
-The machine output in `english.md` is not silently overwritten. This is deliberate: the corpus documents what the pipeline produced, and the audit grades in `chunks/grades.csv` refer to that text. Corrections are instead tracked in a per-work erratum file, `works/<id>/ERRATA.md`, so the provenance of every human edit stays clear.
+Each edition has its own correction history. Use `works/<id>/ERRATA.md` for the standard translation and `works-t4b/<id>/ERRATA.md` for the alternate translation. The two tracks may divide the source into different chunks. When two catalogue IDs share a scan, check the other record for the same wording and report its passage separately. Historical grades describe the version that received them.
 
 An erratum entry records the chunk, the original rendering, the corrected rendering, the Latin basis, the contributor, and the date. When a correction is accepted, the maintainer adds the entry and, where warranted, applies the fix to the published text — with the erratum file as the record of who changed what, and why.
 
-If you open a pull request rather than an issue, add your correction to `works/<id>/ERRATA.md` (create the file if it does not exist) instead of editing `english.md` or the chunk files directly. Pull requests that rewrite the machine output in place, without an erratum entry, will be asked to restructure.
+For a correction pull request, add an entry to the affected track’s `ERRATA.md` (create it if needed). The maintainer can then apply the accepted wording to the chunk and assembled edition with a dated record of the change.
 
 ## Do not edit `site/dist/`
 
-`site/dist/` is build output. It is committed because CI cannot rebuild it: `scripts/build_site.py` needs the working corpus, which is intentionally not in this repository. The maintainer rebuilds the site locally after content changes. Pull requests should not hand-edit anything under `site/dist/`; change the source files, and the site will be regenerated to match.
+Edit the canonical files and rebuild the reading site from the public checkout. Keep the committed `site/dist/static/images/` tree in place. It includes facsimile WebPs that exist only there, and the staged site build carries them forward. If you need a clean rebuild, use a fresh checkout so those image inputs are present. Install the requirements and follow the site, book and search commands in the [release checklist](docs/RELEASE_CHECKLIST.md).
 
 ## Reader changes
 
@@ -48,7 +48,7 @@ Reader-facing changes must preserve semantic HTML, fragment targets, narrow
 reflow, and the representative short, long, cipher, and multi-witness pages in
 `data/reader_fixtures.json`.
 
-Run the dependency-free publication checks against the committed site:
+Run the reader and passage checks against the committed site:
 
 ```console
 python scripts/validate_reader.py
@@ -78,4 +78,4 @@ Either is fine. An issue with a precise citation is just as useful as a pull req
 
 ## Licensing
 
-The repository is licensed [CC BY 4.0](LICENSE). By contributing, you agree that your contribution is published under the same license. Accepted corrections are credited by name in the erratum entry; if you prefer a different attribution, or none, say so in the issue or pull request.
+Indicate how your correction should be credited. The project publishes its documentation, code and arrangement under CC BY 4.0, and its generated translation text under CC0 1.0. Identify any separately licensed material you supply. For a scan or crop, give the holding institution, source and rights URLs, and describe the crop. The Trier *Sigilla* evidence carries CC BY-NC-SA 3.0. The BSB Mainz comparison leaf for PRDL 24373 carries No Copyright – Non-Commercial Use Only. Keep those terms and credits with copies of the images. [Project license and institutional credits](LICENSE)

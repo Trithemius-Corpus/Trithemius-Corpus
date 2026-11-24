@@ -63,3 +63,62 @@ The edition previously read “Cassiodorus, Bede, Alcuin, Regino, Peter Damian�
 The edition previously read “to Johannes Cellarius of Paris, a most learned man”. It now reads “to John, formerly chancellor of Paris, a most learned man”.
 
 *Hanc questionem Iohanni cancellario quondam Parisiensi, viro doctissimo*. The abbreviation in the title following Iohanni expands to cancellario. The next line completes quondam and identifies Paris. Together they describe an office John formerly held. The source supplies no surname in this phrase. [Printed folio 13r (0027)](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00027/full/full/0/default.jpg)
+
+## 2026-11-23 · context-c-s03
+
+The printed colophon names Peter of Friedberg, the Mainz printer, and dates the printing to 1494. The 1492 dedication belongs to the composition history. AI visual collation. No human verification of these readings is documented.
+
+Previous wording
+
+by Friedberg, printer of Mainz, in the year of the Virgin Birth 1493.
+
+Revised wording
+
+by Peter of Friedberg, printer of Mainz, in the year of the Virgin Birth 1494.
+
+*per Petrum Friedbergensem, impressorem Maguntinum, anno virginei partus M.cccc.xciiij.*. [Bayerische Staatsbibliothek, 20r (0041)](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00041/380,1488,1349,315/full/0/default.jpg)
+
+
+## 2026-11-23 · B-F04
+
+A separate sentence says that one cannot easily find or buy all printed books. Facile belongs to finding and buying. The next sentence opens a counterfactual about printing all books. AI visual collation. No human verification of these readings is documented.
+
+Previous wording
+
+Nor, if all the books of the whole world were easily printed, should the devout scribe in any way cease from his study
+
+Revised wording
+
+Nor can one easily find or buy all printed books. Even if all the books in the world were printed, the devout scribe should by no means cease from his study
+
+*Nec facile … omnes impressos libros vel invenire potest vel emere. Quod si etiam omnes libri totius mundi imprimerentur …*. [Bayerische Staatsbibliothek, 10r (0021)](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00021/293,1383,1455,542/full/0/default.jpg)
+
+
+## 2026-11-23 · scribes-feast-sacred-books
+
+Sacros qualifies the books in the author’s conclusion about feast days. The preceding discussion of copying useful materials at a superior’s command has its own scope. AI visual collation. No human verification of these readings is documented.
+
+Previous wording
+
+Therefore one who writes books on feast days does well
+
+Revised wording
+
+Therefore one who writes sacred books on feast days does well
+
+*Bene facit itaque libros sacros scribens diebus festis, debitis circumstantiis diligenter adhibitis.*. [Bayerische Staatsbibliothek, 13r (0027)](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00027/329,1798,1386,314/full/0/default.jpg)
+
+
+## 2026-11-23 · scribes-inward-exercises
+
+Eum refers to the monk. The plural verb derelinquant has interiores, the inward exercises, as its subject. AI visual collation. No human verification of these readings is documented.
+
+Previous wording
+
+For whichever of the monks is delighted by these labors must necessarily abandon the interior ones.
+
+Revised wording
+
+For whenever a monk delights in these labors, his inward exercises are bound to desert him.
+
+*Quem enim ex monachis hi labores delectant, eum interiores necesse est derelinquant.*. [Bayerische Staatsbibliothek, 15v (0032)](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00032/493,292,1394,405/full/0/default.jpg)

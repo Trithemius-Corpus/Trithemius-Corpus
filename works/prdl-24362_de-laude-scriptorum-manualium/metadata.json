@@ -45,10 +45,10 @@
   },
   "composition_year": "1492",
   "ai_corrections": {
-    "date": "2026-11-17",
-    "count": 5,
+    "date": "2026-11-23",
+    "count": 11,
     "human_review": "none_documented",
-    "note": "Dated AI scan assessments and each original reading appear in the edition errata. The pen modifier remains provisional. Historical machine audits predate these edits."
+    "note": "The edition errata document scan-checked readings and earlier wording. The historical machine audit predates the corrections. The pen modifier remains provisional."
   },
-  "unclear_count": 26
+  "unclear_count": 23
 }

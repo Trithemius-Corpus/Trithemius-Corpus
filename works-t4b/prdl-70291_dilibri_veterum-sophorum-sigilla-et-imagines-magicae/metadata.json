@@ -14,7 +14,10 @@
     "provider": "dilibri",
     "url": "http://www.dilibri.de/ubtrdfg/content/titleinfo/466737",
     "download_url": "http://www.dilibri.de/download/pdf/466737",
-    "prdl_id": "70291"
+    "prdl_id": "70291",
+    "image_credit": "Stadtbibliothek Trier, via Dilibri",
+    "image_rights": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+    "image_rights_label": "CC BY-NC-SA 3.0"
   },
   "license": "CC0-1.0",
   "first_english": null,

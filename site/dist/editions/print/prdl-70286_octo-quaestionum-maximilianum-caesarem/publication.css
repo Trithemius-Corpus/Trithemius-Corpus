@@ -5,6 +5,7 @@ body { margin: 5%; color: #211d17; background: #fffdf8; }
 main, article, section { display: block; }
 h1, h2, h3, h4 { line-height: 1.15; break-after: avoid; page-break-after: avoid; }
 p, li { orphans: 3; widows: 3; }
+.reading-text p { overflow-wrap: anywhere; }
 a { color: #654218; text-decoration-thickness: .06em; text-underline-offset: .12em; }
 blockquote { margin-inline: 1.5em; font-size: .94em; }
 code { font-family: ui-monospace, monospace; font-size: .86em; overflow-wrap: anywhere; }
@@ -37,7 +38,8 @@ dd { margin: 0; }
 @media print {
   body { margin: 0; background: white; }
   a { color: inherit; text-decoration: none; }
-  a[href^="http"]::after { content: " (" attr(href) ")"; font-size: .75em; overflow-wrap: anywhere; }
+  .colophon-metadata { break-inside: avoid; page-break-inside: avoid; }
+  a[href^="http"]:not(.canonical-url)::after { content: " (" attr(href) ")"; font-size: .75em; overflow-wrap: anywhere; }
   table { font-size: 7pt; width: 100%; table-layout: fixed; }
 }
 

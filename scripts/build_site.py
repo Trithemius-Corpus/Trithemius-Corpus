@@ -54,6 +54,7 @@ import iiif_model  # noqa: E402  (offline IIIF Presentation 3 artifacts)
 import passage_model  # noqa: E402  (stable passage IDs + export artifacts)
 import reader_tools
 import publication_guard
+from edition_corrections import history as correction_history
 from contextlib import contextmanager
 from publication_inventory import write_sitemap
 from edition_metadata import QA_LABELS, STATE_LABELS, attribution, credit, editorial_record
@@ -78,7 +79,7 @@ IIIF_SOURCES = json.loads((ROOT / "data" / "iiif_sources.json").read_text(encodi
 
 SITE_DESCRIPTION = (
     "Open English translations of 29 Latin texts by or associated with Johannes "
-    "Trithemius (1462–1516), across 47 printed witnesses. Read the English beside "
+    "Trithemius (1462–1516), in 47 catalogue records from 45 digitized sources. Read the English beside "
     "the Latin OCR and examine cipher tables alongside their source scans."
 )
 
@@ -142,21 +143,13 @@ ALL_WORK_IDS: list[str] = []
 CHUNK_MAX_CHARS = 4500
 CHUNK_OCR_CLEANUP = True
 
-# Works whose ciphers are decoded on cipher-solutions.html, used to weave
-# "solved" links into the relevant work pages. The solve key maps each work
-# to a short list of (modus_label, facsimile_page) for the callout summary.
-# The Clavis Generalis Triplex is the work that actually carries the solved
-# modi (the Steganographia's own key).
+# Link the containing work to the published executable example.
 CIPHER_SOLVE_LINKS = {
     "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos": {
-        "title": "Solved: the Clavis ciphers decoded",
-        "blurb": ("Eleven of this work's cipher <em>modi</em> &mdash; the simple modi "
-                  "(II&ndash;XI) and the high modi (XXXII&ndash;XXXIX) &mdash; decode "
-                  "letter-for-letter through their printed alphabets into ordinary "
-                  "early-modern German plaintext. The char-aligned decodes, with "
-                  "facsimile crops and honest match scores, are on the solved-ciphers page."),
-        "modi": ["II", "V", "VI", "X", "XI", "XXXII", "XXXIII", "XXXV",
-                 "XXXVII", "XXXVIII", "XXXIX"],
+        "title": "Read Modus II from the print",
+        "blurb": ("Printed pages 56 and 57 give the rule and its 22 substitutions. "
+                  "The executable edition compares the archived transcription with "
+                  "the German message on the same page."),
     },
 }
 
@@ -264,7 +257,7 @@ def make_env() -> Environment:
     env.globals["url"] = make_url(0)
     env.globals["asset"] = make_asset(0)
     catalog = reader_tools.search_catalog(
-        [w for w in load_manifest()["works"] if not w.get("skip")], text_group_key, edition_tag,
+        [w for w in load_manifest()["works"] if not w.get("skip")], text_group_key, record_label,
     )
     env.globals["search_witness"] = lambda work: catalog[work.get("standard_witness", work["id"])]
     env.filters["search_anchors"] = reader_tools.search_anchors
@@ -447,6 +440,18 @@ def edition_tag(w: dict) -> str:
     return ", ".join(p for p in (place, str(year)) if p)
 
 
+def source_key(work: dict) -> str:
+    """One shared scan can have several distinct PRDL catalogue records."""
+    return min(work.get("duplicate_source_group") or [work["id"]])
+
+
+def record_label(work: dict) -> str:
+    label = edition_tag(work)
+    if work.get("duplicate_source_group"):
+        return f"{label} · PRDL {work['source']['prdl_id']} (shared scan)"
+    return label
+
+
 def attach_editions(works: list[dict]) -> None:
     """Several works are different printed editions of the SAME text (e.g. the
     Polygraphia has three, the Liber Octo four). Group them by translated title
@@ -485,12 +490,13 @@ def attach_editions(works: list[dict]) -> None:
                            str(x.get("source_year") or x.get("year") or ""), x["id"]),
         )
         for idx, w in enumerate(ordered, 1):
-            w["edition_label"] = edition_tag(w)
+            w["edition_label"] = record_label(w)
             w["edition_count"] = len(ordered)
+            w["source_count"] = len({source_key(member) for member in group})
             w["edition_index"] = idx
             w["is_primary"] = (w["id"] == primary_id)
             w["edition_siblings"] = [
-                {"id": s["id"], "label": edition_tag(s),
+                {"id": s["id"], "label": record_label(s),
                  "is_primary": s["id"] == primary_id}
                 for s in ordered if s["id"] != w["id"]
             ]
@@ -532,6 +538,10 @@ def build_texts(works: list[dict]) -> list[dict]:
         )
         rep = group[0]
         year = min((str(w.get("year")) for w in group if w.get("year")), default="")
+        sources = {}
+        for work in group:
+            source = sources.setdefault(source_key(work), {"label": edition_tag(work), "records": []})
+            source["records"].append({"id": work["id"], "prdl": work["source"]["prdl_id"]})
         texts.append({
             "key": key,
             "rep": rep,
@@ -542,6 +552,7 @@ def build_texts(works: list[dict]) -> list[dict]:
             "year": year,
             "first_english": rep.get("first_english", False),
             "excerpt": intro_excerpt(rep["id"]),
+            "sources": list(sources.values()),
             "editions": [
                 {"id": w["id"], "label": edition_tag(w),
                  "editorial_state": w.get("editorial_state"),
@@ -827,6 +838,13 @@ def render_markdown_file(src: Path) -> str:
     html = markdown.markdown(text, extensions=["extra", "toc", "tables", "fenced_code", "sane_lists"])
     html = _strip_spurious_autolinks(html)
     return rewrite_rendered_links(html)
+
+
+def render_headnote(path: Path) -> str:
+    """Keep the original public fragment when a headnote paragraph is corrected."""
+    anchors = publication_guard.read_input("headnote-anchors.json")
+    return reader_tools.search_anchors(render_markdown_file(path), "note-intro",
+                                       anchors.get(path.relative_to(ROOT).as_posix()))
 
 
 def floor_heading_levels(rendered_html: str, minimum_level: int) -> str:
@@ -2138,8 +2156,11 @@ def stitch_english_with_passages(
     html, chapter_segs = _stitch_english_marked(pairs, chapters, inline_style_c)
     if html_transform is not None:
         html = html_transform(html)
+    retired = frozenset(alias for batch in correction_history(ROOT, work_id) for change in batch["changes"]
+                        if change["track"] == "earlier" for alias in change.get("resolved_annotations", []))
     html, passages, annotations = passage_model.identify_passages(
-        html, work_id, chapters, publication_guard.read_input("compound-passages.json").get(work_id)
+        html, work_id, chapters, publication_guard.read_input("compound-passages.json").get(work_id),
+        publication_guard.read_input("latin-alignments.json").get(work_id), retired_annotations=retired,
     )
     # Swap chapter placeholders only after passage extraction. The segment
     # comments then delimit complete HTML fragments without artificial section
@@ -2380,20 +2401,30 @@ def genre_sections(texts: list[dict], clusters: dict) -> list[dict]:
             "texts": sorted(members, key=lambda t: (t["year"] or "9999", t["key"])),
             "n_texts": len(members),
             "n_editions": sum(len(t["editions"]) for t in members),
+            "n_sources": sum(len(t["sources"]) for t in members),
         })
     return sections
 
 
 def build_index(env: Environment, manifest: dict, works: list[dict],
                 texts: list[dict], sections: list[dict]) -> str:
+    from build_t4b_pages import load_t4b_works
+
+    # Older bookmarks contain the local edition ID but omit its track. The
+    # two tracks usually share an ID, while alternate PRDL 70283 has its own.
+    resume_editions = {w["id"]: {"earlier": reading_path(w)} for w in works}
+    for work in load_t4b_works():
+        resume_editions.setdefault(work["id"], {})["trithemius-4b"] = reading_path(work)
     n_first = sum(1 for t in texts if t["first_english"])
     return env.get_template("index.html.j2").render(
         stats={
             "texts": len(texts),
             "editions": len(works),
+            "sources": len({source_key(w) for w in works}),
             "first_english": n_first,
         },
         featured=resolve_first_english_starters(texts, limit=12),
+        resume_editions=resume_editions,
         sections=sections,
         **page_meta("index.html", SITE_DESCRIPTION, nav="home",
                     jsonld=site_jsonld(len(texts), len(works))),
@@ -2408,6 +2439,9 @@ def build_works_page(env: Environment, works: list[dict], texts: list[dict],
         texts_by_year=by_year,
         n_texts=len(texts),
         n_editions=len(works),
+        n_sources=len({source_key(w) for w in works}),
+        n_first_records=sum(1 for w in works if w.get("first_english")),
+        n_first_sources=len({source_key(w) for w in works if w.get("first_english")}),
         n_first=sum(1 for t in texts if t["first_english"]),
         **page_meta("works.html",
                     f"All {len(texts)} Latin texts in the Trithemius Corpus, "
@@ -2462,7 +2496,7 @@ def build_work(env: Environment, work: dict, english_html: str,
                has_tei: bool = False,
                iiif_canvas_map: dict[str, int] | None = None, reviewed_canvases: dict | None = None) -> str:
     work_dir = ROOT / "works" / work["id"]
-    intro_html = render_markdown_file(work_dir / "intro.md")
+    intro_html = render_headnote(work_dir / "intro.md")
     desc = intro_excerpt(work["id"]) or (
         f"English translation of {work.get('title')} ({work.get('year', '')}), "
         f"with the Latin source.")
@@ -2529,8 +2563,9 @@ def build_work(env: Environment, work: dict, english_html: str,
 
 def build_parallel(env: Environment, work: dict, pairs: list[dict], stats: dict,
                    style_c: dict | None = None, chapters: dict | None = None) -> str:
+    alignments = publication_guard.read_input("latin-alignments.json").get(work["id"], {})
     return env.get_template("parallel.html.j2").render(
-        work=work, pairs=pairs, stats=stats, style_c=style_c or None,
+        work=work, pairs=passage_model.parallel_source_links(pairs, alignments), stats=stats, style_c=style_c or None,
         chapters=chapters, chapter_anchor="seg",
         url=make_url(1), asset=make_asset(1),
         **page_meta(f"works/{work['id']}_parallel.html",
@@ -2574,6 +2609,8 @@ def copy_static() -> None:
         dst.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(src, dst)
         copied += 1
+    import scan_evidence
+    scan_evidence.publish_cited_pages(ROOT, static_out / "images")
     if copied:
         print(f"  static: copied {copied} new/updated files")
 
@@ -2639,7 +2676,7 @@ def render_site() -> None:
                 render_markdown_file(CIPHERS_MD), "ciphers.html",
                 description="The Ave Maria cipher, the tabula recta expansion "
                             "figures, and the Steganographia's letter-pair "
-                            "claves — with the Clavis ciphers decoded.",
+                            "claves, including the printed alphabet and partial reading of Modus II.",
                 nav="ciphers"),
             encoding="utf-8")
 
@@ -2681,7 +2718,7 @@ def render_site() -> None:
     (OUT / "search.html").write_text(
         env.get_template("search.html.j2").render(
             url=make_url(0), asset=make_asset(0),
-            **page_meta("search.html", "Search the Trithemius Corpus — full-text search across all 47 works", nav="works"),
+            **page_meta("search.html", "Search the English editions, Latin OCR, notes and guides in the Trithemius Corpus", nav="works"),
         ),
         encoding="utf-8",
     )

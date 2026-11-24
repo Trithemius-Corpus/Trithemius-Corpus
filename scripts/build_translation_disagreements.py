@@ -147,9 +147,10 @@ def marker_before(text: str, offset: int) -> dict | None:
 
 
 def current_resolutions(ledgers: list[dict]) -> dict:
-    """Use the latest recorded reading per item and track while retaining its dates."""
+    """Retain every edit from the latest batch for an item and track, including page turns."""
     resolutions = {}
     for batch in ledgers:
+        refreshed = set()
         for edit in batch["changes"]:
             item = resolutions.setdefault(edit["item_id"], {
                 "status": "applied_locally", "human_review": "none_documented",
@@ -158,7 +159,10 @@ def current_resolutions(ledgers: list[dict]) -> dict:
             item["date"] = batch["date"]
             if batch["date"] not in item["dates"]:
                 item["dates"].append(batch["date"])
-            item["changes"] = [c for c in item["changes"] if c["track"] != edit["track"]]
+            key = (edit["item_id"], edit["track"])
+            if key not in refreshed:
+                item["changes"] = [c for c in item["changes"] if c["track"] != edit["track"]]
+                refreshed.add(key)
             item["changes"].append({**edit, "date": batch["date"]})
     return resolutions
 

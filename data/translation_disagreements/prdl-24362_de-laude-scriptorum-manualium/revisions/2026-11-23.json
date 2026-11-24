@@ -1,0 +1,206 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24362_de-laude-scriptorum-manualium",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI visual collation of the cited printed leaf and its exact image region.",
+  "changes": [
+    {
+      "item_id": "context-c-s03",
+      "track": "earlier",
+      "passage": "p-en-0021-0004",
+      "before": "by Friedberg, the Mainz printer, in the year of the Virgin birth 1493.",
+      "after": "by Peter of Friedberg, the Mainz printer, in the year of the Virgin birth 1494.",
+      "files": [
+        "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0021.md"
+      ]
+    },
+    {
+      "item_id": "context-c-s03",
+      "track": "t4b",
+      "passage": "p-t4b-db4ee855d9e36bfc",
+      "before": "by Friedberg, printer of Mainz, in the year of the Virgin Birth 1493.",
+      "after": "by Peter of Friedberg, printer of Mainz, in the year of the Virgin Birth 1494.",
+      "files": [
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0018.md"
+      ],
+      "rendered_anchor_after": "p-t4b-87090b16b3e98830"
+    },
+    {
+      "item_id": "B-F04",
+      "track": "earlier",
+      "passage": "p-en-0010-0003",
+      "before": "Nor [unclear], even if all the books of the whole world were printed, should the devout scribe in any way desist from his pursuit",
+      "after": "Nor can one easily find or buy all printed books. Even if all the books of the whole world were printed, the devout scribe should by no means desist from his pursuit",
+      "resolved_annotations": [
+        "a-en-0010-0003-002"
+      ],
+      "files": [
+        "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0010.md"
+      ]
+    },
+    {
+      "item_id": "B-F04",
+      "track": "t4b",
+      "passage": "p-t4b-ac19e481c664cb4c",
+      "before": "Nor, if all the books of the whole world were easily printed, should the devout scribe in any way cease from his study",
+      "after": "Nor can one easily find or buy all printed books. Even if all the books in the world were printed, the devout scribe should by no means cease from his study",
+      "files": [
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0008.md"
+      ],
+      "rendered_anchor_after": "p-t4b-478700fd64a8dfab"
+    },
+    {
+      "item_id": "scribes-feast-sacred-books",
+      "track": "earlier",
+      "passage": "p-en-0014-0004",
+      "before": "Therefore he does well who writes books on feast days",
+      "after": "Therefore he does well who writes sacred books on feast days",
+      "files": [
+        "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0014.md"
+      ]
+    },
+    {
+      "item_id": "scribes-feast-sacred-books",
+      "track": "t4b",
+      "passage": "p-t4b-11c40518cf9ef997",
+      "before": "Therefore one who writes books on feast days does well",
+      "after": "Therefore one who writes sacred books on feast days does well",
+      "files": [
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0011.md"
+      ],
+      "rendered_anchor_after": "p-t4b-7b9bd418cf591914"
+    },
+    {
+      "item_id": "scribes-inward-exercises",
+      "track": "earlier",
+      "passage": "p-en-0016-0003",
+      "before": "For whichever of the monks these labors delight, they must necessarily abandon the interior ones.",
+      "after": "For if these labors delight a monk, his inward exercises are bound to desert him.",
+      "files": [
+        "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0016.md"
+      ]
+    },
+    {
+      "item_id": "scribes-inward-exercises",
+      "track": "t4b",
+      "passage": "p-t4b-b8ea479750b057c6",
+      "before": "For whichever of the monks is delighted by these labors must necessarily abandon the interior ones.",
+      "after": "For whenever a monk delights in these labors, his inward exercises are bound to desert him.",
+      "files": [
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0014.md"
+      ],
+      "rendered_anchor_after": "p-t4b-993e52bf40ad9f20"
+    },
+    {
+      "item_id": "B-F03",
+      "track": "earlier",
+      "passage": "p-en-0009-0005",
+      "before": "Clement and [unclear] is the Lord, [unclear].",
+      "after": "The Lord is merciful and just.",
+      "resolved_annotations": [
+        "a-en-0009-0005-001",
+        "a-en-0009-0005-002"
+      ],
+      "supporting_scans": [
+        "scribes-labors-continuation"
+      ],
+      "files": [
+        "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0009.md"
+      ]
+    },
+    {
+      "item_id": "B-F03",
+      "track": "earlier",
+      "passage": "p-en-0010-0001",
+      "before": "your labors, so pious, so useful, so necessary to the Church, will not pass without the greatest recompense.",
+      "after": "He will not pass over your labors, so pious, so useful, so necessary to the Church, without the greatest recompense.",
+      "supporting_scans": [
+        "scribes-labors-continuation"
+      ],
+      "files": [
+        "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0010.md"
+      ]
+    }
+  ],
+  "metadata_edits": [],
+  "files": [
+    {
+      "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-2026-11-23/works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+      "before_sha256": "2e1bca9f894aeae173d488b0f47a864d9847f56ad8d1490e030836d0a0dd4963",
+      "after_sha256": "d3cbb918e94537c9e145339ae9725b44565abcafe994001716e5c5bc76aff06a"
+    },
+    {
+      "path": "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0021.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-2026-11-23/works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0021.md",
+      "before_sha256": "7d5848d1f78b7ba6a628a182fb612bfe1040784bb830a4c9933865f2d6d034b4",
+      "after_sha256": "7597173f949d23858cb02448d1c9d3b5a6be733692f3dd2ffc0d55b2b685a7b9"
+    },
+    {
+      "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-2026-11-23/works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+      "before_sha256": "378f7d339143d2961347da3b56c928f12ab0735b4f19095b36f8cd62b3a436b8",
+      "after_sha256": "543ac7633c59e1f5e587dc8ff5ccbc8347fb9050c767da1af1466648c9a7768b"
+    },
+    {
+      "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0018.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-2026-11-23/works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0018.md",
+      "before_sha256": "339975d7a24d87062ea1113af48cc83eea1f30e41620a2264378a66c869beee3",
+      "after_sha256": "14e68d00c1c08cd353c36c40c5ef95b764304f504a95abaf2721713b9549caff"
+    },
+    {
+      "path": "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0010.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-2026-11-23/works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0010.md",
+      "before_sha256": "42548ed378956261eb3e280b31af54ff5c7927e847c4ed3b2b921b9b0717f8ae",
+      "after_sha256": "b328881fc0fda6a7efc9ebac997aab379f275f0bcf567eee3746f8e34bc614bd"
+    },
+    {
+      "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0008.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-2026-11-23/works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0008.md",
+      "before_sha256": "e4201f69d37e0c3f5ec57b8476fcd8aa3f4a5b4b5fe3fdb9894db3a0d185404f",
+      "after_sha256": "18fe5b37583c35a944d8592ec627e4e694d3459908dfee407401ca6e84b5e333"
+    },
+    {
+      "path": "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0014.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-2026-11-23/works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0014.md",
+      "before_sha256": "e5b32010a3591f4ed6b6f9a0bcb2b83d488d409bb36066cf55959ef67b3213cf",
+      "after_sha256": "bb4b7f3553fbf8a5771fb9563bf38a612ade2b71b7d213a20b4ac67138559ba3"
+    },
+    {
+      "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0011.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-2026-11-23/works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0011.md",
+      "before_sha256": "6e601f33c7f2de58eabc66a22c8fe8411f7df5b1d8223499d8ca3b2fec869c83",
+      "after_sha256": "450add5251c4bc76f36cd56bfeb9bb3c18ec69bc4953c7543423c01d27249966"
+    },
+    {
+      "path": "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0016.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-2026-11-23/works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0016.md",
+      "before_sha256": "f5c3d3f9bbe8806cb1214f1225f6b17304b7105be701da5018fb06acfa1e8f7d",
+      "after_sha256": "8b0b04e286f96c7d39e702c5a05bb1bdf6defbdb500c91ee30731394d241a68d"
+    },
+    {
+      "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0014.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-2026-11-23/works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0014.md",
+      "before_sha256": "5167f5c4b0f096cdfff9ded580bf0a80e11f20bb10c8a993514d819cd9b56e83",
+      "after_sha256": "9d3ee204cde915c195977945ea8ac078b408a7d4a2c5b4b06693dd6336fc4a06"
+    },
+    {
+      "path": "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0009.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-2026-11-23/works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0009.md",
+      "before_sha256": "d04fe2ce430eed624de86f4cda05cc32b292be879a24363a742ca4dd2901564b",
+      "after_sha256": "ab4742c47fd98da7cf1a2e7e2ad1b9c5913ba7c8e8224c6938e891cafd6ced92"
+    }
+  ]
+}

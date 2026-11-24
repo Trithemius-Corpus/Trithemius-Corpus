@@ -17,6 +17,7 @@ from referencing import Registry, Resource
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import passage_model as pm  # noqa: E402
+from publication_guard import read_input
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -221,8 +222,21 @@ def validate_index(path: Path, errors: list[str], id_cache: dict[str, set[str]])
             errors.append(f"{path}: duplicate {label}")
 
     ids = page_ids(work_id, id_cache, errors)
+    alignments = read_input("latin-alignments.json").get(work_id, {})
+    if set(alignments) != {p["html_id"] for p in passages if "latin_segment" in p}:
+        errors.append(f"{work_id}: reviewed Latin alignment inventory differs")
+    latin_sources = {s["segment"]: s["latin"] for s in segments}
     annotation_by_id = {item.get("id"): item for item in annotations}
     for passage in passages:
+        rule = alignments.get(passage["html_id"])
+        latin_segment = rule["latin_segment"] if rule else passage["segment"]
+        if (passage.get("latin_segment", passage["segment"]) != latin_segment
+                or passage["targets"]["parallel"] != f"works/{work_id}_parallel.html#seg-{latin_segment}"
+                or latin_segment not in latin_sources):
+            errors.append(f"{work_id}#{passage['html_id']}: incorrect parallel reader target")
+        if rule and (rule["english_quote"] not in passage["text"]
+                     or latin_sources.get(latin_segment, "").count(rule["latin_quote"]) != 1):
+            errors.append(f"{work_id}#{passage['html_id']}: reviewed alignment quotations have changed")
         if passage.get("segment_id") not in segment_ids:
             errors.append(f"{path}: passage references a missing segment")
         if passage.get("html_id") not in ids:
@@ -264,6 +278,8 @@ def generated_checks(errors: list[str]) -> tuple[int, int, int]:
         return 0, 0, 0
     actual = {path.stem for path in files}
     expected = expected_work_ids()
+    if not set(read_input("latin-alignments.json")) <= expected:
+        errors.append("Reviewed Latin alignments refer to an unknown printed witness")
     if actual != expected:
         missing = sorted(expected - actual)
         extra = sorted(actual - expected)

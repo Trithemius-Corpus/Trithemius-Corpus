@@ -35,6 +35,12 @@ class ContextIntegrityTests(unittest.TestCase):
                     with self.assertRaisesRegex(ValueError, "missing or unexpected"):
                         context_review.assemble(root, self.work, self.spec, self.inventory)
 
+    def test_latest_resolution_preserves_both_sides_of_a_page_turn(self):
+        batches = history(b.ROOT, self.work)
+        changes = b.current_resolutions(batches)["B-F03"]["changes"]
+        self.assertEqual([change["passage"] for change in changes],
+                         ["p-en-0009-0005", "p-en-0010-0001"])
+
     def test_rehashed_candidate_text_is_outside_the_frozen_context_inventory(self):
         inventory = copy.deepcopy(self.inventory)
         inventory["candidates"][0]["earlier_text"] += " altered"
@@ -67,9 +73,9 @@ class ContextIntegrityTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, "incomplete or unexpected corrections history"):
                 history(root, self.work)
 
-    def test_all_recorded_replacements_replay_through_both_batches(self):
+    def test_all_recorded_replacements_replay_through_the_dated_batches(self):
         batches = history(b.ROOT, self.work)
-        self.assertGreaterEqual(len(batches), 2)
+        self.assertGreaterEqual(len(batches), 3)
         validate_history(b.ROOT, self.work, batches)
         latest = b.current_resolutions(batches)["scribes-003"]
         self.assertEqual({e["track"] for e in latest["changes"]}, {"earlier", "t4b"})

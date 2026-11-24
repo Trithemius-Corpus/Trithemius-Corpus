@@ -3,7 +3,7 @@
   "corpus": "Trithemius",
   "author": "Johannes Trithemius (1462–1516) and associated authors; see individual work attributions",
   "translator": "Ian Carlos Fabin",
-  "license": "CC-BY-4.0 for documentation/code/arrangement; CC0-1.0 for generated translation artifacts (see LICENSE)",
+  "license": "CC-BY-4.0 for documentation/code/arrangement; CC0-1.0 for generated translation artifacts; institutional image terms apply to scans and crops (see LICENSE)",
   "url": "https://github.com/Trithemius-Corpus/Trithemius-Corpus",
   "total_works": 51,
   "translatable_works": 47,
@@ -112,7 +112,13 @@
       ],
       "duplicate_source_group": null,
       "duplicate_source_note": null,
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The corrections of 23 November 2026 were checked by AI against this printed witness. The edition errata record the readings. Machine audit scores predate these edits."
+      }
     },
     {
       "id": "prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui",
@@ -380,7 +386,7 @@
       "edition_info_raw": "( Mainz , 1494 ) BSB",
       "page_count": 46,
       "priority": 6,
-      "unclear_count": 26,
+      "unclear_count": 23,
       "unclear_density": 1.3,
       "genre_cluster": "monastic-reform",
       "source": {
@@ -412,10 +418,10 @@
       "license": "CC0-1.0",
       "composition_year": "1492",
       "ai_corrections": {
-        "date": "2026-11-17",
-        "count": 5,
+        "date": "2026-11-23",
+        "count": 11,
         "human_review": "none_documented",
-        "note": "Dated AI scan assessments and each original reading appear in the edition errata. The pen modifier remains provisional. Historical machine audits predate these edits."
+        "note": "The edition errata document scan-checked readings and earlier wording. The historical machine audit predates the corrections. The pen modifier remains provisional."
       }
     },
     {
@@ -461,7 +467,8 @@
         "prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis"
       ],
       "duplicate_source_note": "This record shares the same source scan as prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis. It is retained as a PRDL/source-alias record, not a separate physical witness.",
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "publication_modified": "2026-11-23"
     },
     {
       "id": "prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis",
@@ -506,7 +513,8 @@
         "prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis"
       ],
       "duplicate_source_note": "This record shares the same source scan as prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis. It is retained as a PRDL/source-alias record, not a separate physical witness.",
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "publication_modified": "2026-11-23"
     },
     {
       "id": "prdl-24361_de-cura-pastorali",
@@ -719,7 +727,8 @@
         "prdl-70284_de-laudibus-sanctissimae-matris-annae"
       ],
       "duplicate_source_note": "This record shares the same source scan as prdl-70284_de-laudibus-sanctissimae-matris-annae. It is retained as a PRDL/source-alias record, not a separate physical witness.",
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "publication_modified": "2026-11-23"
     },
     {
       "id": "prdl-24365_de-laudibus-sanctissimae-matris-annae",
@@ -761,7 +770,8 @@
       ],
       "duplicate_source_group": null,
       "duplicate_source_note": null,
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "publication_modified": "2026-11-23"
     },
     {
       "id": "prdl-24366_de-laudibus-sanctissimae-matris-annae-liptzk-1497",
@@ -803,7 +813,8 @@
       ],
       "duplicate_source_group": null,
       "duplicate_source_note": null,
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "publication_modified": "2026-11-23"
     },
     {
       "id": "prdl-24367_de-laudibus-sanctissimae-matris-annae-liptzk-1501",
@@ -846,7 +857,8 @@
       ],
       "duplicate_source_group": null,
       "duplicate_source_note": null,
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "publication_modified": "2026-11-23"
     },
     {
       "id": "prdl-70283_de-laudibus-sanctissimae-matris-annae-liptzk-1501-hab",
@@ -887,7 +899,8 @@
       ],
       "duplicate_source_group": null,
       "duplicate_source_note": null,
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "publication_modified": "2026-11-23"
     },
     {
       "id": "prdl-70284_de-laudibus-sanctissimae-matris-annae",
@@ -932,7 +945,8 @@
         "prdl-70284_de-laudibus-sanctissimae-matris-annae"
       ],
       "duplicate_source_note": "This record shares the same source scan as prdl-24364_de-laudibus-sanctissimae-matris-annae. It is retained as a PRDL/source-alias record, not a separate physical witness.",
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "publication_modified": "2026-11-23"
     },
     {
       "id": "prdl-24385_liber-de-triplici-regione-claustralium-et",
@@ -1987,7 +2001,10 @@
         "provider": "dilibri",
         "url": "http://www.dilibri.de/ubtrdfg/content/titleinfo/466737",
         "download_url": "http://www.dilibri.de/download/pdf/466737",
-        "prdl_id": "70291"
+        "prdl_id": "70291",
+        "image_credit": "Stadtbibliothek Trier, via Dilibri",
+        "image_rights": "https://creativecommons.org/licenses/by-nc-sa/3.0/",
+        "image_rights_label": "CC BY-NC-SA 3.0"
       },
       "skip": false,
       "skip_reason": "",

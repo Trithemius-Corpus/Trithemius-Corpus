@@ -1,0 +1,35 @@
+{
+  "clavis-modus-ii-alphabet": {
+    "canvas_number": 249,
+    "crop_path": "data/translation_disagreements/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/facsimiles/clavis-modus-ii-alphabet.png",
+    "xywh": [
+      105,
+      145,
+      640,
+      287
+    ],
+    "sha256": "a3b2060b9fc29eeeb794657655027e34461d470b5ce6a45dcb3931cb6a31fc84"
+  },
+  "clavis-modus-ii-rule": {
+    "canvas_number": 248,
+    "crop_path": "data/translation_disagreements/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/facsimiles/clavis-modus-ii-rule.png",
+    "xywh": [
+      300,
+      305,
+      533,
+      690
+    ],
+    "sha256": "8a1e7827b3f1c6952ff1bd14da05ba607eba3bbcfdd39ef5ea187493883cbdff"
+  },
+  "clavis-modus-ii-cover": {
+    "canvas_number": 249,
+    "crop_path": "data/translation_disagreements/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/facsimiles/clavis-modus-ii-cover.png",
+    "xywh": [
+      93,
+      438,
+      653,
+      79
+    ],
+    "sha256": "25fbf018d6a032bcc91b7791b3f98cd1e62c5266e2113f58aa96f6062e86fdd3"
+  }
+}

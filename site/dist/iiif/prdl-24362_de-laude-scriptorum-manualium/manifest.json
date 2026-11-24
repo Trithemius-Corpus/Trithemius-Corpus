@@ -1592,6 +1592,30 @@
                   "Reviewed source page"
                 ]
               }
+            },
+            {
+              "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/manifest.json/annotation/p-en-0009-0005",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/plain",
+                "value": "O my brothers, if you knew the usefulness of this work, you would not be so sluggish and slow for the office of the scribe. Or do you think that God can be appeased by the sacrifices of fools? A humble brother who, devoutly from obedience, copies out one book has greater merit before God than he who seems, both devoutly and on his own authority, to be free for contemplation. For obedience is better than sacrifices. A monk, moreover, if he is ordered, must set aside a good work and fulfill the lawful will of the abbot, not his own. For evil must never be done for the sake of obedience. Therefore, dearest brothers, do not neglect this good; do not despise the zeal for writing. For it is a great good, and very useful to the Catholic Church and to your souls. If anyone has practiced himself in it, he will recognize how great its usefulness is. Begin with desire, and with love you will complete it. Let each one rejoice to have brought, by his labors, some usefulness to others in the house of God. The Lord is merciful and just."
+              },
+              "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/canvas/20",
+              "seeAlso": [
+                {
+                  "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0009-0005",
+                  "type": "Text",
+                  "format": "text/html"
+                }
+              ],
+              "label": {
+                "en": [
+                  "Reviewed source page"
+                ]
+              }
             }
           ]
         }
@@ -1677,6 +1701,54 @@
                   "format": "text/html"
                 }
               ]
+            },
+            {
+              "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/manifest.json/annotation/p-en-0010-0001",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/plain",
+                "value": "He will not pass over your labors, so pious, so useful, so necessary to the Church, without the greatest recompense."
+              },
+              "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/canvas/21",
+              "seeAlso": [
+                {
+                  "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0010-0001",
+                  "type": "Text",
+                  "format": "text/html"
+                }
+              ],
+              "label": {
+                "en": [
+                  "Reviewed source page"
+                ]
+              }
+            },
+            {
+              "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/manifest.json/annotation/p-en-0010-0003",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/plain",
+                "value": "[unclear], brothers, let no one say: “What need is there for me to weary myself by writing, when the art of printing pours forth so many and such great books into the light that with little money we can furnish a great library?” Truly, whoever speaks in this way is trying to make darkness for his own leisure. Who does not know how great the distance is between writing and printing? For writing, if it is put on parchment, can endure for a thousand years; but printing, since it is a thing of paper, how long will it last? If it can endure in a paper volume for two hundred years, that is a great thing, although there are many who think that printing will be consumed by its own material. Posterity will judge this. Indeed, even if many volumes have been printed, they will never be printed to such an extent that you cannot always find something not printed to write. Nor can one easily find or buy all printed books. Even if all the books of the whole world were printed, the devout scribe should by no means desist from his pursuit, but he should also perpetuate useful printed books by writing, since otherwise they cannot last long. For by doing this he will give firmness to writings that totter, greatness of value to cheap things, longevity of time to perishable things."
+              },
+              "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/canvas/21",
+              "seeAlso": [
+                {
+                  "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0010-0003",
+                  "type": "Text",
+                  "format": "text/html"
+                }
+              ],
+              "label": {
+                "en": [
+                  "Reviewed source page"
+                ]
+              }
             }
           ]
         }
@@ -1820,25 +1892,6 @@
                   "format": "text/html"
                 }
               ]
-            },
-            {
-              "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/manifest.json/annotation/p-en-0009-0005",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "language": "en",
-                "format": "text/plain",
-                "value": "O my brothers, if you knew the usefulness of this work, you would not be so sluggish and slow for the office of the scribe. Or do you think that God can be appeased by the sacrifices of fools? A humble brother who, devoutly from obedience, copies out one book has greater merit before God than he who seems, both devoutly and on his own authority, to be free for contemplation. For obedience is better than sacrifices. A monk, moreover, if he is ordered, must set aside a good work and fulfill the lawful will of the abbot, not his own. For evil must never be done for the sake of obedience. Therefore, dearest brothers, do not neglect this good; do not despise the zeal for writing. For it is a great good, and very useful to the Catholic Church and to your souls. If anyone has practiced himself in it, he will recognize how great its usefulness is. Begin with desire, and with love you will complete it. Let each one rejoice to have brought, by his labors, some usefulness to others in the house of God. Clement and [unclear] is the Lord, [unclear]."
-              },
-              "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/canvas/23",
-              "seeAlso": [
-                {
-                  "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0009-0005",
-                  "type": "Text",
-                  "format": "text/html"
-                }
-              ]
             }
           ]
         }
@@ -1927,25 +1980,6 @@
           "type": "AnnotationPage",
           "items": [
             {
-              "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/manifest.json/annotation/p-en-0010-0001",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "language": "en",
-                "format": "text/plain",
-                "value": "your labors, so pious, so useful, so necessary to the Church, will not pass without the greatest recompense."
-              },
-              "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/canvas/25",
-              "seeAlso": [
-                {
-                  "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0010-0001",
-                  "type": "Text",
-                  "format": "text/html"
-                }
-              ]
-            },
-            {
               "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/manifest.json/annotation/p-en-0010-0002",
               "type": "Annotation",
               "motivation": "supplementing",
@@ -1959,25 +1993,6 @@
               "seeAlso": [
                 {
                   "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0010-0002",
-                  "type": "Text",
-                  "format": "text/html"
-                }
-              ]
-            },
-            {
-              "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/manifest.json/annotation/p-en-0010-0003",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "language": "en",
-                "format": "text/plain",
-                "value": "[unclear], brothers, let no one say: “What need is there for me to weary myself by writing, when the art of printing pours forth so many and such great books into the light that with little money we can furnish a great library?” Truly, whoever speaks in this way is trying to make darkness for his own leisure. Who does not know how great the distance is between writing and printing? For writing, if it is put on parchment, can endure for a thousand years; but printing, since it is a thing of paper, how long will it last? If it can endure in a paper volume for two hundred years, that is a great thing, although there are many who think that printing will be consumed by its own material. Posterity will judge this. Indeed, even if many volumes have been printed, they will never be printed to such an extent that you cannot always find something not printed to write. Nor [unclear], even if all the books of the whole world were printed, should the devout scribe in any way desist from his pursuit, but he should also perpetuate useful printed books by writing, since otherwise they cannot last long. For by doing this he will give firmness to writings that totter, greatness of value to cheap things, longevity of time to perishable things."
-              },
-              "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/canvas/25",
-              "seeAlso": [
-                {
-                  "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0010-0003",
                   "type": "Text",
                   "format": "text/html"
                 }
@@ -2290,6 +2305,30 @@
                   "Reviewed source page"
                 ]
               }
+            },
+            {
+              "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/manifest.json/annotation/p-en-0014-0004",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/plain",
+                "value": "But we, adding this with humility, say that a monk placed under obedience, if at the command of his prelate he writes useful materials on feast days, should fear nothing, because the obedience of one writing is better than the sacrifices of his own will. Yet on this occasion let him not neglect those things to which he is bound by the institution of the feast, such as celebrating or hearing Mass and duly performing the canonical hours. Therefore he does well who writes sacred books on feast days, provided the due circumstances are carefully observed. But he who can fittingly persist in divine contemplation is believed to hold a more excellent degree, unless the merit of obedience rightly intervenes. For obedience adds increase to good works, and from equal things makes better ones. Since, then, we are weak men and less fit for contemplation, it is better to make good this loss by writing than to be occupied, as commonly happens, with useless conversations. Since we also cannot always read or pray, there is nothing after these by which we may occupy ourselves more usefully than if we devote our effort, with devotion, to writing books. By this we not only instruct ourselves, but also prepare material for edification for those who will come long after us. The scribe teaches good things by writing no less than the preacher teaches holy things by preaching. And what is permitted to the latter, who forbids to the former?"
+              },
+              "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/canvas/27",
+              "seeAlso": [
+                {
+                  "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0014-0004",
+                  "type": "Text",
+                  "format": "text/html"
+                }
+              ],
+              "label": {
+                "en": [
+                  "Reviewed source page"
+                ]
+              }
             }
           ]
         }
@@ -2578,25 +2617,6 @@
               ]
             },
             {
-              "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/manifest.json/annotation/p-en-0014-0004",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "language": "en",
-                "format": "text/plain",
-                "value": "But we, adding this with humility, say that a monk placed under obedience, if at the command of his prelate he writes useful materials on feast days, should fear nothing, because the obedience of one writing is better than the sacrifices of his own will. Yet on this occasion let him not neglect those things to which he is bound by the institution of the feast, such as celebrating or hearing Mass and duly performing the canonical hours. Therefore he does well who writes books on feast days, provided the due circumstances are carefully observed. But he who can fittingly persist in divine contemplation is believed to hold a more excellent degree, unless the merit of obedience rightly intervenes. For obedience adds increase to good works, and from equal things makes better ones. Since, then, we are weak men and less fit for contemplation, it is better to make good this loss by writing than to be occupied, as commonly happens, with useless conversations. Since we also cannot always read or pray, there is nothing after these by which we may occupy ourselves more usefully than if we devote our effort, with devotion, to writing books. By this we not only instruct ourselves, but also prepare material for edification for those who will come long after us. The scribe teaches good things by writing no less than the preacher teaches holy things by preaching. And what is permitted to the latter, who forbids to the former?"
-              },
-              "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/canvas/31",
-              "seeAlso": [
-                {
-                  "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0014-0004",
-                  "type": "Text",
-                  "format": "text/html"
-                }
-              ]
-            },
-            {
               "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/manifest.json/annotation/p-en-0014-0005",
               "type": "Annotation",
               "motivation": "supplementing",
@@ -2719,6 +2739,30 @@
           "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/canvas/32/page/text",
           "type": "AnnotationPage",
           "items": [
+            {
+              "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/manifest.json/annotation/p-en-0016-0003",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/plain",
+                "value": "But by the fact that you desire to be occupied with exterior labors, you show that you are empty of interior exercise. For if these labors delight a monk, his inward exercises are bound to desert him. You are being led, I say, to exterior labors by a diabolical impulse, which knows that the interior ones are contrary to itself. If you were a true monk, you would not abhor the secrecy of the cell, which is especially fitting to your honor. In our age there is not such devotion among monks that, after the example of the ancients, they can make progress in works of agriculture. These labors destroy devotion more than they build it up. For as soon as one has come to conversations, no speech of edification, or scarcely any, is brought forth; rather, mouths are opened most eagerly to the business of the world. Pleasant discussion is held about the wars of kings, the conflicts of princes, the pomps of the age; no guard at all is applied to silence."
+              },
+              "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/canvas/32",
+              "seeAlso": [
+                {
+                  "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0016-0003",
+                  "type": "Text",
+                  "format": "text/html"
+                }
+              ],
+              "label": {
+                "en": [
+                  "Reviewed source page"
+                ]
+              }
+            },
             {
               "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/manifest.json/annotation/p-en-0016-0004",
               "type": "Annotation",
@@ -3004,25 +3048,6 @@
               "seeAlso": [
                 {
                   "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0016-0002",
-                  "type": "Text",
-                  "format": "text/html"
-                }
-              ]
-            },
-            {
-              "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/manifest.json/annotation/p-en-0016-0003",
-              "type": "Annotation",
-              "motivation": "supplementing",
-              "body": {
-                "type": "TextualBody",
-                "language": "en",
-                "format": "text/plain",
-                "value": "But by the fact that you desire to be occupied with exterior labors, you show that you are empty of interior exercise. For whichever of the monks these labors delight, they must necessarily abandon the interior ones. You are being led, I say, to exterior labors by a diabolical impulse, which knows that the interior ones are contrary to itself. If you were a true monk, you would not abhor the secrecy of the cell, which is especially fitting to your honor. In our age there is not such devotion among monks that, after the example of the ancients, they can make progress in works of agriculture. These labors destroy devotion more than they build it up. For as soon as one has come to conversations, no speech of edification, or scarcely any, is brought forth; rather, mouths are opened most eagerly to the business of the world. Pleasant discussion is held about the wars of kings, the conflicts of princes, the pomps of the age; no guard at all is applied to silence."
-              },
-              "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/canvas/35",
-              "seeAlso": [
-                {
-                  "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0016-0003",
                   "type": "Text",
                   "format": "text/html"
                 }
@@ -3678,6 +3703,30 @@
                   "format": "text/html"
                 }
               ]
+            },
+            {
+              "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/manifest.json/annotation/p-en-0021-0004",
+              "type": "Annotation",
+              "motivation": "supplementing",
+              "body": {
+                "type": "TextualBody",
+                "language": "en",
+                "format": "text/plain",
+                "value": "The desired end is auspiciously placed upon this little work, elegant beyond measure, by Peter of Friedberg, the Mainz printer, in the year of the Virgin birth 1494."
+              },
+              "target": "https://trithemius-corpus.github.io/Trithemius-Corpus/iiif/prdl-24362_de-laude-scriptorum-manualium/canvas/41",
+              "seeAlso": [
+                {
+                  "id": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0021-0004",
+                  "type": "Text",
+                  "format": "text/html"
+                }
+              ],
+              "label": {
+                "en": [
+                  "Reviewed source page"
+                ]
+              }
             }
           ]
         }

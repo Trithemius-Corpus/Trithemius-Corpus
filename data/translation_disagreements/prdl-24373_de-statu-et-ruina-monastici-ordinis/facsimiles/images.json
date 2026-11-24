@@ -1,0 +1,26 @@
+{
+  "4": {
+    "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00040424/canvas/4",
+    "label": "2v (0004)",
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040424_00004/full/full/0/default.jpg",
+    "attribution": "Bayerische Staatsbibliothek",
+    "rights": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "download_date": "2026-11-18",
+    "path": "data/translation_disagreements/prdl-24373_de-statu-et-ruina-monastici-ordinis/facsimiles/canvas-004.jpg",
+    "sha256": "77ab3532d14d94ba88a936a701c9bcb3891930ddcbd4a956589a3e7b7c399627"
+  },
+  "9": {
+    "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11303506/canvas/9",
+    "label": "(0009)",
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb11303506_00009/full/full/0/default.jpg",
+    "attribution": "Bayerische Staatsbibliothek, Mainz printing",
+    "rights": [
+      "https://rightsstatements.org/vocab/NoC-NC/1.0/"
+    ],
+    "download_date": "2026-11-18",
+    "path": "data/translation_disagreements/prdl-24373_de-statu-et-ruina-monastici-ordinis/facsimiles/canvas-009.jpg",
+    "sha256": "77b29b698206766784c96f0e3aca3f87a0477b6165e28a7990dfa29118869612"
+  }
+}

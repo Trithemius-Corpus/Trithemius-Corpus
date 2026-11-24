@@ -1846,10 +1846,10 @@
       ]
     }
   ],
-  "content_digest": "b049ae31cd70a7e628aab3d78d3c3e4b5bb3436df56c41aab8302da661bde458",
+  "content_digest": "7cf614724e5d9f30a3a5421e7770c4857d9cd8416077db538a40eebdd77b2a9d",
   "contextual_review": {
     "inventory_sha256": "347f77a359ec49049821c0104b783ce38f07a70957954cea617ed16c2e32f020",
-    "report_sha256": "dd0832a266908c4c41b67e17e46b5c0042c7e339e589199fdab40902baa0bced",
+    "report_sha256": "33cbda1e42bd1fd3f4e14475c76c5e99ef73e8efdc3fe83614ce40af4237c4fc",
     "candidate_count": 1728
   }
 }

@@ -2,7 +2,7 @@ position	cipher	decoded	evidence_status
 1	g	i	inferred-operation
 2	a	c	inferred-operation
 3	f	h	inferred-operation
-4	z	a	inferred-operation
+4	z	b	inferred-operation
 5	g	i	inferred-operation
 6	b	d	inferred-operation
 7	c	e	inferred-operation
@@ -21,9 +21,9 @@ position	cipher	decoded	evidence_status
 20	s	v	inferred-operation
 21	i	l	inferred-operation
 22	b	d	inferred-operation
-23	x	z	inferred-operation
+23	x	a	inferred-operation
 24	l	n	inferred-operation
-25	v	y	inferred-operation
+25	v	z	inferred-operation
 26	s	v	inferred-operation
 27	s	v	inferred-operation
 28	k	m	inferred-operation

@@ -3,11 +3,30 @@ from __future__ import annotations
 
 import hashlib
 import json
+import shutil
 from pathlib import Path
 
 from PIL import Image, ImageChops
 
 from edition_corrections import recorded_ledgers
+
+
+def publish_cited_pages(root: Path, destination: Path) -> None:
+    """Restore cited full-page WebPs from their hash-checked evidence records."""
+    for registry in (root / "data/translation_disagreements").glob("*/facsimiles/images.json"):
+        work_id = registry.parent.parent.name
+        for record in json.loads(registry.read_text(encoding="utf-8")).values():
+            number = record.get("published_corpus_page")
+            if number is None:
+                continue
+            source = read_image(root, record, "path")
+            if type(number) is not int or number < 1 or source.suffix.lower() != ".webp":
+                raise ValueError(f"{work_id}: invalid published facsimile")
+            page = destination / work_id / f"page_{number:03d}.webp"
+            if page.is_file() and hashlib.sha256(page.read_bytes()).hexdigest() == record["sha256"]:
+                continue
+            page.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copyfile(source, page)
 
 
 def read_image(root: Path, record: dict, key: str) -> Path:
@@ -19,7 +38,7 @@ def read_image(root: Path, record: dict, key: str) -> Path:
     return path
 
 
-def load(root: Path, work_id: str, *, as_of: str | None = None) -> dict:
+def load(root: Path, work_id: str, *, as_of: str | None = None, sequence: int | None = None) -> dict:
     ledgers = recorded_ledgers(root, work_id, "scans")
     if not ledgers:
         return {}
@@ -29,7 +48,8 @@ def load(root: Path, work_id: str, *, as_of: str | None = None) -> dict:
     assessments = {}
     dates = {}
     for ledger in ledgers:
-        if as_of and ledger["date"] > as_of:
+        if as_of and (ledger["date"] > as_of or
+                      (ledger["date"] == as_of and sequence is not None and ledger.get("sequence", 1) > sequence)):
             continue
         for key, item in ledger["items"].items():
             if item.get("supersedes_date") != dates.get(key):

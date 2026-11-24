@@ -37,6 +37,19 @@ Existing chapter and segment anchors remain in place. When an existing heading
 already owns an `id`, the builder adds an adjacent stable passage anchor instead
 of replacing the older fragment.
 
+Headnote search links use fragments beginning with `note-intro-`. When a
+published headnote paragraph is revised, record its new content-derived
+fragment and its original public fragment under the track’s source path.
+The builder keeps the original fragment on the revised paragraph and
+checks that the recorded replacement still exists. [Headnote fragments](../data/publication/headnote-anchors.json)
+
+The passage fields `segment` and `segment_id` identify the chunk that supplied
+the English. A passage can correspond to Latin in an adjacent segment. In that
+case `latin_segment` gives the reviewed Latin segment number. Readers can
+always follow `targets.parallel` to the appropriate segment. A reviewed
+alignment records quotations from both sides.
+[Reviewed Latin alignments](../data/publication/latin-alignments.json)
+
 ## Addressable blocks
 
 Version 1 addresses non-nested rendered blocks with meaningful text:
@@ -127,6 +140,8 @@ It is a pilot interchange format, not a claim that the underlying OCR is a
 critical transcription.
 
 ## Compatibility and change policy
+
+A dated correction can retire an uncertainty annotation while leaving later notes in the same passage. Its `resolved_annotations` entries link to the errata. The passage builder reserves those IDs when numbering surviving notes. Corrections and scan assessments made in a second batch on the same date carry `sequence: 2`. The initial batch defaults to 1. The batch number also selects the scan evidence available when that correction was recorded.
 
 - `passage-index-v1` IDs must not be renumbered for typography or template
   changes.

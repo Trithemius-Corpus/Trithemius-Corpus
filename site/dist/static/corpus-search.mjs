@@ -101,89 +101,128 @@ function bindSearch(form) {
   const results = document.getElementById("corpus-results");
   const status = document.getElementById("corpus-search-status");
   const loadMore = document.getElementById("corpus-more");
-  let api;
+  const retry = document.getElementById("corpus-retry");
+  let clientPromise;
+  let importFailures = 0;
   let timer;
   let revision = 0;
-  let searchResults = [];
-  let next = 0;
+  let query = "";
+  let missingCollections = [];
+  let pending = [];
+  let failed = [];
+  let loaded = 0;
   let matchesShown = 0;
   const groups = new Map();
 
-  async function appendPages(version) {
-    const offset = next;
-    const batch = searchResults.slice(offset, offset + 8);
-    loadMore.disabled = true;
-    try {
-      const fragments = await Promise.all(batch.map(hit => hit.data()));
-      if (revision !== version) return;
-      for (const fragment of fragments) {
-        const matches = passageMatches(fragment);
-        if (!matches.length) continue;
-        const group = fragment.meta.workGroup || "site-guides";
-        if (!groups.has(group)) {
-          const section = node("section");
-          section.className = "corpus-work-results";
-          // Printed-witness qualifiers belong on the edition line. A single
-          // Basel heading would otherwise also label the Cologne print.
-          const title = fragment.meta.workTitle?.replace(/\s*[\[(][^\])]*[\])]/g, "").trim();
-          section.append(node("h2", title || "Site guides and catalogues"));
-          results.append(section);
-          groups.set(group, section);
-        }
-        groups.get(group).append(editionResults(fragment, matches));
-        matchesShown += matches.length;
-      }
-      next = offset + batch.length;
-      if (!searchResults.length) {
-        status.textContent = "No matching passages.";
-      } else {
-        const workCount = groups.size - (groups.has("site-guides") ? 1 : 0);
-        const works = workCount ? " in " + workCount + (workCount === 1 ? " work" : " works") : "";
-        status.textContent = matchesShown.toLocaleString() + " matching sections" + works +
-          (groups.has("site-guides") ? (workCount ? " and site guides" : " in site guides") : "") + ". " +
-          next + " of " + searchResults.length + " matching pages loaded.";
-      }
-      loadMore.hidden = next >= searchResults.length;
-    } catch {
-      if (revision !== version) return;
-      status.textContent = "Some matching editions could not be loaded. Select the button below to retry.";
-      loadMore.hidden = false;
-    } finally {
-      if (revision === version) loadMore.disabled = false;
+  function showEdition(fragment, matches) {
+    if (!matches.length) return;
+    const group = fragment.meta.workGroup || "site-guides";
+    if (!groups.has(group)) {
+      const section = node("section");
+      section.className = "corpus-work-results";
+      // The edition line identifies the particular printed witness.
+      const title = fragment.meta.workTitle?.replace(/\s*[\[(][^\])]*[\])]/g, "").trim();
+      section.append(node("h2", title || "Site guides and catalogues"));
+      results.append(section);
+      groups.set(group, section);
+    }
+    groups.get(group).append(editionResults(fragment, matches));
+    matchesShown += matches.length;
+  }
+
+  async function collectPages(version) {
+    if (!clientPromise) {
+      const url = new URL(form.dataset.index, document.baseURI);
+      if (importFailures) url.searchParams.set("retry", importFailures);
+      clientPromise = import(url.href).then(module => module.createInstance()).catch(error => {
+        importFailures++;
+        clientPromise = null;
+        throw error;
+      });
+    }
+    const collections = missingCollections.slice();
+    let client;
+    try { client = await clientPromise; }
+    catch { return; } // All requested collections are still missing.
+    if (version !== revision) return;
+    const searches = await Promise.allSettled(collections.map(collection => client.search(query, { filters: { collection } })));
+    if (version !== revision) return;
+    missingCollections = [];
+    searches.forEach((outcome, i) => {
+      if (outcome.status === "fulfilled") pending.push(...outcome.value.results);
+      else missingCollections.push(collections[i]);
+    });
+    if (missingCollections.length === collections.length && !loaded && !failed.length && !pending.length) {
+      // A failed initialization is terminal for this Pagefind instance.
+      clientPromise = null;
+      await client.destroy();
     }
   }
 
-  async function run(query, version) {
-    if (!query || revision !== version) return;
+  function report() {
+    const incomplete = missingCollections.length > 0 || failed.length > 0;
+    retry.hidden = !incomplete;
+    loadMore.hidden = !pending.length;
+    const total = loaded + failed.length + pending.length;
+    const workCount = groups.size - (groups.has("site-guides") ? 1 : 0);
+    const works = workCount ? " in " + workCount + (workCount === 1 ? " work" : " works") : "";
+    const guides = groups.has("site-guides") ? (workCount ? " and site guides" : " in site guides") : "";
+    const count = total ? matchesShown.toLocaleString() + " matching sections" + works + guides +
+      ". " + loaded + " of " + total + " matching pages loaded." : "";
+    status.textContent = incomplete ? "Search incomplete. " + count + (count ? " " : "") +
+      "Some search data could not be loaded. Retry to finish." : count || "No matching passages.";
+  }
+
+  async function load(version, recover) {
+    if (!query || version !== revision) return;
+    loadMore.disabled = retry.disabled = true;
     try {
-      if (!api) api = await import(new URL(form.dataset.index, document.baseURI).href);
-      const [editions, guides] = await Promise.all(["editions", "guides"].map(collection =>
-        api.search(query, { filters: { collection } })));
-      if (revision !== version) return;
-      searchResults = editions.results.concat(guides.results);
-      await appendPages(version);
-    } catch {
-      if (revision === version) status.textContent = "The search index could not be loaded. Submit the search to retry.";
+      if (recover && missingCollections.length) await collectPages(version);
+      if (version !== revision) return;
+      const batch = recover && failed.length ? failed.splice(0, 8) : pending.splice(0, 8);
+      const fragments = await Promise.allSettled(batch.map(async hit => {
+        const fragment = await hit.data();
+        return { fragment, matches: passageMatches(fragment) };
+      }));
+      if (version !== revision) return;
+      fragments.forEach((outcome, i) => {
+        if (outcome.status === "fulfilled") {
+          showEdition(outcome.value.fragment, outcome.value.matches);
+          loaded++;
+        } else failed.push(batch[i]);
+      });
+    } finally {
+      if (version === revision) {
+        report();
+        loadMore.disabled = retry.disabled = false;
+      }
     }
   }
 
   function schedule(immediate) {
     clearTimeout(timer);
-    const query = input.value.trim();
+    const nextQuery = input.value.trim();
+    if (immediate && query === nextQuery && !retry.hidden) {
+      if (!retry.disabled) return load(revision, true);
+      return;
+    }
+    query = nextQuery;
     const version = ++revision;
     results.replaceChildren();
     groups.clear();
-    searchResults = [];
-    next = 0;
+    missingCollections = ["editions", "guides"];
+    failed = [];
+    pending = [];
+    loaded = 0;
     matchesShown = 0;
-    loadMore.hidden = true;
+    loadMore.hidden = retry.hidden = true;
     status.textContent = query ? "Searching…" : "";
     const url = new URL(location.href);
     if (query) url.searchParams.set("q", query);
     else url.searchParams.delete("q");
     history.replaceState(null, "", url);
-    if (immediate) run(query, version);
-    else timer = setTimeout(() => run(query, version), 300);
+    if (immediate) return load(version, true);
+    else timer = setTimeout(() => load(version, true), 300);
   }
 
   if (location.protocol === "file:") {
@@ -192,9 +231,10 @@ function bindSearch(form) {
     status.textContent = "Open the corpus through a local HTTP server or the published site to search.";
     return;
   }
-  form.addEventListener("submit", event => { event.preventDefault(); schedule(true); });
+  form.addEventListener("submit", event => { event.preventDefault(); return schedule(true); });
   input.addEventListener("input", () => schedule(false));
-  loadMore.addEventListener("click", () => appendPages(revision));
+  retry.addEventListener("click", () => load(revision, true));
+  loadMore.addEventListener("click", () => load(revision, false));
   input.value = new URLSearchParams(location.search).get("q") || "";
   if (input.value) schedule(true);
 }

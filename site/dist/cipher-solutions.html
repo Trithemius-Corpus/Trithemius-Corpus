@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta data-pagefind-filter="collection[content]" content="guides">
-<meta data-pagefind-meta="sourceRevision[content]" content="a86924de28d76ba28ba31376511f7bc04846f2696eb2ef7bf27b3b37ec660def"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta data-pagefind-meta="sourceRevision[content]" content="34fba8b0e2ea7a600a0e7d0b7e4d04473c71c7a637eafff960552e8a3cfbbb31"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Executable Cipher Edition &mdash; Trithemius Corpus</title>
 <meta name="description" content="An executable scholarly edition of Clavis Modus II: printed evidence, transcription, extraction, substitution, and computed plaintext.">
 <link rel="canonical" href="https://trithemius-corpus.github.io/Trithemius-Corpus/cipher-solutions.html"><meta property="og:type" content="website">
@@ -75,13 +75,13 @@
 <main class="container" id="main" data-pagefind-body>
 <article class="cipher-edition" data-cipher-trace>
   <header>
-    <p class="eyebrow">Executable scholarly edition · Clavis, p. 251</p>
+    <p class="eyebrow">Frankfurt, 1608 · Clavis, printed pp. 56–57</p>
     <h1>Modus II: from printed letters to German</h1>
     <p class="lede">Follow one worked example from the printed page through transcription and extraction to a mechanically recomputed plaintext. Every visual has an equivalent table or prose account.</p>
   </header>
 
   <aside class="trace-caution" aria-label="Editorial status">
-    <strong>No silent emendation.</strong> The substitution is fully reproducible, but the decoded transcription matches only part of the printed Intentio because several tiny Fraktur cipher letters remain uncertain. The edition therefore preserves the computed output and the printed target separately; it does not silently repair the cipher stream.
+    <strong>No silent emendation.</strong> The retained stream decodes to 42 letters. Its opening gafz gives ichb. The resulting text differs from the 45-letter normalized Intentio, beginning at position 6. The sources of the remaining differences are unresolved.
   </aside>
 
   <nav class="trace-nav" aria-label="Cipher transformation steps">
@@ -95,18 +95,18 @@
     <section class="trace-step" id="trace-step-0" data-step="0">
       <h2>1. Printed example</h2>
       <div class="trace-source">
-        <figure><img src="static/images/cipher-crops/modus_02_p251.webp" alt="Crop of printed page 251 containing the Modus II alphabet, intention, significant letters, and example"><figcaption>The crop preserves the Alphabetum, Intentio, Literae significantes, and Exemplum secundi on printed page 251.</figcaption></figure>
-        <div><p><span class="evidence-tag evidence-printed">Printed evidence</span></p><p><strong>Intentio:</strong> <span lang="de">Ich bittedich komm von stund an zu mir es thut sehr noth</span></p><p><strong>English:</strong> I beg you, come to me at once; it is very urgent.</p><p><a href="works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_parallel.html#seg-113">Open the containing work</a> <small>(segment alignment; The stable passage index identifies the printed Intentio within this containing source segment.)</small></p></div>
+        <figure><img src="static/images/cipher-crops/modus_02_p251.webp" alt="Detail of the significant letters and the opening of the cover text on printed p. 57"><figcaption>Printed p. 57 is HAB image 249 and corpus image 251. The detail shows the significant letters and the beginning of the cover text. The full page also shows the alphabet and the German Intentio.</figcaption></figure>
+        <div><p><span class="evidence-tag evidence-printed">Printed evidence</span></p><p><strong>Intentio</strong> <span lang="de">Ich bitte dich komm von stund an zu mir/ es thut sehr noth.</span></p><p><strong>English</strong> I beg you, come to me at once; it is very urgent.</p><p><a href="static/images/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/page_250.webp">Full p. 56, rule and wheel</a> · <a href="static/images/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/page_251.webp">Full p. 57, alphabet and example</a></p><p>Herzog August Bibliothek Wolfenbüttel, Fb 243 · <a href="https://diglib.hab.de/drucke/fb-243/start.htm?image=00249">Library image 249</a></p><p><a href="works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos.html#p-en-0113-0010">German Intentio in the reading edition</a></p></div>
       </div>
     </section>
 
     <section class="trace-step" id="trace-step-1" data-step="1">
       <h2>2. Transcribe and extract</h2>
-      <p><span class="evidence-tag evidence-repair">Transcription / repair</span> OCR-preserving sample of the Latin Exemplum. After the initial printed marker, alternate words are significant; their initials are read in order. OCR errors remain unresolved, so this sample demonstrates the extraction rule but is not silently forced to agree with the separately printed cipher line.</p>
-      <p class="trace-stream" lang="la">C Reator <strong>genyri</strong> humani <strong>apice</strong> Deus <strong>famelis</strong> suor <strong>Zelo</strong> rellitudine <strong>gu</strong> berna <strong>quatenus</strong> bene <strong>conueniant</strong> sancti <strong>celestiumus</strong> praemium <strong>gaudium</strong> exultium </p>
-      <p><strong>Initials from the bold alternate words:</strong> <span class="trace-stream">gafzgqccg</span></p>
-      <p><span class="evidence-tag evidence-inferred">Inferred operation</span> For the cover, take the initial of every alternate significant word after the marker. For the separately printed Literae significantes, read each period-separated letter from left to right and remove separators without reordering.</p>
-      <p>Human/vision reading of the printed, period-separated letter line; periods are editorially represented as separators.</p>
+      <p><span class="evidence-tag evidence-repair">Transcription / repair</span> Printed p. 56 directs the writer to begin with an empty word, then alternate. In the opening of the cover on p. 57, the decorated initial belongs to Creator. The line break in guberna has been joined and the abbreviation in consequamur expanded.</p>
+      <p class="trace-stream" lang="la">Creator <strong>generis</strong> humani <strong>aspice</strong> Deus <strong>famulos</strong> tuos <strong>Zelo</strong> rectitudinis <strong>guberna</strong> quatenus <strong>bene</strong> conuersantes <strong>consequamur</strong> </p>
+      <p><strong>Initials from the bold alternate words:</strong> <span class="trace-stream">gafzgbc</span></p>
+      <p><span class="evidence-tag evidence-inferred">Inferred operation</span> Take the initials of the second, fourth and subsequent even-numbered cover words. For the separate significant-letter stream, read the recorded letters in order and remove the editorial separators.</p>
+      <p>The archived transcription is retained in its previous order and spelling. Its periods delimit individual letters in this edition. The printed line is set in spaced italic type. No individual human transcriber is documented here.</p>
       <p class="trace-stream"><span class="sr-only">Transcribed dotted letters: </span>g.a.f.z.g.b.c.p.g.a.f.h.m.k.s.m.l.q.r.s.i.b.x.l.v.s.s.k.g.r.g.q.b.s.e.q.e.t.p.m.g.r</p>
       <p class="trace-stream">gafzgbcpgafhmksmlqrsibxlvsskgrgqbseqetpmgr</p>
     </section>
@@ -114,24 +114,24 @@
     <section class="trace-step" id="trace-step-2" data-step="2">
       <h2>3. Invert the printed Alphabetum</h2>
       <p><span class="evidence-tag evidence-printed">Printed evidence</span> Each first letter is plaintext; each second letter is its printed cipher substitute.</p>
-      <div class="table-scroll"><table><caption>Complete Modus II substitution table</caption><thead><tr><th scope="col">Plain</th><th scope="col">a</th><th scope="col">b</th><th scope="col">c</th><th scope="col">d</th><th scope="col">e</th><th scope="col">f</th><th scope="col">g</th><th scope="col">h</th><th scope="col">i</th><th scope="col">k</th><th scope="col">l</th><th scope="col">m</th><th scope="col">n</th><th scope="col">o</th><th scope="col">p</th><th scope="col">q</th><th scope="col">r</th><th scope="col">s</th><th scope="col">t</th><th scope="col">v</th><th scope="col">x</th><th scope="col">y</th><th scope="col">z</th><th scope="col">w</th></tr></thead><tbody><tr><th scope="row">Cipher</th><td>z</td><td>w</td><td>a</td><td>b</td><td>c</td><td>d</td><td>e</td><td>f</td><td>g</td><td>h</td><td>i</td><td>k</td><td>l</td><td>m</td><td>n</td><td>o</td><td>p</td><td>q</td><td>r</td><td>s</td><td>t</td><td>v</td><td>x</td><td>y</td></tr></tbody></table></div>
-      <p><span class="evidence-tag evidence-inferred">Inferred operation</span> Invert the printed plaintext-to-cipher Alphabetum and substitute one letter at a time.</p>
+      <div class="table-scroll"><table><caption>Complete Modus II substitution table</caption><thead><tr><th scope="col">Plain</th><th scope="col">a</th><th scope="col">b</th><th scope="col">c</th><th scope="col">d</th><th scope="col">e</th><th scope="col">f</th><th scope="col">g</th><th scope="col">h</th><th scope="col">i</th><th scope="col">k</th><th scope="col">l</th><th scope="col">m</th><th scope="col">n</th><th scope="col">o</th><th scope="col">p</th><th scope="col">q</th><th scope="col">r</th><th scope="col">s</th><th scope="col">t</th><th scope="col">v</th><th scope="col">x</th><th scope="col">z</th></tr></thead><tbody><tr><th scope="row">Cipher</th><td>x</td><td>z</td><td>a</td><td>b</td><td>c</td><td>d</td><td>e</td><td>f</td><td>g</td><td>h</td><td>i</td><td>k</td><td>l</td><td>m</td><td>n</td><td>o</td><td>p</td><td>q</td><td>r</td><td>s</td><td>t</td><td>v</td></tr></tbody></table></div>
+      <p><span class="evidence-tag evidence-inferred">Inferred operation</span> The print moves each plaintext letter two places back on its 22-letter circle. Invert the 22 printed pairs and substitute for each cipher letter in sequence.</p>
     </section>
 
     <section class="trace-step" id="trace-step-3" data-step="3">
       <h2>4. Read the computed result</h2>
-      <p><strong>Computed from the committed transcription:</strong></p><p class="trace-stream">ichaiderichkomvonstvldznyvvmitisdvgsgxroit</p>
-      <p><strong>Printed Intentio, normalized to the same 24-letter alphabet:</strong></p><p class="trace-stream">ichbittedichkommvonstvndanzvmiresthvtsehrnoth</p>
-      <p>The difference is evidence about the transcription, not a failed cipher rule. The edition displays both strings so readers can test alternative letter readings against the scan.</p>
-      <div class="table-scroll"><table><caption>Letter-by-letter computed decode</caption><thead><tr><th>Position</th><th>Cipher</th><th>Decoded</th></tr></thead><tbody><tr><td>1</td><td>g</td><td>i</td></tr><tr><td>2</td><td>a</td><td>c</td></tr><tr><td>3</td><td>f</td><td>h</td></tr><tr><td>4</td><td>z</td><td>a</td></tr><tr><td>5</td><td>g</td><td>i</td></tr><tr><td>6</td><td>b</td><td>d</td></tr><tr><td>7</td><td>c</td><td>e</td></tr><tr><td>8</td><td>p</td><td>r</td></tr><tr><td>9</td><td>g</td><td>i</td></tr><tr><td>10</td><td>a</td><td>c</td></tr><tr><td>11</td><td>f</td><td>h</td></tr><tr><td>12</td><td>h</td><td>k</td></tr><tr><td>13</td><td>m</td><td>o</td></tr><tr><td>14</td><td>k</td><td>m</td></tr><tr><td>15</td><td>s</td><td>v</td></tr><tr><td>16</td><td>m</td><td>o</td></tr><tr><td>17</td><td>l</td><td>n</td></tr><tr><td>18</td><td>q</td><td>s</td></tr><tr><td>19</td><td>r</td><td>t</td></tr><tr><td>20</td><td>s</td><td>v</td></tr><tr><td>21</td><td>i</td><td>l</td></tr><tr><td>22</td><td>b</td><td>d</td></tr><tr><td>23</td><td>x</td><td>z</td></tr><tr><td>24</td><td>l</td><td>n</td></tr><tr><td>25</td><td>v</td><td>y</td></tr><tr><td>26</td><td>s</td><td>v</td></tr><tr><td>27</td><td>s</td><td>v</td></tr><tr><td>28</td><td>k</td><td>m</td></tr><tr><td>29</td><td>g</td><td>i</td></tr><tr><td>30</td><td>r</td><td>t</td></tr><tr><td>31</td><td>g</td><td>i</td></tr><tr><td>32</td><td>q</td><td>s</td></tr><tr><td>33</td><td>b</td><td>d</td></tr><tr><td>34</td><td>s</td><td>v</td></tr><tr><td>35</td><td>e</td><td>g</td></tr><tr><td>36</td><td>q</td><td>s</td></tr><tr><td>37</td><td>e</td><td>g</td></tr><tr><td>38</td><td>t</td><td>x</td></tr><tr><td>39</td><td>p</td><td>r</td></tr><tr><td>40</td><td>m</td><td>o</td></tr><tr><td>41</td><td>g</td><td>i</td></tr><tr><td>42</td><td>r</td><td>t</td></tr></tbody></table></div>
+      <p><strong>Computed from the committed transcription:</strong></p><p class="trace-stream">ichbiderichkomvonstvldanzvvmitisdvgsgxroit</p>
+      <p><strong>Printed Intentio with normalized spelling</strong></p><p class="trace-stream">ichbittedichkommvonstvndanzvmiresthvtsehrnoth</p>
+      <p>Lowercase the German, omit spaces and punctuation, and write u as v for comparison. Compare the two readings with the full printed page.</p>
+      <div class="table-scroll"><table><caption>Letter-by-letter computed decode</caption><thead><tr><th>Position</th><th>Cipher</th><th>Decoded</th></tr></thead><tbody><tr><td>1</td><td>g</td><td>i</td></tr><tr><td>2</td><td>a</td><td>c</td></tr><tr><td>3</td><td>f</td><td>h</td></tr><tr><td>4</td><td>z</td><td>b</td></tr><tr><td>5</td><td>g</td><td>i</td></tr><tr><td>6</td><td>b</td><td>d</td></tr><tr><td>7</td><td>c</td><td>e</td></tr><tr><td>8</td><td>p</td><td>r</td></tr><tr><td>9</td><td>g</td><td>i</td></tr><tr><td>10</td><td>a</td><td>c</td></tr><tr><td>11</td><td>f</td><td>h</td></tr><tr><td>12</td><td>h</td><td>k</td></tr><tr><td>13</td><td>m</td><td>o</td></tr><tr><td>14</td><td>k</td><td>m</td></tr><tr><td>15</td><td>s</td><td>v</td></tr><tr><td>16</td><td>m</td><td>o</td></tr><tr><td>17</td><td>l</td><td>n</td></tr><tr><td>18</td><td>q</td><td>s</td></tr><tr><td>19</td><td>r</td><td>t</td></tr><tr><td>20</td><td>s</td><td>v</td></tr><tr><td>21</td><td>i</td><td>l</td></tr><tr><td>22</td><td>b</td><td>d</td></tr><tr><td>23</td><td>x</td><td>a</td></tr><tr><td>24</td><td>l</td><td>n</td></tr><tr><td>25</td><td>v</td><td>z</td></tr><tr><td>26</td><td>s</td><td>v</td></tr><tr><td>27</td><td>s</td><td>v</td></tr><tr><td>28</td><td>k</td><td>m</td></tr><tr><td>29</td><td>g</td><td>i</td></tr><tr><td>30</td><td>r</td><td>t</td></tr><tr><td>31</td><td>g</td><td>i</td></tr><tr><td>32</td><td>q</td><td>s</td></tr><tr><td>33</td><td>b</td><td>d</td></tr><tr><td>34</td><td>s</td><td>v</td></tr><tr><td>35</td><td>e</td><td>g</td></tr><tr><td>36</td><td>q</td><td>s</td></tr><tr><td>37</td><td>e</td><td>g</td></tr><tr><td>38</td><td>t</td><td>x</td></tr><tr><td>39</td><td>p</td><td>r</td></tr><tr><td>40</td><td>m</td><td>o</td></tr><tr><td>41</td><td>g</td><td>i</td></tr><tr><td>42</td><td>r</td><td>t</td></tr></tbody></table></div>
     </section>
   </div>
 
   <section class="trace-account">
     <h2>Plain-text account</h2>
-    <p>The scan prints an explicit alphabet, an intended German message, and a dotted line of significant letters. We transcribe those visible letters in order and remove only their separators. We then reverse the printed alphabet and replace each cipher letter with its corresponding plaintext letter. This produces <code>ichaiderichkomvonstvldznyvvmitisdvgsgxroit</code>. It only partly agrees with the printed intention, so uncertain readings are left unresolved rather than silently changed.</p>
+    <p>The print supplies the substitution alphabet, the intended German message and a separate line of significant letters. Applying the inverse alphabet to the retained transcription produces <code>ichbiderichkomvonstvldanzvvmitisdvgsgxroit</code>. The two readings agree through <i>ich bi</i>. At the sixth letter the transcription gives d where the printed intention has t.</p>
     <p><a download href="data/cipher-traces/modus-ii.json">Download JSON</a> · <a download href="data/cipher-traces/modus-ii.tsv">Download TSV</a></p>
-    <details><summary>Provenance and limits</summary><ul><li>Facsimile crop derived from the corpus scan of printed page 251.</li><li>Cipher-line transcription confirmed by human inspection against a vision-assisted read; unresolved letter readings remain visible through the mismatch.</li><li>The plaintext Intentio and explicit Alphabetum are printed on the same page.</li></ul></details>
+    <details><summary>Provenance and limits</summary><ul><li>Frankfurt, 1608, Herzog August Bibliothek Wolfenbüttel, Fb 243. Printed p. 56 describes the shift and diagrams the circle. Printed p. 57 gives the paired alphabet, German intention, significant letters and cover.</li><li>AI visual collation on 23 November 2026 checked the two pages, all 22 substitutions and the first fourteen cover words. Human verification of this correction is undocumented.</li><li>The full significant-letter transcription is the pre-correction input. The displayed result is computed from that input without supplying letters from the printed intention.</li></ul></details>
   </section>
 </article>
 <script src="static/cipher-trace.js" defer></script>
@@ -162,7 +162,7 @@
     <p class="footer-byline muted">
       Machine-assisted English translations of Latin texts by or associated with Johannes Trithemius (1462&ndash;1516).
       Each edition records its audit coverage. Check the Latin before quoting a translation.
-      Translations &amp; generated data: CC0. Methodology, documentation, code &amp; corpus arrangement: CC BY 4.0.
+      Translations &amp; generated data: CC0. Methodology, documentation, code &amp; corpus arrangement: CC BY 4.0. Source images and crops carry their institutions&rsquo; rights statements.
 <a href="LICENSE.html">License &amp; rights</a>. Compiled 2026 by Ian Carlos Fabin.
     </p>
   </div>

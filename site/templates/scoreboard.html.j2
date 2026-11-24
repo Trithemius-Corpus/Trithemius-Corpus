@@ -46,7 +46,7 @@
         <td class="num" data-label="Faithfulness">{{ '%.2f'|format(w.faithful_adj) if w.faithful_adj is not none else '&mdash;' }}</td>
         <td class="num" data-label="Fluency">{{ '%.2f'|format(w.fluent_adj) if w.fluent_adj is not none else '&mdash;' }}</td>
         <td class="num{% if w.unclear_density and w.unclear_density >= 5 %} gap-high{% elif w.unclear_density and w.unclear_density >= 3 %} gap-mid{% endif %}" data-label="Damage density" title="OCR damage density — [unclear] markers per segment">{{ '%.1f'|format(w.unclear_density) if w.unclear_density is not none else '&mdash;' }}</td>
-        <td data-label="Work"><a href="{{ url('works/' + w.id + '.html') }}">{{ w.title }}</a>{% if w.edition_label %} <span class="ed-tag" title="One of {{ w.edition_count }} editions of this text in the corpus">{{ w.edition_label }}</span>{% endif %}</td>
+        <td data-label="Work"><a href="{{ url('works/' + w.id + '.html') }}">{{ w.title }}</a>{% if w.edition_label %} <span class="ed-tag" title="One of {{ w.edition_count }} catalogue records for this text">{{ w.edition_label }}</span>{% endif %}</td>
       </tr>
       {% endfor %}
     </tbody>

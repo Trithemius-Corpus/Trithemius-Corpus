@@ -480,6 +480,10 @@
       {
         "path": "revisions/2026-11-17.json",
         "sha256": "20d594cb09f895886032d40de5d4bde5cfaa6b785d8bdfc47af9c15175846db6"
+      },
+      {
+        "path": "revisions/2026-11-23.json",
+        "sha256": "b50f5c8e18cd012fdd828123916011ed019d0ef1e60d3c34c3d491165dd14afb"
       }
     ],
     "scans": [
@@ -490,6 +494,10 @@
       {
         "path": "scan-revisions/2026-11-17.json",
         "sha256": "9345312398188ac77926940900bd7bd22cc7e154a3b1a2858357a95feabf6e78"
+      },
+      {
+        "path": "scan-revisions/2026-11-23.json",
+        "sha256": "a2bc45a2a5aacbdbdf4395a8f62622ed1e500118fb45b30821e0b1d7f59f7c9d"
       }
     ]
   }

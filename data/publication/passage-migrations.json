@@ -12,5 +12,103 @@
     "before": "7252070d940b06d81fbf68f69f86a08d2aabfd2b8ae1237beac5e48973649efc",
     "after": "e761fcb20659b510512abba89f5b73e0464b86a391526d185b70db1e44daa114",
     "reason": "2026-11-17 Scribes scan revision: A-F23"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0113-0006",
+    "before": "5b989914457882c7bfee7157fd6a7ce82fecd7d5740f8cd8e84e0bef4d5d8d9a",
+    "after": "a7e3aaa6076854a2ec313142331ff33b8dc83c926cb81388ee21e2c3c5cb8e79",
+    "reason": "2026-11-23 scan collation: clavis-modus-ii-alphabet"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0113-0008",
+    "before": "b9ba55b2bf0df7eb051276bbc6b911f550a4986fbd00a892bc0bcc43e6f0890c",
+    "after": "4bf5c92cf42203421e305cc63ec527d952d5c8aaa862f5c90171efe11c62cdd0",
+    "reason": "2026-11-23 scan collation: clavis-modus-ii-alphabet"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0113-0010",
+    "before": "3ac58ad08173342db791a84bf76c345eb29cee294eef9583ff74153067a6387a",
+    "after": "6c213d573953eaf8b517a475e5e97445cd3ff130b2c0f0436c840acdfa8f3584",
+    "reason": "2026-11-23 scan collation: clavis-modus-ii-alphabet"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0113-0011",
+    "before": "f4d2bd156937c94f6578a1b51ec0812d6326d1d16bc0f1ca36c572ad91864591",
+    "after": "823d8bac196599f64ccc0b76e65c31e3a76aa029160ef2c3decfec42bfa46d8b",
+    "reason": "2026-11-23 scan collation: clavis-modus-ii-alphabet"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0113-0012",
+    "before": "02578cff593a9a84dd140eb6fa3ea85f9e1fe83bf133dedbd6b1fa9375951c27",
+    "after": "996d48a997bb8a301593873c8d34a16c1026b614ebf9ffa8382dbddfe1f88747",
+    "reason": "2026-11-23 scan collation: clavis-modus-ii-alphabet"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0113-0013",
+    "before": "fc821eda9fb75326a2dc4cdc5d60832b613972e03631409a708809c4a9b5d45a",
+    "after": "5742ecff675f98e7c87c99ffd8ae7ee616761d793ba95046a26782a0908a3a12",
+    "reason": "2026-11-23 scan collation: clavis-modus-ii-alphabet"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0113-0014",
+    "before": "d3c872d412d8f208bffca7c04477de9cee4d3e8e0bcaa11867746ef9b8656578",
+    "after": "9291d513dbdb312c3fd5aed4c306e3a012b2ae64ad5acb9a0e19339e8dcaa440",
+    "reason": "2026-11-23 scan collation: clavis-modus-ii-alphabet"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0124-0002",
+    "before": "cd7a6b8c60bf294430f7a6fdedd600fa57fe9d9cd838abf2397ef4bf559184e6",
+    "after": "a6e0e22aaabc366deb779082d5118ac69daaee15409545ca46fc71f363794c78",
+    "reason": "2026-11-23 scan collation: clavis-modus-ii-alphabet"
+  },
+  {
+    "work": "prdl-24362_de-laude-scriptorum-manualium",
+    "id": "p-en-0009-0005",
+    "before": "a4792293ec8ba3ccca0ad1b4f2793e060d349c7ebadaaae1e5922ebe8de8457c",
+    "after": "bc0746b2d5ea5ec92b07f3f32d8adea529c701248981bacbb8debf4e7dea8f9b",
+    "reason": "2026-11-23 scan collation: B-F03"
+  },
+  {
+    "work": "prdl-24362_de-laude-scriptorum-manualium",
+    "id": "p-en-0010-0001",
+    "before": "d6db8138aff51b724a2e8cd1cd7eab885000951ffd0193342bff4e3995acb3f5",
+    "after": "761aaa7c98eb6019fe2a30199bda99063c30a502de9a382251f1484591efa2a8",
+    "reason": "2026-11-23 scan collation: B-F03"
+  },
+  {
+    "work": "prdl-24362_de-laude-scriptorum-manualium",
+    "id": "p-en-0010-0003",
+    "before": "9c802cf854cc376c9c237d79f67ac2c3ef01767dc51c374a4f426eff2324e1e3",
+    "after": "e80c5b5793ff5cc995928759d16031bd1fa11f1d4bd848d8d0911dc48034861a",
+    "reason": "2026-11-23 scan collation: B-F04"
+  },
+  {
+    "work": "prdl-24362_de-laude-scriptorum-manualium",
+    "id": "p-en-0014-0004",
+    "before": "e1bae8886844d67b291a14344502882c5274a7642e0d7edf2d28e28187ae6c17",
+    "after": "ada6d77fd9d400c73fbce3b60d29d35722f335276ef581071e8c6d3810a580fc",
+    "reason": "2026-11-23 scan collation: scribes-feast-sacred-books"
+  },
+  {
+    "work": "prdl-24362_de-laude-scriptorum-manualium",
+    "id": "p-en-0016-0003",
+    "before": "7e2826f062422596a63026b9229e2a3c191c9ad213c80b64f743015686a375d8",
+    "after": "3b6a97be9986e555523ffe98f13f0bc23cac0f88a6a1eaaebafd75eec8492d68",
+    "reason": "2026-11-23 scan collation: scribes-inward-exercises"
+  },
+  {
+    "work": "prdl-24362_de-laude-scriptorum-manualium",
+    "id": "p-en-0021-0004",
+    "before": "0700664e11e3dcca10bad3b67cd9eae4809cbea2c882c77cb56703463111bf9b",
+    "after": "1bff0d83bec0fae4096f70f2a79194e8be1a4c1af4b41048d470a25015feaa44",
+    "reason": "2026-11-23 scan collation: context-c-s03"
   }
 ]

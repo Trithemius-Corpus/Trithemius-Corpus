@@ -169,8 +169,9 @@ def write_edition(out_dir: Path, work_id: str, chunk_files: list[Path], ocr_path
         "canonical_backend": LANE,
         "source_work_id": work_id,
     }
-    if published_meta.get("attribution"):
-        meta["attribution"] = published_meta["attribution"]
+    for key in ("attribution", "duplicate_source_group", "duplicate_source_note"):
+        if published_meta.get(key):
+            meta[key] = published_meta[key]
     (out_dir / "metadata.json").write_text(
         json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )

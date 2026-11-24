@@ -6,6 +6,12 @@
     "p-en-0020-0001": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/40",
     "p-en-0016-0004": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/32",
     "p-en-0006-0001": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/14",
-    "p-en-0014-0003": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/27"
+    "p-en-0014-0003": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/27",
+    "p-en-0021-0004": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/41",
+    "p-en-0010-0003": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/21",
+    "p-en-0014-0004": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/27",
+    "p-en-0016-0003": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/32",
+    "p-en-0009-0005": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/20",
+    "p-en-0010-0001": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/21"
   }
 }

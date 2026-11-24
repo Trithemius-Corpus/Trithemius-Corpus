@@ -1,60 +1,110 @@
 {
-  "$schema": "cipher-trace.schema.json",
   "id": "clavis-modus-ii-p251",
   "title": "Modus II: from printed letters to German",
   "work_id": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
   "edition": "Clavis generalis triplex (1608)",
   "facsimile": {
-    "printed_page": 251,
+    "printed_page": 57,
+    "corpus_page": 251,
+    "provider_image": 249,
+    "shelfmark": "Herzog August Bibliothek Wolfenbüttel, Fb 243",
+    "page": "static/images/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/page_251.webp",
+    "rule_page": "static/images/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/page_250.webp",
+    "source": "https://diglib.hab.de/drucke/fb-243/start.htm?image=00249",
+    "rule_source": "https://diglib.hab.de/drucke/fb-243/start.htm?image=00248",
     "crop": "static/images/cipher-crops/modus_02_p251.webp",
-    "region_note": "The crop preserves the Alphabetum, Intentio, Literae significantes, and Exemplum secundi on printed page 251.",
+    "region_note": "Printed p. 57 is HAB image 249 and corpus image 251. The detail shows the significant letters and the beginning of the cover text. The full page also shows the alphabet and the German Intentio.",
     "evidence_status": "printed-evidence"
   },
   "passage": {
     "id": "trc:prdl-70281_clavis-generalis-triplex-in-libros-steganographicos:seg-0113:p-0010",
-    "label": "Clavis parallel reader, cipher-apparatus segment 113",
-    "href": "works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos_parallel.html#seg-113",
-    "precision": "segment",
-    "note": "The stable passage index identifies the printed Intentio within this containing source segment."
+    "label": "German Intentio in the reading edition",
+    "href": "works/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos.html#p-en-0113-0010",
+    "precision": "passage",
+    "note": "The printed German appears in the apparatus at this passage."
   },
-  "alphabet": "abcdefghiklmnopqrstvxyzw",
+  "alphabet": "abcdefghiklmnopqrstvxz",
   "printed_substitution_pairs": [
-    "az", "bw", "ca", "db", "ec", "fd", "ge", "hf", "ig", "kh", "li", "mk",
-    "nl", "om", "pn", "qo", "rp", "sq", "tr", "vs", "xt", "yv", "zx", "wy"
+    "ax",
+    "bz",
+    "ca",
+    "db",
+    "ec",
+    "fd",
+    "ge",
+    "hf",
+    "ig",
+    "kh",
+    "li",
+    "mk",
+    "nl",
+    "om",
+    "pn",
+    "qo",
+    "rp",
+    "sq",
+    "tr",
+    "vs",
+    "xt",
+    "zv"
   ],
   "cover": {
     "label": "Exemplum secundi (cover prose sample)",
-    "tokens": ["C", "Reator", "genyri", "humani", "apice", "Deus", "famelis", "suor", "Zelo", "rellitudine", "gu", "berna", "quatenus", "bene", "conueniant", "sancti", "celestiumus", "praemium", "gaudium", "exultium"],
-    "significant_positions": [3, 5, 7, 9, 11, 13, 15, 17, 19],
+    "tokens": [
+      "Creator",
+      "generis",
+      "humani",
+      "aspice",
+      "Deus",
+      "famulos",
+      "tuos",
+      "Zelo",
+      "rectitudinis",
+      "guberna",
+      "quatenus",
+      "bene",
+      "conuersantes",
+      "consequamur"
+    ],
+    "significant_positions": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      14
+    ],
     "status": "transcription-repair",
-    "method": "OCR-preserving sample of the Latin Exemplum. After the initial printed marker, alternate words are significant; their initials are read in order. OCR errors remain unresolved, so this sample demonstrates the extraction rule but is not silently forced to agree with the separately printed cipher line."
+    "method": "Printed p. 56 directs the writer to begin with an empty word, then alternate. In the opening of the cover on p. 57, the decorated initial belongs to Creator. The line break in guberna has been joined and the abbreviation in consequamur expanded."
   },
   "cipher_stream": {
     "label": "Literae significantes",
     "transcription": "g.a.f.z.g.b.c.p.g.a.f.h.m.k.s.m.l.q.r.s.i.b.x.l.v.s.s.k.g.r.g.q.b.s.e.q.e.t.p.m.g.r",
     "status": "transcription-repair",
-    "method": "Human/vision reading of the printed, period-separated letter line; periods are editorially represented as separators."
+    "method": "The archived transcription is retained in its previous order and spelling. Its periods delimit individual letters in this edition. The printed line is set in spaced italic type. No individual human transcriber is documented here."
   },
   "extraction": {
-    "rule": "For the cover, take the initial of every alternate significant word after the marker. For the separately printed Literae significantes, read each period-separated letter from left to right and remove separators without reordering.",
+    "rule": "Take the initials of the second, fourth and subsequent even-numbered cover words. For the separate significant-letter stream, read the recorded letters in order and remove the editorial separators.",
     "result": "gafzgbcpgafhmksmlqrsibxlvsskgrgqbseqetpmgr",
     "status": "inferred-operation"
   },
   "decode": {
-    "rule": "Invert the printed plaintext-to-cipher Alphabetum and substitute one letter at a time.",
-    "result": "ichaiderichkomvonstvldznyvvmitisdvgsgxroit",
+    "rule": "The print moves each plaintext letter two places back on its 22-letter circle. Invert the 22 printed pairs and substitute for each cipher letter in sequence.",
+    "result": "ichbiderichkomvonstvldanzvvmitisdvgsgxroit",
     "status": "inferred-operation"
   },
   "intentio": {
-    "diplomatic": "Ich bittedich komm von stund an zu mir es thut sehr noth",
+    "diplomatic": "Ich bitte dich komm von stund an zu mir/ es thut sehr noth.",
     "normalized_letters": "ichbittedichkommvonstvndanzvmiresthvtsehrnoth",
     "translation": "I beg you, come to me at once; it is very urgent.",
-    "status": "printed-evidence"
+    "status": "printed-evidence",
+    "normalization": "Lowercase the German, omit spaces and punctuation, and write u as v for comparison."
   },
-  "editorial_note": "The substitution is fully reproducible, but the decoded transcription matches only part of the printed Intentio because several tiny Fraktur cipher letters remain uncertain. The edition therefore preserves the computed output and the printed target separately; it does not silently repair the cipher stream.",
+  "editorial_note": "The retained stream decodes to 42 letters. Its opening gafz gives ichb. The resulting text differs from the 45-letter normalized Intentio, beginning at position 6. The sources of the remaining differences are unresolved.",
   "provenance": [
-    "Facsimile crop derived from the corpus scan of printed page 251.",
-    "Cipher-line transcription confirmed by human inspection against a vision-assisted read; unresolved letter readings remain visible through the mismatch.",
-    "The plaintext Intentio and explicit Alphabetum are printed on the same page."
+    "Frankfurt, 1608, Herzog August Bibliothek Wolfenbüttel, Fb 243. Printed p. 56 describes the shift and diagrams the circle. Printed p. 57 gives the paired alphabet, German intention, significant letters and cover.",
+    "AI visual collation on 23 November 2026 checked the two pages, all 22 substitutions and the first fourteen cover words. Human verification of this correction is undocumented.",
+    "The full significant-letter transcription is the pre-correction input. The displayed result is computed from that input without supplying letters from the printed intention."
   ]
 }

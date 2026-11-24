@@ -4,15 +4,15 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Search &mdash; Trithemius Corpus</title>
-<meta name="description" content="Search the Trithemius Corpus — full-text search across all 47 works">
+<meta name="description" content="Search the English editions, Latin OCR, notes and guides in the Trithemius Corpus">
 <link rel="canonical" href="https://trithemius-corpus.github.io/Trithemius-Corpus/search.html"><meta name="robots" content="noindex,follow"><meta property="og:type" content="website">
 <meta property="og:site_name" content="Trithemius Corpus">
 <meta property="og:title" content="Search &mdash; Trithemius Corpus">
-<meta property="og:description" content="Search the Trithemius Corpus — full-text search across all 47 works">
+<meta property="og:description" content="Search the English editions, Latin OCR, notes and guides in the Trithemius Corpus">
 <meta property="og:url" content="https://trithemius-corpus.github.io/Trithemius-Corpus/search.html"><meta property="og:image" content="https://trithemius-corpus.github.io/Trithemius-Corpus/static/images/hero-steganographia-wheel.webp"><meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@trithemius_corpus">
 <meta name="twitter:title" content="Search &mdash; Trithemius Corpus">
-<meta name="twitter:description" content="Search the Trithemius Corpus — full-text search across all 47 works">
+<meta name="twitter:description" content="Search the English editions, Latin OCR, notes and guides in the Trithemius Corpus">
 <meta name="twitter:image" content="https://trithemius-corpus.github.io/Trithemius-Corpus/static/images/hero-steganographia-wheel.webp"><link rel="icon" type="image/svg+xml" href="static/favicon.svg">
 <meta name="theme-color" content="#100d12">
 <link rel="stylesheet" href="static/fonts.css">
@@ -88,6 +88,7 @@
   <noscript><p>Enable JavaScript to search the local text index.</p></noscript>
   <p id="corpus-search-status" role="status" aria-live="polite" aria-atomic="true"></p>
   <div id="corpus-results"></div>
+  <button id="corpus-retry" type="button" hidden>Retry incomplete search</button>
   <button id="corpus-more" type="button" hidden>Show more matching editions</button>
 </section>
 <script type="module" src="static/corpus-search.mjs"></script>
@@ -118,7 +119,7 @@
     <p class="footer-byline muted">
       Machine-assisted English translations of Latin texts by or associated with Johannes Trithemius (1462&ndash;1516).
       Each edition records its audit coverage. Check the Latin before quoting a translation.
-      Translations &amp; generated data: CC0. Methodology, documentation, code &amp; corpus arrangement: CC BY 4.0.
+      Translations &amp; generated data: CC0. Methodology, documentation, code &amp; corpus arrangement: CC BY 4.0. Source images and crops carry their institutions&rsquo; rights statements.
 <a href="LICENSE.html">License &amp; rights</a>. Compiled 2026 by Ian Carlos Fabin.
     </p>
   </div>

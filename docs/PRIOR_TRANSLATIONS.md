@@ -1,7 +1,8 @@
 # Survey of prior English translations of Trithemius
 
-The project provisionally lists 23 of its 29 distinct texts (41 of its 47 editions)
-as having no prior complete published English translation located in its survey.
+The survey located no prior complete published English translation for 23 of
+the 29 texts. Those 23 texts account for 41 catalogue records drawn from 39
+digitized sources. The full translated catalogue has 47 records and 45 sources.
 This is a search outcome, not proof of translation priority. This document records what was checked, what was found, and where
 the uncertainty lies. It is a working bibliography, not an exhaustive one;
 corrections via the issue tracker are welcome.
@@ -35,9 +36,9 @@ The following works are among those for which the survey located no complete
 published English translation. For the *Eight Questions*, the survey records
 English excerpts.
 
-- Monastic reform: *De Statu et Ruina Monastici Ordinis*, *De Triplici Regione Claustralium* (3 eds.), *De Republica Ecclesiae et Monachorum Ordinis* (2), *Sermones et Exhortationes ad Monachos* (2), *Abbreviatura Recessuum Capitularium*, the *Admonitiones ad Monachos* collection
+- Monastic reform: *De Statu et Ruina Monastici Ordinis*, *De Triplici Regione Claustralium* (3 eds.), *De Republica Ecclesiae et Monachorum Ordinis* (2 records of the same scan), *Sermones et Exhortationes ad Monachos* (2), *Abbreviatura Recessuum Capitularium*, the *Admonitiones ad Monachos* collection
 - Priestly/pastoral: *De Cura Pastorali*, *Institutio Vitae Sacerdotalis* (2), *De Sacerdotum Vita Instituenda*
-- Marian/hagiographic: *De Laudibus Sanctissimae Matris Annae* (6 eds.), *De Purissima et Immaculata Conceptione Virginis* (2), *De Laudibus Ordinis Fratrum Carmelitarum*
+- Marian/hagiographic: *De Laudibus Sanctissimae Matris Annae* (6 records from 5 sources), *De Purissima et Immaculata Conceptione Virginis* (2), *De Laudibus Ordinis Fratrum Carmelitarum*
 - Devotional: *De Operatione Divini Amoris*, *De Vanitate et Miseria Humanae Vitae*, *De Vera Conversione Mentis ad Deum*
 - Bibliographic/historical: *Liber de Scriptoribus Ecclesiasticis* (2 eds.), the *Opera Historica* / *Chronicon Hirsaugiense* and *Chronicon Sponheimense*, the *Compendium sive Breviarium* of Frankish origins
 - *Liber Octo Quaestionum* (4 eds.) — only excerpts have appeared in English
@@ -58,7 +59,7 @@ complete published English edition was located.
 Acknowledging a prior translation is scholarly courtesy, not an admission of
 derivation: every rendering in this corpus is produced independently by the
 pipeline described in [`../METHODOLOGY.md`](../METHODOLOGY.md) from
-public-domain Latin source scans. Where a prior English edition exists, the
+digitizations of public-domain Latin texts. Where a prior English edition exists, the
 intro headnote for that work names it and recommends it for citation. The
 retrieval anchors used by the pipeline are public-domain only (see
 [`../data/anchors/CURATION.md`](../data/anchors/CURATION.md) and
@@ -67,9 +68,9 @@ an anchor.
 
 ## Classification used by the catalogue
 
-Of the 47 printed witnesses, two have complete prior English translations and
+Of the 47 translated catalogue records, two have complete prior English translations and
 four have unresolved survey coverage. The catalogue’s “no prior complete
-English located” filter covers the other 41 witnesses, representing 23 distinct
+English located” filter covers the other 41 records from 39 sources, representing 23 distinct
 texts. These include three *Polygraphia* witnesses with translated prefatory
 matter, four *Eight Questions* witnesses with translated excerpts, and 34
-witnesses for which the survey located no prior published English.
+records from 32 sources for which the survey located no prior published English.

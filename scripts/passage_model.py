@@ -3,8 +3,8 @@
 The public reading view is generated from Markdown chunks aligned to source
 segments. This module assigns stable IDs to addressable English block elements
 without pretending that the Latin OCR has paragraph-level alignment: each
-English passage points to its containing source segment, and the index records
-that alignment precision explicitly.
+English passage retains its original chunk identity and points to the Latin
+segment established for it, including recorded cross-segment alignments.
 
 No timestamp is written to generated artifacts. Given the same work metadata,
 source segments, and rendered HTML, JSON and TEI output are byte-stable.
@@ -220,6 +220,8 @@ def _annotate_block(
     sequence: int,
     kind: str,
     existing_id: str,
+    alignment: dict | None = None,
+    retired_annotations: frozenset[str] = frozenset(),
 ) -> tuple[str, dict, list[dict]]:
     html_id = passage_html_id(segment, sequence)
     passage_id = canonical_passage_id(work_id, segment, sequence)
@@ -234,6 +236,9 @@ def _annotate_block(
         kind_match = ANNOTATION_KIND_RE.search(attrs)
         annotation_kind = kind_match.group(1).lower() if kind_match else "editorial"
         ann_html_id = annotation_html_id(segment, sequence, annotation_number)
+        while ann_html_id in retired_annotations:
+            annotation_number += 1
+            ann_html_id = annotation_html_id(segment, sequence, annotation_number)
         ann_id = f"{passage_id}:annotation-{annotation_number:03d}"
         start_tag = _append_attrs(
             "<span" + attrs + ">",
@@ -271,6 +276,9 @@ def _annotate_block(
         "data-passage-uri": passage_id,
         "data-segment": str(segment),
     }
+    latin_segment = alignment["latin_segment"] if alignment else segment
+    if alignment:
+        passage_attrs["data-latin-segment"] = str(latin_segment)
     prefix = ""
     if existing_id:
         prefix = (
@@ -295,14 +303,53 @@ def _annotate_block(
         "annotations": [item["id"] for item in annotation_records],
         "targets": {
             "reading": f"works/{work_id}.html#{html_id}",
-            "parallel": f"works/{work_id}_parallel.html#seg-{segment}",
+            "parallel": f"works/{work_id}_parallel.html#seg-{latin_segment}",
         },
     }
+    if alignment:
+        if alignment["english_quote"] not in record["text"]:
+            raise ValueError(f"{work_id}#{html_id}: reviewed English passage has changed")
+        record["latin_segment"] = latin_segment
+        rewritten += latin_source_link(latin_segment, work_id + "_parallel.html")
     return rewritten, record, annotation_records
 
 
+def latin_source_link(segment: int, page: str = "") -> str:
+    return (f'<small class="muted" data-pagefind-ignore><a href="{html.escape(page)}#seg-{segment}">'
+            f'Latin source for this passage · segment {segment}</a></small>')
+
+
+def parallel_source_links(pairs: list[dict], alignments: dict) -> list[dict]:
+    """The two columns keep their archival order. Link each reviewed paragraph to its Latin."""
+    if not alignments:
+        return pairs
+    by_segment = {pair["n"]: dict(pair) for pair in pairs}
+    for anchor, rule in alignments.items():
+        english = int(anchor.split("-")[2])
+        latin = rule["latin_segment"]
+        if english not in by_segment or latin not in by_segment or latin == english:
+            raise ValueError(f"{anchor}: invalid cross-segment target {latin}")
+        target = by_segment[latin]["latin"]
+        if target.count(rule["latin_quote"]) != 1:
+            raise ValueError(f"{anchor}: Latin quotation is missing or ambiguous in segment {latin}")
+        pair = by_segment[english]
+        source = pair["english_html"]
+        parser = _BlockSpanParser(source)
+        parser.feed(source)
+        parser.close()
+        matches = [b for b in parser.blocks if rule["english_quote"] in plain_text(source[b.start:b.end])]
+        if len(matches) != 1:
+            raise ValueError(f"{anchor}: expected one English block in segment {english}")
+        block = matches[0]
+        opening = _append_attrs(source[block.start:block.start_tag_end], {"data-segment": str(latin)})
+        pair["english_html"] = (source[:block.start] + opening + source[block.start_tag_end:block.end]
+                                + latin_source_link(latin) + source[block.end:])
+    return list(by_segment.values())
+
+
 def identify_passages(
-    marked_html: str, work_id: str, chapters: dict | None = None, compound: dict | None = None
+    marked_html: str, work_id: str, chapters: dict | None = None, compound: dict | None = None,
+    alignments: dict | None = None, *, retired_annotations: frozenset[str] = frozenset(),
 ) -> tuple[str, list[dict], list[dict]]:
     """Replace segment markers with stable passage IDs and structured notes."""
     parts = PASSAGE_MARKER_RE.split(marked_html)
@@ -351,6 +398,8 @@ def identify_passages(
                 sequence=sequence,
                 kind=kind,
                 existing_id=existing_id,
+                alignment=(alignments or {}).get(passage_html_id(segment, sequence)),
+                retired_annotations=retired_annotations,
             )
             record["chapter_id"] = _chapter_for_segment(chapters, segment)
             passages.append(record)
@@ -359,6 +408,8 @@ def identify_passages(
         for start, end, rewritten in reversed(replacements):
             fragment = fragment[:start] + rewritten + fragment[end:]
         output.append(fragment)
+    if alignments and set(alignments) != {p["html_id"] for p in passages if "latin_segment" in p}:
+        raise ValueError(f"{work_id}: reviewed alignment refers to a missing English passage")
     return "".join(output), passages, annotations
 
 
@@ -418,7 +469,9 @@ def build_passage_index(
             "precision": "segment",
             "note": (
                 "English passages are addressable below the segment level; "
-                "Latin correspondence is asserted only for the containing source segment."
+                + ("Reviewed passages identify their corresponding Latin segment explicitly."
+                   if any("latin_segment" in p for p in passages)
+                   else "Latin correspondence is asserted only for the containing source segment.")
             ),
         },
         "segments": segments,
@@ -504,7 +557,7 @@ def build_tei(index: dict) -> ET.ElementTree:
             attrs = {
                 XML_ID: passage["html_id"],
                 "n": str(passage["sequence"]),
-                "corresp": f"#la-seg-{number:04d}",
+                "corresp": f"#la-seg-{passage.get('latin_segment', number):04d}",
             }
             if passage["kind"] not in {"heading", "paragraph"}:
                 attrs["type"] = passage["kind"]

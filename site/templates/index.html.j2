@@ -27,8 +27,9 @@
       <strong>Johannes Trithemius</strong> (1462&ndash;1516) was a
       Benedictine abbot, bibliographer, and the first author of a printed book on
       cryptography. This project offers provisional English translations of
-      <strong>{{ stats.texts }} Latin texts</strong>, across {{ stats.editions }} printed
-      editions, each set beside its Latin source, with the cipher tables shown
+      <strong>{{ stats.texts }} Latin texts</strong> in {{ stats.editions }} catalogue
+      records drawn from {{ stats.sources }} digitized sources. Each standard translation
+      appears beside its Latin OCR, with the cipher tables shown
       against the original page scans. For {{ stats.first_english }} texts,
       <a href="{{ url('prior-translations.html') }}">our survey has not located a prior complete published English translation</a>.
     </p>
@@ -62,6 +63,7 @@
 </section>
 
 <div id="continue-reading" class="continue-wrap" hidden></div>
+<script type="application/json" id="resume-editions">{{ resume_editions|tojson }}</script>
 
 <figure class="portrait-band">
   <img src="{{ asset('images/trithemius-portrait.webp') }}"

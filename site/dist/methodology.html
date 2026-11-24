@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta data-pagefind-filter="collection[content]" content="guides">
-<meta data-pagefind-meta="sourceRevision[content]" content="361508eff5f7ae68704679869808da72da9a25225615acccdcedb280ecc05834"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta data-pagefind-meta="sourceRevision[content]" content="8cea282bfbb7815889c1596011c7904fe469b7a13844eb8950c78ddd8d51bba8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Methodology &mdash; Trithemius Corpus</title>
 <meta name="description" content="How the Trithemius Corpus was made: the OCR, translation, and grading pipeline, per-work model provenance, and honest limitations.">
 <link rel="canonical" href="https://trithemius-corpus.github.io/Trithemius-Corpus/methodology.html"><meta property="og:type" content="website">
@@ -84,8 +84,8 @@
 <p>These pages have also received an editorial formatting and quality pass. Visible scan-navigation clutter—page-number markers, blank-page notices, calibration-target notices, stamp text, and duplicate-scan notices—is removed from the reading view while retained in the archival source files. Uncertainty markers such as <code>[unclear]</code> remain visible. They are evidence of damaged or ambiguous source text and are preferable to invented certainty.</p>
 <p>The T4B pages are formatted as continuous reading texts. Their source segment boundaries remain in the HTML for stable navigation and provenance, but they are not presented as artificial page divisions. Existing chapter maps drive the compact chapter navigator when a work has at least two valid chapter divisions.</p>
 <h3 id="earlier-source-witness-editions">Earlier source-witness editions</h3>
-<p>The earlier edition track remains available for all 47 translatable printed witnesses. It was produced through several OCR and translation campaigns, principally CHURRO/Qwen vision OCR and GPT-5.5 revision, with targeted repairs by other models. These pages remain useful as independent witnesses, for comparison, and for works that do not yet have a publishable T4B edition.</p>
-<p>The label <strong>cleanest source witness</strong> identifies the scan witness with the fewest recorded Latin uncertainty markers within a group of editions. Historical model scores and edition dates break ties. This is a browsing aid, not a human assessment of textual accuracy.</p>
+<p>The earlier edition track covers all 47 translated catalogue records. It was produced through several OCR and translation campaigns, principally CHURRO/Qwen vision OCR and GPT-5.5 revision, with targeted repairs by other models. Where a second English track exists, both can be checked against the cited scan.</p>
+<p>The label <strong>fewest Latin OCR uncertainty markers</strong> identifies the record with the lowest count of those markers within a group. Historical model scores and edition dates break ties.</p>
 <h3 id="what-is-authoritative">What is authoritative</h3>
 <p>Neither machine transcription is a critical Latin edition. The hierarchy is:</p>
 <ol>
@@ -96,8 +96,8 @@
 </ol>
 <p>For a passage used in publication, check the English against the Latin and the Latin against the facsimile.</p>
 <h2 id="2-source-acquisition">2. Source acquisition</h2>
-<p>The corpus began with the PRDL author record for Johannes Trithemius and the bibliography at trithemius.com. Records were resolved to public-domain institutional scans from the Bavarian State Library, Herzog August Bibliothek, e-rara, dilibri, Internet Archive, Google Books, and Gallica. Duplicate records and editions were retained where they supplied genuinely separate witnesses.</p>
-<p>The release contains 47 translatable printed witnesses representing 29 distinct texts. Four additional records are retained in the manifest as skipped because they are German-language or predominantly liturgical/tabular material. The <em>Steganographia</em>, initially blocked through the normal viewer route, was recovered through Gallica’s IIIF image service.</p>
+<p>The corpus began with the PRDL author record for Johannes Trithemius and the bibliography at trithemius.com. Catalogue records link to digitizations from the Bavarian State Library, Herzog August Bibliothek, e-rara, dilibri, Internet Archive, Google Books and Gallica. The holding institution's image terms accompany each documented correction.</p>
+<p>The 47 translated catalogue records cover 29 distinct texts and point to 45 distinct digitized sources. PRDL 24371 and 24372 use BSB <code>bsb00040421</code>. PRDL 24364 and 70284 use BSB <code>bsb00008347</code>. Each record keeps its own OCR, translation and passage IDs, so differences between two records can be checked against the same printed leaf. Four additional records are retained in the manifest as skipped because they are German-language or predominantly liturgical/tabular material. The <em>Steganographia</em>, initially blocked through the normal viewer route, was recovered through Gallica’s IIIF image service.</p>
 <p>Every work’s metadata names its source institution and scan. The source scan, not the OCR, remains the final authority.</p>
 <h2 id="3-the-ocr-record">3. The OCR record</h2>
 <p>The project tested five main OCR generations.</p>
@@ -350,7 +350,7 @@ python scripts/validate_passages.py
     <p class="footer-byline muted">
       Machine-assisted English translations of Latin texts by or associated with Johannes Trithemius (1462&ndash;1516).
       Each edition records its audit coverage. Check the Latin before quoting a translation.
-      Translations &amp; generated data: CC0. Methodology, documentation, code &amp; corpus arrangement: CC BY 4.0.
+      Translations &amp; generated data: CC0. Methodology, documentation, code &amp; corpus arrangement: CC BY 4.0. Source images and crops carry their institutions&rsquo; rights statements.
 <a href="LICENSE.html">License &amp; rights</a>. Compiled 2026 by Ian Carlos Fabin.
     </p>
   </div>

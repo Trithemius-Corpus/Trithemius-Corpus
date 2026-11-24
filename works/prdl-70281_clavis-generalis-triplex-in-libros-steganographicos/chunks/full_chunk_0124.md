@@ -1,7 +1,7 @@
 *John Trithemius, Abbot of Sponheim.*
 
 *Alphabet.*
-Ax.bz.ca.db.ec.fd.ge.hf.gk.li.mk.nl.om.pr.qo.rs.sq.tr.vs.xtz.Zv.
+Ax.bz.ca.db.ec.fd.ge.hf.ig.kh.li.mk.nl.om.pn.qo.rp.sq.tr.vs.xt.zv.
 
 *Intention of the Mystery.*
 I beg you, come to me at once; it is very urgent.

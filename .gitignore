@@ -47,7 +47,9 @@ ocr-pages/
 # build_site.py copy_static) IS committed, because GitHub Pages deploys
 # site/dist/ verbatim and CI cannot rebuild it. The landing-hero
 # site/static/images/clavis-source-page.webp stays tracked (not matched here).
-site/static/images/prdl-*/
+site/static/images/prdl-*/*
+# Ship the institution's credit alongside the distributed Trier scans.
+!site/static/images/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/RIGHTS.txt
 
 # Local notes
 SCRATCH.md

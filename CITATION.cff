@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this corpus in research or publication, please cite as below."
 title: "Trithemius Corpus: machine-assisted English translations of Latin texts by or associated with Johannes Trithemius"
 abstract: >
-  Provisional English translations of 29 Latin texts across 47 printed witnesses in the Trithemius Corpus. The project survey located no prior complete published English translation for 23 texts (41 witnesses). Edition records distinguish machine translation, editorial preparation, human review and automated audit coverage. Earlier machine scores are historical. Latin transcription, source scans, and documented corrections support verification of individual passages.
+  Provisional English translations of 29 Latin texts in 47 catalogue records drawn from 45 digitized sources. The project survey located no prior complete published English translation for 23 texts (41 records from 39 sources). Edition records distinguish machine translation, editorial preparation, human review and automated audit coverage. Earlier machine scores are historical. Latin transcription, source scans, and documented corrections support verification of individual passages.
 type: dataset
 authors:
   - family-names: Fabin
@@ -32,7 +32,9 @@ references:
     year: 1974
     publisher:
       name: Coronado Press
-    location: Lawrence, Kansas
+      city: Lawrence
+      region: Kansas
+      country: US
     notes: >
       Prior published English translation of De Laude Scriptorum Manualium
       (manifest entry prdl-24362). The present corpus's rendering of that work
@@ -46,7 +48,9 @@ references:
     year: 1977
     publisher:
       name: Alcuin Society
-    location: Vancouver
+      city: Vancouver
+      region: British Columbia
+      country: CA
     notes: >
       A second prior published English translation of De Laude Scriptorum
       Manualium (prdl-24362), alongside Behrendt 1974.

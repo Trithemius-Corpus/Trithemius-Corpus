@@ -532,3 +532,19 @@ Trithemius, *Nepiachus* (autobiography); VD16 records; standard ecclesiastical h
 ## 2026-07-11 — crypto-occult spot-check fixes
 
 - Removed the stale Modus-48/Example-36 stub text from english.md; chunk 0091 had already been replaced by a removal marker but the stitched reading text still carried the old stub (the passage remains properly translated in the appendix, chunks 0119-0120).
+
+## 2026-11-23 · clavis-modus-ii-alphabet
+
+The twenty-two printed pairs complete a regular rotation. The letter stream begins G.a.f.z, giving ich b. The full significant-letter transcription used by the executable edition was retained. The remaining differences from the printed German have no established single cause. AI scan collation. No human verification of this correction is documented.
+
+Previous wording: Ax.bz.ca.db.ec.fd.ge.hf.gk.li.mk.nl.om.pr.qo.rs.sq.tr.vs.xtz.Zv.
+
+Revised wording: Ax.bz.ca.db.ec.fd.ge.hf.ig.kh.li.mk.nl.om.pn.qo.rp.sq.tr.vs.xt.zv.
+
+*Alphabetum. Ax, bz, ca, db, ec, fd, ge, hf, ig, kh, li, mk, nl, om, pn, qo, rp, sq, tr, vs, xt, zv. Ich bitte dich komm von stund an zu mir/ es thut sehr noth.*. [Herzog August Bibliothek Wolfenbüttel, Fb 243, image 00249, printed p. 57](https://diglib.hab.de/drucke/fb-243/00249.jpg).
+
+### Executable edition and reader apparatus
+
+The former trace identified corpus image 251 as the printed page and required a 24-letter alphabet beginning `az, bw`. It returned `ichaiderichkomvonstvldznyvvmitisdvgsgxroit`. Printed p. 56 describes a two-place rotation. Printed p. 57 contains 22 pairs beginning `ax, bz`. With the same archived 42 letters, inversion gives `ichbiderichkomvonstvldanzvvmitisdvgsgxroit`. This agrees with the normalized 45-letter intention through the first five letters. Their first difference is d versus t at position six. The cause of the remaining differences is unresolved.
+
+The full page, significant-letter detail, transcription and computed result are identified separately. The first fourteen cover words were collated, including the decorated C in *Creator* and the line break in *guberna*. The later cover text in the historical apparatus retains its earlier OCR. [HAB Fb 243, printed p. 56, image 248](https://diglib.hab.de/drucke/fb-243/start.htm?image=00248) · [Printed p. 57, image 249](https://diglib.hab.de/drucke/fb-243/start.htm?image=00249)

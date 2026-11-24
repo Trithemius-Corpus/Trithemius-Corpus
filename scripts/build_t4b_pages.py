@@ -25,6 +25,7 @@ import build_site as bs  # noqa: E402
 import t4b_cleaners_cipher
 import t4b_cleaners_devotional
 import t4b_cleaners_prose
+from edition_corrections import history
 
 
 def continuous_t4b_text(work_id: str, text: str) -> str | None:
@@ -281,6 +282,10 @@ def build_t4b_work_page(env, work: dict) -> str:
     work_dir = T4B_ROOT / work_id
 
     english_html = t4b_english_html(work_id)
+    # Content-derived fragments from a cited edition stay valid after correction.
+    revised = {change["passage"]: change["rendered_anchor_after"]
+               for batch in history(ROOT, work_id) for change in batch["changes"]
+               if change["track"] == "t4b" and change.get("rendered_anchor_after")}
     # T4B uses the same numbered source segments as the published witness, so
     # its existing chapter map can drive the floating chapter navigator too.
     chapters = t4b_chapters(work_id)
@@ -290,7 +295,7 @@ def build_t4b_work_page(env, work: dict) -> str:
     intro_html = None
     intro_path = work_dir / "intro.md"
     if intro_path.exists():
-        intro_html = bs.render_markdown_file(intro_path)
+        intro_html = bs.render_headnote(intro_path)
 
     # Build a work dict compatible with work.html.j2 expectations
     display_work = dict(work)
@@ -306,6 +311,7 @@ def build_t4b_work_page(env, work: dict) -> str:
         work=display_work,
         intro=intro_html,
         english=english_html or None,
+        published_ids={current: original for original, current in revised.items()},
         has_parallel=False,
         style_c=None,
         chapters=chapters,

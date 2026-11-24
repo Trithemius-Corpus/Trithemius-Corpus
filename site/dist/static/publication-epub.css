@@ -5,6 +5,8 @@ body { margin: 5%; color: #211d17; background: #fffdf8; }
 main, article, section { display: block; }
 h1, h2, h3, h4 { line-height: 1.15; break-after: avoid; page-break-after: avoid; }
 p, li { orphans: 3; widows: 3; }
+article p { overflow-wrap: anywhere; }
+.number-run { display: inline-block; }
 a { color: #654218; text-decoration: underline; }
 blockquote { margin-inline: 1.5em; font-size: .94em; }
 code { font-family: monospace; font-size: .86em; overflow-wrap: anywhere; }

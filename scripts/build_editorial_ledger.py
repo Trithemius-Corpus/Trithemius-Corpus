@@ -35,13 +35,14 @@ def payload() -> dict:
 
 
 def summary() -> str:
-    from build_site import text_group_key, load_first_english, load_manifest
+    from build_site import source_key, text_group_key, load_first_english, load_manifest
     works = [w for w in load_manifest()["works"] if not w["skip"]]
     survey = load_first_english()
     group = [w for w in works if survey[w["id"]]["status"] in {"partial_prior", "none_located"}]
-    return (f"Provisional English translations of {len({text_group_key(w) for w in works})} Latin texts across "
-            f"{len(works)} printed witnesses in the Trithemius Corpus. The project survey located no prior complete "
-            f"published English translation for {len({text_group_key(w) for w in group})} texts ({len(group)} witnesses). "
+    return (f"Provisional English translations of {len({text_group_key(w) for w in works})} Latin texts in "
+            f"{len(works)} catalogue records drawn from {len({source_key(w) for w in works})} digitized sources. "
+            "The project survey located no prior complete published English translation for "
+            f"{len({text_group_key(w) for w in group})} texts ({len(group)} records from {len({source_key(w) for w in group})} sources). "
             "Edition records distinguish machine translation, editorial preparation, human review and automated "
             "audit coverage. Earlier machine scores are historical. Latin transcription, source scans, and "
             "documented corrections support verification of individual passages.")

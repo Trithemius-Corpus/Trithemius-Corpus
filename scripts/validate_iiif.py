@@ -54,7 +54,7 @@ def main() -> None:
                     anchor = annotation["seeAlso"][0]["id"].split("#")[-1]
                     require(anchor not in placed, f"{work_id}: duplicate source annotation {anchor}")
                     placed[anchor] = n
-        expected = {p["html_id"]: exact.get(p["html_id"], approximate.get(str(p["segment"])))
+        expected = {p["html_id"]: exact.get(p["html_id"], approximate.get(str(p.get("latin_segment", p["segment"]))))
                     for p in index["passages"]}
         require(placed == {k: v for k, v in expected.items() if v is not None}, f"{work_id}: canvas annotation drift")
         queue = ROOT / "review/translation-disagreements" / work_id / "queue.json"

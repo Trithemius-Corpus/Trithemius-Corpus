@@ -2,7 +2,7 @@
 
 The first pilot compares two English translations of *In Praise of Scribes*
 made from the same BSB printed witness (`bsb00037424`). The queue retains the
-original comparison and two dated batches of AI scan assessments. Thirteen
+original comparison and three dated batches of AI scan assessments. Twenty-three
 edits across the two editions include a revision to an earlier pen reading.
 Each correction identifies its source folio and the wording it replaced.
 
@@ -68,6 +68,14 @@ the command of the prelates and includes Rabanus between Alcuin and Regino.
 Folio 13r identifies John as former chancellor of Paris. The dated records
 preserve the exact crops, replaced text, and checksums. Human review is pending.
 
+The 23 November batch records ten edits at five loci. The English now names
+Peter of Friedberg and dates the printing to 1494, restores the sentence about
+finding or buying printed books, specifies sacred books in the feast-day
+conclusion, and identifies the inward exercises as the subject of the warning.
+The earlier edition also restores the Lord as the subject across folios 9v
+and 10r. The three uncertainty markers resolved in these readings retain
+their original links in the edition errata.
+
 The original comparison is frozen under snapshots/before-corrections. It is
 retained as historical evidence while each affected card shows its local
 resolution. Candidate IDs include both English source digests and scope; the
@@ -103,7 +111,7 @@ These checks establish artifact integrity. They do not replace a human reading
 of the Latin or the source scan, and they do not turn the lexical inventory into
 an automatically adjudicated translation.
 
-Both correction batches are audited by `validate_scribes_followup.py`, which
+The correction batches are audited by `validate_scribes_followup.py`, which
 replays every recorded change against the preserved before-texts, checks the
 edition errata and rendered readings, and verifies the passage and annotation
 IDs. `rebuild_scribes.py` targets the Scribes edition. The storehouse phrase

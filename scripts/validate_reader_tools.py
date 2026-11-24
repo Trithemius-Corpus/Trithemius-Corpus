@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import argparse
 import gzip
+import hashlib
 import json
 from pathlib import Path
 
@@ -10,6 +11,21 @@ from lxml import html
 from reader_tools import COLLECTION, reader_glossary, stamped_page
 
 ROOT = Path(__file__).resolve().parents[1]
+
+
+# Pagefind 1.5.2 with the transport corrections applied by build_search.py.
+# Both paths execute in production, depending on worker availability.
+RUNTIME_SHA256 = {
+    "pagefind.js": "f780e84de6ef97331e0f16483f6df9f3380f5f6318f9377f0d1060e434622359",
+    "pagefind-worker.js": "87592c39eb5adc76bb67ee7f18697f31e094d0d0e508c7dfeef39c3b6647c7d9",
+}
+
+
+def check_runtime(bundle: Path) -> None:
+    for name, expected in RUNTIME_SHA256.items():
+        path = bundle / name
+        if not path.is_file() or hashlib.sha256(path.read_text(encoding="utf-8").encode("utf-8")).hexdigest() != expected:
+            raise ValueError(f"Published Pagefind runtime differs from the reviewed build: {name}")
 
 
 def fragments(bundle: Path) -> dict:
@@ -29,7 +45,18 @@ def fragments(bundle: Path) -> dict:
     return docs
 
 
+def check_static_copies(source: Path, published: Path) -> None:
+    """The publication builder copies these files verbatim; the facsimile seed lives in dist."""
+    for original in source.rglob("*"):
+        if original.is_file():
+            relative = original.relative_to(source)
+            served = published / relative
+            if not served.is_file() or original.read_bytes() != served.read_bytes():
+                raise ValueError(f"Published static asset differs from its source: {relative.as_posix()}")
+
+
 def check(dist: Path, before_index: bool = False, bundle: Path | None = None) -> tuple[int, int]:
+    check_static_copies(ROOT / "site/static", dist / "static")
     if json.loads((dist / "static/reader-glossary.json").read_text(encoding="utf-8")) != reader_glossary(ROOT):
         raise ValueError("reader glossary differs from the editorial or technical source")
     search = html.parse(dist / "search.html")
@@ -38,7 +65,10 @@ def check(dist: Path, before_index: bool = False, bundle: Path | None = None) ->
         raise ValueError("search needs one labelled query field")
     if search.xpath('//*[contains(@src,"pagefind-ui")]') or not search.xpath('//script[contains(@src,"corpus-search.mjs")]'):
         raise ValueError("incorrect search interface")
-    documents = {} if before_index else fragments(bundle or dist / "pagefind")
+    bundle = bundle or dist / "pagefind"
+    if not before_index:
+        check_runtime(bundle)
+    documents = {} if before_index else fragments(bundle)
     seen = set()
     total = 0
     for pattern in ("*.html", "genres/*.html", "works/*.html"):

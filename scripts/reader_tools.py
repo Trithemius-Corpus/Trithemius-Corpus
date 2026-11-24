@@ -50,7 +50,7 @@ def search_catalog(works, group_key, edition_label):
     return catalog
 
 
-def search_anchors(rendered: str, prefix: str) -> str:
+def search_anchors(rendered: str, prefix: str, published_ids: dict | None = None) -> str:
     """Give unnumbered translation or editorial blocks text-based permalinks.
 
     Identical blocks receive occurrence suffixes. Existing edition anchors stay
@@ -60,6 +60,8 @@ def search_anchors(rendered: str, prefix: str) -> str:
     blocks.feed(rendered)
     blocks.close()
     occurrences = {}
+    assigned = set()
+    pending = set(published_ids or {})
     parts = []
     end = 0
     for block in blocks.blocks:
@@ -70,6 +72,12 @@ def search_anchors(rendered: str, prefix: str) -> str:
         occurrence = occurrences.get(signature, 0) + 1
         occurrences[signature] = occurrence
         anchor = f"{prefix}-{signature}" + (f"-{occurrence}" if occurrence > 1 else "")
+        if published_ids:
+            pending.discard(anchor)
+            anchor = published_ids.get(anchor, anchor)
+            if anchor in assigned:
+                raise ValueError(f"Duplicate published reading anchor: {anchor}")
+            assigned.add(anchor)
         parts.append(rendered[end:block.start])
         opening = rendered[block.start:block.start_tag_end]
         if "id" in block.attrs:
@@ -78,6 +86,8 @@ def search_anchors(rendered: str, prefix: str) -> str:
             parts.append(f'{opening[:-1]} id="{anchor}">')
         end = block.start_tag_end
     parts.append(rendered[end:])
+    if pending:
+        raise ValueError("Corrected text no longer renders at its published reading anchor")
     return "".join(parts)
 
 

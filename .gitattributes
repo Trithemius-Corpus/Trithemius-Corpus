@@ -23,6 +23,15 @@
 *.pf_* binary
 *.pagefind binary
 
+# Frozen numbered chunks preserve the original terminal newlines for checksum replay.
+data/translation_disagreements/*/snapshots/**/chunks/full_chunk_*.md whitespace=-blank-at-eof
+
+# Hucbald's verse uses Markdown's two-space hard breaks, including in the
+# frozen copies used to replay corrections to this edition.
+works/prdl-24376_*/english.md whitespace=-blank-at-eol
+works/prdl-24376_*/chunks/*.md whitespace=-blank-at-eol
+data/translation_disagreements/prdl-24376_*/snapshots/**/works/prdl-24376_*/**/*.md whitespace=-blank-at-eol,-blank-at-eof
+
 # GitHub can collapse the rendered publication while keeping its sources visible.
 site/dist/** linguist-generated=true
 review/translation-disagreements/** linguist-generated=true

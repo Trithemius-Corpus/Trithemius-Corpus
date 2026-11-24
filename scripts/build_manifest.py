@@ -18,7 +18,7 @@ WORK_TITLES = ROOT / "work_titles.json"
 
 RELEASE_LICENSE = (
     "CC-BY-4.0 for documentation/code/arrangement; "
-    "CC0-1.0 for generated translation artifacts (see LICENSE)"
+    "CC0-1.0 for generated translation artifacts; institutional image terms apply to scans and crops (see LICENSE)"
 )
 
 
@@ -58,6 +58,7 @@ def main() -> int:
             "composition_year",
             "attribution",
             "ai_corrections",
+            "publication_modified",
             "unclear_count",
             "source_year",
             "year_note",

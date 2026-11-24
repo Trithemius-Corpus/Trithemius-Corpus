@@ -1295,8 +1295,7 @@ tr.tier-f .tier-letter { color: #e8654a; }
   max-width: var(--body-max, 44rem); margin: 0 auto 0.8rem; flex-wrap: wrap;
   font-size: 0.82rem; position: sticky; top: 0.5rem; z-index: 4;
   padding: 0.35rem; border-radius: 4px;
-  background: color-mix(in srgb, var(--bg) 92%, transparent);
-  backdrop-filter: blur(8px); }
+  background: var(--paper); }
 .reader-toolbar .rt-spacer { flex: 1; }
 .rt-toggle { display: inline-flex; align-items: center; gap: 0.3rem;
   padding: 0.3rem 0.6rem; background: rgba(201,162,74,0.06);
@@ -1317,7 +1316,7 @@ tr.tier-f .tier-letter { color: #e8654a; }
   grid-template-columns: auto minmax(10rem, 1fr) auto auto auto auto; gap: 0.45rem;
   align-items: center; max-width: var(--body-max, 44rem); margin: 0 auto 0.8rem;
   padding: 0.65rem; border: 1px solid var(--rule-faint); border-radius: 4px;
-  background: var(--bg); box-shadow: 0 4px 18px rgba(0,0,0,0.16); }
+  background: var(--paper); box-shadow: 0 4px 18px rgba(0,0,0,0.16); }
 .rt-search-panel[hidden] { display: none; }
 .rt-search-panel input { min-width: 0; padding: 0.45rem; }
 .rt-match-strip { position: absolute; right: -0.7rem; top: 0; bottom: 0; width: 4px;

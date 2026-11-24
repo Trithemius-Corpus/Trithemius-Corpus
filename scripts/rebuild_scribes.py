@@ -6,6 +6,8 @@ import build_t4b_pages as t4b
 import passage_model as pm
 import iiif_model
 import build_publication_exports as exports
+from edition_corrections import history
+from validate_scribes_followup import check_cited_ids
 
 WID='prdl-24362_de-laude-scriptorum-manualium'
 
@@ -20,8 +22,8 @@ def rebuild():
     pairs,stats=bs.load_pairs(WID);chapters=bs.load_chapters(WID)
     body,passages,annotations=bs.stitch_english_with_passages(WID,pairs,chapters)
     index=pm.build_passage_index(work,pairs,passages,annotations,generated_from=stats['source'],source_lookup=bs.passage_source_lookup(WID))
-    assert [p['id'] for p in old['passages']]==[p['id'] for p in index['passages']], 'passage ID migration required'
-    assert [a['id'] for a in old['annotations']]==[a['id'] for a in index['annotations']], 'annotation ID migration required'
+    changes = [edit for batch in history(bs.ROOT, WID) for edit in batch["changes"]]
+    check_cited_ids(old, index, changes)
     cfg=bs.IIIF_SOURCES[WID]
     provider=json.loads((bs.ROOT/'data/iiif/provider'/f'{WID}.json').read_text(encoding='utf-8'))
     canvas_map,reviewed=iiif_model.canvas_targets(WID,cfg,provider,index)
@@ -39,7 +41,7 @@ def rebuild():
     normalized=iiif_model.normalize(WID,cfg,provider,index)
     (bs.OUT/'iiif'/WID/'manifest.json').write_text(json.dumps(normalized,ensure_ascii=False,indent=2)+'\n',encoding='utf-8',newline='\n')
     exports.build_editions([WID], out=bs.OUT/'editions')
-    print(f'Rebuilt Scribes: {len(passages)} passage IDs and {len(annotations)} annotation IDs preserved; both reading tracks, parallel view, TEI, IIIF, EPUB and print refreshed.')
+    print(f'Rebuilt Scribes with {len(passages)} passage IDs, {len(annotations)} active annotations and dated erratum targets.')
 
 
 def main():

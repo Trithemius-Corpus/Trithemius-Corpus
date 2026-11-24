@@ -16,15 +16,19 @@ def load_and_compute(path: Path = SOURCE) -> dict:
     data = json.loads(path.read_text(encoding="utf-8"))
     alphabet = data["alphabet"]
     pairs = data["printed_substitution_pairs"]
-    if len(alphabet) != 24 or len(pairs) != 24:
-        raise ValueError("Modus II requires a complete 24-letter alphabet")
+    if alphabet != "abcdefghiklmnopqrstvxz" or len(pairs) != len(alphabet):
+        raise ValueError("The Modus II wheel on printed p. 56 contains 22 letters")
+    if any(len(pair) != 2 for pair in pairs):
+        raise ValueError("Each printed substitution must contain exactly two letters")
     if "".join(pair[0] for pair in pairs) != alphabet:
         raise ValueError("pair plaintext column does not match the declared alphabet")
     inverse = {pair[1]: pair[0] for pair in pairs}
-    if len(inverse) != 24:
-        raise ValueError("cipher column is not one-to-one")
+    if "".join(pair[1] for pair in pairs) != alphabet[-2:] + alphabet[:-2]:
+        raise ValueError("The pairs disagree with the second-preceding rule on p. 56")
     extracted = "".join(re.findall(r"[a-z]", data["cipher_stream"]["transcription"].lower()))
     positions = data["cover"]["significant_positions"]
+    if positions != list(range(2, len(data["cover"]["tokens"]) + 1, 2)):
+        raise ValueError("Modus II begins with an empty word and takes alternate initials")
     cover_initials = "".join(data["cover"]["tokens"][position - 1][0].lower() for position in positions)
     decoded = "".join(inverse[letter] for letter in extracted)
     if extracted != data["extraction"]["result"]:

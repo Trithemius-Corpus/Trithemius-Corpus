@@ -85,3 +85,7 @@ seed is withheld pending adjudication by a Latin reader. The other five original
 seeds remain provisional. The frozen contextual judgments cover 1,728 candidates
 and the consolidated report now attaches the later scan decisions to their
 three original findings, including the shared omission of Rabanus.
+
+## November 23 scan revisions
+
+The third batch records ten edits at five loci across the two English editions. The colophon now names Peter of Friedberg as the Mainz printer and dates the printing to 1494. The dedication retains 1492. The other four findings concern buying printed books, sacred books on feast days, the monk’s inward exercises, and the Lord as subject across folios 9v–10r. Three former uncertainty links in the standard edition now lead to their dated errata. The separate pen modifier still awaits a Latin reader. [Scan assessments](../../data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/scan-revisions/2026-11-23.json) · [Disagreement queue guide](../TRANSLATION_DISAGREEMENTS.md)

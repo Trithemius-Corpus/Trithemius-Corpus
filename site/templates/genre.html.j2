@@ -8,7 +8,7 @@
 
 <header class="work-header">
   <h1>{{ section.label }}</h1>
-  <p class="muted">{{ section.n_texts }} {{ 'text' if section.n_texts == 1 else 'texts' }} &middot; {{ section.n_editions }} {{ 'edition' if section.n_editions == 1 else 'editions' }}</p>
+  <p class="muted">{{ section.n_texts }} {{ 'text' if section.n_texts == 1 else 'texts' }} &middot; {{ section.n_editions }} {{ 'record' if section.n_editions == 1 else 'records' }} from {{ section.n_sources }} {{ 'source' if section.n_sources == 1 else 'sources' }}</p>
 </header>
 
 <p>{{ section.description }}</p>

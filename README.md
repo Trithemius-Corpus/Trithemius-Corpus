@@ -4,13 +4,12 @@
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![Site](https://img.shields.io/badge/site-trithemius--corpus.github.io%2FTrithemius--Corpus-25483f)](https://trithemius-corpus.github.io/Trithemius-Corpus/)
-<!-- DOI badge added at v1.0 release: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
 
-**Machine-assisted English translations of 29 Latin texts by or associated with Johannes Trithemius (1462–1516), across 47 printed witnesses.**
+**Machine-assisted English translations of 29 Latin texts by or associated with Johannes Trithemius (1462–1516), in 47 catalogue records drawn from 45 digitized sources.**
 
 Johannes Trithemius, Benedictine abbot of Sponheim and later Wurzburg, was a bibliographer, monastic reformer, cryptographer, historian, and one of the more idiosyncratic minds of the early German Renaissance. His cryptographic works attracted modern attention, but most of his monastic, Marian, hagiographic, pastoral, devotional, and historical writing has remained locked in early-modern Latin print.
 
-Where several printings survive, each source witness has its own OCR and English translation. The work records give the extent of automated audit coverage and distinguish those scores from subsequent editorial changes. Dated errata identify corrections that readers can check against the Latin.
+Each catalogue record has its own OCR and English translation. Two pairs of records share a digitized source. The work records give the extent of automated audit coverage and distinguish those scores from subsequent editorial changes. Dated errata identify corrections that readers can check against the Latin.
 
 ## What's in the corpus
 
@@ -18,7 +17,8 @@ Current public release view:
 
 | Measure | Value |
 |---|---:|
-| Translatable works | **47** |
+| Translated catalogue records | **47** |
+| Digitized sources | **45** |
 | Distinct texts | **29** |
 | Published chunks | **4,400** |
 | Public text origin | **Machine translation (all editions)** |
@@ -69,7 +69,7 @@ A few works already have published English translations and should be preferred 
 
 ```text
 Fabin, Ian Carlos (2026). Trithemius Corpus: machine-assisted English translations
-of a 47-work Latin corpus by Johannes Trithemius (1462-1516).
+of Latin texts by or associated with Johannes Trithemius.
 https://github.com/Trithemius-Corpus/Trithemius-Corpus
 ```
 
@@ -77,7 +77,7 @@ See [`CITATION.cff`](CITATION.cff) for a machine-readable citation record. A DOI
 
 ## License
 
-See [`LICENSE`](LICENSE) for full terms. The project has three layers of rights:
+See [`LICENSE`](LICENSE) for full terms. The holding institution’s terms apply to digitized images and their crops. The project records the rights for each part of the collection.
 
 - **Latin source texts** - public domain.
 - **Machine translations and generated corpus artifacts** - no copyright claimed; released as **CC0-1.0**.

@@ -97,5 +97,71 @@
       243
     ],
     "sha256": "8ed4b5d6a9adbc433444d83721f2891b06e1fdbb1b8e5775798c718ec4517406"
+  },
+  "context-c-s03": {
+    "canvas_number": 41,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/context-c-s03-crop.png",
+    "xywh": [
+      380,
+      1488,
+      1349,
+      315
+    ],
+    "sha256": "7eff8f8f2976fd5b583e7e81e5b1c97fa900440aae5219a578023b90872fb6bc"
+  },
+  "B-F04": {
+    "canvas_number": 21,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/B-F04-crop.png",
+    "xywh": [
+      293,
+      1383,
+      1455,
+      542
+    ],
+    "sha256": "4e40d0a25d6b256414f2d408672923516de16c2c6ae0799caf4236f5bf598fef"
+  },
+  "scribes-feast-sacred-books": {
+    "canvas_number": 27,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-feast-sacred-books-crop.png",
+    "xywh": [
+      329,
+      1798,
+      1386,
+      314
+    ],
+    "sha256": "6d2d97299eaf80f9d96f82cd4290a0b7ccebcf8309f35db22a511714370f62ea"
+  },
+  "scribes-inward-exercises": {
+    "canvas_number": 32,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-inward-exercises-crop.png",
+    "xywh": [
+      493,
+      292,
+      1394,
+      405
+    ],
+    "sha256": "96c23bdb7a754a639894ab7f60c0afc47af3b204e05ab7bd0d74f4469adb5a5f"
+  },
+  "B-F03": {
+    "canvas_number": 20,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/B-F03-crop.png",
+    "xywh": [
+      528,
+      2352,
+      1410,
+      259
+    ],
+    "sha256": "a624534c030f75779c82a6f7d306c0a8fe961290a7daf8411b57e33cecf24f15"
+  },
+  "scribes-labors-continuation": {
+    "canvas_number": 21,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-labors-continuation-crop.png",
+    "xywh": [
+      293,
+      204,
+      1431,
+      204
+    ],
+    "sha256": "80e33048a03dc54cb7a781146a76df8fc7d04dd2cf7910805e6371454d147322"
   }
 }

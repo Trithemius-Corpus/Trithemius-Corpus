@@ -18,9 +18,9 @@ The T4B pages are formatted as continuous reading texts. Their source segment bo
 
 ### Earlier source-witness editions
 
-The earlier edition track remains available for all 47 translatable printed witnesses. It was produced through several OCR and translation campaigns, principally CHURRO/Qwen vision OCR and GPT-5.5 revision, with targeted repairs by other models. These pages remain useful as independent witnesses, for comparison, and for works that do not yet have a publishable T4B edition.
+The earlier edition track covers all 47 translated catalogue records. It was produced through several OCR and translation campaigns, principally CHURRO/Qwen vision OCR and GPT-5.5 revision, with targeted repairs by other models. Where a second English track exists, both can be checked against the cited scan.
 
-The label **cleanest source witness** identifies the scan witness with the fewest recorded Latin uncertainty markers within a group of editions. Historical model scores and edition dates break ties. This is a browsing aid, not a human assessment of textual accuracy.
+The label **fewest Latin OCR uncertainty markers** identifies the record with the lowest count of those markers within a group. Historical model scores and edition dates break ties.
 
 ### What is authoritative
 
@@ -35,9 +35,9 @@ For a passage used in publication, check the English against the Latin and the L
 
 ## 2. Source acquisition
 
-The corpus began with the PRDL author record for Johannes Trithemius and the bibliography at trithemius.com. Records were resolved to public-domain institutional scans from the Bavarian State Library, Herzog August Bibliothek, e-rara, dilibri, Internet Archive, Google Books, and Gallica. Duplicate records and editions were retained where they supplied genuinely separate witnesses.
+The corpus began with the PRDL author record for Johannes Trithemius and the bibliography at trithemius.com. Catalogue records link to digitizations from the Bavarian State Library, Herzog August Bibliothek, e-rara, dilibri, Internet Archive, Google Books and Gallica. The holding institution's image terms accompany each documented correction.
 
-The release contains 47 translatable printed witnesses representing 29 distinct texts. Four additional records are retained in the manifest as skipped because they are German-language or predominantly liturgical/tabular material. The *Steganographia*, initially blocked through the normal viewer route, was recovered through Gallica’s IIIF image service.
+The 47 translated catalogue records cover 29 distinct texts and point to 45 distinct digitized sources. PRDL 24371 and 24372 use BSB `bsb00040421`. PRDL 24364 and 70284 use BSB `bsb00008347`. Each record keeps its own OCR, translation and passage IDs, so differences between two records can be checked against the same printed leaf. Four additional records are retained in the manifest as skipped because they are German-language or predominantly liturgical/tabular material. The *Steganographia*, initially blocked through the normal viewer route, was recovered through Gallica’s IIIF image service.
 
 Every work’s metadata names its source institution and scan. The source scan, not the OCR, remains the final authority.
 

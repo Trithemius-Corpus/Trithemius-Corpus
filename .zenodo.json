@@ -5,10 +5,10 @@
   "license": "CC-BY-4.0",
   "creators": [
     {
-      "name": "Carlosian"
+      "name": "Fabin, Ian Carlos"
     }
   ],
-  "description": "Provisional English translations of 29 Latin texts across 47 printed witnesses in the Trithemius Corpus. The project survey located no prior complete published English translation for 23 texts (41 witnesses). Edition records distinguish machine translation, editorial preparation, human review and automated audit coverage. Earlier machine scores are historical. Latin transcription, source scans, and documented corrections support verification of individual passages.",
+  "description": "Provisional English translations of 29 Latin texts in 47 catalogue records drawn from 45 digitized sources. The project survey located no prior complete published English translation for 23 texts (41 records from 39 sources). Edition records distinguish machine translation, editorial preparation, human review and automated audit coverage. Earlier machine scores are historical. Latin transcription, source scans, and documented corrections support verification of individual passages.",
   "keywords": [
     "Trithemius",
     "Neo-Latin",
@@ -25,15 +25,15 @@
   ],
   "related_identifiers": [
     {
-      "identifier": "https://github.com/claudlos/trithemius-corpus",
+      "identifier": "https://github.com/Trithemius-Corpus/Trithemius-Corpus",
       "relation": "isSupplementTo",
       "scheme": "url"
     },
     {
-      "identifier": "https://claudlos.github.io/trithemius-corpus/",
+      "identifier": "https://trithemius-corpus.github.io/Trithemius-Corpus/",
       "relation": "isDocumentedBy",
       "scheme": "url"
     }
   ],
-  "notes": "Latin source texts are public domain, with institutional scans cited per work in manifest.json. Machine translations and generated corpus artifacts are released as CC0-1.0. Methodology, documentation, code, and corpus arrangement are licensed CC BY 4.0; see LICENSE."
+  "notes": "CC BY 4.0 covers the corpus arrangement, documentation and project code. Latin source texts are public domain. Machine translations and generated textual artifacts are released under CC0 1.0. Digitized images and crops retain the holding institution’s terms. The Stadtbibliothek Trier Sigilla images supplied by Dilibri carry CC BY-NC-SA 3.0 (https://creativecommons.org/licenses/by-nc-sa/3.0/). The Bayerische Staatsbibliothek Mainz comparison leaf bsb11303506, canvas 9, carries No Copyright – Non-Commercial Use Only (https://rightsstatements.org/vocab/NoC-NC/1.0/). The archive includes the source credits and per-image rights records. See LICENSE."
 }

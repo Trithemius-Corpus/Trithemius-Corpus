@@ -1,6 +1,6 @@
 # Publication exports
 
-The Trithemius Corpus publishes each of its 47 readable source editions in
+The Trithemius Corpus publishes each of its 47 standard catalogue records in
 three forms drawn from the same canonical `works/<id>/english.md` source:
 
 - the progressively enhanced web reader;
@@ -11,6 +11,8 @@ These are reading editions, not critical editions. Every format repeats the
 same warning that machine-assisted English may contain translation error, OCR
 damage, and unresolved readings. Institutional source links, methodology,
 errata, license, and canonical web URLs travel with each downloadable edition.
+Two pairs of records share a source scan. Each book keeps its catalogue ID and
+the relevant headnote identifies its companion record.
 
 ## Build and validation
 
@@ -86,3 +88,5 @@ Laude Calvorum*, the 2,379-page *Chronicon Hirsaugiense & Sponheimense*, and
 the 323-page cipher-heavy *Polygraphiae libri VI* with Vivliostyle CLI 11.1.0.
 First, middle, dense-cipher, and final pages showed no clipped content or web
 interface chrome.
+
+In the print colophon, the canonical link spells out its own address once. Links with descriptive labels, including the institutional source, still print their destinations.

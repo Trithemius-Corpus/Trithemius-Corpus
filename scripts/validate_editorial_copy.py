@@ -39,7 +39,7 @@ def main() -> int:
             metadata_by_page[page.name] = json.loads(src.with_name("metadata.json").read_text(encoding="utf-8"))
             match = re.search(r'<section class="work-intro"[^>]*>\s*<h2\b[^>]*>About this work</h2>\s*(.*?)\s*</section>', rendered, re.S)
             expected = bs.render_markdown_file(src)
-            if not match or match[1].strip() != bs.reader_tools.search_anchors(expected, "note-intro").strip():
+            if not match or match[1].strip() != bs.render_headnote(src).strip():
                 errors.append(f"{page.name}: stale introduction")
             if re.search(r"top tier|audit tier|first freely accessible|first open,", expected, re.I):
                 errors.append(f"{src.relative_to(bs.ROOT)}: obsolete editorial claim")

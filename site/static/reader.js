@@ -22,8 +22,8 @@
       .filter(function (element) { return element.offsetParent !== null; });
   }
 
-  function passageAtScroll() {
-    var list = passageElements();
+  function passageAtScroll(list) {
+    list = list || passageElements();
     if (!list.length) return null;
     var mid = window.innerHeight * 0.35;
     var current = list[0];
@@ -44,34 +44,38 @@
   }
 
   // ── 1. Reading-progress sync ──────────────────────────────────────────────
-  // Version 2 stores a stable passage ID while retaining the old scroll
-  // fraction as a fallback for pre-passage pages and legacy entries.
+  // Version 3 keys progress by the published reading path, including the track.
   function progressKey(id) { return "tc-progress-" + id; }
 
   if (WORK_ID) {
-    var body = $(".english-body") || document.body;
+    var track = window.TC_WORK.track ||
+      (window.location.pathname.endsWith("-trithemius-4b.html") ? "trithemius-4b" : "earlier");
+    var readingPath = window.TC_WORK.readingPath ||
+      "works/" + WORK_ID + (track === "trithemius-4b" ? "-trithemius-4b.html" : ".html");
+    var alternatePassages = track === "trithemius-4b" ? $all(".english-body [id^='p-t4b-']") : null;
     var ticking = false;
     function recordProgress() {
       ticking = false;
       var h = document.documentElement;
       var max = h.scrollHeight - h.clientHeight;
       var frac = max > 0 ? Math.min(1, Math.max(0, h.scrollTop / max)) : 0;
-      var passage = passageAtScroll();
+      var passage = pinnedPassage || passageAtScroll(alternatePassages);
       try {
-        var entry = { v: 2, id: WORK_ID, title: WORK_TITLE, frac: frac, t: Date.now(),
+        var entry = { v: 3, id: WORK_ID, track: track, path: readingPath, title: WORK_TITLE,
+                      frac: frac, t: Date.now(),
                       ch: currentChapterLabel(),
-                      passage: passage && passage.getAttribute("data-passage-id") };
-        localStorage.setItem(progressKey(WORK_ID), JSON.stringify(entry));
-        // index of works read, for the continue card
+                      passage: passage && (passage.getAttribute("data-passage-id") || passage.id) };
+        localStorage.setItem(progressKey(readingPath), JSON.stringify(entry));
         var idx = JSON.parse(localStorage.getItem("tc-progress-idx") || "[]");
-        idx = idx.filter(function (x) { return x !== WORK_ID; });
-        idx.unshift(WORK_ID);
+        idx = idx.filter(function (x) { return x !== readingPath; });
+        idx.unshift(readingPath);
         try { localStorage.setItem("tc-progress-idx", JSON.stringify(idx.slice(0, 20))); } catch (e) {}
       } catch (e) {}
     }
     window.addEventListener("scroll", function () {
       if (!ticking) { window.requestAnimationFrame(recordProgress); ticking = true; }
     }, { passive: true });
+    window.addEventListener("hashchange", function () { window.requestAnimationFrame(recordProgress); });
     window.addEventListener("load", function () {
       var resume = new URL(window.location.href).searchParams.get("resume");
       if (!window.location.hash && resume !== null) {
@@ -190,6 +194,7 @@
   // ── 3. Stable passage links and citations ─────────────────────────────────
   function linkedPassage(id) {
     var node = id && document.getElementById(id);
+    if (node && alternatePassages && alternatePassages.includes(node)) return node;
     if (node && node.classList.contains("passage-anchor")) node = node.nextElementSibling;
     return node && node.hasAttribute("data-passage-id") ? node : null;
   }
@@ -200,10 +205,32 @@
     if (element) document.dispatchEvent(new CustomEvent("tc:select-passage", { detail: element }));
   }
 
+  if (WORK_ID) {
+    // An explicit citation survives layout shifts and focusing the toolbar.
+    // Return to viewport tracking when the reader deliberately scrolls the text.
+    function releaseSelection() { pinnedPassage = null; }
+    window.addEventListener("wheel", releaseSelection, { passive: true });
+    window.addEventListener("touchmove", releaseSelection, { passive: true });
+    window.addEventListener("pointerdown", function (event) {
+      if (event.clientX >= document.documentElement.clientWidth) releaseSelection();
+    });
+    window.addEventListener("keydown", function (event) {
+      if (!isTyping(event) && ["PageUp", "PageDown", "Home", "End", "ArrowUp", "ArrowDown", " "].includes(event.key)) {
+        releaseSelection();
+      }
+    });
+    window.addEventListener("hashchange", function () {
+      var id = decodeURIComponent(window.location.hash.slice(1));
+      var target = linkedPassage(id);
+      selectPassage(target);
+      if (target) flash(target);
+    });
+  }
+
   function facsimileTarget(element) {
     var work = window.TC_WORK || {};
     var id = element && element.getAttribute("data-passage-id");
-    var segment = element && element.getAttribute("data-segment");
+    var segment = latinSegment(element);
     var exact = (work.reviewedCanvases || {})[id];
     var number = exact || (work.iiifCanvasMap || {})[segment];
     var origin = exact ? "&passage=" + encodeURIComponent(id) : "";
@@ -212,6 +239,10 @@
       url: number && work.iiifViewer ? work.iiifViewer + origin + "#canvas=" + number : null,
       label: exact ? "Reviewed source page" : number ? "Approximate source page" : "Browse source"
     };
+  }
+
+  function latinSegment(element) {
+    return element && (element.getAttribute("data-latin-segment") || element.getAttribute("data-segment"));
   }
 
   (function passageTools() {
@@ -246,7 +277,9 @@
 
     function update() {
       ticking = false;
-      setActive(pinnedPassage || passageAtScroll());
+      // Latin-only Study temporarily hides every English passage.
+      var visible = pinnedPassage || passageAtScroll();
+      if (visible) setActive(visible);
     }
 
     function copyFallback(value) {
@@ -301,26 +334,7 @@
     window.addEventListener("scroll", function () {
       if (!ticking) { ticking = true; window.requestAnimationFrame(update); }
     }, { passive: true });
-    // An explicit citation survives layout shifts and focusing the toolbar.
-    // Return to viewport tracking when the reader deliberately scrolls the text.
-    function releaseSelection() { pinnedPassage = null; }
-    window.addEventListener("wheel", releaseSelection, { passive: true });
-    window.addEventListener("touchmove", releaseSelection, { passive: true });
-    window.addEventListener("pointerdown", function (event) {
-      if (event.clientX >= document.documentElement.clientWidth) releaseSelection();
-    });
-    window.addEventListener("keydown", function (event) {
-      if (!isTyping(event) && ["PageUp", "PageDown", "Home", "End", "ArrowUp", "ArrowDown", " "].includes(event.key)) {
-        releaseSelection();
-      }
-    });
     document.addEventListener("tc:select-passage", function (event) { setActive(event.detail); });
-    window.addEventListener("hashchange", function () {
-      var id = decodeURIComponent(window.location.hash.slice(1));
-      var target = linkedPassage(id);
-      selectPassage(target);
-      if (target) flash(target);
-    });
     setActive(pinnedPassage || passageAtScroll());
   })();
 
@@ -425,6 +439,7 @@
     var sourceFrame = $("#study-source-frame"), options = $("#study-options");
     var minimap = $("#study-minimap"), minimapList = $("#study-minimap-list");
     var progress = $(".study-progress"), activePassage = null;
+    var layerButtons = $all("button[data-text-layer]");
     if (!shell || !modeLinks.length || !window.TC_WORK) return;
     activePassage = linkedPassage(decodeURIComponent(window.location.hash.slice(1))) || passageAtScroll();
 
@@ -442,6 +457,7 @@
     function applyMode(mode, updateURL) {
       if (mode === "source" && !sourcePane) mode = "study";
       var cursor = pinnedPassage || activePassage;
+      if (mode === "read") selectLayer("normalized");
       shell.setAttribute("data-mode", mode);
       modeLinks.forEach(function (link) {
         if (link.getAttribute("data-reader-mode") === mode) link.setAttribute("aria-current", "page");
@@ -451,6 +467,7 @@
       if (sourcePane) sourcePane.hidden = mode !== "source";
       if (options) options.hidden = mode === "read";
       if (minimap) minimap.hidden = mode === "read";
+      if (mode === "study") highlightLatin(cursor);
       if (mode === "source" && sourceFrame) {
         showSource(cursor);
       }
@@ -471,6 +488,24 @@
       });
     });
 
+    function englishForLatin(number) {
+      if (latinSegment(activePassage) === String(number)) return activePassage;
+      return $(".english-body [data-latin-segment='" + number + "']") ||
+        $(".english-body [data-passage-id][data-segment='" + number + "']:not([data-latin-segment])");
+    }
+    function highlightLatin(passage) {
+      var n = latinSegment(passage);
+      var latin = n && $("#latin-seg-" + n);
+      $all(".study-latin-segment[data-active-segment]").forEach(function (el) {
+        if (el !== latin) el.removeAttribute("data-active-segment");
+      });
+      if (!latin) return;
+      latin.setAttribute("data-active-segment", "true");
+      if (shell.getAttribute("data-mode") === "study" && latinPane.scrollHeight > latinPane.clientHeight) {
+        var offset = latin.getBoundingClientRect().top - latinPane.getBoundingClientRect().top;
+        if (offset < 0 || offset >= latinPane.clientHeight) latinPane.scrollTop += offset;
+      }
+    }
     function renderLatin(data) {
       var host = $("#study-latin-content"); if (!host) return; host.innerHTML = "";
       data.segments.forEach(function (segment) {
@@ -482,13 +517,11 @@
         var text = document.createElement("pre"); text.textContent = segment.latin || "[No Latin OCR available]";
         section.appendChild(heading); section.appendChild(text); host.appendChild(section);
         section.addEventListener("click", function () {
-          var target = $(".english-body [data-segment='" + segment.segment + "']");
+          var target = englishForLatin(segment.segment);
           if (target) { scrollToEl(target); target.setAttribute("tabindex", "-1"); target.focus({ preventScroll: true }); }
         });
       });
-      var activeSegment = activePassage && activePassage.getAttribute("data-segment");
-      var activeLatin = activeSegment && $("#latin-seg-" + activeSegment);
-      if (activeLatin) activeLatin.setAttribute("data-active-segment", "true");
+      highlightLatin(activePassage);
     }
     function renderMinimap() {
       if (!minimapList) return; minimapList.innerHTML = "";
@@ -507,9 +540,7 @@
     }
     document.addEventListener("tc:passage", function (event) {
       activePassage = event.detail.element;
-      $all(".study-latin-segment[data-active-segment]").forEach(function (el) { el.removeAttribute("data-active-segment"); });
-      var latin = event.detail.segment && $("#latin-seg-" + event.detail.segment);
-      if (latin) latin.setAttribute("data-active-segment", "true");
+      highlightLatin(activePassage);
       if (sourceFrame && shell.getAttribute("data-mode") === "source") {
         showSource(activePassage);
       }
@@ -528,17 +559,22 @@
       var reviewed = Object.keys(window.TC_WORK.reviewedCanvases || {}).find(function (id) {
         return window.TC_WORK.reviewedCanvases[id] === event.data.canvas;
       });
-      var target = linkedPassage(reviewed) || (segment && $(".english-body [data-segment='" + segment + "']"));
+      var target = linkedPassage(reviewed) || (segment && englishForLatin(segment));
       if (target && target !== activePassage) {
         var url = new URL(window.location.href); url.hash = target.getAttribute("data-passage-id");
         try { window.history.replaceState(null, "", url); } catch (e) {}
         scrollToEl(target); flash(target);
       }
     });
-    $all("[data-text-layer]").forEach(function (button) {
+    function selectLayer(layer) {
+      shell.setAttribute("data-text-layer", layer);
+      layerButtons.forEach(function (button) {
+        button.setAttribute("aria-pressed", String(button.getAttribute("data-text-layer") === layer));
+      });
+    }
+    layerButtons.forEach(function (button) {
       button.addEventListener("click", function () {
-        shell.setAttribute("data-text-layer", button.getAttribute("data-text-layer"));
-        $all("[data-text-layer]").forEach(function (other) { other.setAttribute("aria-pressed", other === button ? "true" : "false"); });
+        selectLayer(button.getAttribute("data-text-layer"));
       });
     });
     var annotations = $("#rt-annotations-toggle");
@@ -602,28 +638,48 @@
     var host = $("#continue-reading");
     if (!host) return;
     var idx = [];
-    try { idx = JSON.parse(localStorage.getItem("tc-progress-idx") || "[]"); } catch (e) {}
-    var best = null;
+    var catalog;
+    try {
+      idx = JSON.parse(localStorage.getItem("tc-progress-idx") || "[]");
+      catalog = JSON.parse($("#resume-editions").textContent);
+    } catch (e) { return; }
     for (var i = 0; i < idx.length; i++) {
       try {
         var entry = JSON.parse(localStorage.getItem(progressKey(idx[i])) || "null");
-        if (entry && entry.id) { best = entry; break; }
+        if (!entry || !Object.hasOwn(catalog, entry.id)) continue;
+        var editions = catalog[entry.id];
+        var tracks = Object.keys(editions);
+        if (entry.v === 3) {
+          tracks = tracks.filter(function (key) { return key === entry.track && editions[key] === entry.path; });
+        } else if (entry.passage) {
+          // Earlier bookmarks used only p-en- anchors. An alternate anchor
+          // also identifies its track if the bookmark was imported.
+          if (entry.passage.startsWith("p-en-")) tracks = tracks.filter(function (key) { return key === "earlier"; });
+          if (entry.passage.startsWith("p-t4b-")) tracks = tracks.filter(function (key) { return key === "trithemius-4b"; });
+        }
+        if (!tracks.length) continue;
+        var prompt = tracks.length > 1 ? "<p>This saved position has no edition recorded. Choose a translation to resume.</p>" : "";
+        host.innerHTML = prompt + tracks.map(function (key) {
+          return continueCard(entry, editions[key], key === "trithemius-4b" ? "Trithemius 4B" : "Earlier edition");
+        }).join("");
+        host.hidden = false;
+        return;
       } catch (e) {}
     }
-    if (!best) { host.hidden = true; return; }
-    host.hidden = false;
-    var pct = Math.round((best.frac || 0) * 100);
-    var href = "works/" + encodeURIComponent(best.id) + ".html";
-    if (best.passage) {
-      href += "?view=read&amp;lang=en&amp;annotations=visible#" + encodeURIComponent(best.passage);
-    } else if (best.frac) {
-      href += "?resume=" + encodeURIComponent(best.frac);
+  }
+  function continueCard(entry, path, edition) {
+    var pct = Math.round((entry.frac || 0) * 100);
+    var href = path;
+    if (entry.passage) {
+      href += "?view=read&amp;lang=en&amp;annotations=visible#" + encodeURIComponent(entry.passage);
+    } else if (entry.frac) {
+      href += "?resume=" + encodeURIComponent(entry.frac);
     }
-    host.innerHTML = '<a class="continue-card" href="' + href + '">' +
-      '<span class="continue-label">Continue reading</span>' +
-      '<span class="continue-title">' + escapeHTML(best.title || "") + '</span>' +
-      (best.ch ? '<span class="continue-ch">' + escapeHTML(best.ch) + '</span>' : "") +
-      '<span class="continue-pct">' + pct + '% &mdash; ' + relTime(best.t) + "</span>" +
+    return '<a class="continue-card" href="' + href + '">' +
+      '<span class="continue-label">Continue reading · ' + edition + '</span>' +
+      '<span class="continue-title">' + escapeHTML(entry.title || "") + '</span>' +
+      (entry.ch ? '<span class="continue-ch">' + escapeHTML(entry.ch) + '</span>' : "") +
+      '<span class="continue-pct">' + pct + '% &mdash; ' + relTime(entry.t) + "</span>" +
       '<span class="continue-bar"><span style="width:' + pct + '%"></span></span>' +
       "</a>";
   }

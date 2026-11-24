@@ -124,7 +124,8 @@ def normalize(work_id: str, source: dict, provider: dict, passages: dict) -> dic
     range_canvases: dict[str, list[str]] = {}
     range_labels: dict[str, str] = {}
     for passage in passages.get("passages", []):
-        page = reviewed.get(passage["html_id"], segment_targets.get(str(passage["segment"])))
+        latin_segment = passage.get("latin_segment", passage["segment"])
+        page = reviewed.get(passage["html_id"], segment_targets.get(str(latin_segment)))
         if page is None:
             continue
         target = canvas_ids[page - 1]

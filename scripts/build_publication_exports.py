@@ -31,6 +31,12 @@ REPO_URL = "https://github.com/Trithemius-Corpus/Trithemius-Corpus"
 CONTRIBUTOR = "Ian Carlos Fabin"
 VERSION_SLOT = "\x00edition-version\x00"
 MODIFIED_SLOT = "\x00edition-modified\x00"
+NUMBER_SEQUENCE = re.compile(r"(?<![\w:])[0-9]+(?::[0-9]+){3,}(?![\w:])")
+# Package this rule in editions that contain a wide table.
+WIDE_TABLE_CSS = """
+.wide-table { font-size: .65em; }
+.wide-table th, .wide-table td { padding: .12em; }
+"""
 
 
 def checksum(text: str) -> str:
@@ -156,6 +162,58 @@ def markdown_xhtml(text: str) -> str:
     return "".join(pieces)
 
 
+def number_groups(sequence: str):
+    """Keep whole numbers and their separators together at narrow reading widths."""
+    group = ""
+    for number in re.findall(r"[0-9]+:?", sequence):
+        if group and len(group) + len(number) > 16:
+            yield group
+            group = ""
+        group += number
+    if group:
+        yield group
+
+
+def epub_reading_layout(markup: str) -> tuple[str, bool]:
+    """Keep numeric prose and wide cipher tables readable on narrow EPUB pages."""
+    if "<table" not in markup and not any(len(match[0]) >= 40 for match in NUMBER_SEQUENCE.finditer(markup)):
+        return markup, False
+    root = etree.fromstring(f"<div>{markup}</div>".encode("utf-8"))
+    # Only rows with six or more actual cells need the compact formatting.
+    wide_tables = root.xpath(".//table[tr[count(th|td) >= 6] or */tr[count(th|td) >= 6]]")
+    for table in wide_tables:
+        classes = table.get("class", "").split()
+        if "wide-table" not in classes:
+            table.set("class", " ".join([*classes, "wide-table"]))
+    changed = bool(wide_tables)
+    for text in root.xpath(".//p//text()"):
+        matches = [match for match in NUMBER_SEQUENCE.finditer(text) if len(match[0]) >= 40]
+        if not matches:
+            continue
+        # A text node can precede the paragraph's first child or follow inline markup.
+        owner = text.getparent()
+        if text.is_tail:
+            container = owner.getparent()
+            position = container.index(owner) + 1
+            owner.tail = text[:matches[0].start()]
+        else:
+            container, position = owner, 0
+            owner.text = text[:matches[0].start()]
+        for i, match in enumerate(matches):
+            for group in number_groups(match[0]):
+                span = etree.Element("span", {"class": "number-run"})
+                span.text = group
+                container.insert(position, span)
+                position += 1
+            end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+            span.tail = text[match.end():end]
+        changed = True
+    if not changed:
+        return markup, False
+    result = html.escape(root.text or "") + "".join(etree.tostring(child, encoding="unicode") for child in root)
+    return result, bool(wide_tables)
+
+
 def xml(value: object) -> str:
     return html.escape(str(value), quote=True)
 
@@ -183,17 +241,19 @@ def provenance(metadata: dict, version: str) -> str:
     source = metadata.get("source") or {}
     source_url = source.get("url") or ""
     source_link = f'<a href="{xml(source_url)}">institutional source record</a>' if source_url else "institutional source record unavailable"
+    alias_note = metadata.get("duplicate_source_note")
+    shared_source = f"<dt>Source note</dt><dd>{xml(alias_note)}</dd>" if alias_note else ""
     work_url = f"{SITE_BASE}works/{metadata['id']}.html"
     corrections = metadata.get('ai_corrections')
     correction_note = (f'<p>Local AI scan-supported corrections: {xml(corrections["date"])}. Human review is not documented. Historical machine audits predate these edits; consult the work errata for the original wording and source evidence.</p>' if corrections else '')
     return f'''<section id="provenance" epub:type="colophon">
 <h1>About this edition</h1>
-<dl>
+<dl class="colophon-metadata">
 <dt>Authorship</dt><dd>{xml(credit(metadata))}</dd>
 <dt>Edition</dt><dd>{xml(metadata.get('edition_info', ''))}</dd>
 <dt>English edition</dt><dd>{CONTRIBUTOR}, Trithemius Corpus {xml(version)}</dd>
-<dt>Source</dt><dd>{source_link}</dd>
-<dt>Canonical web edition</dt><dd><a href="{xml(work_url)}">{xml(work_url)}</a></dd>
+<dt>Source</dt><dd>{source_link}</dd>{shared_source}
+<dt>Canonical web edition</dt><dd><a class="canonical-url" href="{xml(work_url)}">{xml(work_url)}</a></dd>
 <dt>License</dt><dd>CC0-1.0 for generated translation artifacts; see the repository license for documentation, code, and arrangement.</dd>
 </dl>
 {correction_note}
@@ -310,12 +370,13 @@ def build_one(root: Path, out: Path, work: dict, format_date: str, css: str, epu
     provenance_body = provenance(metadata, VERSION_SLOT)
     title_body = f'''<section class="title-page" epub:type="titlepage"><p class="series">Trithemius Corpus · Reading Edition {VERSION_SLOT}</p><h1>{xml(title)}</h1><p class="source-title" lang="la">{xml(metadata.get('title', title))}</p><p>{xml(credit(metadata))}</p><p>English edition by {CONTRIBUTOR}</p></section>'''
     intro_page = f'<section epub:type="preface"><h1>Introduction</h1>{intro_body}</section>{caveat(metadata)}'
-    text_page = f'<article epub:type="bodymatter"><h1>{xml(title)}</h1>{text_body}</article>'
+    epub_body, has_wide_tables = epub_reading_layout(text_body)
+    text_page = f'<article epub:type="bodymatter"><h1>{xml(title)}</h1>{epub_body}</article>'
     files = {
         "META-INF/container.xml": container_xml(),
         "EPUB/package.opf": package_document(metadata, VERSION_SLOT, MODIFIED_SLOT),
         "EPUB/nav.xhtml": navigation(title),
-        "EPUB/publication.css": epub_css,
+        "EPUB/publication.css": epub_css + (WIDE_TABLE_CSS if has_wide_tables else ""),
         "EPUB/titlepage.xhtml": xhtml_document(title, title_body, body_type="frontmatter"),
         "EPUB/introduction.xhtml": xhtml_document("Introduction", intro_page, body_type="frontmatter"),
         "EPUB/text.xhtml": xhtml_document(title, text_page),

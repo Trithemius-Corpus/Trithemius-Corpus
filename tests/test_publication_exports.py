@@ -8,6 +8,7 @@ import sys
 import tempfile
 import unittest
 import zipfile
+from xml.etree import ElementTree as ET
 from pathlib import Path
 from unittest.mock import patch
 
@@ -89,6 +90,71 @@ class EditionRevisions(unittest.TestCase):
         index["works"][0]["epub_sha256"] = "0" * 64
         (self.out / "index.json").write_text(json.dumps(index))
         self.assertTrue(any("epub_sha256" in e for e in validate_exports(self.root, self.out, [row["id"]])))
+
+    def test_unbroken_cipher_numbers_remain_complete_and_can_wrap_in_both_books(self):
+        sequence = ":".join(str(n) for n in range(1, 302))
+        work_id = self.works[0]
+        (self.root / "works" / work_id / "english.md").write_text(
+            f"Before the sequence {sequence} after the sequence.\n", encoding="utf-8")
+        row, = self.build([work_id])
+        print_html = self.out / row["print"]
+        self.assertIn(sequence, print_html.read_text(encoding="utf-8"))
+        self.assertIn(".reading-text p { overflow-wrap: anywhere; }",
+                      print_html.with_name("publication.css").read_text(encoding="utf-8"))
+        with zipfile.ZipFile(self.out / row["epub"]) as epub:
+            doc = ET.fromstring(epub.read("EPUB/text.xhtml"))
+            self.assertIn(sequence, "".join(doc.itertext()))
+            groups = doc.findall(".//{*}span[@class='number-run']")
+            self.assertTrue(groups and all(len(item.text) <= 16 for item in groups))
+            self.assertEqual("".join(item.text for item in groups), sequence)
+            self.assertIn(".number-run { display: inline-block; }", epub.read("EPUB/publication.css").decode())
+            self.assertIn("article p { overflow-wrap: anywhere; }", epub.read("EPUB/publication.css").decode())
+
+    def test_epub_breaks_preserve_inline_text_punctuation_and_links(self):
+        numbers = ":".join(str(n) for n in range(1, 31))
+        markup = f'<p>Start <em>{numbers}</em>: {numbers}; end <a href="#{numbers}">link</a>.</p>'
+        body = ET.fromstring(exports.epub_reading_layout(markup)[0])
+        self.assertEqual("".join(body.itertext()), "".join(ET.fromstring(markup).itertext()))
+        self.assertEqual(body.find("a").get("href"), "#" + numbers)
+        self.assertEqual("".join(body.find("em").itertext()), numbers)
+        self.assertTrue(body.find("em").findall("span"))
+        untouched = f'<p><a href="#{numbers}">only a link</a> · 12:34</p>'
+        self.assertEqual(exports.epub_reading_layout(untouched), (untouched, False))
+
+    def test_compact_epub_tables_preserve_all_cells_and_leave_small_tables_alone(self):
+        def table(width):
+            cells = "".join(f"<td>{n}</td>" for n in range(1, width + 1))
+            return f'<table class="cipher"><tbody><tr>{cells}</tr></tbody></table>'
+
+        small, wide = table(3), table(6)
+        work = self.root / "works" / self.works[0] / "english.md"
+        work.write_text(small + "\n\n" + wide, encoding="utf-8")
+        mixed, other = self.build()
+        with zipfile.ZipFile(self.out / mixed["epub"]) as epub:
+            doc = ET.fromstring(epub.read("EPUB/text.xhtml"))
+            tables = doc.findall(".//{*}table")
+            self.assertEqual([t.get("class") for t in tables], ["cipher", "cipher wide-table"])
+            self.assertEqual([td.text for td in tables[1].findall(".//{*}td")], list("123456"))
+            self.assertIn(exports.WIDE_TABLE_CSS, epub.read("EPUB/publication.css").decode())
+        with zipfile.ZipFile(self.out / other["epub"]) as epub:
+            self.assertNotIn(".wide-table", epub.read("EPUB/publication.css").decode())
+        self.assertNotIn("wide-table", (self.out / mixed["print"]).read_text(encoding="utf-8"))
+
+    def test_colophon_prints_a_self_labelled_url_once(self):
+        from lxml import html
+
+        row, = self.build([self.works[0]])
+        target = self.out / row["print"]
+        doc = html.fromstring(target.read_bytes())
+        anchor, = doc.xpath('//dt[.="Canonical web edition"]/following-sibling::dd[1]/a')
+        self.assertEqual(anchor.text, anchor.get("href"))
+        self.assertEqual(anchor.get("class"), "canonical-url")
+        css = target.with_name("publication.css").read_text(encoding="utf-8")
+        self.assertIn('a[href^="http"]:not(.canonical-url)::after', css)
+        self.assertEqual(anchor.xpath("ancestor::dl")[0].get("class"), "colophon-metadata")
+        self.assertIn(".colophon-metadata { break-inside: avoid;", css)
+        source, = doc.xpath('//a[.="institutional source record"]')
+        self.assertNotEqual(source.get("class"), "canonical-url")
 
     def test_known_history_cannot_be_backdated(self):
         with patch.dict(os.environ, {"SOURCE_DATE_EPOCH": "1"}):

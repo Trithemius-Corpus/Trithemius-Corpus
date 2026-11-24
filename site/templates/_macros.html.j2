@@ -2,7 +2,7 @@
    calling page's depth: {% from "_macros.html.j2" import breadcrumb, text_card with context %} #}
 
 {% macro rights_summary() -%}
-Translations &amp; generated data: CC0. Methodology, documentation, code &amp; corpus arrangement: CC BY 4.0.
+Translations &amp; generated data: CC0. Methodology, documentation, code &amp; corpus arrangement: CC BY 4.0. Source images and crops carry their institutions&rsquo; rights statements.
 <a href="{{ url('LICENSE.html') }}">License &amp; rights</a>.
 {%- endmacro %}
 
@@ -36,8 +36,12 @@ Translations &amp; generated data: CC0. Methodology, documentation, code &amp; c
     {{ t.editions[0].label }} &middot; {{ t.editions[0].editorial_state|lower }}
     &middot; <a href="{{ url('works/' + t.editions[0].id + '_parallel.html') }}">Latin&thinsp;/&thinsp;English</a>
     {% else %}
-    {{ t.editions|length }} editions:
-    {% for e in t.editions %}<a href="{{ url('works/' + e.id + '.html') }}">{{ e.label }}</a>{% if not loop.last %} &middot; {% endif %}{% endfor %}
+    {{ t.sources|length }} {{ 'source' if t.sources|length == 1 else 'sources' }} in {{ t.editions|length }} records.
+    {% for source in t.sources %}
+      {% if source.records|length > 1 %}{{ source.label }} (shared scan:
+        {% for record in source.records %}<a href="{{ url('works/' + record.id + '.html') }}">PRDL {{ record.prdl }}</a>{% if not loop.last %}, {% endif %}{% endfor %})
+      {% else %}<a href="{{ url('works/' + source.records[0].id + '.html') }}">{{ source.label }}</a>{% endif %}{% if not loop.last %} &middot; {% endif %}
+    {% endfor %}
     {% endif %}
   </p>
 </article>

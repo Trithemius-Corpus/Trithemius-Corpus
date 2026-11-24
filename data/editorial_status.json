@@ -35,8 +35,8 @@
       "edition_track": "earlier",
       "text_origin": "machine-translation",
       "human_review": "none-documented",
-      "editorial_state": "provisional-reading-text",
-      "automated_qa": "full-machine-audit",
+      "editorial_state": "ai-corrected-reading-text",
+      "automated_qa": "historical-machine-audit",
       "automated_qa_coverage_pct": 100.0,
       "chunks_graded": 132,
       "chunks_total": 132,
@@ -46,7 +46,14 @@
         "check-against-latin-before-quotation"
       ],
       "historical_machine_grade": "S",
-      "historical_faithfulness_score": 4.55
+      "historical_faithfulness_score": 4.55,
+      "historical_qa_scope": "full-machine-audit",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "The corrections of 23 November 2026 were checked by AI against this printed witness. The edition errata record the readings. Machine audit scores predate these edits."
+      }
     },
     {
       "id": "prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui",
@@ -175,10 +182,10 @@
       "historical_faithfulness_score": 4.71,
       "historical_qa_scope": "full-machine-audit",
       "ai_corrections": {
-        "date": "2026-11-17",
-        "count": 5,
+        "date": "2026-11-23",
+        "count": 11,
         "human_review": "none_documented",
-        "note": "Dated AI scan assessments and each original reading appear in the edition errata. The pen modifier remains provisional. Historical machine audits predate these edits."
+        "note": "The edition errata document scan-checked readings and earlier wording. The historical machine audit predates the corrections. The pen modifier remains provisional."
       }
     },
     {
@@ -924,10 +931,10 @@
       "review_note": "Book-style presentation and restored sixteen-chapter structure reviewed and approved; this is not a complete human verification of the translation against the Latin.",
       "historical_qa_scope": "sampled-machine-audit",
       "ai_corrections": {
-        "date": "2026-11-17",
-        "count": 8,
+        "date": "2026-11-23",
+        "count": 12,
         "human_review": "none_documented",
-        "note": "Dated AI scan assessments and each original reading appear in the edition errata. The pen modifier remains provisional. Historical machine audits predate these edits."
+        "note": "The edition errata document scan-checked readings and earlier wording. The historical machine audit predates the corrections. The pen modifier remains provisional."
       }
     },
     {

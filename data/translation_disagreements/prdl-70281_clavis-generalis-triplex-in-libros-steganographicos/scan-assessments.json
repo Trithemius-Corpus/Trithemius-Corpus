@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "transcription_convention": "Normalized reading of the cited type. Long s is written s. Word division and line-end joins are recorded where they affect the reading.",
+  "items": {
+    "clavis-modus-ii-alphabet": {
+      "normalized_latin": "Alphabetum. Ax, bz, ca, db, ec, fd, ge, hf, ig, kh, li, mk, nl, om, pn, qo, rp, sq, tr, vs, xt, zv. Ich bitte dich komm von stund an zu mir/ es thut sehr noth.",
+      "reason": "The twenty-two printed pairs complete a regular rotation. The letter stream begins G.a.f.z, giving ich b. The full significant-letter transcription used by the executable edition was retained. The remaining differences from the printed German have no established single cause.",
+      "image": {
+        "canvas": "https://diglib.hab.de/drucke/fb-243/start.htm?image=00249",
+        "image_url": "https://diglib.hab.de/drucke/fb-243/00249.jpg",
+        "label": "Fb 243, image 00249, printed p. 57",
+        "attribution": "Herzog August Bibliothek Wolfenbüttel",
+        "rights": [
+          "https://diglib.hab.de/nutzungshinweise.html"
+        ],
+        "review_date": "2026-11-23",
+        "source_note": "Archived full-page image 251. The photographic footer identifies the provider image.",
+        "path": "data/translation_disagreements/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/facsimiles/canvas-249.webp",
+        "sha256": "a3522f4a88088844a0dabe1fc5f538cfcd7d0609b8145cf04932820d77db8fb2",
+        "published_corpus_page": 251
+      },
+      "crop": {
+        "canvas_number": 249,
+        "crop_path": "data/translation_disagreements/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/facsimiles/clavis-modus-ii-alphabet.png",
+        "xywh": [
+          105,
+          145,
+          640,
+          287
+        ],
+        "sha256": "a3b2060b9fc29eeeb794657655027e34461d470b5ce6a45dcb3931cb6a31fc84"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented",
+      "confidence": "AI visual collation against the cited page. The reason records any uncertainty specific to this reading."
+    },
+    "clavis-modus-ii-rule": {
+      "normalized_latin": "ab una vacante incipiens … in secundam immediate praecedentem … pro A, accipiatur x; pro b, z; pro c a",
+      "reason": "The text begins with one empty word, alternates, and directs the reader to take the second preceding letter on the wheel.",
+      "image": {
+        "canvas": "https://diglib.hab.de/drucke/fb-243/start.htm?image=00248",
+        "image_url": "https://diglib.hab.de/drucke/fb-243/00248.jpg",
+        "label": "Fb 243, image 00248, printed p. 56",
+        "attribution": "Herzog August Bibliothek Wolfenbüttel",
+        "rights": [
+          "https://diglib.hab.de/nutzungshinweise.html"
+        ],
+        "review_date": "2026-11-23",
+        "source_note": "Archived full-page image 250. The photographic footer identifies the provider image.",
+        "path": "data/translation_disagreements/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/facsimiles/canvas-248.webp",
+        "sha256": "485dd46b7b5a63d12b29963dcbb752ee932f8d5f9f50b3910b0dd2d19d30b95e",
+        "published_corpus_page": 250
+      },
+      "crop": {
+        "canvas_number": 248,
+        "crop_path": "data/translation_disagreements/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/facsimiles/clavis-modus-ii-rule.png",
+        "xywh": [
+          300,
+          305,
+          533,
+          690
+        ],
+        "sha256": "8a1e7827b3f1c6952ff1bd14da05ba607eba3bbcfdd39ef5ea187493883cbdff"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented",
+      "confidence": "AI visual collation against the cited page. The reason records any uncertainty specific to this reading."
+    },
+    "clavis-modus-ii-cover": {
+      "normalized_latin": "Creator generis humani aspice Deus famulos tuos Zelo rectitudinis guberna quatenus bene conuersantes consequamur",
+      "reason": "The enlarged C begins Creator. Joining gu- and berna and expanding the abbreviation in consequamur restores the cover-word sequence. Its even-position initials give gafzgbc. No fresh transcription of the entire significant-letter line is claimed.",
+      "image": {
+        "canvas": "https://diglib.hab.de/drucke/fb-243/start.htm?image=00249",
+        "image_url": "https://diglib.hab.de/drucke/fb-243/00249.jpg",
+        "label": "Fb 243, image 00249, printed p. 57",
+        "attribution": "Herzog August Bibliothek Wolfenbüttel",
+        "rights": [
+          "https://diglib.hab.de/nutzungshinweise.html"
+        ],
+        "review_date": "2026-11-23",
+        "source_note": "Archived full-page image 251. The photographic footer identifies the provider image.",
+        "path": "data/translation_disagreements/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/facsimiles/canvas-249.webp",
+        "sha256": "a3522f4a88088844a0dabe1fc5f538cfcd7d0609b8145cf04932820d77db8fb2",
+        "published_corpus_page": 251
+      },
+      "crop": {
+        "canvas_number": 249,
+        "crop_path": "data/translation_disagreements/prdl-70281_clavis-generalis-triplex-in-libros-steganographicos/facsimiles/clavis-modus-ii-cover.png",
+        "xywh": [
+          93,
+          438,
+          653,
+          79
+        ],
+        "sha256": "25fbf018d6a032bcc91b7791b3f98cd1e62c5266e2113f58aa96f6062e86fdd3"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented",
+      "confidence": "AI visual collation against the cited page. The reason records any uncertainty specific to this reading."
+    }
+  }
+}

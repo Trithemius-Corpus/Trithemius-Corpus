@@ -12,6 +12,16 @@ from edition_corrections import history, recorded_ledgers, validate_history
 import scan_evidence
 
 
+def check_cited_ids(before: dict, after: dict, changes: list[dict]) -> set[str]:
+    if [p["id"] for p in before["passages"]] != [p["id"] for p in after["passages"]]:
+        raise ValueError("passages IDs changed")
+    retired = {key for c in changes for key in c.get("resolved_annotations", [])}
+    expected = [a["id"] for a in before["annotations"] if a["html_id"] not in retired]
+    if expected != [a["id"] for a in after["annotations"]]:
+        raise ValueError("Unrecorded change in active annotation IDs")
+    return retired
+
+
 def validate(dist: Path) -> None:
     work = b.DEFAULT_WORK
     base = b.ROOT / "data/translation_disagreements" / work
@@ -21,15 +31,15 @@ def validate(dist: Path) -> None:
     changes = [edit for ledger in ledgers for edit in ledger["changes"]]
     active = b.current_resolutions(ledgers)
     for ledger in ledgers:
-        assessed = scan_evidence.load(b.ROOT, work, as_of=ledger["date"])
+        assessed = scan_evidence.load(b.ROOT, work, as_of=ledger["date"], sequence=ledger.get("sequence", 1))
         if any(change["item_id"] not in assessed for change in ledger["changes"]):
             raise ValueError("A correction has no scan assessment at its recorded date")
     spec = json.loads(b.read(base / "review.json"))
     before = json.loads(b.read(b.ROOT / spec["sources"]["passage_index"]["path"]))
     after = json.loads(b.read(dist / "data/passages" / f"{work}.json"))
-    for name in ("passages", "annotations"):
-        if [x["id"] for x in before[name]] != [x["id"] for x in after[name]]:
-            raise ValueError(f"{name} IDs changed")
+    retired = check_cited_ids(before, after, changes)
+    if not retired <= {a["html_id"] for a in before["annotations"]}:
+        raise ValueError("Retired annotation was absent from the frozen edition")
     for track, folder in (("earlier", "works"), ("t4b", "works-t4b")):
         edition = b.ROOT / folder / work
         metadata = json.loads(b.read(edition / "metadata.json"))["ai_corrections"]
@@ -44,6 +54,10 @@ def validate(dist: Path) -> None:
                 raise ValueError(f"{track}: missing erratum for {edit['item_id']}")
         suffix = "" if track == "earlier" else "-trithemius-4b"
         doc = html.fromstring(b.read(dist / "works" / f"{work}{suffix}.html"))
+        if track == "earlier":
+            errata_section = doc.get_element_by_id("errata")
+            if any(errata_section.get_element_by_id(key, None) is None for key in retired):
+                raise ValueError("Resolved annotation lost its published erratum target")
         body = doc.get_element_by_id("study-reader" if track == "earlier" else "reading-text")
         text = b.flat(body.text_content())
         for item_id, resolution in active.items():
@@ -68,7 +82,7 @@ def validate(dist: Path) -> None:
                 or set(fixture["accepted_local_english"]) != {c["after"] for c in active[key]["changes"]}):
             raise ValueError(f"Benchmark seed differs from the current evidence: {key}")
     print(f"Scribes correction checks passed for {len(changes)} edits in {len(ledgers)} dated batches, "
-          f"{len(after['passages'])} passages and {len(after['annotations'])} annotation IDs.")
+          f"{len(after['passages'])} passages, {len(after['annotations'])} active annotations and {len(retired)} resolved annotation links.")
     print(f"{len(active_ids)} provisional benchmark seeds and {len(held)} withheld pending human adjudication.")
 
 

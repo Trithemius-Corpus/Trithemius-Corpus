@@ -18432,7 +18432,7 @@
       "priority": "P2",
       "title": "The mercy-and-justice sentence replaces an earlier gap",
       "assessment": "T4B gives The Lord is merciful and just. He will not let your labors ... pass without recompense where earlier has Clement and [unclear] is the Lord, [unclear] followed by the recompense promise. Both OCRs preserve Clemens and a damaged justus-like word. The final promise has the same polarity across the break, but the divine attribute is a real recovery.",
-      "next_action": "Check Clemens et iustus and the sentence boundary in the image. Keep the negative recompense promise intact; do not classify the later moved will not as a reversal.",
+      "next_action": "Human editorial review of the dated local correction.",
       "candidate_ids": [
         "lex-4095a7433bd7a0eb",
         "lex-d9480d02a04f7a4a"
@@ -18480,14 +18480,91 @@
           "end_line": 676,
           "quote": "clefiæ catholice et animabus vestris valde comodofum.\nSi quis in eo fe vfitauerit: quate vtilitatis fit agnofcer.\nIncipite cù deiderio: et cù amore sancto pſicetis. Bau\ndet levnufquiq3 in domo dei ad alioz vtilitate aliquid\nlaboribus fuis attuliffe. Clemens et iuftus eft ois. la\n\n--- Page 022 ---\n\nbozes vestros, tam pios, tam viles, tam necessarios eccle\nsie, non fine maxima retribucone tranfibt.\n\nQ̃d propter impressurā a scri\nbendis volumibus no fit defitendū. Cap.vij.\n"
         }
-      ]
+      ],
+      "historical_next_action": "Check Clemens et iustus and the sentence boundary in the image. Keep the negative recompense promise intact; do not classify the later moved will not as a reversal.",
+      "status": "ai_scan_checked_corrected_locally",
+      "followup": {
+        "assessment": {
+          "normalized_latin": "Clemens et iustus est Dominus, la-",
+          "reason": "The Lord is merciful and just. The next leaf completes the word labores and makes the Lord the subject of transibit.",
+          "image": {
+            "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/20",
+            "label": "9v (0020)",
+            "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00020/full/full/0/default.jpg",
+            "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-020.jpg",
+            "sha256": "12dedd5b02d1b21742db0c571e0ce2628c2871e1f5bf9f7a3bf285ed35326145",
+            "rights": [
+              "https://creativecommons.org/publicdomain/mark/1.0/"
+            ],
+            "attribution": "Bayerische Staatsbibliothek",
+            "download_date": "2026-11-05"
+          },
+          "crop": {
+            "canvas_number": 20,
+            "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/B-F03-crop.png",
+            "xywh": [
+              528,
+              2352,
+              1410,
+              259
+            ],
+            "sha256": "a624534c030f75779c82a6f7d306c0a8fe961290a7daf8411b57e33cecf24f15"
+          },
+          "reviewer": "Codex AI",
+          "human_review": "none_documented"
+        },
+        "correction": {
+          "status": "applied_locally",
+          "human_review": "none_documented",
+          "dates": [
+            "2026-11-23"
+          ],
+          "changes": [
+            {
+              "item_id": "B-F03",
+              "track": "earlier",
+              "passage": "p-en-0009-0005",
+              "before": "Clement and [unclear] is the Lord, [unclear].",
+              "after": "The Lord is merciful and just.",
+              "resolved_annotations": [
+                "a-en-0009-0005-001",
+                "a-en-0009-0005-002"
+              ],
+              "supporting_scans": [
+                "scribes-labors-continuation"
+              ],
+              "files": [
+                "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+                "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0009.md"
+              ],
+              "date": "2026-11-23"
+            },
+            {
+              "item_id": "B-F03",
+              "track": "earlier",
+              "passage": "p-en-0010-0001",
+              "before": "your labors, so pious, so useful, so necessary to the Church, will not pass without the greatest recompense.",
+              "after": "He will not pass over your labors, so pious, so useful, so necessary to the Church, without the greatest recompense.",
+              "supporting_scans": [
+                "scribes-labors-continuation"
+              ],
+              "files": [
+                "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+                "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0010.md"
+              ],
+              "date": "2026-11-23"
+            }
+          ],
+          "date": "2026-11-23"
+        }
+      }
     },
     {
       "id": "B-F04",
       "priority": "P2",
       "title": "Both English tracks omit a find-or-buy sentence and T4B relocates easily",
       "assessment": "T4B Latin contains a distinct sentence about not easily finding or buying all printed books, then a separate even-if-all-books-were-printed counterfactual. Neither full English paragraph renders finding or buying. T4B instead puts easily with were printed, while earlier has an uncertainty marker. The earlier OCR has collapsed this region. This is a shared omission with an additional T4B attachment problem.",
-      "next_action": "Inspect the entire sequence from Nec facile through Quod si etiam against the scan; recover the missing proposition and parse easily with its actual verb before proposing edits.",
+      "next_action": "Human editorial review of the dated local correction.",
       "candidate_ids": [
         "lex-a515a48639e3961b",
         "lex-53c65c1db5e7b2fd"
@@ -18535,7 +18612,80 @@
           "end_line": 700,
           "quote": "teritas iudicabit. Enimero etiā\nſi multa volumina impressa ſint: nũquā tamen adeo im\nprimentur, quin ſemp ad scribendū q̃ impressum no fit\nvaleas inuenire. Hec facile quifq̃ omnes impressos li\nbros vel inuenire potest vel emere. Q̃ ſi etiā omnes libri\ntotus mundi imprimerentur : a studio ſuo ſcripto: deuo/\ntus nequaqs̃ deberet deſiſtere : ſed etiā impressos viles\np scripturā perpetuare: qui alioquin diu no valent ſub\nſiſtere. Hoc eſt faciens dabit ſcripturis nutantibus firmi\ntatem : paruis preci̱ magnitudinem : caducis temporib\nlongeuitate. Deuotus autē ſcripto: ſemp inueniet. c"
         }
-      ]
+      ],
+      "historical_next_action": "Inspect the entire sequence from Nec facile through Quod si etiam against the scan; recover the missing proposition and parse easily with its actual verb before proposing edits.",
+      "status": "ai_scan_checked_corrected_locally",
+      "followup": {
+        "assessment": {
+          "normalized_latin": "Nec facile … omnes impressos libros vel invenire potest vel emere. Quod si etiam omnes libri totius mundi imprimerentur …",
+          "reason": "A separate sentence says that one cannot easily find or buy all printed books. Facile belongs to finding and buying. The next sentence opens a counterfactual about printing all books.",
+          "image": {
+            "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/21",
+            "label": "10r (0021)",
+            "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00021/full/full/0/default.jpg",
+            "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-021.jpg",
+            "sha256": "4695df968ede034a675b071a7e1a96c8678a76339476507c4ca47bd80b39fada",
+            "rights": [
+              [
+                "https://creativecommons.org/publicdomain/mark/1.0/"
+              ]
+            ],
+            "attribution": "Bayerische Staatsbibliothek",
+            "collation_date": "2026-11-23"
+          },
+          "crop": {
+            "canvas_number": 21,
+            "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/B-F04-crop.png",
+            "xywh": [
+              293,
+              1383,
+              1455,
+              542
+            ],
+            "sha256": "4e40d0a25d6b256414f2d408672923516de16c2c6ae0799caf4236f5bf598fef"
+          },
+          "reviewer": "Codex AI",
+          "human_review": "none_documented"
+        },
+        "correction": {
+          "status": "applied_locally",
+          "human_review": "none_documented",
+          "dates": [
+            "2026-11-23"
+          ],
+          "changes": [
+            {
+              "item_id": "B-F04",
+              "track": "earlier",
+              "passage": "p-en-0010-0003",
+              "before": "Nor [unclear], even if all the books of the whole world were printed, should the devout scribe in any way desist from his pursuit",
+              "after": "Nor can one easily find or buy all printed books. Even if all the books of the whole world were printed, the devout scribe should by no means desist from his pursuit",
+              "resolved_annotations": [
+                "a-en-0010-0003-002"
+              ],
+              "files": [
+                "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+                "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0010.md"
+              ],
+              "date": "2026-11-23"
+            },
+            {
+              "item_id": "B-F04",
+              "track": "t4b",
+              "passage": "p-t4b-ac19e481c664cb4c",
+              "before": "Nor, if all the books of the whole world were easily printed, should the devout scribe in any way cease from his study",
+              "after": "Nor can one easily find or buy all printed books. Even if all the books in the world were printed, the devout scribe should by no means cease from his study",
+              "files": [
+                "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+                "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0008.md"
+              ],
+              "rendered_anchor_after": "p-t4b-478700fd64a8dfab",
+              "date": "2026-11-23"
+            }
+          ],
+          "date": "2026-11-23"
+        }
+      }
     },
     {
       "id": "B-F06",
@@ -19894,7 +20044,7 @@
       "priority": "P3",
       "title": "Both colophons omit an apparent printer forename",
       "assessment": "T4B OCR includes Petri before Friedberg; earlier OCR and both English tracks give only the surname. This is a small shared loss of identification if confirmed in print, not a verified identification of the historical printer.",
-      "next_action": "Check the colophon before expanding the name and keep it separate from the ownership inscription in scribes-015.",
+      "next_action": "Human editorial review of the dated local correction.",
       "candidate_ids": [],
       "evidence": [
         {
@@ -19925,9 +20075,79 @@
           "end_line": 1388,
           "quote": "iffimi faluatoris.\n\nDefideratus finis huc p ſe elegantì opuſculo fauſte\nimponitur p. Petri Friedbergēi. impreſſozeni Da\nguntinũ Anno virginei partus. D. cccc. xciij.\n\nMonasbergij Anypensis.\n\n--- Page "
         }
-      ]
+      ],
+      "historical_next_action": "Check the colophon before expanding the name and keep it separate from the ownership inscription in scribes-015.",
+      "status": "ai_scan_checked_corrected_locally",
+      "followup": {
+        "assessment": {
+          "normalized_latin": "per Petrum Friedbergensem, impressorem Maguntinum, anno virginei partus M.cccc.xciiij.",
+          "reason": "The printed colophon names Peter of Friedberg, the Mainz printer, and dates the printing to 1494. The 1492 dedication belongs to the composition history.",
+          "image": {
+            "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/41",
+            "label": "20r (0041)",
+            "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00041/full/full/0/default.jpg",
+            "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-041.jpg",
+            "sha256": "a06d4637926913ce3faba853ff43d434577e45801eb9871c657b1a2468523417",
+            "rights": [
+              [
+                "https://creativecommons.org/publicdomain/mark/1.0/"
+              ]
+            ],
+            "attribution": "Bayerische Staatsbibliothek",
+            "collation_date": "2026-11-23"
+          },
+          "crop": {
+            "canvas_number": 41,
+            "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/context-c-s03-crop.png",
+            "xywh": [
+              380,
+              1488,
+              1349,
+              315
+            ],
+            "sha256": "7eff8f8f2976fd5b583e7e81e5b1c97fa900440aae5219a578023b90872fb6bc"
+          },
+          "reviewer": "Codex AI",
+          "human_review": "none_documented"
+        },
+        "correction": {
+          "status": "applied_locally",
+          "human_review": "none_documented",
+          "dates": [
+            "2026-11-23"
+          ],
+          "changes": [
+            {
+              "item_id": "context-c-s03",
+              "track": "earlier",
+              "passage": "p-en-0021-0004",
+              "before": "by Friedberg, the Mainz printer, in the year of the Virgin birth 1493.",
+              "after": "by Peter of Friedberg, the Mainz printer, in the year of the Virgin birth 1494.",
+              "files": [
+                "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+                "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0021.md"
+              ],
+              "date": "2026-11-23"
+            },
+            {
+              "item_id": "context-c-s03",
+              "track": "t4b",
+              "passage": "p-t4b-db4ee855d9e36bfc",
+              "before": "by Friedberg, printer of Mainz, in the year of the Virgin Birth 1493.",
+              "after": "by Peter of Friedberg, printer of Mainz, in the year of the Virgin Birth 1494.",
+              "files": [
+                "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+                "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0018.md"
+              ],
+              "rendered_anchor_after": "p-t4b-87090b16b3e98830",
+              "date": "2026-11-23"
+            }
+          ],
+          "date": "2026-11-23"
+        }
+      }
     }
   ],
   "verified_references": 382,
-  "report_sha256": "dd0832a266908c4c41b67e17e46b5c0042c7e339e589199fdab40902baa0bced"
+  "report_sha256": "33cbda1e42bd1fd3f4e14475c76c5e99ef73e8efdc3fe83614ce40af4237c4fc"
 }

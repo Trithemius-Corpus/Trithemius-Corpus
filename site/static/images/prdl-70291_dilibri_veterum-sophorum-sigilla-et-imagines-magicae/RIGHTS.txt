@@ -1,0 +1,10 @@
+Source images for PRDL 70291, Veterum Sophorum Sigilla et Imagines Magicae
+
+Holding institution: Stadtbibliothek Trier, shelfmark T 288 8’.
+Digitization supplied by Dilibri. The corpus includes WebP page images and
+reduced-size thumbnails made from the digitized copy.
+
+Source record: https://www.dilibri.de/ubtrdfg/content/titleinfo/466737
+Institutional rights metadata: https://www.dilibri.de/oai?verb=GetRecord&metadataPrefix=mets&identifier=466737
+Image license: Creative Commons Attribution-NonCommercial-ShareAlike 3.0
+https://creativecommons.org/licenses/by-nc-sa/3.0/
