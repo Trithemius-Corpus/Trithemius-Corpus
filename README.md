@@ -1,100 +1,52 @@
 # Trithemius Corpus
 
-[![Trithemius Corpus — enter the English editions](site/static/images/trithemius-hero.png)](https://trithemius-corpus.github.io/Trithemius-Corpus/)
+[![Trithemius Corpus — open the English editions](site/static/images/trithemius-hero.png)](https://trithemius-corpus.github.io/Trithemius-Corpus/)
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Site](https://img.shields.io/badge/site-trithemius--corpus.github.io%2FTrithemius--Corpus-25483f)](https://trithemius-corpus.github.io/Trithemius-Corpus/)
+**Read 29 Latin texts by or associated with Johannes Trithemius in machine-assisted English translation.** Trithemius (1462–1516), Benedictine abbot of Sponheim and later Würzburg, wrote on monastic life, pastoral care, history, bibliography, and cryptography. The collection also includes texts he transmitted and works traditionally attributed to him. [Browse the corpus](https://trithemius-corpus.github.io/Trithemius-Corpus/) · [Catalogue and source records](manifest.json)
 
-**Machine-assisted English translations of 29 Latin texts by or associated with Johannes Trithemius (1462–1516), in 47 catalogue records drawn from 45 digitized sources.**
+## Read an edition
 
-Johannes Trithemius, Benedictine abbot of Sponheim and later Wurzburg, was a bibliographer, monastic reformer, cryptographer, historian, and one of the more idiosyncratic minds of the early German Renaissance. His cryptographic works attracted modern attention, but most of his monastic, Marian, hagiographic, pastoral, devotional, and historical writing has remained locked in early-modern Latin print.
+Choose a work and a printing in the catalogue. The standard reading page links to the Latin OCR, a side-by-side viewer, and downloadable EPUB and print editions. Where a second translation exists, the **Trithemius 4B** link opens a separate reading of the same witness. For some cipher tables and damaged passages, the **Special scholarly renderings** show a structured transcription or explanation alongside the source image. [Study reader guide](docs/STUDY_READER.md) · [Cipher guide](docs/CIPHERS.md)
 
-Each catalogue record has its own OCR and English translation. Two pairs of records share a digitized source. The work records give the extent of automated audit coverage and distinguish those scores from subsequent editorial changes. Dated errata identify corrections that readers can check against the Latin.
+| In this checkout | Coverage |
+|---|---|
+| Standard catalogue records | 47 for 29 distinct texts |
+| Digitized sources | 45 distinct source-record URLs. Two pairs of catalogue records share a scan. |
+| English reading editions | 47 standard and 27 additional Trithemius 4B editions |
+| Standard translation chunks | 4,400, of which 4,353 have recorded historical machine grades |
+| Downloadable books | 47 EPUBs and 47 print-ready HTML editions for the standard track |
+| Complete human verification of a translation | 0 editions documented |
 
-## What's in the corpus
+The manifest also identifies four excluded source records. The prior-English survey records earlier translations, excerpts, adaptations, and unresolved cases. For *In Praise of Scribes*, it identifies editions by Roland Behrendt (1974) and Elizabeth Bongie (1977). [Prior translations and survey scope](docs/PRIOR_TRANSLATIONS.md)
 
-Current public release view:
+## Check a reading
 
-| Measure | Value |
-|---|---:|
-| Translated catalogue records | **47** |
-| Digitized sources | **45** |
-| Distinct texts | **29** |
-| Published chunks | **4,400** |
-| Public text origin | **Machine translation (all editions)** |
-| Complete documented human review | **0 editions** |
-| Public editorial status | **Provisional working texts** |
-| Automated QA | **Triage evidence; not certification** |
+In a standard edition, open **Study** to see the Latin segment associated with an English passage. The reader toolbar lets you copy the passage link. The 4B edition has its own English passage links and a separate OCR file in `works-t4b/<id>/`. Chunk numbers can differ between the two tracks. Where a reading matters to an argument, use the edition’s source record to check the print and cite the witness, track, and passage. OCR can misread an abbreviation or flatten a table, and two translations can agree on the same error. [Passage identifiers](docs/PASSAGE_MODEL.md) · [Methodology and limitations](METHODOLOGY.md)
 
-Historical model-generated letter grades and numeric scores remain in the audit
-data for reproducibility, but they are no longer used as public quality labels.
-The current translations begin at internal triage status **C: provisional
-machine translation** unless documented human comparison supports promotion.
+For a worked example, compare the two translations of *In Praise of Scribes*. Its disagreement queue preserves earlier wording, photographed leaves, and the disputed pen reading that awaits a Latin reader. [Standard English](works/prdl-24362_de-laude-scriptorum-manualium/english.md) · [Trithemius 4B English](works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md) · [Scribes review guide](docs/TRANSLATION_DISAGREEMENTS.md)
 
-Four additional source-manifest records are German or liturgical/table-heavy and are intentionally marked `skip: true` in `manifest.json`.
+A review of all 29 catalogue texts records 33 passage comparisons. A follow-up checked readings in nine works, including the Mainz colophon in *Scribes*, the page turn in *Seven Secondary Intelligences*, and the printed substitution alphabet in the *Clavis*. Both reports link to the witnesses and identify the readings that remain uncertain. [Corpus-wide translation review](docs/tasks/translation-quality-2026-11-17.md) · [Follow-up audit and evidence](docs/tasks/pre-push-review-2026-11-23.md)
 
-The older independent GPT-5.5 audit found real weaknesses in the first public draft: hallucinated passages, rough OCR-bound works, and several untranslated tail chunks. Those findings are preserved historically in [`METHODOLOGY.md`](METHODOLOGY.md). Later remediation repaired many identified defects, but machine agreement does not establish human-verified accuracy. Public review status is recorded in [`data/editorial_status.json`](data/editorial_status.json).
+Machine grades describe the text at the time of an audit. The edition records identify subsequent corrections, their evidence, and the documented scope of human review. [Editorial status by edition](data/editorial_status.json) · [Historical machine audit](docs/METHODOLOGY_GPT_AUDIT.md)
 
-For a per-work table, source provenance, edition information, and grader statistics, see [`manifest.json`](manifest.json), [`data/_quality/scoreboard_gpt_v3.md`](data/_quality/scoreboard_gpt_v3.md), or the [browsable site](https://trithemius-corpus.github.io/Trithemius-Corpus/).
+## Use the repository locally
 
-## How to read this
+Standard editions are in `works/<id>/`, and alternate editions are in `works-t4b/<id>/`. Start with `intro.md` for the headnote, `english.md` for the reading text, `latin-ocr.txt` for the transcription, and `metadata.json` for the source record. The `chunks/` directory contains the numbered English translation units. Where present, `ERRATA.md` records editorial changes. Scan-checked corrections also have dated evidence and preserved earlier wording. [Correction records](data/translation_disagreements/)
 
-Each work lives at `works/<id>/` with:
+To use search and the study reader from a checkout, run the following from the repository root and open [the local reader](http://127.0.0.1:8000/).
 
-- `english.md` - the stitched full English translation
-- `latin-ocr.txt` - the OCR-cleaned Latin shown in the parallel viewer
-- `intro.md` - a short researched headnote
-- `metadata.json` - source provenance, historical machine-audit metadata, and artifact inventory
-- `chapters.json` - chapter/navigation boundaries for the static site when available
-- `ERRATA.md` - human correction notes when a work has recorded errata
-- `chunks/` - per-chunk English markdown plus `grades.csv`
-
-A synchronized Latin / English viewer, work pages, Style C cipher renderings, and full-text search are on the project site:
-
-<https://trithemius-corpus.github.io/Trithemius-Corpus/>
-
-The cryptographic and occult works carry extra **Special scholarly renderings** pages: cipher-key substitution tables, cipher-grid figures, recovered untranslated passages, and damage-preserving prose, shown beside original source-page facsimiles where available. The solved Clavis ciphers are summarized on the site's cipher-solutions page.
-
-Start with [`METHODOLOGY.md`](METHODOLOGY.md) for the OCR, translation, grading, remediation, limitations, and reproducibility notes.
-
-For *In Praise of Scribes*, the two English editions can be checked against the Latin transcriptions, photographed pages, and dated correction records. The review also identifies the disputed pen reading that awaits a Latin reader. [Translation review guide](docs/TRANSLATION_DISAGREEMENTS.md) · [Offline review](review/translation-disagreements/prdl-24362_de-laude-scriptorum-manualium/index.html)
-
-## What this is and is not
-
-This is **a starting point for English readers and a scholarly aid**, not a replacement for a human critical edition. The translations are machine-produced. The grades are independent machine grades useful for triage and quality accounting; they do not certify that every individual passage is correct. For any passage you intend to quote in a published argument, check it against the Latin.
-
-A few works already have published English translations and should be preferred for scholarly citation where applicable: *De Laude Scriptorum Manualium* (Roland Behrendt, 1974; Elizabeth Bongie, 1977), the *Steganographia* tradition (Stephen Skinner and Daniel Clark, 2024), and William Lilly's 1647 English version/adaptation of *De Septem Secundeis* as *The World's Catastrophe*. The full survey is in [`docs/PRIOR_TRANSLATIONS.md`](docs/PRIOR_TRANSLATIONS.md).
-
-## Citation
-
-```text
-Fabin, Ian Carlos (2026). Trithemius Corpus: machine-assisted English translations
-of Latin texts by or associated with Johannes Trithemius.
-https://github.com/Trithemius-Corpus/Trithemius-Corpus
+```console
+python -m http.server 8000 --bind 127.0.0.1 --directory site/dist
 ```
 
-See [`CITATION.cff`](CITATION.cff) for a machine-readable citation record. A DOI will be registered via Zenodo for tagged releases.
+The prepared site is checked in. A fresh checkout supplies the facsimile images in `site/dist/static/images/`, which the builder carries forward. The release checklist gives the rebuild commands, regression tests, publication validators, and official EPUBCheck command. [Local build and release checks](docs/RELEASE_CHECKLIST.md) · [Book exports](docs/PUBLICATION_EXPORTS.md)
 
-## License
+## Citation and rights
 
-See [`LICENSE`](LICENSE) for full terms. The holding institution’s terms apply to digitized images and their crops. The project records the rights for each part of the collection.
+Fabin, Ian Carlos (2026). *Trithemius Corpus: machine-assisted English translations of Latin texts by or associated with Johannes Trithemius*. When citing the repository, include the release or commit you used. [Citation record](CITATION.cff)
 
-- **Latin source texts** - public domain.
-- **Machine translations and generated corpus artifacts** - no copyright claimed; released as **CC0-1.0**.
-- **Methodology, documentation, code, and corpus arrangement** - (c) 2026 Ian Carlos Fabin, licensed **CC BY 4.0**.
+The Latin texts are in the public domain. The project releases its English translations and generated corpus artifacts under **CC0 1.0**. Its documentation, code, and corpus arrangement are licensed under **CC BY 4.0**. Digitized page images and their crops carry the holding institution’s rights statement. The Trier *Sigilla* images are credited to Stadtbibliothek Trier under **CC BY-NC-SA 3.0**. The BSB scan of the Mainz prayer leaf carries **No Copyright – Non-Commercial Use Only**. [Project license](LICENSE) · [Trier credits](data/translation_disagreements/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/facsimiles/README.md) · [Mainz and Leipzig credits](data/translation_disagreements/prdl-24373_de-statu-et-ruina-monastici-ordinis/facsimiles/README.md)
 
-## Project status
+## Contribute a correction
 
-- [x] Phase 1 - Foundation docs
-- [x] Phase 2 - Content: public-domain retrieval rebuild, full translation, quality sweeps, and researched intros
-- [x] Phase 3 - Presentation: static site, side-by-side viewer, Style C pages, facsimiles, and search
-- [ ] Phase 4 - Distribution: GitHub Pages deploy, Zenodo DOI, and optional Internet Archive mirror; see [`docs/RELEASE_CHECKLIST.md`](docs/RELEASE_CHECKLIST.md)
-- [ ] Phase 5 - Methodology paper submission *(optional, parallel)*
-
-## Contributing
-
-Errata, OCR fixes, and terminology notes are welcome. See [`CONTRIBUTING.md`](CONTRIBUTING.md). Corrections are tracked per work in `works/<id>/ERRATA.md` so human-edit provenance stays clear.
-
-## Contact
-
-Ian Carlos Fabin (Carlosian) - [github.com/agentcarlosian](https://github.com/agentcarlosian)
+Include the work ID, translation track, passage or chunk, printed page or folio, and the wording you propose. A source image is especially helpful for names, negation, figures, and tables. The project is maintained by Ian Carlos Fabin (Carlosian). [Contribution guide](CONTRIBUTING.md) · [Maintainer](https://github.com/agentcarlosian)
