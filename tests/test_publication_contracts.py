@@ -10,6 +10,8 @@ from lxml import html
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 import build_t4b_editions as assembler
+import build_site
+import build_work_artifacts as standard
 from edition_corrections import history
 from edition_metadata import editorial_record
 from publication_guard import staged_directory, undo_migrations
@@ -111,6 +113,38 @@ class PublicationContracts(unittest.TestCase):
             if json.loads(meta.read_text(encoding="utf-8")).get("ai_corrections"):
                 with self.subTest(work=meta.parent.name):
                     self.check_reassembly(meta.parent)
+
+    def test_standard_reassembly_preserves_the_seven_intelligences_page_turn(self):
+        work = next(w for w in build_site.load_manifest()["works"] if w["id"].startswith("prdl-24383_"))
+        self.check_standard_reassembly(work)
+
+    def check_standard_reassembly(self, work):
+        wid = work["id"]
+        original = ROOT / "works" / wid
+        with TemporaryDirectory() as directory:
+            scratch = Path(directory)
+            destination = scratch / "works" / wid
+            shutil.copytree(original, destination)
+            corpus = scratch / "corpus" / wid
+            raw_chunks = corpus / "translations/public/full"
+            shutil.copytree(original / "chunks", raw_chunks)
+            for record in history(ROOT, wid)[0]["files"]:
+                if record["path"].startswith(f"works/{wid}/chunks/"):
+                    shutil.copyfile(ROOT / record["before_path"], raw_chunks / Path(record["path"]).name)
+            source = corpus / "full.txt"
+            blocks = [{"text": s["latin"]} for s in build_site._parse_latin_artifact(original / "latin-ocr.txt")]
+            with (patch.object(standard, "CORPUS", scratch / "corpus"),
+                  patch.object(standard, "WORKS", scratch / "works"),
+                  patch.object(standard, "choose_source_records", return_value=(source, blocks, [(source, blocks)]))):
+                standard.build_one(work)
+                for p in [original / "english.md", original / "ERRATA.md", *original.glob("chunks/full_chunk_*.md")]:
+                    self.assertEqual(p.read_text(encoding="utf-8"), (destination / p.relative_to(original)).read_text(encoding="utf-8"))
+                # An unrelated substantive edit invalidates the separately edited master.
+                (raw_chunks / "full_chunk_0004.md").write_text("Unrecorded new text", encoding="utf-8")
+                with self.assertRaises(ValueError):
+                    standard.build_one(work)
+                self.assertEqual((destination / "english.md").read_text(encoding="utf-8"),
+                                 (original / "english.md").read_text(encoding="utf-8"))
 
     def check_reassembly(self, original):
         wid = original.name

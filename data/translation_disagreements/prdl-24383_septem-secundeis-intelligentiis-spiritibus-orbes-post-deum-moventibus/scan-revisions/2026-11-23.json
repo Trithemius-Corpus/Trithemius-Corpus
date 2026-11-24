@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "transcription_convention": "Selected lines with abbreviations expanded and line breaks joined. Ellipses mark intervening words.",
+  "items": {
+    "seven-direction-of-michael": {
+      "normalized_latin": "In tempore huius regiminis Evilmerodach rex Babilonis libertatem et regem populo restituit Hebreorum ad directio-",
+      "reason": "At the page turn ad directionem Michaelis qualifies Evil-merodach’s restoration of liberty and a king to the Hebrews. The next clause describes Michael’s role in Daniel.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013346/canvas/12",
+        "label": "(0012)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013346_00012/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/canvas-012.jpg",
+        "sha256": "3317df1b9d6aa3c7f9fa2b50338536294a16d0d70b62772b3a511cfe30b3b568",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-17"
+      },
+      "crop": {
+        "canvas_number": 12,
+        "crop_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/seven-direction-of-michael-crop.png",
+        "xywh": [
+          432,
+          1949,
+          1360,
+          249
+        ],
+        "sha256": "88671aef2bf6251fa4ef712f19d25c06f465910e2e5c662e96d1140250ac72fc"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "seven-direction-continuation": {
+      "normalized_latin": "-nem Michaelis qui, ut Daniel scribit, pro populo stetit Iudeorum cui a Deo fuerant commissi.",
+      "reason": "The leaf begins with the completion of directionem and names Michael.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013346/canvas/13",
+        "label": "(0013)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013346_00013/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/canvas-013.jpg",
+        "sha256": "249d747515c9a26ded0f417494c741b35a53b3b9f2ff79f556f4af53a785dc6f",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "collation_date": "2026-11-23"
+      },
+      "crop": {
+        "canvas_number": 13,
+        "crop_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/seven-direction-continuation-crop.png",
+        "xywh": [
+          126,
+          269,
+          1339,
+          209
+        ],
+        "sha256": "8e40aec38bc59f2b79c07f4bf9c0e847aa2fa0a27689b36f3003714e120cafb5"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    }
+  }
+}

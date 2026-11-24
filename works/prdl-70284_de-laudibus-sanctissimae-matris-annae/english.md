@@ -1,6 +1,6 @@
 # De Laudibus Sanctissimae Matris Annae
 
-> Machine-assisted English translation. Work `prdl-70284_de-laudibus-sanctissimae-matris-annae`. Tier S · faithful 4.5 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.
+> Machine-assisted English translation. Work `prdl-70284_de-laudibus-sanctissimae-matris-annae`. The recorded machine audit predates the AI correction of 2026-11-23. Historical tier S · faithful 4.5 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.
 
 ---
 
@@ -224,7 +224,7 @@ Here ends the rosary of Jodocus Beissel, professor of both laws, patrician of Aa
 
 We sing in praise of the renowned grandmother. Move the plectra of [unclear], dear grandson, nor you, daughter, fail the singer, chaste parent of the choir. Anne, offspring of kings, is given to a husband. Long childless, she laments herself barren; with weeping she prays for offspring, nor do the tears flow in vain. Heavenly messengers promise a child. Pregnant, joined to her husband, then in childbirth, she is proved by the child born, through whom our salvation came. Thus the venerable stock of Jesse grew green; the fertile rod came forth with fruitful shoot; refreshed by its flower, we live again, death conquered.
 
-By this childbirth Joachim becomes worthy to stand in the shrines, removing the reproaches of the pontiff. Thus, Anna, prepare us to bring pure prayers to your grandson.
+By this childbirth Joachim becomes worthy to stand in the shrines, removing the reproaches of the pontiff. Thus, Anna, prepare us to be pure when we offer prayers to your grandson.
 
 Commend us to the boy whom the pious chastity of your daughter bore; by prayer we ask this, O blessed matron. Christ denies you nothing.
 

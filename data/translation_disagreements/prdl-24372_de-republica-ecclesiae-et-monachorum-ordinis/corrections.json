@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.1",
+  "date": "2026-11-23",
+  "work_id": "prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI comparison of the standard translation with the same BSB scan catalogued as prdl-24371. No human verification is documented.",
+  "changes": [
+    {
+      "item_id": "commonwealth-alias-plato",
+      "track": "earlier",
+      "passage": "p-en-0002-0001",
+      "before": "Nor will Plato be necessary to me here",
+      "after": "Nor will I need Plato in his ten books",
+      "files": [
+        "works/prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis/english.md",
+        "works/prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis/chunks/full_chunk_0002.md"
+      ],
+      "supporting_scans": []
+    }
+  ],
+  "metadata_edits": [
+    {
+      "path": "works/prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis/english.md",
+      "before": "> Machine-assisted English translation. Work `prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis`. Tier S · faithful 4.77 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.",
+      "after": "> Machine-assisted English translation. Work `prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis`. The recorded machine audit predates the AI correction of 2026-11-23. Historical tier S · faithful 4.77 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`."
+    }
+  ],
+  "files": [
+    {
+      "path": "works/prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis/english.md",
+      "before_path": "data/translation_disagreements/prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis/snapshots/before-2026-11-23/works/prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis/english.md",
+      "before_sha256": "e4ffad415d244c37e32a7219024ec42272cced1dd7c8a2b831863777b0d1aa92",
+      "after_sha256": "b4d7f2167d224c1715c982ebcb01a6f8366c348be83213a5ac67ab2df2914fa1"
+    },
+    {
+      "path": "works/prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis/chunks/full_chunk_0002.md",
+      "before_path": "data/translation_disagreements/prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis/snapshots/before-2026-11-23/works/prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis/chunks/full_chunk_0002.md",
+      "before_sha256": "f710ba28cb4f31c57c11f62c2dce1763360db6c4920aa244289e603c87a0f9cf",
+      "after_sha256": "76965b3d5d155ca6d8a54f4523903c6385c7d8b9af81711c0811db8506e8b700"
+    }
+  ]
+}

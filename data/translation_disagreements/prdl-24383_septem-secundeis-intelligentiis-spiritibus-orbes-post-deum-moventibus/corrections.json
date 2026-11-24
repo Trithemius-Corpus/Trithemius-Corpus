@@ -1,0 +1,98 @@
+{
+  "schema_version": "1.1",
+  "date": "2026-11-18",
+  "work_id": "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI visual collation of the indicated BSB printed witness. The stored crops reproduce the original image pixels.",
+  "changes": [
+    {
+      "item_id": "seven-michael",
+      "track": "earlier",
+      "passage": "p-en-0006-0002",
+      "before": "according to the common reckoning, 2116",
+      "after": "according to the common reckoning, 2126",
+      "files": [
+        "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/english.md",
+        "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/chunks/full_chunk_0006.md"
+      ],
+      "supporting_scans": [
+        "seven-previous-period"
+      ]
+    },
+    {
+      "item_id": "seven-samael",
+      "track": "earlier",
+      "passage": "p-en-0008-0003",
+      "before": "His rule lasted 354 years and 4 months, until the year 4152.",
+      "after": "His rule lasted 354 years and 4 months, until the year 4252.",
+      "files": [
+        "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/english.md",
+        "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/chunks/full_chunk_0008.md"
+      ],
+      "supporting_scans": []
+    },
+    {
+      "item_id": "seven-temple",
+      "track": "earlier",
+      "passage": "p-en-0008-0005",
+      "resolved_annotations": ["a-en-0008-0005-001"],
+      "before": "Saul was made the first king of the Jews, and after him David, whose son King Solomon built the temple of the true God with all [unclear].",
+      "after": "Saul was made the first king of the Jews, and David succeeded him.",
+      "files": [
+        "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/english.md",
+        "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/chunks/full_chunk_0008.md"
+      ],
+      "supporting_scans": [
+        "seven-temple-continuation"
+      ]
+    },
+    {
+      "item_id": "seven-temple",
+      "track": "earlier",
+      "passage": "p-en-0009-0001",
+      "before": "Gabriel built the temple in the midst of Jerusalem.",
+      "after": "David’s son King Solomon built the temple of God in Jerusalem, a temple renowned throughout the world.",
+      "files": [
+        "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/english.md",
+        "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/chunks/full_chunk_0009.md"
+      ],
+      "supporting_scans": [
+        "seven-temple-continuation"
+      ]
+    }
+  ],
+  "metadata_edits": [
+    {
+      "path": "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/english.md",
+      "before": "> Machine-assisted English translation. Work `prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus`. Tier S · faithful 4.67 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.",
+      "after": "> Machine-assisted English translation. Work `prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus`. The machine audit predates the local AI corrections of 2026-11-18. Historical tier S · faithful 4.67 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`."
+    }
+  ],
+  "files": [
+    {
+      "path": "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/english.md",
+      "before_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/snapshots/before-2026-11-18/works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/english.md",
+      "before_sha256": "4ff3f06cf6cdc511ce7a4738fe919a751e0f814d01bba5ad2a8036880dd39a70",
+      "after_sha256": "8832b5e21c93d863996cf5296b95a2eb693ab6b1283148991c1859c6e526fb09"
+    },
+    {
+      "path": "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/chunks/full_chunk_0006.md",
+      "before_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/snapshots/before-2026-11-18/works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/chunks/full_chunk_0006.md",
+      "before_sha256": "966c88140e62ef06922d6fa1de2ac9ae1c10fd4ba4b2faa5ce994ad6665a4f94",
+      "after_sha256": "a52a689fae34f04dfad35da5beda955c624090dfdf821d59e752ffbd0b713e4f"
+    },
+    {
+      "path": "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/chunks/full_chunk_0008.md",
+      "before_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/snapshots/before-2026-11-18/works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/chunks/full_chunk_0008.md",
+      "before_sha256": "8eb9df57ba29d3e377c2978016a1943936e6e21d29a18849a6079fe5cbd5840e",
+      "after_sha256": "3cae32e28ee8e3072399d6657d1d928da0da2ea86e9f37912970c2a33287c595"
+    },
+    {
+      "path": "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/chunks/full_chunk_0009.md",
+      "before_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/snapshots/before-2026-11-18/works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/chunks/full_chunk_0009.md",
+      "before_sha256": "8fd39e6218c79cbbd1d12fbbe0636937b46521bf350c1383aa24bf3c42aebe9a",
+      "after_sha256": "8730df3542d910ed6920936661b0bc74b02772e581df0cb0bc165682cc080613"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # De Laudibus Sanctissimae Matris Annae
 
-> Machine-assisted English translation. Work `prdl-24364_de-laudibus-sanctissimae-matris-annae`. Tier S · faithful 4.5 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.
+> Machine-assisted English translation. Work `prdl-24364_de-laudibus-sanctissimae-matris-annae`. The machine audit predates the local AI corrections of 2026-11-18. Historical tier S · faithful 4.5 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.
 
 ---
 
@@ -192,7 +192,7 @@ Heavenly messengers promise a child. Pregnant, joined to her husband, and then b
 
 Thus the venerable stock of Jesse grew green; a fruitful rod comes forth with fertile shoot. Refreshed by its flower, death conquered, we live again.
 
-By this birth Joachim becomes worthy to stand in the shrines, removing the pontiff’s reproaches. Thus, Anne, prepare us to bring pure prayers to your grandson.
+By this birth Joachim becomes worthy to stand in the shrines, removing the pontiff’s reproaches. So prepare us, Anne, that we may be pure when we offer prayers to your grandson.
 
 Commend us to the boy whom the pious chastity of your daughter bore; we ask in prayer, O blessed matron. Christ denies you nothing.
 

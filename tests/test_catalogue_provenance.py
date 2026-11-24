@@ -13,6 +13,8 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "scripts"))
 import build_editorial_ledger
 import build_site
+import edition_corrections
+import scan_evidence
 import validate_release
 
 
@@ -45,6 +47,24 @@ class CatalogueProvenance(unittest.TestCase):
                 rendered = html.fragment_fromstring(build_site.render_headnote(ROOT / source), create_parent=True)
                 for published in changes.values():
                     self.assertEqual(len(rendered.xpath("//*[@id=$anchor]", anchor=published)), 1)
+
+    def test_alias_corrections_replay_against_the_companion_image(self):
+        examples = (
+            ("prdl-70284", "prdl-24364", "anne-alias-petitioners", "anne-petitioners", "puros"),
+            ("prdl-24372", "prdl-24371", "commonwealth-alias-plato", "commonwealth-plato", "in decem"),
+        )
+        for prefix, sibling_prefix, key, sibling_key, reading in examples:
+            with self.subTest(record=prefix):
+                work = next((ROOT / "works").glob(prefix + "_*")).name
+                sibling = next((ROOT / "works").glob(sibling_prefix + "_*")).name
+                scans = scan_evidence.load(ROOT, work)
+                sibling_scans = scan_evidence.load(ROOT, sibling)
+                self.assertEqual(scans[key]["image"], sibling_scans[sibling_key]["image"])
+                self.assertEqual(scans[key]["crop"], sibling_scans[sibling_key]["crop"])
+                self.assertIn(reading, scans[key]["normalized_latin"])
+                history = edition_corrections.history(ROOT, work)
+                self.assertIn(key, {edit["item_id"] for batch in history for edit in batch["changes"]})
+                edition_corrections.validate_history(ROOT, work, history)
 
     def test_offline_schema_rejects_old_book_location(self):
         valid = (ROOT / "CITATION.cff").read_text(encoding="utf-8")

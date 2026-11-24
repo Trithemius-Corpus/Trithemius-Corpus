@@ -14,6 +14,48 @@
     "reason": "2026-11-17 Scribes scan revision: A-F23"
   },
   {
+    "work": "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+    "id": "p-en-0006-0002",
+    "before": "e98979b11368c20932c4ccbca99354694a44519f2221704ce4299da14d4c49a2",
+    "after": "7d88ddc126aa0b35064cc5e73f6716f6fea123c852ada6153d061f4d8a5a64ba",
+    "reason": "2026-11-18 scan correction: seven-michael"
+  },
+  {
+    "work": "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+    "id": "p-en-0008-0003",
+    "before": "36c46bc0112f42cb3af142ce8ea8d3cf9025656367e2d88522d2d49810a6824b",
+    "after": "a0f1cd1fc2f441328b8c8d529d9ff4a464356859986f206ae1bdecedcd9373ab",
+    "reason": "2026-11-18 scan correction: seven-samael"
+  },
+  {
+    "work": "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+    "id": "p-en-0008-0005",
+    "before": "74b9834acda45fc6ca8733ed425b1949705ba2394f429123f1f83b4fc35d91d6",
+    "after": "cf53cf481acaad9557187b74d8b3cd49becc3ce8779821d72217dd3e9f212d4a",
+    "reason": "2026-11-18 scan correction: seven-temple"
+  },
+  {
+    "work": "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+    "id": "p-en-0009-0001",
+    "before": "346be45de44bfdf059f1959bb10fec8838820b2a3b4eb7f2bce206a49baaf1d6",
+    "after": "15d014b43ad9aef110e4148cfd4234fc161dc2b797024232a5853aa905fbd2ea",
+    "reason": "2026-11-18 scan correction: seven-temple"
+  },
+  {
+    "work": "prdl-24364_de-laudibus-sanctissimae-matris-annae",
+    "id": "p-en-0003-0001",
+    "before": "e5ffe57175903b1899862ce2f3cea16c024f15ec19d3e98d272ecfcd74a443e6",
+    "after": "a88166d10b407c1a72c22b7657e39c05e99e69a047dd239d4bf2094df6eacc6d",
+    "reason": "2026-11-18 scan correction: anne-petitioners"
+  },
+  {
+    "work": "prdl-24376_ecloga-de-laude-calvorum-ad-carolum",
+    "id": "p-en-0002-0002",
+    "before": "f78f1b644f2cc498b6b6df85258a71173d5492eb6065c354461a3d167b959282",
+    "after": "0c4cbde86edd48c984968795f9d64a1200a4c4533032f6e9fa87a6704c4ff5c3",
+    "reason": "2026-11-18 scan correction: hucbald-cut-flesh"
+  },
+  {
     "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
     "id": "p-en-0113-0006",
     "before": "5b989914457882c7bfee7157fd6a7ce82fecd7d5740f8cd8e84e0bef4d5d8d9a",
@@ -110,5 +152,54 @@
     "before": "0700664e11e3dcca10bad3b67cd9eae4809cbea2c882c77cb56703463111bf9b",
     "after": "1bff0d83bec0fae4096f70f2a79194e8be1a4c1af4b41048d470a25015feaa44",
     "reason": "2026-11-23 scan collation: context-c-s03"
+  },
+  {
+    "work": "prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis",
+    "id": "p-en-0002-0001",
+    "before": "6020d43af6d0b5c08ab019f407fcd6c5371bce1a8492641fe9dbe2aa605e9d5d",
+    "after": "2186d2a7f843da1bb5cf6a5c4afffa7e1dcd7e1431eccb9684096ca7a7f9fed3",
+    "reason": "2026-11-23 scan collation: commonwealth-alias-plato"
+  },
+  {
+    "work": "prdl-70284_de-laudibus-sanctissimae-matris-annae",
+    "id": "p-en-0003-0001",
+    "before": "4ef642a4997ad993303b0b87ab08fd5f39bf5e0a7212bd692eb5986f74064972",
+    "after": "286187a7d18447cadd5127b0d04764bfe51508a687d7be4815d1a04ae1a51652",
+    "reason": "2026-11-23 scan collation: anne-alias-petitioners"
+  },
+  {
+    "work": "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+    "id": "p-en-0009-0005",
+    "before": "88713547b91d05337dfde311ef7e026718c1bf92aba96af6568796f9ea7c58ea",
+    "after": "750ac280f790d6e6f940a810e58e6db28982b5a51de7a6c033607653cc5a79b7",
+    "reason": "2026-11-23 scan collation: seven-direction-of-michael"
+  },
+  {
+    "work": "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+    "id": "p-en-0010-0001",
+    "before": "a82c01d5f99fc19c748211487b7b7fc15b6f13af4c1a4fbffc2b1fb8fb4e3504",
+    "after": "b793e3f8a8d85d1242719cde672da2aa7725de14f4f1e4c8440313f39e4c58b0",
+    "reason": "2026-11-23 scan collation: seven-direction-of-michael"
+  },
+  {
+    "work": "prdl-24376_ecloga-de-laude-calvorum-ad-carolum",
+    "id": "p-en-0001-0013",
+    "before": "3313770ad5500a3e048baa66644cf99127fbd2d2ffbedc6f2363ddcc7284a60a",
+    "after": "95a8ceea31219201ac3a29cb6289a66be01f14cfe7bde6e955cdbb76fe6559cf",
+    "reason": "2026-11-23 scan collation: hucbald-sins-i"
+  },
+  {
+    "work": "prdl-24376_ecloga-de-laude-calvorum-ad-carolum",
+    "id": "p-en-0001-0020",
+    "before": "9f6109ae952d769793630f560bae46a9e1bd1d36f4875b7f4379a318b7ac6269",
+    "after": "b6b67215d4a01e5982f328a0d2fd0a76560777f2af10306cb0984272627b09e5",
+    "reason": "2026-11-23 scan collation: hucbald-captives"
+  },
+  {
+    "work": "prdl-24376_ecloga-de-laude-calvorum-ad-carolum",
+    "id": "p-en-0002-0006",
+    "before": "083de42bf70ccc6e02a4f0a580fb7148a9dab0ef444bb4b2a308e986c1de5d02",
+    "after": "d45a613a0d53176171c61951af08e64cc4546adcca0aaad3e0185b3b6f122136",
+    "reason": "2026-11-23 scan collation: hucbald-sins-vii"
   }
 ]

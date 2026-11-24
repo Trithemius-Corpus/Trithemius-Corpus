@@ -2,7 +2,22 @@
 
 This review records 33 passage comparisons across all 29 catalogue texts and all eight genres. The links open the specific printed witness and English passage. Each entry identifies the evidence for its judgment. Most comparisons use the published Latin OCR. Entries with an institutional image link were checked visually against the indicated print. Abbreviations are expanded and selected spellings normalized in the Latin excerpts.
 
-This was an AI-assisted sample. Agreements and discrepancies describe the quoted clauses. The sample gives no corpus-wide error rate or human certification. The findings below are proposed errata. The separately applied Scribes corrections have their own [dated ledger](../../data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/revisions/2026-11-17.json).
+This was an AI-assisted sample. Agreements and discrepancies describe the quoted clauses. The sample gives no corpus-wide error rate or human certification. The comparisons record the proposed errata as of 17 November. The separately applied Scribes corrections have their own [dated ledger](../../data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/revisions/2026-11-17.json).
+
+## Corrections applied on 18 November 2026
+
+The six print-supported findings in this review have been applied. Each edition’s errata give the old and revised wording and link to the printed lines.
+
+| Edition | Change |
+|---|---|
+| [Seven Secondary Intelligences](../../works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/ERRATA.md) | Michael begins in 2126. Samael’s period ends in 4252. The sentence crossing the printed page turn names Solomon as the builder of the temple in Jerusalem. Gabriel enters in the next account. |
+| [On the Commonwealth of the Church, T4B](../../works-t4b/prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis/ERRATA.md) | Plato has ten books, Aristotle eight, and Tullius six. The same correction applies to both occurrences in the archival T4B chunk. |
+| [Saint Anne, Mainz witness](../../works/prdl-24364_de-laudibus-sanctissimae-matris-annae/ERRATA.md) | The petitioners ask to be pure when they offer their prayers. |
+| [Hucbald, earlier edition](../../works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/ERRATA.md) and [T4B](../../works-t4b/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/ERRATA.md) | Both editions now carry the sense through the Latin verse break. With the flesh cut and the neck cauterized, the practitioner stanches the blood of the head. |
+
+The English passage IDs still identify their original locations. The green-jasper cross now links to [Dilibri Latin segment 5](../../site/dist/works/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae_parallel.html#seg-5). The passage on Trithemius’s fear now links to [Vindicator Latin segment 12](../../site/dist/works/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive_parallel.html#seg-12).
+
+Local comparison with the 17 November edition found revised wording in six earlier-track passages and two T4B passages. The page-turn correction spans two English passages, and the Hucbald correction applies to both tracks. The retired uncertainty marker in the Solomon passage now opens the edition erratum. Official EPUBCheck 5.3.0 returned zero errors and zero warnings for all 47 EPUBs. The revised passages were also checked inside the three affected EPUBs and print editions.
 
 ## Correction priorities
 

@@ -54,3 +54,59 @@ Re-translated from scratch against the source page-scans, superseding the earlie
 - Prooemium line 5 ends 'crimine cluras' on the print — corrupt, likely for 'claras' (the bright Camenae); kept as an honest crux, not smoothed
 - Chapter 4 has 'curros' for 'cirros' ('curls') — the print's own orthographic quirk, noted not silently fixed
 - Whole poem is a tour-de-force C-acrostic; many OCR oddities are the 1496 print's own spellings, not transcription noise
+
+## 2026-11-18 · hucbald-cut-flesh
+
+The flesh has been cut. Cohercet takes cruorem on the next verse line as its object: the practitioner stanches the blood. Cocta cervice describes the cauterized neck. AI visual collation. Human review is undocumented.
+
+Previous wording: Handling the steel with knowing flesh, he stanches  
+the head's corrupted gore at the cauterized neck.
+
+Revised wording: With the flesh cut and the neck cauterized,  
+he wields the steel and stanches the head's corrupted gore.
+
+*Contrectans chalybem, conscissa carne, cohercet / corruptum capitis, cocta cervice, cruorem*. [BSB, image 7](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00039449_00007/359,430,1535,751/full/0/default.jpg)
+
+## 2026-11-23 · hucbald-sins-i
+
+The plucking of the hair is an image for plucking sins from the heart. This restores the reading described in the earlier errata. AI visual collation. No human verification of these readings is documented.
+
+Previous wording
+
+he plucks the purse from his heart
+
+Revised wording
+
+he plucks the sins from his heart
+
+*Ceu crines capitis convellens crimina cordis.*. [Bayerische Staatsbibliothek, 2r (0005)](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00039449_00005/379,2049,1430,304/full/0/default.jpg)
+
+
+## 2026-11-23 · hucbald-sins-vii
+
+Chapter VII returns to the same image. Crimina again identifies the sins plucked from the heart. AI visual collation. No human verification of these readings is documented.
+
+Previous wording
+
+He is plucking out the purse of his heart.
+
+Revised wording
+
+The bald man plucks the sins from his heart.
+
+*Cur censes cordis convellit crimina calvus.*. [Bayerische Staatsbibliothek, 3r (0007)](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00039449_00007/458,2209,1453,367/full/0/default.jpg)
+
+
+## 2026-11-23 · hucbald-captives
+
+The last line of chapter IV clearly prints captos, referring to the captives. The English verse already gives that sense. This corrects the accompanying textual note. AI visual collation. No human verification of these readings is documented.
+
+Previous wording
+
+, and its "capros" ("goats") in the final line for "captos" ("the captured") — though "goats" would not be beyond this poet.
+
+Revised wording
+
+. The final line reads "captos" ("captives").
+
+*Captivos captat, captos cervice coartat.*. [Bayerische Staatsbibliothek, 2v (0006)](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00039449_00006/650,2523,1286,258/full/0/default.jpg)

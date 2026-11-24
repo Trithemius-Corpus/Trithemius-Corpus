@@ -6,8 +6,8 @@ you will find that the bald cure catarrhs of the head;
 you will find that the bald cure its hidden hollows.  
 Chronic ills yield, with the cancer, and scalp-baring cachexy;  
 heartburn gnawing the heart is quashed; the colic — ceased.  
-Handling the steel with knowing flesh, he stanches  
-the head's corrupted gore at the cauterized neck.  
+With the flesh cut and the neck cauterized,  
+he wields the steel and stanches the head's corrupted gore.  
 Why sing on? Every lurking malady falls away:  
 he routs them from the body and cures the collapsing frame.
 
@@ -28,7 +28,7 @@ let his miry slander — fall silent, and quickly.
 
 Sing your songs, clear-sounding Camenae, for the bald!  
 You accomplice of butchers — why think the hide is being flayed from the bald man?  
-He is plucking out the purse of his heart.  
+The bald man plucks the sins from his heart.  
 Why think the bald sprinkle ashes on the head?  
 The bald man knows the body is compacted out of ash.  
 Why think their flesh is seared by the hot coal?  

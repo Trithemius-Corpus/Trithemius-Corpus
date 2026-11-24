@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+  "date": "2026-11-18",
+  "human_review": "none_documented",
+  "transcription_convention": "Abbreviations expanded and u/v normalized in selected clauses. Ellipses mark omissions.",
+  "items": {
+    "seven-michael": {
+      "normalized_latin": "anno mundi secundum communem supputationem 2126 … usque ad annum aetatis mundi 2480",
+      "reason": "The numeral at the start of Michael’s rule is 2126. The preceding page ends the previous period in the same year.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013346/canvas/9",
+        "label": "(0009)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013346_00009/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/canvas-009.jpg",
+        "sha256": "bde2d402b6ed4538a5c7bd2e14e381d2c23ad974f60f08bcd192aa6063e5c272",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-17"
+      },
+      "crop": {
+        "canvas_number": 9,
+        "crop_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/seven-michael.png",
+        "xywh": [
+          120,
+          582,
+          1475,
+          248
+        ],
+        "sha256": "64c1066a8a52dc41b12107d58d90eef4ce0872b976ddbebc6a6bcc20cc2aede1"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "seven-previous-period": {
+      "normalized_latin": "usque ad annum aetatis mundi 2126",
+      "reason": "The preceding period ends in 2126.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013346/canvas/8",
+        "label": "(0008)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013346_00008/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/canvas-008.jpg",
+        "sha256": "122aa22cc71d10d5d63cbbaa7d9412e5cad47a1b6fc9486ce32b1c0c4997e4c6",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-17"
+      },
+      "crop": {
+        "canvas_number": 8,
+        "crop_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/seven-previous-period.png",
+        "xywh": [
+          389,
+          1949,
+          1463,
+          230
+        ],
+        "sha256": "11491217176ea0ae58307e8c6e24dca605fac01348bb133d169924d1446c37e1"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "seven-samael": {
+      "normalized_latin": "duravitque regimen eius annis 354, mensibus 4 usque ad annos 4252",
+      "reason": "The text gives 4252 as the endpoint of Samael’s rule.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013346/canvas/11",
+        "label": "(0011)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013346_00011/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/canvas-011.jpg",
+        "sha256": "f754f26750f816b77b64cbcbf2652996e0bf64a604bb05f27ac020eac47851be",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-17"
+      },
+      "crop": {
+        "canvas_number": 11,
+        "crop_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/seven-samael.png",
+        "xywh": [
+          116,
+          1188,
+          1420,
+          253
+        ],
+        "sha256": "c69faae344e7740c1af77341e060b6d4158ff00540024ff24e8133588b17c1f2"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "seven-temple": {
+      "normalized_latin": "posteaque David cuius filius rex Salomon templum Dei … famosissi-",
+      "reason": "Solomon is the subject of the one sentence about the temple. The word famosissimum and the clause continue across the page turn. Gabriel first appears in the following account.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013346/canvas/11",
+        "label": "(0011)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013346_00011/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/canvas-011.jpg",
+        "sha256": "f754f26750f816b77b64cbcbf2652996e0bf64a604bb05f27ac020eac47851be",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-17"
+      },
+      "crop": {
+        "canvas_number": 11,
+        "crop_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/seven-temple.png",
+        "xywh": [
+          107,
+          1944,
+          1430,
+          235
+        ],
+        "sha256": "e7caaa796cf3de9d5a597a7949b8be6e30e8a254fa296ac4676ed20f001a492e"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "seven-temple-continuation": {
+      "normalized_latin": "-mum in mundo in Hierusalem construxit … Ordine tertio decimo Gabriel",
+      "reason": "The opening line completes Solomon’s clause with the location and verb. Gabriel begins the account of the thirteenth governor lower on this page.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00013346/canvas/12",
+        "label": "(0012)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00013346_00012/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/canvas-012.jpg",
+        "sha256": "3317df1b9d6aa3c7f9fa2b50338536294a16d0d70b62772b3a511cfe30b3b568",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-17"
+      },
+      "crop": {
+        "canvas_number": 12,
+        "crop_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/seven-temple-continuation.png",
+        "xywh": [
+          396,
+          235,
+          1454,
+          520
+        ],
+        "sha256": "06c1a82eb406df3a4b79c3e1d6719f0a4c9bc1d7b1f2933d180da84064616956"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    }
+  }
+}

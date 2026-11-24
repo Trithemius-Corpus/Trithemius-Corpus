@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI visual collation of the cited printed leaf and its exact image region.",
+  "changes": [
+    {
+      "item_id": "seven-direction-of-michael",
+      "track": "earlier",
+      "passage": "p-en-0009-0005",
+      "before": "In the time of this rule Evil-merodach king of Babylon restored liberty and a king to the people of the Hebrews.",
+      "after": "During this reign, at Michael’s direction, Evil-merodach king of Babylon restored liberty and a king to the Hebrew people.",
+      "supporting_scans": [
+        "seven-direction-continuation"
+      ],
+      "files": [
+        "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/english.md",
+        "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/chunks/full_chunk_0009.md"
+      ]
+    },
+    {
+      "item_id": "seven-direction-of-michael",
+      "track": "earlier",
+      "passage": "p-en-0010-0001",
+      "before": "of Michael, who, as Daniel writes, stood for the people of the Jews, who had been entrusted to him by God.",
+      "after": "As Daniel writes, Michael stood for the Jewish people, whom God had entrusted to him.",
+      "supporting_scans": [
+        "seven-direction-continuation"
+      ],
+      "files": [
+        "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/english.md",
+        "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/chunks/full_chunk_0010.md"
+      ]
+    }
+  ],
+  "metadata_edits": [],
+  "files": [
+    {
+      "path": "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/english.md",
+      "before_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/snapshots/before-2026-11-23/works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/english.md",
+      "before_sha256": "8832b5e21c93d863996cf5296b95a2eb693ab6b1283148991c1859c6e526fb09",
+      "after_sha256": "e7a91e53f80b8036083ce020f1fe9698f6e25832ba02d458f85ee588a5bc52b0"
+    },
+    {
+      "path": "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/chunks/full_chunk_0009.md",
+      "before_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/snapshots/before-2026-11-23/works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/chunks/full_chunk_0009.md",
+      "before_sha256": "8730df3542d910ed6920936661b0bc74b02772e581df0cb0bc165682cc080613",
+      "after_sha256": "cc76b027b40789ad532448737ccc95fd205cc60f1eb14ec77e4098cc7aa08eb3"
+    },
+    {
+      "path": "works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/chunks/full_chunk_0010.md",
+      "before_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/snapshots/before-2026-11-23/works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/chunks/full_chunk_0010.md",
+      "before_sha256": "7aa451ce8a5875d84bf9faa20ac57186518602d0a506620488c6a72ab1d8138a",
+      "after_sha256": "577c99b90bf35feaf421085ec72a9f9576d501ef5395f95fa3b6111160158d69"
+    }
+  ]
+}

@@ -45,5 +45,11 @@
   "attribution": {
     "author": "Hucbald of Saint-Amand",
     "transmitted_by": "Johannes Trithemius"
+  },
+  "ai_corrections": {
+    "date": "2026-11-23",
+    "count": 4,
+    "human_review": "none_documented",
+    "note": "The edition errata document scan-checked readings and earlier wording. The historical machine audit predates the corrections."
   }
 }

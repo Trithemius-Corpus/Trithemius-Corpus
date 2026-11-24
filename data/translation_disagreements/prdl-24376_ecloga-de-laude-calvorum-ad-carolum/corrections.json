@@ -1,0 +1,68 @@
+{
+  "schema_version": "1.1",
+  "date": "2026-11-18",
+  "work_id": "prdl-24376_ecloga-de-laude-calvorum-ad-carolum",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI visual collation of the indicated BSB printed witness. The stored crops reproduce the original image pixels.",
+  "changes": [
+    {
+      "item_id": "hucbald-cut-flesh",
+      "track": "earlier",
+      "passage": "p-en-0002-0002",
+      "before": "Handling the steel with knowing flesh, he stanches  \nthe head's corrupted gore at the cauterized neck.",
+      "after": "With the flesh cut and the neck cauterized,  \nhe wields the steel and stanches the head's corrupted gore.",
+      "files": [
+        "works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/english.md",
+        "works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/chunks/full_chunk_0002.md"
+      ],
+      "supporting_scans": []
+    },
+    {
+      "item_id": "hucbald-cut-flesh",
+      "track": "t4b",
+      "passage": "p-t4b-11529f67d28446c3",
+      "rendered_anchor_after": "p-t4b-4a40c90da0f41e34",
+      "before": "Drawing together the iron, he holds it fast in the cut flesh. He treats the corrupted blood of the head when the neck has been heated.",
+      "after": "Wielding the steel, he stanches the corrupted blood of the head once the flesh is cut and the neck cauterized.",
+      "files": [
+        "works-t4b/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/english.md",
+        "works-t4b/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/chunks/full_chunk_0001.md"
+      ],
+      "supporting_scans": []
+    }
+  ],
+  "metadata_edits": [
+    {
+      "path": "works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/english.md",
+      "before": "> Machine-assisted English translation. Work `prdl-24376_ecloga-de-laude-calvorum-ad-carolum`. Tier S · faithful 5.0 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.",
+      "after": "> Machine-assisted English translation. Work `prdl-24376_ecloga-de-laude-calvorum-ad-carolum`. The machine audit predates the local AI corrections of 2026-11-18. Historical tier S · faithful 5.0 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`."
+    }
+  ],
+  "files": [
+    {
+      "path": "works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/english.md",
+      "before_path": "data/translation_disagreements/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/snapshots/before-2026-11-18/works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/english.md",
+      "before_sha256": "df080ed922f36fe99dd21a821303a8bf8cb06b3795aa46007dc6ed7a0882e324",
+      "after_sha256": "ca77cb4327f47314aee3febcceb281ea9b3733e0eb159695248855abe2996fa9"
+    },
+    {
+      "path": "works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/chunks/full_chunk_0002.md",
+      "before_path": "data/translation_disagreements/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/snapshots/before-2026-11-18/works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/chunks/full_chunk_0002.md",
+      "before_sha256": "5e7bf619ea8a0ef9a1a6ed3d95bdbda16c29b6a9d6ed1e6e3fca72f6b20693f9",
+      "after_sha256": "5e9a093279caaef7e7a9a974ecd98b7eeeecd9015bbc5c5813bfb62308c89b11"
+    },
+    {
+      "path": "works-t4b/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/english.md",
+      "before_path": "data/translation_disagreements/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/snapshots/before-2026-11-18/works-t4b/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/english.md",
+      "before_sha256": "b6a28ace797750bf3a19e900ec853e6d08235b203dc4b334c1325f3a2f4416fb",
+      "after_sha256": "5837e891d3e945b9b1f2b480ce1b51b974091efc25842bbed89ebe210636cc7a"
+    },
+    {
+      "path": "works-t4b/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/chunks/full_chunk_0001.md",
+      "before_path": "data/translation_disagreements/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/snapshots/before-2026-11-18/works-t4b/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/chunks/full_chunk_0001.md",
+      "before_sha256": "c09c84676bd63c3ce5a6a9dec2af491c0ae3d3cc15f7640104c356851f0b4996",
+      "after_sha256": "75f07d7f4ab4b2d262329853493505c80b3cc5af10c2d6acb56de41a3b763f3a"
+    }
+  ]
+}

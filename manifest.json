@@ -514,6 +514,12 @@
       ],
       "duplicate_source_note": "This record shares the same source scan as prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis. It is retained as a PRDL/source-alias record, not a separate physical witness.",
       "license": "CC0-1.0",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "Codex AI checked the correction of 2026-11-23 against the shared printed leaf. The edition errata preserve the prior wording and link to the image. Historical machine grades predate the correction."
+      },
       "publication_modified": "2026-11-23"
     },
     {
@@ -728,6 +734,12 @@
       ],
       "duplicate_source_note": "This record shares the same source scan as prdl-70284_de-laudibus-sanctissimae-matris-annae. It is retained as a PRDL/source-alias record, not a separate physical witness.",
       "license": "CC0-1.0",
+      "ai_corrections": {
+        "date": "2026-11-18",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "AI corrections checked against the printed witness on 18 November 2026. See the edition errata for the previous readings and scans. The machine audit predates these changes."
+      },
       "publication_modified": "2026-11-23"
     },
     {
@@ -946,6 +958,12 @@
       ],
       "duplicate_source_note": "This record shares the same source scan as prdl-24364_de-laudibus-sanctissimae-matris-annae. It is retained as a PRDL/source-alias record, not a separate physical witness.",
       "license": "CC0-1.0",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 1,
+        "human_review": "none_documented",
+        "note": "Codex AI checked the correction of 2026-11-23 against the shared printed leaf. The edition errata preserve the prior wording and link to the image. Historical machine grades predate the correction."
+      },
       "publication_modified": "2026-11-23"
     },
     {
@@ -1251,7 +1269,7 @@
       "edition_info_raw": "( Nurnberge , 1522 ) BSB",
       "page_count": 25,
       "priority": 15,
-      "unclear_count": 18,
+      "unclear_count": 17,
       "unclear_density": 0.9,
       "genre_cluster": "bibliographic",
       "source": {
@@ -1279,7 +1297,13 @@
       ],
       "duplicate_source_group": null,
       "duplicate_source_note": null,
-      "license": "CC0-1.0"
+      "license": "CC0-1.0",
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 6,
+        "human_review": "none_documented",
+        "note": "The edition errata document scan-checked readings and earlier wording. The historical machine audit predates the corrections."
+      }
     },
     {
       "id": "prdl-70289_opera-historica-part",
@@ -1660,6 +1684,12 @@
       "attribution": {
         "author": "Hucbald of Saint-Amand",
         "transmitted_by": "Johannes Trithemius"
+      },
+      "ai_corrections": {
+        "date": "2026-11-23",
+        "count": 4,
+        "human_review": "none_documented",
+        "note": "The edition errata document scan-checked readings and earlier wording. The historical machine audit predates the corrections."
       }
     },
     {
