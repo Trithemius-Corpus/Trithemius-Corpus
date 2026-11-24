@@ -1,0 +1,14 @@
+{
+  "7": {
+    "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00040421/canvas/7",
+    "label": "2r (0007)",
+    "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040421_00007/full/full/0/default.jpg",
+    "path": "data/translation_disagreements/prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis/facsimiles/canvas-007.jpg",
+    "sha256": "14e6f6bd390f8fe4cc233489d32e708d800a827729a5e93803b18b73424bee9b",
+    "rights": [
+      "https://creativecommons.org/publicdomain/mark/1.0/"
+    ],
+    "attribution": "Bayerische Staatsbibliothek",
+    "download_date": "2026-11-17"
+  }
+}

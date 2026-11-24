@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "transcription_convention": "Selected lines with abbreviations expanded and line breaks joined. Ellipses mark intervening words.",
+  "items": {
+    "writers-contemporaries": {
+      "normalized_latin": "Hoc nostri quoque vetustatis exemplum pro posse imitantes, opera que scriptitant dicata ecclesiarum prelatis ac viris doctioribus solent submittere …",
+      "reason": "Nostri names Trithemius’s contemporaries. The third-person plural verbs scriptitant and solent describe their practice of submitting their writings to learned readers and prelates.",
+      "image": {
+        "canvas": "https://www.e-rara.ch/i3f/v20/3202049/canvas/3202063",
+        "label": "[13]",
+        "image_url": "https://www.e-rara.ch/i3f/v20/3202063/full/full/0/default.jpg",
+        "attribution": "Universitätsbibliothek Basel, e-rara",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "download_date": "2026-11-18",
+        "rights_record": "https://www.e-rara.ch/oai?verb=GetRecord&metadataPrefix=mets&identifier=3202049",
+        "path": "data/translation_disagreements/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/facsimiles/canvas-013.jpg",
+        "sha256": "5781b4cf96b4e89f10794c79ee68e2ef2c031c008c1a61fe4eb585c9ffacf576"
+      },
+      "crop": {
+        "canvas_number": 13,
+        "crop_path": "data/translation_disagreements/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/facsimiles/writers-contemporaries-crop.png",
+        "xywh": [
+          125,
+          1012,
+          1729,
+          287
+        ],
+        "sha256": "5bbaf6d55f25966d8c25ca8cbeb2273e0142793be552f19f97dfde160758eb5f"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "writers-transmission": {
+      "normalized_latin": "quatenus dum nos ex illis atque ex nobis alii proficiunt, ordo ecclesiastice hierarchie inviolabilis perseveret.",
+      "reason": "Trithemius distinguishes two generations of beneficiaries: we benefit from the ancients, and others benefit from us.",
+      "image": {
+        "canvas": "https://www.e-rara.ch/i3f/v20/3202049/canvas/3202063",
+        "label": "[13]",
+        "image_url": "https://www.e-rara.ch/i3f/v20/3202063/full/full/0/default.jpg",
+        "attribution": "Universitätsbibliothek Basel, e-rara",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "download_date": "2026-11-18",
+        "rights_record": "https://www.e-rara.ch/oai?verb=GetRecord&metadataPrefix=mets&identifier=3202049",
+        "path": "data/translation_disagreements/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/facsimiles/canvas-013.jpg",
+        "sha256": "5781b4cf96b4e89f10794c79ee68e2ef2c031c008c1a61fe4eb585c9ffacf576"
+      },
+      "crop": {
+        "canvas_number": 13,
+        "crop_path": "data/translation_disagreements/prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius/facsimiles/writers-transmission-crop.png",
+        "xywh": [
+          127,
+          1281,
+          1737,
+          244
+        ],
+        "sha256": "eb740d313815797d8a1f9f1e5f4768173e535e868c49ca1bfc8daea1fa500b10"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    }
+  }
+}

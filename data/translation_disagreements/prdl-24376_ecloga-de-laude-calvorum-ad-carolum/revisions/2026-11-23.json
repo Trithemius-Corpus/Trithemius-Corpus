@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24376_ecloga-de-laude-calvorum-ad-carolum",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI visual collation of the cited printed leaf and its exact image region.",
+  "changes": [
+    {
+      "item_id": "hucbald-sins-i",
+      "track": "earlier",
+      "passage": "p-en-0001-0013",
+      "before": "he plucks the purse from his heart",
+      "after": "he plucks the sins from his heart",
+      "files": [
+        "works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/english.md",
+        "works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/chunks/full_chunk_0001.md"
+      ]
+    },
+    {
+      "item_id": "hucbald-sins-vii",
+      "track": "earlier",
+      "passage": "p-en-0002-0006",
+      "before": "He is plucking out the purse of his heart.",
+      "after": "The bald man plucks the sins from his heart.",
+      "files": [
+        "works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/english.md",
+        "works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/chunks/full_chunk_0002.md"
+      ]
+    },
+    {
+      "item_id": "hucbald-captives",
+      "track": "earlier",
+      "passage": "p-en-0001-0020",
+      "before": ", and its \"capros\" (\"goats\") in the final line for \"captos\" (\"the captured\") — though \"goats\" would not be beyond this poet.",
+      "after": ". The final line reads \"captos\" (\"captives\").",
+      "files": [
+        "works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/english.md",
+        "works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/chunks/full_chunk_0001.md"
+      ]
+    }
+  ],
+  "metadata_edits": [],
+  "files": [
+    {
+      "path": "works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/english.md",
+      "before_path": "data/translation_disagreements/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/snapshots/before-2026-11-23/works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/english.md",
+      "before_sha256": "ca77cb4327f47314aee3febcceb281ea9b3733e0eb159695248855abe2996fa9",
+      "after_sha256": "9e02292cf6fe09947b4918a497ade05623c90a5c84281041430c257084b00eab"
+    },
+    {
+      "path": "works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/chunks/full_chunk_0001.md",
+      "before_path": "data/translation_disagreements/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/snapshots/before-2026-11-23/works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/chunks/full_chunk_0001.md",
+      "before_sha256": "54f3eceac96c8ad23e3b98185080047ee793ae417d2f209a1d8e3f862c5df857",
+      "after_sha256": "4fd2bd8f2324981cbd7048328ff0d7b603d9d36942f1460b9155cd7d78a46f4d"
+    },
+    {
+      "path": "works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/chunks/full_chunk_0002.md",
+      "before_path": "data/translation_disagreements/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/snapshots/before-2026-11-23/works/prdl-24376_ecloga-de-laude-calvorum-ad-carolum/chunks/full_chunk_0002.md",
+      "before_sha256": "5e9a093279caaef7e7a9a974ecd98b7eeeecd9015bbc5c5813bfb62308c89b11",
+      "after_sha256": "048bf20e7f15923a449305262de614b9f58d3c9440f101775c6080ba5c8e6177"
+    }
+  ]
+}

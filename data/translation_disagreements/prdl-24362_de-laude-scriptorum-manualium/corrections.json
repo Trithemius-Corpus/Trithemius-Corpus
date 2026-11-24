@@ -1,0 +1,137 @@
+{
+  "schema_version": "1.0",
+  "work_id": "prdl-24362_de-laude-scriptorum-manualium",
+  "date": "2026-11-05",
+  "status": "applied_locally",
+  "review_method": "AI visual source assessment; no human review documented",
+  "human_review": "none_documented",
+  "changes": [
+    {
+      "item_id": "scribes-001",
+      "track": "earlier",
+      "before": "I promised what I knew did not exceed the powers of my talent",
+      "after": "I promised what I knew did exceed the powers of my talent",
+      "files": [
+        "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0001.md"
+      ]
+    },
+    {
+      "item_id": "scribes-002",
+      "track": "t4b",
+      "before": "unknown to us by name",
+      "after": "not unknown to me",
+      "files": [
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0008.md"
+      ]
+    },
+    {
+      "item_id": "scribes-003",
+      "track": "t4b",
+      "before": "my pen trembles, looking again to Jesus",
+      "after": "my sight trembles; likewise my pen",
+      "files": [
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0002.md"
+      ]
+    },
+    {
+      "item_id": "scribes-004",
+      "track": "earlier",
+      "before": "Nor ought you to abandon the monastery for the sake of study",
+      "after": "Nor is it necessary for you to leave the monastery for the sake of study",
+      "files": [
+        "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0020.md"
+      ]
+    },
+    {
+      "item_id": "scribes-005",
+      "track": "earlier",
+      "before": "Purge the [unclear] of your race",
+      "after": "Cleanse the storehouse of your mind [ed.]",
+      "files": [
+        "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0020.md"
+      ]
+    },
+    {
+      "item_id": "scribes-005",
+      "track": "t4b",
+      "before": "Cleanse the barn of your heart",
+      "after": "Cleanse the storehouse of your mind",
+      "files": [
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0018.md"
+      ]
+    },
+    {
+      "item_id": "scribes-006",
+      "track": "t4b",
+      "before": "the abbot should provide more abundantly than for the others in all necessities for those whom they disdain to be and to be found",
+      "after": "the abbot should provide for them in all necessities more abundantly than for the others, who scorn to be such and to be found such",
+      "files": [
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0014.md"
+      ]
+    }
+  ],
+  "metadata_edits": [
+    {
+      "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+      "before": "Tier S · faithful 4.71 (GPT-5.5 audit).",
+      "after": "Historical audit before the 2026-11-05 local AI corrections: Tier S · faithful 4.71 (GPT-5.5 audit)."
+    }
+  ],
+  "files": [
+    {
+      "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-corrections/works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+      "before_sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb",
+      "after_sha256": "52f406ffe8d22a7f1e832cfffb3c845cf9991a0fa25e06580e7e0659480d7346"
+    },
+    {
+      "path": "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0001.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-corrections/works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0001.md",
+      "before_sha256": "04005b1d25cd0101940bef46cdb841d711b357cbd44e5d9b061923235f4c88b4",
+      "after_sha256": "f1d7abc3ba4e673003b313cbc534c0fda415f83465de161de1c413c19b1b8175"
+    },
+    {
+      "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-corrections/works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+      "before_sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a",
+      "after_sha256": "524a951c16ab95def68f6913fea2c7d2d82d5bb04d987d0d0a7f7278f0acbbcd"
+    },
+    {
+      "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0008.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-corrections/works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0008.md",
+      "before_sha256": "3e5629a4a524928bce52eac43dc107dcb8ece80893346feb69c796172f265f93",
+      "after_sha256": "e4201f69d37e0c3f5ec57b8476fcd8aa3f4a5b4b5fe3fdb9894db3a0d185404f"
+    },
+    {
+      "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0002.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-corrections/works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0002.md",
+      "before_sha256": "f57b95ec3c8dfa6a5f91290cf0dbc4938fde51c92f7bc91573efcc58d4a93913",
+      "after_sha256": "2ec2eb1ec12d11cf5b31c24716b3181f7624b67c0679344b717f74cc794e3631"
+    },
+    {
+      "path": "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0020.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-corrections/works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0020.md",
+      "before_sha256": "198d68d03dec97a74161632e3d14cbe6d894707579708488d4c308155329aba8",
+      "after_sha256": "7e88e115d54bd0ac0122124481a509c56852ea6b48150f6502ab1b550101fa5a"
+    },
+    {
+      "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0018.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-corrections/works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0018.md",
+      "before_sha256": "84c2cbf810c12d23cafd45735f5b2738ebee03ab9352b1d73897c79ce30791cf",
+      "after_sha256": "339975d7a24d87062ea1113af48cc83eea1f30e41620a2264378a66c869beee3"
+    },
+    {
+      "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0014.md",
+      "before_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/snapshots/before-corrections/works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0014.md",
+      "before_sha256": "d17421fced4025fd7dd02f2620a0039021f3d64aecc56593b2c8a158e3fa49a7",
+      "after_sha256": "5167f5c4b0f096cdfff9ded580bf0a80e11f20bb10c8a993514d819cd9b56e83"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines",
+  "date": "2026-11-18",
+  "human_review": "none_documented",
+  "transcription_convention": "Selected printed clauses with abbreviations expanded. Ellipses mark omissions.",
+  "items": {
+    "sigilla-title-authors": {
+      "normalized_latin": "Salomone, Rege Iudaeorum; Raphaele, Chaele, Iudaeis; Hermete, Aegyptio; Thetele, Persa.",
+      "reason": "The title gives Solomon’s title in full. In the two-column list the plural Iudaeis groups Raphael and Chael. Aegyptio aligns with Hermes and Persa with Thetel. These are the identifications printed in this witness.",
+      "image": {
+        "canvas": "https://www.e-rara.ch/i3f/v20/2480555/canvas/2480566",
+        "label": "[9]",
+        "image_url": "https://www.e-rara.ch/i3f/v20/2480566/full/full/0/default.jpg",
+        "attribution": "Stiftung der Werke von C. G. Jung, Zürich, e-rara",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/deed.de"
+        ],
+        "download_date": "2026-11-18",
+        "path": "data/translation_disagreements/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/facsimiles/canvas-009.jpg",
+        "sha256": "f1ee00d0214942222fdc658051b0cbda0d2da794ef1890de59fefdc0d9c7155e"
+      },
+      "crop": {
+        "canvas_number": 9,
+        "crop_path": "data/translation_disagreements/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines/facsimiles/sigilla-title-authors.png",
+        "xywh": [
+          147,
+          1095,
+          682,
+          391
+        ],
+        "sha256": "db4799c1053f601a06baefbfc41f29c53bd7d5a08c69111d5bef22cf77239cd3"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    }
+  }
+}

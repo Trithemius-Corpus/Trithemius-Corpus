@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis",
+  "date": "2026-11-18",
+  "human_review": "none_documented",
+  "transcription_convention": "Abbreviations expanded and u/v normalized in selected clauses. Ellipses mark omissions.",
+  "items": {
+    "commonwealth-plato": {
+      "normalized_latin": "Nec michi Plato necessarius erit in decem, nec Aristoteles in octo, neque Tullius in sex de re publica voluminibus",
+      "reason": "Three parallel numerals count volumes: ten for Plato, eight for Aristotle and six for Tullius.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00040421/canvas/7",
+        "label": "2r (0007)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00040421_00007/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis/facsimiles/canvas-007.jpg",
+        "sha256": "14e6f6bd390f8fe4cc233489d32e708d800a827729a5e93803b18b73424bee9b",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-17"
+      },
+      "crop": {
+        "canvas_number": 7,
+        "crop_path": "data/translation_disagreements/prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis/facsimiles/commonwealth-plato.png",
+        "xywh": [
+          398,
+          1747,
+          1505,
+          329
+        ],
+        "sha256": "ada459c0556dd17c312ab746eaebbe6c654b5e34ae94aaa48ac9a310954a3164"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    }
+  }
+}

@@ -1,5 +1,11 @@
 --- Page 012 ---
 
+For it is written, “Obedience is better than sacrifices, and to heed is better than to offer fat.” Although many short works on spiritual exercise by different authors are to be found, not everything suits everyone. We too have therefore thought it fitting to publish something in keeping with the Rule of our most holy father Benedict, so that we may spur ourselves on more vigorously and come closer to the purity of observance that the Rule requires.
+
+Accordingly, we divide this little work, compiled from the exercises of that excellent father Theoderic, formerly abbot of the monastery of Bursfelde, into two principal parts. The first considers monastic formation, and the second deals with the practice of the spiritual life. In the first you are told to know yourself, in the second to lift your mind from earthly things to heavenly ones.
+
+Turning, then, as best we can to the subject of our inquiry, we divide the first treatise into three parts according to the threefold condition of those who live in the cloister. We may call the first group sensual, the second rational, and the third spiritual. From this threefold human condition we take a fitting title for this work, which we call On the Threefold Region of Cloistered Persons. These three regions encompass all monks, as we shall explain in what follows.
+
 On the first region of the soul, in which carnal monks dwell with beasts: disordered by many passions, living sensually in the lowest region.
 
 The first region of the soul, then, is called sensual, lowest, and animal; in it the roots of all evils are contained. Persons placed in this dark region share with beasts in their own kind, since they observe, so to speak, beastly habits, while they defer either not at all or only a little to reason, but yield everything to sensuality like beasts. For in this lowest region three sensual powers of the soul preside. The first, the sensitive power, is poured out upon the objects of each of the exterior senses; the second, the concupiscible power, takes delight in carnal things; the third, the irascible power, pursues by fleeing the pleasures contrary to the flesh.

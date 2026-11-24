@@ -1,0 +1,20 @@
+{
+  "format_revisions": [
+    {
+      "date": "2026-07-12",
+      "change": "First EPUB and paged HTML reading editions."
+    },
+    {
+      "date": "2026-11-17",
+      "change": "Revise authorship and audit credits, include per-edition revision identifiers and record digests for both publication formats."
+    },
+    {
+      "date": "2026-11-23",
+      "change": "Wrap uninterrupted cipher sequences in reading paragraphs. EPUB also groups long colon-separated numbers at their separators so narrow readers can retain every digit. EPUB tables with six or more columns use compact cell spacing and type."
+    },
+    {
+      "date": "2026-11-23",
+      "change": "Print the canonical colophon URL once, retain the addresses of labelled links and keep the metadata together across print page breaks."
+    }
+  ]
+}

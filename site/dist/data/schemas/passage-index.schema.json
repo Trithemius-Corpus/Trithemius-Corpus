@@ -117,6 +117,7 @@
         "html_id": {"type": "string", "pattern": "^p-en-[0-9]{4}-[0-9]{4}$"},
         "segment_id": {"type": "string", "pattern": "^trc:.+:seg-[0-9]{4}$"},
         "segment": {"type": "integer", "minimum": 1},
+        "latin_segment": {"type": "integer", "minimum": 1, "description": "Reviewed Latin target when it differs from the English passage’s containing segment."},
         "sequence": {"type": "integer", "minimum": 1},
         "chapter_id": {"type": ["string", "null"]},
         "language": {"const": "en"},

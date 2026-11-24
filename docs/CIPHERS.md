@@ -26,34 +26,38 @@ An honest note about what you will see. In the printed book these are worked *ex
 
 The *Steganographia* works differently, and its mechanism is documented in Trithemius's own key, the *Clavis generalis triplex* — the "Threefold General Key to the Steganographic Books." Unlike the *Polygraphia* scheme (plaintext letter → Latin word), the *Clavis* convention is letter-pair substitution: each plaintext letter maps to a single ciphertext letter. The source records each alphabet as comma-separated pairs of the form `Ax,bz,ca,db…` — read as `A→x, b→z, c→a, d→b, …`. The cipher letters are then padded out into an innocent-looking Latin prose *Exemplum* that reads as ordinary devotional writing.
 
-The rendered chunks show the full anatomy of one concealment: the *Alphabetum* (the substitution table); the *Intentio Mysterij*, the secret message in early-modern German — in one example, *"Ich bittedich komm von stund an zu mir/ es thut sehr noth"* ("I beg you, come to me at once; the need is great"); the *Literae significantes*, the bare ciphertext letters; and the *Exemplum*, the Latin cover prose that carries them, opening *"Creator genyri humani apice Deus…"* (OCR scannos preserved as they appear in the scan).
+The rendered chunks show the full anatomy of one concealment: the *Alphabetum* (the substitution table); the *Intentio Mysterij*, the secret message in early-modern German — in one example, *"Ich bitte dich komm von stund an zu mir/ es thut sehr noth"* ("I beg you, come to me at once; the need is great"); the *Literae significantes*, the bare ciphertext letters; and the *Exemplum*, the Latin cover prose that carries them, opening *“Creator generis humani aspice Deus…”* in the 1608 print.
 
-What of the angels? The *Steganographia*'s instructions are framed as conjurations of spirits — Pamersiel, Padiel, Camuel, Aseliel and dozens more — and strings like *Camuel aperoys, melym mevomanial, casmoyn cralty bufaco aeli lumar photirion theor besamys* are not Latin and not nonsense: they are constructed cipher cover-text. Trithemius framed his cipher schemes in spirit-conjuration language for cover, and the *Clavis* is the antidote he supplied, demonstrating that the "spirit names" resolve into a cryptographic system, not a magical one. This corpus accordingly preserves the magical surface verbatim — spirit names unanglicized, conjuration formulae quoted rather than translated — without glossing over the cryptographic substrate or treating the angels as the real subject. That framing nonetheless cost the book dearly: printed posthumously in 1606, the *Steganographia* was placed on the *Index Librorum Prohibitorum*.
+In the *Steganographia*, instructions take the form of conjurations addressed to Pamersiel, Padiel, Camuel, Aseliel and other spirits. The *Clavis* explains how letters can carry a second message under this cover. The edition preserves the spirit names and quotes the conjurations. The *Steganographia* first appeared in print in 1606 and was later placed on the *Index Librorum Prohibitorum*.
 
-## Solved: the *Clavis* ciphers decoded
+In the Darmstadt 1621 *Steganographia*, Book I, chapter III names Camuel's ten day spirits and ten night spirits. The table contains six hundreds, eleven tens and three zeros. The printed formula begins *Camuel aperoys, melym meuomanial, casmoyn cralti busaco aeli lumar photytion theor besamys*. The two readings and the structured table reproduce the same witness. The complete 16-word sequence appears beside the table in the English edition. [Gallica, printed p. 12](https://gallica.bnf.fr/ark:/12148/bpt6k5832538j/f21.item)
 
-The breakthrough was identifying that the *Clavis* cipher is **not a uniform Caesar shift** (which is why brute-force over all 24 shifts scored no better than chance). Each *modus* prints its own **explicit, irregular substitution alphabet**, and the ciphertext is decoded by inverting that alphabet letter by letter. The alphabets are roughly −N on Trithemius's 24-letter alphabet, but irregular enough that the printed *Alphabetum* itself — not a shift rule — is the key. A hand-check on the opening of Modus II confirms it: the cipher stream `gafzgbc…` maps g→i, a→c, f→h, z→b → **"Ich b[…ittedich]"** ("I beg you…").
+## Reading Modus II against the 1608 print
 
-**The simple *modi* (five worked examples) are solved** — their German plaintext recovered and recognisable:
+The Frankfurt *Clavis* describes a 22-letter circle on printed p. 56. For each plaintext letter the writer moves two places back. On p. 57 the first four significant letters, `gafz`, decode to *ich b*. The complete printed line has 41 letters. The earlier transcription counted 42 by doubling the long s in `v ſ k`. [Printed rule, p. 56](https://diglib.hab.de/drucke/fb-243/00248.jpg) · [Alphabet and example, p. 57](https://diglib.hab.de/drucke/fb-243/00249.jpg)
 
-| Modus | Facsimile page | Match | Recovered plaintext (excerpt) |
+At position six the print gives **b**. The pair **db** decodes it as **d**. The German *Intentio* begins *Ich bitte dich*, so its sixth letter **t** would require **r** under the pair **tr**. The prayer on the same leaf supplies an independent check. Starting with *Creator* and counting every second word through *Amen* gives 42 initials from 85 words. Its twelfth word, *bene*, confirms **b** as the sixth initial. At the eighth position the letter line has **p**, while the sixteenth word, *gaudium*, supplies **g**.
+
+Inverting the printed line gives `ichbiderichkomvonstvldanzvmitisdvgsgxroit`. The normalized German has 45 letters. The source establishes that the readings disagree, and leaves the origin of those differences open. The executable edition shows the letter line, required cipher letters and Latin cover words at each position. [Executable edition and downloads](cipher-solutions.html)
+
+### The numeral cipher in the *Key to the Polygraphia*
+
+In the 1518 copies the example prints `i&kahk`, `&kif` and `icei&kaib`. The preceding key assigns the single sign **&** to **f** and the two-sign group **i&** to **q**. These are cipher signs. The project’s earlier English had introduced `amp;` and extra letters. The copy in Wolfenbüttel and the copy in Munich have the same setting on sig. C ii verso. [HAB numeral alphabet](https://diglib.hab.de/drucke/fb-128/00535.jpg) · [HAB example](https://diglib.hab.de/drucke/fb-128/00536.jpg) · [BSB example](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029406_00536/full/full/0/default.jpg)
+
+The 1550 copy has `i&kahk` and several faint sorts elsewhere in the string. The reading editions mark doubtful letters in brackets. The separately set Strasbourg 1600 copy gives `i&kabk`, with a rounded **b**, and `cakeibid` where the 1518 setting has `cakeihid`. The English editions preserve the differences between those printings. [1550 example](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00026190_00052/full/full/0/default.jpg) · [Strasbourg example, p. 77](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00038431_00081/full/full/0/default.jpg)
+
+### Earlier experimental readings
+
+The archive reports the following results for ten other examples. The page numbers in these tables are corpus image numbers. The matches and proposed shifts are historical results from the earlier transcription experiment. The 23 November 2026 collation checked Modus II only. Its previously reported match of 62% predates the corrected executable trace. The historical scoring results have not been independently reproduced here.
+
+| Modus | Corpus image | Reported match | German excerpt reported in the earlier experiment |
 |---|---|---|---|
 | XI | 263 | 77% | *diese bucher behal[t]… die heimlich* |
 | X | 261 | 75% | *die sachsen [ver]sam[m]elen ein gros [vol]ck…* |
 | V | 254 | 65% | *der p[farr]her[z] von bing ist vmb eins…* |
 | VI | 255 | 62% | *mor[gen] vmb se[y] gerust vnd wart meiner…* |
-| II | 251 | 62% | *ich bi[tte] dich kom[m] von st[und] an…* |
 
-The decodes are **letter-for-letter through the printed alphabet** — no guessing. Each recovered plaintext is an ordinary early-modern German sentence (a request to come at once, a report of Saxon musters, a note about keeping books secret), confirming that the *Steganographia*'s "spirit names" and "angelic conjurations" are cover for mundane correspondence, exactly as Trithemius's *Clavis* was designed to demonstrate. The full **char-aligned decodes** — with each cipher letter mapped to its plaintext letter, match shown green and OCR-drift shown red, beside the facsimile crop of the cipher line — are in the [cipher solutions page](cipher-solutions.html).
-
-### Honest scope of the solve
-
-Two limits remain, and they are stated plainly:
-
-- **The residual gap is OCR, not the cipher.** The cipher lines are tiny, period-separated Fraktur letters in 1608 print — at the ceiling of current vision OCR — so a few letters per line drift. The German is recovered and recognisable (62–77% character match on the simple *modi*, 70–92% on the high *modi*), but not a perfect transcription. The high-*modus* cipher lines in particular were beyond vision OCR and were recovered by **human eye-reading** of zoomed facsimile crops against a Fraktur reference key — the one step in the pipeline a machine could not do.
-- **The full range of *modi* present in the facsimile is solved — simple (II–XI) and high (XXXII–XXXIX) alike.** The high *modi* use the *same* explicit-alphabet inversion as the simple ones; their "alternating words / null rhythm" rule-language describes only how the cipher *stream* was extracted from the cover letter, not a different decryption. Six high *modi* now decode end-to-end:
-
-| Modus | Facsimile page | Alphabet shift | Match | Recovered plaintext (excerpt) |
+| Modus | Corpus image | Reported shift | Reported match | German excerpt reported in the earlier experiment |
 |---|---|---|---|---|
 | XXXVII | 243 | +18 | 92% | *Jacob Seum hat nun gesprochen, er will dich erstechen… hüt dich vor ihm* |
 | XXXIII | 238 | +14 | 89% | *er ist noch new, versuch ihn vor gantz wol… er trinket auch gern Wein* |
@@ -62,9 +66,7 @@ Two limits remain, and they are stated plainly:
 | XXXII | 237 | +13 | 78% | *noch… vmb Vhr… du mich an dem Wald… pfeiffen mit einem Schlüssel… kom herab* |
 | XXXIX | 245 | +20 | 70% | *Dir wird geschrieben herzu kommen, ist mein Rath… der Anschlag ist dich zuvertrencken* |
 
-Each is an ordinary early-modern German sentence — a warning of a planned stabbing (XXXVII), a character reference for a drinker (XXXIII), a report of an absent abbot (XXXV), a slander warning (XXXVIII), a signal by a woodsman's whistle (XXXII), a counsel to stay away (XXXIX). The "angelic" frame dissolves entirely: these are mundane letters about money, drink, and danger, hidden in Latin cover prose. The high-*modus* decodes were cracked by inverting each *modus*'s printed *Alphabetum* table against a **human-transcribed** cipher line — the dense Fraktur Literae stream being the one input vision OCR could not supply.
-
-For the published *translations* of these works, the cryptographic substitutions are still **passed through as written** — the cipher streams in the body text are transcribed, not decoded inline. The [executable cipher edition](cipher-solutions.html) now traces Modus II from the printed page through a committed transcription and explicit-alphabet inversion. It keeps the imperfect computed output separate from the printed *Intentio*, labels evidence, repair, and inference, and supplies JSON and TSV downloads so the result can be recomputed without the website. For the comprehensive modern English edition of the *Steganographia* and its angelological framing, see Skinner & Clark (2024); for the foundational cryptanalysis, Ernst (1996) and Reeds (1998), who independently solved Book III.
+The high-mode examples include warnings about an intended attack and slander, a reference for a drinker, an account of an absent abbot, a whistle signal and advice to stay away. The printed *Intentiones* supply a reference text for comparison. Skinner and Clark (2024) give a modern English edition of the *Steganographia*. Ernst (1996) and Reeds (1998) independently analyzed Book III.
 
 ## Explore the cipher materials in this corpus
 

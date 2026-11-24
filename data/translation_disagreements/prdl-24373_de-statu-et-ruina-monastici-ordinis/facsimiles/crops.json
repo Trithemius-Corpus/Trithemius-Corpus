@@ -1,0 +1,24 @@
+{
+  "prayer-leipzig": {
+    "canvas_number": 4,
+    "crop_path": "data/translation_disagreements/prdl-24373_de-statu-et-ruina-monastici-ordinis/facsimiles/prayer-leipzig.png",
+    "xywh": [
+      508,
+      2095,
+      1622,
+      419
+    ],
+    "sha256": "71eeb40549cdeac0a1679233dcc7c741bd81fe58a2b079f9bfcdcfe44aa0688e"
+  },
+  "prayer-mainz": {
+    "canvas_number": 9,
+    "crop_path": "data/translation_disagreements/prdl-24373_de-statu-et-ruina-monastici-ordinis/facsimiles/prayer-mainz.png",
+    "xywh": [
+      205,
+      1371,
+      1067,
+      198
+    ],
+    "sha256": "241fe6abca429e0200081373cd273f87580622811aa8c2e19bdf3651e196ec85"
+  }
+}

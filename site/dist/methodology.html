@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta data-pagefind-filter="collection[content]" content="guides">
+<meta data-pagefind-meta="sourceRevision[content]" content="8cea282bfbb7815889c1596011c7904fe469b7a13844eb8950c78ddd8d51bba8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Methodology &mdash; Trithemius Corpus</title>
 <meta name="description" content="How the Trithemius Corpus was made: the OCR, translation, and grading pipeline, per-work model provenance, and honest limitations.">
 <link rel="canonical" href="https://trithemius-corpus.github.io/Trithemius-Corpus/methodology.html"><meta property="og:type" content="website">
@@ -71,20 +72,20 @@
   </div>
 </header>
 
-<main class="container" id="main">
+<main class="container" id="main" data-pagefind-body>
 <article class="prose">
 <h1 id="methodology">Methodology</h1>
-<p>How the Trithemius Corpus was made, checked, revised, and presented. This page distinguishes the <strong>recommended Trithemius 4B editions</strong> from the earlier source-witness editions, explains what the grades mean, and states where machine-produced text still requires caution.</p>
+<p>How the Trithemius Corpus was made, checked, revised, and presented. This page distinguishes the <strong>Trithemius 4B editions</strong> from the earlier source-witness editions, explains historical machine-audit grades and current editorial status, and states where machine-produced text still requires caution.</p>
 <p><strong>Contents:</strong> <a href="#1-what-you-are-reading">What you are reading</a> · <a href="#2-source-acquisition">Sources</a> · <a href="#3-the-ocr-record">OCR</a> · <a href="#4-the-translation-record">Translation</a> · <a href="#5-pipeline-mechanics">Pipeline</a> · <a href="#6-historical-automated-grading-and-current-review-status">Grading</a> · <a href="#7-the-remediation-record">Remediation</a> · <a href="#8-results">Results</a> · <a href="#9-per-work-provenance">Per-work provenance</a> · <a href="#10-special-scholarly-renderings-style-c">Special renderings</a> · <a href="#11-limitations-known-failure-modes">Limitations</a> · <a href="#12-what-this-corpus-is-good-for-and-what-it-is-not">Responsible use</a> · <a href="#13-what-was-tried-and-did-not-ship">Rejected approaches</a> · <a href="#14-code-data-and-reproducibility">Reproducibility</a></p>
 <h2 id="1-what-you-are-reading">1. What you are reading</h2>
 <p>The site now contains two related edition tracks.</p>
-<h3 id="recommended-trithemius-4b-editions">Recommended Trithemius 4B editions</h3>
-<p>The <strong>Trithemius 4B edition</strong> is the recommended English reading edition wherever one is available. There are 27 such editions. They use a corpus-trained <strong>Qwen3-VL-4B “Trithemius” LoRA</strong> OCR witness and a <strong>GPT-5.5 dual-context</strong> translation, independently assessed in a second pass by <strong>Claude Sonnet 5</strong>. Only works meeting the publication threshold were promoted.</p>
+<h3 id="trithemius-4b-editions">Trithemius 4B editions</h3>
+<p>The <strong>Trithemius 4B editions</strong> provide an alternate machine translation with prepared reading views where the structure permits. There are 27 such editions. They use a corpus-trained <strong>Qwen3-VL-4B “Trithemius” LoRA</strong> OCR witness and a <strong>GPT-5.5 dual-context</strong> translation, independently machine-assessed in a second pass by <strong>Claude Sonnet 5</strong>. Their original selection used a model-score threshold; that historical selection does not establish human verification or a present-day recommendation.</p>
 <p>These pages have also received an editorial formatting and quality pass. Visible scan-navigation clutter—page-number markers, blank-page notices, calibration-target notices, stamp text, and duplicate-scan notices—is removed from the reading view while retained in the archival source files. Uncertainty markers such as <code>[unclear]</code> remain visible. They are evidence of damaged or ambiguous source text and are preferable to invented certainty.</p>
 <p>The T4B pages are formatted as continuous reading texts. Their source segment boundaries remain in the HTML for stable navigation and provenance, but they are not presented as artificial page divisions. Existing chapter maps drive the compact chapter navigator when a work has at least two valid chapter divisions.</p>
 <h3 id="earlier-source-witness-editions">Earlier source-witness editions</h3>
-<p>The earlier edition track remains available for all 47 translatable printed witnesses. It was produced through several OCR and translation campaigns, principally CHURRO/Qwen vision OCR and GPT-5.5 revision, with targeted repairs by other models. These pages remain useful as independent witnesses, for comparison, and for works that do not yet have a publishable T4B edition.</p>
-<p>The label <strong>recommended source witness</strong> identifies the preferred scan witness within a group of duplicate printed editions. It does not supersede the T4B reading recommendation.</p>
+<p>The earlier edition track covers all 47 translated catalogue records. It was produced through several OCR and translation campaigns, principally CHURRO/Qwen vision OCR and GPT-5.5 revision, with targeted repairs by other models. Where a second English track exists, both can be checked against the cited scan.</p>
+<p>The label <strong>fewest Latin OCR uncertainty markers</strong> identifies the record with the lowest count of those markers within a group. Historical model scores and edition dates break ties.</p>
 <h3 id="what-is-authoritative">What is authoritative</h3>
 <p>Neither machine transcription is a critical Latin edition. The hierarchy is:</p>
 <ol>
@@ -95,8 +96,8 @@
 </ol>
 <p>For a passage used in publication, check the English against the Latin and the Latin against the facsimile.</p>
 <h2 id="2-source-acquisition">2. Source acquisition</h2>
-<p>The corpus began with the PRDL author record for Johannes Trithemius and the bibliography at trithemius.com. Records were resolved to public-domain institutional scans from the Bavarian State Library, Herzog August Bibliothek, e-rara, dilibri, Internet Archive, Google Books, and Gallica. Duplicate records and editions were retained where they supplied genuinely separate witnesses.</p>
-<p>The release contains 47 translatable printed witnesses representing 29 distinct texts. Four additional records are retained in the manifest as skipped because they are German-language or predominantly liturgical/tabular material. The <em>Steganographia</em>, initially blocked through the normal viewer route, was recovered through Gallica’s IIIF image service.</p>
+<p>The corpus began with the PRDL author record for Johannes Trithemius and the bibliography at trithemius.com. Catalogue records link to digitizations from the Bavarian State Library, Herzog August Bibliothek, e-rara, dilibri, Internet Archive, Google Books and Gallica. The holding institution's image terms accompany each documented correction.</p>
+<p>The 47 translated catalogue records cover 29 distinct texts and point to 45 distinct digitized sources. PRDL 24371 and 24372 use BSB <code>bsb00040421</code>. PRDL 24364 and 70284 use BSB <code>bsb00008347</code>. Each record keeps its own OCR, translation and passage IDs, so differences between two records can be checked against the same printed leaf. Four additional records are retained in the manifest as skipped because they are German-language or predominantly liturgical/tabular material. The <em>Steganographia</em>, initially blocked through the normal viewer route, was recovered through Gallica’s IIIF image service.</p>
 <p>Every work’s metadata names its source institution and scan. The source scan, not the OCR, remains the final authority.</p>
 <h2 id="3-the-ocr-record">3. The OCR record</h2>
 <p>The project tested five main OCR generations.</p>
@@ -132,7 +133,7 @@
 <tr>
 <td>4</td>
 <td>Qwen3-VL-4B “Trithemius” LoRA</td>
-<td>OCR witness for the 27 recommended T4B editions.</td>
+<td>OCR witness for the 27 published T4B editions.</td>
 </tr>
 </tbody>
 </table>
@@ -235,10 +236,10 @@ or guarantee any sentence.</p>
 <p>The site currently presents:</p>
 <ul>
 <li><strong>47</strong> translatable earlier-track printed witnesses representing <strong>29</strong> distinct texts;</li>
-<li><strong>27</strong> recommended Trithemius 4B editions that passed the Sonnet publication review;</li>
+<li><strong>27</strong> Trithemius 4B editions originally selected through the Sonnet machine audit;</li>
 <li><strong>26</strong> cross-links from matching earlier work pages to their T4B editions, plus one T4B scan represented only in the T4B index;</li>
-<li><strong>23</strong> texts identified as First-time-in-English at the distinct-text level;</li>
-<li>a homepage “Start here” selection containing 12 distinct First-time-in-English works.</li>
+<li><strong>23</strong> texts provisionally listed as having no prior complete published English translation located in the <a href="prior-translations.html">project survey</a>, whose coverage and uncertainties are documented;</li>
+<li>a homepage “Start here” selection containing 12 distinct works from that survey group.</li>
 </ul>
 <p>The earlier track's canonical historical ledger contains 4,400 chunks, 4,353
 machine-graded. Its former scoreboard reported S=47 and mean model-assessed
@@ -278,11 +279,11 @@ and automated-QA coverage. Historical Sonnet scores remain in provenance data.</
 <p>T4B page markers and scan notices are hidden in the reading interface, but retained in archival Markdown. Readers needing page-level reconstruction should consult the source files and facsimile rather than infer printed pagination from the continuous view.</p>
 <h2 id="12-what-this-corpus-is-good-for-and-what-it-is-not">12. What this corpus is good for, and what it is not</h2>
 <p>The corpus is well suited to discovery, continuous reading, comparison across witnesses, searching Trithemius’s vocabulary and themes, locating passages for closer study, and gaining access to works not previously available in published English.</p>
-<p>It is not a substitute for a critical Latin edition, palaeographic judgment, or source verification in a scholarly quotation. The labels “recommended” and “S/A” identify the best available machine-assisted reading path within this project; they do not convert it into an authoritative human edition.</p>
+<p>It is not a substitute for a critical Latin edition, palaeographic judgment, or source verification in a scholarly quotation. Public labels describe text origin, documented review, editorial preparation, and automated-QA coverage. Historical letter grades remain in the audit records and do not certify the translation.</p>
 <p>For responsible use:</p>
 <ol>
-<li>begin with the T4B edition where available;</li>
-<li>compare the earlier witness when the T4B text is uncertain;</li>
+<li>choose a reading view using its documented editorial state and limitations;</li>
+<li>compare the alternate translation where one is available, especially at uncertain passages;</li>
 <li>check consequential claims against the Latin;</li>
 <li>check disputed Latin against the page image;</li>
 <li>cite the specific edition and disclose machine assistance where appropriate.</li>
@@ -347,9 +348,10 @@ python scripts/validate_passages.py
       </div>
     </div>
     <p class="footer-byline muted">
-      Machine-assisted English translations of the Latin works of Johannes Trithemius (1462&ndash;1516).
-      Every translation is machine-produced and independently audited; for scholarly quotation, check the Latin.
-      Translations &amp; generated data: public domain (CC0). Methodology, docs &amp; code: CC BY 4.0. Compiled 2026 by Ian Carlos Fabin.
+      Machine-assisted English translations of Latin texts by or associated with Johannes Trithemius (1462&ndash;1516).
+      Each edition records its audit coverage. Check the Latin before quoting a translation.
+      Translations &amp; generated data: CC0. Methodology, documentation, code &amp; corpus arrangement: CC BY 4.0. Source images and crops carry their institutions&rsquo; rights statements.
+<a href="LICENSE.html">License &amp; rights</a>. Compiled 2026 by Ian Carlos Fabin.
     </p>
   </div>
 </footer>

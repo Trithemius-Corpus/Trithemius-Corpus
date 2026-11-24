@@ -1,0 +1,359 @@
+[
+  {
+    "work": "prdl-24362_de-laude-scriptorum-manualium",
+    "id": "p-en-0003-0001",
+    "before": "0386049c54318b1ed99e5991a3956eef1ff978c272ef777b3bbddd2c51955527",
+    "after": "fa7e20ca7d16e8a3b08d89f2725770caa3dd21146bf9135aaf3c45c8cb70f38d",
+    "reason": "2026-11-17 Scribes scan revision: scribes-003"
+  },
+  {
+    "work": "prdl-24362_de-laude-scriptorum-manualium",
+    "id": "p-en-0006-0001",
+    "before": "7252070d940b06d81fbf68f69f86a08d2aabfd2b8ae1237beac5e48973649efc",
+    "after": "e761fcb20659b510512abba89f5b73e0464b86a391526d185b70db1e44daa114",
+    "reason": "2026-11-17 Scribes scan revision: A-F23"
+  },
+  {
+    "work": "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+    "id": "p-en-0006-0002",
+    "before": "e98979b11368c20932c4ccbca99354694a44519f2221704ce4299da14d4c49a2",
+    "after": "7d88ddc126aa0b35064cc5e73f6716f6fea123c852ada6153d061f4d8a5a64ba",
+    "reason": "2026-11-18 scan correction: seven-michael"
+  },
+  {
+    "work": "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+    "id": "p-en-0008-0003",
+    "before": "36c46bc0112f42cb3af142ce8ea8d3cf9025656367e2d88522d2d49810a6824b",
+    "after": "a0f1cd1fc2f441328b8c8d529d9ff4a464356859986f206ae1bdecedcd9373ab",
+    "reason": "2026-11-18 scan correction: seven-samael"
+  },
+  {
+    "work": "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+    "id": "p-en-0008-0005",
+    "before": "74b9834acda45fc6ca8733ed425b1949705ba2394f429123f1f83b4fc35d91d6",
+    "after": "cf53cf481acaad9557187b74d8b3cd49becc3ce8779821d72217dd3e9f212d4a",
+    "reason": "2026-11-18 scan correction: seven-temple"
+  },
+  {
+    "work": "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+    "id": "p-en-0009-0001",
+    "before": "346be45de44bfdf059f1959bb10fec8838820b2a3b4eb7f2bce206a49baaf1d6",
+    "after": "15d014b43ad9aef110e4148cfd4234fc161dc2b797024232a5853aa905fbd2ea",
+    "reason": "2026-11-18 scan correction: seven-temple"
+  },
+  {
+    "work": "prdl-24364_de-laudibus-sanctissimae-matris-annae",
+    "id": "p-en-0003-0001",
+    "before": "e5ffe57175903b1899862ce2f3cea16c024f15ec19d3e98d272ecfcd74a443e6",
+    "after": "a88166d10b407c1a72c22b7657e39c05e99e69a047dd239d4bf2094df6eacc6d",
+    "reason": "2026-11-18 scan correction: anne-petitioners"
+  },
+  {
+    "work": "prdl-24376_ecloga-de-laude-calvorum-ad-carolum",
+    "id": "p-en-0002-0002",
+    "before": "f78f1b644f2cc498b6b6df85258a71173d5492eb6065c354461a3d167b959282",
+    "after": "0c4cbde86edd48c984968795f9d64a1200a4c4533032f6e9fa87a6704c4ff5c3",
+    "reason": "2026-11-18 scan correction: hucbald-cut-flesh"
+  },
+  {
+    "work": "prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius",
+    "id": "p-en-0012-0004",
+    "before": "5be723d76435e39dd8c1f23246d9b4a0d067dbc47cfaf5d4b82f4f57de5a8b52",
+    "after": "b37826987197dec17ea5eb25cd678b16fb4737225d5fb7de6a378dcd0e35b2be",
+    "reason": "2026-11-18 scan collation: writers-composed"
+  },
+  {
+    "work": "prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae",
+    "id": "p-en-0001-0006",
+    "before": "b64490cfed25429348ac02e919b876e695c54607e21d777886065214ab4167ae",
+    "after": "4bd309a87114f64dd01447733d14be24970c3cb84e5a189433bf481b5331cc2d",
+    "reason": "2026-11-18 scan collation: sigilla-title-authors"
+  },
+  {
+    "work": "prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines",
+    "id": "p-en-0001-0003",
+    "before": "f74a6ba1bb066d6203742759c2b6afce70a25c7872e91ca62e1844496634180e",
+    "after": "1cab0a7940951677f6307df390cc3069cc649b92b3090ad270bd3dc8e59cc623",
+    "reason": "2026-11-18 scan collation: sigilla-title-authors"
+  },
+  {
+    "work": "prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive",
+    "id": "p-en-0011-0007",
+    "before": "8875e75e9621e866a95c7ca90b4b595fb1c28addf0ec5444af06a8bf52c7f597",
+    "after": "e5beed21f3644b0890bf6d68761361c81d4761b5a68ae720e47a85a2a04921ab",
+    "reason": "2026-11-18 scan collation: vindex-fear"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0113-0006",
+    "before": "5b989914457882c7bfee7157fd6a7ce82fecd7d5740f8cd8e84e0bef4d5d8d9a",
+    "after": "a7e3aaa6076854a2ec313142331ff33b8dc83c926cb81388ee21e2c3c5cb8e79",
+    "reason": "2026-11-23 scan collation: clavis-modus-ii-alphabet"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0113-0008",
+    "before": "b9ba55b2bf0df7eb051276bbc6b911f550a4986fbd00a892bc0bcc43e6f0890c",
+    "after": "4bf5c92cf42203421e305cc63ec527d952d5c8aaa862f5c90171efe11c62cdd0",
+    "reason": "2026-11-23 scan collation: clavis-modus-ii-alphabet"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0113-0010",
+    "before": "3ac58ad08173342db791a84bf76c345eb29cee294eef9583ff74153067a6387a",
+    "after": "6c213d573953eaf8b517a475e5e97445cd3ff130b2c0f0436c840acdfa8f3584",
+    "reason": "2026-11-23 scan collation: clavis-modus-ii-alphabet"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0113-0011",
+    "before": "f4d2bd156937c94f6578a1b51ec0812d6326d1d16bc0f1ca36c572ad91864591",
+    "after": "823d8bac196599f64ccc0b76e65c31e3a76aa029160ef2c3decfec42bfa46d8b",
+    "reason": "2026-11-23 scan collation: clavis-modus-ii-alphabet"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0113-0012",
+    "before": "02578cff593a9a84dd140eb6fa3ea85f9e1fe83bf133dedbd6b1fa9375951c27",
+    "after": "996d48a997bb8a301593873c8d34a16c1026b614ebf9ffa8382dbddfe1f88747",
+    "reason": "2026-11-23 scan collation: clavis-modus-ii-alphabet"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0113-0013",
+    "before": "fc821eda9fb75326a2dc4cdc5d60832b613972e03631409a708809c4a9b5d45a",
+    "after": "5742ecff675f98e7c87c99ffd8ae7ee616761d793ba95046a26782a0908a3a12",
+    "reason": "2026-11-23 scan collation: clavis-modus-ii-alphabet"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0113-0014",
+    "before": "d3c872d412d8f208bffca7c04477de9cee4d3e8e0bcaa11867746ef9b8656578",
+    "after": "9291d513dbdb312c3fd5aed4c306e3a012b2ae64ad5acb9a0e19339e8dcaa440",
+    "reason": "2026-11-23 scan collation: clavis-modus-ii-alphabet"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0124-0002",
+    "before": "cd7a6b8c60bf294430f7a6fdedd600fa57fe9d9cd838abf2397ef4bf559184e6",
+    "after": "a6e0e22aaabc366deb779082d5118ac69daaee15409545ca46fc71f363794c78",
+    "reason": "2026-11-23 scan collation: clavis-modus-ii-alphabet"
+  },
+  {
+    "work": "prdl-24390_polygraphiae-libri-vi",
+    "id": "p-en-0044-0011",
+    "before": "ab0c5ada3155e1ed90dd1e24d3d27a75960b515303637ab40cb930ea2423e212",
+    "after": "2e64d0f1269184ec930fc07d7f240ae0225e1cd5eafb3853498997925440f9bc",
+    "reason": "2026-11-23 scan collation: polygraphia-belgica"
+  },
+  {
+    "work": "prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius",
+    "id": "p-en-0012-0005",
+    "before": "1d052176c37c1fc480f5690e3e9c26dcb33062672c27fe7da808a3d0d118bba0",
+    "after": "54749584987ed6a19fd1452834d6b78d5a67f0ddbccf2dffb07db65ca58efa71",
+    "reason": "2026-11-23 scan collation: writers-contemporaries"
+  },
+  {
+    "work": "prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius",
+    "id": "p-en-0012-0006",
+    "before": "7e4d32842d8ee4ce4fe5915ad97ec5bdfed84f5770e386e40add7745a0ea513b",
+    "after": "7c1c1d1ba8911e571e71acf7b071676ccff85efb0b61d218e49a4cabcb03050a",
+    "reason": "2026-11-23 scan collation: writers-transmission"
+  },
+  {
+    "work": "prdl-24362_de-laude-scriptorum-manualium",
+    "id": "p-en-0009-0005",
+    "before": "a4792293ec8ba3ccca0ad1b4f2793e060d349c7ebadaaae1e5922ebe8de8457c",
+    "after": "bc0746b2d5ea5ec92b07f3f32d8adea529c701248981bacbb8debf4e7dea8f9b",
+    "reason": "2026-11-23 scan collation: B-F03"
+  },
+  {
+    "work": "prdl-24362_de-laude-scriptorum-manualium",
+    "id": "p-en-0010-0001",
+    "before": "d6db8138aff51b724a2e8cd1cd7eab885000951ffd0193342bff4e3995acb3f5",
+    "after": "761aaa7c98eb6019fe2a30199bda99063c30a502de9a382251f1484591efa2a8",
+    "reason": "2026-11-23 scan collation: B-F03"
+  },
+  {
+    "work": "prdl-24362_de-laude-scriptorum-manualium",
+    "id": "p-en-0010-0003",
+    "before": "9c802cf854cc376c9c237d79f67ac2c3ef01767dc51c374a4f426eff2324e1e3",
+    "after": "e80c5b5793ff5cc995928759d16031bd1fa11f1d4bd848d8d0911dc48034861a",
+    "reason": "2026-11-23 scan collation: B-F04"
+  },
+  {
+    "work": "prdl-24362_de-laude-scriptorum-manualium",
+    "id": "p-en-0014-0004",
+    "before": "e1bae8886844d67b291a14344502882c5274a7642e0d7edf2d28e28187ae6c17",
+    "after": "ada6d77fd9d400c73fbce3b60d29d35722f335276ef581071e8c6d3810a580fc",
+    "reason": "2026-11-23 scan collation: scribes-feast-sacred-books"
+  },
+  {
+    "work": "prdl-24362_de-laude-scriptorum-manualium",
+    "id": "p-en-0016-0003",
+    "before": "7e2826f062422596a63026b9229e2a3c191c9ad213c80b64f743015686a375d8",
+    "after": "3b6a97be9986e555523ffe98f13f0bc23cac0f88a6a1eaaebafd75eec8492d68",
+    "reason": "2026-11-23 scan collation: scribes-inward-exercises"
+  },
+  {
+    "work": "prdl-24362_de-laude-scriptorum-manualium",
+    "id": "p-en-0021-0004",
+    "before": "0700664e11e3dcca10bad3b67cd9eae4809cbea2c882c77cb56703463111bf9b",
+    "after": "1bff0d83bec0fae4096f70f2a79194e8be1a4c1af4b41048d470a25015feaa44",
+    "reason": "2026-11-23 scan collation: context-c-s03"
+  },
+  {
+    "work": "prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis",
+    "id": "p-en-0002-0001",
+    "before": "6020d43af6d0b5c08ab019f407fcd6c5371bce1a8492641fe9dbe2aa605e9d5d",
+    "after": "2186d2a7f843da1bb5cf6a5c4afffa7e1dcd7e1431eccb9684096ca7a7f9fed3",
+    "reason": "2026-11-23 scan collation: commonwealth-alias-plato"
+  },
+  {
+    "work": "prdl-70284_de-laudibus-sanctissimae-matris-annae",
+    "id": "p-en-0003-0001",
+    "before": "4ef642a4997ad993303b0b87ab08fd5f39bf5e0a7212bd692eb5986f74064972",
+    "after": "286187a7d18447cadd5127b0d04764bfe51508a687d7be4815d1a04ae1a51652",
+    "reason": "2026-11-23 scan collation: anne-alias-petitioners"
+  },
+  {
+    "work": "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+    "id": "p-en-0009-0005",
+    "before": "88713547b91d05337dfde311ef7e026718c1bf92aba96af6568796f9ea7c58ea",
+    "after": "750ac280f790d6e6f940a810e58e6db28982b5a51de7a6c033607653cc5a79b7",
+    "reason": "2026-11-23 scan collation: seven-direction-of-michael"
+  },
+  {
+    "work": "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus",
+    "id": "p-en-0010-0001",
+    "before": "a82c01d5f99fc19c748211487b7b7fc15b6f13af4c1a4fbffc2b1fb8fb4e3504",
+    "after": "b793e3f8a8d85d1242719cde672da2aa7725de14f4f1e4c8440313f39e4c58b0",
+    "reason": "2026-11-23 scan collation: seven-direction-of-michael"
+  },
+  {
+    "work": "prdl-24376_ecloga-de-laude-calvorum-ad-carolum",
+    "id": "p-en-0001-0013",
+    "before": "3313770ad5500a3e048baa66644cf99127fbd2d2ffbedc6f2363ddcc7284a60a",
+    "after": "95a8ceea31219201ac3a29cb6289a66be01f14cfe7bde6e955cdbb76fe6559cf",
+    "reason": "2026-11-23 scan collation: hucbald-sins-i"
+  },
+  {
+    "work": "prdl-24376_ecloga-de-laude-calvorum-ad-carolum",
+    "id": "p-en-0001-0020",
+    "before": "9f6109ae952d769793630f560bae46a9e1bd1d36f4875b7f4379a318b7ac6269",
+    "after": "b6b67215d4a01e5982f328a0d2fd0a76560777f2af10306cb0984272627b09e5",
+    "reason": "2026-11-23 scan collation: hucbald-captives"
+  },
+  {
+    "work": "prdl-24376_ecloga-de-laude-calvorum-ad-carolum",
+    "id": "p-en-0002-0006",
+    "before": "083de42bf70ccc6e02a4f0a580fb7148a9dab0ef444bb4b2a308e986c1de5d02",
+    "after": "d45a613a0d53176171c61951af08e64cc4546adcca0aaad3e0185b3b6f122136",
+    "reason": "2026-11-23 scan collation: hucbald-sins-vii"
+  },
+  {
+    "work": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam",
+    "id": "p-en-0010-0005",
+    "before": "b9fbcde0fd64f49ad87695d35bdee78de159d52d46b3166e7d0e18a77d8f31ef",
+    "after": "cbb8404473df78c5f7a95c7118e6b0ad103839a0b5daa46a9a42ebe411b19d75",
+    "reason": "2026-11-23 scan collation: camuel-table"
+  },
+  {
+    "work": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam",
+    "id": "p-en-0010-0006",
+    "before": "eb88d23f4cf78a60321eba9d18302b0691f7425a2c2b648726bb864ab5a34eea",
+    "after": "09049141c9ece920d82b8e585a24b925706200af3102a0505fd15201feb96280",
+    "reason": "2026-11-23 scan collation: camuel-table"
+  },
+  {
+    "work": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam",
+    "id": "p-en-0010-0011",
+    "before": "84b28d79bd4df03c3bd2894b860cc87690f46cc4ae5b9ac7657556b7b8cbb9f4",
+    "after": "d85866e5ef8ec0e2ab9a4a1dbce4513d44e6253292d3a4cd561283af27aa21f6",
+    "reason": "2026-11-23 scan collation: camuel-rubric"
+  },
+  {
+    "work": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam",
+    "id": "p-en-0010-0012",
+    "before": "8ba003a12010f91e52b5e55594a87f2de4ced5c1132fecc290a54655ce58dfbe",
+    "after": "8f595bebd5b2ea6fce010e0294b8d29736fc7b0592ab16da6280293cd4814ee3",
+    "reason": "2026-11-23 scan collation: camuel-table"
+  },
+  {
+    "work": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam",
+    "id": "p-en-0010-0013",
+    "before": "1965b6cd5e1bef02205ebd0c5a90dcf3a104125e61641d7a4d74693ef5612cae",
+    "after": "312d650dee593f5e858e90d2fead9cfe1dbea6417bb724147312b93e9e770d68",
+    "reason": "2026-11-23 scan collation: camuel-table"
+  },
+  {
+    "work": "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam",
+    "id": "p-en-0010-0016",
+    "before": "656b2e054ea3b1d31a26be8f7e9201da59733d232a4e2e7bac65b7bc9e5c3928",
+    "after": "bf8f0902cba086e87bc9b71c708cb4034ec0d5dede07a27457c9dbbd20c0b321",
+    "reason": "2026-11-23 scan collation: camuel-formula"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0113-0011",
+    "before": "823d8bac196599f64ccc0b76e65c31e3a76aa029160ef2c3decfec42bfa46d8b",
+    "after": "cf03578817dc0dbeb91f0aed3234c8116e561743df31e172e3c8d76526b981de",
+    "reason": "2026-11-23 follow-up scan collation: clavis-modus-ii-significant-line"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0113-0012",
+    "before": "996d48a997bb8a301593873c8d34a16c1026b614ebf9ffa8382dbddfe1f88747",
+    "after": "4ff2b49a5818279765926bc7cd3e84c4cb82b62e390e520cfd3eeaa9aadf24b9",
+    "reason": "2026-11-23 follow-up scan collation: clavis-modus-ii-significant-line"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0113-0013",
+    "before": "5742ecff675f98e7c87c99ffd8ae7ee616761d793ba95046a26782a0908a3a12",
+    "after": "054b7d0570effe34fc2d6cebeaf3dc1a5736a62168986dc7429b02b79909f07a",
+    "reason": "2026-11-23 follow-up scan collation: clavis-modus-ii-prayer"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0113-0014",
+    "before": "9291d513dbdb312c3fd5aed4c306e3a012b2ae64ad5acb9a0e19339e8dcaa440",
+    "after": "2351d84d7316901f02b5f885e796f64605555a38d038ed5f5d1aaebf06b27851",
+    "reason": "2026-11-23 follow-up scan collation: clavis-modus-ii-prayer"
+  },
+  {
+    "work": "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos",
+    "id": "p-en-0124-0004",
+    "before": "6bea5c34d2e2ab98d4fc31803269baa0c789f356bfd1a58a4b118b3c74ac63ee",
+    "after": "f9a162a9d7adabf1ef2b3fd791fa6007bf4fa4dee1abce9367370bcdc4d9b9ad",
+    "reason": "2026-11-23 follow-up scan collation: clavis-modus-ii-significant-line"
+  },
+  {
+    "work": "prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui",
+    "id": "p-en-0116-0004",
+    "before": "e42a227a70a6b0755a28ed471c1e3744f3bb554996e123587d93b65436ca6490",
+    "after": "1dec264378ba8309362d79ab5f2fc6039aaf98658917350831c5defd9f5bd4cc",
+    "reason": "2026-11-23 follow-up scan collation: key-numeral-cipher"
+  },
+  {
+    "work": "prdl-24390_polygraphiae-libri-vi",
+    "id": "p-en-0122-0001",
+    "before": "70f1c0db9d9b217ddfe07a4314248a65c53742535723fe343df653c2f2fccf0a",
+    "after": "11ff086446a27bd5f966725367cf0a9ad2040001756144723851e4304b512c98",
+    "reason": "2026-11-23 follow-up scan collation: key-numeral-cipher"
+  },
+  {
+    "work": "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis",
+    "id": "p-en-0024-0003",
+    "before": "354013031a136c625aa156037bfb732109e857967a9ee1b1cc7f74af0d6bd91e",
+    "after": "30b5d1a229797d3bd3c7d6e72538c45ded89ab336755d2258610bff6daf2c5c4",
+    "reason": "2026-11-23 follow-up scan collation: key-numeral-cipher"
+  },
+  {
+    "work": "prdl-24391_polygraphiae-libri-vi",
+    "id": "p-en-0025-0004",
+    "before": "2649dad48651f5ad2a99cc4d4a480453b1811189d45e21a102a2af31d115e20d",
+    "after": "c0af54c130eec315c0bb9dce983eadf7d7d647f0e58b9c11d70136ffe37d609b",
+    "reason": "2026-11-23 follow-up scan collation: key-numeral-cipher"
+  }
+]

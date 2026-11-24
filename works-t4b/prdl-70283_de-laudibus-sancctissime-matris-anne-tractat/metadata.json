@@ -2,15 +2,20 @@
   "id": "prdl-70283_de-laudibus-sancctissime-matris-anne-tractat",
   "edition": "trithemius-4b",
   "edition_label": "Trithemius 4B edition",
-  "title": "prdl-70283_de-laudibus-sancctissime-matris-anne-tractat",
-  "title_en": null,
-  "year": "",
-  "source_year": null,
+  "title": "De Laudibus Sanctissimae Matris Annae",
+  "title_en": "In Praise of the Most Holy Mother Anne",
+  "year": "1501",
+  "source_year": "1501",
   "year_note": null,
-  "edition_info": "",
-  "page_count": 0,
-  "genre_cluster": "",
-  "source": {},
+  "edition_info": "Liptzk : Melchior Lotter, 1501 (HAB)",
+  "page_count": 18,
+  "genre_cluster": "marian-hagiographic",
+  "source": {
+    "provider": "HAB",
+    "url": "http://diglib.hab.de/drucke/alv-el-230-5s/start.htm",
+    "download_url": "http://diglib.hab.de/download.php?dir=drucke/alv-el-230-5s&submit=start%20download&begin=drucke_alv-el-230-5s_00001&end=drucke_alv-el-230-5s_eb0004",
+    "prdl_id": "70283"
+  },
   "license": "CC0-1.0",
   "first_english": null,
   "tier": "A",
@@ -27,5 +32,6 @@
   "ocr_engine": "qwen3vl-4b-trithemius-q6 (Trithemius LoRA)",
   "translator": "gpt-5.5 (dual-context)",
   "canonical_backend": "qwen3vl-trithemius-q6-dual-gpt55",
-  "source_work_id": "prdl-70283_de-laudibus-sancctissime-matris-anne-tractat"
+  "source_work_id": "prdl-70283_de-laudibus-sancctissime-matris-anne-tractat",
+  "standard_witness": "prdl-70283_de-laudibus-sanctissimae-matris-annae-liptzk-1501-hab"
 }

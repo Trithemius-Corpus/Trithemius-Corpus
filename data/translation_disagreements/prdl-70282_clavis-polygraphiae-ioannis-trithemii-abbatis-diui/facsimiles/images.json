@@ -1,0 +1,39 @@
+{
+  "14": {
+    "canvas": "https://diglib.hab.de/drucke/fb-128/start.htm?image=00014",
+    "label": "FB 128, image 00014",
+    "image_url": "https://diglib.hab.de/drucke/fb-128/00014.jpg",
+    "attribution": "Herzog August Bibliothek Wolfenbüttel",
+    "rights": [
+      "https://diglib.hab.de/nutzungshinweise.html"
+    ],
+    "rights_note": "HAB designates its own collection images as public domain.",
+    "download_date": "2026-11-18",
+    "path": "data/translation_disagreements/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/facsimiles/canvas-014.jpg",
+    "sha256": "a1e09f877a875ba9d8e057efd37831a2e263dadb0ea3c776845a4556edc0c95e"
+  },
+  "536": {
+    "canvas": "https://diglib.hab.de/drucke/fb-128/start.htm?image=00536",
+    "label": "Basel 1518, sig. C ii verso",
+    "image_url": "https://diglib.hab.de/drucke/fb-128/00536.jpg",
+    "attribution": "Herzog August Bibliothek Wolfenbüttel",
+    "rights": [
+      "https://diglib.hab.de/nutzungshinweise.html"
+    ],
+    "download_date": "2026-11-23",
+    "path": "data/translation_disagreements/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/facsimiles/canvas-536.jpg",
+    "sha256": "cc2ac955bd79c91d38274311997a544e7d0d2690473ee03e117d5d5118d39840"
+  },
+  "535": {
+    "canvas": "https://diglib.hab.de/drucke/fb-128/start.htm?image=00535",
+    "label": "Basel 1518, sig. C ii recto, HAB 535",
+    "image_url": "https://diglib.hab.de/drucke/fb-128/00535.jpg",
+    "attribution": "Herzog August Bibliothek Wolfenbüttel",
+    "rights": [
+      "https://diglib.hab.de/nutzungshinweise.html"
+    ],
+    "download_date": "2026-11-23",
+    "path": "data/translation_disagreements/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/facsimiles/canvas-535.jpg",
+    "sha256": "9a1b04bed9a5803b775a363b8a0f6ca218f5516c7415df15f9aeb2f46e129147"
+  }
+}

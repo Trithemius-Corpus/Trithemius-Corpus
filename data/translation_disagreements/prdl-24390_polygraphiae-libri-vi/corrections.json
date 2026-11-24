@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24390_polygraphiae-libri-vi",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI visual collation of the cited printed witness. The stored crops reproduce the source image pixels.",
+  "changes": [
+    {
+      "item_id": "polygraphia-austrasia",
+      "track": "earlier",
+      "passage": "p-en-0044-0011",
+      "before": "s Australia",
+      "after": "s Austrasia",
+      "files": [
+        "works/prdl-24390_polygraphiae-libri-vi/english.md",
+        "works/prdl-24390_polygraphiae-libri-vi/chunks/full_chunk_0044.md"
+      ]
+    },
+    {
+      "item_id": "polygraphia-belgica",
+      "track": "earlier",
+      "passage": "p-en-0044-0011",
+      "before": "p [unclear] r Navarre",
+      "after": "p [unclear] q Belgica r Navarre",
+      "rendered_reading": "q Galicia q Belgica r Gascony r Navarre",
+      "files": [
+        "works/prdl-24390_polygraphiae-libri-vi/english.md",
+        "works/prdl-24390_polygraphiae-libri-vi/chunks/full_chunk_0044.md"
+      ]
+    }
+  ],
+  "metadata_edits": [
+    {
+      "path": "works/prdl-24390_polygraphiae-libri-vi/english.md",
+      "before": "> Machine-assisted English translation. Work `prdl-24390_polygraphiae-libri-vi`. Tier S · faithful 4.56 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.",
+      "after": "> Machine-assisted English translation. Work `prdl-24390_polygraphiae-libri-vi`. The machine audit predates the local AI corrections of 2026-11-23. Historical tier S · faithful 4.56 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`."
+    }
+  ],
+  "files": [
+    {
+      "path": "works/prdl-24390_polygraphiae-libri-vi/english.md",
+      "before_path": "data/translation_disagreements/prdl-24390_polygraphiae-libri-vi/snapshots/before-2026-11-23/works/prdl-24390_polygraphiae-libri-vi/english.md",
+      "before_sha256": "f0afa774ab0d3fe34cb3d99b9a1e18fa6e79ee8395664107e03d66312e54015f",
+      "after_sha256": "c3a0187cbe81f23396079069041486c0fe182b2419d6ce455b2d2981554f9fcc"
+    },
+    {
+      "path": "works/prdl-24390_polygraphiae-libri-vi/chunks/full_chunk_0044.md",
+      "before_path": "data/translation_disagreements/prdl-24390_polygraphiae-libri-vi/snapshots/before-2026-11-23/works/prdl-24390_polygraphiae-libri-vi/chunks/full_chunk_0044.md",
+      "before_sha256": "6687bafb077ebce6fcdb2153d1c831f09923a6bc3f9510096e300f598a4f1aef",
+      "after_sha256": "65c49c3c09a349330bbc4ab1b5f9da6c704caed9909efcfc83df7044e5d74f67"
+    }
+  ]
+}

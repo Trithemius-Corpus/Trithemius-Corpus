@@ -72,6 +72,25 @@ def _image(canvas: dict) -> tuple[dict, str | None]:
     return {k: v for k, v in body.items() if v is not None}, service_id
 
 
+def canvas_targets(work_id: str, source: dict, provider: dict, passages: dict) -> tuple[dict, dict]:
+    canvases = provider["sequences"][0]["canvases"]
+    numbers = {c["@id"]: i for i, c in enumerate(canvases, 1)}
+    segment_targets = {}
+    for segment in passages["segments"]:
+        pages = [int(p["number"]) + source["page_offset"] for p in segment["source"].get("pages", [])]
+        valid = [p for p in pages if 1 <= p <= len(canvases)]
+        if valid:
+            segment_targets[str(segment["segment"])] = valid[0]
+    reviewed = {}
+    registry = ROOT / "data/publication/reviewed-canvases.json"
+    ids = {p["html_id"] for p in passages["passages"]}
+    for passage, canvas_uri in json.loads(registry.read_text(encoding="utf-8")).get(work_id, {}).items():
+        if passage not in ids or canvas_uri not in numbers:
+            raise ValueError(f"{work_id}#{passage}: invalid reviewed canvas {canvas_uri}")
+        reviewed[passage] = numbers[canvas_uri]
+    return segment_targets, reviewed
+
+
 def normalize(work_id: str, source: dict, provider: dict, passages: dict) -> dict:
     manifest_id = f"{SITE_BASE}/iiif/{work_id}/manifest.json"
     canvases_v2 = provider.get("sequences", [{}])[0].get("canvases", [])
@@ -101,19 +120,16 @@ def normalize(work_id: str, source: dict, provider: dict, passages: dict) -> dic
         })
 
     annotations: dict[int, list[dict]] = {}
+    segment_targets, reviewed = canvas_targets(work_id, source, provider, passages)
     range_canvases: dict[str, list[str]] = {}
     range_labels: dict[str, str] = {}
     for passage in passages.get("passages", []):
-        segment = next((s for s in passages.get("segments", [])
-                        if s.get("segment") == passage.get("segment")), None)
-        pages = ((segment or {}).get("source") or {}).get("pages") or []
-        if not pages:
-            continue
-        page = int(pages[0].get("number", 1)) + int(source.get("page_offset", 0))
-        if page < 1 or page > len(canvases):
+        latin_segment = passage.get("latin_segment", passage["segment"])
+        page = reviewed.get(passage["html_id"], segment_targets.get(str(latin_segment)))
+        if page is None:
             continue
         target = canvas_ids[page - 1]
-        annotations.setdefault(page, []).append({
+        annotation = {
             "id": f"{manifest_id}/annotation/{passage['html_id']}",
             "type": "Annotation",
             "motivation": "supplementing",
@@ -129,7 +145,10 @@ def normalize(work_id: str, source: dict, provider: dict, passages: dict) -> dic
                 "type": "Text",
                 "format": "text/html",
             }],
-        })
+        }
+        if passage["html_id"] in reviewed:
+            annotation["label"] = {"en": ["Reviewed source page"]}
+        annotations.setdefault(page, []).append(annotation)
         chapter = passage.get("chapter_id") or "work"
         range_canvases.setdefault(chapter, [])
         if target not in range_canvases[chapter]:
@@ -176,10 +195,12 @@ def normalize(work_id: str, source: dict, provider: dict, passages: dict) -> dic
     }
 
 
-def generate_all(refresh: bool = False) -> None:
+def generate_all(refresh: bool = False, dist: Path | None = None) -> None:
+    output = dist / "iiif" if dist else OUTPUT
+    dist = output.parent
     config = json.loads(CONFIG.read_text(encoding="utf-8"))["works"]
     CACHE.mkdir(parents=True, exist_ok=True)
-    OUTPUT.mkdir(parents=True, exist_ok=True)
+    output.mkdir(parents=True, exist_ok=True)
     for work_id, source in config.items():
         cache = CACHE / f"{work_id}.json"
         if refresh:
@@ -195,13 +216,13 @@ def generate_all(refresh: bool = False) -> None:
         if not cache.exists():
             raise SystemExit(f"Missing provider cache {cache}; run with --refresh")
         provider = json.loads(cache.read_text(encoding="utf-8-sig"))
-        passage_path = ROOT / "site" / "dist" / "data" / "passages" / f"{work_id}.json"
+        passage_path = dist / "data" / "passages" / f"{work_id}.json"
         passages = json.loads(passage_path.read_text(encoding="utf-8"))
-        target = OUTPUT / work_id / "manifest.json"
+        target = output / work_id / "manifest.json"
         target.parent.mkdir(parents=True, exist_ok=True)
         target.write_text(json.dumps(normalize(work_id, source, provider, passages), ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
         print(f"{work_id}: {len(provider.get('sequences', [{}])[0].get('canvases', []))} canvases")
-    shutil.copy2(ROOT / "site" / "templates" / "iiif-viewer.html", OUTPUT / "viewer.html")
+    shutil.copy2(ROOT / "site" / "templates" / "iiif-viewer.html", output / "viewer.html")
 
 
 def main() -> None:

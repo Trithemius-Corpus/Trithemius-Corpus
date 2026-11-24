@@ -1,6 +1,8 @@
 {% extends "base.html.j2" %}
-{% from "_macros.html.j2" import breadcrumb with context %}
+{% from "_macros.html.j2" import breadcrumb, translation_survey_badge with context %}
+{% from "_search_metadata.html.j2" import search_metadata %}
 {% block title %}{{ work.title }} &mdash; Trithemius Corpus{% endblock %}
+{% block head %}{{ search_metadata(work, "translation") }}{% endblock %}
 {% block body %}
 
 <article class="work{% if work.edition == 'trithemius-4b' %} work-t4b{% endif %}">
@@ -12,18 +14,18 @@
   <h1 class="work-title">{{ work.title }}</h1>
   {% if work.title_en %}<p class="work-subtitle">{{ work.title_en }}</p>{% endif %}
   <p class="work-id"><code>{{ work.id }}</code></p>
-  {% if work.edition == 'trithemius-4b' %}<p class="work-edition"><strong>{{ work.edition_label }}</strong> &middot; prepared reading view</p>{% elif work.edition_label %}<p class="work-edition">Edition {{ work.edition_index }} of {{ work.edition_count }} of this text in the corpus &middot; <strong>{{ work.edition_label }}</strong>{% if work.is_primary %} &middot; cleanest source witness in this corpus{% endif %}</p>{% endif %}
+  {% if work.edition == 'trithemius-4b' %}<p class="work-edition"><strong>{{ work.edition_label }}</strong> &middot; prepared reading view</p>{% elif work.edition_label %}<p class="work-edition">Catalogue record {{ work.edition_index }} of {{ work.edition_count }} for this text &middot; <strong>{{ work.edition_label }}</strong>{% if work.is_primary %} &middot; fewest Latin OCR uncertainty markers{% endif %}</p>{% endif %}
   <div class="badges">
     <span class="badge status-origin">{{ work.text_origin }}</span>
     <span class="badge status-review">{{ work.human_review }}</span>
     <span class="badge status-editorial">{{ work.editorial_state }}</span>
     {% if work.genre %}<a class="badge badge-link" href="{{ url('genres/' + work.genre + '.html') }}">{{ work.genre_label }}</a>{% endif %}
-    {% if work.first_english %}<span class="badge first-en" title="{{ work.first_english_note }}">first English</span>{% endif %}
+    {% if work.first_english or work.translation_survey_status == 'unresolved' %}{{ translation_survey_badge(work.first_english_note, work.translation_survey_status) }}{% endif %}
     {% if work.page_count %}<span class="badge">{{ work.page_count }}&nbsp;pp</span>{% endif %}
     {% if work.unclear_count and work.unclear_count > 0 %}<span class="badge" title="{{ work.unclear_count }} [unclear] markers remaining">{{ work.unclear_count }}&nbsp;gaps</span>{% endif %}
     {% if has_errata %}<span class="badge badge-link" title="Editorial corrections recorded"><a href="#errata" style="color:inherit;text-decoration:none">&#9998;&nbsp;errata</a></span>{% endif %}
     {% if has_parallel %}<a class="badge badge-link" href="{{ url('works/' + work.id + '_parallel.html') }}">Latin&thinsp;/&thinsp;English&nbsp;viewer</a>{% endif %}
-    {% if solve %}<a class="badge badge-solved" href="{{ url('cipher-solutions.html') }}">&#128274;&nbsp;ciphers&nbsp;solved</a>{% endif %}
+    {% if solve %}<a class="badge badge-solved" href="{{ url('cipher-solutions.html') }}">Modus II cipher trace</a>{% endif %}
   </div>
 </header>
 
@@ -40,20 +42,24 @@
         </td>
       </tr>
       {% endif %}
-      {% if work.year %}<tr><th>Composed</th><td>{{ work.year }}</td></tr>{% endif %}
-      {% if work.source_year and work.source_year != work.year %}<tr><th>Edition (this witness)</th><td>{{ work.source_year }}</td></tr>{% endif %}
+      {% if work.composition_year %}<tr><th>Composed</th><td>{{ work.composition_year }}</td></tr>{% elif work.year and work.year != work.source_year %}<tr><th>Recorded work date</th><td>{{ work.year }}</td></tr>{% endif %}
+      {% if work.source_year %}<tr><th>Edition (this witness)</th><td>{{ work.source_year }}</td></tr>{% endif %}
       {% if work.year_note %}<tr><th>Date note</th><td>{{ work.year_note }}</td></tr>{% endif %}
       {% if work.edition_info %}<tr><th>Source witness</th><td>{{ work.edition_info }}</td></tr>{% endif %}
+      {% if work.source and work.source.image_rights %}<tr><th>Source images</th><td>{{ work.source.image_credit }} &middot; <a href="{{ work.source.image_rights }}">{{ work.source.image_rights_label }}</a></td></tr>{% endif %}
+      <tr><th>Authorship</th><td>{{ work.author_credit }}</td></tr>
       <tr><th>Text origin</th><td>{{ work.text_origin }}</td></tr>
+      <tr><th>Prior English</th><td><a href="{{ url('prior-translations.html') }}">{{ work.translation_survey_label }}</a>. {{ work.first_english_note }}</td></tr>
       <tr><th>Human review</th><td>{{ work.human_review }}</td></tr>
       <tr><th>Editorial state</th><td>{{ work.editorial_state }}</td></tr>
+      {% if work.editorial_note %}<tr><th>Local corrections</th><td>{{ work.editorial_note }}</td></tr>{% endif %}
       <tr><th>Automated QA</th><td>{{ work.automated_qa }}{% if work.chunks_graded %} &middot; {{ work.chunks_graded }} / {{ work.chunks_total }} chunks ({{ '%.0f'|format(work.automated_qa_coverage) }}%){% endif %}. Automated checks are triage evidence, not human certification.</td></tr>
       {% if work.edition_siblings %}
       <tr>
-        <th>Other editions</th>
+        <th>Other catalogue records</th>
         <td>
-          This text survives in {{ work.edition_count }} editions in this corpus, each OCR&rsquo;d and translated independently from a different source scan:
-          {% for sib in work.edition_siblings %}<a href="{{ url('works/' + sib.id + '.html') }}">{{ sib.label }}</a>{% if sib.is_primary %} <span class="primary-tag">cleanest source witness</span>{% endif %}{% if not loop.last %} &middot; {% endif %}{% endfor %}.
+          The {{ work.edition_count }} records for this text use {{ work.source_count }} {{ 'source scan' if work.source_count == 1 else 'source scans' }}.
+          {% for sib in work.edition_siblings %}<a href="{{ url('works/' + sib.id + '.html') }}">{{ sib.label }}</a>{% if sib.is_primary %} <span class="primary-tag">fewest Latin OCR uncertainty markers</span>{% endif %}{% if not loop.last %} &middot; {% endif %}{% endfor %}.
         </td>
       </tr>
       {% endif %}
@@ -71,16 +77,15 @@
   </div>
   <p>{{ solve.blurb|safe }}</p>
   <div class="solve-callout-foot">
-    <span class="solve-modi">Modi solved: {{ solve.modi|join(", ") }}</span>
-    <a class="solve-link" href="{{ url('cipher-solutions.html') }}">See the char-aligned decodes &rarr;</a>
+    <a class="solve-link" href="{{ url('cipher-solutions.html') }}">Compare the letters with the printed message &rarr;</a>
   </div>
 </aside>
 {% endif %}
 
 {% if work_cover %}<div class="work-cover-wrap">{{ work_cover|safe }}</div>{% endif %}
 
-<section class="work-intro">
-  <h2>About this work</h2>
+<section class="work-intro" id="editorial-introduction" data-pagefind-body>
+  <h2 id="intro-heading">About this work</h2>
   {% if intro %}
   {{ intro|safe }}
   {% else %}
@@ -107,8 +112,8 @@
             title="Copy a link to the current passage" disabled>&sect;<span class="rt-label"> Copy link</span></button>
     <button type="button" class="rt-toggle" id="rt-copy-cite"
             title="Copy a citation for the current passage" disabled>&#128203;<span class="rt-label"> Cite passage</span></button>
-    {% if iiif_source %}<a class="rt-toggle" id="rt-facsimile" href="{{ url('iiif/viewer.html') }}?manifest={{ url('iiif/' + work.id + '/manifest.json') }}#canvas=1"
-            title="Open the source image aligned to the current passage">&#128444;<span class="rt-label"> Facsimile</span></a>{% endif %}
+    {% if iiif_source %}<a class="rt-toggle" id="rt-facsimile" href="{{ iiif_source.source_url }}"
+            title="Browse the institutional source">&#128444;<span class="rt-label"> Browse source</span></a>{% endif %}
     <span class="rt-passage-label" id="rt-passage-label" aria-hidden="true"></span>
     <span class="sr-only" id="rt-passage-status" role="status" aria-live="polite"></span>
     <button type="button" class="rt-toggle" id="rt-search-toggle" aria-expanded="false"
@@ -148,9 +153,10 @@
     <ol id="study-minimap-list"></ol>
   </aside>
   {% endif %}
-  <div class="english-body" data-study-pane="english">
+  <div class="english-body" data-study-pane="english" id="translation-text" data-pagefind-body>
+<span id="translation-start"></span>
 {% if not reading_body_has_title %}<h2 class="reading-work-title">{{ work_title }}</h2>{% endif %}
-{{ english|safe }}
+{{ (english|search_anchors("p-t4b", published_ids) if work.edition == "trithemius-4b" else english)|safe }}
   </div>
   {% if passage_count %}<section class="study-latin" data-study-pane="latin" lang="la" aria-label="Diplomatic Latin OCR" hidden>
     <h2>Diplomatic Latin OCR</h2>
@@ -159,6 +165,7 @@
   {% endif %}
   {% if iiif_source %}<section class="study-source" data-study-pane="source" aria-label="Source facsimile" hidden>
     <h2>Source facsimile</h2>
+    <p id="study-source-precision">Source facsimile</p>
     <iframe id="study-source-frame" title="Zoomable institutional source facsimile" loading="lazy"></iframe>
     <p><a id="study-source-external" href="{{ iiif_source.source_url }}">Open the institutional source</a></p>
   </section>{% endif %}
@@ -207,6 +214,7 @@
   <h2>Artifacts</h2>
   <ul>
     {% if has_parallel %}<li><a href="{{ url('works/' + work.id + '_parallel.html') }}">Side-by-side Latin&nbsp;/&nbsp;English viewer</a></li>{% endif %}
+    {% if work.edition == 'trithemius-4b' %}<li><a href="{{ url('works/' + (work.standard_witness|default(work.id)) + '.html') }}">Earlier translation of this witness</a></li>{% endif %}
     {% if passage_count %}<li><a href="{{ url('data/passages/' + work.id + '.json') }}">Passage and annotation index</a> ({{ passage_count }} stable English passages)</li>{% endif %}
     {% if has_tei %}<li><a href="{{ url('tei/' + work.id + '.xml') }}">Pilot TEI P5 export</a></li>{% endif %}
     {% if iiif_source %}<li><a href="{{ url('iiif/viewer.html') }}?manifest={{ url('iiif/' + work.id + '/manifest.json') }}#canvas=1">Zoomable facsimile viewer</a> / <a href="{{ url('iiif/' + work.id + '/manifest.json') }}">IIIF Presentation 3 manifest</a> ({{ iiif_source.provider }}; {{ iiif_source.mapping_precision }} text alignment)</li>{% endif %}
@@ -215,7 +223,7 @@
     <li><a href="{{ url('editions/print/' + work.id + '/index.html') }}">Print-ready reading edition</a> (paged with Vivliostyle)</li>{% endif %}
     <li><a href="#" onclick="window.print();return false;">Download as PDF</a> (typeset via your browser&rsquo;s print dialog)</li>
     {% if work.source.url %}<li><a href="{{ work.source.url }}">Original source record</a>{% if work.source.download_url %} / <a href="{{ work.source.download_url }}">PDF</a>{% endif %} ({{ work.source.provider or 'provider' }})</li>{% endif %}
-    <li><a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/tree/main/works/{{ work.id }}">Repository folder</a></li>
+    <li><a href="https://github.com/Trithemius-Corpus/Trithemius-Corpus/tree/main/{{ 'works-t4b' if work.edition == 'trithemius-4b' else 'works' }}/{{ work.id }}">Repository folder</a></li>
   </ul>
 </section>
 
@@ -233,11 +241,11 @@
 {% endif %}
 
 {% if has_errata %}
-<section class="work-errata" id="errata">
-  <h2>Editorial corrections</h2>
+<section class="work-errata" id="errata" data-pagefind-body>
+  <h2 id="errata-heading">Editorial corrections</h2>
   <details>
     <summary>This work has recorded editorial corrections. Click to view.</summary>
-    {{ errata_html|safe }}
+    {{ errata_html|search_anchors("note-errata")|safe }}
   </details>
 </section>
 {% endif %}
@@ -254,12 +262,16 @@
 <script>window.TC_WORK_IDS={{ all_work_ids|tojson }};</script>
 <script>window.TC_WORK={{ {
   'id': work_id,
+  'track': 'trithemius-4b' if work.edition == 'trithemius-4b' else 'earlier',
+  'readingPath': page_path,
   'title': work_title,
   'citation': citation,
   'passageCount': passage_count,
   'passageIndex': url('data/passages/' + work.id + '.json') if passage_count else none,
   'iiifViewer': (url('iiif/viewer.html') + '?manifest=' + url('iiif/' + work.id + '/manifest.json')) if iiif_source else none,
   'iiifCanvasMap': iiif_canvas_map|default({}),
+  'reviewedCanvases': reviewed_canvases|default({}),
+  'institutionalSource': iiif_source.source_url if iiif_source else none,
   'view': 'read',
   'language': 'en',
   'annotations': 'visible'

@@ -1,0 +1,79 @@
+{
+  "seven-michael": {
+    "canvas_number": 9,
+    "crop_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/seven-michael.png",
+    "xywh": [
+      120,
+      582,
+      1475,
+      248
+    ],
+    "sha256": "64c1066a8a52dc41b12107d58d90eef4ce0872b976ddbebc6a6bcc20cc2aede1"
+  },
+  "seven-previous-period": {
+    "canvas_number": 8,
+    "crop_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/seven-previous-period.png",
+    "xywh": [
+      389,
+      1949,
+      1463,
+      230
+    ],
+    "sha256": "11491217176ea0ae58307e8c6e24dca605fac01348bb133d169924d1446c37e1"
+  },
+  "seven-samael": {
+    "canvas_number": 11,
+    "crop_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/seven-samael.png",
+    "xywh": [
+      116,
+      1188,
+      1420,
+      253
+    ],
+    "sha256": "c69faae344e7740c1af77341e060b6d4158ff00540024ff24e8133588b17c1f2"
+  },
+  "seven-temple": {
+    "canvas_number": 11,
+    "crop_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/seven-temple.png",
+    "xywh": [
+      107,
+      1944,
+      1430,
+      235
+    ],
+    "sha256": "e7caaa796cf3de9d5a597a7949b8be6e30e8a254fa296ac4676ed20f001a492e"
+  },
+  "seven-temple-continuation": {
+    "canvas_number": 12,
+    "crop_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/seven-temple-continuation.png",
+    "xywh": [
+      396,
+      235,
+      1454,
+      520
+    ],
+    "sha256": "06c1a82eb406df3a4b79c3e1d6719f0a4c9bc1d7b1f2933d180da84064616956"
+  },
+  "seven-direction-of-michael": {
+    "canvas_number": 12,
+    "crop_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/seven-direction-of-michael-crop.png",
+    "xywh": [
+      432,
+      1949,
+      1360,
+      249
+    ],
+    "sha256": "88671aef2bf6251fa4ef712f19d25c06f465910e2e5c662e96d1140250ac72fc"
+  },
+  "seven-direction-continuation": {
+    "canvas_number": 13,
+    "crop_path": "data/translation_disagreements/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus/facsimiles/seven-direction-continuation-crop.png",
+    "xywh": [
+      126,
+      269,
+      1339,
+      209
+    ],
+    "sha256": "8e40aec38bc59f2b79c07f4bf9c0e847aa2fa0a27689b36f3003714e120cafb5"
+  }
+}

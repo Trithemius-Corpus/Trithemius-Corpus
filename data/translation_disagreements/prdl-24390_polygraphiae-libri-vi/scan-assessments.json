@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24390_polygraphiae-libri-vi",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "transcription_convention": "Normalized reading of the cited type. Long s is written s. Word division and line-end joins are recorded where they affect the reading.",
+  "items": {
+    "polygraphia-austrasia": {
+      "normalized_latin": "r gasconiam, s austrasiam, t galliam",
+      "reason": "The s entry in the left column is the historical region Austrasia, in the accusative. The neighbouring entries are Gascony and Gaul.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00029406/canvas/186",
+        "label": "bsb00029406, canvas 186, corpus image 187",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029406_00186/full/1000,/0/default.jpg",
+        "attribution": "Bayerische Staatsbibliothek, München",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "review_date": "2026-11-23",
+        "source_note": "Institutional image downloaded at 1000 pixels wide on 23 November 2026. Compared with archived corpus image 187.",
+        "path": "data/translation_disagreements/prdl-24390_polygraphiae-libri-vi/facsimiles/canvas-186.jpg",
+        "sha256": "504a6e0fcc13a4be37b4678577215053359fe0d861caa9f92e535724b8ace6a6"
+      },
+      "crop": {
+        "canvas_number": 186,
+        "crop_path": "data/translation_disagreements/prdl-24390_polygraphiae-libri-vi/facsimiles/polygraphia-austrasia.png",
+        "xywh": [
+          250,
+          840,
+          300,
+          128
+        ],
+        "sha256": "10a9a5d7300ce4e86e35a9ec0e8b014e52d3d7f0e00fa68fbfae825f19eee24b"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented",
+      "confidence": "AI visual collation against the cited page. The reason records any uncertainty specific to this reading."
+    },
+    "polygraphia-belgica": {
+      "normalized_latin": "p buconiam, q belgicam, r nauarram",
+      "reason": "The q entry in the right column is Belgica. It was missing from the English, shifting the later right-hand entries out of alignment with the letters in the left-hand column.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00029406/canvas/186",
+        "label": "bsb00029406, canvas 186, corpus image 187",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00029406_00186/full/1000,/0/default.jpg",
+        "attribution": "Bayerische Staatsbibliothek, München",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "review_date": "2026-11-23",
+        "source_note": "Institutional image downloaded at 1000 pixels wide on 23 November 2026. Compared with archived corpus image 187.",
+        "path": "data/translation_disagreements/prdl-24390_polygraphiae-libri-vi/facsimiles/canvas-186.jpg",
+        "sha256": "504a6e0fcc13a4be37b4678577215053359fe0d861caa9f92e535724b8ace6a6"
+      },
+      "crop": {
+        "canvas_number": 186,
+        "crop_path": "data/translation_disagreements/prdl-24390_polygraphiae-libri-vi/facsimiles/polygraphia-belgica.png",
+        "xywh": [
+          587,
+          778,
+          300,
+          148
+        ],
+        "sha256": "76266065d404c9fbe73446a890fc2768bb73936750c23ee629c053c3d477c322"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented",
+      "confidence": "AI visual collation against the cited page. The reason records any uncertainty specific to this reading."
+    }
+  }
+}

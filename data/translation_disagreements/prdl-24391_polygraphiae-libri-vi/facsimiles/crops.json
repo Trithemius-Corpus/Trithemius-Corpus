@@ -1,0 +1,24 @@
+{
+  "key-numeral-cipher": {
+    "canvas_number": 81,
+    "crop_path": "data/translation_disagreements/prdl-24391_polygraphiae-libri-vi/facsimiles/key-numeral-cipher.png",
+    "xywh": [
+      8,
+      422,
+      866,
+      230
+    ],
+    "sha256": "5298653e7fa5fdac9d17e65761ebf46b5361cb2260bd1d3db66f7f725e3ff7ac"
+  },
+  "key-numeral-alphabet": {
+    "canvas_number": 80,
+    "crop_path": "data/translation_disagreements/prdl-24391_polygraphiae-libri-vi/facsimiles/key-numeral-alphabet.png",
+    "xywh": [
+      201,
+      1080,
+      883,
+      338
+    ],
+    "sha256": "d4ab551edf7fdae6c8b2b15172d1499c8974a071556991e767ea533c0770209e"
+  }
+}

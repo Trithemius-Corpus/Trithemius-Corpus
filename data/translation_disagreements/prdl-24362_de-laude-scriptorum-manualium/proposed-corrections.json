@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "method": "AI visual source assessment; no human review documented",
+  "date": "2026-11-05",
+  "changes": [
+    {
+      "item_id": "scribes-001",
+      "track": "earlier",
+      "before": "I promised what I knew did not exceed the powers of my talent",
+      "after": "I promised what I knew did exceed the powers of my talent",
+      "files": [
+        "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0001.md"
+      ]
+    },
+    {
+      "item_id": "scribes-002",
+      "track": "t4b",
+      "before": "unknown to us by name",
+      "after": "not unknown to me",
+      "files": [
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0008.md"
+      ]
+    },
+    {
+      "item_id": "scribes-003",
+      "track": "t4b",
+      "before": "my pen trembles, looking again to Jesus",
+      "after": "my sight trembles; likewise my pen",
+      "files": [
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0002.md"
+      ]
+    },
+    {
+      "item_id": "scribes-004",
+      "track": "earlier",
+      "before": "Nor ought you to abandon the monastery for the sake of study",
+      "after": "Nor is it necessary for you to leave the monastery for the sake of study",
+      "files": [
+        "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0020.md"
+      ]
+    },
+    {
+      "item_id": "scribes-005",
+      "track": "earlier",
+      "before": "Purge the [unclear] of your race",
+      "after": "Cleanse the storehouse of your mind [ed.]",
+      "files": [
+        "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0020.md"
+      ]
+    },
+    {
+      "item_id": "scribes-005",
+      "track": "t4b",
+      "before": "Cleanse the barn of your heart",
+      "after": "Cleanse the storehouse of your mind",
+      "files": [
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0018.md"
+      ]
+    },
+    {
+      "item_id": "scribes-006",
+      "track": "t4b",
+      "before": "the abbot should provide more abundantly than for the others in all necessities for those whom they disdain to be and to be found",
+      "after": "the abbot should provide for them in all necessities more abundantly than for the others, who scorn to be such and to be found such",
+      "files": [
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+        "works-t4b/prdl-24362_de-laude-scriptorum-manualium/chunks/full_chunk_0014.md"
+      ]
+    }
+  ]
+}

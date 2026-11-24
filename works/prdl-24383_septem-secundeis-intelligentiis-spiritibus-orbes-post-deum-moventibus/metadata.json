@@ -43,5 +43,12 @@
       "full.txt": 1
     },
     "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus_parallel.html"
-  }
+  },
+  "ai_corrections": {
+    "date": "2026-11-23",
+    "count": 6,
+    "human_review": "none_documented",
+    "note": "The edition errata document scan-checked readings and earlier wording. The historical machine audit predates the corrections."
+  },
+  "unclear_count": 17
 }

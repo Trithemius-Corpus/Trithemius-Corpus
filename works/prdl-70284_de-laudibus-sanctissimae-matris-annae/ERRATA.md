@@ -32,3 +32,13 @@ Re-translated from scratch against the source page-scans, superseding the earlie
 - sp̄ expanded as 'semper' (abbreviation, metrically secure)
 - Hymn incipit printed 'Gaude viscibus' for 'Gaude visceribus mater in intimis' — print reading preserved with bracket
 - 'Heyna' (Rutger's house near Worms) given as printed; identification left open
+
+## 2026-11-23 · anne-alias-petitioners
+
+The print gives *Sic nos, Anna, nepoti / puros ferre preces para*. The adjective *puros* agrees with *nos*, the people offering the prayers. This catalogue record and `prdl-24364` use the same scan. Codex AI checked the cited lines against the page image. No human verification is documented.
+
+Previous wording: Thus, Anna, prepare us to bring pure prayers to your grandson.
+
+Revised wording: Thus, Anna, prepare us to be pure when we offer prayers to your grandson.
+
+[BSB, folio 4r, canvas 7](https://api.digitale-sammlungen.de/iiif/image/v2/bsb00008347_00007/284,610,1410,576/full/0/default.jpg)

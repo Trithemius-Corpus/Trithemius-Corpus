@@ -32,5 +32,15 @@
   "ocr_engine": "qwen3vl-4b-trithemius-q6 (Trithemius LoRA)",
   "translator": "gpt-5.5 (dual-context)",
   "canonical_backend": "qwen3vl-trithemius-q6-dual-gpt55",
-  "source_work_id": "prdl-24376_ecloga-de-laude-calvorum-ad-carolum"
+  "source_work_id": "prdl-24376_ecloga-de-laude-calvorum-ad-carolum",
+  "attribution": {
+    "author": "Hucbald of Saint-Amand",
+    "transmitted_by": "Johannes Trithemius"
+  },
+  "ai_corrections": {
+    "date": "2026-11-18",
+    "count": 1,
+    "human_review": "none_documented",
+    "note": "AI corrections checked against the printed witness on 18 November 2026. See the edition errata for the previous readings and scans. The machine audit predates these changes."
+  }
 }

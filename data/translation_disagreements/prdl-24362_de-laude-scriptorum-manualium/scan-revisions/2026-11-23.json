@@ -1,0 +1,189 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24362_de-laude-scriptorum-manualium",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "transcription_convention": "Selected lines with abbreviations expanded and line breaks joined. Ellipses mark intervening words.",
+  "items": {
+    "context-c-s03": {
+      "normalized_latin": "per Petrum Friedbergensem, impressorem Maguntinum, anno virginei partus M.cccc.xciiij.",
+      "reason": "The printed colophon names Peter of Friedberg, the Mainz printer, and dates the printing to 1494. The 1492 dedication belongs to the composition history.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/41",
+        "label": "20r (0041)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00041/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-041.jpg",
+        "sha256": "a06d4637926913ce3faba853ff43d434577e45801eb9871c657b1a2468523417",
+        "rights": [
+          [
+            "https://creativecommons.org/publicdomain/mark/1.0/"
+          ]
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "collation_date": "2026-11-23"
+      },
+      "crop": {
+        "canvas_number": 41,
+        "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/context-c-s03-crop.png",
+        "xywh": [
+          380,
+          1488,
+          1349,
+          315
+        ],
+        "sha256": "7eff8f8f2976fd5b583e7e81e5b1c97fa900440aae5219a578023b90872fb6bc"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "B-F04": {
+      "normalized_latin": "Nec facile … omnes impressos libros vel invenire potest vel emere. Quod si etiam omnes libri totius mundi imprimerentur …",
+      "reason": "A separate sentence says that one cannot easily find or buy all printed books. Facile belongs to finding and buying. The next sentence opens a counterfactual about printing all books.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/21",
+        "label": "10r (0021)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00021/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-021.jpg",
+        "sha256": "4695df968ede034a675b071a7e1a96c8678a76339476507c4ca47bd80b39fada",
+        "rights": [
+          [
+            "https://creativecommons.org/publicdomain/mark/1.0/"
+          ]
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "collation_date": "2026-11-23"
+      },
+      "crop": {
+        "canvas_number": 21,
+        "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/B-F04-crop.png",
+        "xywh": [
+          293,
+          1383,
+          1455,
+          542
+        ],
+        "sha256": "4e40d0a25d6b256414f2d408672923516de16c2c6ae0799caf4236f5bf598fef"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "scribes-feast-sacred-books": {
+      "normalized_latin": "Bene facit itaque libros sacros scribens diebus festis, debitis circumstantiis diligenter adhibitis.",
+      "reason": "Sacros qualifies the books in the author’s conclusion about feast days. The preceding discussion of copying useful materials at a superior’s command has its own scope.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/27",
+        "label": "13r (0027)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00027/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-027.jpg",
+        "sha256": "f3654fe39fbd7981a5e9830b15f2e719a0d69f92eb3380bb4c72e4d72f9b1f57",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-17"
+      },
+      "crop": {
+        "canvas_number": 27,
+        "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-feast-sacred-books-crop.png",
+        "xywh": [
+          329,
+          1798,
+          1386,
+          314
+        ],
+        "sha256": "6d2d97299eaf80f9d96f82cd4290a0b7ccebcf8309f35db22a511714370f62ea"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "scribes-inward-exercises": {
+      "normalized_latin": "Quem enim ex monachis hi labores delectant, eum interiores necesse est derelinquant.",
+      "reason": "Eum refers to the monk. The plural verb derelinquant has interiores, the inward exercises, as its subject.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/32",
+        "label": "15v (0032)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00032/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-032.jpg",
+        "sha256": "41174529134c124eb97607397afde3e4967bc44c6ac9cb888a230d0ce428d7d0",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-05"
+      },
+      "crop": {
+        "canvas_number": 32,
+        "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-inward-exercises-crop.png",
+        "xywh": [
+          493,
+          292,
+          1394,
+          405
+        ],
+        "sha256": "96c23bdb7a754a639894ab7f60c0afc47af3b204e05ab7bd0d74f4469adb5a5f"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "B-F03": {
+      "normalized_latin": "Clemens et iustus est Dominus, la-",
+      "reason": "The Lord is merciful and just. The next leaf completes the word labores and makes the Lord the subject of transibit.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/20",
+        "label": "9v (0020)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00020/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-020.jpg",
+        "sha256": "12dedd5b02d1b21742db0c571e0ce2628c2871e1f5bf9f7a3bf285ed35326145",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-05"
+      },
+      "crop": {
+        "canvas_number": 20,
+        "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/B-F03-crop.png",
+        "xywh": [
+          528,
+          2352,
+          1410,
+          259
+        ],
+        "sha256": "a624534c030f75779c82a6f7d306c0a8fe961290a7daf8411b57e33cecf24f15"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "scribes-labors-continuation": {
+      "normalized_latin": "-bores vestros tam pios, tam utiles, tam necessarios ecclesie non sine maxima retribucione transibit.",
+      "reason": "The opening of folio 10r completes the sentence about the Lord rewarding the brothers’ labors.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/21",
+        "label": "10r (0021)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00021/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-021.jpg",
+        "sha256": "4695df968ede034a675b071a7e1a96c8678a76339476507c4ca47bd80b39fada",
+        "rights": [
+          [
+            "https://creativecommons.org/publicdomain/mark/1.0/"
+          ]
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "collation_date": "2026-11-23"
+      },
+      "crop": {
+        "canvas_number": 21,
+        "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-labors-continuation-crop.png",
+        "xywh": [
+          293,
+          204,
+          1431,
+          204
+        ],
+        "sha256": "80e33048a03dc54cb7a781146a76df8fc7d04dd2cf7910805e6371454d147322"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    }
+  }
+}

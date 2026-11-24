@@ -18,7 +18,7 @@ Behold, you now have here an alphabet from Roman numerical letters in imitation 
 
 Let us set out an example:
 
-Iaaibid ifeib, ieifeigeiccbkib, cakcebhid, id&kahk, gidsbid, cigib, iceigihg ibkgig.&kif, iaiahibifid, ibeicdaka.eib.ieiei&kaib.
+Iaaihid ifeib, ieifeigeicchkib. cakeihid. i&kahk. gidibid. eigih. ieeigigh ibkig. &kif. iaaihifid, ibeicdaka eih. icei&kaib.
 
 The hidden meaning of this writing is as follows: Beware the bearer of the present letters, because the man is utterly wicked: a thief, robber, liar, and worthless fellow.
 

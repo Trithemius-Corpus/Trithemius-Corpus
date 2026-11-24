@@ -1,0 +1,139 @@
+{
+  "schema_version": "1.1",
+  "date": "2026-11-17",
+  "work_id": "prdl-24362_de-laude-scriptorum-manualium",
+  "human_review": "none_documented",
+  "transcription_convention": "Selected clauses with abbreviations expanded and punctuation normalized. Brackets identify a disputed word.",
+  "items": {
+    "scribes-003": {
+      "date": "2026-11-17",
+      "decision": "applied_with_word_withheld",
+      "normalized_latin": "tremet [intinctus?] iterum calamus",
+      "reason": "The verb tremet and the nominative calamus support a trembling pen. The word divided at the line ending is iterum. The sequence before it appears to read intinctus, a masculine participle that can describe a dipped pen. The earlier reading intuitus gave “my sight” more certainty than the type warrants. The brackets in the English mark the unresolved modifier. A Latin reader should adjudicate the letterforms, the syntax and the placement of iterum.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/8",
+        "label": "3v (0008)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00008/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-008.jpg",
+        "sha256": "b6398a11de471aac45c59109427342c7fd1c86c23722c3cf9bec8dbc46506f84",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-05"
+      },
+      "crop": {
+        "canvas_number": 8,
+        "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-003-crop.png",
+        "xywh": [
+          504,
+          1293,
+          1467,
+          421
+        ],
+        "sha256": "df5145e919c6965ad1228da121e8fd766caeb14026044775d0ed8094df624fb5"
+      },
+      "mapping_basis": "Words matched visually with the printed folio and its institutional canvas.",
+      "reviewer": "Codex AI",
+      "human_review": "none_documented",
+      "supersedes_date": "2026-11-05",
+      "benchmark_status": "withheld_pending_human_adjudication"
+    },
+    "A-F18": {
+      "date": "2026-11-17",
+      "decision": "accepted_for_local_correction",
+      "normalized_latin": "nec veterum exemplo nec prelatorum precepto",
+      "reason": "A contraction mark over the initial p and the genitive plural ending support prelatorum, “of prelates.” The two phrases give the example of the ancients and the command of the prelates as reasons for a monk to write.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/14",
+        "label": "6v (0014)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00014/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-014.jpg",
+        "sha256": "47b7dec9e5e56f9696e61ff4f74ee264b5c5ea23fa27ecb5612eada1de00a224",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-17"
+      },
+      "crop": {
+        "canvas_number": 14,
+        "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/A-F18-crop.png",
+        "xywh": [
+          465,
+          982,
+          1415,
+          253
+        ],
+        "sha256": "52b85f3544b7ef93f3c64bc873a29a049fae8366fe07cfb38870ba9cb3d05a79"
+      },
+      "mapping_basis": "Words matched visually with the printed folio and its institutional canvas.",
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "A-F23": {
+      "date": "2026-11-17",
+      "decision": "accepted_for_local_correction",
+      "normalized_latin": "Cassiodorum, Bedam, Alcuinum, Rabanum, Reginonem",
+      "reason": "The list prints Rabanum between Alcuinum and Reginonem. Both translations of this passage had skipped directly from Alcuin to Regino.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/14",
+        "label": "6v (0014)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00014/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-014.jpg",
+        "sha256": "47b7dec9e5e56f9696e61ff4f74ee264b5c5ea23fa27ecb5612eada1de00a224",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-17"
+      },
+      "crop": {
+        "canvas_number": 14,
+        "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/A-F23-crop.png",
+        "xywh": [
+          478,
+          2186,
+          1402,
+          207
+        ],
+        "sha256": "3ebbc6581921416a859abbf85c23f9223c39b14f5aabc24e4d869596c0920458"
+      },
+      "mapping_basis": "Words matched visually with the printed folio and its institutional canvas.",
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    },
+    "B-F10": {
+      "date": "2026-11-17",
+      "decision": "accepted_for_local_correction",
+      "normalized_latin": "Hanc questionem Iohanni cancellario quondam Parisiensi, viro doctissimo",
+      "reason": "The abbreviation in the title following Iohanni expands to cancellario. The next line completes quondam and identifies Paris. Together they describe an office John formerly held. The source supplies no surname in this phrase.",
+      "image": {
+        "canvas": "https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00037424/canvas/27",
+        "label": "13r (0027)",
+        "image_url": "https://api.digitale-sammlungen.de/iiif/image/v2/bsb00037424_00027/full/full/0/default.jpg",
+        "path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/canvas-027.jpg",
+        "sha256": "f3654fe39fbd7981a5e9830b15f2e719a0d69f92eb3380bb4c72e4d72f9b1f57",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/"
+        ],
+        "attribution": "Bayerische Staatsbibliothek",
+        "download_date": "2026-11-17"
+      },
+      "crop": {
+        "canvas_number": 27,
+        "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/B-F10-crop.png",
+        "xywh": [
+          310,
+          860,
+          1412,
+          243
+        ],
+        "sha256": "8ed4b5d6a9adbc433444d83721f2891b06e1fdbb1b8e5775798c718ec4517406"
+      },
+      "mapping_basis": "Words matched visually with the printed folio and its institutional canvas.",
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    }
+  }
+}

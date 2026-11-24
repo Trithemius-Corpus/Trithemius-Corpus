@@ -1,4 +1,4 @@
-By this childbirth Joachim becomes worthy to stand in the shrines, removing the reproaches of the pontiff. Thus, Anna, prepare us to bring pure prayers to your grandson.
+By this childbirth Joachim becomes worthy to stand in the shrines, removing the reproaches of the pontiff. Thus, Anna, prepare us to be pure when we offer prayers to your grandson.
 
 Commend us to the boy whom the pious chastity of your daughter bore; by prayer we ask this, O blessed matron. Christ denies you nothing.
 

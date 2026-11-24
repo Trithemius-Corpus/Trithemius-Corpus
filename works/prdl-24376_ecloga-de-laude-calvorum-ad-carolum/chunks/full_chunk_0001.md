@@ -37,7 +37,7 @@ Sing your songs, clear-sounding Camenae, for the bald!
 When the crown takes shape at the nape of the head,  
 it seals the bald man as a sworn fellow of the clergy,  
 soon to capture, Christ granting it, a shining crown.  
-As he plucks the hair from his head, he plucks the purse from his heart;  
+As he plucks the hair from his head, he plucks the sins from his heart;  
 with his heart he beholds the Creator, with his body, heaven,  
 longing to reach the citizens of heaven by his devotion.  
 He condemns all sins together with their perishing cares;  
@@ -83,4 +83,4 @@ Roused to the contest, the bald man is cunning in battle:
 he tramples, he strikes, he forces the long-haired to yield;  
 he takes captives, and pens the captured by the neck.
 
-*Readings.* The English follows the 1496 print, checked line by line against the Bavarian State Library scan. Every word of the poem begins with the letter c; several apparent OCR errors are the print's own. The prooemium's fifth line ends "crimine cluras" (so the print; "cluras" is corrupt, perhaps for "claras"); in chapter 4 the print's "curros" is evidently for "cirros" ("curls"), and its "capros" ("goats") in the final line for "captos" ("the captured") — though "goats" would not be beyond this poet. The epigraph's "Conatus" is the participle ("attempting"), not a name.
+*Readings.* The English follows the 1496 print, checked line by line against the Bavarian State Library scan. Every word of the poem begins with the letter c; several apparent OCR errors are the print's own. The prooemium's fifth line ends "crimine cluras" (so the print; "cluras" is corrupt, perhaps for "claras"); in chapter 4 the print's "curros" is evidently for "cirros" ("curls"). The final line reads "captos" ("captives"). The epigraph's "Conatus" is the participle ("attempting"), not a name.

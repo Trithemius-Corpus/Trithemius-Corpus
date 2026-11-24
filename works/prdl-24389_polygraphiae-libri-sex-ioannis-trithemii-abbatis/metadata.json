@@ -43,5 +43,12 @@
     "latin_source_file": "full.txt",
     "latin_fallback_sources": {},
     "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis_parallel.html"
-  }
+  },
+  "ai_corrections": {
+    "date": "2026-11-23",
+    "count": 1,
+    "human_review": "none_documented",
+    "note": "The dated edition errata identify the scan-supported AI corrections. Historical machine grades predate these readings."
+  },
+  "unclear_count": 319
 }

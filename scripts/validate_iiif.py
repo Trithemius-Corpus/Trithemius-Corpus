@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 
 import iiif_model
@@ -23,6 +24,7 @@ def main() -> None:
     require(iiif_model.discover_manifest("e-rara", "https://www.e-rara.ch/zuz/content/titleinfo/1761179") ==
             "https://www.e-rara.ch/i3f/v20/1761179/manifest", "e-rara discovery")
     canvas_total = annotation_total = range_total = 0
+    exact_total = 0
     for work_id, source in config.items():
         require(source["rights"].startswith("https://"), f"{work_id}: rights URI")
         require(source["required_statement"].strip(), f"{work_id}: attribution")
@@ -34,6 +36,35 @@ def main() -> None:
         require(manifest.get("provider") and manifest.get("requiredStatement"), f"{work_id}: provider statement")
         require(manifest.get("rights") == source["rights"], f"{work_id}: rights preserved")
         canvases = manifest.get("items", [])
+        dist = ROOT / "site/dist"
+        page = (dist / "works" / f"{work_id}.html").read_text(encoding="utf-8")
+        settings = json.loads(re.search(r"window\.TC_WORK=(\{[^\n]+\});", page)[1])
+        provider = json.loads((iiif_model.CACHE / f"{work_id}.json").read_text(encoding="utf-8"))
+        index = json.loads((dist / "data/passages" / f"{work_id}.json").read_text(encoding="utf-8"))
+        approximate, exact = iiif_model.canvas_targets(work_id, source, provider, index)
+        require(settings["reviewedCanvases"] == exact and settings["iiifCanvasMap"] == approximate,
+                f"{work_id}: reader and source maps disagree")
+        require(all(1 <= n <= len(canvases) for n in [*exact.values(), *approximate.values()]),
+                f"{work_id}: out-of-bounds source link")
+        require(settings["institutionalSource"] == source["source_url"], f"{work_id}: institutional fallback")
+        placed = {}
+        for n, canvas in enumerate(canvases, 1):
+            for layer in canvas.get("annotations", []):
+                for annotation in layer["items"]:
+                    anchor = annotation["seeAlso"][0]["id"].split("#")[-1]
+                    require(anchor not in placed, f"{work_id}: duplicate source annotation {anchor}")
+                    placed[anchor] = n
+        expected = {p["html_id"]: exact.get(p["html_id"], approximate.get(str(p.get("latin_segment", p["segment"]))))
+                    for p in index["passages"]}
+        require(placed == {k: v for k, v in expected.items() if v is not None}, f"{work_id}: canvas annotation drift")
+        queue = ROOT / "review/translation-disagreements" / work_id / "queue.json"
+        if queue.exists():
+            for item in json.loads(queue.read_text(encoding="utf-8"))["items"]:
+                assessment = item.get("ai_scan_assessment")
+                if assessment:
+                    anchor = item["english"]["earlier"]["reader_target"].split("#")[-1]
+                    require(exact.get(anchor) == assessment["crop"]["canvas_number"], f"{item['id']}: reviewed source page")
+        exact_total += len(exact)
         ids = {canvas["id"] for canvas in canvases}
         require(canvases, f"{work_id}: canvases")
         for canvas in canvases:
@@ -55,6 +86,7 @@ def main() -> None:
     print(f"  canvases: {canvas_total}")
     print(f"  text annotations: {annotation_total}")
     print(f"  ranges: {range_total}")
+    print(f"  distinct passages with reviewed source canvases: {exact_total}")
 
 
 if __name__ == "__main__":

@@ -7,6 +7,7 @@ assets, and common local-junk patterns. It never rewrites files.
 from __future__ import annotations
 
 import csv
+import hashlib
 import html as html_lib
 import html.parser
 import json
@@ -212,17 +213,31 @@ def to_float(value: object, default: float = 0.0) -> float:
         return default
 
 
-def validate_yaml_cff(result: Result) -> None:
-    path = ROOT / "CITATION.cff"
+def validate_yaml_cff(result: Result, path: Path | None = None) -> None:
+    """Validate locally against the unmodified, pinned CFF 1.2.0 schema."""
+    path = path or ROOT / "CITATION.cff"
     try:
         import yaml  # type: ignore
-    except Exception:
-        result.warn("PyYAML not installed; skipped full CITATION.cff YAML parse")
+        from jsonschema import Draft7Validator
+    except ImportError as exc:
+        result.error(f"Cannot validate CITATION.cff: {exc}. Install requirements.txt.")
         return
+
+    class CitationLoader(yaml.SafeLoader):
+        """Preserve ISO dates as strings, as specified by the JSON schema."""
+
+    CitationLoader.add_constructor("tag:yaml.org,2002:timestamp", CitationLoader.construct_scalar)
     try:
-        yaml.safe_load(path.read_text(encoding="utf-8"))
-    except Exception as exc:  # noqa: BLE001
-        result.error(f"CITATION.cff is not valid YAML: {exc}")
+        data = yaml.load(path.read_text(encoding="utf-8"), Loader=CitationLoader)
+        raw = (ROOT / "data/schemas/cff-1.2.0.schema.json").read_bytes()
+        if hashlib.sha256(raw).hexdigest() != "0b8d22140da702d766df318dcff3a91af2f39521298dcf36d76315fd99cc169b":
+            result.error("Pinned CFF 1.2.0 schema checksum mismatch")
+            return
+        validator = Draft7Validator(json.loads(raw), format_checker=Draft7Validator.FORMAT_CHECKER)
+        for error in validator.iter_errors(data):
+            result.error(f"CITATION.cff {error.json_path}: {error.message}")
+    except (OSError, ValueError, yaml.YAMLError) as exc:
+        result.error(f"Cannot validate CITATION.cff: {exc}")
 
 
 def validate_manifest(result: Result) -> dict:
@@ -237,6 +252,21 @@ def validate_manifest(result: Result) -> dict:
 
     translated = [w for w in works if not w.get("skip")]
     skipped = [w for w in works if w.get("skip")]
+    source_records = {}
+    for work in translated:
+        source = work.get("source")
+        source_url = source.get("url") if isinstance(source, dict) else None
+        if not isinstance(source_url, str) or not source_url:
+            result.error(f"{work.get('id')}: missing digitized source URL")
+            continue
+        if isinstance(work.get("id"), str):
+            source_records.setdefault(source_url, []).append(work)
+    for members in source_records.values():
+        ids = sorted(work["id"] for work in members)
+        for work in members:
+            aliases = work.get("duplicate_source_group") or [work["id"]]
+            if not isinstance(aliases, list) or not all(isinstance(wid, str) for wid in aliases) or sorted(aliases) != ids:
+                result.error(f"{work['id']}: declared source aliases differ from the shared digitized source")
     if manifest.get("translatable_works") != EXPECTED_TRANS_WORKS or len(translated) != EXPECTED_TRANS_WORKS:
         result.error(f"manifest translatable works should be {EXPECTED_TRANS_WORKS}, got header={manifest.get('translatable_works')} rows={len(translated)}")
     if manifest.get("skipped_works") != EXPECTED_SKIPPED or len(skipped) != EXPECTED_SKIPPED:

@@ -28,8 +28,13 @@
     const index = Math.min(Math.max(1, requested), manifest.items.length);
     number.value = index;
     location.hash = `canvas=${index}`;
-    viewer.open(tileSource(manifest.items[index - 1]));
-    status.textContent = `${text(manifest.items[index - 1].label, `Image ${index}`)} — alignment may be ${text(manifest.metadata?.[0]?.value, "approximate")}.`;
+    const canvas = manifest.items[index - 1];
+    viewer.open(tileSource(canvas));
+    const passage = params.get("passage");
+    const reviewed = passage && (canvas.annotations || []).some(page =>
+      page.items.some(item => item.id.endsWith("/annotation/" + passage) && text(item.label) === "Reviewed source page"));
+    status.textContent = text(canvas.label, `Image ${index}`) +
+      (reviewed ? " — reviewed source page for this passage." : " — segment alignment is approximate.");
     if (window.parent !== window) window.parent.postMessage({ type: "tc:canvas", canvas: index }, window.location.origin);
   };
 

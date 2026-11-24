@@ -5,9 +5,9 @@ title: "[erratum] "
 labels: erratum
 ---
 
-**Work id**
+**Catalogue ID and translation track**
 
-The directory name under `works/` — the `prdl-NNNNN` prefix is enough.
+Give the directory under `works/` (standard) or `works-t4b/` (Trithemius 4B). Include the passage link or fragment when available.
 
 **Chunk file**
 

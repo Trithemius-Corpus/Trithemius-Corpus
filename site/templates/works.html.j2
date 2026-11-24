@@ -6,8 +6,9 @@
 <section>
   <h1>The works</h1>
   <p class="muted">
-    {{ n_texts }} distinct Latin texts across {{ n_editions }} printed editions,
-    {{ n_first }} of them in English for the first time. Grouped by genre below
+    {{ n_texts }} distinct Latin texts in {{ n_editions }} catalogue records drawn from {{ n_sources }} digitized sources.
+    <a href="{{ url('prior-translations.html') }}">Our bibliography survey</a> located no prior complete
+    published English translation for {{ n_first }} texts, represented by {{ n_first_records }} records from {{ n_first_sources }} sources. Grouped by genre below
     &mdash; or <a href="#by-date" id="toggle-date-link">arrange by date</a>.
     Translation origin, review coverage, and known limitations are recorded on
     each work page and summarized on the <a href="{{ url('scoreboard.html') }}">audit page</a>.
@@ -18,7 +19,7 @@
   <div class="works-toolbar" id="works-toolbar" hidden>
     <input type="search" id="works-search" placeholder="Filter by title, genre, or year&hellip;"
            aria-label="Filter works">
-    <label class="works-first-only"><input type="checkbox" id="works-first"> first English only</label>
+    <label class="works-first-only"><input type="checkbox" id="works-first"> no prior complete English located</label>
     <span class="muted" id="works-count" aria-live="polite"></span>
   </div>
   <noscript><p class="muted">(Filtering needs JavaScript; the full grouped list is below.)</p></noscript>
@@ -28,7 +29,7 @@
   {% for s in sections %}
   <section class="genre-section" id="{{ s.slug }}">
     <h2><a href="{{ url('genres/' + s.slug + '.html') }}">{{ s.label }}</a>
-      <span class="muted genre-count">{{ s.n_texts }} {{ 'text' if s.n_texts == 1 else 'texts' }}, {{ s.n_editions }} {{ 'edition' if s.n_editions == 1 else 'editions' }}</span></h2>
+      <span class="muted genre-count">{{ s.n_texts }} {{ 'text' if s.n_texts == 1 else 'texts' }}, {{ s.n_editions }} {{ 'record' if s.n_editions == 1 else 'records' }} from {{ s.n_sources }} {{ 'source' if s.n_sources == 1 else 'sources' }}</span></h2>
     <p class="muted genre-blurb">{{ s.description }}</p>
     <div class="text-cards">
       {% for t in s.texts %}{{ text_card(t) }}{% endfor %}

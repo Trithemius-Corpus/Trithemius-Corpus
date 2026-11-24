@@ -1,6 +1,6 @@
 # Ecloga de Laude Calvorum ad Carolum
 
-> Machine-assisted English translation. Work `prdl-24376_ecloga-de-laude-calvorum-ad-carolum`. Tier S · faithful 5.0 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.
+> Machine-assisted English translation. Work `prdl-24376_ecloga-de-laude-calvorum-ad-carolum`. The machine audit predates the local AI corrections of 2026-11-18. Historical tier S · faithful 5.0 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.
 
 ---
 
@@ -41,7 +41,7 @@ Sing your songs, clear-sounding Camenae, for the bald!
 When the crown takes shape at the nape of the head,  
 it seals the bald man as a sworn fellow of the clergy,  
 soon to capture, Christ granting it, a shining crown.  
-As he plucks the hair from his head, he plucks the purse from his heart;  
+As he plucks the hair from his head, he plucks the sins from his heart;  
 with his heart he beholds the Creator, with his body, heaven,  
 longing to reach the citizens of heaven by his devotion.  
 He condemns all sins together with their perishing cares;  
@@ -87,7 +87,7 @@ Roused to the contest, the bald man is cunning in battle:
 he tramples, he strikes, he forces the long-haired to yield;  
 he takes captives, and pens the captured by the neck.
 
-*Readings.* The English follows the 1496 print, checked line by line against the Bavarian State Library scan. Every word of the poem begins with the letter c; several apparent OCR errors are the print's own. The prooemium's fifth line ends "crimine cluras" (so the print; "cluras" is corrupt, perhaps for "claras"); in chapter 4 the print's "curros" is evidently for "cirros" ("curls"), and its "capros" ("goats") in the final line for "captos" ("the captured") — though "goats" would not be beyond this poet. The epigraph's "Conatus" is the participle ("attempting"), not a name.
+*Readings.* The English follows the 1496 print, checked line by line against the Bavarian State Library scan. Every word of the poem begins with the letter c; several apparent OCR errors are the print's own. The prooemium's fifth line ends "crimine cluras" (so the print; "cluras" is corrupt, perhaps for "claras"); in chapter 4 the print's "curros" is evidently for "cirros" ("curls"). The final line reads "captos" ("captives"). The epigraph's "Conatus" is the participle ("attempting"), not a name.
 
 *In praise of the bald from the experience of the art of medicine, pharmacy as much as surgery. Chapter 5.*
 
@@ -97,8 +97,8 @@ you will find that the bald cure catarrhs of the head;
 you will find that the bald cure its hidden hollows.  
 Chronic ills yield, with the cancer, and scalp-baring cachexy;  
 heartburn gnawing the heart is quashed; the colic — ceased.  
-Handling the steel with knowing flesh, he stanches  
-the head's corrupted gore at the cauterized neck.  
+With the flesh cut and the neck cauterized,  
+he wields the steel and stanches the head's corrupted gore.  
 Why sing on? Every lurking malady falls away:  
 he routs them from the body and cures the collapsing frame.
 
@@ -119,7 +119,7 @@ let his miry slander — fall silent, and quickly.
 
 Sing your songs, clear-sounding Camenae, for the bald!  
 You accomplice of butchers — why think the hide is being flayed from the bald man?  
-He is plucking out the purse of his heart.  
+The bald man plucks the sins from his heart.  
 Why think the bald sprinkle ashes on the head?  
 The bald man knows the body is compacted out of ash.  
 Why think their flesh is seared by the hot coal?  

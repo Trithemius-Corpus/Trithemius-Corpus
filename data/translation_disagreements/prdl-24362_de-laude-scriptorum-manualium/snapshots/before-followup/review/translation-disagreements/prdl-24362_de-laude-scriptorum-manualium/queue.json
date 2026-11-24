@@ -1,0 +1,1412 @@
+{
+  "schema_version": "1.0",
+  "work_id": "prdl-24362_de-laude-scriptorum-manualium",
+  "title": "In Praise of Scribes",
+  "witness_id": "bsb00037424",
+  "source_record": "http://daten.digitale-sammlungen.de/bsb00037424/image_1",
+  "review_method": "AI-assisted triage of frozen local English and Latin OCR artifacts; no human or scan verification claimed",
+  "offset_convention": "zero-based Unicode code points in UTF-8 text with LF newlines; end exclusive; lines one-based",
+  "sources": {
+    "earlier_english": {
+      "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+      "sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb"
+    },
+    "earlier_latin": {
+      "path": "works/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+      "sha256": "d88e121dad499375170f6b1e7b2bd2e304a532ffdfef53fb159e0b7cbdd24900"
+    },
+    "earlier_metadata": {
+      "path": "works/prdl-24362_de-laude-scriptorum-manualium/metadata.json",
+      "sha256": "380fb4a83b34d4a637421c9c61d035995818fc021a311bc828700f102f90f041"
+    },
+    "t4b_english": {
+      "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+      "sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a"
+    },
+    "t4b_latin": {
+      "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+      "sha256": "e18c6539a1ebb8a8ce83630b6e8f97aa46a6fa955726546ca29aa2468228edd8"
+    },
+    "t4b_metadata": {
+      "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/metadata.json",
+      "sha256": "d7d001ea21d073058932597320d535e9f0e4b525a76bc46b8fc421b9e7da27b6"
+    },
+    "passage_index": {
+      "path": "site/dist/data/passages/prdl-24362_de-laude-scriptorum-manualium.json",
+      "sha256": "700c1f87de9a3d1bbd4edfa65a1b8de42145782318b8af71304c30f3906c5449"
+    },
+    "earlier_reader": {
+      "path": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html",
+      "sha256": "e7e9ac69e005c9378b65eaf1472f69920614a40479ea7eaf93959ba596f6279f"
+    },
+    "t4b_reader": {
+      "path": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html",
+      "sha256": "f6ffd98af07f65e098f7e11a10d94f8ff3e6312eb6dfc4dbd3ad8958a9398f2d"
+    }
+  },
+  "comparison_scope": {
+    "earlier": [
+      230,
+      81830
+    ],
+    "t4b": [
+      391,
+      83634
+    ]
+  },
+  "scope_note": "This pilot compares archival English from each opening title through the final ownership note. Model headers and later digitization metadata are outside scope; page and segment labels are ignored by token alignment. Fifteen selected cases receive provisional semantic triage; three equivalent-wording controls are retained. This is not an exhaustive philological review.",
+  "coverage": {
+    "earlier_tokens": 14431,
+    "t4b_tokens": 14601,
+    "matched_tokens": 12125,
+    "lexical_difference_count": 1728
+  },
+  "summary": {
+    "P1": 6,
+    "P2": 7,
+    "P3": 2,
+    "excluded": 3
+  },
+  "items": [
+    {
+      "id": "scribes-001",
+      "rank": 1,
+      "priority": "P1",
+      "disposition": "queue",
+      "category": "polarity",
+      "title": "Did the undertaking exceed his abilities?",
+      "difference": "The earlier text negates exceeding his abilities; T4B affirms it.",
+      "impact": "This reverses the claim about the author's ability and his reliance on divine help.",
+      "latin_assessment": "The earlier OCR preserves excedere nō ignoraui; the T4B OCR also retains a negative form before ignozaui. The negation belongs to knowing/being unaware, which tentatively supports the T4B sense.",
+      "next_action": "Check the printed negation and verb, then adjudicate the full sentence; do not transfer the negation onto excedere.",
+      "tentative_preference": "t4b",
+      "review_status": "ai_triaged_pending_human_review",
+      "facsimile_verified": false,
+      "english": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb",
+          "start": 1275,
+          "end": 1336,
+          "start_line": 13,
+          "end_line": 13,
+          "quote": "I promised what I knew did not exceed the powers of my talent",
+          "source_marker": null,
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0001-0004",
+          "reader_precision": "passage"
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a",
+          "start": 1503,
+          "end": 1560,
+          "start_line": 45,
+          "end_line": 45,
+          "quote": "I promised what I knew did exceed the powers of my talent",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 6
+          },
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html#reading-text",
+          "reader_precision": "work"
+        }
+      },
+      "latin": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "d88e121dad499375170f6b1e7b2bd2e304a532ffdfef53fb159e0b7cbdd24900",
+          "start": 1337,
+          "end": 1695,
+          "start_line": 83,
+          "end_line": 93,
+          "quote": "nr̄is p̄cipue cōmendandum Tuis\n\nitaqꝫ p̄cibus humiliter p̄bens assensum. ꝓmisi: qđ inge¬\n\nnij mei vires excedere nō ignoraui: de adiutorio altissimi\net fraterna caritate sumens fiduciam: quibus in hac vita\ncōtime cupimus armari Unde mox ut michi de occu¬\n\npacōnibus meis paululū licuit respirare mentē fidei: ma\n\nnum apposui carthis: et hūc quē cernis modicū",
+          "source_marker": {
+            "kind": "segment",
+            "number": 1
+          }
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "e18c6539a1ebb8a8ce83630b6e8f97aa46a6fa955726546ca29aa2468228edd8",
+          "start": 1274,
+          "end": 1634,
+          "start_line": 60,
+          "end_line": 66,
+          "quote": "pfturũ: et nris pcpue comendandum. Tuis\nitaq; pabus humiliter pbcns affenfum. pmif: qõ inge-\nnij mei vires excedere no ignozauĩ: de aduortio aliafimũ\net fraterna caritate fumene fiduciam: quibus in hac vita\ncõtinuæ cupimus armari. Unde mox ut michi de occu-\npacionibus meis paululũ licuit refpirare. mente fidei: ma\nnum apofui carthie: et hũc quẽ cernis modicũ",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 6
+          }
+        }
+      },
+      "lexical_candidates": [
+        "lex-6d2d26b338b02daa"
+      ]
+    },
+    {
+      "id": "scribes-002",
+      "rank": 2,
+      "priority": "P1",
+      "disposition": "queue",
+      "category": "attribution",
+      "title": "Personal familiarity versus an unknown name",
+      "difference": "The earlier text claims personal familiarity; T4B says the name was unknown and changes me to us.",
+      "impact": "This changes the author's relationship to the anecdote and its asserted evidential basis.",
+      "latin_assessment": "Both OCRs preserve a negated incognito, with a damaged preceding pronoun. The addition by name is not apparent in these excerpts. The earlier sense is provisionally better supported.",
+      "next_action": "Inspect the pronoun and the antecedent of incognito in the scan before resolving both polarity and attribution.",
+      "tentative_preference": "earlier",
+      "review_status": "ai_triaged_pending_human_review",
+      "facsimile_verified": false,
+      "english": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb",
+          "start": 33508,
+          "end": 33598,
+          "start_line": 93,
+          "end_line": 93,
+          "quote": "There was in a certain monastery of our order, not unknown to me, a certain devout brother",
+          "source_marker": null,
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0009-0004",
+          "reader_precision": "passage"
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a",
+          "start": 34551,
+          "end": 34637,
+          "start_line": 199,
+          "end_line": 199,
+          "quote": "There was in a certain monastery of our order, unknown to us by name, a devout brother",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 21
+          },
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html#reading-text",
+          "reader_precision": "work"
+        }
+      },
+      "latin": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "d88e121dad499375170f6b1e7b2bd2e304a532ffdfef53fb159e0b7cbdd24900",
+          "start": 28176,
+          "end": 28534,
+          "start_line": 458,
+          "end_line": 464,
+          "quote": "cōspicitur. Nā qđ ille loquēdo: hic scribendi\nofficio docet! Fuit in quodā cenobio nostri ordinis nuhi\nnō incognito frater quidā deuotos qui in scribendis ad\nornatū bibliothece voluminib magnū habebat studiū:\nita ut quotienscun a diuino potuisset vacare officio. ad\nsecreta celle se conferens. huic sacrato labori inisteret.\nUnde et multa sanctoꝝ opuscula.",
+          "source_marker": {
+            "kind": "segment",
+            "number": 9
+          }
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "e18c6539a1ebb8a8ce83630b6e8f97aa46a6fa955726546ca29aa2468228edd8",
+          "start": 29308,
+          "end": 29665,
+          "start_line": 638,
+          "end_line": 644,
+          "quote": "coſpicatur. Hâ qò ille loquedo: hic scribendi\nofficio docet. Fuit in quodâ cenobio nostri ordinis nubi\nno incognito frater quidâ deuotus qui in scribendis ad\nornatù bibliothecæ voluminib3 magnù habebat studiù:\nta ut quotienfuzq a diuino potuiffet vacare officio, ad\nsecretâ celle fe conferens. huic sacrato labori infifteret.\nUnde et multa sanctoù opuscula.",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 21
+          }
+        }
+      },
+      "lexical_candidates": [
+        "lex-1deba02ac6a32fdb",
+        "lex-0ebd42141dfdc5d5",
+        "lex-ed3a0158acc35aee"
+      ]
+    },
+    {
+      "id": "scribes-003",
+      "rank": 3,
+      "priority": "P1",
+      "disposition": "queue",
+      "category": "referent",
+      "title": "A trembling gaze or a reference to Jesus?",
+      "difference": "T4B introduces Jesus as an object of looking; the earlier text describes the author's sight and pen trembling.",
+      "impact": "The devotional referent and the action are materially different.",
+      "latin_assessment": "The OCR witnesses have damaged readings around intuitus and the following word. Neither excerpt plainly spells a reference to Jesus. This is a source-reading problem as well as a translation disagreement.",
+      "next_action": "Inspect the printed line at high resolution, transcribe the disputed words, and only then decide whether the added referent is supported.",
+      "tentative_preference": "none",
+      "review_status": "ai_triaged_pending_human_review",
+      "facsimile_verified": false,
+      "english": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb",
+          "start": 7950,
+          "end": 7984,
+          "start_line": 43,
+          "end_line": 43,
+          "quote": "my sight trembles; likewise my pen",
+          "source_marker": null,
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0003-0001",
+          "reader_precision": "passage"
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a",
+          "start": 8230,
+          "end": 8269,
+          "start_line": 93,
+          "end_line": 93,
+          "quote": "my pen trembles, looking again to Jesus",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 9
+          },
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html#reading-text",
+          "reader_precision": "work"
+        }
+      },
+      "latin": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "d88e121dad499375170f6b1e7b2bd2e304a532ffdfef53fb159e0b7cbdd24900",
+          "start": 6850,
+          "end": 7209,
+          "start_line": 200,
+          "end_line": 207,
+          "quote": "idoneus exorna-\nre latam sermone materiã. Heret lingua palato iam ari\nda. spiritus premit sicca precordia. tremet intuitus ihe-\nrum calamus. in solo vigẽt pectore desideriũ et amor scri\nptoris: Cum ergo defecerim nemo materiã sed verba no\nuerit defuisse loquenti. Faciam tamen christo iuuāte qđ\npotero. cũ sola charitas nr̃i sit causa laboris. que omnia\nposse",
+          "source_marker": {
+            "kind": "segment",
+            "number": 3
+          }
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "e18c6539a1ebb8a8ce83630b6e8f97aa46a6fa955726546ca29aa2468228edd8",
+          "start": 6839,
+          "end": 7201,
+          "start_line": 179,
+          "end_line": 186,
+          "quote": "idoneus exorna\nre latam sermonem materiã. Veret lingua palato iam ari\nda. spiritus premiũ ficca precordia. tremet intunctus iten\nrum calamuis. in folo viger pectore defiderii et amoris scri\nptoris. Cum ergo defecerim nemo materiã sed verba no\nuerit defuisse loquendi. faciam tamen christo iuuare qò\npotero. cù sola charitas nri fit caufa laboris. que omnia\nposse",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 9
+          }
+        }
+      },
+      "lexical_candidates": [
+        "lex-974967eeb8aca7f4",
+        "lex-fe9c782759ac0781"
+      ]
+    },
+    {
+      "id": "scribes-004",
+      "rank": 4,
+      "priority": "P1",
+      "disposition": "queue",
+      "category": "modality",
+      "title": "Do not leave the monastery, or no need to leave?",
+      "difference": "The earlier reading discourages or prohibits leaving; T4B denies that departure is necessary.",
+      "impact": "This changes the strength and scope of the instruction to monks seeking education.",
+      "latin_assessment": "Both OCRs retain Nec oporet/oportet followed by a clause about leaving for study. The succeeding claim about learning at home supports, but does not conclusively establish, the T4B interpretation.",
+      "next_action": "Adjudicate the modality in its full paragraph and preserve any distinction between prohibition and lack of necessity.",
+      "tentative_preference": "t4b",
+      "review_status": "ai_triaged_pending_human_review",
+      "facsimile_verified": false,
+      "english": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb",
+          "start": 79065,
+          "end": 79125,
+          "start_line": 199,
+          "end_line": 199,
+          "quote": "Nor ought you to abandon the monastery for the sake of study",
+          "source_marker": null,
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0020-0001",
+          "reader_precision": "passage"
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a",
+          "start": 80904,
+          "end": 80976,
+          "start_line": 417,
+          "end_line": 417,
+          "quote": "Nor is it necessary for you to leave the monastery for the sake of study",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 41
+          },
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html#reading-text",
+          "reader_precision": "work"
+        }
+      },
+      "latin": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "d88e121dad499375170f6b1e7b2bd2e304a532ffdfef53fb159e0b7cbdd24900",
+          "start": 69401,
+          "end": 69755,
+          "start_line": 901,
+          "end_line": 901,
+          "quote": "scripturā: qꝛ monachus qđ sacras scripturas vult vtiliter discere: a correctione mo rum debet inchoare. Nec oporet vos ꝓpter studium monasterii deserere: quia vnde ꝓficiatis domipotestis inuenerit. Multos em̄ doctissimos monachos olim in ordine ne nostro claruisse cognouimus: quos tantum in cenobijs studuisse scimus.Beda presbiter et monachus vndecūque",
+          "source_marker": {
+            "kind": "segment",
+            "number": 20
+          }
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "e18c6539a1ebb8a8ce83630b6e8f97aa46a6fa955726546ca29aa2468228edd8",
+          "start": 67987,
+          "end": 68358,
+          "start_line": 1335,
+          "end_line": 1342,
+          "quote": "scripturarum: q; monachus\nq; sacras scripturas vult vtiliter discere: a correctione mo-\nrum debet inchoare. Nec oportet vos ipser studii mon\nnafterii deserere: quia vnde pfielatis domi potestis inue-\nnire. Multos em doctissimos monachos olim in ordi-\nne nostro claruisse cognouimus: quos tantu in cenobijis\nstuduisse sumus. Beda presbiter et monachus vndecimq;\npertissim?",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 41
+          }
+        }
+      },
+      "lexical_candidates": [
+        "lex-e491d6bfbf729a6d",
+        "lex-12d270f1480b1061"
+      ]
+    },
+    {
+      "id": "scribes-005",
+      "rank": 5,
+      "priority": "P1",
+      "disposition": "queue",
+      "category": "source_ambiguity",
+      "title": "Purifying a people or an inward storehouse?",
+      "difference": "The earlier text refers to a race or people with an unresolved noun; T4B supplies an inward metaphor.",
+      "impact": "The instruction changes from a collective/ethnic referent to personal spiritual preparation.",
+      "latin_assessment": "The OCRs disagree and are visibly damaged: Gentis ... horrem versus Dentes ... bozeti. The fluent T4B wording is not independently established by these excerpts.",
+      "next_action": "Read the facsimile before choosing any noun or supplying a metaphor. Preserve the unresolved source condition until then.",
+      "tentative_preference": "none",
+      "review_status": "ai_triaged_pending_human_review",
+      "facsimile_verified": false,
+      "english": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb",
+          "start": 78640,
+          "end": 78672,
+          "start_line": 199,
+          "end_line": 199,
+          "quote": "Purge the [unclear] of your race",
+          "source_marker": null,
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0020-0001",
+          "reader_precision": "passage"
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a",
+          "start": 80473,
+          "end": 80503,
+          "start_line": 417,
+          "end_line": 417,
+          "quote": "Cleanse the barn of your heart",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 41
+          },
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html#reading-text",
+          "reader_precision": "work"
+        }
+      },
+      "latin": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "d88e121dad499375170f6b1e7b2bd2e304a532ffdfef53fb159e0b7cbdd24900",
+          "start": 69077,
+          "end": 69433,
+          "start_line": 901,
+          "end_line": 901,
+          "quote": "Nemo in excusationē sui dicat.non queo sine docente proficere: cū preceptores semꝑ positis inuenire. Gentis vestre purgate horrem: et deus triticū faciet inferri scripturarū. Spiritus em̄ sanctus discipline effugiet fictū: nec habitabit in corpore subdito peccatis. Mūdana est ergo domus conscientie.ut digna fiat habitatio scripturā: qꝛ monachus qđ sacras",
+          "source_marker": {
+            "kind": "segment",
+            "number": 20
+          }
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "e18c6539a1ebb8a8ce83630b6e8f97aa46a6fa955726546ca29aa2468228edd8",
+          "start": 67657,
+          "end": 68015,
+          "start_line": 1329,
+          "end_line": 1336,
+          "quote": "exca-\nfatione sui dicat. non quoq; fine docente proficere: cū pre-\nceptores semp postitis inuenire. Dentes vestre purgate\nbozeti: et deus tritici faciet inferri scripturarum. Spiritu\ntus em sanctus discipline effugiet fictu: nec habitabit in\ncorpore subdito peccatis. Duidana est ergo domus con-\nscientie: ut digna fiat habitatio scripturarum: q; monachus\nq;",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 41
+          }
+        }
+      },
+      "lexical_candidates": [
+        "lex-501b4fa0ddb50fad",
+        "lex-1e01a44a5cf243d8",
+        "lex-8c65298a0c71ed65"
+      ]
+    },
+    {
+      "id": "scribes-006",
+      "rank": 6,
+      "priority": "P1",
+      "disposition": "queue",
+      "category": "beneficiary",
+      "title": "Who receives the abbot's additional provision?",
+      "difference": "The earlier text contrasts diligent scribes with other brothers; T4B gives the relative clause a different and unclear beneficiary structure.",
+      "impact": "This affects who the abbot is instructed to support and why.",
+      "latin_assessment": "The OCRs preserve eis and ceteris but differ in the damaged verb and relative clause. The earlier English retains a clearer contrast; fluency alone is insufficient evidence to accept it.",
+      "next_action": "Reconstruct clause boundaries and pronoun antecedents from the scan before editing either reading.",
+      "tentative_preference": "none",
+      "review_status": "ai_triaged_pending_human_review",
+      "facsimile_verified": false,
+      "english": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb",
+          "start": 62294,
+          "end": 62422,
+          "start_line": 159,
+          "end_line": 159,
+          "quote": "let the abbot provide for them in all necessities more abundantly than for the others, who scorn to be such and to be found such",
+          "source_marker": null,
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0016-0004",
+          "reader_precision": "passage"
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a",
+          "start": 63808,
+          "end": 63937,
+          "start_line": 337,
+          "end_line": 337,
+          "quote": "the abbot should provide more abundantly than for the others in all necessities for those whom they disdain to be and to be found",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 33
+          },
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html#reading-text",
+          "reader_precision": "work"
+        }
+      },
+      "latin": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "d88e121dad499375170f6b1e7b2bd2e304a532ffdfef53fb159e0b7cbdd24900",
+          "start": 55304,
+          "end": 55663,
+          "start_line": 750,
+          "end_line": 752,
+          "quote": "ꝺeuoti fratres ꝓpter obedientiā et amorē scripturaꝝ semetippos negligūt abbas in om̄ibus eis necessarijs abundātius qͣꝫ ceteris pui ꝺeat qui tales esse et inueniri contemnūt Hoc enim fa¬ ciens et bonos in studio sancto consernabit et alios ad imitationē eoꝝ prouocabit Semitas tamen huius opi nionis pretextu nō transgrediatur.\n[segment 17]\nAn sit cōmendabile",
+          "source_marker": {
+            "kind": "segment",
+            "number": 16
+          }
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "e18c6539a1ebb8a8ce83630b6e8f97aa46a6fa955726546ca29aa2468228edd8",
+          "start": 53407,
+          "end": 53757,
+          "start_line": 1106,
+          "end_line": 1116,
+          "quote": "fratres ppter\nobedientiã et amozẽ ſcripturas ſemetipos negligũt: ab/\nbas in omnibus eis necessarijs abundãtus q̃ ceteris pri\nbeat: qui tales eſſe et inueniri contemnit. Hoc enim fa/\nciens et bonos in studio sancto conſernabit: et alios ad\nimitatione eoz promocabit: Semitas tamen huius opi\nnionis preceptu no tranſgrediarur.\n\n--- Page 034 ---\n\nAn sit",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 33
+          }
+        }
+      },
+      "lexical_candidates": [
+        "lex-0e7b0bb996c8b573",
+        "lex-b41baf0587bec693",
+        "lex-52ffdaf530b74ab1",
+        "lex-1e636eb1baf84290",
+        "lex-a1ad89a1a6a9861d",
+        "lex-93310f526ce26276"
+      ]
+    },
+    {
+      "id": "scribes-007",
+      "rank": 7,
+      "priority": "P2",
+      "disposition": "queue",
+      "category": "omission_recovery",
+      "title": "Aristotle's purchase: a named seller and two quantities",
+      "difference": "The earlier passage has two uncertainty markers; T4B supplies Speusippus, three talents, and seventy-two thousand coins.",
+      "impact": "The fuller version adds a named person, a purchase, and exact quantities absent from the earlier English.",
+      "latin_assessment": "T4B OCR contains a damaged Speusi. pi, tribus, and a broken numeral phrase. The earlier OCR omits the corresponding span. This is a plausible OCR-backed recovery, not evidence that T4B invented the details.",
+      "next_action": "Check the name, monetary unit, and numeral against the scan. If accepted, record a recovery with its source provenance.",
+      "tentative_preference": "none",
+      "review_status": "ai_triaged_pending_human_review",
+      "facsimile_verified": false,
+      "english": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb",
+          "start": 17287,
+          "end": 17401,
+          "start_line": 65,
+          "end_line": 65,
+          "quote": "Aristotle too, of no lesser renown among the philosophers, [unclear]; [unclear] of books, whose number is immense.",
+          "source_marker": null,
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0005-0001",
+          "reader_precision": "passage"
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a",
+          "start": 17656,
+          "end": 17843,
+          "start_line": 135,
+          "end_line": 135,
+          "quote": "Aristotle too, of no less glory among the philosophers, purchased a few books of Speusippus the philosopher after his death for three Attic talents, which make seventy-two thousand coins.",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 13
+          },
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html#reading-text",
+          "reader_precision": "work"
+        }
+      },
+      "latin": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "d88e121dad499375170f6b1e7b2bd2e304a532ffdfef53fb159e0b7cbdd24900",
+          "start": 14581,
+          "end": 14974,
+          "start_line": 299,
+          "end_line": 299,
+          "quote": "amorē ad libros. ut Philolai pythagorici tres li bros decem milibus denarijs mercatus sit Aristotelos etiā non minoris glorie apud philosophos. paucos li broꝝ quoꝝ ingens est numerus: ad nostros trāseamus Ambrosius discipulus et amicus magni Origenis credibili studio feruens ad libros. origenem quotidie ad scribendū hortabatur immo impellbat ita ut cum com pulsorem operis in quadam epistola",
+          "source_marker": {
+            "kind": "segment",
+            "number": 5
+          }
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "e18c6539a1ebb8a8ce83630b6e8f97aa46a6fa955726546ca29aa2468228edd8",
+          "start": 14628,
+          "end": 15062,
+          "start_line": 340,
+          "end_line": 348,
+          "quote": "libros. ut Philolat pythagorici tres li\nbros decem milibus denarijs mercatus fit. Aristoteles\netià non minozis glorie apud philosophos . paucos li\nbros Speusi. pi philosophi poft eius mortem. talentis\nactis tribus comparauit : que faciùt nummos fepuag\ninta duo milia. Sed omiffis gentilibus amatoribus li\nbros quoz ingenis eft numerus : ad noftros træcamus.\nAmbrofius diacipulus et amicus magni Oigenis. in\ncredibili studio feruens ad",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 13
+          }
+        }
+      },
+      "lexical_candidates": [
+        "lex-db125522b8a4dc82",
+        "lex-c0fc5f758c1baa79",
+        "lex-66d5800a86d5b9d1"
+      ]
+    },
+    {
+      "id": "scribes-008",
+      "rank": 8,
+      "priority": "P2",
+      "disposition": "queue",
+      "category": "omission_recovery",
+      "title": "The rule of God and the Church disappears into a gap",
+      "difference": "T4B spells out the rule of God and the Church and connects idle living to living badly; the earlier text compresses this into damaged, incomplete prose.",
+      "impact": "The missing material contains the reasoning behind the injunction to work.",
+      "latin_assessment": "The T4B OCR retains the rule of God and the Church and the intervening argument. The earlier OCR jumps from the rule to the end of life, making source loss a plausible cause.",
+      "next_action": "Collate the missing lines against the same printed page and verify that a restoration would not duplicate adjacent text.",
+      "tentative_preference": "none",
+      "review_status": "ai_triaged_pending_human_review",
+      "facsimile_verified": false,
+      "english": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb",
+          "start": 24871,
+          "end": 25049,
+          "start_line": 79,
+          "end_line": 79,
+          "quote": "We all ought, however, [unclear] according to the rule of life; the end of the worst condition is the beginning [unclear], unless repentance is undertaken before the end of life.",
+          "source_marker": null,
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0007-0005",
+          "reader_precision": "passage"
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a",
+          "start": 25394,
+          "end": 25729,
+          "start_line": 162,
+          "end_line": 162,
+          "quote": "And we all ought to live according to the rule of the precepts of God and of the Catholic Church. Therefore whoever lives idly does not live according to the tradition of the Church, and for that reason lives badly. But the end of a bad life is the beginning of a very wretched state, unless repentance is undertaken before life’s end.",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 17
+          },
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html#reading-text",
+          "reader_precision": "work"
+        }
+      },
+      "latin": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "d88e121dad499375170f6b1e7b2bd2e304a532ffdfef53fb159e0b7cbdd24900",
+          "start": 21047,
+          "end": 21522,
+          "start_line": 377,
+          "end_line": 377,
+          "quote": "Male autē viuit: qͥ aliter qͣꝫ debet viuit Debemus autē om̄es ad regulā vite terminus pessimi sta tus iniciū est: nisi ante finem vite penitentia assumatur Item si veri monachi sint qͥ de laboribus manuū suarū uiuūt: sequitur vt veri monachi nō sint. qͥ ociose viuentes laborare contemnūt Qui autem in cenobio verus monachus nō est: qͥd obsecro est: Nō est. qui verus nō est Prorsus monachus nō estest. qͥ verus nō estet veritati cōtrariū est: nō estut esse debet Qđ autē non",
+          "source_marker": {
+            "kind": "segment",
+            "number": 7
+          }
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "e18c6539a1ebb8a8ce83630b6e8f97aa46a6fa955726546ca29aa2468228edd8",
+          "start": 21690,
+          "end": 22266,
+          "start_line": 486,
+          "end_line": 496,
+          "quote": "autem viuit: q aliter q de bevri viuit: Debenus autem\nomnes ad regulã viuere pceptoz dei et eccleſie catholice/\nQui ergo viuit ocioſe.non viuit ad traditione eccleſie: et\nidcirco male viuit. Vale autem vite terminus peſsimi ita/\ntus incidit eſt: nifi ante finem vite penitentia aſſumatur/\nItem ſi veri monachi sunt q de laboribus manuũ fuarũ\nviuit: ſequitur vt veri monachi no ſint. q ocioſe viuentes\nlaborare contemnũt. Qui autem in cenobio verus mon\nnachus no eſt: qd obiecto eſt : No eſt. qui verus no eſt.\nProſus monachus no eſt.q verus no eſt: quia omegq\nveritati cotrarũ",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 17
+          }
+        }
+      },
+      "lexical_candidates": [
+        "lex-1272519aadfcdd44",
+        "lex-fff32af3468a6e3e",
+        "lex-36ec8ec2663ede9c",
+        "lex-c51238cb4ce3a3e0",
+        "lex-8cdc902ac79c6b01",
+        "lex-e15ab8c2774995e8",
+        "lex-64052ba5acfb2c22"
+      ]
+    },
+    {
+      "id": "scribes-009",
+      "rank": 9,
+      "priority": "P2",
+      "disposition": "queue",
+      "category": "omission_recovery",
+      "title": "The apostolic warning motivating work is absent",
+      "difference": "The earlier translation moves directly from the duty to work to the suitability of writing; T4B includes the reason involving the apostle and monastic profession.",
+      "impact": "This omits a substantive justification without an uncertainty marker at that exact point.",
+      "latin_assessment": "T4B OCR contains the apostolic warning. The earlier OCR moves directly onward, so source omission appears relevant.",
+      "next_action": "Check the omitted lines and preceding argument on the scan before proposing a documented insertion.",
+      "tentative_preference": "none",
+      "review_status": "ai_triaged_pending_human_review",
+      "facsimile_verified": false,
+      "english": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb",
+          "start": 25572,
+          "end": 25696,
+          "start_line": 83,
+          "end_line": 83,
+          "quote": "And so we must work; what better suits us, is more expedient, and comes closer to our profession than the office of writing?",
+          "source_marker": null,
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0007-0007",
+          "reader_precision": "passage"
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a",
+          "start": 26241,
+          "end": 26400,
+          "start_line": 166,
+          "end_line": 166,
+          "quote": "We must work, then, brothers, lest we offend the apostle by eating idly, and lest we cease to be what we entered the cloisters of the monastery in order to be.",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 17
+          },
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html#reading-text",
+          "reader_precision": "work"
+        }
+      },
+      "latin": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "d88e121dad499375170f6b1e7b2bd2e304a532ffdfef53fb159e0b7cbdd24900",
+          "start": 21572,
+          "end": 21941,
+          "start_line": 377,
+          "end_line": 377,
+          "quote": "om̄ibus rebus debitū ordinē essendi cōstituit Et ergo veraciter nō est Laborandū itaqꝫ nobis est: qͥ magis nos deceat. magis expediat nostreqꝫ ꝓfessioni plus appropinquet et qͣꝫ officiū scribendi Nam diuinis mancipati officijs fodere nō valemus duros grauesqꝫ agrorum labores ferre non possumus quia si foris in operibus rusticis p̄ diem nos fatigari cōtingeret: diuinū",
+          "source_marker": {
+            "kind": "segment",
+            "number": 7
+          }
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "e18c6539a1ebb8a8ce83630b6e8f97aa46a6fa955726546ca29aa2468228edd8",
+          "start": 22365,
+          "end": 22814,
+          "start_line": 497,
+          "end_line": 506,
+          "quote": "re/\nbus debitu ordine eſſendi coſtituit. Et ergo veraciter no\neſt. Laborandũ itaq nobis eſt fratres : ne offendamus\napostoli ocioſe manducantes : ne deſinamus eſſe.qd ut\neſſemus. monaſterij clauſtra ſubinimus. Nullus autem in\ncenobij3 labor eſt: q magis nos deceat.magis expedit.\nnoſtreg3 pſeſſioni plus a propinquet: q3 officiũ ſcriben/\ndi. Nam diuiſiõe mancipari officijs. fodere no valentus:\nvuros graueſq agrozum labores ferre non poſſumus:\nquia",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 17
+          }
+        }
+      },
+      "lexical_candidates": [
+        "lex-54efa429b5bb9ebe",
+        "lex-7a0dc046c9bd4c29",
+        "lex-9ad81d1191995b1f",
+        "lex-6526404a0c637709",
+        "lex-9cfd25fcceed43e6"
+      ]
+    },
+    {
+      "id": "scribes-010",
+      "rank": 10,
+      "priority": "P2",
+      "disposition": "queue",
+      "category": "omission_recovery",
+      "title": "Borrowed books: a missing reciprocity rule",
+      "difference": "T4B includes reciprocity, gratitude, and brothers receiving books according to the Rule. The earlier text collapses these into receiving a rule for study.",
+      "impact": "This loses an ethical instruction and changes the reference to the monastic Rule.",
+      "latin_assessment": "T4B OCR preserves faciat alijs ... sibi vult fieri and a separate Fratres clause. The earlier OCR jumps at the corresponding point.",
+      "next_action": "Verify the omitted lines and the meaning of secundum regulam before restoring the passage.",
+      "tentative_preference": "none",
+      "review_status": "ai_triaged_pending_human_review",
+      "facsimile_verified": false,
+      "english": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb",
+          "start": 70602,
+          "end": 70726,
+          "start_line": 181,
+          "end_line": 181,
+          "quote": "but, according to the sentence, while they receive a rule for their studies, let them take care not to stain or destroy them",
+          "source_marker": null,
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0018-0004",
+          "reader_precision": "passage"
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a",
+          "start": 72125,
+          "end": 72378,
+          "start_line": 381,
+          "end_line": 381,
+          "quote": "but, according to the saying, should do to others what he wants done to himself, and not be ungrateful to kindness. Let the brothers also who, according to the Rule, receive books from the library for their studies take care not to stain or destroy them",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 37
+          },
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html#reading-text",
+          "reader_precision": "work"
+        }
+      },
+      "latin": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "d88e121dad499375170f6b1e7b2bd2e304a532ffdfef53fb159e0b7cbdd24900",
+          "start": 62278,
+          "end": 62732,
+          "start_line": 826,
+          "end_line": 826,
+          "quote": "cuniqꝫ autē libros ad rescribendū sub fide recipit.caueat diligenter ne illos aut fedet aut laceret:sed iuxta sententiam dum regulā pro studijs accipiunt.caueant ne illos maculent vel destruant: sed cum deuocōne et puritate legentes inimaculatos custodiant/Si quis autem codices negligenter et sordide tractauerit: ut sacrilegus et dissipator rerū monasterij puniatur: ita ut eius emendatio ceteris fiat in exemplū / Sed quid multis sup̄ librorū custodia",
+          "source_marker": {
+            "kind": "segment",
+            "number": 18
+          }
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "e18c6539a1ebb8a8ce83630b6e8f97aa46a6fa955726546ca29aa2468228edd8",
+          "start": 60444,
+          "end": 60932,
+          "start_line": 1219,
+          "end_line": 1227,
+          "quote": "autẽ libros ad reſcribendũ sub fide recipit, caueat\ndiligenter ne illos aut feder aut laceret: sed iuxta ſenten\ntiam oñi faciat alijs qõ ſibi vult fieri: et beniuolente no\nfit ingratus. Fratres etiã qui libros de bibliotheca ſecũ\ndum regulã pro studios acapiũt, caueant ne illos macu\nlent vel deſtruant: ſed cum deuocõne z puritate legentes\ninmaculatos cuſtodiant. Si quis autem codices negli\ngenter et forside tractauerit: ut facrilegus et diſipator\nrerũ monasterij puniatur: ita ut eius",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 37
+          }
+        }
+      },
+      "lexical_candidates": [
+        "lex-8bd3c24fb5cd7c1a",
+        "lex-5c50f6d6cb0ddda4",
+        "lex-c243a9f09320306f"
+      ]
+    },
+    {
+      "id": "scribes-011",
+      "rank": 11,
+      "priority": "P2",
+      "disposition": "queue",
+      "category": "omission_recovery",
+      "title": "The preacher's dependence on written material",
+      "difference": "The earlier text marks a gap; T4B supplies a rhetorical question about preaching without written material.",
+      "impact": "The added clause strengthens the argument for the value of scribes.",
+      "latin_assessment": "Check the OCR excerpts for the corresponding question and its page boundary. A fuller English clause remains a recovery candidate, not an accepted emendation.",
+      "next_action": "Compare the whole sentence and its transition into the four benefits of writing before accepting the fuller English.",
+      "tentative_preference": "none",
+      "review_status": "ai_triaged_pending_human_review",
+      "facsimile_verified": false,
+      "english": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb",
+          "start": 31843,
+          "end": 31936,
+          "start_line": 87,
+          "end_line": 87,
+          "quote": "Therefore, from the piety of the scribe the sermon of the preacher is made useful; [unclear].",
+          "source_marker": null,
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0009-0001",
+          "reader_precision": "passage"
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a",
+          "start": 32753,
+          "end": 32922,
+          "start_line": 191,
+          "end_line": 191,
+          "quote": "Therefore, from the piety of the copyist the useful sermon of the preacher is made; and what, I ask, would the preacher preach, if he did not have what had been written?",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 20
+          },
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html#reading-text",
+          "reader_precision": "work"
+        }
+      },
+      "latin": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "d88e121dad499375170f6b1e7b2bd2e304a532ffdfef53fb159e0b7cbdd24900",
+          "start": 26300,
+          "end": 27150,
+          "start_line": 451,
+          "end_line": 451,
+          "quote": "maior est scriptoris pietas officio predicantis: quiaillius cū tempore perit monitio: istius ꝑfeuerat in annosmultos annūciatioꝛ Predicator loquitur dūtaxat p̄senti bus: scriptoꝛ p̄dicat etiā futuris Illius sermo semel au ditus.cito in nichilū redigitur:istius lectio millesies repetita nunquā minuitur.Cū p̄dicator deficit cessat officiū:scriptoꝛ etiā mortuus in volumine moribus facit institutum Parū valet officiū p̄dicantis: si scriptoris mīsteriosonon iuuetur Quid em̄ p̄dicabit: si scriptoꝛ qd̓ legat nonscripserit? Ex pietate igitur scriptoris:vtilis efficitur sermō p̄dicabit: si scribeset nonhaberet Quattuoꝛ aūt vtilitates p̄cipuas monachus infriscibendo deuotus cōfequitur Tempus qd̓ p̄ciosissimūest fructuose expenditur:euis intellectus dū scribit illuminatur: ad deuotionē interior affectus accenditur: et posthāc vitā singulari mercede ",
+          "source_marker": {
+            "kind": "segment",
+            "number": 9
+          }
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "e18c6539a1ebb8a8ce83630b6e8f97aa46a6fa955726546ca29aa2468228edd8",
+          "start": 27400,
+          "end": 28200,
+          "start_line": 600,
+          "end_line": 614,
+          "quote": "stius pſeuerat in annos\nmultos amudicato: Predicato: loquitur diu: at pſentis\nbus: scripto: pdicat etia futuris: Illius sermo semel au-\nditus, cito in nichili redigitur: istius lectio millefces repe-\nrita nunqua minuitur. Tu pdicato: deficit ceflat officii:\nscripto: etia mortuus in volumine mortuus facit institu-\ntum. Paru valer officii pdicantis: si scriptoris misterio\nnon inuener. Quid em pdicabit: si scripto: qo legat non\nſcripserit? Et pietate igitur scriptoris: vtile efficatur ser-\nmo pdicantis: Vni em ille scriberet: ifte qo pdicaret non\nhaberet. Quatuor aut valitate picipuas monachus in\nſcribendo deuotus coſequitur. Tempus qo pciolissimũ\nest fructuose expenditur: eius intellectus dii scribit illumi\nnatur: ad deuotione interio: affectus accenditur: et poſt\nhac vita ſingulari mercede ",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 20
+          }
+        }
+      },
+      "lexical_candidates": [
+        "lex-dba1b9d0d6d14819",
+        "lex-5066bdbc64b563d6",
+        "lex-79bdb71950adbb2f"
+      ]
+    },
+    {
+      "id": "scribes-012",
+      "rank": 12,
+      "priority": "P2",
+      "disposition": "queue",
+      "category": "omission_recovery",
+      "title": "The fate of people remembered only for their offices",
+      "difference": "T4B supplies the disappearance from memory of those who glory in offices; the earlier text leaves the conclusion unresolved.",
+      "impact": "This supplies the contrast supporting the claim that writing preserves a monk's memory.",
+      "latin_assessment": "The T4B OCR also contains intervening material about writing preserving memory and people who neglect writing. Neither quoted English passage fully represents that material. Repairing only the final gap would leave a larger omission unresolved.",
+      "next_action": "Collate the whole paragraph against the image, including the intervening lines; distinguish recovery from paraphrase and do not assume either English track is complete.",
+      "tentative_preference": "none",
+      "review_status": "ai_triaged_pending_human_review",
+      "facsimile_verified": false,
+      "english": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb",
+          "start": 71956,
+          "end": 72061,
+          "start_line": 187,
+          "end_line": 187,
+          "quote": "Let individuals do what they will; let them glory in an office [unclear]; they quickly come to [unclear];",
+          "source_marker": null,
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0019-0003",
+          "reader_precision": "passage"
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a",
+          "start": 73630,
+          "end": 73764,
+          "start_line": 391,
+          "end_line": 391,
+          "quote": "Let individuals do what they will; let them glory in offices: they quickly come to a time when they seem as if they had never existed.",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 38
+          },
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html#reading-text",
+          "reader_precision": "work"
+        }
+      },
+      "latin": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "d88e121dad499375170f6b1e7b2bd2e304a532ffdfef53fb159e0b7cbdd24900",
+          "start": 63039,
+          "end": 64125,
+          "start_line": 826,
+          "end_line": 851,
+          "quote": "accedamus.\nB\n103\n[segment 19]\nExhortatio ad studiū et amo-\nrem scripturarum.\nCap̄.xvj.\nIAm nũc igitur charissimi fratres.cohortatio\nnem nostrã cum beniuolentia suscipite: et ad\nscribendos libros sacre doctrine vos sedulo\np̃parate. Ex his em̃ que in cõmendationem\nscriptoꝝ exposuimus aduertitis: quid de tali officio sen¬\ntire debeatis. Nolite ergo tantũ bonũ negligere: nolite\na scribendi studio cessare. Scriptura enim est que vos\nquodāmodo reddit immortales: et etiã post mortem su¬\nperstites. Agant singuli qđ volunt: glorientur in officio\nnon fuissent. cito deueniũt: vestra autẽ memoria ex libris\nquos scribitis. cũ gloria transibit ad posteros. Nec dici¬\nmus ꝙ hac intencōne debeatis scribere: cũ id preter iu¬\ntentionē possit euenire. Absit procul a sancto opere tam\nstulta cupiditas: ut famã pro laboris premio cõcupiscat\ninanem. Si autẽ noĩa vr̃a codicibus a vobis scriptis vo\nlueritis imprimere: ea intencōne faciendum est. vt uelad\nsuffragiũ posteros vel ad imitatione intendatis, puocare\nTali em̄ intuitu. codicibꝫ vr̃is nominũ titulos secure et\nlicite potestis subscribere.",
+          "source_marker": {
+            "kind": "segment",
+            "number": 18
+          }
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "e18c6539a1ebb8a8ce83630b6e8f97aa46a6fa955726546ca29aa2468228edd8",
+          "start": 61314,
+          "end": 62560,
+          "start_line": 1234,
+          "end_line": 1240,
+          "quote": "cõborationem\naccedamus.\n\n--- Page 038 ---\n\nExhortatio ad studiũ et amorem scripturarum. Cap. vij.\nAm nũc igitur charissimi fratres, cohortatio nem nostrã cum beniuolentia suscipite: et ad scribendos libros sacre doctrinæ vos sedulo pparate. Et his eſt que in cõmendationem scriptorũ expositiuus aduertas: quid de tali officio sen/tire debeatis. Nolite ergo tantũ bonũ negligere: nolite a scribendũ studio ceflare. Scriptura enim eſt que vos quodãmodo reddit immortalcs: et etiã poſt mortem ſu/peritres. Agant ſinguli qd volunt: gloriẽtur in officio quod didicerũt: ſola scriptura eſt que vos etã defunctorũ memoria cõſeruabit. Libri eſt ſanci, quali renouatos res memorie auctoũ ſuoq; ſunt. Qui autẽ scribere negli/gunt. mox ut mortui fuerint in oblivione omniũ tanquã non ſuiſſent. cito deueniũt: eſtra autẽ memoria et libris quos ſcribitis. cii gloria tranſibit ad poſteros. Hec dics/mus q pac intencionẽ debeatis ſcribere: cii id preter in o/tentionẽ poſſit euenire. Libit procul a ſancto opere tam ſtulta cupiditas: ut famã pro laboris premio cõcupiſcat inanem. Si autẽ noia vſa codicibus a vobis ſcriptis vo/lueritis imprimere: ea intencionẽ faciendum eſt. vt uel ad ſuffragiũ poſteros vel ad imitationẽ intendatis, puocare Tali eſt intuitu.",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 37
+          }
+        }
+      },
+      "lexical_candidates": [
+        "lex-39e39c98e9cb95d5",
+        "lex-a147e96fff800eb9"
+      ]
+    },
+    {
+      "id": "scribes-013",
+      "rank": 13,
+      "priority": "P2",
+      "disposition": "queue",
+      "category": "negation_scope",
+      "title": "Is the advice futile or not given in vain?",
+      "difference": "The earlier wording attaches inability to persuading in vain; T4B makes the exhortation futile because its hearers cannot be persuaded.",
+      "impact": "This changes how the author characterizes the effectiveness of his advice.",
+      "latin_assessment": "The OCR witnesses differ around the relative construction and verb. Both English versions are awkward; neither is settled.",
+      "next_action": "Transcribe and parse the full relative clause from the scan, then decide the scope of the negative and frustra.",
+      "tentative_preference": "none",
+      "review_status": "ai_triaged_pending_human_review",
+      "facsimile_verified": false,
+      "english": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb",
+          "start": 71153,
+          "end": 71205,
+          "start_line": 181,
+          "end_line": 181,
+          "quote": "and we cannot persuade the unskilled of this in vain",
+          "source_marker": null,
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0018-0004",
+          "reader_precision": "passage"
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a",
+          "start": 72803,
+          "end": 72868,
+          "start_line": 383,
+          "end_line": 383,
+          "quote": "what is urged in vain upon the unskilled, whom we cannot persuade",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 37
+          },
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html#reading-text",
+          "reader_precision": "work"
+        }
+      },
+      "latin": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "d88e121dad499375170f6b1e7b2bd2e304a532ffdfef53fb159e0b7cbdd24900",
+          "start": 62733,
+          "end": 63101,
+          "start_line": 826,
+          "end_line": 831,
+          "quote": "immorauitur sermonibus? Qui illos diligunt sine dubio colunt et seruant.etiā nobis tacentibus:quod imperitis frustra suadere non possimus.Stulti em̄ studia contemnūt peritoꝝ: et volumina non diligūt.nisi suis vanitatibus conformia/His igitur omīssis ad nostrorū qui libros et amant et legunt.cohortationem accedamus.\nB\n103\n[segment 19]\nExhortatio ad studiū et amo-\nrem",
+          "source_marker": {
+            "kind": "segment",
+            "number": 18
+          }
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "e18c6539a1ebb8a8ce83630b6e8f97aa46a6fa955726546ca29aa2468228edd8",
+          "start": 60996,
+          "end": 61370,
+          "start_line": 1228,
+          "end_line": 1239,
+          "quote": "cuſtodia\nimmorantur ſermonibus? Qui illos diligentis studio\ncolunt et ſeruant, etiã nobis racentibus: quod imperitis\nfruſtra ſuadentus, qua pluadere non poſſumus. Stulti\nem ſtudia contemnũt perroz: et volumina non diligũt.\nnifi fine vanitatibus conſormia. His igitur omniſis ad\nnoſtrozũ qui libros et amant et legunt: cõborationem\naccedamus.\n\n--- Page 038 ---\n\nExhortatio ad",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 37
+          }
+        }
+      },
+      "lexical_candidates": [
+        "lex-24baa5b949b6d8fe",
+        "lex-abf660013ecbe8ea"
+      ]
+    },
+    {
+      "id": "scribes-014",
+      "rank": 14,
+      "priority": "P3",
+      "disposition": "queue",
+      "category": "rhetorical_scope",
+      "title": "Lack of subject matter versus lack of words",
+      "difference": "The earlier know construction is awkward beside the T4B think construction.",
+      "impact": "The sentence may obscure the contrast, but the surrounding English can still convey the same point. This ranks below clear reversals.",
+      "latin_assessment": "Both OCRs retain nemo materiam sed verba and a form of noverit defuisse. The contrast is visible even though its idiomatic rendering needs review.",
+      "next_action": "Review the complete construction for clarity and fidelity; do not count this automatically as a proven reversal.",
+      "tentative_preference": "none",
+      "review_status": "ai_triaged_pending_human_review",
+      "facsimile_verified": false,
+      "english": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb",
+          "start": 8045,
+          "end": 8162,
+          "start_line": 43,
+          "end_line": 43,
+          "quote": "Therefore, when I have failed, let no one know that the subject-matter was lacking, but rather words for the speaker.",
+          "source_marker": null,
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0003-0001",
+          "reader_precision": "passage"
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a",
+          "start": 8339,
+          "end": 8460,
+          "start_line": 93,
+          "end_line": 93,
+          "quote": "Therefore, when I fail, let no one think that the subject matter was lacking, but that words were lacking to the speaker.",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 9
+          },
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html#reading-text",
+          "reader_precision": "work"
+        }
+      },
+      "latin": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "d88e121dad499375170f6b1e7b2bd2e304a532ffdfef53fb159e0b7cbdd24900",
+          "start": 6940,
+          "end": 7308,
+          "start_line": 202,
+          "end_line": 211,
+          "quote": "sicca precordia. tremet intuitus ihe-\nrum calamus. in solo vigẽt pectore desideriũ et amor scri\nptoris: Cum ergo defecerim nemo materiã sed verba no\nuerit defuisse loquenti. Faciam tamen christo iuuāte qđ\npotero. cũ sola charitas nr̃i sit causa laboris. que omnia\nposse rite predicatur.\nCõmendatio utilitatis sacre\nscripture.\nCap̃ .ij.\nErum anteqͣꝫ laudes et vtilitatē",
+          "source_marker": {
+            "kind": "segment",
+            "number": 3
+          }
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "e18c6539a1ebb8a8ce83630b6e8f97aa46a6fa955726546ca29aa2468228edd8",
+          "start": 6935,
+          "end": 7298,
+          "start_line": 181,
+          "end_line": 191,
+          "quote": "precordia. tremet intunctus iten\nrum calamuis. in folo viger pectore defiderii et amoris scri\nptoris. Cum ergo defecerim nemo materiã sed verba no\nuerit defuisse loquendi. faciam tamen christo iuuare qò\npotero. cù sola charitas nri fit caufa laboris. que omnia\nposse rire predicatur.\n\nCõmendatio utilitatis sacre\nscripturæ.\nCap.ij.\nErum anteq; laudes et vtilitate",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 9
+          }
+        }
+      },
+      "lexical_candidates": [
+        "lex-73ff4ab6eb2c026d",
+        "lex-1333079547a8356c",
+        "lex-1a0a808559798a2c",
+        "lex-f894b4be0c502d13"
+      ]
+    },
+    {
+      "id": "scribes-015",
+      "rank": 15,
+      "priority": "P3",
+      "disposition": "queue",
+      "category": "paratext_identification",
+      "title": "The final ownership note names different places",
+      "difference": "The translations assign different place names to the final ownership note.",
+      "impact": "This affects provenance of the copy, rather than the treatise's argument.",
+      "latin_assessment": "The OCR readings disagree and neither reliably establishes the expanded place name.",
+      "next_action": "Inspect the ownership inscription separately from the printed colophon; retain an unresolved identification if the scan is inconclusive.",
+      "tentative_preference": "none",
+      "review_status": "ai_triaged_pending_human_review",
+      "facsimile_verified": false,
+      "english": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb",
+          "start": 81801,
+          "end": 81829,
+          "start_line": 209,
+          "end_line": 209,
+          "quote": "Of the monastery of Chiemsee",
+          "source_marker": null,
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0021-0005",
+          "reader_precision": "passage"
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a",
+          "start": 83607,
+          "end": 83633,
+          "start_line": 431,
+          "end_line": 431,
+          "quote": "Of the monastery of Chypre",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 42
+          },
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html#reading-text",
+          "reader_precision": "work"
+        }
+      },
+      "latin": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "d88e121dad499375170f6b1e7b2bd2e304a532ffdfef53fb159e0b7cbdd24900",
+          "start": 71710,
+          "end": 71883,
+          "start_line": 906,
+          "end_line": 910,
+          "quote": "eleganti opusculo fauste imponitur ꝑ Friedbergen̄.impressorem Ma guntinū Anno virginei partus.M.cccc.xciij.\nMonasterij Chypensis.\n\nBIBLIOTECA REGIA\nUNIVERSITATIS MONACENSIS\n",
+          "source_marker": {
+            "kind": "segment",
+            "number": 21
+          }
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/latin-ocr.txt",
+          "sha256": "e18c6539a1ebb8a8ce83630b6e8f97aa46a6fa955726546ca29aa2468228edd8",
+          "start": 70335,
+          "end": 70691,
+          "start_line": 1382,
+          "end_line": 1413,
+          "quote": "fauſte\nimponitur p. Petri Friedbergēi. impreſſozeni Da\nguntinũ Anno virginei partus. D. cccc. xciij.\n\nMonasbergij Anypensis.\n\n--- Page 043 ---\n\nBIBLIOTECA\nREGIA\nMONACENSIS\n\n--- Page 044 ---\n\n[blank page]\n\n--- Page 045 ---\n\nA\n\n--- Page 046 ---\n\n0 5 10 20 30 40 50mm\n2 1\n3 2\n4 3\n5 4\n6 5\n30° BSB Bayerische\nStaatsBibliothek\n© 2007 digitalfoto-trainer.de\n60mm\n",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 42
+          }
+        }
+      },
+      "lexical_candidates": [
+        "lex-17263fc203c8c1e6"
+      ]
+    },
+    {
+      "id": "scribes-101",
+      "rank": 101,
+      "priority": "excluded",
+      "disposition": "excluded",
+      "category": "equivalent_wording",
+      "title": "Unwilling versus do not wish",
+      "difference": "One rendering uses unwilling; the other uses do not wish.",
+      "impact": "Both preserve the same refusal, despite triggering a negation-token difference.",
+      "latin_assessment": "This English-side comparison does not establish opposite propositions.",
+      "next_action": "Exclude from priority triage; reconsider only if a wider source issue is found.",
+      "tentative_preference": "none",
+      "review_status": "ai_triaged_pending_human_review",
+      "facsimile_verified": false,
+      "english": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb",
+          "start": 39818,
+          "end": 39877,
+          "start_line": 107,
+          "end_line": 107,
+          "quote": "are unwilling to apply any diligence at all to the writings",
+          "source_marker": null,
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0011-0001",
+          "reader_precision": "passage"
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a",
+          "start": 40920,
+          "end": 40977,
+          "start_line": 230,
+          "end_line": 230,
+          "quote": "do not wish to apply any diligence at all to the writings",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 24
+          },
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html#reading-text",
+          "reader_precision": "work"
+        }
+      },
+      "latin": {},
+      "lexical_candidates": [
+        "lex-dbccd55f177bfdba"
+      ]
+    },
+    {
+      "id": "scribes-102",
+      "rank": 102,
+      "priority": "excluded",
+      "disposition": "excluded",
+      "category": "equivalent_wording",
+      "title": "The hand of one man versus one person's hand",
+      "difference": "The phrase changes word order and uses person in place of man.",
+      "impact": "The number of scribes remains one; the token difference does not establish a changed quantity.",
+      "latin_assessment": "This is an English-side false-positive control, not a judgment about every nuance of the Latin.",
+      "next_action": "Exclude from semantic-priority triage.",
+      "tentative_preference": "none",
+      "review_status": "ai_triaged_pending_human_review",
+      "facsimile_verified": false,
+      "english": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb",
+          "start": 23176,
+          "end": 23198,
+          "start_line": 75,
+          "end_line": 75,
+          "quote": "by the hand of one man",
+          "source_marker": null,
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0007-0003",
+          "reader_precision": "passage"
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a",
+          "start": 23681,
+          "end": 23701,
+          "start_line": 157,
+          "end_line": 157,
+          "quote": "by one person's hand",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 16
+          },
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html#reading-text",
+          "reader_precision": "work"
+        }
+      },
+      "latin": {},
+      "lexical_candidates": [
+        "lex-6a6b3866571bf274",
+        "lex-bab9fe93c46312eb"
+      ]
+    },
+    {
+      "id": "scribes-103",
+      "rank": 103,
+      "priority": "excluded",
+      "disposition": "excluded",
+      "category": "equivalent_wording",
+      "title": "Moving not within the same warning",
+      "difference": "The active warning becomes passive and moves the negative within the sentence.",
+      "impact": "Both caution against trusting the same impulses too quickly.",
+      "latin_assessment": "Isolated diff tokens would falsely suggest a polarity issue; the whole sentences preserve the caution.",
+      "next_action": "Exclude while retaining this as an alignment and triage control.",
+      "tentative_preference": "none",
+      "review_status": "ai_triaged_pending_human_review",
+      "facsimile_verified": false,
+      "english": {
+        "earlier": {
+          "path": "works/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "623717d3b51c1369de0b76daf78281d250370e9f23cccebdb49516821d9e46bb",
+          "start": 27709,
+          "end": 27766,
+          "start_line": 83,
+          "end_line": 83,
+          "quote": "For one must not quickly trust the impulses of young men.",
+          "source_marker": null,
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium.html#p-en-0008-0001",
+          "reader_precision": "passage"
+        },
+        "t4b": {
+          "path": "works-t4b/prdl-24362_de-laude-scriptorum-manualium/english.md",
+          "sha256": "49f56d1d7a81b4c6bbaa826a684c8c6de65a2414d678d52bc556cf8f81a87f7a",
+          "start": 28579,
+          "end": 28642,
+          "start_line": 172,
+          "end_line": 172,
+          "quote": "For the impulses of young men must not be believed too quickly.",
+          "source_marker": {
+            "kind": "ocr_page_marker",
+            "number": 18
+          },
+          "present_in_reading_view": true,
+          "reader_target": "site/dist/works/prdl-24362_de-laude-scriptorum-manualium-trithemius-4b.html#reading-text",
+          "reader_precision": "work"
+        }
+      },
+      "latin": {},
+      "lexical_candidates": [
+        "lex-4fac25a016a40a47",
+        "lex-df03cddf92e7e462"
+      ]
+    }
+  ],
+  "content_digest": "ca288eb02793e7c570df5dddc16cbef04d5569461aced495c3badd72c6f2b635"
+}

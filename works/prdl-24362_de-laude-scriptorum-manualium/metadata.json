@@ -1,9 +1,9 @@
 {
   "id": "prdl-24362_de-laude-scriptorum-manualium",
   "title": "De Laude Scriptorum Manualium",
-  "year": "1494",
+  "year": "1492",
   "source_year": "1494",
-  "year_note": null,
+  "year_note": "Composed in 1492 (dedicatory letter); this BSB witness is catalogued as Mainz, 1494. The BSB catalogue records the 1492 dedication separately from the printing date.",
   "edition_info": "Mainz, 1494 (BSB)",
   "edition_info_raw": "( Mainz , 1494 ) BSB",
   "duplicate_source_group": null,
@@ -42,5 +42,13 @@
     "latin_source_file": "churro_full.txt",
     "latin_fallback_sources": {},
     "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-24362_de-laude-scriptorum-manualium_parallel.html"
-  }
+  },
+  "composition_year": "1492",
+  "ai_corrections": {
+    "date": "2026-11-23",
+    "count": 11,
+    "human_review": "none_documented",
+    "note": "The edition errata document scan-checked readings and earlier wording. The historical machine audit predates the corrections. The pen modifier remains provisional."
+  },
+  "unclear_count": 23
 }

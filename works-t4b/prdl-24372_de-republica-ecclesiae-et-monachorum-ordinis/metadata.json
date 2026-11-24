@@ -32,5 +32,10 @@
   "ocr_engine": "qwen3vl-4b-trithemius-q6 (Trithemius LoRA)",
   "translator": "gpt-5.5 (dual-context)",
   "canonical_backend": "qwen3vl-trithemius-q6-dual-gpt55",
-  "source_work_id": "prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis"
+  "source_work_id": "prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis",
+  "duplicate_source_group": [
+    "prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis",
+    "prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis"
+  ],
+  "duplicate_source_note": "This record shares the same source scan as prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis. It is retained as a PRDL/source-alias record, not a separate physical witness."
 }

@@ -1,0 +1,2852 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "lemma": "religio",
+      "forms": [
+        "religio",
+        "religionis",
+        "religionem",
+        "religione"
+      ],
+      "en": "religious life / the Order",
+      "note": "in this corpus almost never modern 'religion' — it is the monastic/religious state or a specific Order",
+      "clusters": "all",
+      "source": "editorial"
+    },
+    {
+      "lemma": "religiosus",
+      "forms": [
+        "religiosus",
+        "religiosi",
+        "religiosos",
+        "religiosorum",
+        "religiosa",
+        "religiosae"
+      ],
+      "en": "a religious / member of an Order",
+      "note": "noun = a monk or nun under vows; adj = 'belonging to the religious life', not 'pious' generically",
+      "clusters": "all",
+      "source": "editorial"
+    },
+    {
+      "lemma": "conversatio",
+      "forms": [
+        "conversatio",
+        "conversationis",
+        "conversationem",
+        "conversatione"
+      ],
+      "en": "manner of life / monastic way of life",
+      "note": "false friend: NOT 'conversation'. conversatio morum = the Benedictine vow of fidelity to monastic life",
+      "clusters": [
+        "monastic-reform",
+        "devotional",
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "conversio",
+      "forms": [
+        "conversio",
+        "conversionis",
+        "conversionem",
+        "conversione"
+      ],
+      "en": "conversion (turning of life to God)",
+      "note": "the turn to monastic/penitent life; de vera conversione = on true conversion of the soul, not religious affiliation",
+      "clusters": [
+        "devotional",
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "professio",
+      "forms": [
+        "professio",
+        "professionis",
+        "professionem",
+        "professione"
+      ],
+      "en": "(monastic) profession",
+      "note": "the making of vows; NOT 'profession' as occupation",
+      "clusters": [
+        "monastic-reform",
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "disciplina",
+      "forms": [
+        "disciplina",
+        "disciplinae",
+        "disciplinam",
+        "disciplinis"
+      ],
+      "en": "discipline / training; (a) body of teaching",
+      "note": "monastic discipline or a field of learning depending on context; rarely modern 'discipline' as punishment alone",
+      "clusters": "all",
+      "source": "editorial"
+    },
+    {
+      "lemma": "regula",
+      "forms": [
+        "regula",
+        "regulae",
+        "regulam",
+        "regulas"
+      ],
+      "en": "the Rule",
+      "note": "capitalised 'the Rule' (usually St Benedict's) in monastic context; lowercase 'rule/standard' when general",
+      "clusters": [
+        "monastic-reform",
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "saeculum",
+      "forms": [
+        "saeculum",
+        "saeculi",
+        "saeculo",
+        "seculum",
+        "seculi",
+        "seculo"
+      ],
+      "en": "the world / the age",
+      "note": "the secular world (opp. the cloister) or a historical age; in saeculo = 'in the world' i.e. not in religion",
+      "clusters": "all",
+      "source": "editorial"
+    },
+    {
+      "lemma": "saecularis",
+      "forms": [
+        "saecularis",
+        "saecularem",
+        "secularis",
+        "seculares",
+        "saeculares"
+      ],
+      "en": "secular / of the world",
+      "note": "a secular cleric (not religious-order), or worldly affairs; not modern political 'secular'",
+      "clusters": [
+        "sacerdotal",
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "ordo",
+      "forms": [
+        "ordo",
+        "ordinis",
+        "ordinem",
+        "ordine",
+        "ordines"
+      ],
+      "en": "Order / rank / sequence",
+      "note": "a religious Order, or holy orders, or rank/arrangement — disambiguate by context",
+      "clusters": "all",
+      "source": "editorial"
+    },
+    {
+      "lemma": "obedientia",
+      "forms": [
+        "obedientia",
+        "oboedientia",
+        "obedientiae",
+        "obedientiam"
+      ],
+      "en": "obedience",
+      "note": "the vow; also a specific assigned office/charge (an 'obedience'). Keep canonical 'obedience'",
+      "clusters": [
+        "monastic-reform",
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "professus",
+      "forms": [
+        "professus",
+        "professi",
+        "professorum"
+      ],
+      "en": "a professed (monk)",
+      "note": "one who has made monastic profession",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "conversus",
+      "forms": [
+        "conversus",
+        "conversi",
+        "conversorum"
+      ],
+      "en": "lay brother / convert",
+      "note": "a conversus is a lay brother; in penitential context, one converted to religious life",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "oblatus",
+      "forms": [
+        "oblatus",
+        "oblati",
+        "oblatorum"
+      ],
+      "en": "oblate",
+      "note": "a child or layman offered/dedicated to a monastery",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "claustralis",
+      "forms": [
+        "claustralis",
+        "claustrales",
+        "claustralium",
+        "claustralibus"
+      ],
+      "en": "cloistered (religious) / cloister-dweller",
+      "note": "de triplici regione claustralium = on the threefold region of cloister-dwellers",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "observantia",
+      "forms": [
+        "observantia",
+        "observantiae",
+        "observantiam"
+      ],
+      "en": "observance",
+      "note": "regular observance = strict keeping of the Rule; a reform watchword",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "regularis",
+      "forms": [
+        "regularis",
+        "regulares",
+        "regularem",
+        "regularibus"
+      ],
+      "en": "regular (under a Rule)",
+      "note": "pertaining to the Rule/religious life; regular clergy vs secular clergy",
+      "clusters": [
+        "monastic-reform",
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "tepiditas",
+      "forms": [
+        "tepiditas",
+        "tepiditatis",
+        "tepiditatem"
+      ],
+      "en": "lukewarmness",
+      "note": "the reform vice of spiritual tepidity; not literal 'warmth'",
+      "clusters": [
+        "monastic-reform",
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "proprietas",
+      "forms": [
+        "proprietas",
+        "proprietatis",
+        "proprietatem"
+      ],
+      "en": "private property (the vice of)",
+      "note": "in monastic-reform context the sin of a monk owning property against poverty — not 'property' neutrally or 'propriety'",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "proprietarius",
+      "forms": [
+        "proprietarius",
+        "proprietarii",
+        "proprietarios"
+      ],
+      "en": "an owner of private property (offending monk)",
+      "note": "pejorative: a religious who holds property contrary to his vow",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "stabilitas",
+      "forms": [
+        "stabilitas",
+        "stabilitatis",
+        "stabilitatem"
+      ],
+      "en": "stability (vow of place)",
+      "note": "the Benedictine vow binding the monk to his community; not generic 'stability'",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "ruina",
+      "forms": [
+        "ruina",
+        "ruinae",
+        "ruinam",
+        "ruinas"
+      ],
+      "en": "ruin / collapse",
+      "note": "do NOT soften to 'decline'; Trithemius means ruin/fall (de statu et ruina)",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "reformatio",
+      "forms": [
+        "reformatio",
+        "reformationis",
+        "reformationem"
+      ],
+      "en": "reform",
+      "note": "the renewal of monastic observance; the central program word",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "capitulum",
+      "forms": [
+        "capitulum",
+        "capituli",
+        "capitulo"
+      ],
+      "en": "chapter",
+      "note": "both the daily monastic assembly and a chapter/section of a Rule or book; recessus capitularium = chapter decrees",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "recessus",
+      "forms": [
+        "recessus",
+        "recessuum",
+        "recessibus"
+      ],
+      "en": "decree (of a chapter) / withdrawal",
+      "note": "in conciliar/chapter context = the closing decrees; otherwise 'withdrawal, retreat'",
+      "clusters": [
+        "monastic-reform",
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "visitatio",
+      "forms": [
+        "visitatio",
+        "visitationis",
+        "visitationem"
+      ],
+      "en": "visitation",
+      "note": "the canonical inspection of a house by a superior; also divine 'visitation'",
+      "clusters": [
+        "monastic-reform",
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "praelatus",
+      "forms": [
+        "praelatus",
+        "praelati",
+        "praelatum",
+        "prelatus",
+        "prelati"
+      ],
+      "en": "prelate / superior",
+      "note": "an ecclesiastical superior (abbot, bishop); the one set over others",
+      "clusters": [
+        "sacerdotal",
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "praepositus",
+      "forms": [
+        "praepositus",
+        "praepositi",
+        "prepositus",
+        "prepositi"
+      ],
+      "en": "provost / one set in charge",
+      "note": "a monastic provost or appointed head; lit. 'one placed before'",
+      "clusters": [
+        "monastic-reform",
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "subditus",
+      "forms": [
+        "subditus",
+        "subditi",
+        "subditos",
+        "subditorum"
+      ],
+      "en": "subject / one under authority",
+      "note": "those under a prelate's charge; not 'subject' grammatically",
+      "clusters": [
+        "sacerdotal",
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "cura",
+      "forms": [
+        "cura",
+        "curae",
+        "curam",
+        "curarum"
+      ],
+      "en": "care / charge (of souls)",
+      "note": "cura animarum / cura pastoralis = the pastoral care of souls, an office; not 'cure' or 'worry' here",
+      "clusters": [
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "pastor",
+      "forms": [
+        "pastor",
+        "pastoris",
+        "pastorem",
+        "pastores"
+      ],
+      "en": "pastor / shepherd of souls",
+      "note": "the spiritual ruler (bishop, abbot, priest); keep the shepherd metaphor where present",
+      "clusters": [
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "rector",
+      "forms": [
+        "rector",
+        "rectoris",
+        "rectorem",
+        "rectores"
+      ],
+      "en": "ruler / one who governs (souls)",
+      "note": "Gregory's regimen animarum sense — a spiritual governor, not a school 'rector'",
+      "clusters": [
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "regimen",
+      "forms": [
+        "regimen",
+        "regiminis",
+        "regimine"
+      ],
+      "en": "governance / rule",
+      "note": "regimen animarum = the governance of souls (the art of arts)",
+      "clusters": [
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "beneficium",
+      "forms": [
+        "beneficium",
+        "beneficii",
+        "beneficio",
+        "beneficia"
+      ],
+      "en": "benefice / favour",
+      "note": "an ecclesiastical benefice (income/office) in church context; otherwise 'kindness, benefit'",
+      "clusters": [
+        "sacerdotal",
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "sacerdos",
+      "forms": [
+        "sacerdos",
+        "sacerdotis",
+        "sacerdotem",
+        "sacerdotes"
+      ],
+      "en": "priest",
+      "note": "the ordained priest; sacerdotium = the priesthood/priestly office",
+      "clusters": [
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "presbyter",
+      "forms": [
+        "presbyter",
+        "presbyteri",
+        "presbyterum"
+      ],
+      "en": "presbyter / priest",
+      "note": "priest (esp. the order of priesthood); 'presbyter' acceptable in ecclesial register",
+      "clusters": [
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "plebs",
+      "forms": [
+        "plebs",
+        "plebis",
+        "plebem",
+        "plebe"
+      ],
+      "en": "the (common) people / flock",
+      "note": "the laity under a pastor's care; not classical 'plebs/plebeians'",
+      "clusters": [
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "institutio",
+      "forms": [
+        "institutio",
+        "institutionis",
+        "institutionem"
+      ],
+      "en": "formation / instruction",
+      "note": "institutio vitae sacerdotalis = the formation/ordering of priestly life; not 'institution'",
+      "clusters": [
+        "sacerdotal",
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "contemplatio",
+      "forms": [
+        "contemplatio",
+        "contemplationis",
+        "contemplationem"
+      ],
+      "en": "contemplation",
+      "note": "the contemplative gaze on God; keep technical 'contemplation', not 'consideration'",
+      "clusters": [
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "compunctio",
+      "forms": [
+        "compunctio",
+        "compunctionis",
+        "compunctionem"
+      ],
+      "en": "compunction",
+      "note": "the piercing sorrow for sin / longing for God; keep 'compunction', not 'remorse' flatly",
+      "clusters": [
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "devotio",
+      "forms": [
+        "devotio",
+        "devotionis",
+        "devotionem"
+      ],
+      "en": "devotion",
+      "note": "the affective self-giving to God; not 'dedication' generically",
+      "clusters": [
+        "devotional",
+        "marian-hagiographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "affectus",
+      "forms": [
+        "affectus",
+        "affectum",
+        "affectuum",
+        "affectibus"
+      ],
+      "en": "affection / the heart's movement",
+      "note": "the affective faculty / inward inclination toward God; not 'effect'",
+      "clusters": [
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "dilectio",
+      "forms": [
+        "dilectio",
+        "dilectionis",
+        "dilectionem"
+      ],
+      "en": "love (deliberate, charitable)",
+      "note": "the love of will/charity (cf. caritas); render 'love' but keep its chosen-love sense distinct from amor",
+      "clusters": [
+        "devotional",
+        "marian-hagiographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "caritas",
+      "forms": [
+        "caritas",
+        "caritatis",
+        "caritatem",
+        "charitas",
+        "charitatis"
+      ],
+      "en": "charity / love",
+      "note": "theological charity; 'charity' in religious register, 'love' when natural English needs it — be consistent within a work",
+      "clusters": [
+        "devotional",
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "amor",
+      "forms": [
+        "amor",
+        "amoris",
+        "amorem"
+      ],
+      "en": "love",
+      "note": "love generally (incl. divine love, de operatione divini amoris); distinguish from caritas/dilectio only if the text contrasts them",
+      "clusters": [
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "gratia",
+      "forms": [
+        "gratia",
+        "gratiae",
+        "gratiam"
+      ],
+      "en": "grace",
+      "note": "divine grace in theological context; 'favour/thanks' only when clearly secular (gratias agere = give thanks)",
+      "clusters": "all",
+      "source": "editorial"
+    },
+    {
+      "lemma": "meritum",
+      "forms": [
+        "meritum",
+        "meriti",
+        "merita",
+        "meritorum"
+      ],
+      "en": "merit",
+      "note": "theological merit before God; keep 'merit', not 'reward' (that is praemium)",
+      "clusters": [
+        "devotional",
+        "marian-hagiographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "mens",
+      "forms": [
+        "mens",
+        "mentis",
+        "mentem",
+        "mente"
+      ],
+      "en": "mind",
+      "note": "the rational/contemplative mind; de vera conversione mentis = of the true conversion of the mind",
+      "clusters": [
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "animus",
+      "forms": [
+        "animus",
+        "animi",
+        "animum",
+        "animo"
+      ],
+      "en": "mind / spirit / resolve",
+      "note": "the rational soul or disposition/courage; distinguish from anima (the life-soul)",
+      "clusters": [
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "anima",
+      "forms": [
+        "anima",
+        "animae",
+        "animam",
+        "animarum",
+        "animabus"
+      ],
+      "en": "soul",
+      "note": "the soul as life-principle and object of salvation; cura animarum = care of souls",
+      "clusters": "all",
+      "source": "editorial"
+    },
+    {
+      "lemma": "spiritus",
+      "forms": [
+        "spiritus",
+        "spiritui",
+        "spiritum",
+        "spirituum"
+      ],
+      "en": "spirit",
+      "note": "the Holy Spirit / human spirit / a spirit; in crypto-occult cover-text it names a cipher key, not a real spirit — see cluster note",
+      "clusters": [
+        "devotional",
+        "crypto-occult"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "spiritualis",
+      "forms": [
+        "spiritualis",
+        "spirituales",
+        "spiritualem",
+        "spiritualibus"
+      ],
+      "en": "spiritual / of the Spirit",
+      "note": "of the Spirit, non-bodily, or 'monastic/clerical'; avoid vague modern 'spiritual'",
+      "clusters": [
+        "devotional",
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "sapientia",
+      "forms": [
+        "sapientia",
+        "sapientiae",
+        "sapientiam"
+      ],
+      "en": "wisdom",
+      "note": "contemplative/divine wisdom; distinguish from scientia (knowledge) where contrasted",
+      "clusters": [
+        "devotional",
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "scientia",
+      "forms": [
+        "scientia",
+        "scientiae",
+        "scientiam"
+      ],
+      "en": "knowledge / a science",
+      "note": "discursive knowledge or a branch of learning; not 'science' in the modern empirical sense",
+      "clusters": [
+        "bibliographic",
+        "crypto-occult"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "contemptus",
+      "forms": [
+        "contemptus",
+        "contemptu",
+        "contemptum"
+      ],
+      "en": "contempt / disdain (of the world)",
+      "note": "contemptus mundi = the (virtuous) disdain of worldly things; not mere modern 'contempt'",
+      "clusters": [
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "vanitas",
+      "forms": [
+        "vanitas",
+        "vanitatis",
+        "vanitatem"
+      ],
+      "en": "vanity / emptiness",
+      "note": "the emptiness of worldly things (de vanitate humanae vitae); the Ecclesiastes register",
+      "clusters": [
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "miseria",
+      "forms": [
+        "miseria",
+        "miseriae",
+        "miseriam"
+      ],
+      "en": "misery / wretchedness",
+      "note": "the wretched condition of fallen human life; keep the strong sense",
+      "clusters": [
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "steganographia",
+      "forms": [
+        "steganographia",
+        "steganographiae",
+        "steganographiam",
+        "steganographicus",
+        "steganographicis"
+      ],
+      "en": "steganography (hidden writing)",
+      "note": "Trithemius's art of concealed writing; keep the term, do not translate to 'cryptography'",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "polygraphia",
+      "forms": [
+        "polygraphia",
+        "polygraphiae",
+        "polygraphiam"
+      ],
+      "en": "polygraphy",
+      "note": "Trithemius's systematic cipher art; keep the term as a title-word",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "cryptographia",
+      "forms": [
+        "cryptographia",
+        "cryptographiae",
+        "cryptographiam"
+      ],
+      "en": "cryptography",
+      "note": "the art of secret writing; keep technical term",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "cifra",
+      "forms": [
+        "cifra",
+        "cifrae",
+        "cifram",
+        "zifra",
+        "zyfra",
+        "cyphra"
+      ],
+      "en": "cipher",
+      "note": "a cipher / coded sign; render 'cipher', not 'zero' or 'figure'",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "character",
+      "forms": [
+        "character",
+        "characteris",
+        "characterem",
+        "characteres",
+        "characterum"
+      ],
+      "en": "character / symbol",
+      "note": "a written sign or cipher-symbol; in occult context a sigil — keep concrete 'character/symbol', not 'personality'",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "nota",
+      "forms": [
+        "nota",
+        "notae",
+        "notam",
+        "notas",
+        "notarum"
+      ],
+      "en": "sign / mark / cipher-note",
+      "note": "a notational mark or shorthand sign (ars notaria); not 'note' as message",
+      "clusters": [
+        "crypto-occult",
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "tabula",
+      "forms": [
+        "tabula",
+        "tabulae",
+        "tabulam",
+        "tabulas",
+        "tabularum"
+      ],
+      "en": "table / tableau",
+      "note": "a cipher table/grid (e.g. the tabula recta); also a list/index — 'table', not 'tablet/painting'",
+      "clusters": [
+        "crypto-occult",
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "clavis",
+      "forms": [
+        "clavis",
+        "clavem",
+        "claves",
+        "clavium"
+      ],
+      "en": "key",
+      "note": "the decryption key (Clavis Steganographiae/Polygraphiae); keep the 'key' metaphor",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "transpositio",
+      "forms": [
+        "transpositio",
+        "transpositionis",
+        "transpositionem"
+      ],
+      "en": "transposition",
+      "note": "rearrangement of letters as a cipher method; technical term",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "occultus",
+      "forms": [
+        "occultus",
+        "occulta",
+        "occultum",
+        "occulti",
+        "occultis"
+      ],
+      "en": "hidden / secret",
+      "note": "concealed (writing/meaning); 'occult' only where the esoteric sense is explicit",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "arcanus",
+      "forms": [
+        "arcanus",
+        "arcana",
+        "arcanum",
+        "arcani",
+        "arcanis"
+      ],
+      "en": "secret / arcane",
+      "note": "arcanum = a secret; the hidden matter the cipher conceals",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "conjuratio",
+      "forms": [
+        "conjuratio",
+        "coniuratio",
+        "conjurationis",
+        "coniurationem"
+      ],
+      "en": "conjuration / sworn conspiracy",
+      "note": "in the Steganographia cover-text a pseudo-conjuration formula (a cipher device, not real magic); elsewhere 'conspiracy/oath'",
+      "clusters": [
+        "crypto-occult",
+        "apologetic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "angelus",
+      "forms": [
+        "angelus",
+        "angeli",
+        "angelum",
+        "angelorum",
+        "angelis"
+      ],
+      "en": "angel",
+      "note": "in the Steganographia the 'angel names' are cipher keys, not invoked spirits — translate plainly and let the cluster note carry the caveat",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "secundeus",
+      "forms": [
+        "secundeus",
+        "secundei",
+        "secundeorum",
+        "secundeis"
+      ],
+      "en": "secondary intelligence",
+      "note": "the seven planetary 'secondary' intelligences of De Septem Secundeis; keep the technical phrase",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "intelligentia",
+      "forms": [
+        "intelligentia",
+        "intelligentiae",
+        "intelligentiam",
+        "intelligentiarum"
+      ],
+      "en": "intelligence (angelic mind)",
+      "note": "a governing angelic Intelligence (planetary), not 'intelligence' as cleverness/data",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "sigillum",
+      "forms": [
+        "sigillum",
+        "sigilli",
+        "sigilla",
+        "sigillorum"
+      ],
+      "en": "seal / sigil",
+      "note": "an engraved magical seal (veterum sophorum sigilla); 'seal' or 'sigil', not 'stamp'",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "imago",
+      "forms": [
+        "imago",
+        "imaginis",
+        "imaginem",
+        "imagines",
+        "imaginum"
+      ],
+      "en": "image / talismanic figure",
+      "note": "in the seals-and-images work, an astral talismanic image; otherwise 'image/likeness'",
+      "clusters": [
+        "crypto-occult",
+        "marian-hagiographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "scriptor",
+      "forms": [
+        "scriptor",
+        "scriptoris",
+        "scriptorem",
+        "scriptores",
+        "scriptorum"
+      ],
+      "en": "writer / author",
+      "note": "scriptor ecclesiasticus = ecclesiastical writer; in De Laude Scriptorum a scribe/copyist — disambiguate by work",
+      "clusters": [
+        "bibliographic",
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "scriba",
+      "forms": [
+        "scriba",
+        "scribae",
+        "scribam",
+        "scribas"
+      ],
+      "en": "scribe / copyist",
+      "note": "a manuscript copyist (esp. in De Laude Scriptorum Manualium)",
+      "clusters": [
+        "monastic-reform",
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "catalogus",
+      "forms": [
+        "catalogus",
+        "catalogi",
+        "catalogum",
+        "catalogo"
+      ],
+      "en": "catalogue / list",
+      "note": "a catalogue of authors/works (the bibliographic genre word)",
+      "clusters": [
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "floruit",
+      "forms": [
+        "floruit",
+        "floruerunt"
+      ],
+      "en": "flourished (was active c.)",
+      "note": "biographical formula for a writer's period of activity; render 'flourished' or 'was active'",
+      "clusters": [
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "claruit",
+      "forms": [
+        "claruit",
+        "claruerunt"
+      ],
+      "en": "was renowned / flourished",
+      "note": "biographical formula = was distinguished/active at a time; not 'became clear'",
+      "clusters": [
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "obiit",
+      "forms": [
+        "obiit",
+        "obierunt"
+      ],
+      "en": "died",
+      "note": "biographical death formula (obiit anno...); plainly 'died in the year...'",
+      "clusters": [
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "codex",
+      "forms": [
+        "codex",
+        "codicis",
+        "codicem",
+        "codices",
+        "codicum"
+      ],
+      "en": "codex / manuscript book",
+      "note": "a manuscript volume; 'codex' or 'manuscript', not legal 'code'",
+      "clusters": [
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "volumen",
+      "forms": [
+        "volumen",
+        "voluminis",
+        "volumina",
+        "voluminum"
+      ],
+      "en": "volume",
+      "note": "a book/volume (sometimes a scroll); 'volume'",
+      "clusters": [
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "annales",
+      "forms": [
+        "annales",
+        "annalium",
+        "annalibus"
+      ],
+      "en": "annals",
+      "note": "year-by-year history (Annales Hirsaugienses); keep 'Annals'",
+      "clusters": [
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "chronica",
+      "forms": [
+        "chronica",
+        "chronicae",
+        "chronicam",
+        "chronicon",
+        "chronici"
+      ],
+      "en": "chronicle",
+      "note": "a chronicle (Chronicon Hirsaugiense/Sponheimense)",
+      "clusters": [
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "gesta",
+      "forms": [
+        "gesta",
+        "gestorum",
+        "gestis"
+      ],
+      "en": "deeds / acts",
+      "note": "recorded deeds (a historiographic genre word); 'deeds/acts', not 'gestures'",
+      "clusters": [
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "vindex",
+      "forms": [
+        "vindex",
+        "vindicis",
+        "vindicem"
+      ],
+      "en": "vindicator / defender",
+      "note": "Trithemius sui ipsius vindex = T. the vindicator of himself; 'champion/defender', not 'avenger' here",
+      "clusters": [
+        "apologetic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "apologia",
+      "forms": [
+        "apologia",
+        "apologiae",
+        "apologiam"
+      ],
+      "en": "defence / apologia",
+      "note": "a formal self-defence; 'defence' or keep 'apologia'",
+      "clusters": [
+        "apologetic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "calumnia",
+      "forms": [
+        "calumnia",
+        "calumniae",
+        "calumniam",
+        "calumnias"
+      ],
+      "en": "false accusation / slander",
+      "note": "the slander Trithemius rebuts; stronger than 'criticism'",
+      "clusters": [
+        "apologetic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "maleficus",
+      "forms": [
+        "maleficus",
+        "malefici",
+        "maleficorum",
+        "maleficis",
+        "malefica"
+      ],
+      "en": "sorcerer / malefic (one)",
+      "note": "a worker of harmful magic (witch/sorcerer); antipalus maleficiorum = an opponent of sorceries",
+      "clusters": [
+        "apologetic",
+        "crypto-occult"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "necromantia",
+      "forms": [
+        "necromantia",
+        "necromantiae",
+        "nigromantia",
+        "nigromantiae"
+      ],
+      "en": "necromancy / black magic",
+      "note": "the charge of demonic magic levelled at the Steganographia; render 'necromancy'",
+      "clusters": [
+        "apologetic",
+        "crypto-occult"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "superstitio",
+      "forms": [
+        "superstitio",
+        "superstitionis",
+        "superstitionem"
+      ],
+      "en": "superstition",
+      "note": "illicit/false religious practice as Trithemius's critics allege; keep 'superstition'",
+      "clusters": [
+        "apologetic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "ecloga",
+      "forms": [
+        "ecloga",
+        "eclogae",
+        "eclogam"
+      ],
+      "en": "eclogue",
+      "note": "a short pastoral/occasional poem; keep the genre term",
+      "clusters": [
+        "verse"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "carmen",
+      "forms": [
+        "carmen",
+        "carminis",
+        "carmina",
+        "carminum"
+      ],
+      "en": "poem / song",
+      "note": "a poem or set verse; 'poem/verse/song', not 'charm' unless explicitly incantatory",
+      "clusters": [
+        "verse"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "metrum",
+      "forms": [
+        "metrum",
+        "metri",
+        "metra"
+      ],
+      "en": "metre / verse",
+      "note": "poetic metre; in metro = 'in verse'",
+      "clusters": [
+        "verse"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "calvus",
+      "forms": [
+        "calvus",
+        "calvi",
+        "calvorum",
+        "calvis"
+      ],
+      "en": "bald man",
+      "note": "de laude calvorum = in praise of bald men (the mock-encomium); literal 'bald'",
+      "clusters": [
+        "verse"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "encomium",
+      "forms": [
+        "encomium",
+        "encomii",
+        "encomia"
+      ],
+      "en": "encomium / praise-piece",
+      "note": "a formal praise; the de laudibus works are encomia — keep the rhetorical sense",
+      "clusters": [
+        "verse",
+        "marian-hagiographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "laus",
+      "forms": [
+        "laus",
+        "laudis",
+        "laudem",
+        "laudes",
+        "laudibus"
+      ],
+      "en": "praise",
+      "note": "de laudibus = in praise of; keep 'praise(s)'",
+      "clusters": [
+        "marian-hagiographic",
+        "verse"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "genitrix",
+      "forms": [
+        "genitrix",
+        "genitricis",
+        "genitricem"
+      ],
+      "en": "Mother (of God)",
+      "note": "Dei genitrix = Mother of God (Theotokos); elevated 'Mother', not 'parent'",
+      "clusters": [
+        "marian-hagiographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "virgo",
+      "forms": [
+        "virgo",
+        "virginis",
+        "virginem",
+        "virgine"
+      ],
+      "en": "Virgin",
+      "note": "the Virgin Mary (capital V) in Marian context",
+      "clusters": [
+        "marian-hagiographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "conceptio",
+      "forms": [
+        "conceptio",
+        "conceptionis",
+        "conceptionem"
+      ],
+      "en": "conception",
+      "note": "the (Immaculate) Conception of the Virgin; theological term, keep 'Conception'",
+      "clusters": [
+        "marian-hagiographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "immaculatus",
+      "forms": [
+        "immaculata",
+        "immaculatae",
+        "immaculatam",
+        "immaculatus"
+      ],
+      "en": "immaculate / spotless",
+      "note": "the Immaculate Conception doctrine; keep 'immaculate'",
+      "clusters": [
+        "marian-hagiographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "patrocinium",
+      "forms": [
+        "patrocinium",
+        "patrocinii",
+        "patrocinio"
+      ],
+      "en": "patronage / protection",
+      "note": "a saint's patronage/intercessory protection",
+      "clusters": [
+        "marian-hagiographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "intercessio",
+      "forms": [
+        "intercessio",
+        "intercessionis",
+        "intercessionem"
+      ],
+      "en": "intercession",
+      "note": "a saint's pleading on one's behalf; keep 'intercession'",
+      "clusters": [
+        "marian-hagiographic",
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "miraculum",
+      "forms": [
+        "miraculum",
+        "miraculi",
+        "miracula",
+        "miraculorum"
+      ],
+      "en": "miracle",
+      "note": "a miracle/wonder; keep 'miracle' in hagiographic context",
+      "clusters": [
+        "marian-hagiographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "sanctitas",
+      "forms": [
+        "sanctitas",
+        "sanctitatis",
+        "sanctitatem"
+      ],
+      "en": "holiness / sanctity",
+      "note": "also a title of address ('your Holiness'); disambiguate",
+      "clusters": [
+        "marian-hagiographic",
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "frater",
+      "forms": [
+        "frater",
+        "fratris",
+        "fratrem",
+        "fratres",
+        "fratrum",
+        "fratribus"
+      ],
+      "en": "brother",
+      "note": "a fellow religious ('Brother'); frater carissime = dearest brother (keep 2nd-person warmth)",
+      "clusters": [
+        "monastic-reform",
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "pater",
+      "forms": [
+        "pater",
+        "patris",
+        "patrem",
+        "patres",
+        "patrum",
+        "patribus"
+      ],
+      "en": "father",
+      "note": "a Father (monastic elder, Church Father, or God the Father) — capitalise by referent",
+      "clusters": "all",
+      "source": "editorial"
+    },
+    {
+      "lemma": "dominus",
+      "forms": [
+        "dominus",
+        "domini",
+        "dominum",
+        "domino",
+        "domine",
+        "dnus",
+        "dni"
+      ],
+      "en": "Lord / lord",
+      "note": "the Lord (God) or a temporal lord; capitalise when divine. Often abbreviated dnus/dni in OCR",
+      "clusters": "all",
+      "source": "editorial"
+    },
+    {
+      "lemma": "praeceptum",
+      "forms": [
+        "praeceptum",
+        "praecepti",
+        "praecepta",
+        "preceptum",
+        "precepta"
+      ],
+      "en": "precept / command",
+      "note": "a binding precept (esp. of the Rule or God); 'precept/commandment'",
+      "clusters": [
+        "monastic-reform",
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "exhortatio",
+      "forms": [
+        "exhortatio",
+        "exhortationis",
+        "exhortationem",
+        "exhortationes"
+      ],
+      "en": "exhortation",
+      "note": "a hortatory address (sermones et exhortationes); keep 'exhortation'",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "admonitio",
+      "forms": [
+        "admonitio",
+        "admonitionis",
+        "admonitionem",
+        "admonitiones"
+      ],
+      "en": "admonition",
+      "note": "a warning/counsel; keep 'admonition', not 'advice' flatly",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "humilitas",
+      "forms": [
+        "humilitas",
+        "humilitatis",
+        "humilitatem"
+      ],
+      "en": "humility",
+      "note": "the cardinal monastic virtue (RB ch. 7); keep 'humility'",
+      "clusters": [
+        "monastic-reform",
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "superbia",
+      "forms": [
+        "superbia",
+        "superbiae",
+        "superbiam"
+      ],
+      "en": "pride",
+      "note": "the chief vice opposed to humility; 'pride', not 'superb-ness'",
+      "clusters": [
+        "monastic-reform",
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "negligentia",
+      "forms": [
+        "negligentia",
+        "negligentiae",
+        "negligentiam"
+      ],
+      "en": "negligence",
+      "note": "negligentia patrum = the negligence of the (founding) fathers — a reform topos",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "disciplina regularis",
+      "forms": [
+        "disciplina regularis",
+        "disciplinae regularis",
+        "disciplinam regularem"
+      ],
+      "en": "regular discipline",
+      "note": "the keeping of the Rule's discipline; fixed phrase",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "vita activa",
+      "forms": [
+        "vita activa",
+        "vitae activae",
+        "vitam activam"
+      ],
+      "en": "the active life",
+      "note": "the active (vs contemplative) life; fixed technical pair",
+      "clusters": [
+        "devotional",
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "vita contemplativa",
+      "forms": [
+        "vita contemplativa",
+        "vitae contemplativae",
+        "vitam contemplativam"
+      ],
+      "en": "the contemplative life",
+      "note": "the contemplative life; fixed technical pair with vita activa",
+      "clusters": [
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "verbum",
+      "forms": [
+        "verbum",
+        "verbi",
+        "verbo",
+        "verba",
+        "verborum"
+      ],
+      "en": "word / the Word",
+      "note": "Verbum (capital) = the divine Word/Logos in theological context; otherwise 'word'",
+      "clusters": [
+        "devotional",
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "doctrina",
+      "forms": [
+        "doctrina",
+        "doctrinae",
+        "doctrinam"
+      ],
+      "en": "teaching / doctrine",
+      "note": "a body of teaching; 'doctrine/teaching', not 'indoctrination'",
+      "clusters": [
+        "sacerdotal",
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "praedicatio",
+      "forms": [
+        "praedicatio",
+        "praedicationis",
+        "praedicationem"
+      ],
+      "en": "preaching",
+      "note": "the act/office of preaching; keep 'preaching'",
+      "clusters": [
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "officium",
+      "forms": [
+        "officium",
+        "officii",
+        "officia",
+        "officiorum"
+      ],
+      "en": "office / duty",
+      "note": "an ecclesiastical office or bounden duty; also the Divine Office (liturgy) — disambiguate",
+      "clusters": [
+        "sacerdotal",
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "professio fidei",
+      "forms": [
+        "professio fidei",
+        "professionem fidei"
+      ],
+      "en": "profession of faith",
+      "note": "fixed phrase; the confession of faith",
+      "clusters": [
+        "apologetic",
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "haeresis",
+      "forms": [
+        "haeresis",
+        "haeresim",
+        "haereses",
+        "heresis"
+      ],
+      "en": "heresy",
+      "note": "doctrinal error condemned by the Church; keep 'heresy'",
+      "clusters": [
+        "apologetic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "fides",
+      "forms": [
+        "fides",
+        "fidei",
+        "fidem",
+        "fide"
+      ],
+      "en": "faith",
+      "note": "theological faith; also 'good faith/loyalty' in secular use — disambiguate",
+      "clusters": "all",
+      "source": "editorial"
+    },
+    {
+      "lemma": "salus",
+      "forms": [
+        "salus",
+        "salutis",
+        "salutem"
+      ],
+      "en": "salvation",
+      "note": "salvation of the soul in religious context; 'health/safety/greeting' only when clearly secular (salutem dicit = sends greetings)",
+      "clusters": "all",
+      "source": "editorial"
+    },
+    {
+      "lemma": "perfectio",
+      "forms": [
+        "perfectio",
+        "perfectionis",
+        "perfectionem"
+      ],
+      "en": "perfection",
+      "note": "spiritual perfection (the goal of the religious life); keep 'perfection'",
+      "clusters": [
+        "devotional",
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "exercitium",
+      "forms": [
+        "exercitium",
+        "exercitii",
+        "exercitia"
+      ],
+      "en": "exercise / practice",
+      "note": "spirituale exercitium = spiritual exercise/practice (de... spirituali exercitio monachorum)",
+      "clusters": [
+        "monastic-reform",
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "solitudo",
+      "forms": [
+        "solitudo",
+        "solitudinis",
+        "solitudinem"
+      ],
+      "en": "solitude / the desert",
+      "note": "the eremitic solitude / monastic withdrawal; keep the ascetic sense",
+      "clusters": [
+        "monastic-reform",
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "silentium",
+      "forms": [
+        "silentium",
+        "silentii",
+        "silentio"
+      ],
+      "en": "silence",
+      "note": "monastic silence as observance; keep 'silence'",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "abstinentia",
+      "forms": [
+        "abstinentia",
+        "abstinentiae",
+        "abstinentiam"
+      ],
+      "en": "abstinence",
+      "note": "ascetic abstinence (from food etc.); keep 'abstinence'",
+      "clusters": [
+        "monastic-reform",
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "ieiunium",
+      "forms": [
+        "ieiunium",
+        "ieiunii",
+        "ieiunia",
+        "jejunium"
+      ],
+      "en": "fasting / a fast",
+      "note": "ascetic fasting; 'fast(ing)'",
+      "clusters": [
+        "monastic-reform",
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "oratio",
+      "forms": [
+        "oratio",
+        "orationis",
+        "orationem",
+        "orationes"
+      ],
+      "en": "prayer / oration",
+      "note": "prayer in devotional context; a formal speech/oration in rhetorical context — disambiguate",
+      "clusters": [
+        "devotional",
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "praelatio",
+      "forms": [
+        "praelatio",
+        "praelationis",
+        "praelationem",
+        "prelatio"
+      ],
+      "en": "office of a prelate / preferment",
+      "note": "being set in authority over others; not 'preference' abstractly",
+      "clusters": [
+        "sacerdotal",
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "correctio",
+      "forms": [
+        "correctio",
+        "correctionis",
+        "correctionem"
+      ],
+      "en": "correction / discipline",
+      "note": "fraternal/superior's correction of faults; keep 'correction'",
+      "clusters": [
+        "monastic-reform",
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "zelus",
+      "forms": [
+        "zelus",
+        "zeli",
+        "zelum",
+        "zelo"
+      ],
+      "en": "zeal",
+      "note": "righteous zeal (zelus iustitiae); keep 'zeal', not 'jealousy' unless context demands",
+      "clusters": [
+        "monastic-reform",
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "tribulatio",
+      "forms": [
+        "tribulatio",
+        "tribulationis",
+        "tribulationem"
+      ],
+      "en": "tribulation",
+      "note": "affliction/trial in the spiritual register; keep 'tribulation'",
+      "clusters": [
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "consolatio",
+      "forms": [
+        "consolatio",
+        "consolationis",
+        "consolationem"
+      ],
+      "en": "consolation",
+      "note": "spiritual consolation/comfort; keep 'consolation'",
+      "clusters": [
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "praesumptio",
+      "forms": [
+        "praesumptio",
+        "praesumptionis",
+        "praesumptionem",
+        "presumptio"
+      ],
+      "en": "presumption",
+      "note": "the vice of presumption (overstepping, esp. assuming office unworthily); not 'assumption' neutrally",
+      "clusters": [
+        "sacerdotal",
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "temeritas",
+      "forms": [
+        "temeritas",
+        "temeritatis",
+        "temeritatem"
+      ],
+      "en": "rashness",
+      "note": "reckless audacity (Gregory: qua temeritate suscipitur); 'rashness/temerity'",
+      "clusters": [
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "magisterium",
+      "forms": [
+        "magisterium",
+        "magisterii",
+        "magisterio"
+      ],
+      "en": "office of teaching / mastership",
+      "note": "the teaching/ruling office (pastorale magisterium); not the modern curial 'Magisterium' anachronistically",
+      "clusters": [
+        "sacerdotal"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "prudentia",
+      "forms": [
+        "prudentia",
+        "prudentiae",
+        "prudentiam"
+      ],
+      "en": "prudence",
+      "note": "the cardinal virtue of practical wisdom; keep 'prudence'",
+      "clusters": [
+        "sacerdotal",
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "discretio",
+      "forms": [
+        "discretio",
+        "discretionis",
+        "discretionem"
+      ],
+      "en": "discretion / discernment",
+      "note": "the monastic virtue of discernment (esp. of spirits/measure); keep 'discretion/discernment'",
+      "clusters": [
+        "monastic-reform",
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "abbatia",
+      "forms": [
+        "abbatia",
+        "abbatiae",
+        "abbatiam"
+      ],
+      "en": "abbey",
+      "note": "the abbey (house/jurisdiction); 'abbey'",
+      "clusters": [
+        "monastic-reform",
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "monasterium",
+      "forms": [
+        "monasterium",
+        "monasterii",
+        "monasteria",
+        "monasteriorum"
+      ],
+      "en": "monastery",
+      "note": "a monastery; 'monastery' (cf. coenobium for the common-life nuance)",
+      "clusters": [
+        "monastic-reform",
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "religiosa",
+      "forms": [
+        "religiosa",
+        "religiosae",
+        "religiosam",
+        "religiosas"
+      ],
+      "en": "a nun / religious woman",
+      "note": "feminine of religiosus = a woman under vows",
+      "clusters": [
+        "monastic-reform",
+        "marian-hagiographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "votum",
+      "forms": [
+        "votum",
+        "voti",
+        "vota",
+        "votorum"
+      ],
+      "en": "vow",
+      "note": "a religious vow; 'vow', not 'vote' or 'wish' in monastic context",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "professorium",
+      "forms": [
+        "professorium",
+        "professorii"
+      ],
+      "en": "place/act of profession",
+      "note": "rare; the making of profession or the formula thereof",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "tepidus",
+      "forms": [
+        "tepidus",
+        "tepidi",
+        "tepida",
+        "tepidos",
+        "tepidorum"
+      ],
+      "en": "lukewarm",
+      "note": "the spiritually lukewarm religious (Rev 3:16 register); keep 'lukewarm'",
+      "clusters": [
+        "monastic-reform",
+        "devotional"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "fervor",
+      "forms": [
+        "fervor",
+        "fervoris",
+        "fervorem"
+      ],
+      "en": "fervour",
+      "note": "spiritual ardour (opp. tepiditas); keep 'fervour'",
+      "clusters": [
+        "devotional",
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "primitivus",
+      "forms": [
+        "primitivus",
+        "primitiva",
+        "primitivae",
+        "primitivam"
+      ],
+      "en": "primitive / of the early (Church/Order)",
+      "note": "ecclesia primitiva / primitiva observantia = the early Church / original observance — a reform ideal",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "institutum",
+      "forms": [
+        "institutum",
+        "instituti",
+        "instituta",
+        "institutorum"
+      ],
+      "en": "institute / ordinance",
+      "note": "an established practice/ordinance (instituta patrum = the fathers' ordinances); not modern 'institute' org",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "perfectus",
+      "forms": [
+        "perfectus",
+        "perfecti",
+        "perfectum",
+        "perfectorum"
+      ],
+      "en": "perfect / one made perfect",
+      "note": "spiritually perfect; viri perfecti = those advanced in perfection",
+      "clusters": [
+        "devotional",
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "incipit",
+      "forms": [
+        "incipit"
+      ],
+      "en": "here begins",
+      "note": "manuscript/print formula opening a work; render 'Here begins' (or keep as a heading)",
+      "clusters": [
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "explicit",
+      "forms": [
+        "explicit"
+      ],
+      "en": "here ends",
+      "note": "closing formula of a work/book; render 'Here ends'",
+      "clusters": [
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "prologus",
+      "forms": [
+        "prologus",
+        "prologi",
+        "prologum",
+        "prohemium",
+        "prooemium",
+        "proemium"
+      ],
+      "en": "prologue / preface",
+      "note": "the opening preface of a work; 'prologue/preface'",
+      "clusters": [
+        "bibliographic",
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "epistola",
+      "forms": [
+        "epistola",
+        "epistolae",
+        "epistolam",
+        "epistolas"
+      ],
+      "en": "letter / epistle",
+      "note": "a letter (often the dedicatory epistle); 'letter/epistle'",
+      "clusters": "all",
+      "source": "editorial"
+    },
+    {
+      "lemma": "dedicatio",
+      "forms": [
+        "dedicatio",
+        "dedicationis",
+        "dedicationem"
+      ],
+      "en": "dedication",
+      "note": "the dedicatory address of a work to a patron; 'dedication'",
+      "clusters": [
+        "bibliographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "patronus",
+      "forms": [
+        "patronus",
+        "patroni",
+        "patronum"
+      ],
+      "en": "patron",
+      "note": "the patron/dedicatee or a patron saint — disambiguate by context",
+      "clusters": [
+        "bibliographic",
+        "marian-hagiographic"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "lector",
+      "forms": [
+        "lector",
+        "lectoris",
+        "lectorem"
+      ],
+      "en": "reader",
+      "note": "the addressed reader (ad lectorem = to the reader); also the monastic office of reader",
+      "clusters": [
+        "bibliographic",
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "exemplar",
+      "forms": [
+        "exemplar",
+        "exemplaris",
+        "exemplaria"
+      ],
+      "en": "exemplar / copy-text",
+      "note": "the master copy from which a manuscript is copied; 'exemplar/model'",
+      "clusters": [
+        "bibliographic",
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "manualis",
+      "forms": [
+        "manualis",
+        "manuales",
+        "manualium",
+        "manualem"
+      ],
+      "en": "by hand / manual",
+      "note": "scriptor manualis = a scribe who copies by hand (De Laude Scriptorum Manualium)",
+      "clusters": [
+        "monastic-reform"
+      ],
+      "source": "editorial"
+    },
+    {
+      "lemma": "steganographia",
+      "forms": [
+        "steganographia"
+      ],
+      "en": "covered writing — the art of hidden/occult correspondence",
+      "note": "From Greek στεγανός (covered) + γραφή (writing). The work's title.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "polygraphia",
+      "forms": [
+        "polygraphia"
+      ],
+      "en": "many-writing — the art of writing in many ways",
+      "note": "From Greek πολύς (many) + γραφή.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "clavis",
+      "forms": [
+        "clavis"
+      ],
+      "en": "a key (to a cipher)",
+      "note": "Title of two companion keys to the Steganographia and Polygraphia.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "modus",
+      "forms": [
+        "modus"
+      ],
+      "en": "a method / mode (of enciphering)",
+      "note": "Each Polygraphia book presents a distinct modus.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "tabula",
+      "forms": [
+        "tabula"
+      ],
+      "en": "a table",
+      "note": "tabula recta = the straight/alphabet-rotation table (pre-Vigenère).",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "recta",
+      "forms": [
+        "recta"
+      ],
+      "en": "straight, correct",
+      "note": "In 'tabula recta', the canonical polyalphabetic grid.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "alphabetum",
+      "forms": [
+        "alphabetum"
+      ],
+      "en": "an alphabet (a substitution set)",
+      "note": "Plural alphabeti. Each column in a Polygraphia table is one alphabetum.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "salutatio",
+      "forms": [
+        "salutatio"
+      ],
+      "en": "a greeting / salutation",
+      "note": "The Ave Maria cipher disguises letters as pious salutations.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "nuncupatio",
+      "forms": [
+        "nuncupatio"
+      ],
+      "en": "the calling upon / naming (of a spirit)",
+      "note": "",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "orchema",
+      "forms": [
+        "orchema"
+      ],
+      "en": "a numerical scheme / arrangement",
+      "note": "orchema numerale: Trithemius's letter-to-number system.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "numerus",
+      "forms": [
+        "numerus"
+      ],
+      "en": "a number",
+      "note": "The 'order of numerical letters' assigns each a code.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "litera",
+      "forms": [
+        "litera"
+      ],
+      "en": "a letter",
+      "note": "Plural literae. Trithemius's 24-letter alphabet omits j.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "subiectio",
+      "forms": [
+        "subiectio"
+      ],
+      "en": "a subjection / substitution",
+      "note": "Mapping one letter or number under another.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "figura",
+      "forms": [
+        "figur",
+        "figura",
+        "figurae",
+        "figuram",
+        "figurarum",
+        "figuras",
+        "figuris"
+      ],
+      "en": "a figure — a tabular or diagrammatic cipher form",
+      "note": "",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "coniuratio",
+      "forms": [
+        "coniuratio"
+      ],
+      "en": "a conjuration / binding spell",
+      "note": "The Steganographia's spirit operations open with one.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "coniurationem",
+      "forms": [
+        "coniurationem"
+      ],
+      "en": "a conjuration (accusative form of coniuratio)",
+      "note": "",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "spiritus",
+      "forms": [
+        "spiritus"
+      ],
+      "en": "a spirit",
+      "note": "The Steganographia operates through planetary/cardinæ spirits.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "princeps",
+      "forms": [
+        "princeps"
+      ],
+      "en": "a prince — a ruling spirit",
+      "note": "Plural principes. Each wind-direction has one.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "dux",
+      "forms": [
+        "dux"
+      ],
+      "en": "a duke — a spirit rank beneath a prince",
+      "note": "Plural duces. Day- and night-dukes serve each prince.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "comes",
+      "forms": [
+        "comes"
+      ],
+      "en": "a count / companion — a spirit rank",
+      "note": "Plural comites.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "minister",
+      "forms": [
+        "minister"
+      ],
+      "en": "a minister / servant-spirit",
+      "note": "Lower-ranking spirits subordinate to the dukes.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "oriens",
+      "forms": [
+        "oriens"
+      ],
+      "en": "the East",
+      "note": "Also the name of the eastern spirit-quarter.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "occidens",
+      "forms": [
+        "occidens"
+      ],
+      "en": "the West",
+      "note": "",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "meridies",
+      "forms": [
+        "meridies"
+      ],
+      "en": "the South (noon)",
+      "note": "",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "septentrio",
+      "forms": [
+        "septentrio"
+      ],
+      "en": "the North",
+      "note": "",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "arcanum",
+      "forms": [
+        "arcanum"
+      ],
+      "en": "a secret / mystery",
+      "note": "Plural arcana.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "secretum",
+      "forms": [
+        "secretum"
+      ],
+      "en": "a secret thing",
+      "note": "Often paired with arcanum.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "ars",
+      "forms": [
+        "ars"
+      ],
+      "en": "an art / craft",
+      "note": "ars steganographiae = the art of covered writing.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "liber",
+      "forms": [
+        "liber"
+      ],
+      "en": "a book",
+      "note": "Plural libri. The Polygraphia has six.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "ordine",
+      "forms": [
+        "ordine"
+      ],
+      "en": "in order / by arrangement",
+      "note": "",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "secundum",
+      "forms": [
+        "secundum"
+      ],
+      "en": "according to / following",
+      "note": "e.g. secundum ordinem = according to the order.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "nigromantia",
+      "forms": [
+        "nigromantia"
+      ],
+      "en": "necromancy",
+      "note": "What Trithemius's critics accused the Steganographia of being.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "cabala",
+      "forms": [
+        "cabala"
+      ],
+      "en": "Kabbalah",
+      "note": "Trithemius cites cabalistic number-operations in Book VI.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "elementa",
+      "forms": [
+        "elementa"
+      ],
+      "en": "the elements / first principles",
+      "note": "",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "exemplum",
+      "forms": [
+        "exemplum"
+      ],
+      "en": "an example",
+      "note": "Trithemius illustrates each modus with one.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    },
+    {
+      "lemma": "vulgaris",
+      "forms": [
+        "vulgaris"
+      ],
+      "en": "common / ordinary",
+      "note": "scriptura vulgaris = plain writing, opposed to cipher.",
+      "clusters": [
+        "crypto-occult"
+      ],
+      "source": "technical"
+    }
+  ]
+}

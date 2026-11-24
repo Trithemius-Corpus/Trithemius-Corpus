@@ -1,6 +1,8 @@
 {% extends "base.html.j2" %}
 {% from "_macros.html.j2" import breadcrumb with context %}
+{% from "_search_metadata.html.j2" import search_metadata %}
 {% block title %}{{ work.title }} &mdash; {{ content_type.label }} &mdash; Trithemius Corpus{% endblock %}
+{% block head %}{{ search_metadata(work, "apparatus") }}{% endblock %}
 {% block body %}
 
 <article class="style-c-page">
@@ -12,6 +14,7 @@
   <h1 class="work-title">{{ work.title }}</h1>
   {% if work.title_en %}<p class="work-subtitle">{{ work.title_en }}</p>{% endif %}
   <p class="work-id"><code>{{ work.id }}</code> &middot; Style&nbsp;C / <strong>{{ content_type.label }}</strong></p>
+  {% if work.source and work.source.image_rights %}<p class="muted"><a href="{{ work.source.url }}">{{ work.source.image_credit }}</a> supplies the source images under <a href="{{ work.source.image_rights }}">{{ work.source.image_rights_label }}</a>.</p>{% endif %}
   <div class="badges">
     <span class="badge status-origin">{{ work.text_origin }}</span>
     <span class="badge status-review">{{ work.human_review }}</span>
@@ -33,7 +36,8 @@
 {% endif %}
 
 {% if content_type.intro_html %}
-<section class="style-c-intro">
+<section class="style-c-intro" data-pagefind-body>
+<span id="apparatus-introduction"></span>
 {{ content_type.intro_html|safe }}
 </section>
 {% endif %}
@@ -68,7 +72,8 @@
         </figcaption>
       </figure>
       {% endif %}
-      <div class="style-c-rendering">
+      <div class="style-c-rendering" data-pagefind-body>
+        <span id="rendering-{{ chunk.name }}"></span>
         {{ chunk.html|safe }}
       </div>
     </div>

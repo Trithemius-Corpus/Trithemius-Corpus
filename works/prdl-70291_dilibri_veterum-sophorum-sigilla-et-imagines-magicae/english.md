@@ -1,6 +1,6 @@
 # Veterum Sophorum Sigilla et Imagines Magicae (pseudo-Trithemian, 1612)
 
-> Machine-assisted English translation. Work `prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae`. Tier S · faithful 4.69 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.
+> Machine-assisted English translation. Work `prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae`. The machine audit predates the local AI corrections of 2026-11-18. Historical tier S · faithful 4.69 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.
 
 ---
 
@@ -27,11 +27,10 @@ There is added the true method of making them, and the astonishing erection of t
 
 By the authors:
 Zoroaster, the Chaldaean;
-Solomon, [unclear];
-Raphael, the Jew;
-Chael, the Egyptian;
-Hermes, the Persian;
-Thetel.
+Solomon, king of the Jews;
+Raphael and Chael, Jews;
+Hermes, the Egyptian;
+Thetel, the Persian.
 
 Drawn from a manuscript of Johannes Trithemius.
 

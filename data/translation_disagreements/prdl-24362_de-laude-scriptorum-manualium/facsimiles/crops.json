@@ -1,0 +1,167 @@
+{
+  "scribes-001": {
+    "canvas_number": 5,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-001-crop.png",
+    "xywh": [
+      341,
+      1203,
+      1479,
+      292
+    ],
+    "sha256": "695e97cb0c7cd8d4ad93abbadeb7836cd0071914054ccf8f5c918a0b8813fe5c"
+  },
+  "scribes-002": {
+    "canvas_number": 20,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-002-crop.png",
+    "xywh": [
+      494,
+      486,
+      1416,
+      389
+    ],
+    "sha256": "cecc0baf2d7d91709c0130fcba40579d02bb426e241ed709d406e98956674958"
+  },
+  "scribes-003": {
+    "canvas_number": 8,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-003-crop.png",
+    "xywh": [
+      504,
+      1293,
+      1467,
+      421
+    ],
+    "sha256": "df5145e919c6965ad1228da121e8fd766caeb14026044775d0ed8094df624fb5"
+  },
+  "scribes-004": {
+    "canvas_number": 40,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-004-crop.png",
+    "xywh": [
+      452,
+      1077,
+      1446,
+      293
+    ],
+    "sha256": "5a53d531a3f855cb27a666c99f6886a5597b61e03e97c9464a003333a92ec6a6"
+  },
+  "scribes-005": {
+    "canvas_number": 40,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-005-crop.png",
+    "xywh": [
+      452,
+      750,
+      1446,
+      294
+    ],
+    "sha256": "412f9843b47b29b73b10dac4126a6a3055f3827b2b8d1f4bb1997607176837a4"
+  },
+  "scribes-006": {
+    "canvas_number": 32,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-006-crop.png",
+    "xywh": [
+      452,
+      1978,
+      1469,
+      455
+    ],
+    "sha256": "8201a4061aadeeeee6b1e71a8df6534ceb7d5e6d07a73ef24e398282fb97f690"
+  },
+  "A-F18": {
+    "canvas_number": 14,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/A-F18-crop.png",
+    "xywh": [
+      465,
+      982,
+      1415,
+      253
+    ],
+    "sha256": "52b85f3544b7ef93f3c64bc873a29a049fae8366fe07cfb38870ba9cb3d05a79"
+  },
+  "A-F23": {
+    "canvas_number": 14,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/A-F23-crop.png",
+    "xywh": [
+      478,
+      2186,
+      1402,
+      207
+    ],
+    "sha256": "3ebbc6581921416a859abbf85c23f9223c39b14f5aabc24e4d869596c0920458"
+  },
+  "B-F10": {
+    "canvas_number": 27,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/B-F10-crop.png",
+    "xywh": [
+      310,
+      860,
+      1412,
+      243
+    ],
+    "sha256": "8ed4b5d6a9adbc433444d83721f2891b06e1fdbb1b8e5775798c718ec4517406"
+  },
+  "context-c-s03": {
+    "canvas_number": 41,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/context-c-s03-crop.png",
+    "xywh": [
+      380,
+      1488,
+      1349,
+      315
+    ],
+    "sha256": "7eff8f8f2976fd5b583e7e81e5b1c97fa900440aae5219a578023b90872fb6bc"
+  },
+  "B-F04": {
+    "canvas_number": 21,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/B-F04-crop.png",
+    "xywh": [
+      293,
+      1383,
+      1455,
+      542
+    ],
+    "sha256": "4e40d0a25d6b256414f2d408672923516de16c2c6ae0799caf4236f5bf598fef"
+  },
+  "scribes-feast-sacred-books": {
+    "canvas_number": 27,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-feast-sacred-books-crop.png",
+    "xywh": [
+      329,
+      1798,
+      1386,
+      314
+    ],
+    "sha256": "6d2d97299eaf80f9d96f82cd4290a0b7ccebcf8309f35db22a511714370f62ea"
+  },
+  "scribes-inward-exercises": {
+    "canvas_number": 32,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-inward-exercises-crop.png",
+    "xywh": [
+      493,
+      292,
+      1394,
+      405
+    ],
+    "sha256": "96c23bdb7a754a639894ab7f60c0afc47af3b204e05ab7bd0d74f4469adb5a5f"
+  },
+  "B-F03": {
+    "canvas_number": 20,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/B-F03-crop.png",
+    "xywh": [
+      528,
+      2352,
+      1410,
+      259
+    ],
+    "sha256": "a624534c030f75779c82a6f7d306c0a8fe961290a7daf8411b57e33cecf24f15"
+  },
+  "scribes-labors-continuation": {
+    "canvas_number": 21,
+    "crop_path": "data/translation_disagreements/prdl-24362_de-laude-scriptorum-manualium/facsimiles/scribes-labors-continuation-crop.png",
+    "xywh": [
+      293,
+      204,
+      1431,
+      204
+    ],
+    "sha256": "80e33048a03dc54cb7a781146a76df8fc7d04dd2cf7910805e6371454d147322"
+  }
+}

@@ -5,13 +5,13 @@ title: "[ocr] "
 labels: ocr
 ---
 
-**Work id**
+**Catalogue ID and OCR track**
 
-The directory name under `works/` — the `prdl-NNNNN` prefix is enough.
+Give the directory under `works/` (standard) or `works-t4b/` (Trithemius 4B).
 
 **Page number**
 
-The page in the source scan. The parallel viewer and, for the cryptographic works, the facsimile pages show the source page images; the work's `metadata.json` cites the holding institution and edition. Say which scan or image you read.
+Give the printed page or folio and link the image you read. The edition’s `metadata.json` identifies the holding institution and source record.
 
 **Current OCR reading**
 

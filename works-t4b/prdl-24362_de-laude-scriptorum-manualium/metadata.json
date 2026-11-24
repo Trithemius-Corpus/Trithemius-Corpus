@@ -4,9 +4,9 @@
   "edition_label": "Trithemius 4B edition",
   "title": "De Laude Scriptorum Manualium",
   "title_en": "In Praise of Scribes",
-  "year": "1494",
+  "year": "1492",
   "source_year": "1494",
-  "year_note": null,
+  "year_note": "Composed in 1492 (dedicatory letter); this BSB witness is catalogued as Mainz, 1494. The BSB catalogue records the 1492 dedication separately from the printing date.",
   "edition_info": "Mainz, 1494 (BSB)",
   "page_count": 46,
   "genre_cluster": "monastic-reform",
@@ -32,5 +32,12 @@
   "ocr_engine": "qwen3vl-4b-trithemius-q6 (Trithemius LoRA)",
   "translator": "gpt-5.5 (dual-context)",
   "canonical_backend": "qwen3vl-trithemius-q6-dual-gpt55",
-  "source_work_id": "prdl-24362_de-laude-scriptorum-manualium"
+  "source_work_id": "prdl-24362_de-laude-scriptorum-manualium",
+  "composition_year": "1492",
+  "ai_corrections": {
+    "date": "2026-11-23",
+    "count": 12,
+    "human_review": "none_documented",
+    "note": "The edition errata document scan-checked readings and earlier wording. The historical machine audit predates the corrections. The pen modifier remains provisional."
+  }
 }

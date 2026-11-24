@@ -1,0 +1,16 @@
+{
+  "21": {
+    "canvas": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/canvas/f21",
+    "label": "bpt6k5832538j, f21, printed p. 12",
+    "image_url": "https://gallica.bnf.fr/iiif/ark:/12148/bpt6k5832538j/f21/full/full/0/native.jpg",
+    "attribution": "Bibliothèque nationale de France, Gallica",
+    "rights": [
+      "https://gallica.bnf.fr/html/und/conditions-dutilisation-des-contenus-de-gallica"
+    ],
+    "review_date": "2026-11-23",
+    "source_note": "Full-page WebP from the archived corpus derivative of Gallica f21. Coordinates refer to that 1400-pixel-wide derivative.",
+    "path": "data/translation_disagreements/prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam/facsimiles/canvas-021.webp",
+    "sha256": "c90e9be30b505c78fa4d9ed8ac0a63a96c99adc1e909a9617fbc4b9aacc47909",
+    "published_corpus_page": 21
+  }
+}

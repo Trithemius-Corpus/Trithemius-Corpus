@@ -23,6 +23,8 @@ import re
 import shutil
 import sys
 from pathlib import Path
+from edition_corrections import history, restore_track
+from publication_guard import staged_directory
 
 ROOT = Path(__file__).resolve().parents[1]
 MANIFEST = ROOT / "manifest.json"
@@ -55,7 +57,6 @@ WRONG_SOURCE_SEGMENTS = {
 
 if str(HARNESS_SCRIPTS) not in sys.path:
     sys.path.insert(0, str(HARNESS_SCRIPTS))
-from latin_translation_harness import records_from_file  # noqa: E402
 from clean_latin_ocr import clean_text as clean_latin_ocr_text  # noqa: E402
 
 
@@ -216,6 +217,7 @@ def load_manifest_works() -> list[dict]:
 
 def choose_source_records(work_dir: Path, pub_dir: Path) -> tuple[Path, list[dict], list[tuple[Path, list[dict]]]]:
     """Pick the OCR stream that matches the public translation chunk stream."""
+    from latin_translation_harness import records_from_file
     target = len(list(pub_dir.glob("full_chunk_*.md")))
     candidates: list[tuple[int, int, Path, list[dict]]] = []
     for priority, rel in enumerate(SOURCE_CANDIDATES):
@@ -289,9 +291,23 @@ def grades_for(work_id: str) -> list[dict]:
 
 def build_one(w: dict) -> dict:
     wid = w["id"]
+    target = WORKS / wid
+    corrected = any(edit["track"] == "earlier" for ledger in history(ROOT, wid) for edit in ledger["changes"])
+    if w.get("ai_corrections") and not corrected:
+        raise ValueError(f"{wid}: missing correction history for the earlier edition")
+    if not corrected or not (CORPUS / wid / "translations/public/full").is_dir():
+        return write_artifacts(w, target)
+    with staged_directory(target, seed=True) as stage:
+        result = write_artifacts(w, stage)
+        if "skipped" not in result:
+            restore_track(ROOT, wid, "earlier", stage, target)
+    return result
+
+
+def write_artifacts(w: dict, wdir: Path) -> dict:
+    wid = w["id"]
     corpus_dir = CORPUS / wid
     pub = CORPUS / wid / "translations" / "public" / "full"
-    wdir = WORKS / wid
     wdir.mkdir(parents=True, exist_ok=True)
 
     if not pub.is_dir():
@@ -369,6 +385,9 @@ def build_one(w: dict) -> dict:
         "title": title,
         "year": w.get("year"),
         "source_year": w.get("source_year"),
+        "composition_year": w.get("composition_year"),
+        "attribution": w.get("attribution"),
+        "ai_corrections": w.get("ai_corrections"),
         "year_note": w.get("year_note"),
         "edition_info": w.get("edition_info"),
         "edition_info_raw": w.get("edition_info_raw"),
@@ -400,6 +419,8 @@ def build_one(w: dict) -> dict:
             "parallel_viewer": f"https://trithemius-corpus.github.io/Trithemius-Corpus/works/{wid}_parallel.html",
         },
     }
+    if w.get("publication_modified"):
+        meta["publication_modified"] = w["publication_modified"]
     (wdir / "metadata.json").write_text(
         json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
 

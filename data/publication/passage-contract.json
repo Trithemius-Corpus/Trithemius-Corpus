@@ -1,0 +1,268 @@
+{
+  "based_on": "870a6c62c9decad9d86cef63c026adbf3a81bee2",
+  "works": {
+    "prdl-24357_abbreviatura-recessuum-capitularium-patrum-ordinis-divi": {
+      "count": 1088,
+      "sha256": "1d2d4e008b39700f3fd8b81ef15039103259a6563b45ea342964e3049f811d7f"
+    },
+    "prdl-24360_compendium-breviarium-primi-voluminis-annalium-historiarum-origine-regum": {
+      "count": 1259,
+      "sha256": "a07dd931a6655efe557e5b3f7418605a100b457666f5d19361f7d5f2c97b3c48"
+    },
+    "prdl-24361_de-cura-pastorali": {
+      "count": 43,
+      "sha256": "0cff6e31fcc3fcf7342ea4a9239a1aee70c2617667c56f7850f472084e60fd9d"
+    },
+    "prdl-24362_de-laude-scriptorum-manualium": {
+      "count": 99,
+      "sha256": "4d8311d3cb096806d8972acf4b0b92defd849b2c948132da2dacac257d31f1bc"
+    },
+    "prdl-24363_de-laudibus-ordinis-fratrum-carmelitarum": {
+      "count": 206,
+      "sha256": "531908b003f693356e178a598a7aa04ddcf1a11fece3ed23a6f036d14c7897da"
+    },
+    "prdl-24364_de-laudibus-sanctissimae-matris-annae": {
+      "count": 113,
+      "sha256": "570f0b36779aa9684d13c89669bb21a836268fe03b0ead239a3859711fe086b2"
+    },
+    "prdl-24365_de-laudibus-sanctissimae-matris-annae": {
+      "count": 220,
+      "sha256": "4c8b11756d62f016dda3082c636eb127e94487fc8f4a3f4f6a09cfd16f3362d1"
+    },
+    "prdl-24366_de-laudibus-sanctissimae-matris-annae-liptzk-1497": {
+      "count": 308,
+      "sha256": "9b18a1a4621cab456c77d7aa07e3193a71c756d340de557471fe5de7e3a5cd1f"
+    },
+    "prdl-24367_de-laudibus-sanctissimae-matris-annae-liptzk-1501": {
+      "count": 242,
+      "sha256": "c24eac01d19d6b7dbd6393f49551b7b2b370d67210ec33712fed0baa9a366d96"
+    },
+    "prdl-24368_de-operatione-divini-amoris": {
+      "count": 49,
+      "sha256": "346ab2742b58cbd9acfc68258dc9edb416b3ff56aa20e334f60520dc040f24cb"
+    },
+    "prdl-24369_de-purissima-et-immaculata-conceptione-virginis": {
+      "count": 55,
+      "sha256": "74d50fcc18fd4695b83c56a9195456879cc5ea6c1de9b2abcf3aa16fef9101ae"
+    },
+    "prdl-24370_de-purissima-et-immaculata-conceptione-virginis": {
+      "count": 49,
+      "sha256": "eedf866f48a99377d8b01ff65d1e64efbd82f3958f228676dc58091038000c1a"
+    },
+    "prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis": {
+      "count": 46,
+      "sha256": "82a8af29c366aea3737e1eb4b05d328b2283cd725965492c7037befff548d3c1"
+    },
+    "prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis": {
+      "count": 45,
+      "sha256": "c7ae90fde5328f2ff3a7df2bec4e6de134be7e67c32e93710a93e507426c5f06"
+    },
+    "prdl-24373_de-statu-et-ruina-monastici-ordinis": {
+      "count": 128,
+      "sha256": "04565557d34bdc1813bf0050402bb4b3b81c4db13c1537a972c6a3b98efee462"
+    },
+    "prdl-24374_de-vanitate-et-miseria-humanae-vitae": {
+      "count": 81,
+      "sha256": "245a095c9cd32e451532bc745dc48b93100e2fd67da16c069ac632f15e868cac"
+    },
+    "prdl-24375_de-vera-conversione-mentis-ad-deum": {
+      "count": 54,
+      "sha256": "144157a992d74a3672fa1ec53928cc08a0597f00fe72fdc7f4a27fb210f1cf5b"
+    },
+    "prdl-24376_ecloga-de-laude-calvorum-ad-carolum": {
+      "count": 41,
+      "sha256": "641d5821ad59c1246603a8174ec0cdc9cc20d1b0589332b19e9ad48c3f90fb0b"
+    },
+    "prdl-24378_institutio-vitae-sacerdotalis": {
+      "count": 97,
+      "sha256": "f718fec9e6a02b03cffe28f6d9565c9ac081605db403bc26e6d264130e5357bf"
+    },
+    "prdl-24379_institutio-vitae-sacerdotalis": {
+      "count": 90,
+      "sha256": "65c4fc191546d3c3ea9fed04c25ec1d5070b2ec67ef0976676bee2a2731cfc58"
+    },
+    "prdl-24380_admonitiones-exhortationes-monachos": {
+      "count": 1630,
+      "sha256": "8056d4e5b24208e3bfcd5d34cb46d8254d7fcc4b5a116d47b075964d9e027703"
+    },
+    "prdl-24381_octo-quaestionum-maximilianum-caesarem": {
+      "count": 262,
+      "sha256": "3d3bf6ffc139e1f59d86f8fb6f3bdaa5b64db03d213ba53308622d99d6e66072"
+    },
+    "prdl-24382_octo-quaestionum-maximilianum-caesarem": {
+      "count": 172,
+      "sha256": "1e7ea74f706ae84e2e42ec38a841061c984a689d9c311ccd93a55d1202608efc"
+    },
+    "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus": {
+      "count": 69,
+      "sha256": "2bee403a20eace9cb85e4640cf0ac3e646c57e4efc9b146a5c4ecec966834658"
+    },
+    "prdl-24385_liber-de-triplici-regione-claustralium-et": {
+      "count": 887,
+      "sha256": "e68f4b9c186d1f2f4e03bbca55cbc002ec9a6e684e8193f6664f2b745ff07f4b"
+    },
+    "prdl-24386_liber-de-triplici-regione-claustralium-et": {
+      "count": 807,
+      "sha256": "ddc8e2a9213dd1dfcb0e4cd335754be202827cc3c2dba1f6e697401e2199d3f8"
+    },
+    "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis": {
+      "count": 1399,
+      "sha256": "75bf3b7296402af5c697509168da125ac2b61294bde9f8257fe4ae5085204f5c"
+    },
+    "prdl-24390_polygraphiae-libri-vi": {
+      "count": 1395,
+      "sha256": "5281067d47210e4ab25780cc82a2eb7a2cc7f8d2e069e0ded36b2597ce08c164"
+    },
+    "prdl-24391_polygraphiae-libri-vi": {
+      "count": 1824,
+      "sha256": "d79ee316e7d5a26b81641f8540131db728a5036d73d0ad543a8fca2e2e1047f8"
+    },
+    "prdl-24393_sermones-et-exhortationes-ad-monachos-joa": {
+      "count": 961,
+      "sha256": "9e73449dd2dfbcbdb3839ddd7e2ec7881dbc9e989198acbdb7401aa6fe05c25e"
+    },
+    "prdl-24394_sermones-et-exhortationes-ad-monachos-joa": {
+      "count": 1034,
+      "sha256": "d684eefa892cc5ee06d298b4ff1914577e07bc880408da54cd3b007356396f33"
+    },
+    "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam": {
+      "count": 1145,
+      "sha256": "024ec02e5b18cd3f92d068f322cc8c1733023a6e9b5b17a6d53d59d4bf7a0a1b"
+    },
+    "prdl-32285_de-sacerdotum-vita-instituenda-libellus": {
+      "count": 148,
+      "sha256": "e72ebe80986a61b901692640c76473d3bd3c57965bf52b644ccc87cfbc699eb0"
+    },
+    "prdl-32286_octo-quaestionum-maximilianum-caesarem": {
+      "count": 288,
+      "sha256": "3b40cd04606c357f0b9bbdd5aa37a5e7ec801729690bc64d568dda0e65922f2c"
+    },
+    "prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive": {
+      "count": 329,
+      "sha256": "1554d219f41d863b063097f3d52d3193a0a5020561b5c7440091f2b77d321d7e"
+    },
+    "prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius": {
+      "count": 3686,
+      "sha256": "3ecaa2d064e46ff85e610beb9313c1632ade2d6be98734c55a1a7517edd4ca54"
+    },
+    "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos": {
+      "count": 1649,
+      "sha256": "201eaa2a83d267f6a87a8c3118b19d191ef74910736e1518faaefde464d640ec"
+    },
+    "prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui": {
+      "count": 1255,
+      "sha256": "278336a978be0ade1e503f2b8c1b89bea67593bb6b69fff979e37b531f59139f"
+    },
+    "prdl-70283_de-laudibus-sanctissimae-matris-annae-liptzk-1501-hab": {
+      "count": 153,
+      "sha256": "e7bcc5f2112a1ce1a46a82858a8a908c2168773deab39bc83ce0ab38e83f4f7d"
+    },
+    "prdl-70284_de-laudibus-sanctissimae-matris-annae": {
+      "count": 106,
+      "sha256": "328c373a5fa163aa384d8537941bc43b5293bdc2baf26d716826448608d803a0"
+    },
+    "prdl-70285_e-rara_de-triplici-regione-claustralium-et": {
+      "count": 789,
+      "sha256": "62cdec7d5dc5211a0f989189e395a4ee4721d696543bbfddfa95ccea3d43b62e"
+    },
+    "prdl-70286_octo-quaestionum-maximilianum-caesarem": {
+      "count": 266,
+      "sha256": "86e808f200caaef414a462b42a7130ce1ab7a7e213d606bc0eeb26656becf3e2"
+    },
+    "prdl-70287_joh-tritthemii-de-scriptoribus-ecclesiasticis-liber": {
+      "count": 5840,
+      "sha256": "524d78746010346ebe40820484ace2e0cd30b8b0d01f3a5c1f30ebd91f058181"
+    },
+    "prdl-70289_opera-historica-part": {
+      "count": 7193,
+      "sha256": "86c5e9d68c93ecb0bc9ee544c55c2212c489a9b0497bc74e31af931abeaaa8d9"
+    },
+    "prdl-70290_opera-historica-part-chronicon-hirsaugiense-sponheimense": {
+      "count": 7800,
+      "sha256": "a6ef2ef21f2ccfe99a8d5669f91b10f98b56828ec499e2d769a14b7781ea2487"
+    },
+    "prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae": {
+      "count": 218,
+      "sha256": "9ad3dc479cbb34bdd97d27da1c48f8cad5b7c73c0f903576c41fe8e6038668d5"
+    },
+    "prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines": {
+      "count": 257,
+      "sha256": "286175c4c27f3a21abff4f82cda3b96707b89abd388bd4c415d9332f2658044a"
+    }
+  },
+  "apparatus": {
+    "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis": {
+      "types": {
+        "cipher-grid": 15,
+        "cipher-key": 68,
+        "prose-damaged": 1
+      },
+      "sha256": "f9e04fd1164ba3641dd072f0351d29fc38687d424a362b1168432c58798481e6"
+    },
+    "prdl-24390_polygraphiae-libri-vi": {
+      "types": {
+        "cipher-grid": 11,
+        "cipher-key": 65,
+        "prose-damaged": 6
+      },
+      "sha256": "b5de6378544d126a045286520c50f01ff55520e6b7b6f5e3fd9128bc2d53e1c8"
+    },
+    "prdl-24391_polygraphiae-libri-vi": {
+      "types": {
+        "cipher-grid": 17,
+        "cipher-key": 72,
+        "prose-damaged": 1,
+        "untranslated": 13
+      },
+      "sha256": "0c0518fc3e4775cd983a280e6351bd4c362cadb609073d310b9835c298c2061e"
+    },
+    "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam": {
+      "types": {
+        "cipher-key": 39
+      },
+      "sha256": "5f28cc8209d32565e3395f733e04edc29246128c3345dd4b544029a8ed412dd6"
+    },
+    "prdl-32286_octo-quaestionum-maximilianum-caesarem": {
+      "types": {
+        "untranslated": 3
+      },
+      "sha256": "3f524c1a5b5cabe6843eee0fbdd8ad031572da93027d217edefcb06aef2d491a"
+    },
+    "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos": {
+      "types": {
+        "cipher-key": 6,
+        "prose-damaged": 24,
+        "untranslated": 10
+      },
+      "sha256": "d930955fa79ea7eb2d533474c9a06a6e4773c17f09f651ab0e313c2d5ace2819"
+    },
+    "prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui": {
+      "types": {
+        "cipher-grid": 11,
+        "cipher-key": 65,
+        "prose-damaged": 14,
+        "untranslated": 12
+      },
+      "sha256": "c89765d2041d760b8bd0caebe4a802d718694cb03fe535389f931906016aed67"
+    },
+    "prdl-70286_octo-quaestionum-maximilianum-caesarem": {
+      "types": {
+        "prose-damaged": 1,
+        "untranslated": 5
+      },
+      "sha256": "389c69de9d565060d48e073d47ca19bf23916f549524a71212db90f90f7db2c2"
+    },
+    "prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae": {
+      "types": {
+        "untranslated": 3
+      },
+      "sha256": "8fae44f0e083959f68bd653de401bd9abd4f3b677af96cc469b1163367a3ac58"
+    },
+    "prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines": {
+      "types": {
+        "untranslated": 1
+      },
+      "sha256": "17e43735d9817209f2e0e93376048320ad65c9b8e0a29493fedeab2cbabb8133"
+    }
+  }
+}

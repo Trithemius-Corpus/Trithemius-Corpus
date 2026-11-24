@@ -75,7 +75,7 @@ Sing songs in clear tones for bald men, Muses. Bald men lead companies renowned 
 
 The praise of bald men from the experience of the art of medicine, both pharmacological and surgical. Chapter 5.
 
-Sing songs in clear tones for bald men, Muses. You will find that bald men bring support to the brain. You will find that bald men cure catarrhs of the head. You will find that bald men cure blind cavities. A chronic disease with cancer, and cachexy too, yields to the bald man. Heart-sickness, gnawing the heart, is abolished; colic ceases. Drawing together the iron, he holds it fast in the cut flesh. He treats the corrupted blood of the head when the neck has been heated. Why do I sing of many more things? In a failing body he refutes all hidden ailments, and cures bodies that have collapsed.
+Sing songs in clear tones for bald men, Muses. You will find that bald men bring support to the brain. You will find that bald men cure catarrhs of the head. You will find that bald men cure blind cavities. A chronic disease with cancer, and cachexy too, yields to the bald man. Heart-sickness, gnawing the heart, is abolished; colic ceases. Wielding the steel, he stanches the corrupted blood of the head once the flesh is cut and the neck cauterized. Why do I sing of many more things? In a failing body he refutes all hidden ailments, and cures bodies that have collapsed.
 
 An undaunted invective against the reviler who abuses bald men. Chapter 6.
 

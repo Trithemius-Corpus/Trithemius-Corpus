@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.1",
+  "date": "2026-11-18",
+  "work_id": "prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI visual collation of the indicated BSB printed witness. The stored crops reproduce the original image pixels.",
+  "changes": [
+    {
+      "item_id": "commonwealth-plato",
+      "track": "t4b",
+      "passage": "p-t4b-9cd74a80b35c7f45",
+      "rendered_anchor_after": "p-t4b-b6591eef6d49dc53",
+      "before": "neither Plato in his inadequate work, nor Aristotle in eight books, nor Tullius in six volumes",
+      "after": "neither Plato in ten books, nor Aristotle in eight, nor Tullius in six volumes",
+      "files": [
+        "works-t4b/prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis/english.md",
+        "works-t4b/prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis/chunks/full_chunk_0001.md"
+      ],
+      "supporting_scans": [],
+      "occurrences": 2
+    }
+  ],
+  "metadata_edits": [],
+  "files": [
+    {
+      "path": "works-t4b/prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis/english.md",
+      "before_path": "data/translation_disagreements/prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis/snapshots/before-2026-11-18/works-t4b/prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis/english.md",
+      "before_sha256": "07d858152d8fd036557fae7f406ca50d6994b31d3081d0bdfcace949b39bc381",
+      "after_sha256": "24f0fb3548304a266004a1562baef5d394d4efa9397c67767af4824028c5e476"
+    },
+    {
+      "path": "works-t4b/prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis/chunks/full_chunk_0001.md",
+      "before_path": "data/translation_disagreements/prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis/snapshots/before-2026-11-18/works-t4b/prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis/chunks/full_chunk_0001.md",
+      "before_sha256": "3b6556633408ca3ad2b7ffc180705edfee9643e6c0b3ace8bcf206a3943b0806",
+      "after_sha256": "ee563d4dbfd17850f98e158e7c88265b2f2b44ef620b5504d1d9e760bb719183"
+    }
+  ]
+}

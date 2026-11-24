@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui",
+  "date": "2026-11-23",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI visual collation against the credited printed copy and the stored scan regions.",
+  "changes": [
+    {
+      "item_id": "key-numeral-cipher",
+      "track": "earlier",
+      "passage": "p-en-0116-0004",
+      "before": "Iaaibid ifeib, ieifeigeiccbkib, cakcebhid, id et amp;kahk, gidsbid, cigib, iceigihg ibkgig.&kif, iaiahibifid,ibeicdaka.eib.ieiei et amp;kaib.",
+      "after": "Iaaihid ifeib, ieifeigeicchkib. cakeihid. i&kahk. gidibid. eigih. ieeigigh ibkig. &kif. iaaihifid, ibeicdaka eih. icei&kaib.",
+      "files": [
+        "works/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/english.md",
+        "works/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/chunks/full_chunk_0116.md"
+      ],
+      "supporting_scans": [
+        "key-numeral-alphabet"
+      ]
+    },
+    {
+      "item_id": "key-numeral-cipher",
+      "track": "t4b",
+      "passage": "p-t4b-8c6269e18c41ed66",
+      "before": "Iaaibid ifeib, ieifeigeiccbkib, cakcebhid, id&kahk, gidsbid, cigib, iceigihg ibkgig.&kif, iaiahibifid, ibeicdaka.eib.ieiei&kaib.",
+      "after": "Iaaihid ifeib, ieifeigeicchkib. cakeihid. i&kahk. gidibid. eigih. ieeigigh ibkig. &kif. iaaihifid, ibeicdaka eih. icei&kaib.",
+      "files": [
+        "works-t4b/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/english.md",
+        "works-t4b/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/chunks/full_chunk_0121.md"
+      ],
+      "supporting_scans": [
+        "key-numeral-alphabet"
+      ],
+      "rendered_anchor_after": "p-t4b-08e374a20ac918b4"
+    }
+  ],
+  "metadata_edits": [
+    {
+      "path": "works/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/english.md",
+      "before": "> Machine-assisted English translation. Work `prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui`. Tier S · faithful 4.59 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.",
+      "after": "> Machine-assisted English translation. Work `prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui`. The machine audit predates the local AI corrections of 2026-11-23. Historical tier S · faithful 4.59 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`."
+    }
+  ],
+  "files": [
+    {
+      "path": "works/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/english.md",
+      "before_path": "data/translation_disagreements/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/snapshots/before-2026-11-23/works/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/english.md",
+      "before_sha256": "24d09468e4f9cc564f50cef5886355a40d88b5c0b83429a00c1ffd00afd60d69",
+      "after_sha256": "e53d1081cb4a72767526f219036993b8bd7e53130ea14d5a5dfe7fa2deac923d"
+    },
+    {
+      "path": "works/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/chunks/full_chunk_0116.md",
+      "before_path": "data/translation_disagreements/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/snapshots/before-2026-11-23/works/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/chunks/full_chunk_0116.md",
+      "before_sha256": "2e1fd61fdb50d42d15618c897bf2a1eafea54430632fd89120893f6babf810fc",
+      "after_sha256": "193a8753e5edb5cd4ae1cab4cca2e9bd743030950d179228ea7b81f3bd44832a"
+    },
+    {
+      "path": "works-t4b/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/english.md",
+      "before_path": "data/translation_disagreements/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/snapshots/before-2026-11-23/works-t4b/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/english.md",
+      "before_sha256": "0e49163a4cb95c5d510abbb2a63d65c49163998246c29dfa2602eb65e0ab5e0a",
+      "after_sha256": "8d715e24948818f0ea0afaea239a0aa0d4ad6e872b332d03859d2a705abf9c9c"
+    },
+    {
+      "path": "works-t4b/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/chunks/full_chunk_0121.md",
+      "before_path": "data/translation_disagreements/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/snapshots/before-2026-11-23/works-t4b/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/chunks/full_chunk_0121.md",
+      "before_sha256": "6a7c878718643a34eddb548e83d746fe5936b7c244033021f32beffed4750d5b",
+      "after_sha256": "265040779230aba30910b1c1c361a39e51c3647ffd91107260f05d7ec32e5b9b"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.1",
+  "date": "2026-11-23",
+  "work_id": "prdl-70284_de-laudibus-sanctissimae-matris-annae",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI comparison of the standard translation with the same BSB scan catalogued as prdl-24364. No human verification is documented.",
+  "changes": [
+    {
+      "item_id": "anne-alias-petitioners",
+      "track": "earlier",
+      "passage": "p-en-0003-0001",
+      "before": "Thus, Anna, prepare us to bring pure prayers to your grandson.",
+      "after": "Thus, Anna, prepare us to be pure when we offer prayers to your grandson.",
+      "files": [
+        "works/prdl-70284_de-laudibus-sanctissimae-matris-annae/english.md",
+        "works/prdl-70284_de-laudibus-sanctissimae-matris-annae/chunks/full_chunk_0003.md"
+      ],
+      "supporting_scans": []
+    }
+  ],
+  "metadata_edits": [
+    {
+      "path": "works/prdl-70284_de-laudibus-sanctissimae-matris-annae/english.md",
+      "before": "> Machine-assisted English translation. Work `prdl-70284_de-laudibus-sanctissimae-matris-annae`. Tier S · faithful 4.5 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.",
+      "after": "> Machine-assisted English translation. Work `prdl-70284_de-laudibus-sanctissimae-matris-annae`. The recorded machine audit predates the AI correction of 2026-11-23. Historical tier S · faithful 4.5 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`."
+    }
+  ],
+  "files": [
+    {
+      "path": "works/prdl-70284_de-laudibus-sanctissimae-matris-annae/english.md",
+      "before_path": "data/translation_disagreements/prdl-70284_de-laudibus-sanctissimae-matris-annae/snapshots/before-2026-11-23/works/prdl-70284_de-laudibus-sanctissimae-matris-annae/english.md",
+      "before_sha256": "da78d5d9b0174ffc21a156e136dab9c8d54f20eb3397533e1e8da292413289a6",
+      "after_sha256": "fc5c540e1e9a7c407637fc6aa928e4b02ebdd7faa09b2f0cca67253b7686908a"
+    },
+    {
+      "path": "works/prdl-70284_de-laudibus-sanctissimae-matris-annae/chunks/full_chunk_0003.md",
+      "before_path": "data/translation_disagreements/prdl-70284_de-laudibus-sanctissimae-matris-annae/snapshots/before-2026-11-23/works/prdl-70284_de-laudibus-sanctissimae-matris-annae/chunks/full_chunk_0003.md",
+      "before_sha256": "a2a55ac2e46be85fa8f0011186330ad9aafe53a51d13cbcec2685fd13b815deb",
+      "after_sha256": "9e377cfb8d0fdef91f21c7191c2b7f78b3e7bac7795000a14a7c14a665367886"
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 *John Trithemius, Abbot of Sponheim.*
 
 *Alphabet.*
-Ax.bz.ca.db.ec.fd.ge.hf.gk.li.mk.nl.om.pr.qo.rs.sq.tr.vs.xtz.Zv.
+Ax.bz.ca.db.ec.fd.ge.hf.ig.kh.li.mk.nl.om.pn.qo.rp.sq.tr.vs.xt.zv.
 
 *Intention of the Mystery.*
 I beg you, come to me at once; it is very urgent.
 
 *Signifying Letters.*
-G.afz gbcpgafhm k.jmlqrsibxl vskg rg qbj eq etp mgr.
+G a f z g b c p g a f h m k s m l q r s i b x l v s k g r g q b s e q e t p m g r
 
 *Example of the Second.*
 Creator of the human race, God, look upon your servants. Govern them with zeal for righteousness, so that, living well, we may obtain the reward, the joy of the heavenly ones. Help us, frail and wretched human beings, and adorn us with holy morals; [unclear], we beseech you, illumine our minds with light, so that we may diligently call to mind your passion, with tears and good works. Jesus Christ, Savior, free us by the power of your shed blood. Ruler of Catholic unity, save your gravely afflicted people, whom long ago, dying on the cross, you redeemed by your most blessed shed blood. See how grievously the people is afflicted under the most cruel Turk. Free us wretches through the [love?] by which you redeemed us.

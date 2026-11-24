@@ -785,7 +785,7 @@ BOOK VI. 77
 
 whatever you wish, and no one will be able to penetrate your hidden secret except the one who knows the secret of the art. For all who see the writing will think that the letters have been transposed, and they will labor in vain in reckoning them up. Let us set down an example:
 
-laaibid ifeib, ieifeigeicckhib, cakeibid. i et kabb. gidbhid. eigih ieeigigh ibkig. & kif. iaaibifhid ibeicdaka. eih. icei et kaib.
+laaihid ifeib, ieifeigeicchkib, cakeibid. i&kabk. gidibid. eigih ieeigigh ibkig. & kif. iaaihifid ibeicdaka. eih. icei&kaib.
 
 The hidden meaning of this writing is as follows: Beware the bearer of the present letters, because he is a very wicked man, a thief, a robber, a liar, and worthless.
 

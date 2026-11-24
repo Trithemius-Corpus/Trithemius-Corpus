@@ -1,0 +1,13 @@
+{
+  "sigilla-title-authors": {
+    "canvas_number": 5,
+    "crop_path": "data/translation_disagreements/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/facsimiles/sigilla-title-authors.png",
+    "xywh": [
+      200,
+      1225,
+      775,
+      446
+    ],
+    "sha256": "934e67e181f515e86fb9d0790cbf7091c8e17df7dec48eabbb55564909174ecb"
+  }
+}

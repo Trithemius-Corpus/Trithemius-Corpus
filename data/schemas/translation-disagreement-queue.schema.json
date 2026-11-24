@@ -1,0 +1,421 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Provisional translation disagreement queue",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "work_id",
+    "witness_id",
+    "sources",
+    "offset_convention",
+    "comparison_scope",
+    "coverage",
+    "summary",
+    "items",
+    "content_digest",
+    "candidate_id_version"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0"
+    },
+    "work_id": {
+      "type": "string",
+      "pattern": "^prdl-[0-9]+_[a-z0-9_-]+$"
+    },
+    "witness_id": {
+      "type": "string",
+      "pattern": "^bsb[0-9]{8}$"
+    },
+    "content_digest": {
+      "$ref": "#/$defs/hash"
+    },
+    "contextual_review": {
+      "type": "object",
+      "required": ["inventory_sha256", "report_sha256", "candidate_count"],
+      "properties": {
+        "inventory_sha256": {"$ref": "#/$defs/hash"},
+        "report_sha256": {"$ref": "#/$defs/hash"},
+        "candidate_count": {"type": "integer", "minimum": 0}
+      },
+      "additionalProperties": false
+    },
+    "sources": {
+      "type": "object",
+      "minProperties": 7,
+      "additionalProperties": {
+        "type": "object",
+        "required": [
+          "path",
+          "sha256"
+        ],
+        "properties": {
+          "path": {
+            "type": "string"
+          },
+          "sha256": {
+            "$ref": "#/$defs/hash"
+          },
+          "original_path": {
+            "type": "string"
+          }
+        },
+        "additionalProperties": false
+      },
+      "required": [
+        "earlier_english",
+        "earlier_latin",
+        "earlier_metadata",
+        "earlier_reader",
+        "t4b_english",
+        "t4b_latin",
+        "t4b_metadata",
+        "t4b_reader",
+        "passage_index"
+      ]
+    },
+    "coverage": {
+      "type": "object",
+      "required": [
+        "earlier_tokens",
+        "t4b_tokens",
+        "matched_tokens",
+        "lexical_difference_count"
+      ],
+      "properties": {
+        "earlier_tokens": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "t4b_tokens": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "matched_tokens": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "lexical_difference_count": {
+          "type": "integer",
+          "minimum": 0
+        }
+      },
+      "additionalProperties": false
+    },
+    "summary": {
+      "type": "object",
+      "required": [
+        "P1",
+        "P2",
+        "P3",
+        "excluded"
+      ],
+      "properties": {
+        "P1": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "P2": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "P3": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "excluded": {
+          "type": "integer",
+          "minimum": 0
+        }
+      },
+      "additionalProperties": false
+    },
+    "items": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "$ref": "#/$defs/item"
+      }
+    },
+    "offset_convention": {
+      "const": "zero-based Unicode code points in UTF-8 text with LF newlines; end exclusive; lines one-based"
+    },
+    "candidate_id_version": {
+      "const": "source-snapshot-v2"
+    },
+    "comparison_scope": {
+      "type": "object",
+      "required": [
+        "earlier",
+        "t4b"
+      ],
+      "properties": {
+        "earlier": {
+          "type": "array",
+          "prefixItems": [
+            {
+              "type": "integer",
+              "minimum": 0
+            },
+            {
+              "type": "integer",
+              "minimum": 1
+            }
+          ],
+          "minItems": 2,
+          "maxItems": 2
+        },
+        "t4b": {
+          "type": "array",
+          "prefixItems": [
+            {
+              "type": "integer",
+              "minimum": 0
+            },
+            {
+              "type": "integer",
+              "minimum": 1
+            }
+          ],
+          "minItems": 2,
+          "maxItems": 2
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "$defs": {
+    "hash": {
+      "type": "string",
+      "pattern": "^[a-f0-9]{64}$"
+    },
+    "reference": {
+      "type": "object",
+      "required": [
+        "path",
+        "sha256",
+        "start",
+        "end",
+        "start_line",
+        "end_line",
+        "quote"
+      ],
+      "properties": {
+        "path": {
+          "type": "string",
+          "minLength": 1
+        },
+        "sha256": {
+          "$ref": "#/$defs/hash"
+        },
+        "start": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "end": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "start_line": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "end_line": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "quote": {
+          "type": "string",
+          "minLength": 1
+        },
+        "reader_precision": {
+          "enum": [
+            "work",
+            "passage"
+          ]
+        },
+        "present_in_reading_view": {
+          "type": "boolean"
+        }
+      }
+    },
+    "item": {
+      "type": "object",
+      "required": [
+        "id",
+        "rank",
+        "priority",
+        "disposition",
+        "category",
+        "title",
+        "english",
+        "latin",
+        "difference",
+        "impact",
+        "latin_assessment",
+        "next_action",
+        "tentative_preference",
+        "review_status",
+        "facsimile_verified",
+        "lexical_candidates"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^scribes-[0-9]{3}$"
+        },
+        "rank": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "priority": {
+          "enum": [
+            "P1",
+            "P2",
+            "P3",
+            "excluded"
+          ]
+        },
+        "disposition": {
+          "enum": [
+            "queue",
+            "excluded"
+          ]
+        },
+        "category": {
+          "type": "string",
+          "minLength": 1
+        },
+        "title": {
+          "type": "string",
+          "minLength": 1
+        },
+        "difference": {
+          "type": "string",
+          "minLength": 1
+        },
+        "impact": {
+          "type": "string",
+          "minLength": 1
+        },
+        "latin_assessment": {
+          "type": "string",
+          "minLength": 1
+        },
+        "next_action": {
+          "type": "string",
+          "minLength": 1
+        },
+        "review_status": {
+          "const": "ai_triaged_pending_human_review"
+        },
+        "facsimile_verified": {
+          "const": false
+        },
+        "tentative_preference": {
+          "enum": [
+            "earlier",
+            "t4b",
+            "none"
+          ]
+        },
+        "english": {
+          "type": "object",
+          "required": [
+            "earlier",
+            "t4b"
+          ],
+          "properties": {
+            "earlier": {
+              "$ref": "#/$defs/reference"
+            },
+            "t4b": {
+              "$ref": "#/$defs/reference"
+            }
+          },
+          "additionalProperties": false
+        },
+        "latin": {
+          "type": "object",
+          "properties": {
+            "earlier": {
+              "$ref": "#/$defs/reference"
+            },
+            "t4b": {
+              "$ref": "#/$defs/reference"
+            }
+          },
+          "additionalProperties": false
+        },
+        "lexical_candidates": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "pattern": "^lex-[a-f0-9]{16}$"
+          }
+        },
+        "ai_scan_assessment": {
+          "type": "object",
+          "required": [
+            "decision",
+            "normalized_latin",
+            "reason",
+            "image",
+            "crop",
+            "reviewer",
+            "human_review"
+          ],
+          "properties": {
+            "reviewer": {
+              "const": "Codex AI"
+            },
+            "human_review": {
+              "const": "none_documented"
+            }
+          }
+        },
+        "local_corrections": {
+          "type": "object",
+          "required": [
+            "date",
+            "status",
+            "human_review",
+            "changes"
+          ],
+          "properties": {
+            "status": {
+              "const": "applied_locally"
+            },
+            "human_review": {
+              "const": "none_documented"
+            }
+          }
+        }
+      },
+      "allOf": [
+        {
+          "if": {
+            "properties": {
+              "disposition": {
+                "const": "queue"
+              }
+            }
+          },
+          "then": {
+            "properties": {
+              "latin": {
+                "required": [
+                  "earlier",
+                  "t4b"
+                ]
+              }
+            }
+          }
+        }
+      ],
+      "additionalProperties": false
+    }
+  }
+}

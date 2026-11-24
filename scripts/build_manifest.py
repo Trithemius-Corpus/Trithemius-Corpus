@@ -18,7 +18,7 @@ WORK_TITLES = ROOT / "work_titles.json"
 
 RELEASE_LICENSE = (
     "CC-BY-4.0 for documentation/code/arrangement; "
-    "CC0-1.0 for generated translation artifacts (see LICENSE)"
+    "CC0-1.0 for generated translation artifacts; institutional image terms apply to scans and crops (see LICENSE)"
 )
 
 
@@ -55,6 +55,11 @@ def main() -> int:
             "id",
             "title",
             "year",
+            "composition_year",
+            "attribution",
+            "ai_corrections",
+            "publication_modified",
+            "unclear_count",
             "source_year",
             "year_note",
             "edition_info",
@@ -86,6 +91,7 @@ def main() -> int:
         refreshed.append(row)
 
     manifest["works"] = refreshed
+    manifest["author"] = "Johannes Trithemius (1462–1516) and associated authors; see individual work attributions"
     manifest["total_works"] = len(refreshed)
     manifest["translatable_works"] = sum(1 for w in refreshed if not w.get("skip"))
     manifest["skipped_works"] = sum(1 for w in refreshed if w.get("skip"))

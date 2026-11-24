@@ -1,189 +1,240 @@
 {
- "_comment": "Curated per-work 'first published English translation' flags, derived from docs/PRIOR_TRANSLATIONS.md. Editions of the same text share a flag. Distinct-text level: 23 of 29 texts first-in-English; edition level: 39 of 47 (the Steganographia, prdl-24395, is not first-in-English: Skinner & Clark 2024). Lowest-confidence: prdl-24376 (survey silent). Consumed by scripts/build_site.py.",
+ "_comment": "Prior-English survey status, not a priority claim. complete_prior, partial_prior, none_located, unresolved. The legacy first_english boolean is derived from partial_prior/none_located only; unresolved coverage is excluded. See docs/PRIOR_TRANSLATIONS.md.",
  "works": {
   "prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-70281_clavis-generalis-triplex-in-libros-steganographicos": {
    "first_english": false,
-   "note": "Steganographia tradition covered by Skinner & Clark 2024."
+   "note": "English coverage of the Steganographia tradition is known, but coverage of this particular key text has not been established.",
+   "status": "unresolved"
   },
   "prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui": {
    "first_english": false,
-   "note": "Steganographia/clavis tradition covered by Skinner & Clark 2024."
+   "note": "English coverage of the Steganographia tradition is known, but coverage of this particular key text has not been established.",
+   "status": "unresolved"
   },
   "prdl-24389_polygraphiae-libri-sex-ioannis-trithemii-abbatis": {
-   "first_english": false,
-   "note": "Neal translated the prefatory matter; this corpus's continuous English of the body is plausibly a first, but not an unqualified first."
+   "first_english": true,
+   "note": "Philip Neal translated prefatory matter; the project survey located no complete English translation of the body. This is a provisional survey finding, not proof of priority.",
+   "status": "partial_prior"
   },
   "prdl-24390_polygraphiae-libri-vi": {
-   "first_english": false,
-   "note": "Same text as prdl-24389; same status."
+   "first_english": true,
+   "note": "Philip Neal translated prefatory matter; the project survey located no complete English translation of the body. This is a provisional survey finding, not proof of priority.",
+   "status": "partial_prior"
   },
   "prdl-24391_polygraphiae-libri-vi": {
-   "first_english": false,
-   "note": "Same text as prdl-24389; same status."
+   "first_english": true,
+   "note": "Philip Neal translated prefatory matter; the project survey located no complete English translation of the body. This is a provisional survey finding, not proof of priority.",
+   "status": "partial_prior"
   },
   "prdl-70280_e-rara_de-scriptoribus-ecclesiasticis-johannes-trithemius": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-70287_joh-tritthemii-de-scriptoribus-ecclesiasticis-liber": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24362_de-laude-scriptorum-manualium": {
    "first_english": false,
-   "note": "Prior English: Behrendt 1974; Bongie 1977."
+   "note": "Prior English: Behrendt 1974; Bongie 1977.",
+   "status": "complete_prior"
   },
   "prdl-24371_de-republica-ecclesiae-et-monachorum-ordinis": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24372_de-republica-ecclesiae-et-monachorum-ordinis": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24361_de-cura-pastorali": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24373_de-statu-et-ruina-monastici-ordinis": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24360_compendium-breviarium-primi-voluminis-annalium-historiarum-origine-regum": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24363_de-laudibus-ordinis-fratrum-carmelitarum": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24364_de-laudibus-sanctissimae-matris-annae": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24365_de-laudibus-sanctissimae-matris-annae": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24366_de-laudibus-sanctissimae-matris-annae-liptzk-1497": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24367_de-laudibus-sanctissimae-matris-annae-liptzk-1501": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-70283_de-laudibus-sanctissimae-matris-annae-liptzk-1501-hab": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-70284_de-laudibus-sanctissimae-matris-annae": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24385_liber-de-triplici-regione-claustralium-et": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24386_liber-de-triplici-regione-claustralium-et": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24378_institutio-vitae-sacerdotalis": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24379_institutio-vitae-sacerdotalis": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24380_admonitiones-exhortationes-monachos": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24381_octo-quaestionum-maximilianum-caesarem": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "The project survey records English excerpts. It has located no prior complete published English translation of the Eight Questions.",
+   "status": "partial_prior"
   },
   "prdl-24382_octo-quaestionum-maximilianum-caesarem": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "The project survey records English excerpts. It has located no prior complete published English translation of the Eight Questions.",
+   "status": "partial_prior"
   },
   "prdl-24383_septem-secundeis-intelligentiis-spiritibus-orbes-post-deum-moventibus": {
    "first_english": false,
-   "note": "De Septem Secundeis: English circulating since 1647."
+   "note": "William Lilly's 1647 English version/adaptation is known; its completeness against this Latin work has not been assessed in this survey.",
+   "status": "unresolved"
   },
   "prdl-70289_opera-historica-part": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-70290_opera-historica-part-chronicon-hirsaugiense-sponheimense": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24357_abbreviatura-recessuum-capitularium-patrum-ordinis-divi": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24368_de-operatione-divini-amoris": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24369_de-purissima-et-immaculata-conceptione-virginis": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24370_de-purissima-et-immaculata-conceptione-virginis": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24374_de-vanitate-et-miseria-humanae-vitae": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24375_de-vera-conversione-mentis-ad-deum": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24376_ecloga-de-laude-calvorum-ad-carolum": {
-   "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "first_english": false,
+   "note": "Survey coverage for Hucbald's Ecloga is incomplete; no conclusion about prior complete English translation or priority is established.",
+   "status": "unresolved"
   },
   "prdl-24393_sermones-et-exhortationes-ad-monachos-joa": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-24394_sermones-et-exhortationes-ad-monachos-joa": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-32285_de-sacerdotum-vita-instituenda-libellus": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-32286_octo-quaestionum-maximilianum-caesarem": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "The project survey records English excerpts. It has located no prior complete published English translation of the Eight Questions.",
+   "status": "partial_prior"
   },
   "prdl-70285_e-rara_de-triplici-regione-claustralium-et": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-70286_octo-quaestionum-maximilianum-caesarem": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "The project survey records English excerpts. It has located no prior complete published English translation of the Eight Questions.",
+   "status": "partial_prior"
   },
   "prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
   },
   "prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines": {
    "first_english": true,
-   "note": "No prior published English located (docs/PRIOR_TRANSLATIONS.md)."
+   "note": "No prior complete published English translation located in the project survey; unpublished or unlocated translations may exist.",
+   "status": "none_located"
+  },
+  "prdl-24395_steganographia-hoc-est-ars-per-occultam-scripturam": {
+   "first_english": false,
+   "status": "complete_prior",
+   "note": "Prior comprehensive English edition: Stephen Skinner and Daniel Clark, Steganographia (2024), as recorded in the project survey."
   }
  }
 }

@@ -1,0 +1,46 @@
+{
+  "polygraphia-austrasia": {
+    "canvas_number": 186,
+    "crop_path": "data/translation_disagreements/prdl-24390_polygraphiae-libri-vi/facsimiles/polygraphia-austrasia.png",
+    "xywh": [
+      250,
+      840,
+      300,
+      128
+    ],
+    "sha256": "10a9a5d7300ce4e86e35a9ec0e8b014e52d3d7f0e00fa68fbfae825f19eee24b"
+  },
+  "polygraphia-belgica": {
+    "canvas_number": 186,
+    "crop_path": "data/translation_disagreements/prdl-24390_polygraphiae-libri-vi/facsimiles/polygraphia-belgica.png",
+    "xywh": [
+      587,
+      778,
+      300,
+      148
+    ],
+    "sha256": "76266065d404c9fbe73446a890fc2768bb73936750c23ee629c053c3d477c322"
+  },
+  "key-numeral-cipher": {
+    "canvas_number": 536,
+    "crop_path": "data/translation_disagreements/prdl-24390_polygraphiae-libri-vi/facsimiles/key-numeral-cipher.png",
+    "xywh": [
+      575,
+      728,
+      1493,
+      300
+    ],
+    "sha256": "7d8b7d44e9f0c9949f33f5f3151532941c14531feba43b52e72ff037973514d4"
+  },
+  "key-numeral-alphabet": {
+    "canvas_number": 535,
+    "crop_path": "data/translation_disagreements/prdl-24390_polygraphiae-libri-vi/facsimiles/key-numeral-alphabet.png",
+    "xywh": [
+      310,
+      2225,
+      1250,
+      475
+    ],
+    "sha256": "4121965b0d1e84c900df60f9415a1aa35c871497433d000355514b1516c81fa8"
+  }
+}

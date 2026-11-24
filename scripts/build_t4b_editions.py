@@ -16,17 +16,21 @@ from __future__ import annotations
 
 import json
 import shutil
+import os
+import re
+from publication_guard import staged_directory
+from edition_corrections import restore_track
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-WORKING = Path(r"E:/trithemius")
+WORKING = Path(os.environ.get("TRITHEMIUS_WORKING", r"E:/trithemius"))
 CORPUS = WORKING / "data" / "corpus"
 LANE = "qwen3vl-trithemius-q6-dual-gpt55"
 OCR_ENGINE = "qwen3vl-4b-trithemius-q6"
 OUT_ROOT = ROOT / "works-t4b"
 
 # Sonnet second-pass grades (the authoritative grader)
-SONNET_GRADES = Path(r"C:/Users/Ian/Downloads/trithemius_2ndpass_RESULTS/trithemius_2ndpass/01_first_pass_report/codex_grade_SECOND_PASS_summary.jsonl")
+SONNET_GRADES = Path(os.environ.get("TRITHEMIUS_T4B_GRADES", WORKING / "data/corpus/_quality/codex_grade_SECOND_PASS_summary.jsonl"))
 
 PUBLISH_PRDLS = [
     "prdl-70291", "prdl-24361", "prdl-32286", "prdl-70286", "prdl-24378",
@@ -71,11 +75,32 @@ def assemble_work(prdl: str, sonnet: dict, published_meta: dict | None) -> bool:
         return False
 
     work_id = wd.name
-    out_dir = OUT_ROOT / work_id
-    if out_dir.exists():
-        shutil.rmtree(out_dir)
-    out_dir.mkdir(parents=True)
+    destination = OUT_ROOT / work_id
+    published = destination if destination.is_dir() else ROOT / "works-t4b" / work_id
+    prior_path = published / "metadata.json"
+    prior = json.loads(prior_path.read_text(encoding="utf-8")) if prior_path.is_file() else {}
+    witness_id = prior.get("standard_witness", work_id)
+    if not published_meta:
+        published_meta = next((w for w in json.loads((ROOT / "manifest.json").read_text(encoding="utf-8"))["works"]
+                               if w["id"] == witness_id), {})
+    with staged_directory(destination, seed=False) as stage:
+        grades = sonnet.get(prdl, {})
+        if not grades and prior.get("chunks_graded") and len(chunk_files) == prior["chunks_total"]:
+            grades = {"n": prior["chunks_graded"], "tier": prior["tier"],
+                      "mean_faithful": prior["faithful_adj"], "hallucination_pct": prior["hallucinated_pct"]}
+        write_edition(stage, work_id, chunk_files, ocr_path, grades, published_meta, prior)
+        for source in (published / "intro.md", published / "ERRATA.md"):
+            if source.is_file():
+                shutil.copyfile(source, stage / source.name)
+        restore_track(ROOT, work_id, "t4b", stage, published)
+        if grades and prdl not in sonnet and published.is_dir():
+            if (stage / "english.md").read_text(encoding="utf-8") != (published / "english.md").read_text(encoding="utf-8"):
+                raise ValueError(f"{work_id}: fresh audit evidence needed for a changed translation")
+    return True
 
+
+def write_edition(out_dir: Path, work_id: str, chunk_files: list[Path], ocr_path: Path,
+                  grades: dict, published_meta: dict, previous: dict) -> None:
     # 1. Latin OCR (LoRA witness) — clean link-placeholder artifacts from scan headers
     ocr_text = ocr_path.read_text(encoding="utf-8", errors="replace")
     ocr_text = ocr_text.replace("<[Persistent URL]>", "[Persistent URL]")
@@ -89,7 +114,6 @@ def assemble_work(prdl: str, sonnet: dict, published_meta: dict | None) -> bool:
         shutil.copy2(cf, chunks_dir / cf.name)
 
     # 3. english.md = concatenated chunks with segment markers
-    import re as _re
     parts = []
     for cf in chunk_files:
         idx = int(cf.stem.rsplit("_", 1)[-1])
@@ -97,8 +121,8 @@ def assemble_work(prdl: str, sonnet: dict, published_meta: dict | None) -> bool:
         # Clean OCR-source placeholder text that renders as broken href links.
         # The scans carry "[Persistent URL]" / "[Call number]" metadata that
         # GPT-5.5 sometimes preserved as literal <a href="[Persistent URL]"> tags.
-        text = _re.sub(r'<a\s+href="\[Persistent URL\]">[^<]*</a>', "[Persistent URL]", text, flags=_re.I)
-        text = _re.sub(r'<a\s+href="\[Call number\]">[^<]*</a>', "[Call number]", text, flags=_re.I)
+        text = re.sub(r'<a\s+href="\[Persistent URL\]">[^<]*</a>', "[Persistent URL]", text, flags=re.I)
+        text = re.sub(r'<a\s+href="\[Call number\]">[^<]*</a>', "[Call number]", text, flags=re.I)
         text = text.replace("<[Persistent URL]>", "[Persistent URL]")
         text = text.replace("<[Call number]>", "[Call number]")
         text = text.replace("<Persistent URL>", "Persistent URL")
@@ -106,13 +130,14 @@ def assemble_work(prdl: str, sonnet: dict, published_meta: dict | None) -> bool:
     (out_dir / "english.md").write_text("\n\n".join(parts) + "\n", encoding="utf-8")
 
     # 4. intro.md from published edition (same text)
-    pub_intro = ROOT / "works" / work_id / "intro.md"
+    pub_intro = ROOT / "works" / previous.get("standard_witness", work_id) / "intro.md"
     if pub_intro.exists():
         shutil.copy2(pub_intro, out_dir / "intro.md")
 
     # 5. metadata.json with Sonnet grades + T4B branding
-    s = sonnet.get(prdl, {})
+    s = grades
     meta = {
+        **previous,
         "id": work_id,
         "edition": "trithemius-4b",
         "edition_label": "Trithemius 4B edition",
@@ -120,6 +145,7 @@ def assemble_work(prdl: str, sonnet: dict, published_meta: dict | None) -> bool:
         "title_en": published_meta.get("title_en") if published_meta else None,
         "year": published_meta.get("year", "") if published_meta else "",
         "source_year": published_meta.get("source_year") if published_meta else None,
+        "composition_year": published_meta.get("composition_year") if published_meta else None,
         "year_note": published_meta.get("year_note") if published_meta else None,
         "edition_info": published_meta.get("edition_info", "") if published_meta else "",
         "page_count": published_meta.get("page_count", 0) if published_meta else 0,
@@ -143,12 +169,14 @@ def assemble_work(prdl: str, sonnet: dict, published_meta: dict | None) -> bool:
         "canonical_backend": LANE,
         "source_work_id": work_id,
     }
+    for key in ("attribution", "duplicate_source_group", "duplicate_source_note"):
+        if published_meta.get(key):
+            meta[key] = published_meta[key]
     (out_dir / "metadata.json").write_text(
         json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
     )
 
-    print(f"  {prdl}: {len(chunk_files)} chunks, tier {s.get('tier')}, faith {s.get('mean_faithful')}")
-    return True
+    print(f"  {work_id}: {len(chunk_files)} source chunks")
 
 
 def main() -> int:

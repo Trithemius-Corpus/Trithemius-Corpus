@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-24385_liber-de-triplici-regione-claustralium-et",
+  "date": "2026-11-18",
+  "human_review": "none_documented",
+  "status": "applied_locally",
+  "review_method": "AI visual collation of the cited printed witness. The stored crops reproduce the source image pixels.",
+  "changes": [
+    {
+      "item_id": "region-human-condition",
+      "track": "t4b",
+      "passage": "p-t4b-de4ad1bf8fd6ec00",
+      "before": "From this threefold state of good persons we take a fitting title for this work",
+      "after": "From this threefold human condition we take a fitting title for this work",
+      "files": [
+        "works-t4b/prdl-24385_liber-de-triplici-regione-claustralium-et/english.md",
+        "works-t4b/prdl-24385_liber-de-triplici-regione-claustralium-et/chunks/full_chunk_0002.md"
+      ],
+      "rendered_anchor_after": "p-t4b-44ed9d64483768bd"
+    }
+  ],
+  "metadata_edits": [],
+  "files": [
+    {
+      "path": "works-t4b/prdl-24385_liber-de-triplici-regione-claustralium-et/english.md",
+      "before_path": "data/translation_disagreements/prdl-24385_liber-de-triplici-regione-claustralium-et/snapshots/before-2026-11-18/works-t4b/prdl-24385_liber-de-triplici-regione-claustralium-et/english.md",
+      "before_sha256": "c9d692977af0ce5cd1cbf2247543faf7e53518f2cb10792261c7493e1a476e73",
+      "after_sha256": "e56c6cf452070ebe99ddcdc7999e2fc80478e09b029998dffaade394698085b7"
+    },
+    {
+      "path": "works-t4b/prdl-24385_liber-de-triplici-regione-claustralium-et/chunks/full_chunk_0002.md",
+      "before_path": "data/translation_disagreements/prdl-24385_liber-de-triplici-regione-claustralium-et/snapshots/before-2026-11-18/works-t4b/prdl-24385_liber-de-triplici-regione-claustralium-et/chunks/full_chunk_0002.md",
+      "before_sha256": "44944d969104814a49420812892e40dd79221db6221f2dce52c67203353d7da6",
+      "after_sha256": "08f11cfbcff65e79a32191aa60dd49deb791086684007074b360ef787ffdce49"
+    }
+  ]
+}

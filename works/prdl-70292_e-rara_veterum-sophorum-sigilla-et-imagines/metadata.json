@@ -42,5 +42,15 @@
     "latin_source_file": "full.txt",
     "latin_fallback_sources": {},
     "parallel_viewer": "https://trithemius-corpus.github.io/Trithemius-Corpus/works/prdl-70292_e-rara_veterum-sophorum-sigilla-et-imagines_parallel.html"
+  },
+  "attribution": {
+    "author": null,
+    "attributed_to": "Johannes Trithemius"
+  },
+  "ai_corrections": {
+    "date": "2026-11-18",
+    "count": 1,
+    "human_review": "none_documented",
+    "note": "The 18 November 2026 corrections were checked against this printed witness. The edition errata preserve the previous wording and source images. Machine audit scores predate these edits."
   }
 }

@@ -25,11 +25,11 @@ silently become the textual authority.
 
 The repository currently contains:
 
-- 47 digitized printed witnesses representing 29 distinct texts;
+- 47 translated catalogue records drawn from 45 digitized sources and representing 29 distinct texts;
 - 7,827 source pages and approximately 4,393 reader segments;
 - a chapter map and institutional source link for every witness;
-- ten texts represented by multiple witnesses, with as many as six witnesses
-  for one text;
+- ten texts represented by multiple records, nine by multiple digitized sources.
+  The six Saint Anne records use five sources;
 - continuous English reading pages and Latin/English parallel pages;
 - Pagefind full-text search, four themes, adjustable typography, print styles,
   reading progress, keyboard navigation, and browser speech synthesis;

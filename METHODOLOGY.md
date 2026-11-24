@@ -1,6 +1,6 @@
 # Methodology
 
-How the Trithemius Corpus was made, checked, revised, and presented. This page distinguishes the **recommended Trithemius 4B editions** from the earlier source-witness editions, explains what the grades mean, and states where machine-produced text still requires caution.
+How the Trithemius Corpus was made, checked, revised, and presented. This page distinguishes the **Trithemius 4B editions** from the earlier source-witness editions, explains historical machine-audit grades and current editorial status, and states where machine-produced text still requires caution.
 
 **Contents:** [What you are reading](#1-what-you-are-reading) · [Sources](#2-source-acquisition) · [OCR](#3-the-ocr-record) · [Translation](#4-the-translation-record) · [Pipeline](#5-pipeline-mechanics) · [Grading](#6-historical-automated-grading-and-current-review-status) · [Remediation](#7-the-remediation-record) · [Results](#8-results) · [Per-work provenance](#9-per-work-provenance) · [Special renderings](#10-special-scholarly-renderings-style-c) · [Limitations](#11-limitations-known-failure-modes) · [Responsible use](#12-what-this-corpus-is-good-for-and-what-it-is-not) · [Rejected approaches](#13-what-was-tried-and-did-not-ship) · [Reproducibility](#14-code-data-and-reproducibility)
 
@@ -8,9 +8,9 @@ How the Trithemius Corpus was made, checked, revised, and presented. This page d
 
 The site now contains two related edition tracks.
 
-### Recommended Trithemius 4B editions
+### Trithemius 4B editions
 
-The **Trithemius 4B edition** is the recommended English reading edition wherever one is available. There are 27 such editions. They use a corpus-trained **Qwen3-VL-4B “Trithemius” LoRA** OCR witness and a **GPT-5.5 dual-context** translation, independently assessed in a second pass by **Claude Sonnet 5**. Only works meeting the publication threshold were promoted.
+The **Trithemius 4B editions** provide an alternate machine translation with prepared reading views where the structure permits. There are 27 such editions. They use a corpus-trained **Qwen3-VL-4B “Trithemius” LoRA** OCR witness and a **GPT-5.5 dual-context** translation, independently machine-assessed in a second pass by **Claude Sonnet 5**. Their original selection used a model-score threshold; that historical selection does not establish human verification or a present-day recommendation.
 
 These pages have also received an editorial formatting and quality pass. Visible scan-navigation clutter—page-number markers, blank-page notices, calibration-target notices, stamp text, and duplicate-scan notices—is removed from the reading view while retained in the archival source files. Uncertainty markers such as `[unclear]` remain visible. They are evidence of damaged or ambiguous source text and are preferable to invented certainty.
 
@@ -18,9 +18,9 @@ The T4B pages are formatted as continuous reading texts. Their source segment bo
 
 ### Earlier source-witness editions
 
-The earlier edition track remains available for all 47 translatable printed witnesses. It was produced through several OCR and translation campaigns, principally CHURRO/Qwen vision OCR and GPT-5.5 revision, with targeted repairs by other models. These pages remain useful as independent witnesses, for comparison, and for works that do not yet have a publishable T4B edition.
+The earlier edition track covers all 47 translated catalogue records. It was produced through several OCR and translation campaigns, principally CHURRO/Qwen vision OCR and GPT-5.5 revision, with targeted repairs by other models. Where a second English track exists, both can be checked against the cited scan.
 
-The label **recommended source witness** identifies the preferred scan witness within a group of duplicate printed editions. It does not supersede the T4B reading recommendation.
+The label **fewest Latin OCR uncertainty markers** identifies the record with the lowest count of those markers within a group. Historical model scores and edition dates break ties.
 
 ### What is authoritative
 
@@ -35,9 +35,9 @@ For a passage used in publication, check the English against the Latin and the L
 
 ## 2. Source acquisition
 
-The corpus began with the PRDL author record for Johannes Trithemius and the bibliography at trithemius.com. Records were resolved to public-domain institutional scans from the Bavarian State Library, Herzog August Bibliothek, e-rara, dilibri, Internet Archive, Google Books, and Gallica. Duplicate records and editions were retained where they supplied genuinely separate witnesses.
+The corpus began with the PRDL author record for Johannes Trithemius and the bibliography at trithemius.com. Catalogue records link to digitizations from the Bavarian State Library, Herzog August Bibliothek, e-rara, dilibri, Internet Archive, Google Books and Gallica. The holding institution's image terms accompany each documented correction.
 
-The release contains 47 translatable printed witnesses representing 29 distinct texts. Four additional records are retained in the manifest as skipped because they are German-language or predominantly liturgical/tabular material. The *Steganographia*, initially blocked through the normal viewer route, was recovered through Gallica’s IIIF image service.
+The 47 translated catalogue records cover 29 distinct texts and point to 45 distinct digitized sources. PRDL 24371 and 24372 use BSB `bsb00040421`. PRDL 24364 and 70284 use BSB `bsb00008347`. Each record keeps its own OCR, translation and passage IDs, so differences between two records can be checked against the same printed leaf. Four additional records are retained in the manifest as skipped because they are German-language or predominantly liturgical/tabular material. The *Steganographia*, initially blocked through the normal viewer route, was recovered through Gallica’s IIIF image service.
 
 Every work’s metadata names its source institution and scan. The source scan, not the OCR, remains the final authority.
 
@@ -51,7 +51,7 @@ The project tested five main OCR generations.
 | 1 | Qwen2.5-VL-7B | Part of the earlier hybrid witness for 14 works. |
 | 2 | CHURRO-3B, a historical-print Qwen2.5-VL fine-tune | Earlier published witness for 31 works. |
 | 3 | Base Qwen3-VL-4B-Instruct | Experimental and superseded. |
-| 4 | Qwen3-VL-4B “Trithemius” LoRA | OCR witness for the 27 recommended T4B editions. |
+| 4 | Qwen3-VL-4B “Trithemius” LoRA | OCR witness for the 27 published T4B editions. |
 
 Tesseract and embedded text fail systematically on early print: long *s* becomes *f*, abbreviations disappear, columns interleave, and damaged type produces nonsense. Vision models preserve page structure and early typography more effectively, though none is immune to repetition, truncated dense pages, misread names, or invented-looking letter sequences.
 
@@ -151,10 +151,10 @@ All content-level repairs belong in the source or its provenance record. Display
 The site currently presents:
 
 - **47** translatable earlier-track printed witnesses representing **29** distinct texts;
-- **27** recommended Trithemius 4B editions that passed the Sonnet publication review;
+- **27** Trithemius 4B editions originally selected through the Sonnet machine audit;
 - **26** cross-links from matching earlier work pages to their T4B editions, plus one T4B scan represented only in the T4B index;
-- **23** texts identified as First-time-in-English at the distinct-text level;
-- a homepage “Start here” selection containing 12 distinct First-time-in-English works.
+- **23** texts provisionally listed as having no prior complete published English translation located in the [project survey](docs/PRIOR_TRANSLATIONS.md), whose coverage and uncertainties are documented;
+- a homepage “Start here” selection containing 12 distinct works from that survey group.
 
 The earlier track's canonical historical ledger contains 4,400 chunks, 4,353
 machine-graded. Its former scoreboard reported S=47 and mean model-assessed
@@ -222,12 +222,12 @@ T4B page markers and scan notices are hidden in the reading interface, but retai
 
 The corpus is well suited to discovery, continuous reading, comparison across witnesses, searching Trithemius’s vocabulary and themes, locating passages for closer study, and gaining access to works not previously available in published English.
 
-It is not a substitute for a critical Latin edition, palaeographic judgment, or source verification in a scholarly quotation. The labels “recommended” and “S/A” identify the best available machine-assisted reading path within this project; they do not convert it into an authoritative human edition.
+It is not a substitute for a critical Latin edition, palaeographic judgment, or source verification in a scholarly quotation. Public labels describe text origin, documented review, editorial preparation, and automated-QA coverage. Historical letter grades remain in the audit records and do not certify the translation.
 
 For responsible use:
 
-1. begin with the T4B edition where available;
-2. compare the earlier witness when the T4B text is uncertain;
+1. choose a reading view using its documented editorial state and limitations;
+2. compare the alternate translation where one is available, especially at uncertain passages;
 3. check consequential claims against the Latin;
 4. check disputed Latin against the page image;
 5. cite the specific edition and disclose machine assistance where appropriate.

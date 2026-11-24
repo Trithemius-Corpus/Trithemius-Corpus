@@ -1,0 +1,35 @@
+{
+  "key-messengers": {
+    "canvas_number": 14,
+    "crop_path": "data/translation_disagreements/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/facsimiles/key-messengers.png",
+    "xywh": [
+      292,
+      362,
+      607,
+      90
+    ],
+    "sha256": "a59c383dfc0fc5484ac2c972624e060b951d3483c7963af7e74e164fe15537a5"
+  },
+  "key-numeral-cipher": {
+    "canvas_number": 536,
+    "crop_path": "data/translation_disagreements/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/facsimiles/key-numeral-cipher.png",
+    "xywh": [
+      315,
+      285,
+      586,
+      108
+    ],
+    "sha256": "b6e514c13b08fa00ccc212a30ca34846684ab8b241a9f606f5f74011fb30f7cb"
+  },
+  "key-numeral-alphabet": {
+    "canvas_number": 535,
+    "crop_path": "data/translation_disagreements/prdl-70282_clavis-polygraphiae-ioannis-trithemii-abbatis-diui/facsimiles/key-numeral-alphabet.png",
+    "xywh": [
+      200,
+      885,
+      474,
+      185
+    ],
+    "sha256": "8bdc32c1b88d7f4d8c22332b49015eed0b69de719d9f07b0d16ccbe2a30b910b"
+  }
+}

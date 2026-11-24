@@ -1,7 +1,8 @@
 {% extends "base.html.j2" %}
 {% from "_macros.html.j2" import breadcrumb with context %}
+{% from "_search_metadata.html.j2" import search_metadata %}
 {% block title %}{{ work.title }} &mdash; Latin / English &mdash; Trithemius Corpus{% endblock %}
-{% block head %}<meta name="robots" content="index,follow">{% endblock %}
+{% block head %}<meta name="robots" content="index,follow">{{ search_metadata(work, "latin") }}{% endblock %}
 {% block body %}
 
 <article class="parallel">
@@ -41,16 +42,17 @@
 {% endif %}
 
 {% include "_chapter_nav.html.j2" %}
-<div class="pp-grid" data-asset="../">
+<div class="pp-grid" data-glossary="{{ asset('reader-glossary.json') }}" data-genre="{{ work.genre }}">
   <div class="pp-head pp-col-n" aria-hidden="true">#</div>
   <div class="pp-head">Latin (source OCR)</div>
   <div class="pp-head">English</div>
   {% for p in pairs %}
   {%- set untranslated = p.missing or p.dup_of -%}
   <div class="pp-n" id="seg-{{ p.n }}" data-segment="{{ p.n }}"><a href="#seg-{{ p.n }}">{{ p.n }}</a></div>
-  <div class="pp-latin{% if untranslated %} pp-latin-only{% endif %}" lang="la" data-segment="{{ p.n }}">
+  <div class="pp-latin{% if untranslated %} pp-latin-only{% endif %}" lang="la" data-segment="{{ p.n }}"{% if p.latin %} data-pagefind-body{% endif %}>
+    {%- if p.latin -%}<span id="latin-seg-{{ p.n }}"></span>{%- endif -%}
     {%- if untranslated and p.latin -%}
-    <details class="pp-latin-only-details"><summary>Latin only &mdash; not translated</summary>
+    <details class="pp-latin-only-details"><summary data-pagefind-ignore>Latin only &mdash; not translated</summary>
       <div class="pp-latin-body">{{ p.latin }}</div>
     </details>
     {%- elif p.latin -%}
@@ -162,6 +164,7 @@
   }
   if(grid){
     grid.addEventListener('click',function(e){
+      if(e.target.closest('button, a, summary'))return;
       var cell=e.target.closest('[data-segment]');
       if(!cell)return;
       var other=counterpart(cell);
@@ -177,6 +180,6 @@
   update();
 })();
 </script>
-<script src="../static/glossary.js"></script>
+<script type="module" src="{{ asset('glossary.js') }}"></script>
 
 {% endblock %}

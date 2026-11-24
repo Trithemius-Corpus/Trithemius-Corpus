@@ -51,7 +51,6 @@ def main() -> None:
         require(token in style, f"style.css missing {token}")
     require("study-source-frame" in template and 'loading="lazy"' in template,
             "source iframe must be lazy")
-    require("{{ english|safe }}" in template, "server-rendered English fallback missing")
 
     total_passages = 0
     for work_id in PILOTS:
@@ -68,6 +67,11 @@ def main() -> None:
         require(index.get("segments") and all("latin" in item for item in index["segments"]),
                 f"{work_id}: Latin study data")
         total_passages += parser.passages
+    for source in sorted((ROOT / "works-t4b").glob("*/metadata.json")):
+        work_id = source.parent.name
+        t4b = ContractParser()
+        t4b.feed((DIST / "works" / f"{work_id}-trithemius-4b.html").read_text(encoding="utf-8"))
+        require(any(key.startswith("p-t4b-") for key in t4b.ids), f"{work_id}: server-rendered T4B passages")
     print("Study reader validation passed.")
     print(f"  pilot pages: {len(PILOTS)}")
     print(f"  server-rendered pilot passages: {total_passages}")

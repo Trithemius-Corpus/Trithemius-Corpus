@@ -294,7 +294,7 @@ def validate_source_contracts(errors: list[str]) -> None:
         (reader == dist_reader, "published reader.js is stale relative to site/static"),
         (style == dist_style, "published style.css is stale relative to site/static"),
         ('class="skip-link" href="#main"' in base, "base template has no main skip link"),
-        ('<main class="container" id="main">' in base, "base template has no main target"),
+        (bool(re.search(r'<main\b[^>]*\bid="main"', base)), "base template has no main target"),
         ('<div class="site-title">' in base, "site masthead still owns the page h1"),
         ('class="pp-latin' in parallel and 'lang="la"' in parallel, "parallel template does not identify Latin"),
         (

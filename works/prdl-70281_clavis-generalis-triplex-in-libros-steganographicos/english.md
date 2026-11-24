@@ -1,6 +1,6 @@
 # Clavis Generalis Triplex in Libros Steganographicos
 
-> Machine-assisted English translation. Work `prdl-70281_clavis-generalis-triplex-in-libros-steganographicos`. Tier S · faithful 4.55 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.
+> Machine-assisted English translation. Work `prdl-70281_clavis-generalis-triplex-in-libros-steganographicos`. The machine audit predates the local AI corrections of 2026-11-23. Historical tier S · faithful 4.55 (GPT-5.5 audit). See `../../METHODOLOGY.md` (Limitations). Backend: `public`.
 
 ---
 
@@ -3116,13 +3116,13 @@ P Q R S T V U X Z A B C D E F G I K L M N O P R S T V U Z A B C D E G I K L M N 
 *John Trithemius, Abbot of Sponheim.*
 
 *Alphabet.*
-Ax.bz.ca.db.ec.fd.ge.hf.gk.li.mk.nl.om.pr.qo.rs.sq.tr.vs.xtz.Zv.
+Ax.bz.ca.db.ec.fd.ge.hf.ig.kh.li.mk.nl.om.pn.qo.rp.sq.tr.vs.xt.zv.
 
 *Intention of the Mystery.*
 I beg you, come to me at once; it is very urgent.
 
 *Signifying Letters.*
-G.afz gbcpgafhm k.jmlqrsibxl vskg rg qbj eq etp mgr.
+G a f z g b c p g a f h m k s m l q r s i b x l v s k g r g q b s e q e t p m g r
 
 *Example of the Second.*
 Creator of the human race, God, look upon your servants. Govern them with zeal for righteousness, so that, living well, we may obtain the reward, the joy of the heavenly ones. Help us, frail and wretched human beings, and adorn us with holy morals; [unclear], we beseech you, illumine our minds with light, so that we may diligently call to mind your passion, with tears and good works. Jesus Christ, Savior, free us by the power of your shed blood. Ruler of Catholic unity, save your gravely afflicted people, whom long ago, dying on the cross, you redeemed by your most blessed shed blood. See how grievously the people is afflicted under the most cruel Turk. Free us wretches through the [love?] by which you redeemed us.

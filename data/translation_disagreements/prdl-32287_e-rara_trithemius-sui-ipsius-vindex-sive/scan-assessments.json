@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.1",
+  "work_id": "prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive",
+  "date": "2026-11-18",
+  "human_review": "none_documented",
+  "transcription_convention": "Selected printed clauses with abbreviations expanded. Ellipses mark omissions.",
+  "items": {
+    "vindex-fear": {
+      "normalized_latin": "quam sibi timuerit bonus Trithemius, ne quempiam suo hoc opere, praesertim indoctos et imperitos, offendat",
+      "reason": "Bonus describes Trithemius. Quam marks the degree of his fear, sibi refers to his concern for himself, and the following clause explains his fear of offending readers.",
+      "image": {
+        "canvas": "https://www.e-rara.ch/i3f/v20/1761179/canvas/1761232",
+        "label": "41",
+        "image_url": "https://www.e-rara.ch/i3f/v20/1761232/full/full/0/default.jpg",
+        "attribution": "Stiftung der Werke von C. G. Jung, Zürich, e-rara",
+        "rights": [
+          "https://creativecommons.org/publicdomain/mark/1.0/deed.de"
+        ],
+        "download_date": "2026-11-18",
+        "path": "data/translation_disagreements/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/facsimiles/canvas-051.jpg",
+        "sha256": "5d65d654821ffdfbd079e90ae0d4b90c96f20cd59802c5184de707955529c062"
+      },
+      "crop": {
+        "canvas_number": 51,
+        "crop_path": "data/translation_disagreements/prdl-32287_e-rara_trithemius-sui-ipsius-vindex-sive/facsimiles/vindex-fear.png",
+        "xywh": [
+          418,
+          1714,
+          1314,
+          432
+        ],
+        "sha256": "73c17b07ba76ee62bbce1797cc97918dc82d302f1523f410ae185208babef980"
+      },
+      "reviewer": "Codex AI",
+      "human_review": "none_documented"
+    }
+  }
+}

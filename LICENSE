@@ -1,18 +1,15 @@
 Trithemius Corpus — rights and licensing
 
-This project combines materials with different rights status. Please read the
-three sections below before reusing anything.
+This project combines original texts, translations, editorial work and
+institutional images. Their terms are set out below.
 
 ----
 
 1. The Latin source texts — public domain
 
-   Trithemius's Latin works (c. 1492–1516) are in the public domain and are
-   not subject to any license here. Provenance for each source edition is
-   recorded in `manifest.json` — typically scans held by the Bayerische
-   Staatsbibliothek (BSB), Herzog August Bibliothek (HAB), e-rara, dilibri,
-   and similar institutions, redistributed by the Post-Reformation Digital
-   Library (PRDL).
+   The historical Latin works by Trithemius and associated authors are in
+   the public domain. The catalogue records in manifest.json identify the
+   digitized copies and their institutional sources.
 
 2. The English translations and the per-work generated artifacts —
    no copyright claimed (CC0 1.0 / public domain)
@@ -30,8 +27,8 @@ three sections below before reusing anything.
 
 3. The methodology, documentation, and code — © 2026 Ian Carlos Fabin, CC BY 4.0
 
-   The human-authored layer — the methodology essay, the README and
-   LIMITATIONS documentation, the files under `docs/`, the build scripts and
+   The human-authored layer — the methodology essay, the README,
+   the project documentation, the build scripts and
    site templates, and the original selection and arrangement of the corpus —
    is licensed under the Creative Commons Attribution 4.0 International License
    (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
@@ -39,12 +36,40 @@ three sections below before reusing anything.
    provided you give appropriate credit, link the license, and indicate
    whether changes were made.
 
+4. Institutional images, crops and credited third-party files
+
+   A scan, thumbnail or crop carries the holding institution's rights
+   statement. When redistributing images, include their institutional
+   credits, source URLs, rights URLs and any crop or adaptation details.
+   The correction folders record these in facsimiles/images.json and
+   facsimiles/crops.json.
+
+   Stadtbibliothek Trier, T 288 8’, supplied through Dilibri: the Sigilla
+   digitization (PRDL 70291), its WebP pages and thumbnails, the archived
+   title page and its rectangular detail carry CC BY-NC-SA 3.0.
+   Source: https://www.dilibri.de/ubtrdfg/content/titleinfo/466737
+   Terms: https://creativecommons.org/licenses/by-nc-sa/3.0/
+
+   Bayerische Staatsbibliothek: the Mainz comparison leaf used for the
+   prayer in PRDL 24373, bsb11303506, canvas 9, carries No Copyright –
+   Non-Commercial Use Only. The same statement applies to its detail.
+   Source: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11303506/canvas/9
+   Terms: https://rightsstatements.org/vocab/NoC-NC/1.0/
+   The Leipzig leaf displayed beside it, bsb00040424, canvas 4, carries
+   the Public Domain Mark: https://creativecommons.org/publicdomain/mark/1.0/
+
+   The unmodified Citation File Format 1.2.0 schema in data/schemas is by
+   the Citation File Format contributors, CC BY 4.0.
+   Source: https://github.com/citation-file-format/citation-file-format/blob/396f738fb025b1d8acdb02a56ffc923f95dc8999/schema.json
+   Terms: https://creativecommons.org/licenses/by/4.0/
+   The bundled fonts carry the terms in site/static/fonts/LICENSE.txt.
+
 ----
 
 How to cite (a credit, not a copyright claim):
 
   Fabin, Ian Carlos (2026). Trithemius Corpus: machine-assisted English translations
-  of a 47-work Latin corpus by Johannes Trithemius (1462–1516).
+  of Latin texts by or associated with Johannes Trithemius.
   https://github.com/Trithemius-Corpus/Trithemius-Corpus
 
 See `CITATION.cff` for a machine-readable citation record.

@@ -1,0 +1,452 @@
+[segment 1]
+--- Page 001 ---
+
+Trithemius, Johannes
+On the Praise of Manual Scribes, with the author's dedicatory letter to Gerlach von Breitbach, 1492
+
+Mainz 1494
+4 Inc.c.a. 1158
+urn:nbn:de:bvb:12-bsb00037424-7
+BSB-Ink T-446 - GW M47538
+
+--- Page 002 ---
+
+Inc. c. a.
+158 #4
+
+--- Page 003 ---
+
+4° Inc. c. a.
+1138.
+Trithemius
+ROYAL LIBRARY
+OF MUNICH,
+Hain 15617
+
+--- Page 004 ---
+
+Dne. 1138.
+
+A very beautiful treatise On the Praise of Scribes, by Dom Johannes Trithemius, abbot of Sponheim, of Saint Benedict of the Bursfeld observance, to Gerlach, abbot of Deutz.
+
+Monastery of Scheyern.
+V.7.
+
+--- Page 005 ---
+
+[unclear]
+
+--- Page 006 ---
+
+Begins the letter of Johannes Trithemius, abbot of Sponheim, to Dom Gerlach, abbot of the monastery of Deutz.
+
+To the venerable and most beloved father, Dom Gerlach of Breitbach, abbot of Deutz, of the Order of Saint Benedict: Brother Johannes of Trittenheim, called abbot in Sponheim, of the same order, greeting and charity.
+
+When recently, returning together from the annual chapter held at Erfurt, we were discussing various matters in turn concerning the majesty of the divine Scriptures, and were saying that through their splendor our religion had once been glorious, you asked me, with much insistence of charity, to write something for you by which you might more easily stir your subjects to the love of writing. For you thought that this would profit many and was especially to be commended among our own. Therefore, humbly assenting to your prayers, I promised what I knew did exceed the powers of my talent, taking confidence from the aid of the Most High and from brotherly charity, with which we desire continually to be armed in this life.
+
+Hence, as soon as I was permitted to breathe a little from my occupations, with a mind of faith I put my hand to the papers, and, aided by your prayers, arranged this modest little treatise which you see, On the Praise of Scribes. In it, if I have done anything less than I ought, you should know that it must be imputed to my various cares, by which I am for the most part so occupied that scarcely am I allowed, in snatched intervals, to return to the studies I desire.
+
+Therefore let your charity, venerable father, receive the book which it has sought; let it read and examine it, and, if it judges it worthy, allow it also to come to the knowledge of other brothers. For it may happen that by reading it the brothers will be incited to love of writing. But you, proceed on the path begun; apply yourself ardently to the sacred writings, and exhort your brothers in every way to do the same. Let them look upon that holy and venerable man Rupert, once abbot of your monastery of Deutz, who even by himself can suffice them as an example of study. He, with singular desire, traversed the divine Scriptures both by reading
+
+2 a ij
+
+--- Page 007 ---
+
+and by praying; through a vision, with the Holy Spirit teaching him, he merited to advance so far in them that in his own time he had no equal in expounding the mysteries of Scripture. If we cannot reach his measure by study, should we therefore cease from holy studies? Will the excellence of others bar us from access to sacred reading? Far from it. If we cannot imitate Augustine or Gregory, let us at least imitate those whose teaching we know flowed forth from others. Each one has his own gift from God: one in this way, another in that. Only let us take care that in the Lord's field we not be barren, without the fruit of good studies. Farewell, remembering us. In the year of the Lord 1492.
+
+The chapters of the present work On the Praise of Scribes follow.
+
+The opening of the book treats of the praise of scribes. First. ij.
+Commendation of the usefulness of sacred Scripture. iij.
+On the diligence and love of the ancients toward books. iiij.
+How much diligence they exercised in writing. v.
+How fitting it is for monks to write. vi.
+How good and useful it is for them if they write. vj.
+That they should not excuse themselves from writing because of printing. vij.
+On orthography and the manner of writing. viij.
+On what those who do not know how to write should do. ix.
+What kinds of materials monks should write. x.
+Whether it is permitted to write on feast days. xi.
+On the difference between writings and little works in their names. xij.
+On training scribes and avoiding idleness. xiiij.
+Whether a multitude of books is commendable. xiiij.
+On the care and cleanliness that should be maintained for books. xv.
+An exhortation to study and love of the Scriptures. xvj.
+
+Here end the chapters of this book On the Praise of Scribes.
+
+--- Page 008 ---
+
+Begins the book of Dom Johannes Trithemius, abbot in Sponheim, On the Praise of Scribes, to Dom Gerlach, abbot of Deutz.
+
+As we are about to make a discourse on the praise of scribes, we invoke the aid of him who promised the brightness of eternal life as a reward to sincere scribes. Indeed, those who instruct many unto justice shall shine like stars for perpetual eternities. That this must be understood not only of those who forge new things from their own vein, but also of those who transcribe old things, we shall show in what follows, with the Lord granting it. For however useful the teaching of a doctor may be, without the ministry of a scribe it is in no way brought to the knowledge of posterity. Whatever good we do, whatever we teach fruitfully, is quickly snatched into oblivion unless it is entrusted to letters by the study of scribes.
+
+Scribes, therefore, give strength to words, memory to things, vigor to times. If you remove them from the Church, faith wavers, charity grows cold, hope falls, justice perishes, law is confounded, the Gospel passes into oblivion. In short, if writing fails, the people will be scattered, devotion will be extinguished, and the peace of catholic unity, thrown into confusion, will be disturbed. But without scribes, writing cannot long remain safe, since it is broken by accident and corrupted by age. For printing is a thing of paper and in a short time is wholly consumed. But the scribe, entrusting letters to parchment, extends both himself and the things he writes into a far distant time.
+
+Thus he enriches the Church, preserves the faith, destroys heresies, repels vices, instructs morals, and gives increase to virtues. The devoted scribe, such as we intend to describe, praises God, gladdens the angels, strengthens just people, corrects sinners, commends the humble, preserves the good, battles down the proud, and condemns the obstinate. The scribe marked by piety is God's herald, because he announces God's will both to those present and to those to come: promising eternal life to the good, pardon to the penitent, punishment to the negligent, and damnation to those who despise it.
+
+[segment 2]
+--- Page 009 ---
+
+What is more salutary than this art, what more commendable in piety? God loves it; angels honor it; all the citizens of heaven venerate it. For this is the art that fashions weapons for the faithful against heretics, that casts down the proud, strips demons by its strength, and sets a rule of living for Christians. This is the art that teaches the ignorant, strengthens the faint-hearted, cherishes the devout, and embraces the peaceable with love. What could I say that would be worthy in praise of the scribe? Whatever I shall say is below his praises, because the narrow spirit within me will be constrained before material worthy of so great an honor is lacking.
+
+I confess that there happens to me what very often happens to unskilled orators: terrified by the majesty of the matters about which they have begun to speak, they can neither say what they feel nor, because of shame, presume to be silent. And so it happens that, while they fear to transgress the order and rules of speaking, they fall away from the useful purpose set before them. For just as the spirit of prophecy sometimes, for a time and for a useful reason, leaves even the prophets, so too customary eloquence is not always present to orators. How much more easily, then, is trembling struck into me, who am neither a rhetorician nor fit to adorn so broad a subject with speech. My tongue clings to my now dry palate; breath presses upon my dry innards; my pen trembles, looking again to Jesus; in my breast alone the desire and love of the scribe remain strong. Therefore, when I fail, let no one think that the subject matter was lacking, but that words were lacking to the speaker. Yet I shall do what I can, with Christ’s help, since charity alone is the cause of our labor, and it is rightly proclaimed able to do all things.
+
+The Commendation of the Usefulness of Sacred Scripture.
+Chapter 2.
+
+But before we pursue further the praises and usefulness of scribes, it is pleasing to loosen the pen for a little while in commendation of sacred Scripture, so that the brothers who are to be urged to the practice of writing may first be stirred to love of sacred knowledge. For unless the usefulness of the work is made plain, persuasion toward the labor will not bend the soul. Therefore, dearest brothers, sacred Scripture is useful to us for many
+
+--- Page 010 ---
+
+things. Like a little ship on this great sea, it carries those who love it across to the shore without danger, while it lifts minds from earthly things to heavenly ones, while it softens tribulations, lightens labors, and, uprooting vices, plants virtues. For it kindles charity, increases faith, rouses devotion, and nourishes truth. Whoever has loved it is blessed, provided that he remains in its paths even unto death. Its acquisition is better than the trade in gold and silver; its fruits are the first and purest. Knowledge of the Scriptures is more precious than all wealth, and all things desired by human beings in this life cannot be compared with it. Length of days is in its right hand, and in its left are riches and glory. Its ways are beautiful ways, and all its paths are peaceful. It is a tree of life to those who grasp it, and those who hold it fast are blessed.
+
+For it purifies the human heart, illumines the understanding of the one who loves it, and sweetly inflaming the affections, makes them drunk. I have loved it and sought it out from my youth; I chose it as a bride, and became a lover of its beauty. Its nobility is glorified by having fellowship with God, and the Lord of all has loved it. For it is the teacher of the discipline of God, and the chooser of his works. It is more beautiful than the sun and above every ordering of the stars; compared with light, it is found to be prior, because its radiance is never extinguished by darkness. Whoever loves the knowledge of the Scriptures: his dwelling will be established in peace. For its conversation has no bitterness, nor does its companionship have weariness, but joy and gladness.
+
+O how wonderful and sweet is the order of the sayings within the Scriptures, where the desire of the lover always increases, where satiety never produces disgust, where there is the delightful feasting of the just, where excess is not reproved, but frequent persistence is rather praised. In this, knowledge of saving things is learned; in this, eternal life is promised to those who rightly believe. For the Scriptures describe past things without falsehood, show present things otherwise than they appear, and announce future things openly, as if from certainty. Everywhere in them truth reigns; everywhere divine power shines forth; everywhere
+
+[segment 3]
+--- Page 011 ---
+
+everywhere things necessary for the salvation of souls are opened to readers. For what usefulness and sweetness is not contained in the sacred writings, if they are read with pure intention? There is what the strong may eat; there is what the little child may suck. There history declares the truth of the deed; there allegory strengthens faith; there tropology shapes morals; there anagogy lifts the mind to the heavenly homeland. It is wholly full of virtues, if it is read with devout and pure intention. Nothing there has been placed idly; nothing has been established without the cause of a mystery. Everything is full of mysteries and piety.
+
+For human reason did not discover these writings, but heavenly power infused them into holy men long ago. They are then granted to be understood well when a devout mind has believed that they proclaim true and useful things. But the carnal person, however much he is puffed up with knowledge, cannot understand the sacred Scriptures, because the true knowledge of the Scriptures is devout humility of minds. The lover of sacred knowledge who is truly studious easily obtains quiet of heart, because while he is intent upon the teaching of the Scriptures he is less buffeted by the vanity of the world. For that blessed man spoke truly: “Love the knowledge of the Scriptures, and you will not love the vices of the flesh.”
+
+O, if the human mind did not grow lukewarm from such studies, how the happy condition of the inner person would flourish. If the restless mind of mortals had no idle time, so easy an entrance would not lie open to the filth of vices. O, if our cloistered men now truly devoted themselves to the studies of the Scriptures as once they did, how useful they would be both to themselves and to the catholic Church. For the knowledge of the Scriptures is what usefully sets the humble on high, enriches the poor, glorifies the despised, helps the devout, adorns prelates, separates monks from the world, purges vices, and exalts by the steps of the virtues. It is what forms faith, orders charity, raises hope, cultivates justice, instructs temperance, and directs prudence to the rule of piety. Sacred Scripture is the fountain of wisdom, the path of justice, the form of discipline, the storehouse of salvation, the mistress of truth. If you love it, you will truly find it; and if you remain in its company, it will delight your heart with ineffable joy, so that, in comparison with it, you will despise all the honors and riches of this world as a little dust.
+
+--- Page 012 ---
+
+For it will teach you to conquer all the adversities of the world, to despise the enticements of pleasures, and to judge the beautiful things of this life as foul. If you have this beloved bride, you will never be perniciously sad, but always joyful, always cheerful, always advancing in the love of God. Moreover, it will exalt you before God and human beings, and you will be admirable in the mouth of all, and your elders will venerate you. There will be no one who contradicts your words; you will have kings and princes as friends, and from distant parts of the earth they will send gifts to you. You will be glorious without ambition and revered without fear. You will obtain an ineffable gift from it, and you will be venerable before all human beings. It will free you from the bond of this corrupt flesh and lead you before the throne of the most high King, where you will be clothed with the robe of joyful immortality. This mother is strong and very honorable; with her going before, you will pass secure through the camps of the enemies. For she has the knowledge of God as her friend.
+
+Whoever you are, therefore, who loves the salvation of your soul, do not depart from this mistress; do not neglect her precepts, so that you may be able to come to the love of God. To continue her friendship, an abundance of holy volumes is necessary for you. For without books you will not come to her familiarity.
+
+*On the diligence and love of the ancients toward books.*
+
+*Chapter 3.*
+
+And now, therefore, by the example of the ancients, even the gentiles, I shall try, as far as I may, to stir you to the love of books. For examples sometimes profit more than words, because when we see that others too have first done what we are commanded to do, we are less afraid of the hardship of the labor. What is proposed as singular is judged more burdensome by the one undertaking it. Human weakness rejoices in the company of many, and what is practiced more frequently by many is less frightening. If, then, we consider how much diligence the ancients had in collecting books, our studies will appear as nothing, like children’s play. They spared no expenses; they feared no labors by which they might obtain a multitude of books.
+
+[segment 4]
+--- Page 013 ---
+to acquire. Hence they not only bought up the volumes of their own peoples, but also, translating into their own language the sayings and deeds of any foreign nations whatever, they strove to store them in public libraries.
+
+Among the Greeks, Pisistratus was the first to establish a library; after the Athenians had enlarged it, Xerxes, when Athens had been burned, carried it off to Persia; and long afterward Seleucus Nicanor brought it back again into Greece. From this arose among kings and other cities a zeal for gathering the books of different nations and for translating them through interpreters into another language. Afterward King Alexander, surnamed the Great, although he was continually occupied with the campaigns of war, gave his attention in a marvelous way to establishing libraries of all books. What shall I say of Ptolemy Philadelphus, a man most discerning in all literature? Since he emulated Pisistratus in his zeal for a library, with incredible fervor he brought into his own library not only the writings of the nations, but also the divine letters, translated at the greatest expense. For in his time seventy thousand books were found at Alexandria.
+
+Plato, chief of the philosophers, is said to have had so great a love for books that he bought the three books of Philolaus the Pythagorean for ten thousand denarii. Aristotle too, of no less glory among the philosophers, purchased a few books of Speusippus the philosopher after his death for three Attic talents, which make seventy-two thousand coins. But, leaving aside the gentile lovers of books, whose number is vast, let us pass to our own people. Ambrose, disciple and friend of the great Origen, burning with incredible zeal for books, used to urge Origen daily to write, indeed to drive him on, so that he affectionately called him the compeller of his work in a certain letter. The blessed martyr Pamphilus, a priest of Eusebius of Caesarea, loved books with so great a desire that, copying the greater part of Origen’s books with his own hand, he gathered a very great multitude of books at Caesarea, with Eusebius assisting him. The holy priest Jerome too, withdrawing from the city, although he despised all worldly things, confesses that he could not leave behind only the library
+
+--- Page 014 ---
+which he had founded for himself. Augustine, the foremost doctor of the catholic Church, when he was about to die, entrusted to the brothers, almost as a special testament, that they should carefully guard the ecclesiastical library.
+
+It would be a long matter if we wished to describe by name the foremost lovers of books whom we know, who flourished from the beginning of the Christian faith down to our own age. The almost infinite volumes that they handed down to their libraries bear witness to their sacred love. We see in many monasteries, especially of our order, splendid and very ancient copies, written with marvelous refinement, which demonstrate the diligence of the ancients. Formerly the abbots and monks of our order had an incredible zeal for books, since they knew that the dignity of the order and the remedy for weak souls were contained in them. For books are what create in us a desire for future happiness, lessen the miseries of the present exile, drive out vices, bring in virtues, grant constancy in tribulation, and produce the fruit of time well spent. For what could we savor except earthly things, if we did not have the consolation of more delightful writings? Finally, the catholic faith would quickly fail from the minds of men if the instruments of scripture were not possessed, by which the minds of men may be trained and exercised. For among all manual exercises, none is so fitting for monks as to devote zeal to the writing of sacred volumes.
+
+On the diligence of the ancients in writing books.
+
+Chapter 4.
+
+[segment 5]
+--- Page 015 ---
+Finally, if we carefully examine the histories of time past, we shall both discover and marvel at how much care the ancients and holy fathers devoted to writing books, even with their own hands. For they knew the twofold usefulness of this art: that it profited themselves in many ways, for body and soul, and served posterity for the honorableness of life. The holy martyr Pamphilus, as we have already said a little above, was so great a lover of this art that he copied out with his own hand the greater part of Origen's books. If so great and suitable a man, a martyr of Christ, did not refuse to undertake the office of scribe with such fervent desire, what shall we little worms say, who, living in a monastery without concern for temporal affairs, deign to set our hand to writing neither by the example of the ancients nor by the command of Plato? That holy martyr will stand in judgment as a witness against our sloth and laziness, because we neglect to imitate in peace what he performed with great desire amid persecution.
+
+Of Saint Ambrose, bishop of Milan, we read that he copied with his own hand all the books he had published; of these I have already found more than a hundred, lest you suppose them few. Who among us would dare to boast that he has copied a hundred books published by others in the leisure of the monastery, when this most blessed pontiff, placed in the care of the Church and occupied with many affairs, copied out even more books which he himself had previously composed? Love of the Scriptures does not allow its devotees to be idle. But because we neglect to have this love in us, we grow numb in inert idleness, so that things which are very easy for the studious become difficult for us to do. O brothers, how happy our order would be if, following the examples of the ancients, we applied ourselves with zeal to the Scriptures! Let us look at the ancient abbots and monks of our order, the pillars of our religion: Cassiodorus, Bede, Alcuin, Regino, Peter Damian, and the rest; with what great diligence they copied the books of the ancients. No labor seemed hard to them, no expenses burdensome, by which they could increase the adornment of their libraries.
+
+--- Page 016 ---
+On this industry Cassiodorus and Peter Damian published singular and outstanding treatises. Nor, brothers, ought we to pass over carelessly your Rupert of Deutz, whose depth of intellect was adorned by the shining heap of so many volumes. For he, since he was a devout man and a most ardent lover of God and of the Scriptures, deserved to be divinely illuminated through a vision, so that in expounding the Scriptures he had no equal in Germany in his time. He composed many distinguished volumes, which he copied with his own hands after the example of Ambrose, and gladly made available to others to be copied.
+
+Among these, Cuno, abbot of the monastery of Siegburg and afterward bishop of Regensburg, a man zealous in the divine Scriptures, had all the treatises which your Rupert had forged copied out, both by himself and by his brothers. Hence the greater part of Rupert's volumes is kept in the monastery of Siegburg. But Rupert himself also, collecting books of various arts, established at Deutz a most richly furnished library, which, as is evident, the malice of the times has long since scattered.
+
+In many monasteries also of our order the diligence of the ancients in writing volumes is still seen today, where twenty or thirty volumes, often most beautifully written by one person's hand, are displayed. Finally, in the Life of Saint Martin of Tours, Sulpicius relates that in his monastery no craft was practiced except that of scribes. From this it is clearly gathered that even the ancient and most holy fathers preferred this blessed art to all manual exercises in monasteries. Therefore let none of you, brothers, shrink from what he knows the holy fathers did with such great diligence. Just as they benefited us by writing, so let us prepare memorials of salvation for posterity. For if the ancients had not once written, what would we now read? Indeed, if I had not resolved to consult brevity, I could still proclaim many things about the diligence of the ancient scribes. But since I am speaking to those who know the histories, I wish to shorten the discourse I have begun. That copying the books of the ancients is, as it were, the proper and fitting craft of monks.
+
+[segment 6]
+--- Page 017 ---
+
+Let us consider, brothers, what the apostle Paul says concerning our purpose, and what Saint Benedict, also our lawgiver, proclaims in the Rule. For they themselves are our leaders, whose commands we ought to obey. The first says: “Whoever does not work, let him not eat.” The second says: “Then they are true monks, when they live by the labor of their own hands.” Therefore, if he forbids one who does not wish to work to eat, idle monks should either not eat, or acknowledge that they are transgressors of the apostle’s precepts. But if they cannot live unless they eat, they must work, so that, working and eating, they may also be able to live well. For to live and not to live well is already to begin to die. But he lives badly who lives otherwise than he ought. And we all ought to live according to the rule of the precepts of God and of the Catholic Church. Therefore whoever lives idly does not live according to the tradition of the Church, and for that reason lives badly. But the end of a bad life is the beginning of a very wretched state, unless repentance is undertaken before life’s end.
+
+Likewise, if those are true monks who live by the labor of their own hands, it follows that those are not true monks who, living idly, scorn labor. But what, I ask, is a man in a monastery who is not a true monk? He who is not true is not. He who is not true is certainly not a monk, because everything contrary to truth is not as it ought to be. But what is not as it ought to be contradicts the highest Truth, which has established for all things the due order of being. And therefore, in truth, it is not.
+
+We must work, then, brothers, lest we offend the apostle by eating idly, and lest we cease to be what we entered the cloisters of the monastery in order to be. But there is no labor in monasteries that is more fitting for us, more useful, and closer to our profession than the office of writing. For, being bound to divine offices, we cannot dig; we cannot bear the hard and heavy labors of the fields, because if it happened that we were wearied outside all day in rustic works, the divine service in choir would perish. But since service to God must be set before all labors, it would be very unfitting for monks to neglect all inward things and immerse themselves in outward things. Yet the labor of writing does not impede
+
+--- Page 018 ---
+
+the hours assigned to the divine office, because, while the course of the hours is distinguished by intervals of time, a suitable space is allotted to each thing. We read of Saint Bede, the Venerable Monk, that although he wrote many volumes, nevertheless he was rarely accustomed to absent himself from divine service on account of study; but, content with the interval between the hours, he wrote the books which he published, almost innumerable. Nevertheless, if the abbot judges it useful and necessary, a good scribe may sometimes be excused from common services. But in this liberty the proper circumstances must necessarily be weighed. For not every spirit is to be believed.
+
+The office of a monk is to lament both his own sins and those of others, and to await the coming of the Lord with fear; to devote himself frequently to prayer and contemplation; to flee the world and sit in solitude. But in this age of ours, what monk will you give me, one out of thousands, who continually dwells on the mountain of contemplation? Since, therefore, we are sluggish at prayer and untrained at contemplation, lest we pour ourselves out through empty desires, we shall be able to compensate for this deficiency by no labors better than if we devote our effort to writing volumes for the edification of many. But if there is anyone who, in the hours free for prayer and contemplation, can duly and constantly apply himself to them, he should be excused from the burden of writing. Yet the examination of this matter should rest in the discretion of the abbot, or of some other experienced man. For the impulses of young men must not be believed too quickly. Often, indeed, while they think that they have already reached the mountain of contemplation, they are drawing near to dangerous errors.
+
+Therefore, O abbot or prior, if you see a young monk not yet well instructed in active habits, but still burning with his passions, even if he says marvelous things, do not permit him; rather, take hold of his feet and cast him down to the ground of subjection, so that he may learn not to savor lofty things in pride and elation of heart, but to agree with the humble. In these things we do not say that you should forbid him who can do well; rather, that you should teach such men, if they are ours, the order of making progress, lest, if a beast touches the mountain, it perish overwhelmed with stones. But he who has crucified his flesh with its vices and desires, who [unclear]
+
+[segment 7]
+--- Page 019 ---
+
+his own passions; who has humbly learned to live under obedience: even if he is young, he is fit to ascend the mountain of God. But let the one who is still subject to animal passions, who is still weak and feeble, restrain his foot from approaching the mountain, and devote his effort to the holy exercises of the active life. Such men, therefore, are to be assigned to the office of writing, lest, left dangerously to their own freedoms, they cast themselves down into the abyss of error. For no one suddenly becomes highest; rather, by certain grades of distinction a person advances upward. One must begin from the active life, so that one may duly arrive at the contemplative.
+
+In no matter can a monk come nearer to the perfection of the active life than if, out of charity, he keeps watch in copying the divine Scriptures. For from what source will he give alms, who has nothing? But the devout copyist is recognized as fulfilling works of mercy more abundantly, and his labor proves to be of greater merit. Hence a certain man sang thus: The copyist preaches and studies, gives freely and prays. He afflicts himself, gives salt, and provides a spring and light for those to come. He enriches, arms, guards, and honors the Church. What labor is more useful than this, which is honored with so many prerogatives?
+
+Finally, if anyone desires to be better informed on this subject, let him read the book of the chancellor of Paris, On the Praise of Copyists. There he will see the benefits of writing already mentioned set out at length, and many compositions gathered in praise of the good copyist. Therefore no labor exercised by the hands better suits our purpose than the office of writing. Considering this in ancient times, monks copied books with incredible desire, knowing that this art was especially dear to almighty God. For God wishes us to know and do his will, and carefully to keep his commandments. But his will would in no way reach our knowledge, unless by this industry of the copyist he had committed it to letters. Copyists, therefore, are messengers of the will of God, who have transmitted it to us through letters.
+
+How good and useful it is for monks to write. Chapter VI.
+
+--- Page 020 ---
+
+Great, therefore, is the usefulness of this most sacred art, which announces the will of God not only to those present but also to those yet to come. Monks who write divine books, and whose office is not to teach but to mourn, since they cannot preach by speech, announce the will of the Lord by hand and pen to those far in the future. And the piety of the copyist is greater than the office of the preacher, because the admonition of the latter perishes with time, while the announcement of the former endures for many years. The preacher speaks only to those present; the copyist preaches also to those to come. The speech of the former, once heard, is quickly reduced to nothing; the reading of the latter, repeated a thousand times, is never diminished. When the preacher fails, his office ceases; the copyist, even when dead, teaches morals in the volume.
+
+The office of the preacher is of little worth if it is not assisted by the ministry of the copyist. For what will he preach, if the copyist has not written what he may read? Therefore, from the piety of the copyist the useful sermon of the preacher is made; and what, I ask, would the preacher preach, if he did not have what had been written? Moreover, the devout monk gains four principal benefits in writing. The time, which is most precious, is spent fruitfully; his understanding is illuminated while he writes; his inner affection is kindled toward devotion; and after this life he is rewarded with a singular recompense.
+
+How could a monk spend the time granted to him more fruitfully than by applying himself, with love of God, to writing volumes? For God favors this office; the angels rejoice with him and stand by; the devotion of all the faithful sincerely serves it. Finally, while he copies good and devout subjects, he does not suffer vain or shameful thoughts as troubles; he does not speak idle words; he is not stained by wandering rumors. Instead, sitting quiet and solitary, he feasts with joy in the Scriptures, and by good exercises he provokes those who see him to glorify God. For while he writes good subjects, by writing he is gradually introduced into knowledge of the mysteries, and inwardly in his soul [unclear], because in writing and reading we treat these things with some delay. The mind of the writer also is often more happily moved to devotion
+
+[segment 8]
+--- Page 021 ---
+is kindled, while, ruminating on the Scriptures, he is often inflamed by them. What reward is owed in heaven to the devout scribe can easily be gathered from the many labors of such men. For we believe that the devout and sincere scribe, in that recompense of the just, is not deprived of the preacher’s little crown, since he is seen to teach so many in the faith by his hand. For what the one teaches by speaking, the other teaches by the office of writing.
+
+There was in a certain monastery of our order, unknown to us by name, a devout brother who had great zeal in writing volumes for the adornment of the library, so that whenever he could be free from the divine office, he withdrew to the privacy of his cell and applied himself to this sacred labor. Hence he copied out many little works of the saints with great devotion. When, many years after his death, his bones were lifted from the earth, three fingers of his right hand, with which he had written so many volumes, were found so whole and uncorrupted that they seemed to have been placed in the tomb at that very time. The rest of his body, however, as is customary, had been reduced to bones. From this testimony it is gathered how holy this office is judged to be before almighty God; and to show its merit to all, he honored the members of scribes even in dead bodies.
+
+O my brothers, if you knew the usefulness of this work, you would not be so sluggish and slow toward the office of the scribe. Or do you think God can be appeased by the victims of fools? A humble brother devoutly copying out one book from obedience has greater merit before God than one who, even devoutly, seems to devote himself to contemplation on his own authority. For obedience is better than sacrifices. But a monk must abandon even a good work if he is commanded, and fulfill the lawful will of the abbot, not his own. For evil is never to be done on account of obedience.
+
+Therefore, dearest brothers, do not neglect this good; do not despise the study of writing. For it is a great good, and very advantageous both to the Catholic Church and to your souls. If anyone has exercised himself in it, he will recognize how useful it is. Begin with desire, and you will bring it to completion with holy love. Let each one rejoice that in the house of God he has brought something by his labors for the benefit of others. The Lord is merciful and just. He will not let your labors,
+
+--- Page 022 ---
+so pious, so useful, so necessary to the Church, pass without the greatest recompense.
+
+*That one must not cease from writing volumes because of printing. Chapter VII.*
+
+No one, brothers, should say: “What need is there for me to be worn out with writing, when the art of printing pours forth so many and such great books into the light that we can furnish a large library at moderate expense?” Truly, whoever says such things is trying to make darkness for his own leisure. Who does not know how great the difference is between writing and printing? For writing, if it is put on parchment, can last for a thousand years; but printing, since it is a thing of paper, how long will it endure? If it can last two hundred years in a paper volume, that is a great thing, although there are many who think that printing is to be consumed by its own material. Posterity will judge this.
+
+Indeed, even if many volumes have been printed, they will never be printed to such an extent that you cannot always find something to write that has not been printed. Nor, if all the books of the whole world were easily printed, should the devout scribe in any way cease from his study; rather, he should perpetuate useful printed books by writing, since otherwise they cannot endure for long. By doing this he will give stability to wavering writings, greatness of value to things of small price, and long life in time to things that perish.
+
+The devout scribe will always find something, by applying himself to which he may earn merit in his office. He does not suffer himself to be constrained under the condition of the printer. He is free, and he will rejoice in the office of his freedom. Nor is he inferior to the printer, so that he should abandon his own study because of the other’s printing. Instead, having prudently passed him by, he advances joyfully on the way he has begun, knowing that his crown before God is not to be diminished by any importunity of another. But he who ceases from the study of writing because of printing, [unclear]
+
+b ij
+
+[segment 9]
+--- Page 023 ---
+
+is not a true lover of writings, because, looking only to present things, he is not at all concerned for the edification of posterity. But we, dearest brothers, keeping our eyes on the reward of this holy labor, should not cease from zeal for it, even if we have many thousands of volumes. For printed books are never to be compared on equal terms with written codices. Printing for the most part neglects orthography and the other adornments of books; writing, however, is a matter of greater diligence.
+
+On Orthography and the Manner of Writing.
+Chapter 8.
+
+So that the devout scribe may usefully fulfill his office, and may render the books he writes adorned with beautiful grace, he should observe most diligently the rules of orthography; without them books, however useful, are made ugly and contemptible. On this subject, abundant instruction is found in the old codices of authors, and there is no time now to linger over it at length. The examples of learned men are also rules of diligence for new scribes. Let us inspect the most ancient volumes that learned scribes wrote, and from imitation of them let us take the concise method of our art. Among them there were some who applied such exact diligence in writing that they wrote not only correctly but also skillfully, distinguishing volumes with notes, colons, and figures in beautiful variety, so that by their very appearance alone you seem to be invited to read them. Yet even if unskilled scribes among the ancients spoiled their codices, because they either did not know how or did not want to understand how to write well, you should know that what is set before you for imitation is not the negligence of the unskilled, but the carefulness of the learned. In ancient times they did not admit scribes indiscriminately, but only the educated and learned, who were called notaries from their skill in notes. They wrote volumes not only beautiful but also corrected, with remarkable subtlety. I would have you imitate them, because it is fitting and just that sacred scripture, brought forth from the mouth of God for our edification,
+
+--- Page 024 ---
+
+be written both correctly and elegantly. What shall I say about certain scribes of this age, who, although for the most part they understand what they are writing, are so lazy and idle that they do not wish to apply any diligence at all to the writings? These are corrupters of the correctness of the scriptures, falsifiers of the bulls of the pontiff Jesus Christ, foolish and perverse messengers, since, in writing the will of God, they ought to have announced it with fear and care, but instead they handle it negligently and corruptly.
+
+If, according to the statutes of the canons, he who falsifies the pope’s letters is excommunicated, with what penalty must he be punished who corrupts the scriptures of God? Just as a devout and diligent scribe, by writing, provides great fruit in the church of God, so an idle and negligent one brings very great harms upon it. For when he corrupts the scriptures, he announces false things as true to the church; he impedes readers from holy study; he removes understanding; he overturns the order of teaching. I have said these things against those who abuse the gift of understanding bestowed on them, and who, from laziness or negligence, do not fear to corrupt the holy scriptures by writing them falsely. But against those who are less learned and carefully do what they can, so harsh a judgment should not be borne. For no one sins unwillingly.
+
+Therefore, when a devout scribe has carefully copied out a codex, let him compare it again with the exemplar; wherever he has erred, let him correct it by careful emendation. By doing this, the scribe himself is found suitable and faithful, and the book acceptable in due order. If it can be done, let codices be adorned with beautiful decoration, so that by their appearance they may invite those who look at them to read. For we know that the ancients took great care over this, so that exterior grace might commend the inner beauty of codices. Sacred scripture is indeed most worthy of every adornment. Yet care must be taken that the adornment itself is not over-elaborate, lest we put beauty before correctness; for where honorable adornment is admitted, curious excess is forbidden. At the same time, let us not be marked by the saying of Jerome, in which he criticizes the unskilled, who prefer to have beautiful codices rather than corrected ones. And a similar judgment must be applied concerning the multitude of books.
+b iij
+14
+
+[segment 10]
+--- Page 025 ---
+
+Concerning Those Who Cannot Write. Chapter IX.
+
+If, however, any brothers are so untrained and unskilled that they do not know how to write at all, we advise first that they learn, for nothing is so difficult that it does not yield to good will. But if they are wholly unable to learn this most sacred art, we shall readily give counsel, lest they be altogether deprived of the fruit of so holy a work. Therefore assist the scribes in other tasks, if you yourselves are not able to devote yourselves to writing volumes. Let one correct what another has written; let another mark in red what the first has corrected; let this one distinguish it with notes and headings; let that one glue and bind the codex with boards. You will fit the boards; another the leather; another will prepare the metal plates for ornament. Let no one’s service be lacking here, so that the devout scribe, relieved of other tasks, may be able to continue his office.
+
+Finally, many things pertain to the practice of writing, and each of these can be prepared by different individuals. Let one cut the parchment, another clean it; let a third prepare it for the scribes by ruling lines; let another supply the ink, another the pens. You always have something by which you ought to support your scribes. Nor should it displease you if, in the judgment of the abbot, a useful scribe is sometimes relieved from communal burdens. I am addressing you, brothers, who for some reason are hindered and cannot write; I have set out these teachings for you with special intention. Look at the monks once renowned in our order, such as the contemporaries of Bede, Rabanus, Haimo, and the other venerable abbots, and with what cheerfulness they served the scribes. For burning with an incredible love of the Scriptures, they considered themselves blessed and fortunate if they could assist their teachers and scribes in any way. This zeal of the monks once magnificently raised our venerable order, through holiness of life; when it failed, the excellence of the order collapsed and perished. Now therefore, brothers, for the salvation of your souls and of the order, apply yourselves fervently to the holy Scriptures, so that you may be able to come with joy to those who have laudably gone before you in this matter. Let no one dare to excuse himself from the labor
+
+--- Page 026 ---
+
+of writing, if he desires to escape the punishment of the idle. If you cannot write ornamentally, write as well as you can; only take care of this, that you do not corrupt the meaning of the Scriptures by your negligence. For I prefer to have a corrected codex rather than a beautiful one, and a small one rather than none at all. Therefore do not say, “I do not know how to write well, and for that reason I am excused”; instead, write as you can, and nothing more is required of you.
+
+Concerning the Material They Should Write. Chapter X.
+
+But if it is asked what kinds of materials monks ought to write, we answer briefly: such as the obedience owed to superiors enjoins. For it is in the judgment of the abbot or prior what he wishes to assign to each person for writing. Yet they should take care not to entrust to weaker brothers such materials for writing from the reading of which they may become weaker. For it is not expedient for all people to read all materials. But if something of this kind must be written, let it be entrusted to stronger and learned brothers, who know how to suck honey from the rock and oil from the hardest stone.
+
+The books of the holy fathers, however, in which they explained the divine Scriptures, are to be written by monks with particular zeal, because from knowledge of them they are more richly instructed in understanding the mysteries of God. But also the treatises of the same fathers that are suitable for stirring up devotion are to be written by our scribes with special attention. And in general all books that serve either for the establishment of good morals or for the integrity of the orthodox faith are to be acquired for the studies of monks. Nor do we reject the codices of secular letters; indeed we value them, since their knowledge is very necessary for us for the understanding of the holy Scriptures. The monks of old, not ignorant of this, were instructed in all the disciplines of secular literature. Four things, however, so far as their state is concerned, must be known by monks, without knowledge of which ecclesiastical unity could not long subsist in its strength: theology, music, law, and the art of computus. To those who understand, the reasons for each are clear; these we have set out in another place.
+
+[segment 11]
+--- Page 027 ---
+
+we have set out more fully elsewhere. And our scribes also had to be admonished about these matters, lest they regard the knowledge of secular letters as useless. Therefore let the abbot’s foresight provide for each person, according to his capacity, what he is to write. But if abbots immerse themselves in the concerns of secular affairs, as many do, and books are neglected, let the monks nevertheless continue the practice of writing, and let them not wish to lose their own progress because of the abbots’ negligence. In this case, let a diligent prior make up for the defect of a slothful abbot, and assign to the brothers suitable materials for writing. For I know several distinguished monasteries whose priors, notwithstanding the abbots’ sloth, have furnished most splendid libraries.
+
+Therefore, if the brothers are free to write, let them each choose for themselves the teachers whose volumes they will copy: one Origen, another Basil, another Augustine, another Jerome, and so on with the rest, according to each one’s inclination, since from this they very often make greater progress in sacred study. But if they are not free, let them know that obedience to the prelate is by right to be preferred to their own choice.
+
+Let the brothers who are scribes, who wish to make progress in the study of the divine Scriptures, also make for themselves little books which they call rapiaria, so that when, in writing, they pass through the books of the holy fathers, if they find anything worthy of remembrance, they may gather it after the example of the most discerning bee; and, heaping useful sayings like fragrant flowers into the hive of their own volume, they may have them ready at hand, so that at the opportune time they may know how to bring forth a fitting discourse. The venerable monk Bede is read to have done this; so did Abbot Rabanus; so did Cardinal Bonaventure; and very many other most learned men are remembered to have practiced this. For one who keeps this order of learning makes great progress toward understanding sacred Scripture.
+
+But let him take care not to prefer private study to the benefit of many; that is, lest by dwelling continually on his own collections he neglect the good of obedience. For studies that resist the laws of obedience will not prosper. Let him keep the mean in both respects: that he not fail by writing too much, nor, while free for himself, put obedience and charity after his own advantages.
+
+--- Page 028 ---
+
+While the damp leaves are drying, or while his head, wearied by labor, trembles, let him attend to his own collections as a kind of consolation. And on feast days too, when he is free from prayers, let him take care of such things.
+
+Whether Monks May Write on Feast Days.
+Chapter 11.
+
+The occasion now being given, the question is asked in the present matter whether it is lawful for monks to write on feast days, on which the law commands them to abstain from servile works. We read that this question was once proposed by certain persons to Johannes Cellarius of Paris, a most learned man. In the book On the Praise of Scribes, after setting out twelve considerations, he finally concludes in this way, saying: “Nothing prevents one from writing books, little treatises, or small devotional codices on feast days, provided moderation is observed, of the kind that a wise man will judge suitable in this work; and this certainly should not be considered servile, but sometimes tends more to the honor of the Church than the multiplication of vocal prayer, indeed than the excessive repetition of Masses in some persons.” Thus he.
+
+But we, adding our view with humility, say that a monk established under obedience, if at the command of his prelate he writes useful materials on feast days, should fear nothing, because the obedience of one writing is better than the sacrifices of his own will. Yet on this occasion he must not neglect those things to which he is bound by the institution of the feast, such as celebrating or hearing Mass and duly performing the canonical hours. Therefore one who writes books on feast days does well, provided the required circumstances are carefully observed.
+
+But one who can fittingly devote himself to divine contemplation is believed to obtain a more excellent degree, unless the merit of obedience rightly intervenes. For obedience adds increase to good works and makes better things out of equal ones. Since, then, we are weak men and less fit for contemplation, it is better to make good this loss by writing than to have leisure, as often happens, for useless conversations. And because we cannot always read or pray, there is nothing after these with which we may occupy ourselves more usefully than if with
+
+[segment 12]
+--- Page 029 ---
+
+we devote our effort, with devotion, to writing books. From this we not only instruct ourselves, but also prepare material for edification for those who will come long after us. The scribe teaches good things by writing no less than the preacher teaches holy things by preaching. And if the latter is permitted to do this, who forbids the former?
+
+And, as we have already said, studious brothers, especially on feast days, consulting their own devotions, may confidently write their own small excerpt-books, unless, as has been said, obedience commands them to do some other work. In all these matters, however, the intention of the one giving the command must be observed, and the devotion of the one writing must also be regulated. But those who write anything for pay, however useful the subject matter may be, are excluded from this liberty; on feast days they must cease from the work, because in intention they are serving earthly profits, and for that reason it is judged a servile work, unless perhaps some other consideration of piety intervenes, which rarely happens.
+
+Concerning the Difference between Scribes and the Names of Short Works. Chapter XII.
+
+Among the ancients, scribes were known by a twofold designation. The first were called antiquarii, because they wrote only old things, taking their name from their office. The second were called librarii, who wrote both new things and old. When the antiquarii wrote, they also used ancient letters; the librarii, however, used new ones. They are called librarii from liber, that is, the inner bark which adheres to the wood, because before the use of paper or parchment, scrolls were put together from the bark of trees, as traces are still sometimes found today in the very oldest libraries.
+
+Now, for the instruction of the devout scribe, I am pleased to describe briefly the variety of short works, as they are set forth by Rabanus, once a most learned man, because knowledge of them will not be useless to the brothers, so that they may know how each little work ought to be named. Therefore there are three kinds of short works. The first kind are called excerpts, which the Greeks call scholia; in these, matters that seem obscure
+
+--- Page 030 ---
+
+or difficult are touched on summarily and briefly. The second kind are homilies, which we call sermons, and they are delivered to the people. The third kind are tomes, which we call books or volumes. Homilies are for the common people; tomes, that is, books, belong to a larger discussion.
+
+A dialogue is a conversation of two persons, from dia and logos, meaning the speech of two. A treatise is the manifold exposition of a single subject. Commentaries are so called as if they were explanations; for they are interpretations: commentaries on law, commentaries on the Gospel. An apologetic is a book of excuse or defense, in which certain people are accustomed to answer their accusers. A panegyric, that is, a laudatory work, is a licentious and wanton kind of speaking in the praises of kings and princes; in composing it, people flatter with many lies.
+
+A prologue is a preface before a book, as the prologue of blessed Jerome on Genesis. A proemium is the beginning of a speech or work, and is often taken for a preface. The peroration is the conclusion of some work, and in our usage is treated as a third-declension noun, like dogma. A biblos, that is, a codex, is a work of many books, as the codex of the Bible, which contains many books. A book is a partial treatise divided off by itself, or a single work, as one book of Augustine On Penance, or four books On Christian Doctrine, and so forth. A volume is a book named from rolling, as in the volumes of the law, the volumes of the prophets.
+
+Fasti are books in which kings and consuls are written, either because they were made from the barks of those same trees, or because they flutter in a codex in the manner of leaves. Verses are so called from turning, because the ancients wrote as if [unclear]: first they drew the stylus to the right, then they turned back from below and wrote again to the left. A draft-sheet is something that is still being corrected and has not yet been brought into a clean copy; for this we say “conceptions,” as it were unpolished materials. The instruments of the scribe, however, are the reed and the pen.
+
+14
+
+[segment 13]
+--- Page 031 ---
+
+On Instituting Scribes in Monasteries.
+Chapter 14.
+
+Since, as we said above, no craft is so suited to the profession of monks as the office of writing, because many who are weak and feeble, not to say untrained, are not fit for the higher exercises. For it has not been granted to all always to persist in contemplation or prayer, or to instruct others by preaching. Yet there are some slothful and lazy men who excuse themselves, indeed boast, saying, “I do not know how to write.” If you do not know, learn; otherwise, he who does not work should not eat either. Ignorance does not excuse you from duty, since you neglect to overcome it though it could easily be conquered. If only a good will were in you, steady practice would quickly provide the art of writing.
+
+Therefore, to remove the excuses of the lazy, it seems advisable and very useful that abbots have them instructed in the art of writing, either by their own monks or by others; for by this the occasion of excuse is taken away from the lazy, and the greatest usefulness is produced from it. Idleness is the enemy of the soul, and desires kill the sluggard. But if anyone is so lazy or malicious that he utterly refuses to agree to write, he must be afflicted with other labors and abstinences, until he asks as a consolation for what he previously despised. Yet in all things let the abbot be cautious, and let earnest admonitions of charity always go before.
+
+The demons greatly hate this discipline, knowing that through its ministry the salvation of many is procured. Therefore with every effort they try to draw monks back from its office, and sometimes to lead them so far that many, resisting their prelates even to the crime of disobedience, fall into a horrible calamity. We have already known very many such men: disobedient to their superiors, lest they be able to write, they became cruel to themselves at the devil’s persuasion and fell into extreme madness. But let us pass these things over, lest they harm weak readers more than they profit them.
+
+No one has a lawful excuse whose defect consists in will alone. For those who wish to learn will always find suitable instruction,
+
+--- Page 032 ---
+
+either from others who know, or from the books of the ancients. The practice of writing also contributes much to progress, because if this art is long interrupted, it is gradually unlearned. For no discipline, however celebrated, is retained for long without practice. Practice is the strength of art.
+
+Let monks who do not wish to write read the book of blessed Augustine On the Work of Monks, and let anyone be ashamed of his own sloth who lives idly contrary to the decrees of the fathers. Scripture says: “Every idle man is in desires.” Why? Because when the empty mind is not turned outward by exercise toward useful work, it is inwardly soiled by unclean thoughts. Fullness of bread and idleness led the Sodomites to eternal destruction. Idleness is the mother and fountain of all vices, and the destruction of all virtues. For it spends acceptable time fruitlessly and shamefully; it abandons the nourishment of virtues; it suggests lust; it diminishes strength; it kills the soul.
+
+Therefore flee idleness, you who desire to reach eternal life, which is promised not to the idle but to those who labor rightly. And this sloth is especially reprehended in monks, who are called not from labor to idleness, but from idleness to labor. Therefore if you say to me, “I cannot write; I am not able to remain in a cell for the whole day; I will gladly go to outward labors; I will by no means refuse to dig or carry stones, provided only that I do not suffer distress in things that are altogether contrary to me,” I will answer briefly: a comparison is not good when it departs from the better progress. It is better to write than to dig, to read sacred books than to carry stones, unless obedience or charity, which avails for all things, should choose to intervene.
+
+If you cannot write, if you are not able to remain alone in a cell, why did you wish to come to the monastery, since you were not going to live as a monk? For to live in a monastery as no monk is to bind oneself to damnation by the sentence of one’s own mouth. For a monk, according to the interpretation of his name, is commanded to sit alone in the monastery, so that he may be separated from the cares of the world through silence. Therefore, if you are unwilling to be what you promised, you lie to God as a transgressor of your vow. And to lie to God is to condemn oneself by one’s own mouth. You vowed the conversion of your manners according to the Rule of Saint Benedict, which [unclear] monks.
+
+[segment 14]
+--- Page 033 ---
+
+He commands them to labor so much that he denies that idle monks are monks. But as for your desire to be occupied with exterior labors, you make it clear that you are empty of interior exercise. For whichever of the monks is delighted by these labors must necessarily abandon the interior ones. You are led, I say, to exterior labors by a diabolical instinct, which knows that the interior labors are contrary to it. If you were a true monk, you would not shrink from the seclusion of the cell, which is especially fitting for your honor. In our age there is not such devotion among monks that, after the example of the ancients, they can make progress in the works of agriculture. These labors destroy devotion more than they build it up. For as soon as one has come to conversation, no word of edification, or only rarely, is brought forth; rather mouths are most eagerly opened to worldly affairs. A pleasant discussion is held about the wars of kings, the conflicts of princes, and the vanities of the age; no guard at all is applied to silence.
+
+Therefore, freed from these labors as from certain bonds of distraction, and turning our mind to interior things, let us love the seclusion of the cell; let us apply ourselves more frequently to prayer and reading; let us write the books of the holy fathers with devotion; let us seek foods that nourish the soul, since by our labors we cannot feed bodies. Let the one who does not know how to write learn from others who do know, and let him submit his will to obedience, if he wishes to escape the penalty of those who eat idly. For a devout brother will always find writers by whom he may be instructed. And because good will merits grace, so that it may always advance by pious increases, it must rather often be honored with fitting stipends.
+
+Therefore the abbot, when he has perceived that his brothers are ready to obey, willing to write, and cheerful, should pursue them with greater benevolence, honor them with fitting favors, and sometimes lighten the burdens of the others. And because such devout brothers, on account of obedience and love of the Scriptures, neglect themselves, the abbot should provide more abundantly than for the others in all necessities for those whom they disdain to be and to be found. For by doing this he will both preserve the good in holy zeal and encourage others to imitate them. Yet let him not transgress the paths of this opinion under pretext of it.
+
+--- Page 034 ---
+
+Whether it is commendable to have many books in monasteries. Chapter XIV.
+
+There are some who rebuke lovers of books concerning their abundance, as if it were excess, saying that a few books are sufficient for the formation of a good life, books that teach us to flee vices and love virtues. For they say to those whom they see to love books: Why do you burden yourselves with so great a multitude of books, when you cannot read all those that you have? For it is better to have a few books and read them than to pass by many books stored away in a library without reading them.
+
+To them we briefly answer: If it is reprehensible to have many volumes when a few could suffice for saving knowledge, let them also admit that it was evil for the holy fathers to have written so many and almost innumerable books. Why did Origen produce six thousand, why Augustine a thousand, why Ambrose two hundred, why Jerome three hundred books, when a few are sufficient for the formation of a good life? Or perhaps it is permitted to write many, but not to have them? For what purpose, then, are they written, if it is not permitted to have them? If it is evil to buy many books, why did the holy fathers once act with such diligence in collecting and writing them?
+
+You are so foolish that, asserting good to be evil and evil to be good, while you bark without distinction against lovers of books, you do not fear even to speak against the most holy fathers; and while you rebuke their imitators, you accuse those fathers as if they had gone before in a bad way. If it is evil to imitate them, how will it be good to have gone before? But because you cannot justly rebuke the zeal of the saints, if you are wise, cease to tear at their imitators. For if it was good for those men, it will not be evil for these.
+
+Look, you gather gold and silver, you join field to field, and you do not judge it evil. But you say: To collect money for the present necessity of the brothers belongs to prudence, and to store it up for the future belongs to just reason. But to buy so many innumerable books belongs not to providence but to curiosity. O emperor of greed, O prince of avarice: what honest thing does your sloth not attack? What does your blind greed not gnaw away?
+
+[segment 15]
+--- Page 035 ---
+
+So that you may disparage lovers of sacred learning, you commend avarice. Out of the abundance of your heart your mouth speaks, and your own speech bears witness that you are an adversary of wisdom. It is not prudence, as you pretend, but avarice; not the brothers’ necessity, but desire for gold. You have hated discipline and cast the words of the Lord behind you, and you boast as if in remarkable justice. But let these things pass; at another time they will come forth in public.
+
+All books of the good arts are good, especially those that conduce to the understanding of sacred Scripture. Therefore it is not evil to possess good books, unless a prohibition makes it unlawful. But no precept is found that forbids a multitude of books. Why, then, do you taunt us over an abundance of books? Why do you condemn a holy and necessary study in the Church? It is good to dare to say firmly that many good codices should be kept in a monastery, by which the study of the brothers may be advanced, even if they are not able to read them all. Nor should the volumes of secular authorities be rejected from monks’ libraries; without knowledge of them, I do not think anyone can perfectly understand the divine books.
+
+For if we examine the libraries of the ancient fathers of our order, such as Bede in England, Rabanus in Fulda, Haymo in Hirsau, Peter in Vivarium, Notker at Saint Gall, Guimund at Saint-Leufroy, Sigebert in Gembloux, Heriger also at Lobbes, and of other most learned and venerable fathers who shone in the Church of God by knowledge and holiness, we shall find an abundance of books in every faculty, in every science, in every doctrine. This we can also easily recognize from their little works, since they show that they were skilled in all literature, both divine and human. It is honorable and useful for monks to imitate their examples.
+
+Yet there is nothing in this life so pious, so salutary, so holy that an evil will cannot abuse it. So too it may happen with a multitude of books, if the cause is not love of God and of the Scriptures, but curiosity or pride. Therefore let the man who devotes himself to collecting volumes take care not to set his appetite on vanity. Let him strive to direct his intention to its proper end, if he does not wish to stray from the good.
+
+--- Page 036 ---
+
+*On the Care and Cleanliness to Be Maintained for Books.*
+
+*Chapter 15.*
+
+Since an abundance of writings is the greatest treasure of the Church, the man who neglects to guard holy books diligently does injury to the Church. For books are the weapons by which she arms herself against heretics; whoever allows them either to be dispersed or to perish is proved to love the Church too little. For if he loved her as he ought, he would in no way permit her to be stripped of her weapons.
+
+Therefore we exhort lovers of books all the more attentively to guard the library carefully, or to entrust it to such librarians as will allow nothing to be stolen from it. From libraries the discipline of monks is easily known, and what they study can quickly be observed from their books. If I come to your house, there is no need for me to ask you what you study: your volumes will bear witness concerning your actions. Your codices are honored. If you neglect them, they will neglect you; if you despise them, they will despise you. Finally, “Those who despise me,” says the Wisdom of God, which is recognized in books, “will be without honor.”
+
+If your volumes lie torn on benches, if they are covered with dust, if they are stained within, if they are disordered without, they will proclaim you ignorant and false, even if you are regarded as a doctor. How will you be able to love learning if you despise and neglect your books, your instructors? Just as wisdom loves and inhabits a dwelling-place of a pure heart, so the lover of wisdom loves the cleanliness and ornament of books. For the man who damages someone’s house plainly shows that he does not revere the inhabitant. And the man who handles the books of divine or human writings negligently and filthily proves that he does not love the knowledge contained in them.
+
+Therefore let our philobiblos devote the greatest care to the preservation and adornment of books. Let him arrange the books at the desk according to subjects or rank, so that studious brothers may more quickly find what they seek. Let him think that no subject is to be cast out from his library, except the doctrines of heretics, because no one
+
+[segment 16]
+--- Page 037 ---
+
+no book is so slight that it cannot serve some use. Let the library be under safe custody, and let it not lie open indiscriminately to everyone, but only to those whom love and zeal for the Scriptures commend. We have known many losses inflicted on libraries because they lay open to all without discretion. Nor should books easily be sent out from their places except under pledge and certain trust. Let inventories be kept of all the books of the library, so that nothing can be carried off or lost. Moreover, let our zealot for useful disciplines from time to time inspect the books he loves, and examine most carefully whether they are in proper condition. Finally, let him not be sparing and grudging in sharing volumes from the library with students, because a hidden treasure and concealed wisdom are proved to be as useless things. Therefore, whenever he is asked to lend volumes for copying, let him gladly accommodate students, yet under a sure precaution of his own, so that they both preserve the treasure for their monastery and make others rich without any loss to themselves.
+
+But whoever receives books under pledge for copying should take diligent care not to soil or tear them, but, according to the saying, should do to others what he wants done to himself, and not be ungrateful to kindness. Let the brothers also who, according to the Rule, receive books from the library for their studies take care not to stain or destroy them, but, reading with devotion and purity, let them keep them unstained. But if anyone treats codices negligently and foully, let him be punished as a sacrilegious man and a squanderer of the monastery’s goods, so that his correction may serve as an example to the rest.
+
+But why should we linger over the custody of books with many words? Those who love them without doubt cherish and preserve them, even while we are silent; what is urged in vain upon the unskilled, whom we cannot persuade. For fools despise the studies of the learned, and they do not love volumes unless they conform to their own vanities. Therefore, leaving all these matters aside, let us proceed to the exhortation of our own men, who both love and read books.
+
+--- Page 038 ---
+
+Exhortation to the Study and Love of the Scriptures.
+
+Chapter xvi.
+
+Now then, dearest brothers, receive our exhortation with goodwill, and prepare yourselves diligently to write books of sacred doctrine. For from what we have set forth in praise of scribes, you perceive what you ought to think about such an office. Therefore do not neglect so great a good; do not cease from the practice of writing. For writing is what in a certain way makes you immortal, and makes you survive even after death. Let individuals do what they will; let them glory in offices: they quickly come to a time when they seem as if they had never existed. But your memory, from the books that you write, will pass on with glory to posterity.
+
+Nor do we say that you ought to write with this intention, since that can happen apart from intention. Far from a holy work be such foolish greed, that one should desire empty fame as the reward for labor. But if you wish to impress your names on codices written by you, it must be done with this intention: that you aim to summon posterity either to intercession or to imitation. For with such a purpose you can safely and lawfully subscribe the titles of your names to your codices.
+
+It is also not wrongly believed, O venerable scribes, that accidental merit will come to your aid after death when you write useful things with good intention, whenever someone is summoned to repentance by your writing. You poor men have nothing from which you can give alms, nor do you possess anything by which you can establish a testament for your memory. Hear, therefore, my counsel, so that you do not depart from this life without a notable testament. Write with diligence the books and little works of the holy fathers, and you will have made a glorious testament. For if an alms of bread and water, though small,
+
+[segment 17]
+--- Page 039 ---
+
+extinguishes sin so effectively, what will so great a piety of writers not be able to do? If he who here feeds the poor, who are liable to death, will be richly rewarded before God, with how great a reward must you be endowed, who feed immortal souls? For spiritual gifts are rightly preferred to carnal ones. May those hands live, and may they rest happily, which by their labors have written out for us so many volumes of the holy fathers. Blessed are the venerable labors of the writer, by which mother Church of the faithful is so magnificently sustained. May their memory be before the Most High, and may the names of the writers remain written without end in the book of life. May the Lord render to them the inestimable reward of their labors, and may they never be separated from his sight. May they drink there from the fountains of the Savior, who by their services have offered us the drink of salvation. May they live, may they live, and may they live happily forever, who have handed down to us such timely counsels for living well.
+
+Make also for yourselves testaments of this sort of holiness, which will never perish through any oblivion. Write books now while you live, and after death you will gather abundant fruit. Let no labor frighten you away from writing; let no pleasure hinder you. It will conduce more to your salvation to write, renewing the volumes of the saints, than to enrich the poor with perishable riches. And that is for you not so much difficult as impossible.
+
+Let worldly men pursue their own studies; let dissolute monks be idle; let foolish abbots take delight in horses; let some wanderers sport with the birds of the sky, others run about with hunting dogs. But you, meditating on the law of the Lord, devote yourselves to holy letters, and by your labors provide for the Church in time to come. Though very many thirst without measure for gold, though they join field to field, though they build houses doomed to fall high into the air, know that the fame of your name stands in higher things, since it is not expedient for you to think similar thoughts about the world. You are higher than the world; do not shamefully subject yourselves to what is lower. Contemn boldly what you cannot love without fault. Write the books of the saints, and examine them to be read with devotion, because nothing profits you so much for contempt of the world as applying yourselves with love to the Scriptures.
+
+--- Page 040 ---
+
+For this most sacred knowledge is a lamp to our feet, lest we stumble on this road full of darkness along which we walk; it is the companion of our journey, lest we go astray. It is set before the minds of the faithful as a mirror, so that the inner face may be seen clearly. For just as we behold the spots on our faces in a material mirror, so in sacred Scripture we see the negligences of our actions. For it reproves us when we go astray, pricks us when we are sluggish, rouses us when we are negligent, and instructs us when we are ignorant.
+
+Holy Scripture is known to confer on us a great and incredible good, if it is read attentively with humble devotion. For it illumines our understanding for learning, draws the mind away from the vanities of the world, and reforms it in the love of God. Often, indeed, when we are drawn away by familiarity with it, we are separated from worldly desires to such a degree that we seem to ourselves not to be in the world. And the longer we remain in love for it, the less we think about the changeableness of the age. For true joy, which receives its strength from the truth alone, which is God, contemns both the pleasant and the bitter things of this world as dung. For the too-intently considered happiness of this world harms the servants of God.
+
+No greater or more wholesome joy is acquired in this life than when a mind conscious of good within itself is occupied with love in sacred letters. It gladdens the human mind with inestimable joy, and while it is examined with piety by its lover, the eye of the heart is sweetly lulled to rest in contemplation of heavenly things. Nothing separates a monk from love of this world so much as devoting his mind at all times with desire to sacred readings. For most holy blessings are contained in the divine Scriptures, and when we run through them in attentive reading, we very sweetly perceive the power of divine love. I have not experienced any fire of the love of God so strong as the loving knowledge of the holy Scriptures. Love it, and it will exalt you before God and human beings, and together with it you will possess all goods. For whoever truly holds it possesses everything. For it is the teacher of God’s discipline, and has knowledge of him as a friend. Now therefore, brothers, hear me, and this mother of beautiful love
+
+[segment 18]
+--- Page 041 ---
+
+cultivate her with all devotion, so that through her ministry you may deserve to be led to the throne of glory of the great God. For in the court of the heavenly emperor this mother is very well known, as a queen. Let us look, brothers, at the most reverend monks of our order, who once burned with a great desire for the sacred Scriptures, and let us imitate, as much as we can, their holy studies, so that we too may deserve to come to the glory that, by the Lord's granting, they attained through learning and holiness. Let no one say, in excuse of himself, “I cannot make progress without a teacher,” since you can always find teachers set before you. Cleanse the barn of your heart, and God will cause the wheat of the Scriptures to be brought in. For the Holy Spirit of discipline will flee deceit and will not dwell in a body subject to sins. Therefore the house of the conscience must be cleansed, so that it may become a worthy dwelling-place of the Scriptures, because the monk who wishes to learn the sacred Scriptures profitably must begin from the correction of his morals. Nor is it necessary for you to leave the monastery for the sake of study, because you can find at home that by which you may make progress.
+
+For we know that many most learned monks once shone in our order, whom we know to have studied only in monasteries. Bede, priest and monk, most skilled in every respect, was entrusted to a monastery at the age of seven; there he drank in whatever he learned of the Scriptures. Among the rest, his most learned disciples were Alcuin, later the teacher of Charlemagne; Claudius; and John Scotus, monks excellent in every kind of learning, both divine and secular, instructed in Greek and Latin speech. Many distinguished little works of theirs survive. Rabanus, abbot and archbishop of Mainz, was entrusted to the monastery of Fulda while still almost a boy; his volumes testify how much progress he made in every branch of knowledge. Yet his abbot of Fulda sent him, for the sake of study, into Francia to the abbot Alcuin, whom we have already mentioned, under whose instruction he remained for many years in the monastery. Strabo, monk of Fulda, is said to have been the disciple and scribe of Rabanus, this abbot; given to the monastery as a young man, he shone forth as an eminent doctor. So too Haymo, so Notker, so Hermann the Lame, so also almost innumerable other
+
+--- Page 042 ---
+
+monks were regarded as excellent doctors; living humbly under the Rule of Saint Benedict, they had monasteries as their schools. Nor do we say that they lacked teachers, since they were regarded as the teachers of others. They certainly had teachers, but monks and companions in the regular life, who instructed them no less by life than by learning. Perhaps we too would find teachers, if we were willing to be disciples. For unless humility and love of the Scriptures agree with one another, the studies of monks neither serve the order nor make progress.
+
+For love of the Scriptures without humility destroys the discipline of the regular life; humility without love does not reach knowledge of those same Scriptures. Therefore whoever desires to become learned in the monastery should preserve these two things inviolate. Let us imitate the holy fathers who devoted themselves to the divine Scriptures with humble love; and what divine grace granted to them it will not deny to us who pray and read diligently. For the more constant anyone is in reading, the richer the fruit he takes from it.
+
+But the fruit that we seek in the sacred Scriptures is the love of God and neighbor, and the recognition of our most loving Savior.
+
+The desired end is happily placed upon this most elegant little work by Friedberg, printer of Mainz, in the year of the Virgin Birth 1493.
+
+Of the monastery of Chypre.
+
+[segment 19]
+--- Page 043 ---
+Royal Library of Munich
+
+--- Page 044 ---
+[blank page]
+
+--- Page 045 ---
+A
+
+--- Page 046 ---
+0 5 10 20 30 40 50 mm
+2 1
+3 2
+4 3
+5 4
+6 5
+30° BSB Bavarian State Library
+© 2007 digitalfoto-trainer.de
+60 mm

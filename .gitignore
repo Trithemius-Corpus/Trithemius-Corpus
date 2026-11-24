@@ -1,4 +1,7 @@
 # Build / OS
+**/.*-build.lock
+**/.edition-build-*/
+**/.*-previous/
 *.pyc
 __pycache__/
 .DS_Store
@@ -13,10 +16,8 @@ Thumbs.db
 # (Public domain originals are available from the institutions listed in the manifest.)
 *.pdf
 
-# site/dist/ is intentionally NOT ignored: it is the published GitHub Pages
-# artifact and CANNOT be rebuilt in CI — scripts/build_site.py needs the
-# working corpus (Latin source + translations) which is deliberately not in
-# this repo. Build locally with build_site.py and commit site/dist/.
+# site/dist/ contains the checked-in Pages publication. Public source records
+# rebuild both reading tracks, the specialized apparatus and their indexes.
 site/public/
 site/resources/
 docs/_site/
@@ -46,7 +47,9 @@ ocr-pages/
 # build_site.py copy_static) IS committed, because GitHub Pages deploys
 # site/dist/ verbatim and CI cannot rebuild it. The landing-hero
 # site/static/images/clavis-source-page.webp stays tracked (not matched here).
-site/static/images/prdl-*/
+site/static/images/prdl-*/*
+# Ship the institution's credit alongside the distributed Trier scans.
+!site/static/images/prdl-70291_dilibri_veterum-sophorum-sigilla-et-imagines-magicae/RIGHTS.txt
 
 # Local notes
 SCRATCH.md

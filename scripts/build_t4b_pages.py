@@ -25,6 +25,7 @@ import build_site as bs  # noqa: E402
 import t4b_cleaners_cipher
 import t4b_cleaners_devotional
 import t4b_cleaners_prose
+from edition_corrections import history
 
 
 def continuous_t4b_text(work_id: str, text: str) -> str | None:
@@ -281,6 +282,10 @@ def build_t4b_work_page(env, work: dict) -> str:
     work_dir = T4B_ROOT / work_id
 
     english_html = t4b_english_html(work_id)
+    # Content-derived fragments from a cited edition stay valid after correction.
+    revised = {change["passage"]: change["rendered_anchor_after"]
+               for batch in history(ROOT, work_id) for change in batch["changes"]
+               if change["track"] == "t4b" and change.get("rendered_anchor_after")}
     # T4B uses the same numbered source segments as the published witness, so
     # its existing chapter map can drive the floating chapter navigator too.
     chapters = t4b_chapters(work_id)
@@ -290,49 +295,45 @@ def build_t4b_work_page(env, work: dict) -> str:
     intro_html = None
     intro_path = work_dir / "intro.md"
     if intro_path.exists():
-        intro_html = bs.render_markdown_file(intro_path)
+        intro_html = bs.render_headnote(intro_path)
 
     # Build a work dict compatible with work.html.j2 expectations
     display_work = dict(work)
+    bs.attach_translation_survey(display_work)
     display_work["genre"] = work.get("genre_cluster", "")
     display_work["genre_label"] = work.get("genre_cluster", "").replace("-", " ").title()
     display_work["fluent_adj"] = work.get("faithful_adj", 0)  # T4B doesn't have separate fluent grade
     display_work["is_primary"] = True
     bs.attach_public_status(display_work, edition_track="trithemius-4b")
-    if any(work_id.startswith(prefix) for prefix in (
-        "prdl-24389_", "prdl-24391_", "prdl-24395_",
-        "prdl-70282_", "prdl-70291_", "prdl-70292_",
-    )):
-        display_work["editorial_state"] = "Structured diplomatic view"
-
     desc = f"Provisional machine-produced Trithemius 4B English reading text of {work.get('title_en') or work.get('title', work_id)} ({work.get('year', '')}), produced from a corpus-trained Qwen3-VL OCR witness and GPT-5.5 dual-context translation."
 
     return env.get_template("work.html.j2").render(
         work=display_work,
         intro=intro_html,
         english=english_html or None,
+        published_ids={current: original for original, current in revised.items()},
         has_parallel=False,
         style_c=None,
         chapters=chapters,
         chapter_anchor="seg",
         related=[],
-        citation=bs.citation_text(display_work) if hasattr(bs, "citation_text") else "",
+        citation=bs.citation_text(display_work),
         work_id=work_id,
         work_title=work.get("title_en") or work.get("title") or work_id,
         reading_body_has_title=True,
         reading_time=None,
         passage_count=0,
         has_tei=False,
-        has_errata=False,
-        errata_html=None,
+        has_errata=(work_dir / 'ERRATA.md').exists(),
+        errata_html=bs._errata_markup(work_dir / 'ERRATA.md') if (work_dir / 'ERRATA.md').exists() else None,
         prev_work=None,
         next_work=None,
-        all_work_ids=[w["id"] for w in load_t4b_works()],
+        all_work_ids=[w["id"] + "-trithemius-4b" for w in load_t4b_works()],
         solve=None,
         work_cover=None,
         url=bs.make_url(1),
         asset=bs.make_asset(1),
-        **bs.page_meta(f"works/{work_id}-trithemius-4b.html", desc, nav="works"),
+        **bs.page_meta(bs.reading_path(display_work), desc, nav="works", jsonld=bs.work_jsonld(display_work)),
     )
 
 
@@ -388,7 +389,7 @@ record, including the works that were tried and did not ship from this lane.</p>
     )
 
 
-def main() -> int:
+def render_pages() -> int:
     env = bs.make_env()
     works = load_t4b_works()
     if not works:
@@ -422,23 +423,28 @@ def link_t4b_into_main_pages(t4b_works: list[dict]) -> None:
     linked = 0
     for tw in t4b_works:
         work_id = tw["id"]
-        main_page = works_out / f"{work_id}.html"
+        main_page = works_out / f"{tw.get('standard_witness', work_id)}.html"
         if not main_page.exists():
             continue
         html = main_page.read_text(encoding="utf-8")
-        # Inject the T4B badge right after the parallel-viewer badge if present,
-        # otherwise after the tier badge block. Use the T4B tier for the label.
-        t4b_tier = tw.get("tier", "A")
+        # Describe the edition's preparation; machine grades remain in the
+        # provenance records and do not determine a reading recommendation.
         t4b_url = f"{work_id}-trithemius-4b.html"
         t4b_badge = (
             f'<a class="badge badge-t4b" href="{t4b_url}" '
-            f'title="Recommended English edition: Qwen3-VL-4B Trithemius LoRA OCR + GPT-5.5, graded {t4b_tier} by Sonnet">'
-            f'&#9733;&nbsp;Recommended:&nbsp;Trithemius&nbsp;4B&nbsp;edition&nbsp;({t4b_tier})</a>'
+            'title="Alternate machine translation with a prepared reading view; see its editorial status and limitations">'
+            'Trithemius&nbsp;4B&nbsp;edition &mdash; prepared view</a>'
         )
         # Inject the T4B badge right before the closing </div> of the badges block.
         # The badges block ends with "viewer</a>  </div>" — insert before that </div>.
         marker = "&nbsp;viewer</a>  </div>"
-        if marker in html and "badge-t4b" not in html:
+        if "badge-t4b" in html:
+            # A standalone rerun must replace legacy grade-based links too.
+            html = re.sub(r'<a\b[^>]*class="badge badge-t4b"[^>]*>.*?</a>',
+                          lambda _: t4b_badge, html, flags=re.S)
+            main_page.write_text(html, encoding="utf-8")
+            linked += 1
+        elif marker in html:
             html = html.replace(marker, "&nbsp;viewer</a>" + t4b_badge + "  </div>", 1)
             main_page.write_text(html, encoding="utf-8")
             linked += 1
@@ -450,6 +456,13 @@ def link_t4b_into_main_pages(t4b_works: list[dict]) -> None:
                 main_page.write_text(html, encoding="utf-8")
                 linked += 1
     print(f"  Linked T4B editions from {linked} main work pages")
+
+
+def main() -> int:
+    with bs.staged_site():
+        if render_pages():
+            raise ValueError("T4B edition sources are missing")
+    return 0
 
 
 if __name__ == "__main__":
